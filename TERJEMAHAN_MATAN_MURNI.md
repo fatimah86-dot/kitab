@@ -30,11 +30,6 @@ Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.
 
 Segala puji bagi Allah yang telah menciptakan manusia dari saripati tanah, kemudian menjadikannya setetes mani di dalam tempat yang kokoh, kemudian menciptakan mani itu menjadi segumpal darah, lalu menciptakan segumpal darah itu menjadi segumpal daging, lalu menjadikan daging itu tulang-belulang, kemudian membungkus tulang itu dengan daging, lalu menjadikannya makhluk yang baru. Mahasuci Allah, sebaik-baik Pencipta. Dengan taufik-Nya Dia memberi petunjuk siapa yang Dia kehendaki menuju taman-taman kenikmatan (surga), dan Dia membiarkan sesat siapa yang Dia kehendaki menuju Jahim (neraka) dan menempatkannya di dalam air yang mendidih. Aku bersaksi bahwa tiada tuhan selain Allah semata, tiada sekutu bagi-Nya, Raja Yang Hak lagi Maha Nyata; dan aku bersaksi bahwa junjungan kita Muhammad adalah hamba-Nya dan utusan-Nya, nabi yang terpercaya (semoga shalawat tercurah kepadanya) … pada hari kebangkitan … aku menelaah ciptaan Allah … firman Allah Yang Mahasuci dan Mahatinggi: "*Demi Dia yang menjadikan di langit bintang-bintang (buruj)…*" (QS. al-Furqan: 61). Aku telah memohon pilihan (istikharah) kepada Allah Ta'ala untuk menjelaskan watak (tabi'ah) manusia berdasarkan bintang-bintang (buruj) ini, dan aku berkomitmen menyusun setiap buruj atas tiga wajah (wajh — pembagian sepertiga buruj dalam astrologi) dan dua belas rumah (bait — kedudukan peredaran), lalu melengkapinya dengan bentuk-bentuk ramliyah (geomansi/ilmu raml) yang menjadi haknya. Aku jadikan pendahuluan kitab ini memuat beberapa hal dari ilmu hitung (hisab), dan penutupnya memuat hujah-hujah yang diperlukan oleh kitab ini. Maka aku mulai menulis, dan kepada Allah semata aku memohon penerimaan yang baik.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -54,9 +49,6 @@ Segala puji bagi Allah yang telah menciptakan manusia dari saripati tanah, kemud
 (Bab: mengetahui apa yang terjadi pada tahun-tahun berdasarkan tujuh hari)
 
 Bila awal tahun jatuh pada hari Ahad (Minggu), maka Matahari yang menguasai tahun itu. Ini menjadi pertanda munculnya kekuatan raja dan para penguasa, serta saling bersambutnya sebab-akibat; air Nil naik secara pertengahan menurut tabiatnya dan menetap di permukaan bumi; tanaman tumbuh baik dan gandum melimpah di awal tahun; minuman perasan (anggur) mahal di akhir bulan Tubah (bulan Qibti/penanggalan Mesir kuno); wanita dan wol mahal hingga bulan Baramuda; sebagian manusia berpindah dari satu negeri ke negeri lain dengan penuh kesusahan; timbul penyakit yang bersifat panas dan terjadi kematian di daerah-daerah pedalaman; buah kurma melimpah; tanaman menjadi berberkah; dan kekuasaan raja mendapat pertolongan serta dukungan. Wallahu a'lam. Bila awal tahun jatuh pada hari Senin, maka Bulan yang menguasainya; ini menjadi pertanda baiknya para penguasa, turunnya hujan dan rahmat, baiknya kenaikan air Nil dan tanaman, serta suburnya gandum pada "milad" (awal kelahiran) tahun itu; minyak dan […] mahal di akhir tahun; terjadi perdebatan di antara sebagian penguasa yang ujungnya berupa susu; susu menjadi banyak; dan terjadi beberapa penyakit di akhir tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
 
 ---
 
@@ -81,11 +73,6 @@ Bila awal tahun jatuh pada hari Kamis, maka Yupiter (al-Musytari) yang menguasai
 Bila awal tahun jatuh pada hari Jumat, maka Venus (az-Zuhrah) yang menguasainya. Ini menjadi pertanda lapangnya dada, saling kasihnya manusia terutama penduduk kota-kota besar, dikuatkannya para raja, pertengahan air Nil, dan tanaman ladang pada biji-bijian; serta meluapnya orang-orang yang tenggelam dalam hiburan, dari kalangan wanita maupun pria. Awal tahun itu kelapangan, pertengahannya terjadi wabah bagi manusia, dan akhirnya kemahalan; boleh jadi menyusul kebinasaan yang menyebabkan bahan pangan murah; kebaikan-kebaikan banyak; dan orang yang ditaufikkan dimudahkan untuk taat. Terjadi di dalamnya beberapa peristiwa yang kemudian diikuti ketenangan dan wabah, karena adanya kesesuaian permusuhan Saturnus (Zuhal) terhadap Venus, dan permusuhan Venus terhadap Saturnus di rumah kemuliaannya (bait syaraf). Wallahu a'lam.
 
 Bila awal tahun jatuh pada hari Sabtu, maka Saturnus (Zuhal) yang menguasainya. Ini menjadi pertanda diangkatnya para budak untuk memimpin Romawi; banyaknya wabah dan kesialan; binasanya para sesepuh dan orang-orang saleh; terhentinya sebab-sebab rezeki; dan meninggalnya sebagian raja…
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada  بيت شرفه والله تعالى أعلم. وان كان أولها يوم السبت فزحل يملكها، فهذا يدل على تولية العبيد للروم كثرة الوباء والشؤم وفناء المشايخ والصالحين ويقع فيها توقف الأسباب ويموت فيها بعض ملوك.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -127,9 +114,6 @@ Bila awal tahun jatuh pada hari Sabtu, maka Saturnus (Zuhal) yang menguasainya. 
 
 (Hari Ahad) Jam ke-1 untuk Matahari, jam baik (sayyidah) — dikerjakan padanya amal-amal kebaikan. Jam ke-2 untuk Venus, jam baik — dikerjakan padanya untuk hajat/permintaan. Jam ke-3 untuk Merkurius, jam terlarang (mumtani'ah). Jam ke-4 untuk Bulan, jam baik — tidak dikerjakan padanya amal-amal…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 ## HALAMAN CETAK 6 (Halaman PDF 3, sisi kanan)
@@ -153,9 +137,6 @@ Bila awal tahun jatuh pada hari Sabtu, maka Saturnus (Zuhal) yang menguasainya. 
 (Hari Kamis) Jam 1 Yupiter (baik), jam 2 Mars (buruk), jam 3 Matahari (baik), jam 4 Venus (baik), jam 5 Merkurius (terlarang), jam 6 Bulan (baik), jam 7 Saturnus (buruk), jam 8 Yupiter (baik), jam 9 Mars (buruk), jam 10 Matahari (baik), jam 11 Venus (baik), jam 12 Merkurius (terlarang).
 
 (Hari Jumat) Jam 1 Venus (baik), jam 2 Merkurius (terlarang), jam…
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
 
 ---
 
@@ -189,9 +170,6 @@ Bila awal tahun jatuh pada hari Sabtu, maka Saturnus (Zuhal) yang menguasainya. 
 
 (Malam Rabu) Jam 1 Saturnus (buruk), jam 2 Yupiter (baik), jam 3 Mars (buruk), jam 4 Matahari (baik), jam…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 ## HALAMAN CETAK 8 (Halaman PDF 4, sisi kanan)
@@ -223,9 +201,6 @@ Bila awal tahun jatuh pada hari Sabtu, maka Saturnus (Zuhal) yang menguasainya. 
 (Bab: perhitungan "yang melebur" dan "yang dikalahkan" — mengetahui pihak yang menang dan yang kalah)
 
 Bila engkau ingin mengetahui hal itu, hitunglah nama masing-masing dari keduanya secara terpisah lalu gugurkanlah dari 99. Perlu diperhatikan: pada pengguguran, huruf alif dihitung sebagai kedua dari nama-nama seperti Ibrahim dan Isma'il, dan engkau menggugurkannya dari nama-nama sepertil-Hasan dan al-Husain, sehingga nama itu menjadi "kedua" secara awal tanpa tambahan maupun kekurangan. Bila seseorang punya dua nama, hitunglah nama yang masyhur dia pakai di kalangan orang banyak. Ketahuilah, seandainya engkau menghitung nama setiap pihak yang menang dan yang kalah dari anak-anak Adam dan putri-putri Hawa dari awal dunia sampai hari kiamat, niscaya engkau mendapati yang menang tetap menang dan yang kalah tetap kalah. Aku peringatkan engkau agar berhati-hati dalam memastikan (qath'i) dalam perhitungan jumal (nilai huruf abjad), dan di antaranya ialah apa yang disebut Allah Ta'ala tentang kisah Dawud dan Jalut: sisa perhitungan Dawud adalah 6 dan Jalut 15; bila engkau memperhatikannya, jelas bahwa yang enam mengalahkan yang kedua (belas/…); demikian pula nama Musa dan Fir'aun, sisa Musa 8 dan Fir'aun […], dan engkau mendapati yang kedua mengalahkan yang satu, dan 7 yang satu mengalahkan…
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
 
 ---
 
@@ -274,16 +249,6 @@ Engkau ambil jumlah (nilai huruf) namamu bersama nama orang yang engkau kehendak
 (Bab: perhitungan orang sakit dan dari apa sakitnya)
 
 Bila engkau menginginkan hal itu, hitunglah namanya dan nama hari yang engkau tanyakan padanya, lalu gugurkanlah 77 setelah engkau menambahkan padanya angka dua belas. Bila tersisa satu: dari jin; dua: dari angin (udara); tiga: dari laut; empat: dari 'ain (pandangan mata); lima: dari darah; enam: dari empedu kuning (shafra'); dan tujuh: dari empedu hitam (sauda'). Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada  بيت البنين، وان بقى ستة أوله طيب وآخره هم وغم، وان بقى سبعة فهو بيت الفراش وسعد السعودان مع طالعه اغنى الطالب والا كان رفت لك ورقت عليك، وان بقى ثمانية فهو بيت الانكيس، وان بقى تسعة فهو رحيل ونزاع وفراق، وقد نظم ذلك بعضهم فقال:
-
-ان كان ا خ ب أو هن فهي خير * وان كان ط فهى نمى تعملا
-وان أد فهي جمع وفرقة * وان كان ح فهو هم وما انجلا
-
-( فصل فى حساب المريض ومن أى شىء مرضه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -343,9 +308,6 @@ Berkata sang bijak Abu Ma'syar: orang yang lahir pada waktu pagi akan sukses dal
 
 Bila engkau menginginkan hal itu, hitunglah namanya dan nama ibunya dengan jumal besar, gugurkanlah jumlah yang terkumpul 12-12 (dua belas-dua belas), dan sisanya bagilah atas dua belas buruj. Tempat berakhirnya angka sisa pada suatu buruj, itulah buruj manusia tersebut, dan dari sanalah diketahui keadaan dan wataknya. Bila tersisa satu: burujnya Aries (al-Haml), thali'-nya Mars, wataknya api; bila tersisa dua: burujnya Taurus (ats-Tsaur), thali'-nya Venus, wataknya tanah; bila tersisa tiga: burujnya Gemini (al-Jauza'), thali'-nya Merkurius, wataknya udara; bila tersisa empat: burujnya Cancer (as-Sarathan), thali'-nya Bulan, wataknya air; dan bila tersisa lima: burujnya…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 ## HALAMAN CETAK 11 (Halaman PDF 5, sisi kiri)
@@ -368,7 +330,7 @@ Bila engkau menginginkan hal itu, hitunglah namanya dan nama ibunya dengan jumal
 
 **[Terjemahan Indonesia]**
 
-(…Leo (al-Asad), thali'-nya Matahari, wataknya api; bila tersisa enam: burujnya Virgo (as-Sunbulah), thali'-nya Merkurius, wataknya tanah; bila tersisa tujuh: burujnya Libra (al-Mizan), thali'-nya Venus, wataknya udara; bila tersisa delapan: burujnya Scorpio (al-'Aqrab), thali'-nya Mars, wataknya air; bila tersisa sembilan: burujnya Sagittarius (al-Qaus), thali'-nya Yupiter, wataknya api; bila tersisa sepuluh: burujnya Capricorn (al-Jady), thali'-nya Saturnus, wataknya udara; dan bila tersisa dua belas: burujnya Pisces (al-Hut), thali'-nya Yupiter, wataknya air. Wallahu a'lam.
+…Leo (al-Asad), thali'-nya Matahari, wataknya api; bila tersisa enam: burujnya Virgo (as-Sunbulah), thali'-nya Merkurius, wataknya tanah; bila tersisa tujuh: burujnya Libra (al-Mizan), thali'-nya Venus, wataknya udara; bila tersisa delapan: burujnya Scorpio (al-'Aqrab), thali'-nya Mars, wataknya air; bila tersisa sembilan: burujnya Sagittarius (al-Qaus), thali'-nya Yupiter, wataknya api; bila tersisa sepuluh: burujnya Capricorn (al-Jady), thali'-nya Saturnus, wataknya udara; dan bila tersisa dua belas: burujnya Pisces (al-Hut), thali'-nya Yupiter, wataknya air. Wallahu a'lam.
 
 (Cara halus dalam perhitungan orang sakit: apakah ia akan hidup atau tidak)
 
@@ -414,19 +376,15 @@ Ia berpenampilan yang tampak dari besarnya cita-cita, * keistimewaan-keistimewaa
 
 Berkata Abu Ma'syar: orang yang dilahirkan di bawah buruj ini menjadi laki-laki berkulit kemerahan, bertubuh jangkung…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 > **STATUS BATCH 1: SELESAI** (halaman cetak 3–11 / halaman PDF 1–5).
 > Batch berikutnya (halaman PDF 6–10 dan seterusnya) akan dikerjakan pada lanjutan berikutnya sesuai aturan "per 5 halaman". Rajah/wafaq yang ditemukan pada batch ini telah di-crop presisi (hanya kotaknya, tanpa teks sekeliling), latar dibersihkan menjadi putih, resolusi 300 DPI, tersimpan di folder `rajah/`.
 
+
 ---
 
 # BATCH 2 — HALAMAN PDF 6–10 (HALAMAN CETAK 12–21)
-
----
 
 ---
 
@@ -445,10 +403,6 @@ Berkata Abu Ma'syar: orang yang dilahirkan di bawah buruj ini menjadi laki-laki 
 (Wajah pertama) Bila yang memandangnya (mengaspeknya) adalah Saturnus (Zuhal), sang bijak berkata: ia menjadi […] dan berada dalam keadaan sabar menghadapi musibah dan kesusahan; ia mencintai manusia dan menyukai tempat tawa dan keceriaan; ia tidak beruntung dalam pergaulan dengan orang banyak; orang asing lebih baik baginya daripada kerabat; ia berbudi besar, banyak kebaikannya, mencintai wanita, berakal, cerdas, utama […], baik terhadap orang selain keluarganya. Manusia terhadapnya bergolongan-golongan: ada yang mencintainya dan ada yang membencinya, sedangkan ia sendiri tidak bisa membedakan cinta dari benci. Datang kepadanya kesukaran dan kemudahan, kesempitan dan kelapangan, kesehatan dan penyakit; dan masa tidak kekal baginya dalam satu keadaan. Sang bijak berkata: ia patut khawatir terhadap sakit kepala dan berdebar-debar jantung, serta penyakit yang menyerangnya dari kepala sampai kaki; […] dan kelemahan kedua tangan; bila tidur ia bangun dengan lengan terkulai […]. Sebab hal itu ialah bahwa ia pernah menuang air ke tempat/ruang yang rusak, atau menyalakan api di perapian (kanun) lalu tidak menutupnya, maka "pengetuk" siang hari menutup kepalanya lalu […] menimpanya dan mengenai wajahnya, sehingga penyakit itulah yang diwariskannya. Sang bijak berkata: bila engkau menginginkan keselamatan dari apa yang disebutkan, tuliskanlah baginya hijab (azimat) al-Aqsam (sumpah-sumpah) dan "Syifa' al-Ajsam" (penyembuhan tubuh-tubuh) serta ayat syifa' (ayat penyembuhan), dan digantungkan padanya setelah dibungkusi dengan dupa kayuan — yaitu gaharu (oud) dan jawi (kemenyan) — karena hal itu menjadi imam? bagi seluruh unsur; dan ambillah untuknya serbuk akar-akaran (safuf al-ushul) yang ia pakai selama tujuh hari, niscaya ia sembuh dengan izin Allah. Wallahu a'lam.
 
 (Wajah kedua) Bila yang memandangnya adalah Yupiter (al-Musytari), sang bijak berkata: ia menikahi wanita […] dan ia patut khawatir terhadap […] pukulan lisan (caci maki), keributan kata-kata, dan cinta […] yang melelahkan […] wanita, atau dari pihak wanita yang masih kerabatnya atau sekutunya; karena wanita itu ia tertimpa kesusahan yang berat, dan perkara itu semakin berat baginya hingga terjadi perpisahan antara keduanya; dan boleh jadi wanita itu menyisakan baginya apa yang menuntut kedengkian dan kebencian serta jauh setelah dekat; pengkhianatan tampak baginya dari wanita itu, karena wanita itu adalah musuh terbesarnya, memandangnya dengan mata tipu daya dan khianat, menginginkan kehancurannya dan tidak menginginkan perjanjiannya […]; dan boleh jadi wanita itu mendustakannya? dengan perbuatan-perbuatan buruk dan membicarakan kehormatannya dengan batil padahal ia bersih…
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -469,11 +423,6 @@ Berkata Abu Ma'syar: orang yang dilahirkan di bawah buruj ini menjadi laki-laki 
 (Rumah […]) rumah kehidupannya […] Aries […] dan Mars adalah thali'-nya; maka kehidupannya baik, penghidapannya menyenangkan, urusan-urusannya memuaskan, kesudahan-kesudahannya selamat, keadaan-keadaannya lurus, dan ia tidak meninggal kecuali setelah bertobat […]. Wallahu a'lam.
 
 (Rumah al-Ahya'?/kehidupan) rumah harta dan kitab-kitabnya; burujnya […] dan thali'-nya Venus; sang bijak berkata: dituliskan dengan al-Ahlal? dan dimintakan kesembuhan dengannya sepanjang umurnya? […]. (Rumah bendera?) rumah keluarga, saudara-saudara, sahabat-sahabat, dan kegembiraan; wajahnya Gemini dan thali'-nya Merkurius; sang bijak berkata: ia dicintai di antara saudara-saudara dan sahabat-sahabatnya, dan ia melihat dari mereka apa yang menyenangkan hatinya. Wallahu a'lam. (Rumah keputihan?) rumah bapak-bapak dan kakek-kakeknya; burujnya Cancer dan thali'-nya Bulan; sang bijak berkata: ia berbakti kepada kedua orang tuanya dan dicintai keduanya. (Rumah wanita) rumah istri-istrinya, kegembiraan-kegembiraannya, dan kebahagiaannya?; ia dikaruniai anak laki-laki dan perempuan yang menyenangkan?; […] dan ia mendapat dari mereka kelelahan dan kesusahan, tetapi ia berbahagia dengan anak yang membaca Kitab Allah sehingga ia dirahmati karenanya di dunia dan akhirat. (Rumah gaibah luar/kealpaan lahir) rumah penyakit-penyakit dan kelemahannya; dari buruj-buruj ialah Virgo (as-Sunbulah) dan dari thali'-thali' ialah Merkurius; sang bijak berkata: pada sebagian masa ia diserang cacat dan penyakit, kebanyakan berupa angin berdebar dan sakit kepala; sang bijak berkata: dituliskan baginya hizb al-Andurun? […] niscaya sembuh dengan izin Allah. Wallahu a'lam. (Rumah kemerahan) rumah teman-teman dekat dan istri-istrinya…
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت […] ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -509,11 +458,6 @@ Berkata Abu Ma'syar: orang yang dilahirkan di bawah buruj ini menjadi laki-laki 
 
 (Sang bijak berkata) Pemilik buruj ini cocok, di antara wanita, dengan wanita yang thali'-nya Aries dan Mars, dan hendaknya ia berhati-hati terhadap wanita yang thali'-nya Cancer dan Bulan; dan cocok baginya, apabila melihat hilal, memandang wajah laki-laki; dan apabila hendak tidur, hendaklah ia tidur di atas lambung kanannya…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت الانكيس ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 15 (Halaman PDF 7, sisi kiri)
@@ -547,11 +491,6 @@ Berkata Abu Ma'syar: orang yang dilahirkan di bawah buruj ini menjadi laki-laki 
 ![Gambar Rajah Asli Halaman 15 - Wafaq Huruf](rajah/rajah_p15_wafaq_huruf.png)
 
 *Gambar Rajah Asli Halaman 15* — Wafaq berupa tabel 4×4 berisi huruf-huruf yang berputar: ح (ha), ف (fa), ي (ya), ط (tha), tersusun bergiliran pada tiap barisnya (baris 1: ح ف ي ط; baris 2: ف ي ط ح; baris 3: ي ط ح ف; baris 4: ط ح ف ي). **Keterangan cara baca menurut kitab:** wafaq huruf ini merupakan "khatam" (meterai) yang disebut pada teks halaman ini — bagian dari amalan/rajah bagi pemilik buruj Aries agar selamat dan dikabulkan hajatnya; huruf-hurufnya adalah sandi ruhani yang tidak dialihkan menjadi teks, dan dipakai bersama doa "al-Hishn al-Hashin" serta shalawat yang disebut sebelumnya.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت النفس ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -610,16 +549,6 @@ Sang bijak berkata: Ia adalah buruj […] berelemen tanah, bersifat dalam; ia ad
 
 *Gambar Rajah Asli Halaman 16* — Gambar talisman buruj ats-Tsaur (Taurus): sosok manusia berdiri di samping lembu/sapi (lambang Taurus). Tidak diterjemahkan; dipakai sebagai rajah asli sebagaimana adanya dalam kitab.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada  بيت سعيد يدل على فرح السائل وصلاح حاله وظفره بغض؟ […] يسعده وزيارة أفراحه وزوال همه وغمه واتشراح صدره وكثرة رزقه وينال المطلوب ويبلغ ما يسر القلب؛ واذا سألت عن غائب فانه يقدم […] أو يسافر فانه يكون صالحا؛ أو زواج فانه يكون ناجحا؛ وهذه الحركة تنجح؛ والتفسير الذى؟ […] عليه أو أتت طالعه […] وعافيته جيدة؛ ولا بد لك من ولد مبارك وترى الخير على يديه؛ والشركة مفيدة وأمورك سعيدة؛ وتنال الحج الى بيت الله الحرام والاجتماع بمن تحب وصاله؛ والمريض يشفى؛ فأبشر بما قلت فما عليك من بأس. واسمع قول الشاعر:
-
-أتلك أحيان بالسعادة أخبر * فبادر الى الامر الذى أنت مضمر
-لان لسان الحال فى الحال مخبر * اذا أردت أمرا لا تكن فيه مقصر
-
-( القول على البرج الثانى وهو برج الثور والزهرة ترابى وفيه شعر ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 17 (Halaman PDF 8, sisi kiri)
@@ -652,11 +581,6 @@ Sang bijak berkata: Ia adalah buruj […] berelemen tanah, bersifat dalam; ia ad
 
 (Rumah anak-anak dan kegembiraannya) Virgo…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت نفسه وحياته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 18 (Halaman PDF 9, sisi kanan)
@@ -681,11 +605,6 @@ Sang bijak berkata: Ia adalah buruj […] berelemen tanah, bersifat dalam; ia ad
 
 (Rumah kewibawaan dan kekuasaannya)…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضه وأعلاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 19 (Halaman PDF 9, sisi kiri)
@@ -709,11 +628,6 @@ Sang bijak berkata: Ia adalah buruj […] berelemen tanah, bersifat dalam; ia ad
 ![Gambar Rajah Asli Halaman 19 - Wafaq Khatam](rajah/rajah_p19_wafaq_khatam.png)
 
 *Gambar Rajah Asli Halaman 19* — Wafaq angka 4×4 yang merupakan "khatam" (meterai) sebagaimana disebutkan teks: angka-angka pada sel-selnya (dari kanan ke kiri, baris per baris, sebatas terbaca): baris 1: ١١ | ٦ | ٦٦(?) | ٦٦ ; baris 2: ١١ | ١٢ | ٨ | ٣٣ ; baris 3: ١٢ | ١٤ | ٢٠ | ٢(?) ; baris 4: ٩ | ٦(?) | ٢٩ | ١٩٢(?). **Keterangan cara baca menurut kitab:** angka-angka ini diukir/ditulis sebagai khatam Venus yang dipakai pada jari kelingking kanan (atau ditulis dengan misk dan za'faran bagi yang tidak mampu), diaspai dengan kundur-jawi-gaharu pada hari Jumat jam Venus, agar pemilik buruj Taurus diterima di sisi manusia dan aman dari musuh serta jin.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت اصدقائه ومودته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -760,16 +674,6 @@ Merkurius bintangnya dan garis (tulisan) kebiasaannya? * menuangkan? […] bersa
 Manis tutur, cerdas akal, beradab * pencemburu, berpengawal? ringan tangan dan banyak akal;
 Pencatat? penghitung? yang tidak difitnah oleh seorang pun * tuan tipu daya, dari makar dan helah.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada  بيت الغنى؟ والأفراح والسرور، ولما؟ من الكواكب المشترى، يدل على فرح السائل وقضاء حوائجه؟ باليسر بعد العسر؛ فأمورك موفية؟ وحاجتك منقضية وجاه؟ […] من غير أذية؛ فلا تخشى من كيد الخادمين؟ وكن لله من الشاكرين؛ وهذا يدل على بلوغ المراد والمرام والمطلوب والاجتماع بما يسر القلوب من المحبوب؛ وأن الجوانب حميدة وحركاتك سعيدة؛ ولا بد لك من الاجتماع بمن فى خاطرك وعن قريب يحضر؛ ويحصل لك خير من رجل جليل القدر؛ واذا عزمت على سفر سافر ولا تخشى من ضرر أو ضجر؟ […]؛ وان حزنت […] فان أمورك سهلة؛ فشكر؟ الله تعالى. واسمع قول الشاعر:
-
-أتلك منها رتبة راية السفوح؟ * تخبرك بالسعد وينل المراد
-فغنم وبادر نسق؟ ما تريده * وما رمته يمضى على رغم الاعادى
-
-( القول على البرج الثالث وهو برج الجوزاء وعطارد وفيه شعر ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 21 (Halaman PDF 10, sisi kiri)
@@ -806,13 +710,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 *Gambar Rajah Asli Halaman 21* — Gambar talisman buruj al-Jauza' (Gemini): dua sosok manusia mengapit sebuah benda tegak di tengah (lambang "kembar"/alat penimbang). Tidak diterjemahkan; ditampilkan apa adanya sebagai rajah asli kitab.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada  بيت الله الحرام وزيارة قبر النبى ﷺ ويتصدق على الفقراء والمساكين ويتأله؟ […] ويوجع؟ بركبتيه وصلبه ويصيبه […] علامة؟ أو شامة أو خال أسود؛ قليل الحظ من الاولاد؛ وينال ملكا؟ أو بسنا؟ […] والله أعلم.
-
-( الوجه الثانى ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 > **STATUS BATCH 2: SELESAI** (halaman cetak 12–21 / halaman PDF 6–10).
@@ -820,11 +717,10 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 > `rajah_p15_wafaq_huruf.png`, `rajah_p16_tilsam_tsaur.png`, `rajah_p19_wafaq_khatam.png`, `rajah_p21_tilsam_jauza.png`.
 > Progres keseluruhan: 10 dari 56 halaman PDF selesai (±18%). Balas "lanjut" untuk Batch 3 (halaman PDF 11–15).
 
+
 ---
 
 # BATCH 3 — HALAMAN PDF 11–15 (HALAMAN CETAK 22–31)
-
----
 
 ---
 
@@ -852,11 +748,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 (Rumah anak-anak dan kegembiraannya)…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياته ومعيشته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 23 (Halaman PDF 11, sisi kiri)
@@ -871,7 +762,7 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 **[Terjemahan Indonesia]**
 
-(…Libra dan Venus: keberuntungannya dari anak-anaknya kecil; boleh jadi kebanyakan mereka laki-laki; boleh jadi ia tertimpa musibah pada mereka dalam hal agama dan pandangan (mata); ia diberi rezeki anak melalui kebaktian?; dan kebanyakan mereka meninggal; bila anak pertamanya perempuan, maka tidak ada seorang pun dari mereka yang hidup baginya, dan ia berduka atas salah seorang anaknya. Wallahu a'lam.
+…Libra dan Venus: keberuntungannya dari anak-anaknya kecil; boleh jadi kebanyakan mereka laki-laki; boleh jadi ia tertimpa musibah pada mereka dalam hal agama dan pandangan (mata); ia diberi rezeki anak melalui kebaktian?; dan kebanyakan mereka meninggal; bila anak pertamanya perempuan, maka tidak ada seorang pun dari mereka yang hidup baginya, dan ia berduka atas salah seorang anaknya. Wallahu a'lam.
 
 (Rumah penyakit-penyakit dan cacatnya) Scorpio dan Mars: yang dominan padanya ialah panas dan lembap; maka hendaklah ia memperbanyak makan sayuran dan […]? pada musim semi, dan ia membidik urat al-Fadlal? di (lengan) kanannya pada hari Rabu jam Mars; dan bila dahak (balgham) menguat padanya, hendaklah diambil? […] zur? hawrmal? (peganum — biji syajarah?), mashadir? (mur/bdellium?), ihlilaj (kemiri/kabaraka — myrobalan), rabits? demikian pula, syuniz (jintan hitam) demikian pula, dan luban? (kemenyan) dzakar demikian pula; kemudian gula dilarutkan? secukupnya […] dalam air, disaring di atas […]? lalu diminum, kemudian ia berobat? dan memakai setelah itul-Athrifal al-Kabir (obat triphala besar), karena itu bermanfaat baginya; dan sebaik-baik yang diminum? ialah yang kuat yang berada di buruj Cancer, serta kurma: maka ia mengambil sanamaki (daun senna) dua dirham, ithlilaj (myrobalan) dua dirham, tamar hindi (asam jawa), dan sukkar? […] dirham; kemudian ia mengambil air sebanyak lima cangkir dan merebusnya seperti syawrah? hingga berkurang sepertiganya, lalu meminum sisanya pada pagi hari dengan perut kosong, dengan rebusannya tersedia sehingga ia meminum kuahnya […]. Wallahu a'lam.
 
@@ -893,11 +784,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 (Rumah kematian dan ketakutannya) Capricorn dan Saturnus: ia patut khawatir akan kematian bila thali' tahun keduanya itu, saat ia berumur tujuh tahun atau sebelas tahun sampai dua puluh lima tahun; bila ia lolos dari semua itu, ia hidup sampai delapan puluh tahun atau lebih. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضه وأعلاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 24 (Halaman PDF 12, sisi kanan)
@@ -918,11 +804,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 (Rumah musuh-musuh dan para pendengkinya) Taurus dan Venus: ia mempunyai banyak musuh dari setiap warna hitam atau merah dan dari orang-orang yang makan makanannya […]; namun ia ditolong atas mereka dan dikuatkan pada waktunya; ia patut khawatir terhadap seorang laki-laki lebar dahi, […]? yang lain, yang berusaha membinasakannya, maka hendaklah ia berhati-hati darinya; dan hendaklah ia berhati-hati dari orang yang bintangnya berelemen tanah seperti Capricorn, Virgo, dan Taurus, karena mereka adalah musuh-musuh terbanyaknya walau lama kesehatannya? bersama mereka; dan yang cocok baginya dari wanita dan laki-laki ialah yang bintangnya berelemen udara? seperti Gemini, Libra, dan Aquarius?, karena mereka adalah sahabat-sahabat terbaiknya; dan yang cocok baginya dari pelayan-pelayan? dan dari batu-batu khusus ialah firuzah (turki) atau zamrud; kemudian hendaklah ia memandang hilal dari wajah laki-laki, maka bulan itu menjadi berberkah baginya; sebaik-baik hewan tunggangannya ialah yang merah? banyak?; dan sebaik-baik pakaiannya ialah hijau dan biru dari katan (linen); bila ia ingin menunaikan hajat dari orang besar atau kecil, hendaklah ia mendatanginya pada hari Rabu pagi hari dengan khatam (cincin) Merkurius di tangan kanannya, maka hajatnya tertunaikan dengan cepat dan ia menundukkan? lawannya; dan hendaklah ia memperbanyak mengeluarkan darah (bekam/fashdu) pada musim semi; dan bila ia ingin diterima di sisi setiap orang yang melihatnya serta menjadi perkasa dan aman dari segala sesuatu, hendaklah ia mengamati Bulan ketika turun di buruj Gemini, yaitu pada hari Rabu, dan ia melakukan? pada jam itu, lalu membuatkan khatam dari perak seberat tiga dirham, mengukirkan padanya khatam ini, mengasapinya? dengan khaluq? (minyak wangi campuran) / [habb?] / asy? lalu memakainya, maka ia aman dari segala sesuatu — dan inilah khatam yang diberkahi itu.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفاره وأحلامه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 25 (Halaman PDF 12, sisi kiri)
@@ -939,7 +820,7 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 *(wa li-shaahibi haadzaal-burji min asykaalir-ramli syaklul-bayaadhi  al-ladzii yadzhabu 'an al-huznu, anna rabbinaa li-ghafuuri syakuuri  abasysyara ayyuhas-saa'ilu bil-farahi was-suruuri wa ibtihaajil-umuuri wa maa taqashshudihi min saa'iril-umuuri, fa-qad ataaka minal-asykaalil-bayaadhi wa huwa sa'iidi ma'a hasanul-harakaati, qalbun? nisaa'an? wa qarra 'ayyinaa biqadhaa'il-hawaa'iji wa najaha? maalin wa qaduumu ghaa'ibu, fa-tuukilu 'alaa Allaahi fii saa'iri harakaatika wa nujjaahi amrika? wa shurka? 'alaa min yu'aadiika; walakinn waraa'ak syakhshun yudhmiru minaka, walakinn yuhashshilu lak al-khayri wa farahil-qalbi bizawaalidh-dharari wa hasratil-makhaathiri; wa'ant ayyuhas-saa'ilu turiidu ijtimaa'an bisyakhshin fa-laa badda min ijtimaa'ika 'alayhi 'an qariibin aw ghaa'ibun aw habiibu; wa arraaka 'aazimaa 'alaa amrin wa'ant fiihi taqadduma wa tata'akhkharu wa taquulu afi'lun awlan afa'alla, fa-u'azzimu 'alaa mathluubika tasta'iddu? wa tuukilu 'alaa Allaahi fal-haajati maqdhiyyatan wa umuuraka mardhayatu; wa laa badda min waladin yuuladu lak fa-ubasysyiru bil-khayri war-rizqi; wa laa badda min khayrun bilaa ta'abin? bitawfiiqin bibarakati sayyidinaa yuusaf ash-shadiiqa; fa-haadzaa maa dalla 'alayhits-tsaabita? raasikhun? maa qaala  abasyarun yanaalu sa'iidun wa jamiilul-muraadi, wa ubasysyiru bizhuhuuril-a'daa'i wal-hussaadi *) **[Terjemahan Indonesia]**
 
-(Bila ia miskin dan tidak mampu membuat khatam, hendaklah ia menghadap? Bulan sebagaimana telah kami sebutkan, dan hendaklah nama-nama ini dituliskan baginya dengan misk (kesturi) dan za'faran […] pada hari Rabu jam Merkurius, maka ia menjadi aman dari semua musuh. Nama-nama itu ialah: *Bismillahirrahmanirrahim; Allah telah menetapkan: "Aku dan rasul-rasul-Ku pasti menang" […] ṭāsy ṭayyūsy ṭasyā umm hālsy hū hū sayfūḥ quddūs — Tuhan para malaikat dan Ruh* — [baris rajah pertama] — sha sha sha sha sha dāl lāmah ḥā ḥā ḥā 111 ḥā lām 696 sha 92 1691 mīm ṭā lām 22 9164 ḥā ṭā lām 116111611 kāf lām 111 mīm alif lām ḥā 941 lām — [baris rajah kedua] — *wa lā ḥaula wa lā quwwata illā billāhil-'aliyyil-'aẓīm* (tiada daya dan kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung), dan semoga shalawat serta salam tercurah kepada junjungan kita Muhammad beserta keluarga dan sahabatnya.
+Bila ia miskin dan tidak mampu membuat khatam, hendaklah ia menghadap? Bulan sebagaimana telah kami sebutkan, dan hendaklah nama-nama ini dituliskan baginya dengan misk (kesturi) dan za'faran […] pada hari Rabu jam Merkurius, maka ia menjadi aman dari semua musuh. Nama-nama itu ialah: *Bismillahirrahmanirrahim; Allah telah menetapkan: "Aku dan rasul-rasul-Ku pasti menang" […] ṭāsy ṭayyūsy ṭasyā umm hālsy hū hū sayfūḥ quddūs — Tuhan para malaikat dan Ruh* — [baris rajah pertama] — sha sha sha sha sha dāl lāmah ḥā ḥā ḥā 111 ḥā lām 696 sha 92 1691 mīm ṭā lām 22 9164 ḥā ṭā lām 116111611 kāf lām 111 mīm alif lām ḥā 941 lām — [baris rajah kedua] — *wa lā ḥaula wa lā quwwata illā billāhil-'aliyyil-'aẓīm* (tiada daya dan kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung), dan semoga shalawat serta salam tercurah kepada junjungan kita Muhammad beserta keluarga dan sahabatnya.
 
 (Dan pemilik buruj ini, di antara bentuk-bentuk raml, mempunyai bentuk **al-Bayadh** — "Yang menghilangkan duka dari kami; sungguh Tuhan kami Maha Pengampun lagi Maha Mensyukuri.") Bergembiralah wahai penanya dengan kegembiraan, kesukaan, dan ria-nya urusan serta apa yang engkau tuju dari seluruh urusan; karena telah datang kepadamu dari bentuk-bentuk itul-Bayadh (putih/cemerlang), yang berbahagia bersama baiknya gerakan-gerakan; […]? tenanglah mata dengan tertunainya hajat dan berhasilnya? harta serta datangnya orang yang gaib; maka bertawakallah kepada Allah dalam seluruh gerakanmu dan keberhasilan urusanmu? serta kemenanganmu? atas orang yang memusuhimu; namun di belakangmu ada seseorang yang menyembunyikan (sesuatu) darimu; kendati begitu, kebaikan dan kegembiraan hati akan kau peroleh dengan hilangnya bahaya dan penyesalan risiko-risiko. Engkau wahai penanya menginginkan pertemuan dengan seseorang — maka tak terhindar engkau akan bertemu dengannya tidak lama lagi, baik ia gaib maupun kekasih; dan kulihat engkau bertekad pada suatu perkara padahal engkau maju-mundur dan berkata "kulakukan atau tidak" — maka bertekadlah pada permintaanmu […], dan bertawakallah kepada Allah, karena hajat akan tertunaikan dan urusan-urusanmu diridai; dan tak terhindar seorang anak akan dilahirkan bagimu, maka bergembiralah dengan kebaikan dan rezeki; dan tak terhindar kebaikan tanpa kelelahan? dengan taufik berkat junjungan kita Yusuf ash-Shiddiq. Inilah yang ditunjukkan oleh yang tetap? kokoh? […] katanya: *"Bergembiralah, engkau akan memperoleh kebahagiaan dan maksud yang indah, dan bergembiralah dengan munculnya musuh-musuh dan para pendengki."*
 
@@ -975,10 +856,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 *Pemilik Cancer — purnama adalah planetnya * dan cahayanya bersambung di dahi wajah; wahai indahnya pemilik bintang ini, karena baginya * kemuliaan dan kadar yang melampaui? — semoga Allah tiada cacat?…*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 ## HALAMAN CETAK 26 (Halaman PDF 13, sisi kanan)
@@ -1005,11 +882,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 *Gambar Rajah Asli Halaman 26* — Gambar talisman buruj as-Sarathan (Cancer): lingkaran bersinar (matahari/bulan) berwajah manusia di tengahnya. Tidak diterjemahkan; ditampilkan apa adanya sebagai rajah asli kitab.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada  بيت الله الحرام ولا يموت الا فى نعمة من الله والله أعلم. ( الوجه الثانى ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 27 (Halaman PDF 13, sisi kiri)
@@ -1022,7 +894,7 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 *anna kaana 'Uthaarida mas'uudan; wa in kaana manhuusan kaana ghazaliiaa? aw ghassaalan? aw turaabiiaa ؟؛ wa yakuunu lahu 'alaamaatin bidziraa'iyyihi aw bathnuhu wa yushiibuhu ghaybuhu ؟؛ wa wajjahahu atiru? qaani'un? al-lawnil-awwalu; wa in kaana manhuusan? yakuunu abyadhul-lawni yamiilu ilaa shifratan aw humratun, bi-wajhihi 'ullaamatan aw humratun? bi-wajhihi 'ullaamata yusraa? lahu fidh-dharari, wa yukhaafu 'alayhi min rajulin ahmarul-lawni bi-wajhihi 'ullaamata yusraa? lahu fidh-dharari ؟، wa yukhaafu 'alayhi min ghayri ahlihi; wa ratstsun? maalan? wa ba'da khaybatin? wa yanaalu hujjatan wa ziyaarati baytu Allaahil-Haraami wa laa yamuutu illaa an yaraa awlaadin awlaadihi wallaahu a'lamu. (al-wajhuts-tsaalitsu  min nazhara ilayhil-Qamari yakuunu rajulan abyadhul-lawni yamiilu ilaa shifratan aw humratun, bi-wajhihi 'ullaamatan, rafiiqasy-syaffatayni? hasanush-shuurati mufadhdhalun? al-qaamati, aktsaru awlaadah al-inaatsa, yukhaafu 'alayhi min ghariqil-bahri wa min harqin-naari aw min 'adhdhatin kalbun aw yuq'i min makaani 'aalin; wa yuudha'u lan ghayri ibni ummihi? wakull min shaahibihi shaar lahu 'aduwwan hasuudan? fii kaydihi? yatanakkasu? fii aakhara kullu syahri 'asyrata ayyaami, katsiirun-nawmi was-sabbaati was-sakti ؟؛ wal-ghaalibu 'alayhil-balghami fii fashlun asy-syitaa'i aktsaru dawaamihi; al-athar? yaqul*) **[Terjemahan Indonesia]**
 
-(…bila Merkurius berbahagia; dan bila Merkurius bernasib buruk, ia menjadi penenun kain halus (ghazl)?, pencuci (ghassal)?, atau orang tanah?; ia mempunyai tanda-tanda pada kedua lengan atau perutnya, dan ia terkena pingsan?; wajahnya […]? […]? warna yang pertama; dan bila ia bernasib buruk?, ia menjadi putih warna kulitnya condong ke kuning atau merah, di wajahnya ada tanda atau kemerahan? — di wajahnya ada tanda yang mengalir? baginya dalam bahaya; ia patut khawatir terhadap seorang laki-laki kemerahan warna kulit yang di wajahnya ada tanda yang mengalir? baginya dalam bahaya?; dan ia patut khawatir terhadap orang selain keluarganya; ia mewarisi? harta? dan setelah kekecewaan? ia mencapai haji dan ziarah Baitullah al-Haram, dan tidak meninggal kecuali setelah melihat anak-anak dari anak-anaknya. Wallahu a'lam.
+…bila Merkurius berbahagia; dan bila Merkurius bernasib buruk, ia menjadi penenun kain halus (ghazl)?, pencuci (ghassal)?, atau orang tanah?; ia mempunyai tanda-tanda pada kedua lengan atau perutnya, dan ia terkena pingsan?; wajahnya […]? […]? warna yang pertama; dan bila ia bernasib buruk?, ia menjadi putih warna kulitnya condong ke kuning atau merah, di wajahnya ada tanda atau kemerahan? — di wajahnya ada tanda yang mengalir? baginya dalam bahaya; ia patut khawatir terhadap seorang laki-laki kemerahan warna kulit yang di wajahnya ada tanda yang mengalir? baginya dalam bahaya?; dan ia patut khawatir terhadap orang selain keluarganya; ia mewarisi? harta? dan setelah kekecewaan? ia mencapai haji dan ziarah Baitullah al-Haram, dan tidak meninggal kecuali setelah melihat anak-anak dari anak-anaknya. Wallahu a'lam.
 
 (Wajah ketiga) Bila yang memandangnya Bulan: ia menjadi laki-laki putih warna kulitnya condong ke kuning atau merah, di wajahnya ada tanda, halus kedua bibir?, bagus rupa, lebih? perawakan; kebanyakan anaknya perempuan; ia patut dikawatirkan terhadap tenggelam di laut, terbakarnya api, gigitan anjing, atau jatuh dari tempat tinggi; dan diletakkan bagi kami selain anak ibunya?; dan setiap orang yang berkawan dengannya berubah menjadi musuh yang pendengki? dalam tipu dayanya?; ia membalik? pada akhir setiap bulan sepuluh hari; ia banyak tidur dan lelap serta diam?; dan yang dominan padanya ialah dahak pada musim dingin, paling lama tinggalnya; […]? berkurang…
 
@@ -1043,11 +915,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 (Rumah saudara-saudara laki-laki dan perempuan) Virgo dan Merkurius: ia sedikit beruntung dari saudara-saudaranya; bila […]? pandangan ketiga? mereka laki-laki, ia hampir tidak cocok dengan mereka; dan bila mereka perempuan?, mereka hidup dari rezekinya?; dan boleh jadi terjadi perselisihan antara mereka karena hal itu atau karena warisan. Wallahu a'lam.
 
 (Rumah bapak-bapak dan ibu-ibu) Libra dan Venus: bila […]? sah? baginya pandangan Venus, ia memakamkan ibu sebelum bapak; ia dicintai di sisi mereka pada masa kecilnya dan […]?; tidak tersisa darinya sedikit pun dan […]? amal-amal? yang banyak; dan ia menjadi…
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada  بيت الله الحرام ولا يموت الا أن يرى أولاد أولاده والله أعلم. ( الوجه الثالث ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1073,11 +940,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 (Rumah perjalanan-perjalanan dan mimpi-mimpinya) ia banyak bepergian dan yang diambilnya? Pisces dan Yupiter; ke mana pun ia berusaha dalam perjalanan, itu baik baginya; perjalanan laut lebih baik baginya daripada darat; dan sebaik-baik perjalanannya ialah hari Kamis ke arah utara (bahri); ia beruntung dalam jual-beli serta ambil-memberi; dan bila ia menanam tanaman, ia diberkahi padanya dan melihat kebaikan yang banyak; ia mendatangi? perjalanan-perjalanan yang banyak; dan ia mencapai haji ke Baitullah al-Haram serta ziarah makam Nabi ﷺ…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أفراحه واولاده ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 29 (Halaman PDF 14, sisi kiri)
@@ -1090,7 +952,7 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 *wallaahu a'lamu. (baytu 'izzihi wa sulthaanihi  al-Hamali wal-Mirriikhi  yanaalu martabatan min manshibil-maliki wa lahu hazhzhun min arbaabid-dawlati, wa in kaana jundan? kaana musliman? wa laa yamuutu illaa fii ni'matin min Allaahi, mahbuubun haytsumaa tawajjuhin, maqbuulal-qawli 'indal-akaabiri wa arbaabil-manaashibi wad-dawaawiini, ma'ruufa 'indahum wallaahu a'lamu. (baytu rujjaalihi wa aamaalihi  ats-Tsawri waz-Zuharati  yakuunu tsaabital-amali wa yanaalu maa yu'ammiluhu wa yarjuuhu wa yaraa ahalaamaa katsiiratun, mahmuudal-'aaqibati hasanus-sayrati, wa laa yamuutu illaa fii tawbatin wa shalaahin wallaahu a'lamu. (baytu a'daa'ihi wa hussaadihi  al-Jawzaa'i? wa 'Uthaarida  yakuunu katsiirul-ashdiqaa'i minan-nisaa'i wa katsiirul-a'daa'i min aqaarabah wa ahlahu wa min ya'kulu zaadahu; wa yubghidhuhu? wa laa yukaadu yubqii lahu shaahibu wa min kadzibin? minhu yakuunu 'alayhi; laa yanaalu minhum mawaddatan walakinn laa yazhharuuna bihi wa hum mutamannuuna? wa li-hammin? maa yuq'i fil-'adaawati; wa yaraa amuuaalaa? katsiiratun miraaran? wa yanjuu minal-mulaaki? bi-idzni Allaahi Ta'aalaa; wa yuwaafiquhu minal-ashhaabi wan-nisaa'il-Qamari wa min kaana najmihi maa'iyyan kas-Sarathaani wal-'Aqrabi wal-Huuti; wa layuhadzdziru mimman kaana najmihi naariiaa kal-Hamali waalaasad wal-Qawsi fa-inham laa yusyfiqaani ؟؛ wa layuhadzdziru min rajulin ashfarul-lawni bi-wajhihi atsarun? judariyyun aw khaalin aswadu fa-innahu akabarri a'adaa'ah; wa yanzhurul-halaalu 'alaa wajhi anatsaa fa-yakuunu dzaalikasy-syahru mubaarakan 'alayhi; khayrun? ayyaamihil-Itsnayni lil-bay'a wasy-syiraa'a wal-akhdza wal-'athaa'a wa yajuudu? fii yawmats-Tsulaatsaa'i; wa ahsanu dawaabbihil-khudhri minal-atsaats ؟؛ wa lahu minal-ath'imati kullu haarrun yaabisun kat-tamri waz-zabiibi; wa ahsanu libaasihil-abyadhu shabbaaghatan? az-zar'iyya? wal-izraqqal-hiiaarii ؟؛ wa idzaa quwan bihid-dami fa-layaqshidu fii fashlun ash-shayfi yawmal-Itsnayni saa'atal-Qamari; wa in thalabi haajatihi min kabiirun aw shaghiirun fa-layaqshiduhu barrun? al-Itsnayni baakiran-nahaari wa yakuunu khaatamul-Qamari fii yadihi tuqdhaa haajatuhu wa yakuunu fidhdhata ramaahu? minal-fashshi? minash-shadri? zujja ؟؛ wa in araada anna ya'ammanna min syarrin al-insi wal-jaanni wa yakuunu maqbuulan haytsumaa tawajjuhin? fa-layarshudul-Qamari idzaa nuzil burjus-Sarathaani wa huwa? az-ziyaadata wa yashna'u lahu khaatiman min fidhdhati yawmal-Itsnayni wazanahu tsalaatsatun daraahimi wa yanqusyu 'alayhi haadzihil-asmaa'a wa yushaffiruhaa? bil-'asali? wa yahmiluhu fa-innahu ya'ammanna min kullu min ra'aah manshuuran?*) **[Terjemahan Indonesia]**
 
-(Wallahu a'lam. (Rumah kewibawaan dan kekuasaannya) Aries dan Mars: ia memperoleh derajat dari kedudukan kerajaan dan beruntung dari kalangan orang-orang istana; bila ia seorang prajurit?, ia menjadi muslim?/diselamatkan?; dan ia tidak meninggal kecuali dalam kenikmatan dari Allah; ia dicintai ke mana pun ia menghadap; perkataannya diterima di sisi para pembesar, pemilik jabatan, dan diwan-diwan; ia dikenal di sisi mereka. Wallahu a'lam.
+Wallahu a'lam. (Rumah kewibawaan dan kekuasaannya) Aries dan Mars: ia memperoleh derajat dari kedudukan kerajaan dan beruntung dari kalangan orang-orang istana; bila ia seorang prajurit?, ia menjadi muslim?/diselamatkan?; dan ia tidak meninggal kecuali dalam kenikmatan dari Allah; ia dicintai ke mana pun ia menghadap; perkataannya diterima di sisi para pembesar, pemilik jabatan, dan diwan-diwan; ia dikenal di sisi mereka. Wallahu a'lam.
 
 (Rumah orang-orang dan harapan-harapannya) Taurus dan Venus: ia teguh harapannya, memperoleh apa yang ia harapkan dan cita-citakan, dan melihat mimpi yang banyak; terpuji kesudahan, baik perilaku; dan ia tidak meninggal kecuali dalam taubat dan kebaikan. Wallahu a'lam.
 
@@ -1128,11 +990,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 *Gambar Rajah Asli Halaman 30* — Baris rajah lanjutan khatam: deret "المؤمنون ١١١ ٢٨٨٩٩٢١٩ ١١١ ٦١١٦٧٦١٦ …" hingga huruf "مـ … ولا ح ح ح ٣ … ١١١١١ ١٢٢٢٥" dan seterusnya. Tidak diterjemahkan; ditampilkan apa adanya.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزه وسلطانه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 31 (Halaman PDF 15, sisi kiri)
@@ -1159,11 +1016,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 *Gambar Rajah Asli Halaman 31* — Gambar talisman buruj al-Asad (Leo): singa berkepala manusia memegang pedang sabit. Tidak diterjemahkan; ditampilkan apa adanya sebagai rajah asli kitab.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 > **STATUS BATCH 3: SELESAI** (halaman cetak 22–31 / halaman PDF 11–15).
@@ -1171,11 +1023,10 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 > `rajah_p23_satr_huruf.png`, `rajah_p25_wafaq_arqam.png`, `rajah_p25_satr_huruf.png`, `rajah_p26_tilsam_saratan.png`, `rajah_p30_wafaq_arqam.png`, `rajah_p30_satr_huruf.png`, `rajah_p31_tilsam_asad.png`.
 > Progres keseluruhan: 15 dari 56 halaman PDF selesai (±27%). Balas "lanjut" untuk Batch 4 (halaman PDF 16–20).
 
+
 ---
 
 # BATCH 4 — HALAMAN PDF 16–20 (HALAMAN CETAK 32–41)
-
----
 
 ---
 
@@ -1202,11 +1053,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 (Rumah harta dan penghasilannya) Virgo dan Merkurius: ia memperoleh kekayaan dalam perjalanannya, menuliskan harta yang banyak, dan memiliki di dalamnya apa yang tidak terbayang? — ia bersepakat sampai tidak mendapati satu dirham pun; dan hatinya tertandai? dari arah harta, namun Allah memberi ganti kepadanya setelah kesusahan, dan ia mencari ketika ajalnya mendekat, dan ia tidak meninggal kecuali dalam kenikmatan dari Allah Ta'ala. Wallahu a'lam.
 
 (Rumah saudara-saudara) Libra dan Venus: ia mempunyai saudara-saudara dari bapaknya dan memperoleh dengan salah satunya perselisihan yang banyak; sebagian? kebanyakan saudaranya sebelum ajalnya; dan kebanyakan mereka […]? dan ia menyertai mereka keadaan? […]? Wallahu a'lam. (Rumah bapak-bapak dan ibu-ibu) Scorpio dan Mars: ia berbakti kepada kedua orang tuanya dan keduanya banyak meninggal sebelum bapak; dan bila Yupiter memandangnya, ia memakamkan ibu sebelum bapak, dan ia mewarisi…
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياته واسقامه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1236,11 +1082,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 (Rumah kewibawaan dan kekuasaannya) Aries? dan Mars: maka ia menjadi […]? dicintai di sisi tuan-tuan? dalam pergaulannya?; diperkasa dan dikuatkan di sisi para pembesar, pemilik pena, dan jabatan pada masa tuanya?; dan ia memperoleh kemuliaan? serta derajat-derajat? dari seorang laki-laki berbudi besar…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولاده وأفراحه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 34 (Halaman PDF 17, sisi kanan)
@@ -1264,11 +1105,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 ![Gambar Rajah Asli Halaman 34 - Wafaq Khatam](rajah/rajah_p34_wafaq_arqam.png)
 
 *Gambar Rajah Asli Halaman 34* — Wafaq angka 4 baris (khatam) bagi pemilik buruj Leo: baris 1: ١١١ و ل ٢ ره ١١١ ٣٩ ; baris 2: ٦٩٥ ١١ ها ٩ليه ١١ ٥٩ ; baris 3: ٨٧٦ ا ١١١ ٥٢ ١١١ ٨ ; baris 4: ٨٩ ١١١. بحق هذه. Dipakai bersama khatam perak tiga dirham di atas; bila tidak mampu, nama-nama ini dituliskan dengan misk dan za'faran lalu diasapi pada hari Ahad jam Matahari.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجاله وآماله ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1319,10 +1155,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 *Gambar Rajah Asli Halaman 35* — Gambar talisman buruj as-Sunbulah (Virgo): dua sosok manusia mengapit seikat bulir/ tumbuhan di tengah. Tidak diterjemahkan; ditampilkan apa adanya sebagai rajah asli kitab.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 ## HALAMAN CETAK 36 (Halaman PDF 18, sisi kanan)
@@ -1342,11 +1174,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 (Wajah kedua) Bila yang memandangnya Venus: ia menjadi laki-laki putih warna kulitnya atau hijau keemasan, […]?; […]? di kalangan lelaki pada masa kecilnya; dicintai para wanita pada masa tuanya; ia menyukai wewangian, perhiasan, meminum khamar, dan […]? serta taman-taman dan mendengarkan lagu; mulia jiwa, murung, elok, sulit? keras; ada tanda di wajah dan betisnya serta tanda di punggungnya; ia memperoleh harta yang banyak pada masa tuanya dan ia terpuji pada masa tuanya; dan wanita-wanita? dengan pemuda-pemuda amrad?; dan ia memperoleh taubat pada masa tuanya. Wallahu a'lam.
 
 (Wajah ketiga) Bila yang memandangnya Merkurius: ia menjadi sawo matang warna kulitnya atau keemasan, tinggi, bagus wajah dan tubuh, bertaut alis, elok gigi, anggun rupa, baik kata-kata?, manis tutur; banyak berpindah dari satu tempat ke tempat lain, berkurang darinya kekurangan? […]? dan bertambah tambahannya; pikirannya tenggelam di dalamnya; ia menyukai pernikahan; sedikit keberuntungan dari anak-anak; ia memperoleh kewaziran? ke Baitullah al-Haram; ia melihat harta yang banyak pada masa tuanya dari para penguasa dan memperoleh […]? darinya; dan ia patut khawatir terhadap seorang laki-laki pada asal […]? kemerahan warna kulit, di wajahnya ada bekas? […]? besar musuh-musuhnya, maka hendaklah ia berhati-hati darinya karena ia berusaha membinasakannya; dan diharapkan? baginya percampuran dan percampuran? Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada  بيت الله الحرام، ويرى أموالا كثيرة فى كبره من الحكام وينال شهوب؟ منه، ويخاف عليه من رجل فى أصل داحمة؟ أحمر اللون بوجهه أثر؟ واضع؟ نهرا؟ كبير أعدائه فيحذر منه لأنه يسعى فى هلاكه، ويمنى؟ له الخلط والخلط؟ والله أعلم؟ ومن غيره والله أعلم.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1376,11 +1203,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 
 (Rumah ketakutan dan kematiannya) Aries dan Mars: bersama? ia patut khawatir dari…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت المال والعبارات؟ ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 ## HALAMAN CETAK 38 (Halaman PDF 19, sisi kanan)
@@ -1402,11 +1224,6 @@ Sang bijak berkata: buruj ini mempunyai tiga wajah. (Wajah pertama) Bila yang me
 (Rumah orang-orang dan harapan-harapannya) Cancer dan Bulan: ia mencita-citakan harapan-harapan yang banyak dan melihat mimpi-mimpi yang banyak?; dan ia tidak mencintai? kecuali dalam kebahagiaan yang terus-menerus; ia diberi rezeki agama, kebaikan, taubat yang murni?, dan baiknya agama; ia melihat mimpi-mimpi yang banyak? dengan kebaikan?; bila ia bertekad pada suatu urusan, ia tidak kembali darinya sampai menyelesaikannya?; dan tidak ada? padanya kesulitan? dalam urusan-urusan kecuali?. Wallahu a'lam.
 
 (Rumah musuh-musuh dan para pendengkinya) Leo dan Matahari: ia mempunyai musuh-musuh dari setiap hamba sahaya laki-laki? dan perempuan?; ia patut khawatir terhadap laki-laki lebar dahi, kuning warna kulit, yang bergaul? dan berusaha? dalam gangguan — Allah Ta'ala menjadikan penolongnya? atas mereka dari? dan dari keempat mereka? […]? celaka? di antara sahabatnya; yang cocok baginya dari wanita dan sahabat ialah yang bintangnya berelemen tanah? seperti Capricorn?, Virgo, dan Taurus; dan hendaklah ia berhati-hati dari yang bintangnya berelemen udara seperti Gemini, Libra, dan Aquarius?, karena mereka musuh-musuh terbanyaknya walau lama persahabatan mereka dengannya; bila ia perlu mengeluarkan darah, hendaklah ia membidik? dari saudara-saudaranya […]?; baginya dari […]? zamrud?; dan dari pakaian-pakaian ialah putih dan celupan? biru serta hijau; bila ia ingin diterima di sisi setiap orang yang melihatnya serta aman dari kejahatan manusia dan jin, hendaklah ia mengamati? Bulan ketika turun di buruj Virgo dalam keadaan kosong dari nahas, lalu membuatkan khatam dari perak seberat tiga dirham dan mengukir padanya khatam ini pada hari Rabu jam Merkurius, lalu mengasapinya dengan gaharu nad? dan jawi?, dan memakainya? di tangan kanannya, maka ia memperoleh penerimaan yang besar ke mana pun ia menghadap dan keamanan dari semua gangguan dan bahaya dengan izin Allah Ta'ala — dan inilah khatam yang mulia itu.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفاره وحركاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1462,10 +1279,6 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 
 *Gambar Rajah Asli Halaman 39* — Gambar talisman buruj al-Mizan (Libra): sosok bermahkota memegang pemukul, diapit dua daun timbangan besar. Tidak diterjemahkan; ditampilkan apa adanya sebagai rajah asli kitab.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 ## HALAMAN CETAK 40 (Halaman PDF 20, sisi kanan)
@@ -1483,11 +1296,6 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 (Wajah pertama) Bila yang memandangnya Bulan: ia menjadi laki-laki putih warna kulitnya kemerah-merahan?; keras?; […]? wajah dan […]? serta kedua alis; bulat kedua sisi wajah?; elok gigi; anggun rupa; baik kata-kata?; manis tutur; banyak berpindah dari tempat ke tempat, berkurang darinya kekurangan? […]? dan bertambah tambahannya; pikirannya tenggelam di dalamnya; ia menyukai pernikahan; sedikit beruntung dari anak-anak; ia memperoleh kewaziran? ke Baitullah al-Haram; ia melihat harta yang banyak pada masa tuanya dari para penguasa dan memperoleh […]? darinya; ia patut khawatir terhadap seorang laki-laki pada asal […]? kemerahan warna kulit, di wajahnya ada bekas? […]?; besar musuh-musuhnya, maka hendaklah ia berhati-hati darinya karena ia berusaha membinasakannya; dan diharapkan? baginya percampuran dan percampuran?. Wallahu a'lam.
 
 (Wajah kedua) Bila yang memandangnya Saturnus: ia menjadi kemerahan warna kulitnya atau keemasan atau hijau tubuh, persegi perawakan, besar daging, bertaut alis, sangat buruk watak hingga tidak tertahankan; ia menuliskan harta dan laki-laki tampak?; ia memperoleh […]? yang banyak pada masa kecilnya dan selamat darinya; dan boleh jadi ia jatuh dari tempat tinggi atau gigitan binatang, menjadi terhalang? kesehatan; ia menyukai rupa; banyak helah, pemilik tipu daya dan khianat; ia memperoleh? dari para penguasa harta yang banyak dan selamat darinya; ia menikahi banyak wanita pada (bulan) Muharam, dan ia mempunyai anak pada Muharam yang berpisah…
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada  بيت الله الحرام، ويرى أموالا كثيرة فى كبره من الحكام وينال شهوب؟ منه، ويخاف عليه من رجل فى أصل داحمة؟ أحمر اللون بوجهه أثر؟ واضع؟ نهرا؟ كبير أعدائه فيحذر منه لأنه يسعى فى هلاكه، ويمنى؟ له الخلط والخلط؟ والله أعلم. ( الوجه الثانى ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1515,11 +1323,6 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 
 (Rumah anak-anak dan kegembiraannya) Aquarius dan Saturnus: yang dominan atas anak-anaknya ialah laki-laki, dan boleh jadi ia mempunyai anak-anak…
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada  بيت الله الحرام؛ فان كان المشترى مسعودا كان فقيها أو قاضيا أو أميرا أو شهيدا؟ وما أشبه ذلك؛ وان كان المشترى منحوسا كان ضد ذلك اما غسالا أو حائكا؟ خبازا؟ وما أشبه ذلك؛ ووائفه؟ العمل الأبيض والزنجبيل والربي؟ والكايل؟ وبك؟ مكانا أو بستانا ويستغنى بصنعة يتالم؟ ان أن يغنى والله أعلم. ( بيت حياته واسقامه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 > **STATUS BATCH 4: SELESAI** (halaman cetak 32–41 / halaman PDF 16–20).
@@ -1527,9 +1330,9 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 > `rajah_p34_wafaq_arqam.png`, `rajah_p35_tilsam_sunbulah.png`, `rajah_p39_wafaq_arqam.png`, `rajah_p39_tilsam_mizan.png`.
 > Progres keseluruhan: 20 dari 56 halaman PDF selesai (±36%). Balas "lanjut" untuk Batch 5 (halaman PDF 21–25).
 
-# BATCH 5 — HALAMAN PDF 21–25 (HALAMAN CETAK 42–51)
-
 ---
+
+# BATCH 5 — HALAMAN PDF 21–25 (HALAMAN CETAK 42–51)
 
 ---
 
@@ -1545,11 +1348,6 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 
 (Rumah penyakit-penyakit dan saraf-sarafnya) Pisces dan Yupiter: Kebanyakan penyakitnya berasal dari dahak (balgham), angin-angin tubuh, flu/pilek, serta nyeri jantung dan persendian; maka hendaklah ia memperbanyak mengeluarkan darah (fashdu/hijamah) pada musim dingin dari pembuluh darah basilik (vena basilica); dan memperbanyak konsumsi ramuan majun hangat, jawarisz kamuni (ramuan jintan untuk pencernaan), sirup tetes tebu, keju halum, buah tin, serta makanan-makanan yang memekatkan tubuh agar menjadi baik baginya; dan jika dahaknya menguat, hendaklah diambilkan baginya adas sowa (syibat), adas manis (syamar), jahe, dan akar manis (licorice) lalu diminum; kemudian membersihkan pencernaannya dengan ramuan oxymel (sikinjabin), selai obat (murabba), dan buah myrobalan (iylilaj) yang menjadi obat terbesarnya; bila ingin yang ringkas, gunakanlah sari akar-akar tumbuhan obat khususnya, karena itu sangat berfaedah untuk keluhan-keluhan dalam rongga perut. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضه وأعصابه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1561,11 +1359,6 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 *(baytu nisaa'ihi wa firaasyihi  al-Hamali wal-Mirriikhi  yakuunu ahsanu nisaa'ihil-buydhil-alwaanal-maa'ilaati ilal-humrati bil-fardi, wa rubbamaa kanna abakaaraa aw tsayyibaatun, wal-uulaa laa tukaadu tutsbitu ma'ahu, wats-tsaaniyatu kadzaalika bisababin-nisaa'i maa yakrahu, wa layuhadzdziru minan-nisaa'i kullul-hadziri la'annahu maa akull maalihi imra'atun bisabbihaa wa taraffu'ihi 'alaa yadihaa, wa yanjuu minhaa ba'da qahrin wa ghammi syadiidun wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah wanita-wanita dan peraduannya) Aries dan Mars: Sebaik-baik wanitanya adalah yang berkulit putih merona kemerah-merahan secara ganjil (satu atau tiga); terkadang wanita itu masih perawan atau sudah janda; wanita yang pertama hampir tidak dapat bertahan lama bersamanya, begitu pula yang kedua disebabkan tabiat wanita yang dibencinya; hendaklah ia sangat berhati-hati terhadap wanita karena hartanya pernah dihabiskan oleh seorang wanita yang kemudian memperdayanya, dan ia baru dapat selamat darinya setelah mengalami tekanan dan kesusahan yang berat. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت نسائه وفراشه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1579,11 +1372,6 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 
 (Rumah ketakutan dan kematiannya) Taurus dan Venus: Dikhawatirkan atasnya pada tahun yang thali'-nya dipengaruhi kedua bintang tersebut, yaitu ketika ia berumur tujuh bulan, atau tujuh belas bulan, dan saat menginjak usia baligh ia hampir menemui ajal, atau pada usia dua puluh dua tahun, atau dua puluh delapan tahun, atau empat puluh tahun; jika ia selamat dari semua masa krisis tersebut, ia akan mencapai usia tujuh puluh tahun. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفه وموته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1595,11 +1383,6 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 *(baytu asfaarihi wa harakaatihi  al-Jawzaa'i wa 'Uthaarida  safarihi ilaa jihatil-masyriqi khayrun lahu min jihatil-maghribi, wa laa yusaafiru fil-bahri illaa fit-tijaarati, wa ahsanu ayyaamihi lis-safara yawmal-Arbi'aa'i baakiran-nahaari, wa yanaalu fii safarihi ma'iisyata thiibatin wa maalan jaziilan, wa yashhabu arbaabul-aqlaami wal-wuzaraa'i wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah perjalanan-perjalanan dan gerakannya) Gemini dan Merkurius: Bepergian menuju arah timur lebih baik baginya daripada menuju arah barat; janganlah ia bepergian lewat jalur laut kecuali semata-mata untuk berniaga; sebaik-baik hari untuk memulai perjalanannya adalah hari Rabu di pagi hari; ia akan memperoleh dalam perjalanannya penghidupan yang baik dan harta yang berlimpah, serta dapat mendampingi kalangan penulis resmi dan para wazir (pejabat negara). Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفاره وحركاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1613,11 +1396,6 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 
 (Rumah kemuliaan dan kekuasaannya) Cancer dan Bulan: Ia akan memperoleh kemuliaan dan kedudukan terhormat di hadapan para pembesar dan penguasa; semakin bertambah usianya semakin bertambah pula kewibawaannya; ia dicintai di kalangan para pemimpin serta diterima perkataannya di hadapan mereka, dan ia dianugerahi pangkat yang luhur. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزه وسلطانه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1630,11 +1408,6 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 
 (Rumah harapan dan cita-citanya) Leo dan Matahari: Ia akan mencapai sebagian besar apa yang dicita-citakannya; ia memiliki kesabaran yang luar biasa dalam menghadapi kesukaran; tidaklah ia berniat melakukan suatu urusan melainkan urusan itu selesai baginya dengan sebaik-baik hasil; dan ia dianugerahi taubat nasuha sebelum wafatnya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائه وآماله ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1646,11 +1419,6 @@ Bila ia miskin dan tidak sanggup membuat khatam, hendaklah ia menghadap? Bulan s
 *(baytu a'daa'ihi wa hussaadihi  as-Sunbulati wa 'Uthaarida  a'addaa'uhu min arbaabil-hayli wal-makri, wa min kaana thab'uhu turaabiiaa, wa yukhaafu 'alayhi min rajulin qashiirul-qaamati ashfarul-lawni, fa-layuhadzdziru minhu jahdahu wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh-musuh dan para pendengkinya) Virgo dan Merkurius: Musuh-musuhnya berasal dari kalangan orang-orang yang penuh tipu muslihat dan kelicikan, serta orang yang bertabiat tanah (elemen bumi); ia patut berwaspada terhadap seorang lelaki berperawakan pendek dan berkulit kuning pucat, maka hendaklah ia berhati-hati terhadapnya sekuat tenaga. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائه وحساده ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1677,10 +1445,6 @@ Berkata sang ahli hikmah: Wahai penanya tentang urusanmu, ketahuilah bahwa thali
 *Bersabarlah menghadapi zaman betapapun musibah silih berganti * Ketahuilah bahwa takdir ketetapan Allah senantiasa dinantikan*
 *Betapa sering kita menyaksikan hari-hari yang diliputi kesulitan * Tiba-tiba datang kemudahan, dan rahasia gaib Allah senantiasa penuh keajaiban.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1694,10 +1458,6 @@ Berkata sang ahli hikmah: Wahai penanya tentang urusanmu, ketahuilah bahwa thali
 **[Terjemahan Indonesia]**
 
 Inilah sifat dan tata cara rajah khatam yang penuh berkah bagi pemilik buruj al-Mizan (Libra): Ditulis pada hari Jumat pada jam pertama (sa'ah pertama) Matahari di atas perkamen kulit rusa atau lempengan perak bersih, lalu diasapi dengan gaharu (aud) dan kemenyan Arab (luban dzakar), kemudian dibawa dalam keadaan suci dari hadas — dan inilah gambar wafaq/khatam yang mulia tersebut.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
 
 ---
 
@@ -1720,9 +1480,6 @@ Inilah sifat dan tata cara rajah khatam yang penuh berkah bagi pemilik buruj al-
 **[Terjemahan Indonesia]**
 
 Adapun doa azimah mulia yang dibacakan atasnya adalah: "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Katakanlah: Dialah Allah Yang Maha Esa, Allah tempat meminta segala sesuatu, Dia tidak beranak dan tidak pula diperanakkan, dan tiada seorang pun yang setara dengan Dia. Wahai Dzat Yang Maha Mengetahui segala hal gaib, wahai Dzat Yang Melapangkan segala duka nestapa, tundukkanlah bagi pembawa kitab/rajahku ini semua hati manusia, kenakanlah padanya pakaian kemuliaan, kewibawaan, dan penerimaan yang agung, dengan rahmat-Mu wahai Dzat Yang Paling Penyayang di antara para penyayang. Semoga shalawat serta salam senantiasa tercurah kepada junjungan kami Nabi Muhammad beserta segenap keluarga dan para sahabat beliau."
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
 
 ---
 
@@ -1749,9 +1506,6 @@ Adapun doa azimah mulia yang dibacakan atasnya adalah: "Dengan nama Allah Yang M
 *Dalam tabiatnya terkandung panas dan kering yang sangat nyata * Memegang pedang, menerjang kancah pertempuran dan arena pembuktian*
 *Ia gemar akan kemuliaan martabat dan unggul mengungguli rekan-rekannya * Dan bagian bintangnya adalah pelindung perapian api membara.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 44 — Tilsm Buruj al-Aqrab (Scorpio)]**
@@ -1777,9 +1531,6 @@ Adapun doa azimah mulia yang dibacakan atasnya adalah: "Dengan nama Allah Yang M
 (Uraian tentang watak dasar thali' kelahiran, tiga wajah (wajh), serta tabiat manusia di bawah naungannya)
 Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat malam hari, feminin, dengan karakter dingin lembap; ia menunjukkan keberanian, kegagahan, kecerdikan siasat, ketajaman insting, dan ketegasan sikap. Orang yang dilahirkan pada buruj ini umumnya berkulit sawo matang atau condong kemerahan, berdahi lebar, berperawakan tegap gempal, memiliki genggaman kuat, tidak mudah diatur oleh janji sepihak, lekas marah namun cepat mereda, memiliki tanda khusus pada wajah atau dadanya; dan buruj ini terbagi atas tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1791,10 +1542,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 *(al-wajhul-awwalu  min nazhara ilayhil-Mirriikhi  yakuunu rajulan syajaa'an miqdaaman, yuhibbu rukuubul-khayli wa isti'maalis-silaahi, mahaaban fii a'yunin-naasi, yakhsyaahul-a'daa'u, yanaalur-ra'aasah wal-walaayata, wa yaqharu min 'aadaahu, wa yakuunu syadiidun al-hirshi 'alaa jam'il-amaal, qaliilul-wafaa'i lil-ashhaaba, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Mars: Ia menjadi pribadi yang sangat pemberani dan berjiwa pelopor; menyukai ketangkasan berkuda dan keterampilan menggunakan senjata; disegani dalam pandangan mata masyarakat luas; ditakuti oleh lawan-lawannya; mampu meraih kepemimpinan dan jabatan penting; menundukkan siapa saja yang memusuhinya; sangat tekun dalam mengumpulkan pundi-pundi harta, namun terkadang kurang menaruh kesetiaan mendalam kepada sahabat dekatnya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -1808,10 +1555,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 
 (Wajah Kedua) Bagi yang dipandang oleh Matahari: Ia menjadi pria yang berwajah cerah rupawan, berpenampilan memikat, ramah dalam pergaulan sosial, berjiwa dermawan; memperoleh kedudukan terhormat di hadapan para penguasa; suka menyedekahkan sebagian hartanya kepada kaum fakir miskin; dicintai di tengah-tengah kaumnya; menjadi juru damai di antara manusia; serta beruntung dalam perniagaan komersial dan pertanian. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1823,10 +1566,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 *(al-wajhuts-tsaalitsu  min nazhara ilayhiz-Zuharati  yakuunu rajulan li-thayfal-ma'syari, muhibban lith-thayyiba waz-zaynata wan-nisaa'i, zhariifal-kilaami, yamiilu ilal-lahwi wath-tharabi, sarii'ul-inqiyaadi lil-'aathifata, yunfiqu maalihi fisy-syahwaati, wa rubbamaa ibtalaa bimaradhin fii badanihi min katsratil-jimaa'i, wa lahu hazhzhun 'indan-nisaa'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Venus: Ia menjadi pria yang sangat lembut tutur katanya, mencintai wewangian harum, perhiasan indah, dan kaum wanita; pandai bertutur kata manis; menyukai kesenian dan hiburan kegembiraan; mudah terhanyut oleh dorongan asmara; gemar membelanjakan hartanya untuk kesenangan hidup; terkadang diuji dengan penurunan stamina tubuh karena seringnya bersenggama; dan ia senantiasa bernasib mujur serta disukai oleh kaum hawa. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -1842,11 +1581,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 
 (Rumah kehidupan dan penghidupannya) Scorpio dan Mars: Penghidupannya pada masa awal usia muda terasa sempit dan berliku; ia harus menanggung jerih payah dan berbagai perjalanan jauh demi mencari nafkah; namun tatkala ia telah menginjak usia empat puluh tahun, Allah membukakan baginya pintu-pintu kebajikan, ia dianugerahi rezeki yang lapang, dan sumber penghasilannya banyak didapat dari profesi kemiliteran/ketegasan hukum atau perniagaan yang lihai; ia tidak akan berpulang ke rahmatullah melainkan dalam keadaan berkecukupan dan terhormat. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياته ومعيشته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1858,11 +1592,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 *(baytu maalihi wa tijaaratihi  al-Qawsi wal-Musytarii  yajma'u amawwaalan jaziilatan min jihaati syattaa, wa yunfiqu minhaa bisakhaa'in 'alaa ahlihi wa 'iyaalihi, wa rubbamaa dhaa'a minhu syay'in minal-maali fii tijaaratil-bahri tsumma yu'awwidhuhu Allaahi khayran minhu, wa lahu hazhzhun fii syiraa'il-araadhii wal-'aqaaraati, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta benda dan perniagaannya) Sagittarius dan Yupiter: Ia mampu menghimpun kekayaan melimpah dari berbagai sumber usaha; membelanjakannya dengan murah hati untuk keluarga dan tanggungannya; terkadang ada sebagian modalnya yang merugi dalam ekspedisi perniagaan laut namun kemudian Allah menggantinya dengan laba berlipat ganda; ia sangat beruntung dalam investasi tanah dan kepemilikan properti/bangunan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت ماله وتجارته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1876,11 +1605,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 
 (Rumah saudara laki-laki dan perempuannya) Capricorn dan Saturnus: Ia hanya memiliki sedikit saudara kandung; tidak sejalan dengan mereka dalam pandangan maupun musyawarah; bahkan ia kerap menghadapi kedengkian dan sikap dingin dari mereka; semakin ia menjaga jarak dari mereka maka itu semakin baik dan menyelamatkan kehormatan serta hartanya; ia justru mendapatkan kebaikan dari orang lain yang tidak ia dapati dari kerabat dekatnya sendiri. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوته وأخواته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1892,11 +1616,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 *(baytu aabaa'ihi wa ummahaatihi  ad-Dalwi wa Zuhala  yaritsu min wad-diihu khayran qaliilan, wa yadfinu ummihi qabla abiihi, wa yakuunu abuuhu muhibban lahu raadhiyan 'anhu, wa yanaalu min barakatin du'aa'i wad-diihu maa yunjiihi minal-mahaaliki, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah bapak dan ibunya) Aquarius dan Saturnus: Ia memperoleh warisan materiil yang sedikit dari kedua orang tuanya; memakamkan ibunya lebih dahulu sebelum ayahnya; ayahnya sangat menyayanginya dan meridhai jalan hidupnya; berkat doa restu kedua orang tuanyalah ia senantiasa terselamatkan dari berbagai jurang kebinasaan. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائه وأمهاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1912,11 +1631,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 
 (Rumah anak-anak dan kebahagiaannya) Pisces dan Yupiter: Sebagian besar keturunannya adalah anak laki-laki; ia memetik kegembiraan dan kebanggaan dari mereka; di antara anak-anaknya akan muncul seorang putra yang cerdas berpangkat tinggi dan terpandang martabatnya; terkadang seorang putranya wafat di masa kecil yang membuatnya berduka, namun Allah memberinya pengganti keturunan yang saleh. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولاده وأفراحه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1928,11 +1642,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 *(baytu amraadhihi wa 'ilalihi  al-Hamali wal-Mirriikhi  tushiibuhul-amraadhul-haarratu kal-hummayaati wa waja'ir-ra'si wad-damaamili wal-bwaasiiri wa waja'il-kabidi, fa-layuktsiru min syurbis-sakanjabiini wa aklil-khiyaari wal-qar'i wal-buquulil-baaridati, wa yuhadzdziru min akull al-luhuumil-haarrati wat-tawaabilil-hariifata, wa yafshidu 'irqul-qiifaalu fir-rabii'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhannya) Aries dan Mars: Ia rentan terserang penyakit berelemen panas seperti demam tinggi, sakit kepala sebelah (migrain), bisul-bisul, wasir/ambeien, dan gangguan organ hati; maka hendaklah ia memperbanyak minum ramuan oxymel (sikinjabin), mentimun, labu air, dan sayuran pendingin; menghindari makanan daging berlemak panas serta bumbu-bumbu yang terlalu pedas menyengat; dan melakukan fashdu (terapi buang darah) pada urat cephalic (vena cephalica) di musim semi. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضه وعلله ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1946,11 +1655,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 
 (Rumah wanita-wanita dan ranjangnya) Taurus dan Venus: Ia menikahi dua atau tiga orang wanita; istri pertamanya adalah wanita terhormat dari keturunan bangsawan, yang melaluinya ia memperoleh rezeki dan status; namun wanita itu memiliki tabiat pencemburu dan berlidah tajam; kemudian ia menikahi wanita lain setelahnya yang tulus membantunya dalam urusan duniawi serta menentramkan hatinya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت نسائه وفراشه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1962,11 +1666,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 *(baytu khawfihi wa mawtihi  al-Jawzaa'i wa 'Uthaarida  yukhaafu 'alayhi min dharbati sayfin aw tha'natu rumhin aw saqthatun min makaani murtafi'i, wa a'waamal-khuthuri 'indahu  tasa'u siniina, wa tsamaanii 'asyrata sanatin, wa sab'i wa tsalaatsuuna sanatin, khamsuuna sanatin, fa-in najaa minhaa imtadda 'umruhu ilaa tsamaaniina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah ketakutan dan kematiannya) Gemini dan Merkurius: Dikhawatirkan atasnya bahaya tebasan pedang, luka senjata tajam, atau terjatuh dari tempat yang tinggi; tahun-tahun rawan dalam hidupnya berada pada usia sembilan tahun, delapan belas tahun, tiga puluh tujuh tahun, dan lima puluh tahun; bila ia mampu melewati semua masa kritis tersebut, usianya akan berlanjut hingga delapan puluh tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفه وموته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -1980,11 +1679,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 
 (Rumah perjalanan-perjalanan dan mobilitasnya) Cancer dan Bulan: Ia kerap melakukan perjalanan jauh melalui rute darat maupun perairan laut; perjalanannya ke negeri-negeri utara dan timur membawa keberkahan serta kemudahan; ia mendulang laba melimpah dari perniagaannya saat musafir; serta dianugerahi kesempatan menunaikan ibadah haji ke Baitullah al-Haram dan ziarah ke makam Nabi Muhammad shallallahu 'alaihi wa sallam. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفاره وحركاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -1996,11 +1690,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 *(baytu 'izzihi wa sulthaanihi  al-Asadi wasy-Syamsi  yartafi'u sya'nuhu 'indal-muluuki wal-umaraa'i wa akaabirid-dawlati, wa yuulaal-manaashibal-jaliilata kaqiyaadatil-jaysyi aw al-amaaratu, wa tunaffidzu kalimatuhu baynal-anaami, wa yashiiru malja'un li-ashhaabal-hawaa'iji, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kewibawaan dan kepemimpinannya) Leo dan Matahari: Martabatnya terangkat luhur di mata para raja, pangeran, dan petinggi negara; ia dipercaya memangku jabatan-jabatan strategis seperti panglima komando pasukan atau kepemimpinan daerah; instruksinya dipatuhi di tengah khalayak, dan ia menjadi rujukan tempat meminta bantuan bagi orang-orang yang berhajat. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزه وسلطانه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2016,11 +1705,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 
 (Rumah cita-cita dan harapannya) Virgo dan Merkurius: Ia menggantungkan harapan-harapan besar untuk mengumpulkan kekayaan, memiliki perkebunan luas, dan aset-aset berharga; Allah akan mengaruniainya pencapaian melampaui apa yang ia bayangkan sebelumnya; ia dianugerahi tekad membaja yang mana jika ia telah berniat mengerjakan sesuatu, ia akan menyelesaikannya secara paripurna dengan pertolongan dan taufik Allah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائه وآماله ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2032,11 +1716,6 @@ Berkata sang ahli falak: Buruj Scorpio adalah buruj berelemen air, bersifat mala
 *(baytu a'daa'ihi wa hussaadihi  al-Miizaani waz-Zuharati  a'addaa'uhu min ashhaabid-dahaa'i wan-nifaaqidz-dziin yazhharuunal-mawaddata wa yabthunuunal-'adaawata, wa khaashshatan min kaana thaali'uhu hawaa'iyyan, fa-layuhadzdziru min mukhaalathatil-fussaaqi wal-wusyaati, fa-in Allaahi Ta'aalaa kaafiyuhu wa naashiruhu 'alayhim, wallaahu Ta'aalaa a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Libra dan Venus: Musuh-musuhnya adalah kalangan orang munafik yang bermuka manis; mereka menampakkan persahabatan di depan mata namun menyembunyikan permusuhan di dalam dada, terkhusus orang-orang yang berbintang elemen udara; maka hendaklah ia waspada jangan sampai bergaul erat dengan para penyebar fitnah; sesungguhnya Allah Ta'ala senantiasa mencukupkan perlindungan dan menolongnya atas tipu daya mereka. Wallahu Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائه وحساده ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2061,10 +1740,6 @@ Berkata Syaikh Abu Ma'syar al-Falaki: Ketahuilah wahai penanya, sesungguhnya lam
 *Jangan sekali-kali engkau berbuat zalim tatkala engkau memiliki kekuasaan * Karena kezaliman itu pada akhirnya hanya berujung penyesalan mendalam*
 *Kedua matamu terlelap nyenyak sementara orang yang terzalimi terjaga * Ia mendoakan keburukan atasmu, dan mata pengawasan Allah tak pernah tidur.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 ## HALAMAN CETAK 48 (Halaman PDF 24, sisi kanan)
@@ -2080,10 +1755,6 @@ Berkata Syaikh Abu Ma'syar al-Falaki: Ketahuilah wahai penanya, sesungguhnya lam
 **[Terjemahan Indonesia]**
 
 Inilah barisan huruf asma (satr huruf) dan khatam/wafaq pelindung berkah bagi pemilik buruj Scorpio: Ditulis pada sa'ah (jam) Mars di hari Selasa di atas lempengan besi atau tembaga merah, atau menggunakan tinta larutan za'faran, misik murni, dan air mawar di atas kertas suci; kemudian diasapi dengan uap kayu cendana merah, kemenyan kundur, dan getah hiltit (asafoetida); lalu dikenakan sebagai azimat penjaga — dan inilah gambar rajah baris huruf dan wafaq tersebut.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
 
 ---
 
@@ -2118,9 +1789,6 @@ Inilah barisan huruf asma (satr huruf) dan khatam/wafaq pelindung berkah bagi pe
 Inilah bacaan azimah dan doa pelindung bagi pemilik buruj Scorpio:
 "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Wahai Dzat Yang Maha Menundukkan, wahai Dzat Yang Maha Perkasa, wahai Pemilik Siksa Yang Amat Dahsyat, wahai Dzat Yang Menghinakan kaum tirani dan Menghancurkan kesombongan raja-raja zalim; lindungilah diriku dari kejahatan orang-orang jahat, tipu daya para pendosa, dan marabahaya silih bergantinya siang dan malam; karuniakanlah kepadaku cahaya dari cahaya-Mu, kewibawaan dari kekuasaan-Mu, serta kuatkanlah diriku dengan tentara-Mu yang senantiasa menang. Semoga shalawat serta salam sempurna senantiasa tercurah kepada nabi kami Muhammad beserta keluarganya."
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 ## HALAMAN CETAK 49 (Halaman PDF 24, sisi kiri)
@@ -2146,9 +1814,6 @@ Inilah bacaan azimah dan doa pelindung bagi pemilik buruj Scorpio:
 *Baginya dianugerahi hikmah yang luhur dan pandangan yang lurus tepat sasaran * Mengangkat martabatnya di atas seluruh makhluk dengan cita-cita yang tinggi membaja*
 *Ia mencintai kedermawanan dan membenci watak orang kikir * Serta dikaruniai sepanjang hayatnya dengan segala keindahan rupa dan budi.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2165,9 +1830,6 @@ Inilah bacaan azimah dan doa pelindung bagi pemilik buruj Scorpio:
 
 (Uraian tentang watak thali' kelahiran, ragam wajah, dan tabiat manusia di bawah naungannya)
 Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersifat siang hari, maskulin, dengan watak panas dan kering; menjadi pertanda kemuliaan, kehormatan, keluhuran jiwa, cita-cita tinggi, keberanian kesatria, serta kecintaan mendalam pada ilmu pengetahuan dan filsafat hikmah. Orang yang bernaung di bawah buruj ini berpostur tubuh rupawan, berkulit putih merona kemerahan, kedua matanya indah memikat, berjanggut rapi, berdada bidang, berhati teguh berani, jujur dalam bertutur kata; dan ia memiliki tiga wajah (wajh).
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
 
 ---
 
@@ -2191,10 +1853,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Yupiter: Ia berpotensi besar menjadi seorang ahli fikih, hakim agung, atau ulama terkemuka; tekun menuntut ilmu-ilmu syariat dan hikmah falsafah; dipercaya di kalangan para penguasa dan pejabat tinggi; dicintai oleh masyarakat umum maupun kalangan terpelajar; memperoleh kekayaan dan kelimpahan rezeki yang banyak; serta diberkahi umur dan penghidupannya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2206,10 +1864,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 *(al-wajhuts-tsaanii  min nazhara ilayhil-Mirriikhi  yakuunu rajulan jirrii'an syajaa'an, yuhibbul-asfaaru wa rukuubul-makhaathiri, wa rubbamaa kaana jundiyyan aw shaahibu huruubin, yanaalul-ghulbata 'alaa aqraanihi, wa yajma'u amawwaalan minal-ghanaa'imi wat-tijaaraati, wa ya'tariihil-ghadhabu sarii'an, wallaahu Ta'aalaa a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Mars: Ia berwatak pemberani dan tangguh; menyukai petualangan penjelajahan dan mengambil tantangan berisiko; terkadang berprofesi sebagai prajurit atau komandan lapangan; unggul mengalahkan rival-rivalnya; mengumpulkan kekayaan dari hasil rampasan yang halal dan perniagaan strategis; namun memiliki emosi yang cepat tersulut. Wallahu Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -2223,10 +1877,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 
 (Wajah Ketiga) Bagi yang dipandang oleh Matahari: Ia memiliki karisma wibawa kepemimpinan yang memukau; berparas tampan bersinar; sangat dermawan tangannya; menyayangi kaum fakir dan miskin; diangkat menjadi pemimpin di tengah kaumnya; pundi-pundi kekayaan mengalir kepadanya dari berbagai penjuru tanpa kesulitan yang memberatkan; serta dianugerahi keberkahan dalam keluarga dan keturunannya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2238,11 +1888,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 *(baytu hayaatihi wa ma'iisyatihi  al-Qawsi wal-Musytarii  takuunu hayaatihi fii sullaamatin wa 'aafiyatin, wa ma'iisyatihi jayyidatu waasi'atan, yanaalu minar-rizqi maa yakfiihi wa yaziidu, wa laa yuzaalu fii irtiqaa'in wa 'uluwwi sya'nin hattaa yablughul-ghaayata, wa laa yamuutu illaa fii haali maradhiyyati wa 'aysyi raghiidi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kehidupan dan penghidupannya) Sagittarius dan Yupiter: Garis kehidupannya diliputi keselamatan dan kesehatan lahir batin; penghidupannya lapang dan makmur; memperoleh rezeki yang senantiasa mencukupi bahkan berlebih; kariernya terus merangkak naik meraih puncak kemuliaan; dan ia tidak berpulang ke hadirat Ilahi melainkan dalam kondisi yang diridhai serta kehidupan yang sejahtera. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياته ومعيشته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2256,11 +1901,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 
 (Rumah harta dan hasil usahanya) Capricorn dan Saturnus: Ia meraih kekayaan dari tetesan keringat usahanya sendiri melalui perniagaan, agrobisnis, dan pembangunan properti; ia sangat bijak mengelola keuangannya dan tidak menghamburkannya pada hal yang sia-sia; Allah memberkahi hartanya sehingga ia mampu membeli banyak tanah pekarangan dan rumah-rumah permanen. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت ماله وكسبه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2272,11 +1912,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 *(baytu ikhwatihi wa akhawaatihi  ad-Dalwi wa Zuhala  yakuunu lahu ikhwatin wa akhawaatin dzukuuran wa inaatsan, wa yakuunu huwa anajabahum wa a'laahum qadraa, wa yanaalu minhum mawaddatan wa mahabbatan, wa yaqifuuna bijaanibihi fisy-syadaa'idi, wa laa yaraa minhum illaa khayran, wallaahu Ta'aalaa a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah saudara-saudaranya) Aquarius dan Saturnus: Ia memiliki beberapa saudara kandung laki-laki dan perempuan; dialah yang paling menonjol kepandaiannya serta paling tinggi derajat kedudukannya di antara mereka; ia memperoleh ketulusan kasih sayang dari saudara-saudaranya yang selalu siap mendampinginya di saat susah; dan ia tidak melihat dari mereka melainkan kebaikan. Wallahu Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوته وأخواته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2292,11 +1927,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 
 (Rumah bapak dan ibunya) Pisces dan Yupiter: Ia adalah anak yang sangat berbakti dan berbuat ihsan kepada kedua orang tuanya; ia mereguk keberkahan doa dan restu keduanya yang membuatnya hidup bahagia di dunia hingga akhirat; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya aset properti dan harta yang halal lagi baik. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائه وأمهاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2308,11 +1938,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 *(baytu awlaadihi wa afraahihi  al-Hamali wal-Mirriikhi  yurzaqu bi-awlaadin dzukuurin wa inaatsin, wa yakuunu awwalu mawluudin lahu dzikran, wa yanaalu bihi fa-rahan 'azhiiman, wa yakuunu awlaadihi ashhaabu najaabatin wa syajaa'atin, wa yantafi'u bahum fii kibari sinnuhu, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah anak-anak dan kebahagiaannya) Aries dan Mars: Ia dikaruniai putra dan putri; anak sulungnya adalah seorang laki-laki yang membawa kegembiraan melimpah; anak-anaknya tumbuh mewarisi kecerdasan dan keberanian kesatria; serta menjadi sandaran yang sangat berbakti di hari tuanya kelak. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولاده وأفراحه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2326,11 +1951,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 
 (Rumah penyakit dan keluhan fisiknya) Taurus dan Venus: Ia rentan terkena gangguan pada organ dada, radang tenggorokan, dahak pekat, serta angin duduk/kembung berat; maka dianjurkan rutin mengonsumsi madu murni, air mawar, jahe hangat, dan kemenyan obat (luban); serta menjauhi kebiasaan meminum air dingin saat perut kosong di pagi hari. Wallahu Subhanahu wa Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضه وأسقامه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2342,11 +1962,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 *(baytu nisaa'ihi wa firaasyihi  al-Jawzaa'i wa 'Uthaarida  yatazawwaju biaamra'ati hasiibati nasiibati dzaat 'aqlin wa jamaalin, tu'ayyinuhu 'alaa amri diinihi wa dunyaahi, wa rubbamaa tazawwujin bi'ukhraa min bilaadin ba'iidatin, wa takuunu ma'iisyatuhu ma'a nisaa'ihi fii wifaaqin wa suruurin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah istri-istri dan peraduannya) Gemini dan Merkurius: Ia memperistri wanita dari nasab terhormat yang cerdas dan elok parasnya; wanita itu menjadi pendamping setia yang menopang urusan agama dan dunianya; terkadang ia mengambil istri kedua yang berasal dari negeri yang jauh; dan jalinan rumah tangganya senantiasa diliputi keharmonisan serta ketentraman. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت نسائه وفراشه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2360,11 +1975,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 
 (Rumah ketakutan dan masa krisisnya) Cancer dan Bulan: Dikhawatirkan atasnya penyakit akibat kelembapan berlebih, insiden perairan, dan bahaya badai laut; adapun tahun-tahun rawan usianya adalah 12 tahun, 24 tahun, 36 tahun, dan 48 tahun; jika ia mampu melaluinya dengan selamat, usianya akan berlanjut hingga 90 tahun atas rahmat Allah Ta'ala. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفه وموته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2377,20 +1987,15 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 
 (Rumah perjalanan dan pergerakannya) Leo dan Matahari: Ia kerap melakukan perjalanan ke kota-kota metropolitan dan pusat-pusat istana kerajaan; rute perjalanannya menuju arah kiblat dan selatan membawa berkah melimpah; ia memetik kemuliaan martabat, wibawa, dan harta yang melimpah; serta dinaungi taufik Ilahi dalam setiap gerak dan diamnya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفاره وحركاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 > **STATUS BATCH 5: SELESAI** (Halaman Cetak 42–51 / Halaman PDF 21–25).
 > Rajah/wafaq/tilsam batch ini telah di-crop presisi, latar putih, tersimpan di folder `rajah/`:
 > `rajah_p43_wafaq_mizan.png`, `rajah_p44_tilsam_aqrab.png`, `rajah_p48_satr_aqrab.png`, `rajah_p48_wafaq_aqrab.png`, `rajah_p50_tilsam_qaus.png`.
 
-# BATCH 6 — HALAMAN PDF 26–30 (HALAMAN CETAK 52–61)
-
 ---
+
+# BATCH 6 — HALAMAN PDF 26–30 (HALAMAN CETAK 52–61)
 
 ---
 
@@ -2406,11 +2011,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 
 (Rumah kemuliaan dan kekuasaannya) Virgo dan Merkurius: Ia meraih wibawa kedudukan yang luas dan status terpandang di sisi kalangan sastrawan birokrat, para menteri, dan petinggi sekretariat negara; banyak orang menaruh rasa hormat dan patuh kepadanya; ia memiliki kecakapan manajemen yang matang dalam mengelola urusan umum maupun privat; serta memperoleh kenaikan pangkat demi kenaikan pangkat hingga menjadi salah satu tokoh terkemuka di zamannya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزه وسلطانه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2423,11 +2023,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 
 (Rumah harapan dan cita-citanya) Libra dan Venus: Ia memperoleh apa yang ia dambakan berupa kelapangan rezeki dan limpahan nikmat; senantiasa dinaungi keberuntungan dalam setiap apa yang ia usahakan; disukai oleh siapa pun yang memandangnya; di hari tuanya ia dianugerahi ketentraman jiwa dan kebahagiaan hidup; serta diberi taufik untuk senantiasa bersyukur atas nikmat dan istiqamah dalam ketaatan ibadah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائه وآماله ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2439,11 +2034,6 @@ Berkata sang ahli astrologi: Buruj Sagittarius adalah buruj berelemen api, bersi
 *(baytu a'daa'ihi wa hussaadihi  al-'Aqrabi wal-Mirriikhi  a'addaa'uhu min ashhaabid-dimaa'il-haarrati wa ahlil-khushuumaati, wa rubbamaa kaana lahu 'aduwwin min ahlihi aw jiiraanuhu yas'aa fii dhararihi, fa-yanshuruhu Allaahi 'alayhi wa yakfiihi syarihun, wallaahu Ta'aalaa a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Scorpio dan Mars: Musuh-musuhnya adalah orang-orang yang bertemperamen panas dan gemar berselisih; terkadang ada musuh tersembunyi dari kalangan kerabat atau tetangga dekat yang berusaha mencelakakannya; namun Allah senantiasa menolongnya dan melindunginya dari marabahaya mereka. Wallahu Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائه وحساده ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2468,10 +2058,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai penanya, sesungguhnya bentuk al-Bayad
 *Tetaplah berpegang pada kejujuran dalam setiap tutur kata * Karena dengan kejujuranlah tercapai segala cita-cita*
 *Janganlah berlaku curang dan jadilah pribadi yang berhati suci * Niscaya engkau merengkuh kemuliaan di tempat yang amat luhur.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 ## HALAMAN CETAK 53 (Halaman PDF 26, sisi kiri)
@@ -2487,10 +2073,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai penanya, sesungguhnya bentuk al-Bayad
 **[Terjemahan Indonesia]**
 
 Inilah gambar susunan barisan huruf asma (satr huruf) dan khatam/wafaq pelindung berkah bagi pemilik buruj Sagittarius: Ditulis pada jam pertama Yupiter di hari Kamis dengan tinta racikan za'faran dan air mawar; lalu diasapi dengan wewangian kayu gaharu basah, kemenyan jawi (benzoin), dan mustaka murni; kemudian dibawa dalam keadaan suci sempurna — dan inilah gambar rajah baris huruf dan wafaq tersebut.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
 
 ---
 
@@ -2525,9 +2107,6 @@ Inilah gambar susunan barisan huruf asma (satr huruf) dan khatam/wafaq pelindung
 Inilah bacaan doa azimah mulianya:
 "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Wahai Dzat Yang Maha Pengasih, wahai Dzat Yang Maha Penyayang, wahai Dzat Yang Maha Mendengar lagi Maha Mengetahui; wahai Dzat Yang Membentangkan rezeki bagi siapa saja yang Dia kehendaki tanpa perhitungan; bukakanlah bagiku pintu-pintu karunia-Mu, limpahkanlah kepadaku keberkahan-keberkahan-Mu, jadikanlah cahaya pelita dalam pendengaranku, penglihatanku, dan hatiku; serta lindungilah diriku dari marabahaya segala yang datang di waktu malam dan siang kecuali kedatangan yang membawa kebaikan, wahai Dzat Yang Maha Pengasih. Semoga shalawat serta salam senantiasa tercurah kepada junjungan kami Nabi Muhammad beserta segenap keluarga dan sahabat beliau seluruhnya."
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 ## HALAMAN CETAK 54 (Halaman PDF 27, sisi kanan)
@@ -2552,9 +2131,6 @@ Inilah bacaan doa azimah mulianya:
 *Penguasa orbit Capricorn adalah Saturnus sang bintang pemikir yang kokoh * Menunjukkan ketenangan, kesabaran mendalam, dan keteguhan langkah*
 *Ia memiliki tatapan tajam berwibawa dan tekad yang murni * Mampu meraih apa yang diharapkannya meski melewati penantian panjang*
 *Menghadapi berbagai rintangan berat di awal usia muda * Hingga kemudian melangkah pasti menuju kedudukan yang paling agung.*
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
 
 ---
 
@@ -2581,9 +2157,6 @@ Inilah bacaan doa azimah mulianya:
 (Uraian tentang watak dasar thali' kelahiran, tiga wajah, dan kepribadian di bawah naungannya)
 Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi), bersifat malam hari, feminin, dengan tabiat dingin dan kering; melambangkan kesabaran baja, daya tahan tinggi, kesungguhan kerja, ketenangan sikap, dan kepandaian menjaga rahasia. Pria yang lahir pada buruj ini berkulit sawo matang atau condong kekuningan, berpostur ramping dengan struktur tulang yang kuat dan kokoh, berbahu lebar, tidak mudah tersulut emosi, berhati-hati dalam setiap tindakan, hemat bicara namun berwawasan luas; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2595,10 +2168,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 *(al-wajhul-awwalu  min nazhara ilayhi Zuhala  yakuunu rajulan shabuuran 'alaa asy-syadaa'idi, ya'malu fil-binaa'i aw al-falaahatu aw at-ta'diinu, wa yajma'ul-maali bit-tadbiiri wa husnil-iqtishaadi, wa yakuunu mahaaban 'indal-khaashshati wal-'aammati, qaliiludh-dhahiki, jaaddun fii jamii'i ahwaalihi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Saturnus: Ia menjadi pribadi yang sangat tangguh menghadapi terpaan ujian hidup; cocok berkarya di bidang konstruksi/arsitektur, perkebunan/pertanian, atau pertambangan; mengumpulkan pundi kekayaan dengan manajemen keuangan yang teliti dan hemat; disegani oleh kalangan elite maupun masyarakat umum; jarang tertawa terbahak-bahak; dan selalu bersikap serius dalam seluruh aspek kehidupannya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -2612,10 +2181,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Venus: Ia cenderung menyukai ketenangan dan kerukunan; gemar bercocok tanam dan menghijaukan lingkungan; tulus bening niat hatinya; diberkahi kelimpahan dalam rezeki dan hartanya; memperoleh peruntungan yang baik dari kaum wanita; serta menjalani kehidupan dalam suasana damai dan tentram. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2627,10 +2192,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 *(al-wajhuts-tsaalitsu  min nazhara ilayhi 'Uthaarida  yakuunu rajulan dzaa hukmatin wa dahaa'in, shaahibu hisaabi wa tadbiirin, yanaalu martabatan fii kitaabatid-dawaawiini, wa yashluhu lil-qadhaa'u wal-amaanaatu, wa yajma'u bayna hukmatisy-syuyuukhi wa nasyaathisy-syabaabi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Merkurius: Ia dianugerahi kecerdasan logika dan kebijaksanaan hikmah; mahir dalam bidang perhitungan, akuntansi, dan administrasi; berpotensi menduduki posisi penting dalam kesekretariatan negara; sangat layak memangku jabatan hakim dan pengelola amanah publik; serta memadukan kematangan berpikir para sesepuh dengan etos kerja kaum muda. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -2646,11 +2207,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 
 (Rumah kehidupan dan penghidupannya) Capricorn dan Saturnus: Kehidupannya pada fase awal terasa berat penuh perjuangan; ia menjumpai berbagai kesempitan dan letihnya ikhtiar; namun tatkala ia mendekati usia empat puluh tahun, urusannya mulai mapan dan dunia membukakan manfaatnya; ia terus menghimpun kepemilikan aset tanah dan bangunan hingga menjadi tokoh terpandang di negerinya; dan ia tidak wafat melainkan dalam limpahan nikmat serta penjagaan kehormatan dari Allah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياته ومعيشته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2662,11 +2218,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 *(baytu maalihi wa tijaaratihi  ad-Dalwi wa Zuhala  yaktasibul-amwaali min jihaatin mastuuratin baghayri jalbatin, wa yadha'u amwaaluhu fit-tijaaraatil-ma'muunati kal-hubuubi wal-ghilaali wal-ma'aadini, wa yahrushu 'alaa iddikhaaril-maali li-nawaa'ibad-dahri, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kekayaan dan perniagaannya) Aquarius dan Saturnus: Ia meraih penghasilan dari sumber-sumber yang tenang tanpa banyak kegaduhan; menanamkan modalnya pada sektor perniagaan primer yang aman seperti komoditas biji-bijian, hasil bumi, dan logam mulia; serta sangat disiplin menabung untuk mengantisipasi gejolak zaman. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت ماله وتجارته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2680,11 +2231,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 
 (Rumah saudara-saudaranya) Pisces dan Yupiter: Ia memiliki saudara-saudara yang sangat ia sayangi dan ia bantu; dialah yang menjadi tumpuan penopang bagi kebutuhan-kebutuhan mereka; dan ia memetik doa-doa kebaikan serta kasih sayang yang abadi dari mereka. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوته وأخواته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2697,11 +2243,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 
 (Rumah orang tuanya) Aries dan Mars: Ia mendapatkan didikan yang tegas dan disiplin dari ayahnya; terkadang terjadi sedikit perbedaan sudut pandang di masa muda, namun keadaan kembali harmonis melalui bakti dan ketaatan tulus; serta ia memakamkan ibunya lebih dahulu sebelum ayahnya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائه وأمهاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2713,11 +2254,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 *(baytu awlaadihi wa afraahihi  ats-Tsawri waz-Zuharati  yurzaqu bi-awlaadin mubaarakiina dzukuuran wa inaatsan, wa yakuunu aktsaruhum anaatsaa, wa yanaalu minhum bahijatan wa suruuran, wa yakuunu awlaadihi ashhaabu khalaqa wa barrin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah anak-anak dan kebahagiaannya) Taurus dan Venus: Ia dikaruniai keturunan yang penuh berkah baik putra maupun putri; dan sebagian besar anak-anaknya adalah perempuan; ia merasakan kebahagiaan dan kehangatan yang mendalam dari mereka; serta anak-anaknya tumbuh berbudi pekerti luhur dan berbakti. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولاده وأفراحه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2733,11 +2269,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 
 (Rumah penyakit dan keluhan fisiknya) Gemini dan Merkurius: Ia rentan mengalami keluhan pada struktur tulang, persendian kaku, nyeri kedua lutut, rasa dingin pada ujung jari-jemari, serta kulit kering; maka dianjurkan rutin mengoleskan minyak berkhasiat hangat seperti minyak zaitun dan minyak jarak; meminum kuah kaldu bergizi dengan rempah-rempah aromatik; serta berhati-hati jangan sampai terpapar angin malam yang dingin menusuk. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضه وعلله ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2749,11 +2280,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 *(baytu nisaa'ihi wa firaasyihi  as-Sarathaani wal-Qamari  yatazawwaju biaamra'ati mubaarakatun mudabbarati lubbiyyatihaa, tuhsinul-qiyaama 'alaa syu'uunihi, wa yanaalu minhaa raahatan wa thuma'niinatan, wa rubbamaa kaana baynahumaa ba'dhul-'itaabi tsumma yuzawwilu sarii'an, wa takuunu 'usyratuhumaa thawiilatu mubaarakatun, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah istri-istri dan peraduannya) Cancer dan Bulan: Ia memperistri wanita salehah yang pandai mengurus rumah tangga; telaten melayani kebutuhan suaminya; ia memetik ketentraman dan kedamaian hati bersamanya; terkadang timbul perselisihan kecil namun segera reda dengan saling memaafkan; dan jalinan ikatan pernikahan mereka berlangsung langgeng penuh berkah. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت نسائه وفراشه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2767,11 +2293,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 
 (Rumah ketakutan dan masa krisis usianya) Leo dan Matahari: Dikhawatirkan atasnya gangguan peredaran darah jantung dan keletihan usia senja; tahun-tahun rawan dalam siklus usianya adalah 10 tahun, 20 tahun, 30 tahun, 50 tahun, dan 70 tahun; jika ia berhasil melaluinya dengan selamat, umurnya akan mencapai 80 tahun dalam keadaan sehat afiat. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفه وموته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2783,11 +2304,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 *(baytu asfaarihi wa harakaatihi  as-Sunbulati wa 'Uthaarida  safarihi ilaa jihatil-gharbi khayrun lahu minasy-syarqi, wa yakuunu sayrahu fit-tijaarati wal-a'maalil-maydaaniyyati mubaarakan, wa yanaalu fii asfaarihi fa-waa'ida maaliyyata wa 'alaaqaatin naafi'atin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah perjalanan dan pergerakannya) Virgo dan Merkurius: Bepergian menuju arah barat membawa keberuntungan lebih baik baginya dibanding arah timur; perjalanannya untuk urusan bisnis niaga dan peninjauan lapangan senantiasa membuahkan hasil; serta ia memperoleh keuntungan finansial dan jaringan relasi yang sangat bermanfaat. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفاره وحركاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2801,11 +2317,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 
 (Rumah kehormatan dan status sosialnya) Libra dan Venus: Kedudukannya terangkat mulia di tengah kaumnya berkat sikapnya yang adil dan bijaksana; ia kerap dijadikan rujukan dalam mendamaikan perselisihan dan musyawarah keluarga; memperoleh kepercayaan dari para pejabat dan aparat peradilan; serta menuai rasa hormat di mana pun ia berada. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزه وسلطانه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2817,11 +2328,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 *(baytu rajaa'ihi wa aamaalihi  al-'Aqrabi wal-Mirriikhi  yablughu maa yatamannaahu min jam'il-amwaali wa tatsbiitil-makaanati, wa yakuunu quwaal-iraadati laa tatsanniyihisy-syadaa'ida 'an buluughi maraamihi, wa yurzaqu 'aaqibatu hamiidatu wa khaatimatu hasanatun, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harapan dan cita-citanya) Scorpio dan Mars: Ia berhasil menggapai apa yang dicita-citakannya berupa kemapanan finansial dan pengakuan sosial; berjiwa pantang menyerah yang tak gentar menghadapi tantangan hidup; serta dianugerahi akhir hidup yang terpuji dan husnul khatimah. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائه وآماله ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2836,11 +2342,6 @@ Berkata sang ahli astrologi: Buruj Capricorn adalah buruj berelemen tanah (bumi)
 *(baytu a'daa'ihi wa hussaadihi  al-Qawsi wal-Musytarii  a'addaa'uhu qaliiluuna la'ann khalqihi yaghlibu 'adaawatuhum, wa idzaa 'aadaahu ahadun kafaahu Allaahi syarahin bibarakati niyyatihish-shaadiqati, wa yakuunu manshuuran 'alaa kullu min 'aanidihi, wallaahu Ta'aalaa a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Sagittarius dan Yupiter: Musuh-musuhnya tergolong sedikit karena keindahan akhlaknya mampu meluluhkan kebencian orang lain; dan apabila ada yang memusuhinya, Allah mencukupkan perlindungan dari kejahatan mereka berkat ketulusan niatnya; serta ia senantiasa ditolong mengungguli siapa saja yang bersikap keras kepala kepadanya. Wallahu Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائه وحساده ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -2865,10 +2366,6 @@ Berkata sang guru falak: Ketahuilah bahwa simbol al-'Utbah ad-Dakhilah menunjukk
 *Bersabarlah niscaya engkau meraih kemuliaan yang kau dambakan * Karena kesabaran adalah kunci pembuka setiap keberhasilan*
 *Janganlah sekali-kali berputus asa dari jalan keluar yang dihadirkan * Oleh tangan kekuasaan Allah di setiap pagi dan petang.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 57 — Satar Huruf al-Jady]**
@@ -2876,8 +2373,6 @@ Berkata sang guru falak: Ketahuilah bahwa simbol al-'Utbah ad-Dakhilah menunjukk
 ![Gambar Rajah Asli Halaman 57 - Satar Huruf al-Jady](rajah/rajah_p57_satr_jady.png)
 
 *Gambar Rajah Asli Halaman 57* — Satar Huruf keramat buruj al-Jady (Capricorn). Ditulis untuk perlindungan dari bahaya sihir, tolak bala serangan musuh, dan keteguhan batin.
-
----
 
 ---
 
@@ -2894,10 +2389,6 @@ Berkata sang guru falak: Ketahuilah bahwa simbol al-'Utbah ad-Dakhilah menunjukk
 **[Terjemahan Indonesia]**
 
 Inilah gambar khatam/wafaq keramat pelindung bagi pemilik buruj Capricorn: Ditulis pada sa'ah pertama Saturnus di hari Sabtu di atas lempengan timah murni atau kertas biru dengan tinta hitam beraroma wangi; diasapi dengan getah gaharu sabar (aloe), kemenyan jawi, dan getah mur; lalu dibawa dalam keadaan suci suci lahir dan batin — dan inilah gambar wafaq mulia tersebut.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
 
 ---
 
@@ -2924,9 +2415,6 @@ Inilah gambar khatam/wafaq keramat pelindung bagi pemilik buruj Capricorn: Ditul
 Adapun bacaan doa azimah pelindungnya adalah:
 "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Wahai Dzat Yang Maha Kekal Abadi, wahai Dzat Yang Maha Terdahulu tanpa permulaan, wahai Pencipta segala ciptaan, wahai Penolong yang menyambung segala yang patah, wahai Dzat Yang Memudahkan segala yang sulit; mudahkanlah bagiku segala urusan yang sukar, bukakanlah untukku khazanah perbendaharaan rahmat-Mu, lindungilah diriku dari fitnah-fitnah yang menyesatkan baik yang tampak maupun yang tersembunyi; karuniakanlah kepadaku lisan yang senantiasa jujur, hati yang khusyuk tunduk, dan aliran rezeki yang terus mengalir deras. Semoga limpahan shalawat dan salam sebanyak-banyaknya senantiasa tercurah kepada junjungan kami Nabi Muhammad beserta keluarga dan para sahabat beliau."
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 ## HALAMAN CETAK 59 (Halaman PDF 29, sisi kiri)
@@ -2951,9 +2439,6 @@ Adapun bacaan doa azimah pelindungnya adalah:
 *Penguasa orbit Aquarius adalah Saturnus sang pengatur hikmah yang kokoh * Menunjukkan kedalaman daya pikir, kecakapan siasat, dan penguasaan rahasia*
 *Ia dianugerahi akal pikiran yang matang dan sikap diam yang berwibawa mulia * Menjaga teguh ikatan janji baik dalam kesunyian maupun terang-terangan*
 *Mencintai kesetiaan dan senantiasa berikhtiar demi kemaslahatan bersama * Serta merengkuh jalan-jalan keberhasilan melalui kesabaran yang paripurna.*
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
 
 ---
 
@@ -2980,9 +2465,6 @@ Adapun bacaan doa azimah pelindungnya adalah:
 (Uraian tentang watak thali' kelahiran, pembagian tiga wajah, dan karakter pribadinya)
 Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersifat siang hari, maskulin, dengan watak dasar panas dan lembap; menjadi pertanda kecerdasan intelektual, ketajaman firasat, keluhuran budi, cita-cita sosial yang tinggi, serta ketulusan menebar kebaikan kepada sesama manusia. Orang yang bernaung di bawah buruj ini berkulit putih merona kuning langsat atau kemerahan, berperawakan sedang ideal, berwajah rupawan, elok gaya bicaranya, ramah rendah hati, berjiwa penyantun yang lapang dada; dan ia terbagi atas tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -2994,10 +2476,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 *(al-wajhul-awwalu  min nazhara ilayhi Zuhala  yakuunu rajulan mufakkiran hakiiman, yuhibbul-khilwatu wat-ta'ammulu, wa yanaalu minal-ma'aarifi wal-'uluumi maa laa yanaalah ghayrahu, wa yakuunu marji'an fil-masyuuraati wan-nashaa'ihi, qaliilul-kilaami, 'azhiimun al-haybati, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Saturnus: Ia menjadi seorang pemikir yang bijaksana dan berjiwa filosofis; menyukai saat-saat keheningan untuk bertafakur; menyerap berbagai cabang wawasan pengetahuan yang jarang dikuasai orang lain; kerap dijadikan tempat rujukan untuk memohon nasihat dan pertimbangan strategis; hemat dalam berbicara namun memancarkan wibawa yang luar biasa besar. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -3011,10 +2489,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Merkurius: Ia memiliki daya tangkap yang sangat cepat, bertutur kata fasih memukau, terampil dalam seni kepenulisan; menguasai keahlian-keahlian presisi dan ilmu-ilmu hitung matematika; meraih posisi terhormat di hadapan para pemegang otoritas; serta dicintai oleh segenap sahabat dan relasinya. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3026,10 +2500,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 *(al-wajhuts-tsaalitsu  min nazhara ilayhil-Musytarii  yakuunu rajulan sakhiyyan kariiman, yuhibbu fi'lul-khayri wa i'aanatidh-dhu'afaa'i, yanaalu jaahaa wa maalan minat-tijaaraatir-raabihati, wa yakuunu mubaarakan fii af'aalihi, maqbuulan 'indal-muluuki wal-'aamati, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Yupiter: Ia berjiwa dermawan dan berhati mulia; gemar berbuat kebajikan serta sigap mengulurkan pertolongan bagi kaum lemah; memperoleh kehormatan kedudukan dan limpahan harta dari perniagaan yang berkah; setiap langkahnya dinaungi kebaikan; serta diterima secara hangat di hadapan para penguasa maupun rakyat jelata. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -3045,11 +2515,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 
 (Rumah kehidupan dan penghidupannya) Aquarius dan Saturnus: Penghidupannya berada pada taraf menengah di masa mudanya; kemudian pintu-pintu rezeki terbuka lebar di hadapannya berkat kecerdikan siasat dan kejujuran dalam bertransaksi; memperoleh kekayaan dari berbagai bidang seperti perniagaan dan perindustrian kreatif; terus menanjak dalam kemapanan hingga memiliki banyak aset kekayaan dan properti; serta tidak berpulang ke rahmatullah melainkan dalam keadaan yang amat baik. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياته ومعيشته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3061,11 +2526,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 *(baytu maalihi wa kasbihi  al-Huuti wal-Musytarii  yurzaqu bimaali halaali katsiiru, wa yubaariku Allaahi fii makaasibihi, wa yunfiqu bisakhaa'in fii wujuuhin al-khayri wa binaa'il-masaajidi wa shilatil-arhaami, wa yu'awwidhuhu Allaahi khayran mimmaa anafaqun, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan hasil jerih payahnya) Pisces dan Yupiter: Ia dianugerahi rezeki harta halal yang melimpah ruah; Allah melimpahkan keberkahan dalam setiap usahanya; ia sangat royal berinfak pada amal kebajikan sosial, pembangunan masjid, dan mempererat tali silaturahim; dan Allah senantiasa mengganti apa yang ia nafkahkan dengan balasan yang berlipat ganda. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت ماله وكسبه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3079,11 +2539,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 
 (Rumah saudara-saudaranya) Aries dan Mars: Ia memiliki saudara-saudara kandung yang terkadang menimbulkan sedikit perselisihan dan aroma persaingan; namun dialah yang paling tangguh mentalnya dan paling tajam tekad keberaniannya; Allah memenangkannya di saat terjadi perdebatan, hingga akhirnya mereka kembali merajut kasih sayang kepadanya. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوته وأخواته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3096,11 +2551,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 
 (Rumah orang tuanya) Taurus dan Venus: Ia sangat berbakti dan berbuat ihsan kepada ayah dan ibunya; merengkuh keridhaan kedua orang tuanya yang menjadi kunci pembuka pintu-pintu taufik Ilahi; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya kebajikan dan doa keberkahan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائه وأمهاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3112,11 +2562,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 *(baytu awlaadihi wa afraahihi  al-Jawzaa'i wa 'Uthaarida  yurzaqu bi-awlaadin nujabaa'i dzukuuran wa inaatsan, wa yakuunu awlaadihi ashhaabu dzakaa'in wa ma'rifata, wa yubrizu minhum min yanaalu shiitaa hasan fil-'ilmi wal-adabi, wa yanaalu bahum qarratin 'ayn wa farahan, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah anak-anak dan kebahagiaannya) Gemini dan Merkurius: Ia dianugerahi anak-anak yang cerdas berbakat baik laki-laki maupun perempuan; anak-anaknya tumbuh mewarisi ketajaman intelektual dan wawasan luas; di antara keturunannya akan lahir tokoh yang tersohor namanya dalam dunia keilmuan dan sastra; serta menjadi penyejuk pandangan mata dan sumber kegembiraannya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولاده وأفراحه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3132,11 +2577,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 
 (Rumah penyakit dan keluhan fisiknya) Cancer dan Bulan: Ia rentan terserang penyakit akibat kelembapan tubuh berlebih, angin masuk, serta rasa dingin pada organ dada dan lambung; maka dianjurkan rutin meminum seduhan jahe hangat dengan madu murni; mengoleskan minyak bunga chamomile pada persendian; serta menjauhi konsumsi berlebihan makanan-makanan dingin. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضه وأسقامه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3148,11 +2588,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 *(baytu nisaa'ihi wa firaasyihi  al-Asadi wasy-Syamsi  yatazawwaju biaamra'ati syariifatil-munbatti jamiilatal-manzhari, takuunu dzaat 'iffatin wa shiyaanatin, wa yanaalu bisababihaa syarafan wa jaahan, wa takuunu hayaatuhumaa az-zawjiyyatu fii hanaa'in wa tafaahumi taammi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah istri dan peraduannya) Leo dan Matahari: Ia mempersunting wanita bangsawan terhormat yang berwajah anggun mempesona; berakhlak mulia menjaga kehormatan diri; melalui pernikahan tersebut ia memperoleh kemuliaan dan status sosial yang kian terpandang; serta bahtera rumah tangga mereka diliputi kebahagiaan dan saling pengertian yang utuh. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت نسائه وفراشه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3166,11 +2601,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 
 (Rumah ketakutan dan masa krisis hidupnya) Virgo dan Merkurius: Dikhawatirkan atasnya serangan angin duduk dan gangguan organ dalam perut; tahun-tahun rawan dalam fase hidupnya adalah usia 11 tahun, 22 tahun, 33 tahun, 55 tahun, dan 70 tahun; jika ia selamat dari masa-masa kritis tersebut, usianya akan berlanjut hingga 90 tahun. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفه وموته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3182,11 +2612,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 *(baytu asfaarihi wa harakaatihi  al-Miizaani waz-Zuharati  takuunu asfaarihi ilal-bilaadil-mu'tadilati wal-mudunil-hadhriyyati mubaarakatun raabihata, wa yanaalu fii asfaarihi fa-waa'ida 'azhiimata wa shuhbata ahlil-muruu'ati wal-fadhli, wa takuunu harakatuhu maqruunatun bit-tawfiiqi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah perjalanan dan pergerakannya) Libra dan Venus: Perjalanannya menuju negeri-negeri yang beriklim sejuk dan pusat-pusat peradaban kota membawa keberkahan dan keuntungan perniagaan; ia memetik faedah besar dan persahabatan erat dengan tokoh-tokoh berkeutamaan budi pekerti; serta setiap langkah mobilitasnya senantiasa diiringi kemudahan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفاره وحركاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3200,20 +2625,15 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 
 (Rumah kemuliaan dan kedudukan otoritasnya) Scorpio dan Mars: Kedudukannya melambung tinggi berkat hikmah kepemimpinan yang tangguh; perkataannya didengar dan dipatuhi oleh para pengambil kebijakan; dipercaya memimpin pos-pos birokrasi strategis; serta memiliki pengaruh besar dalam tatanan masyarakat luas. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزه وسلطانه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 > **STATUS BATCH 6: SELESAI** (Halaman Cetak 52–61 / Halaman PDF 26–30).
 > Rajah/wafaq/tilsam batch ini telah di-crop presisi, latar putih, tersimpan di folder `rajah/`:
 > `rajah_p53_satr_qaus.png`, `rajah_p53_wafaq_qaus.png`, `rajah_p54_tilsam_jady.png`, `rajah_p57_satr_jady.png`, `rajah_p58_wafaq_jady.png`, `rajah_p59_tilsam_dalw.png`.
 
-# BATCH 7 — HALAMAN PDF 31–35 (HALAMAN CETAK 62–71)
-
 ---
+
+# BATCH 7 — HALAMAN PDF 31–35 (HALAMAN CETAK 62–71)
 
 ---
 
@@ -3229,11 +2649,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 
 (Rumah cita-cita dan harapannya) Sagittarius dan Yupiter: Ia mampu meraih cita-cita yang paling luhur; dikaruniai kehidupan yang penuh kenikmatan dan ketentraman batin; ikhlas dalam setiap amal perbuatannya serta senantiasa bertawakal penuh kepada Tuhannya; maka Allah menjadikan baginya kelapangan dari setiap kesedihan, jalan keluar dari setiap kesempitan, dan rezeki yang melimpah dari arah yang tiada disangka-sangka. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائه وآماله ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3245,11 +2660,6 @@ Berkata sang ahli ilmu falak: Buruj Aquarius adalah buruj berelemen udara, bersi
 *(baytu a'daa'ihi wa hussaadihi  al-Jadyi wa Zuhala  a'addaa'uhu min ahlil-hasadi wadh-dhaghiinati, yasa'uuna fii ithfaa'i nuurihi fa-ya'baa Allaahi illaa an yutmi nuurihi, wa laa yadhurruhu kayadihim syay'an maa daamin mutamassikan bil-haqqi, wallaahu Ta'aalaa a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Capricorn dan Saturnus: Musuh-musuhnya adalah kalangan yang memendam kedengkian dan dendam; mereka berupaya memadamkan kemuliaan namanya, namun Allah menyempurnakan cahaya keberhasilannya; dan tipu daya mereka tidak akan sanggup memudharatkannya sedikit pun selama ia berpegang teguh pada kebenaran. Wallahu Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائه وحساده ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3274,10 +2684,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai penanya, sesungguhnya simbol al-Jama'
 *Berbuat baiklah kepada sesama manusia niscaya engkau menawan hati mereka * Karena betapa sering kebaikan budi menaklukkan jiwa manusia*
 *Jadilah penolong dalam kebajikan bagi setiap saudaramu * Niscaya mengalir kepadamu karunia dan keridhaan dari Tuhan kita.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 62 — Satar Huruf & Wafaq ad-Dalw]**
@@ -3293,8 +2699,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai penanya, sesungguhnya simbol al-Jama'
 ![Gambar Rajah Asli Halaman 62 - Wafaq ad-Dalw](rajah/rajah_p62_wafaq_dalw.png)
 
 *Gambar Rajah Asli Halaman 62 (Rajah 2)* — Wafaq angka keramat buruj Aquarius untuk penarik rezeki dan tolak bala perselisihan.
-
----
 
 ---
 
@@ -3321,9 +2725,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai penanya, sesungguhnya simbol al-Jama'
 *Ia memiliki hati nurani yang lembut peka dan budi pekerti yang lurus tegak * Sepanjang hayatnya diliputi limpahan rezeki kebaikan dan ketentraman*
 *Ia mencintai kemurahan hati dan mengutamakan kepentingan orang lain * Serta derajatnya menjulang tinggi di antara segenap insan pilihan.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 63 — Tilsm Buruj al-Hut (Pisces)]**
@@ -3349,10 +2750,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai penanya, sesungguhnya simbol al-Jama'
 (Uraian tentang watak dasar thali' kelahiran, pembagian tiga wajah, dan karakternya)
 Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat malam hari, feminin, dengan tabiat dasar dingin dan basah/lembab; menunjukkan kelembutan jiwa, kesantunan, kemurahan derma, kecintaan pada ibadah dan kezuhudan. Pria yang lahir pada buruj ini berkulit putih bersih berpadu rona kemerahan cerah, berwajah rupawan teduh, berpenampilan memikat, berdada bidang, bersuara merdu lembut, menaruh belas kasih yang amat besar kepada segenap makhluk; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3364,10 +2761,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 *(al-wajhul-awwalu  min nazhara ilayhil-Musytarii  yakuunu rajulan 'aabidan zaahidan aw 'aalamaa wa ri'aa, yanaalu mahabbata 'azhiimata fii quluubin-naasi, wa yustajaabu du'aa'uhu bibarakati shafaa'i sariiratihi, wa yurzaqu hijaa wa ziyaarati, wa yakuunu mubaarakan aynamaa tawajjuhin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Yupiter: Ia menjadi seorang ahli ibadah yang zuhud atau ulama yang wara'; meraih tempat cinta yang sangat mendalam di hati masyarakat; doanya mustajab berkat kebeningan batinnya; dianugerahi kesempatan menunaikan ibadah haji dan ziarah suci; serta senantiasa membawa berkah ke mana pun ia melangkah. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -3381,10 +2774,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Venus: Ia berjiwa anggun dan artistik; mencintai keindahan seni, alam asri perairan dan tanaman hijau; memperoleh kekayaan melimpah dari perniagaan komoditas perairan dan perlengkapan estetika; serta senantiasa dinaungi keberuntungan asmara yang menyenangkan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3396,10 +2785,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 *(al-wajhuts-tsaalitsu  min nazhara ilayhi 'Uthaarida  yakuunu rajulan sarii'ul-khaathiri, waasi'ul-khayaali, kaatiban wa syaa'iran majiidan, yutqinu daqaa'iqul-'uluumi wal-lughaati, wa yakuunu mahbuuban 'inda arbaabil-fadhli wal-adabi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Merkurius: Ia dianugerahi daya imajinasi yang luas, intuisi cepat, piawai sebagai sastrawan dan penyair ulung; menguasai kehalusan cabang ilmu pengetahuan dan tata bahasa; serta dicintai oleh kalangan cendekiawan dan budayawan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -3415,11 +2800,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 
 (Rumah kehidupan dan penghidupannya) Pisces dan Yupiter: Garis kehidupannya diliputi kelapangan dan kemakmuran; dianugerahi kecukupan rezeki yang membuatnya tidak bergantung pada belas kasihan orang lain; senantiasa bergelimang dalam limpahan nikmat Allah Ta'ala; di masa tuanya ia mereguk kemuliaan dan wibawa agung; serta tidak berpulang melainkan dalam kondisi husnul khatimah yang diridhai. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياته ومعيشته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3431,11 +2811,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 *(baytu maalihi wa kasbihi  al-Hamali wal-Mirriikhi  yaktasibul-amwaali min wujuuhin syattaa kat-tijaarati wa rukuubil-bahri wash-shanaa'i'in-naafi'ati, wa yunfiqu fii sabiili Allaahi wa fii 'imaaratul-masaajidi wal-mudaarisi, wa yubaariku Allaahi fii maalihi fa-yazkuu wiinamuu, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan penghasilannya) Aries dan Mars: Ia menghimpun kekayaan dari berbagai saluran usaha seperti perniagaan maritim ekspedisi laut dan industri kreatif yang bermanfaat; sangat gemar berinfak di jalan Allah untuk kemakmuran masjid dan lembaga pendidikan; dan Allah melipatgandakan keberkahan hartanya hingga terus berkembang subur. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت ماله وكسبه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3449,11 +2824,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 
 (Rumah saudara-saudaranya) Taurus dan Venus: Ia memiliki saudara-saudara kandung yang sangat ia cintai dan ia perlakukan dengan penuh kebajikan; sigap mengulurkan bantuan finansial di saat mereka membutuhkan; memetik kesetiaan dan ketulusan kasih dari mereka; serta keharmonisan di antara mereka berlangsung abadi. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوته وأخواته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3465,11 +2835,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 *(baytu aabaa'ihi wa ummahaatihi  al-Jawzaa'i wa 'Uthaarida  yanaalu min wad-diihu du'aa'an mubaarakan wa tarbiyata hasanatun, wa yakuunu baarran bihimaa ghaayatil-barri, wa yadfinu ummihi qabla abiihi, wa yaritsu minhumaa khayran katsiiran, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Gemini dan Merkurius: Ia mendapatkan curahan doa keberkahan dan pendidikan akhlak yang luhur dari kedua orang tuanya; sangat berbakti sekuat tenaga kepada keduanya; memakamkan ibunya lebih dahulu sebelum ayahnya; serta mewarisi dari keduanya warisan yang berlimpah kebaikan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائه وأمهاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3483,11 +2848,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 
 (Rumah anak-anak dan kebahagiaannya) Cancer dan Bulan: Ia dikaruniai putra dan putri yang menjadi penyejuk pandangan mata dan sumber kebahagiaannya; di antara anak-anaknya akan ada yang tampil sebagai tokoh terpandang dalam bidang keagamaan dan keilmuan; serta melaluinya ia memetik berkah dan kebahagiaan hidup. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولاده وأفراحه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3499,11 +2859,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 *(baytu amraadhihi wa asqaamihi  al-Asadi wasy-Syamsi  tushiibuhu amraadhin al-buruudati war-ruthuubati fil-arjuli wal-mafaashili wa waja'il-kulaa, fa-layasyrabus-sakanjabiinul-'asalaa, wa yasta'milul-hamaamaatud-daafa'ah wal-adhaanal-'ithriyyata, wa yuhadzdziru minal-masyaa fil-maa'il-baaridi haafiyan, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Leo dan Matahari: Ia rentan mengalami keluhan kedinginan dan penumpukan cairan pada kedua kaki, persendian ngilu, serta gangguan organ ginjal; maka dianjurkan rutin meminum oxymel madu murni; mandi dengan air hangat beraroma rempah; serta menghindari berjalan tanpa alas kaki di atas genangan air dingin. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضه وأسقامه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3519,11 +2874,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 
 (Rumah istri dan peraduannya) Virgo dan Merkurius: Ia mempersunting wanita salihah yang amat menjaga kesucian diri, berakhlak pemalu nan taat beragama; piawai merawat amanah rumah tangga dan harta suaminya; ia memetik ketenangan jiwa dan kebahagiaan hidup bersamanya; serta rajutan kasih sayang dan rahmat di antara keduanya terjalin abadi sepanjang usia. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت نسائه وفراشه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3535,11 +2885,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 *(baytu khawfihi wa mawtihi  al-Miizaani waz-Zuharati  yukhaafu 'alayhi min 'awaaridhil-miyaahi wal-asfaari fil-bahri, wa sanwaatal-khuthuri 'indahu  sab'i siniina, wa arba'i 'asyrata sanatin, wa tsamaanun wa 'isyruuna sanatin, wa atsinataani khamsuuna sanatin, sab'uuna sanatin, fa-in najaa minhaa imtadda 'umruhu ilaa tis'iina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah ketakutan dan masa krisis hidupnya) Libra dan Venus: Dikhawatirkan atasnya bahaya pusaran air dan kecelakaan saat mengarungi samudra laut; tahun-tahun rawan dalam siklus kehidupannya adalah usia 7 tahun, 14 tahun, 28 tahun, 52 tahun, dan 70 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan berlanjut hingga 90 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفه وموته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3553,11 +2898,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 
 (Rumah perjalanan dan pergerakannya) Scorpio dan Mars: Ia kerap melakukan perjalanan laut dan ekspedisi niaga perairan sungai; rute perjalanannya menuju arah selatan dan timur membawa keberkahan berlipat; serta ia mendulang keuntungan berlimpah dan faedah-faedah yang sangat besar. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفاره وحركاته ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3569,11 +2909,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 *(baytu 'izzihi wa sulthaanihi  al-Qawsi wal-Musytarii  yanaalu 'izzan saamiyaa wa makaanatu rafii'atu 'indas-salaathiini wal-qudhaati, wa yakuunu mahbuuban 'inda saa'iril-khalqi, wa tunaffidzu ahkaamahu bil-'adli wal-inshaafi, wa ya'luu qadruhu bayna aqraanihi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan kekuasaannya) Sagittarius dan Yupiter: Ia merengkuh kemuliaan luhur dan kedudukan tinggi di sisi para raja dan hakim agung; dicintai oleh segenap lapisan masyarakat; pandangan dan keputusannya dipatuhi berkat keadilan dan kebijaksanaannya; serta martabatnya unggul di atas rekan-rekan sebayanya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزه وسلطانه ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3587,11 +2922,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 
 (Rumah cita-cita dan harapannya) Capricorn dan Saturnus: Ia berhasil menggapai segala apa yang dicita-citakannya dalam hal kemapanan harta dan kepemilikan aset tanah bangunan; hidupnya diliputi keberlimpahan nikmat; serta dianugerahi taubat nasuha dan husnul khatimah di penghujung hayatnya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائه وآماله ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3603,11 +2933,6 @@ Berkata sang ahli astrologi: Buruj Pisces adalah buruj berelemen air, bersifat m
 *(baytu a'daa'ihi wa hussaadihi  ad-Dalwi wa Zuhala  a'addaa'uhu qaliiluuna wa laa yadhurruunahu syay'an la'ann Allaahi Ta'aalaa haafizhuhu wa kaafiyuhu, wa yanshuruhu 'alaa kullu min naaw'ah wa 'aadaahu, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Aquarius dan Saturnus: Musuh-musuhnya sangat sedikit dan tidak akan sanggup mencelakainya sedikit pun karena Allah Ta'ala senantiasa menjadi pelindung dan pemelihara dirinya; serta Allah memenangkannya atas siapa saja yang memusuhi dan memusuhinya. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائه وحساده ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3634,10 +2959,6 @@ Berkata sang ahli ilmu falak: Ketahuilah wahai penanya, sesungguhnya bentuk al-Q
 *Jika engkau mereguk kebaikan dari duniamu maka jadilah pribadi * Yang pandai bersyukur kepada Tuhan Penguasa 'Arsy niscaya engkau beroleh tambahan karunia*
 *Janganlah sekali-kali kikir dengan hartamu dan jadikanlah ia sarana mendekatkan diri * Niscaya engkau meraih surga tempat kembali dan kehidupan mulia sebagaimana yang kau impikan.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 66 — Satar Huruf & Wafaq al-Hut]**
@@ -3653,8 +2974,6 @@ Berkata sang ahli ilmu falak: Ketahuilah wahai penanya, sesungguhnya bentuk al-Q
 ![Gambar Rajah Asli Halaman 66 - Wafaq al-Hut](rajah/rajah_p66_wafaq_hut.png)
 
 *Gambar Rajah Asli Halaman 66 (Rajah 2)* — Wafaq angka harmoni buruj Pisces penutup seluruh 12 Buruj Thali' Kaum Pria.
-
----
 
 ---
 
@@ -3690,9 +3009,6 @@ Segala puji bagi Allah Tuhan semesta alam, dan shalawat serta salam semoga tercu
 *Ia dianugerahi akal pikiran yang cerdas serta watak perangai yang menyenangkan * Berhasil menggapai puncak harapan dan cita-cita dalam lembaran hidupnya*
 *Ia mencintai kesucian budi dan memelihara kehormatan diri * Serta diliputi rasa aman dan kecukupan rezeki dari Allah Ta'ala.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 67 — Tilsm Buruj al-Haml Kaum Wanita]**
@@ -3718,9 +3034,6 @@ Segala puji bagi Allah Tuhan semesta alam, dan shalawat serta salam semoga tercu
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries ini berkulit putih bersih berpadu rona kemerahan cerah, kedua mata dan alisnya indah menawan, memancarkan pesona anggun dan wibawa terhormat, lekas tersentuh emosinya namun cepat luluh kembali, jujur dalam bertutur kata, berjiwa dermawan; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3732,11 +3045,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 *(al-wajhul-awwalu  min nazhara ilayhaal-Mirriikhi  takuunu imra'atun syajaa'ati haazimati, mudabbarata lubbiyyatihaa, dzaat 'iffatin wa shiyaanatin, mahaabata 'indan-nisaa'i war-rijaali, tanaalu 'izzan wijaahan, wa takuunu mubaarakatun fii harakaatihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Mars: Ia menjadi wanita yang berjiwa teguh mandiri, piawai mengelola rumah tangga, sangat menjaga kesucian kehormatan dirinya, disegani di kalangan kaum wanita maupun pria, meraih kemuliaan dan status sosial yang tinggi, serta senantiasa membawa berkah dalam setiap gerak langkahnya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3750,10 +3058,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 
 (Wajah Kedua) Bagi yang dipandang oleh Matahari: Ia berparas jelita memikat pandangan, wajahnya berseri cerah, sangat disayangi oleh suaminya dan keluarga besarnya, dianugerahi kelimpahan harta perhiasan emas dan kemewahan, serta menjalani kehidupan dalam kemakmuran yang membahagiakan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3765,10 +3069,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaa az-Zuharati  takuunu imra'atun lathiifatu raqiiqatin, tuhibbuz-zaynatu wath-thayyibu wal-libaasul-faakhiru, dzaat shawti rakhiimi, turzaqu mawaddatu 'azhiimatu 'inda kullu min ra'aahaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Venus: Ia adalah wanita yang sangat anggun dan berhati lembut, gemar memakai wewangian harum, perhiasan elok, dan busana-busana indah, bersuara merdu menyenangkan, serta dianugerahi limpahan kasih sayang dan simpati dari siapa pun yang memandangnya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -3784,11 +3084,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 
 (Rumah kehidupan dan penghidupan wanita) Aries dan Mars: Penghidupannya berlangsung sejahtera dan lapang; tercukupi segala kebutuhannya sejak masa kecil hingga hari tuanya; hidup dalam keadaan terjaga kehormatannya dan terpelihara martabatnya; senantiasa menanjak dalam kebahagiaan; serta tidak berpulang melainkan dalam kenikmatan dan keselamatan dari Allah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3800,11 +3095,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 *(baytu maalihaa wa kasbihaa  ats-Tsawri waz-Zuharati  turzaqu bimaali halaali katsiiru min kasbi yadihaa kal-ghazali wal-khayyaathati wat-tijaarati, aw min irtsi shaalihi, wa yakuunu lahaa hazhzhun 'azhiimun fii imtilaakil-hilaa wal-aqmisyatits-tsamiinati, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan penghasilannya) Taurus dan Venus: Ia dianugerahi harta halal yang berlimpah ruah baik dari hasil karya keterampilannya sendiri seperti menenun, merancang busana, dan perniagaan, maupun dari warisan yang berkah; ia sangat beruntung dalam kepemilikan perhiasan emas permata dan kain-kain sutra yang berharga. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وكسبها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3818,11 +3108,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 
 (Rumah saudara-saudaranya) Gemini dan Merkurius: Ia memiliki saudara kandung laki-laki dan perempuan; ia memetik ketulusan kasih sayang dan perlakuan baik dari mereka; hubungan kekeluargaan di antara mereka diliputi kasih sayang dan saling tolong-menolong; serta ia tidak melihat dari mereka melainkan hal-hal yang membahagiakan hatinya. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3834,11 +3119,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 *(baytu aabaa'ihaa wa ummahaatihaa  as-Sarathaani wal-Qamari  takuunu mahbuubatan 'inda waalidayhaa, wa khaashshata 'inda ummihaa, wa tanaalu min barakatihimaa maa yaftahu lahaa abwaabil-khayri, wa tadfinu abaahaa qabla ummihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Cancer dan Bulan: Ia sangat disayangi oleh kedua orang tuanya, terkhusus oleh ibundanya tercinta; memetik curahan doa berkah keduanya yang membuka pintu-pintu kebajikan bagi masa depannya; serta memakamkan ayahnya lebih dahulu sebelum ibunya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3852,11 +3132,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 
 (Rumah anak-anak dan kebahagiaannya) Leo dan Matahari: Ia dianugerahi putra dan putri; anak pertamanya adalah seorang laki-laki yang saleh dan berbakti; ia merasakan kebahagiaan dan kebanggaan yang mendalam atas keturunannya; serta dipanjangkan umurnya hingga menyaksikan cucu dan cicitnya dalam keadaan sehat walafiat. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3868,11 +3143,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 *(baytu amraadhihaa wa asqaamihaa  as-Sunbulati wa 'Uthaarida  tushiibuhaa amraadhin ash-shudaa'i wal-haraarati fir-ra'si wal-ma'idati wa waja'izh-zhahri, fa-latasta'milu syaraabul-wardi was-sakanjabiinil-mu'tadili, wa tuhadzdziru minal-ath'imatil-maalihati wal-haarrati, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan kesehatannya) Virgo dan Merkurius: Ia rentan mengalami keluhan sakit kepala, rasa panas di lambung, dan nyeri punggung; maka dianjurkan rutin meminum sirup sari mawar dan ramuan oxymel (sikinjabin) yang seimbang; serta mengurangi konsumsi makanan yang terlalu asin dan pedas. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3888,11 +3158,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 
 (Rumah jodoh pernikahan dan peraduannya) Libra dan Venus: Ia dipersunting oleh seorang pria terhormat berjiwa dermawan yang memiliki kekayaan dan status sosial tinggi; suaminya sangat mencintainya dan memperlakukannya dengan penuh kemuliaan; ia menjalani bahtera rumah tangga dalam ketentraman dan kemakmuran; dialah istri yang paling dicintai suaminya; serta keharmonisan di antara mereka terjalin langgeng seumur hidup. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3904,11 +3169,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 *(baytu khawfihaa wa mawtihaa  al-'Aqrabi wal-Mirriikhi  yukhaafu 'alayhaa min amraadhin al-wilaadati wal-hummayaatil-haaddati, wa a'waamal-khuthuri 'indahaa  sittu siniina, wa itsnataa 'asyrata sanatin, wa arba'i wa 'isyruuna sanatin, wa sittun wa tsalaatsuuna sanatin, khamsuuna sanatin, fa-in salimat minhaa 'aasyat ilaa tsamaaniina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah ketakutan dan masa krisis kesehatannya) Scorpio dan Mars: Dikhawatirkan atasnya komplikasi saat persalinan dan serangan demam tinggi mendadak; tahun-tahun rawan dalam siklus usianya adalah usia 6 tahun, 12 tahun, 24 tahun, 36 tahun, dan 50 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan berlanjut hingga 80 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3922,11 +3182,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 
 (Rumah perjalanan dan pergerakannya) Sagittarius dan Yupiter: Perjalanannya tidak terlalu sering dan senantiasa didampingi oleh mahramnya; perjalanannya untuk menunaikan ibadah haji dan umrah ke tanah suci berlangsung lancar penuh keberkahan; serta ia memetik ketenangan dan keselamatan selama dalam musafir. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3938,11 +3193,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 *(baytu 'izzihaa wa syarafihaa  al-Jadyi wa Zuhala  ta'luu makaanatuhaa baynan-nisaa'i bil-hukmati wal-waqaari, wa tashiiru maqshuudatun fin-nashaa'ihi wal-masyuuraati, wa talaqqaal-ihtiraamu wal-ajlaalu min jamii'i ahli baytuhaa wa qawmihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan kehormatannya) Capricorn dan Saturnus: Derajatnya terangkat mulia di antara kaum wanita berkat kebijaksanaan dan ketenangannya; ia kerap dimintai nasihat dan pertimbangan berharga; serta menuai penghormatan tulus dari segenap keluarga besar dan masyarakat lingkungannya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -3956,11 +3206,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 
 (Rumah harapan dan dambaannya) Aquarius dan Saturnus: Ia berhasil menyaksikan terkabulnya doa harapannya berupa kesalehan anak-anaknya dan keharmonisan rumah tangganya; serta Allah mengaruniainya kehidupan yang nyaman dan akhir hayat yang penuh husnul khatimah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -3972,11 +3217,6 @@ Berkata sang ahli hikmah falak: Wanita yang lahir di bawah naungan buruj Aries i
 *(baytu a'daa'ihaa wa hussaadihaa  al-Huuti wal-Musytarii  a'daa'uhaa min ba'dhun-nisaa'il-hawaasidi, wa laa yadhurruhaa kayadihinna syay'an, fa-in Allaahi Ta'aalaa yudaafi'u 'an adz-dziin aamanuuaa, wa yakfiihaa syarrin kullu haasidu idzaa hasadin, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Pisces dan Yupiter: Musuh-musuhnya hanyalah sebagian wanita yang memendam rasa iri dengki; namun kedengkian mereka tidak akan memudharatkannya sedikit pun, karena sesungguhnya Allah senantiasa membela orang-orang yang beriman dan mencukupkan perlindungan dari kejahatan pendengki. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4003,11 +3243,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Sambutlah kabar gembira ini karena inilah saat-saat kebahagiaan sejati * Pujilah Allah atas tercapainya segala harapan dambaan*
 *Sesungguhnya setelah kesulitan akan datang kemudahan yang nyata * Maka bergembiralah menyongsong kebaikan di sepanjang lintasan dunia.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Gambar Rajah Asli Halaman 70 — Wafaq al-Haml Kaum Wanita]**
@@ -4015,8 +3250,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 ![Gambar Rajah Asli Halaman 70 - Wafaq al-Haml Wanita](rajah/rajah_p70_wafaq_nisa_haml.png)
 
 *Gambar Rajah Asli Halaman 70* — Wafaq angka pelindung berkah bagi buruj Aries kaum wanita untuk keharmonisan rumah tangga, daya tarik mahabbah, dan tolak bala sihir.
-
----
 
 ---
 
@@ -4043,9 +3276,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Ia dianugerahi paras rupa yang rupawan dan sifat-sifat budi pekerti yang luhur * Menjalani lembaran hidupnya dalam kenikmatan dan kemakmuran*
 *Mencintai kejujuran dan menjaga amanah dengan penuh kesungguhan * Serta senantiasa dinaungi keberkahan di sepanjang rentang usianya.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 71 — Tilsm Buruj ats-Tsaur Kaum Wanita]**
@@ -4071,10 +3301,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit putih bersih atau kuning langsat yang memikat, berwajah bulat manis, kedua matanya indah bercelak alami, berpostur tubuh proporsional elok, berperasaan halus peka, sangat disukai dan dikagumi oleh kaum pria maupun wanita; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4086,10 +3312,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 *(al-wajhul-awwalu  min nazhara ilayhaa az-Zuharati  takuunu imra'atun baari'atul-jamaali, mahabbatan lil-ghinaa'a wath-tharaba waz-zaynata wal-libaasal-hasana, marzuuqatan min jihatir-rijaali, dzaat hazhzhun 'azhiimun fin-nikaahi was-suruuri, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Venus: Ia menjadi wanita berparas jelita memukau, menyukai alunan musik merdu, kesenian, perhiasan indah, dan busana anggun bermartabat, memperoleh kelimpahan rezeki melalui suaminya, serta dianugerahi peruntungan asmara pernikahan yang sangat membahagiakan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -4103,11 +3325,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Merkurius: Ia adalah wanita yang cerdas berwawasan luas, fasih bertutur kata santun, sangat terampil dalam berbagai kerajinan tangan dan manajemen rumah tangga, bijak mengatur keuangan keluarga; serta membawa limpahan berkah di rumahnya. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4120,20 +3337,15 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Saturnus: Ia menjadi wanita yang tenang berwibawa dan penuh kesabaran, anggun dalam keheningan sikapnya, telaten merawat anak-anak dan keluarganya, tabah menghadapi cobaan hidup dengan kesabaran yang indah; serta memetik kesudahan hidup yang sangat terpuji. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 > **STATUS BATCH 7: SELESAI** (Halaman Cetak 62–71 / Halaman PDF 31–35).
 > Rajah/wafaq/tilsam batch ini telah di-crop presisi, latar putih, tersimpan di folder `rajah/`:
 > `rajah_p62_satr_dalw.png`, `rajah_p62_wafaq_dalw.png`, `rajah_p63_tilsam_hut.png`, `rajah_p66_satr_hut.png`, `rajah_p66_wafaq_hut.png`, `rajah_p67_tilsam_nisa_haml.png`, `rajah_p70_wafaq_nisa_haml.png`, `rajah_p71_tilsam_nisa_tsaur.png`.
 
-# BATCH 8 — HALAMAN PDF 36–40 (HALAMAN CETAK 72–81)
-
 ---
+
+# BATCH 8 — HALAMAN PDF 36–40 (HALAMAN CETAK 72–81)
 
 ---
 
@@ -4149,11 +3361,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 
 (Rumah kehidupan dan penghidupannya) Taurus dan Venus: Garis kehidupannya diliputi kenikmatan, kebajikan, dan kelapangan rezeki; tercukupi segala kebutuhannya bahkan senantiasa berlebih; hidup dalam naungan pemeliharaan dan kehormatan yang terjaga; menuai simpati kasih sayang dan penerimaan hangat dari siapa saja yang berinteraksi dengannya; serta tidak berpulang melainkan dalam kondisi yang diridhai Allah dan kemakmuran hidup. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4165,11 +3372,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 *(baytu maalihaa wa tijaaratihaa  al-Jawzaa'i wa 'Uthaarida  taktasibul-amwaali minat-tijaarati wash-shanaa'i'il-yadawiyyatil-mutqanati kat-tathriizi wal-hiyaakati wa bay'il-aqmisyati wal-halliyyi, wa yubaariku Allaahi fii makaasibihaa, wa tajma'u maalan katsiiran taddakhiruhu li-nawaa'ibid-dahri, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan perniagaannya) Gemini dan Merkurius: Ia meraih penghasilan dari aktivitas perniagaan dan karya seni kerajinan tangan yang presisi seperti bordir, menjahit busana, perniagaan tekstil dan perhiasan; Allah melimpahkan keberkahan dalam setiap transaksinya; serta mampu menghimpun tabungan aset yang kokoh untuk masa depannya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4183,11 +3385,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 
 (Rumah saudara-saudaranya) Cancer dan Bulan: Ia memiliki saudara kandung laki-laki dan perempuan; ikatan persaudaraan di antara mereka diliputi kehangatan kasih sayang dan rasa saling peduli; memperoleh perlakuan baik dan penghormatan dari saudara-saudaranya; bahkan dialah yang paling terpandang martabatnya dan paling disayangi di hati mereka. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4199,11 +3396,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 *(baytu aabaa'ihaa wa ummahaatihaa  al-Asadi wasy-Syamsi  tanaalu min waalidayhaa 'athfan 'azhiiman wa ri'aayata hasanatun, wa yakuunu abuuhaa muhibban lahaa mukarraman li-sya'anahaa, wa tadfinu abaahaa qabla ummihaa, wa taritsu minhumaa maalan halaalan thayyiban, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Leo dan Matahari: Ia mendapatkan curahan kasih sayang yang amat dalam dan pengasuhan yang mulia dari kedua orang tuanya; ayahnya sangat bangga dan memuliakan kedudukannya; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya harta peninggalan yang halal lagi berkah. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4217,11 +3409,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 
 (Rumah anak-anak dan kebahagiaannya) Virgo dan Merkurius: Ia dianugerahi anak-anak yang berakhlak mulia dan cerdas; mayoritas keturunannya adalah anak perempuan; ia memetik bakti tulus dari anak-anaknya yang menjadi penyejuk pandangan matanya; serta hatinya senantiasa berbunga-bunga melihat kesuksesan dan kesalehan mereka. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4233,11 +3420,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 *(baytu amraadhihaa wa asqaamihaa  al-Miizaani waz-Zuharati  tushiibuhaa amraadhin ar-ruthuubati war-riyaahi fil-mafaashili wa waja'il-halqi war-raqabati, fa-latasta'milu syaraabul-'asali biz-zanjabiili, wa tadhinna mawdhi'al-alami bizaytil-wardi wal-kaafuuri, wa tuhadzdziru minal-hawaa'il-baaridi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Libra dan Venus: Ia rentan mengalami keluhan pegal linu persendian akibat kelembapan tubuh, nyeri tenggorokan, dan leher kaku; maka dianjurkan rutin meminum madu jahe hangat; mengoleskan minyak mawar dan kapur barus alami pada area yang terasa sakit; serta menghindari hembusan angin malam yang dingin. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4253,11 +3435,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 
 (Rumah jodoh pernikahan dan peraduannya) Scorpio dan Mars: Ia dipersunting oleh seorang pria pemberani yang berjiwa ksatria dan sigap menolong; terkadang timbul riak kecemburuan atau ketegasan dalam berbicara namun segera kembali mencair dalam kelembutan dan kemesraan; suaminya sangat menyayanginya dan sangat menjaga kehormatan istrinya; serta ia menjalani kehidupan bersamanya dalam kemuliaan dan kebahagiaan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4269,11 +3446,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 *(baytu khawfihaa wa mawtihaa  al-Qawsi wal-Musytarii  yukhaafu 'alayhaa min 'ilalir-ruthuubati wa amraadhin ash-shadri, wa a'waamal-khuthuri 'indahaa  tsamaanii siniina, wa sitta 'asyrata sanatin, wa arba'i wa tsalaatsuuna sanatin, wa tsamaanun wa arba'uuna sanatin, sittuuna sanatin, fa-in salimat minhaa 'aasyat ilaa khamsi wa tsamaaniina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis kesehatannya) Sagittarius dan Yupiter: Dikhawatirkan atasnya gangguan pernapasan dada akibat udara dingin basah; tahun-tahun rawan dalam siklus usianya adalah usia 8 tahun, 16 tahun, 34 tahun, 48 tahun, dan 60 tahun; jika ia selamat dari masa krisis tersebut, umurnya akan mencapai 85 tahun dalam keadaan sehat afiat. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4287,11 +3459,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 
 (Rumah perjalanan dan pergerakannya) Capricorn dan Saturnus: Aktivitas perjalanannya jarang dan senantiasa terjaga keamanannya; bepergian ke kota-kota sekitar untuk menyambung silaturahim dengan keluarga kerabat atau menunaikan rukun ibadah keagamaan; serta perjalanannya senantiasa diliputi kenyamanan dan keselamatan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4303,11 +3470,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 *(baytu 'izzihaa wa syarafihaa  ad-Dalwi wa Zuhala  tanaalu raf'atun wa makaanatu saammiyyatu bayna nisaa'i qawmihaa bi-husni khalqihaa wa 'iffatihaa, wa takuunu masmuu'atul-qawli fii baytuhaa, muhtaramata 'indal-aqaaribi wal-abaa'idi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan kedudukan terhormatnya) Aquarius dan Saturnus: Ia meraih derajat kemuliaan yang tinggi di antara kaum wanita di lingkungannya berkat keindahan budi pekerti dan kesucian dirinya; perkataannya didengar dalam urusan keluarga; serta menuai penghormatan tulus dari kerabat dekat maupun masyarakat umum. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4321,11 +3483,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 
 (Rumah harapan dan dambaannya) Pisces dan Yupiter: Allah menyampaikan dirinya pada apa yang ia dambakan berupa kesempurnaan nikmat, kesalehan anak cucunya, dan ketentraman hidup; menjalani hari-harinya dalam kedamaian jiwa; serta dianugerahi akhir hidup yang husnul khatimah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4337,11 +3494,6 @@ Berkata sang ahli astrologi falak: Wanita bernaung di buruj ini umumnya berkulit
 *(baytu a'daa'ihaa wa hussaadihaa  al-Hamali wal-Mirriikhi  a'daa'uhaa min ba'dhul-hawaasidi wan-nammaamaatil-laatii yaghuttanna min jamaalihaa wa husni haalihaa, wa yakfiihaa Allaahi kaydihinna wa yaj'alu tadbiirahunna fii tadmiirihinna, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Aries dan Mars: Musuh-musuhnya hanyalah segelintir wanita pendengki dan penyebar desas-desus yang iri hati melihat kecantikan serta kemapanan hidupnya; namun Allah mencukupkan perlindungan dari tipu muslihat mereka dan menjadikan rekayasa jahat itu berbalik kepada mereka sendiri. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4368,10 +3520,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya lambang 
 *Engkau telah keluar dari kesempitan menuju jalan kelapangan * Maka pujilah Allah atas bimbingan jalan yang terang ini*
 *Janganlah cemas menghadapi gejolak pasang surutnya zaman * Karena Allah senantiasa melindungimu dengan benteng keamanan yang kokoh.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 74 — Wafaq ats-Tsaur Kaum Wanita]**
@@ -4379,8 +3527,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya lambang 
 ![Gambar Rajah Asli Halaman 74 - Wafaq ats-Tsaur Wanita](rajah/rajah_p74_wafaq_nisa_tsaur.png)
 
 *Gambar Rajah Asli Halaman 74* — Wafaq angka keramat pelindung buruj Taurus bagi kaum wanita untuk keselamatan lahir batin, penarik rezeki, dan ketentraman rumah tangga.
-
----
 
 ---
 
@@ -4407,9 +3553,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya lambang 
 *Ia dianugerahi gaya tutur kata yang manis memikat dan keterusterangan yang santun * Memetik ketulusan cinta dan kesetiaan di sepanjang perjalanan hidupnya*
 *Menyukai kerajinan tangan bernilai seni tinggi dan cabang-cabang ilmu yang halus * Serta menjalani kehidupannya di tengah masyarakat dengan kesucian martabat yang mulia.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 75 — Tilsm Buruj al-Jauza' Kaum Wanita]**
@@ -4435,9 +3578,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya lambang 
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini berparas putih bersih berkilau pirang cerah, bertubuh semampai anggun, proporsional gerak-geriknya, merdu suaranya, sangat cepat menangkap maksud pembicaraan, lincah berdaya guna, sangat disayangi di kalangan orang-orang terpandang; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4449,10 +3589,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 *(al-wajhul-awwalu  min nazhara ilayhaa 'Uthaarida  takuunu imra'atun kaatibatu haadziqatu, dzaat lisaani fa-shiihi wa balaaghatin fa-a'iqatin, tutqinu tadbiirul-umuuri bidiqqatin, wa tanaalu hazhzhan wa afiran minat-tijaarati wal-bay'i wasy-syiraa'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Merkurius: Ia menjadi wanita yang sangat cerdas, mahir dalam tata tulis dan komunikasi publik, memiliki kefasihan lisan dan daya persuasi yang luar biasa, teliti mengelola berbagai urusan, serta beruntung besar dalam bidang perniagaan komersial. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -4466,10 +3602,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Venus: Ia berpenampilan sangat modis dan mempesona, gemar mengenakan busana anggun, perhiasan berkilau, dan parfum harum, memiliki daya pikat manja yang memikat dalam pergaulan, sangat disayangi suaminya dengan cinta mendalam, serta menjalani hari-harinya dalam kemewahan dan kebahagiaan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4481,10 +3613,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaa asy-Syamsi  takuunu imra'atun dzaat haybatin wa waqaarin, shabiihatal-wajhu, kariimatal-yadi, tahassuna ri'aayatidh-dhuyuufi wa i'aanatil-muhtaajiina, wa tanaalu syarafan wa jaahan fii qawmihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh Matahari: Ia memancarkan karisma wibawa kepemimpinan yang anggun, berwajah berseri terang benderang, murah hati tangannya, sangat piawai memuliakan tamu dan menolong orang-orang yang kesusahan, serta meraih kehormatan dan status terpandang di tengah kaumnya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -4500,11 +3628,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 
 (Rumah kehidupan dan penghidupannya) Gemini dan Merkurius: Fase kehidupannya di masa muda kerap diwarnai perpindahan dari satu tempat ke tempat lain; kemudian urusan hidupnya menjadi sangat mapan di usia matang; dianugerahi penghidupan yang lapang dan menyenangkan; tercukupi segala kebutuhannya dalam kehormatan martabat; serta tidak berpulang melainkan dalam limpahan nikmat dan keselamatan dari Allah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4516,11 +3639,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 *(baytu maalihaa wa tijaaratihaa  as-Sarathaani wal-Qamari  taktasibul-amwaali minat-tijaaraatil-hadzaqati wal-musyaarakaatir-raabihati, wa yakuunu lahaa hazhzhun fii syiraa'il-aqmisyatil-faakhirati wal-'aqaaraati, wa yubaariku Allaahi fii kasbihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan perniagaannya) Cancer dan Bulan: Ia mendulang kekayaan dari strategi bisnis yang cerdik dan kemitraan usaha yang menguntungkan; beruntung dalam kepemilikan kain-kain sutra bernilai tinggi dan investasi properti; serta Allah melimpahkan keberkahan dalam setiap rezekinya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4534,11 +3652,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 
 (Rumah saudara-saudaranya) Leo dan Matahari: Ia memiliki saudara kandung yang sangat memuliakan dan menghormati dirinya; ia menjadi sosok kesayangan di tengah keluarga; mereka selalu siap membela dan mendampinginya saat menghadapi kesulitan; serta ia tidak melihat dari mereka melainkan kebaikan dan kasih sayang tulus. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4550,11 +3663,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 *(baytu aabaa'ihaa wa ummahaatihaa  as-Sunbulati wa 'Uthaarida  tanaalu min waalidayhaa barran wa tarbiyata shaalihata, wa yakuunu wad-dahaa naashihan lahaa musyfiqan 'alayhaa, wa tadfinu ummihaa qabla abiihaa, wa taritsu minhumaa maalan wa barakatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Virgo dan Merkurius: Ia memetik limpahan kasih sayang dan pendidikan budi pekerti yang luhur dari kedua orang tuanya; ayahnya selalu menjadi penasihat setia yang menyayanginya; memakamkan ibunya lebih dahulu sebelum ayahnya; serta mewarisi dari keduanya harta dan doa keberkahan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4568,11 +3676,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 
 (Rumah anak-anak dan kebahagiaannya) Libra dan Venus: Ia dianugerahi putra dan putri yang rupawan dan cerdas; ia merasakan kegembiraan dan kebanggaan yang mendalam atas mereka; di antara anak-anaknya akan ada yang meraih martabat kedudukan yang luhur di masyarakat. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4584,11 +3687,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 *(baytu amraadhihaa wa asqaamihaa  al-'Aqrabi wal-Mirriikhi  tushiibuhaa amraadhin ash-shudaa'il-'aaridhi wa awjaa'ish-shadri wal-halqi wal-bardi fil-athraafi, fa-latasta'milu masyruubun-na'naa'i waz-zanjabiili bil-'asali, wa tuhadzdziru minat-ta'arrudhi lir-riyaahal-'aashifata, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Scorpio dan Mars: Ia rentan mengalami pusing kepala periodik, sesak ringan di dada, radang tenggorokan, dan dingin pada ujung jari; maka dianjurkan rutin meminum seduhan daun mint dan jahe hangat bermadu; serta menghindari terpaan angin kencang secara langsung. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4604,11 +3702,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 
 (Rumah jodoh pernikahan dan peraduannya) Sagittarius dan Yupiter: Ia dipersunting oleh seorang pria saleh nan dermawan dari kalangan terpelajar atau saudagar sukses; suaminya sangat mencintai dan memperlakukannya dengan penuh kemuliaan; mereka membina rumah tangga dalam ketentraman dan kedamaian; serta rumah mereka menjadi muara limpahan kebajikan dan keberkahan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4620,11 +3713,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 *(baytu khawfihaa wa mawtihaa  al-Jadyi wa Zuhala  yukhaafu 'alayhaa min 'ilalir-ruthuubati wa amraadhin al-'izhaama, wa a'waamal-khuthuri 'indahaa  tasa'u siniina, watsamaan 'asyrata sanatin, wa sab'i wa tsalaatsuuna sanatin, khamsuuna sanatin, sab'uuna sanatin, fa-in salimat minhaa imtadda 'umruhaa ilaa tis'iina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis kesehatannya) Capricorn dan Saturnus: Dikhawatirkan atasnya keluhan kelembapan tulang persendian; tahun-tahun rawan dalam siklus kehidupannya adalah usia 9 tahun, 18 tahun, 37 tahun, 50 tahun, dan 70 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan berlanjut hingga 90 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4638,11 +3726,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 
 (Rumah perjalanan dan pergerakannya) Aquarius dan Saturnus: Aktivitas perjalanannya cukup dinamis untuk urusan niaga dan kunjungan silaturahim yang membawa berkah; mendampingi suaminya bepergian ke kota-kota yang jauh; serta memetik kenyamanan dan faedah-faedah berharga selama musafir. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4654,11 +3737,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 *(baytu 'izzihaa wa syarafihaa  al-Huuti wal-Musytarii  tanaalu syarafan wa makaanata rafii'ata baynan-nisaa'i bi'aqlihaa wa husni tadbiirihaa, wa takuunu maqbuulatul-kalimati, muhtaramatal-jaanibi, wa tanaalu tsanaa'a hissinaa fii mujaalisun-nisaa'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan status sosialnya) Pisces dan Yupiter: Ia meraih kehormatan dan kedudukan tinggi di tengah kaum wanita berkat kecerdasan akal dan kecakapan manajemen hidupnya; perkataannya diterima dan disegani; serta menuai sanjungan mulia dalam berbagai majelis pertemuan wanita. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4672,11 +3750,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 
 (Rumah harapan dan cita-citanya) Aries dan Mars: Ia berhasil mencapai apa yang diharapkannya berupa keteraturan rumah tangganya dan perlindungan anak-anaknya; serta Allah mengaruniainya kesudahan yang terpuji dan taufik kemudahan dalam setiap urusan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4688,11 +3761,6 @@ Berkata sang ahli ilmu falak: Wanita yang lahir di bawah naungan buruj Gemini be
 *(baytu a'daa'ihaa wa hussaadihaa  ats-Tsawri waz-Zuharati  a'daa'uhaa minan-nisaa'il-laatii yaghuttanna min fa-shaahatihaa wa dzakaa'ihaa, wa laa yadhurruhaa kayadihinna syay'an, fa-in Allaahi Ta'aalaa haafizhuhaa wa naashiruhaa, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Taurus dan Venus: Musuh-musuhnya adalah kalangan wanita yang dengki melihat kefasihan bicaranya dan kecerdasan intelektualnya; namun kedengkian mereka tidak akan memudharatkannya sedikit pun karena Allah senantiasa menjadi pelindung dan penolongnya. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4719,10 +3787,6 @@ Berkata sang ahli ilmu falak: Ketahuilah wahai wanita penanya, sesungguhnya bent
 *Semoga kenikmatan senantiasa abadi menyongsong langkahmu * Dan engkau hidup dalam naungan rasa aman dan kemuliaan martabat*
 *Bergembiralah menyongsong kebaikan di setiap waktu * Yang senantiasa mengalir dari Tuhanmu Pemilik Keagungan.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 78 — Wafaq al-Jauza' Kaum Wanita]**
@@ -4730,8 +3794,6 @@ Berkata sang ahli ilmu falak: Ketahuilah wahai wanita penanya, sesungguhnya bent
 ![Gambar Rajah Asli Halaman 78 - Wafaq al-Jauza' Wanita](rajah/rajah_p78_wafaq_nisa_jauza.png)
 
 *Gambar Rajah Asli Halaman 78* — Wafaq angka keramat pelindung buruj Gemini bagi kaum wanita untuk ketajaman daya nalar, kemudahan rezeki, dan tolak bala fitnah.
-
----
 
 ---
 
@@ -4758,10 +3820,6 @@ Berkata sang ahli ilmu falak: Ketahuilah wahai wanita penanya, sesungguhnya bent
 *Ia dianugerahi paras wajah yang cantik jelita dan hati yang lapang pengasih * Sepanjang hidupnya diliputi curahan kebajikan dan kesetiaan sejati*
 *Mencintai perbuatan ihsan dan gemar memuliakan orang-orang yang membutuhkan * Serta dikaruniai di sepanjang rentang usianya dengan segenap pintu kebaikan.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Gambar Rajah Asli Halaman 79 — Tilsm Buruj as-Sarathan Kaum Wanita]**
@@ -4787,10 +3845,6 @@ Berkata sang ahli ilmu falak: Ketahuilah wahai wanita penanya, sesungguhnya bent
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini berkulit putih bersih laksana bulan purnama di malam empat belas, berwajah bulat manis berseri, bermata jelita bercelak alami, berpostur tubuh proporsional elok, berkulit halus lembut, memiliki rasa malu yang tinggi dan sangat menjaga kesucian diri; dan ia terbagi atas tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4802,11 +3856,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 *(al-wajhul-awwalu  min nazhara ilayhaal-Qamari  takuunu imra'atun dzaat jamaali wa siimi, mahbuubatan 'inda zawjuhaa wa ahlihaa, turzaqu awalaaddaa mubaarakiina, wa takuunu mubaarakatun fii baytuhaa, wa ta'iisyu fii ni'matin wa suruurin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh Bulan: Ia menjadi wanita berparas cantik mempesona, sangat dicintai oleh suaminya dan seluruh keluarga besarnya, dianugerahi anak-anak yang saleh berbakti, membawa limpahan berkah di rumahnya, serta menjalani kehidupan dalam kemakmuran dan kegembiraan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4820,10 +3869,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Yupiter: Ia adalah wanita salihah yang tekun beribadah, memiliki sifat wara' dan takwa mendalam, mendidik putra-putrinya di atas jalan ketaatan kepada Allah, dianugerahi kesempatan menunaikan ibadah haji dan ziarah suci, serta membawa keberuntungan dan ketentraman ke mana pun ia melangkah. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4835,10 +3880,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaa az-Zuharati  takuunu imra'atun zhariifatu raqiiqatin, tuhibbuth-thayyibu waz-zaynatu wal-mafaarisyul-hasanatu, dzaat shawti 'adzbi rakhiimi, tanaalu hazhzhan wa afiran minal-mahabbati wad-dalaali, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Venus: Ia berjiwa sangat anggun dan berhati lembut, gemar mengenakan wewangian harum, perhiasan indah, dan penataan perabot rumah yang estetis, bersuara merdu menyenangkan, serta dianugerahi peruntungan kasih sayang dan kemanjaan yang berlimpah dari suaminya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -4854,11 +3895,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 
 (Rumah kehidupan dan penghidupannya) Cancer dan Bulan: Penghidupannya berlangsung sejahtera, tentram, dan lapang; senantiasa diliputi kenikmatan karunia Allah Ta'ala; tercukupi segala kebutuhannya dalam kemuliaan dan kemakmuran; grafiknya terus menanjak dalam kebahagiaan; serta tidak berpulang melainkan dalam limpahan nikmat dan penutupan aib yang indah dari Allah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4870,11 +3906,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 *(baytu maalihaa wa tijaaratihaa  al-Asadi wasy-Syamsi  turzaqu bimaali katsiiru min kasbi yadihaa aw min 'athaayaa zawjuhaa wa ahlihaa, wa yakuunu lahaa hazhzhun fii iqtinaa'idz-dzahabi wal-fidhdhati wal-la'aali'i, wa yubaariku Allaahi fii maalihaa fiinamuu wa yaziidu, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan kekayaannya) Leo dan Matahari: Ia dianugerahi kekayaan yang berlimpah baik dari hasil usahanya sendiri maupun dari pemberian suaminya dan keluarganya; sangat beruntung dalam kepemilikan emas batangan, perak, dan mutiara perhiasan; serta Allah melipatgandakan keberkahan hartanya hingga terus bertambah subur. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4888,11 +3919,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 
 (Rumah saudara-saudaranya) Virgo dan Merkurius: Ia memiliki saudara kandung laki-laki dan perempuan; ikatan persaudaraan di antara mereka terjalin hangat dan harmonis; memperoleh doa-doa kebaikan dan perlakuan penuh bakti dari mereka; bahkan dialah yang kerap dijadikan tempat menyimpan rahasia dan musyawarah keluarga. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4904,11 +3930,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 *(baytu aabaa'ihaa wa ummahaatihaa  al-Miizaani waz-Zuharati  takuunu mahbuubatan jiddaa 'inda waalidayhaa, wa khaashshata 'inda wad-datihaa, wa tanaalu min ridhaahimaa maa yaftahu lahaa abwaabis-sa'aadati, wa tadfinu abaahaa qabla ummihaa, wa taritsu minhumaa khayran wa barakatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Libra dan Venus: Ia sangat dicintai oleh kedua orang tuanya, terkhusus oleh ibundanya tercinta; merengkuh keridhaan kedua orang tuanya yang menjadi pembuka pintu-pintu kebahagiaan hakiki; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya warisan yang berlimpah berkah. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4922,11 +3943,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 
 (Rumah anak-anak dan kebahagiaannya) Scorpio dan Mars: Ia dikaruniai putra dan putri yang menjadi simpanan amal kebajikan dan penopang di hari tuanya; anak sulungnya adalah seorang laki-laki yang saleh; serta sejuk pandangan matanya hingga menyaksikan cucu-cucunya tumbuh dalam kesehatan walafiat. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4938,11 +3954,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 *(baytu amraadhihaa wa asqaamihaa  al-Qawsi wal-Musytarii  tushiibuhaa amraadhin ar-ruthuubati fil-mu'addati wash-shadri wa waja'il-mafaashili, fa-latasta'milu syaraabuz-zanjabiili wal-'asali wa maa'il-wardi, wa tatajannabul-ath'imatul-baaridatu war-rathbatu, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Sagittarius dan Yupiter: Ia rentan mengalami keluhan kelembapan pada lambung dan dada serta ngilu persendian; maka dianjurkan rutin meminum seduhan jahe hangat bermadu dan air mawar; serta menghindari konsumsi makanan yang bersifat dingin dan terlalu berair. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4958,11 +3969,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 
 (Rumah jodoh pernikahan dan peraduannya) Capricorn dan Saturnus: Ia dipersunting oleh seorang pria terpandang yang memiliki kepemimpinan tegas dan manajemen bijaksana; suaminya sangat memuliakan dan menyayanginya; menempatkan dirinya pada kedudukan yang luhur; serta bahtera pernikahan mereka berlangsung langgeng dalam kebahagiaan dan keharmonisan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -4974,11 +3980,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 *(baytu khawfihaa wa mawtihaa  ad-Dalwi wa Zuhala  yukhaafu 'alayhaa min 'awaaridhil-miyaahi wal-bardisy-syadiidi, wa a'waamal-khuthuri 'indahaa  sab'i siniina, wa arba'i 'asyrata sanatin, wa tis'un wa 'isyruuna sanatin, wa arba'i wa arba'uuna sanatin, sittuuna sanatin, fa-in salimat minhaa 'aasyat ilaa tsamaaniina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis hidupnya) Aquarius dan Saturnus: Dikhawatirkan atasnya bahaya pusaran air dan serangan cuaca dingin ekstrem; tahun-tahun rawan dalam siklus usianya adalah usia 7 tahun, 14 tahun, 29 tahun, 44 tahun, dan 60 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan berlanjut hingga 80 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -4992,11 +3993,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 
 (Rumah perjalanan dan pergerakannya) Pisces dan Yupiter: Perjalanannya senantiasa membawa keberkahan dengan didampingi oleh mahramnya, terkhusus perjalanan ibadah haji dan ziarah suci; serta ia memetik ketentraman, keselamatan, dan kemuliaan di sepanjang perjalanannya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5008,11 +4004,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 *(baytu 'izzihaa wa syarafihaa  al-Hamali wal-Mirriikhi  tanaalu 'izzan wa syarafan wa makaanata marmuuqata bayna nisaa'i qawmihaa, wa takuunu mahaabatul-jaanibi muhtaramatal-kalimati, wa talaqqaal-mahabbatu wat-taqdiiru minal-jamii'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan status sosialnya) Aries dan Mars: Ia merengkuh kemuliaan, kehormatan, dan posisi bergengsi di tengah kaum wanita lingkungannya; disegani perawakannya dan dipatuhi perkataannya; serta menuai simpati kasih sayang dan apresiasi tinggi dari semua orang. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5026,11 +4017,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 
 (Rumah cita-cita dan dambaannya) Taurus dan Venus: Ia berhasil menggapai segala apa yang diharapkannya berupa kesempurnaan kebahagiaan, ketenangan batin, dan kesalehan anak keturunannya; serta Allah mengaruniainya aliran rezeki yang melimpah ruah, kehidupan yang mapan, dan husnul khatimah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5043,20 +4029,15 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Cancer ini b
 
 (Rumah musuh dan para pendengkinya) Gemini dan Merkurius: Musuh-musuhnya hanyalah segelintir wanita pendengki yang iri melihat kemapanan hidup dan kecantikan parasnya; namun Allah senantiasa mencukupkan perlindungan dari kejahatan mereka dan mengembalikan tipu daya jahat itu ke leher mereka sendiri. Wallahu Subhanahu wa Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 > **STATUS BATCH 8: SELESAI** (Halaman Cetak 72–81 / Halaman PDF 36–40).
 > Rajah/wafaq/tilsam batch ini telah di-crop presisi, latar putih, tersimpan di folder `rajah/`:
 > `rajah_p74_wafaq_nisa_tsaur.png`, `rajah_p75_tilsam_nisa_jauza.png`, `rajah_p78_wafaq_nisa_jauza.png`, `rajah_p79_tilsam_nisa_saratan.png`.
 
-# BATCH 9 — HALAMAN PDF 41–45 (HALAMAN CETAK 82–91)
-
 ---
+
+# BATCH 9 — HALAMAN PDF 41–45 (HALAMAN CETAK 82–91)
 
 ---
 
@@ -5083,10 +4064,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Engkau telah melangkah di jalan kebajikan maka bergembiralah * Dengan tercapainya cita-cita dan menjalani kehidupan dalam wujud terbaik*
 *Janganlah cemas menghadapi pasang surutnya peristiwa zaman * Karena sesungguhnya takdir Tuhan Penguasa 'Arsy senantiasa berjalan dengan takaran yang adil.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 82 — Wafaq as-Sarathan Kaum Wanita]**
@@ -5094,8 +4071,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 ![Gambar Rajah Asli Halaman 82 - Wafaq as-Sarathan Wanita](rajah/rajah_p82_wafaq_nisa_saratan.png)
 
 *Gambar Rajah Asli Halaman 82* — Wafaq angka keramat pelindung buruj Cancer bagi kaum wanita untuk keselamatan persalinan, keharmonisan cinta keluarga, dan tolak bala sihir.
-
----
 
 ---
 
@@ -5122,9 +4097,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Ia dianugerahi paras wajah yang bersinar terang dan jiwa ksatria yang pantang menyerah * Berhasil menggapai pengabulan doa-doa terbaik dalam lembaran usianya*
 *Mencintai kehormatan martabat dan unggul mengungguli rekan-rekannya * Serta dilimpahi di sepanjang hayatnya dengan curahan kebaikan ihsan.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 83 — Tilsm Buruj al-Asad Kaum Wanita]**
@@ -5150,10 +4122,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo berkulit putih bersih berpadu rona kemerahan cerah berseri, berparas rupawan anggun, bermata indah tajam memikat, memancarkan wibawa dan kecantikan alami, berjiwa ksatria yang menjaga harga diri, jujur berani dalam bertutur kata, sangat dicintai di tengah kaumnya; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5165,11 +4133,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 *(al-wajhul-awwalu  min nazhara ilayhaa asy-Syamsi  takuunu imra'atun dzaat sathwatin wa waqaarin, sayyidatun fii baytuhaa, muthaa'atan fii qawmihaa, turzaqu maalan katsiiran min jihatil-muluuki wal-akaabiri, wa ta'iisyu fii 'izzin wa syarafin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh Matahari: Ia menjadi wanita yang memiliki karisma kepemimpinan berwibawa, menjadi nyonya terpandang di rumahnya, ditaati perkataannya di tengah kaumnya, dianugerahi kekayaan melimpah melalui jalur kehormatan para pembesar, serta menjalani kehidupan dalam kemuliaan dan martabat luhur. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5183,11 +4146,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Yupiter: Ia adalah wanita salihah yang amat dermawan, berjiwa luhur memuliakan tamu, gemar mengulurkan bantuan bagi kaum fakir miskin, rumahnya selalu terbuka untuk menjamu kebaikan dan amal sosial, serta dilimpahi keberkahan rezeki yang tak pernah putus. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5199,10 +4157,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaa az-Zuharati  takuunu imra'atun hasnaa'i zhariifati, tuhibbuz-zaynatu wal-malaabisul-mudzahhabatu wal-jawaahirun-nafiisatu, dzaat dalaalin wa jamaalin, ya'asyaqahaa zawjuhaa wa yu'tsiruhaa 'alaa saa'irin-nisaa'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Venus: Ia berparas sangat jelita dan modis mempesona, menyukai perhiasan emas berlian dan busana-busana mewah bernilai tinggi, berdaya pikat anggun memikat, sangat dipuja dan dicintai suaminya melebihi wanita mana pun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -5218,11 +4172,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 
 (Rumah kehidupan dan penghidupannya) Leo dan Matahari: Garis kehidupannya diliputi kemuliaan dan wibawa kekuasaan; penghidupannya amat lapang dan sejahtera; dianugerahi berbagai macam kebajikan yang mengangkat derajat sosialnya; senantiasa menanjak dalam kemajuan; hidup dalam naungan rasa hormat dan disegani; serta tidak berpulang melainkan dalam limpahan nikmat dan karunia Ilahi. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5234,11 +4183,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 *(baytu maalihaa wa tijaaratihaa  as-Sunbulati wa 'Uthaarida  taktasibul-amwaali minat-tijaaraatil-kabiirati wal-masyaarii'in-naajihata, wa tujiidu tadbiirul-amwaali wa inmaa'ihaa, wa turzaqu dzahabaa wa fidhdhatun wa 'aqaaraatu waasi'atan, wa yubaariku Allaahi fii maalihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan perniagaannya) Virgo dan Merkurius: Ia merengkuh kekayaan dari perniagaan skala besar dan proyek-proyek usaha yang produktif; sangat piawai mengelola perputaran modal dan mengembangkannya; dianugerahi simpanan emas, perak, dan aset tanah yang luas; serta Allah senantiasa memberkahi hartanya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5252,11 +4196,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 
 (Rumah saudara-saudaranya) Libra dan Venus: Ia memiliki saudara kandung yang sangat memuliakan dan menjunjung tinggi martabatnya; dialah yang menjadi pilar penopang dan pelindung bagi mereka di saat menghadapi badai kehidupan; serta hubungan persaudaraan mereka berlangsung harmonis penuh cinta. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5268,11 +4207,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 *(baytu aabaa'ihaa wa ummahaatihaa  al-'Aqrabi wal-Mirriikhi  tanaalu min waalidayhaa barran wa mahabbatan, wa yakuunu wad-dahaa syadiidun al-hirshi 'alayhaa mu'tazzan bihaa, wa tadfinu abaahaa qabla ummihaa, wa taritsu minhumaa maalan wa jaahan, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Scorpio dan Mars: Ia memetik ketulusan cinta dan bakti mendalam dari kedua orang tuanya; ayahnya sangat menyayangi dan bangga atas keluhuran putrinya; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya warisan harta dan reputasi nama baik. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5286,11 +4220,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 
 (Rumah anak-anak dan kebahagiaannya) Sagittarius dan Yupiter: Ia dianugerahi putra dan putri yang tangguh berani dan berotak cemerlang; di antara keturunannya akan ada yang menduduki jabatan struktural tinggi dan kekuasaan terhormat; serta sejuk pandangan matanya menyaksikan kesalehan mereka. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5302,11 +4231,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 *(baytu amraadhihaa wa asqaamihaa  al-Jadyi wa Zuhala  tushiibuhaa amraadhin al-haraarati fil-kabidi wa waja'il-qalbi wash-shudaa'i, fa-latasta'milu maa'ul-wardil-baaridi wa syaraabit-tamri hindiyyun was-sakanjabiinu, wa tatajannabul-ath'imatul-hariifata wal-ghadhabasy-syadiida, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Capricorn dan Saturnus: Ia rentan mengalami keluhan panas organ hati, debar jantung, dan pusing kepala; maka dianjurkan rutin meminum air mawar sejuk, sari asam jawa (tamr hindi), dan oxymel (sikinjabin); serta menjauhi makanan pedas menyengat dan meredam luapan amarah yang meledak-ledak. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5322,11 +4246,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 
 (Rumah jodoh pernikahan dan peraduannya) Aquarius dan Saturnus: Ia dipersunting oleh seorang pria terpandang yang memiliki wibawa dan kedudukan berpengaruh; suaminya mencintainya dengan cinta yang tulus dan sangat memuliakan martabatnya; ia bertahta laksana ratu di rumah tangganya; serta menjalani hari-hari bersamanya dalam kebahagiaan, kemakmuran, dan kedamaian abadi. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5338,11 +4257,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 *(baytu khawfihaa wa mawtihaa  al-Huuti wal-Musytarii  yukhaafu 'alayhaa min amraadhin al-haraaratil-haaddati wa 'awaaridhil-hawaa'il-haarri, wa a'waamal-khuthuri 'indahaa  'asyara siniina, 'isyruuna sanatin, tsalaatsuuna sanatin, wa khamsun wa arba'uuna sanatin, sittuuna sanatin, fa-in salimat minhaa 'aasyat ilaa khamsi wa tsamaaniina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis kesehatannya) Pisces dan Yupiter: Dikhawatirkan atasnya penyakit demam panas akut dan sengatan udara panas kering; tahun-tahun rawan dalam siklus usianya adalah usia 10 tahun, 20 tahun, 30 tahun, 45 tahun, dan 60 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan mencapai 85 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5356,11 +4270,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 
 (Rumah perjalanan dan pergerakannya) Aries dan Mars: Perjalanannya jarang dilakukan dan senantiasa berlangsung dalam kemewahan dan pengawalan terhormat; bepergian ke kota-kota besar metropolitan dan menunaikan rukun haji ke Baitullah al-Haram; serta memetik keselamatan dan kemudahan di sepanjang musafir. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5372,11 +4281,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 *(baytu 'izzihaa wa syarafihaa  ats-Tsawri waz-Zuharati  tanaalu 'izzan 'azhiiman wa syarafaa baadzikhaa, wa takuunu sayyidatun nisaa'i 'ashrihaa fil-waqaari wal-mahaabati, wa yutsnaa 'alayhaal-jamii'i bi-husni afa'aalihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan status sosialnya) Taurus dan Venus: Ia merengkuh kemuliaan yang agung dan kehormatan yang menjulang; menjadi teladan utama kaum wanita di zamannya dalam hal wibawa dan keluhuran budi; serta menuai sanjungan pujian dari semua orang atas kedermawanan amalnya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5390,11 +4294,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 
 (Rumah cita-cita dan dambaannya) Gemini dan Merkurius: Allah menyampaikan dirinya pada apa yang ia dambakan berupa kesempurnaan kemuliaan, ketinggian derajat, dan tercapainya seluruh tujuan luhur; serta dianugerahi akhir hidup yang terpuji dan keridhaan dari Tuhan semesta alam. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5406,11 +4305,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Leo 
 *(baytu a'daa'ihaa wa hussaadihaa  as-Sarathaani wal-Qamari  a'daa'uhaa min ba'dhul-hawaasidil-laatii yahsudannahaa 'alaa raf'ati sya'nihaa wa sulthaanihaa, wa yakfiihaa Allaahi kaydihinna wa yaj'aluhaa manshuuratun 'alayhunna, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Cancer dan Bulan: Musuh-musuhnya hanyalah segelintir wanita pendengki yang iri menyaksikan tingginya kedudukan dan pengaruhnya; namun Allah mencukupkan perlindungan dari kejahatan mereka dan menjadikannya senantiasa unggul menang atas mereka. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5437,10 +4331,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Nafkahkanlah sebagian hartamu niscaya engkau meraih kemuliaan sejati * Tujukanlah niat pada kebajikan dan perbanyaklah belas kasih*
 *Karena sesungguhnya jejak perbuatan baik akan senantiasa abadi dikenang * Dan Allah akan melenyapkan segala duka nestapa dari jiwamu.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 86 — Wafaq al-Asad Kaum Wanita]**
@@ -5448,8 +4338,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 ![Gambar Rajah Asli Halaman 86 - Wafaq al-Asad Wanita](rajah/rajah_p86_wafaq_nisa_asad.png)
 
 *Gambar Rajah Asli Halaman 86* — Wafaq angka keramat pelindung buruj Leo bagi kaum wanita untuk kewibawaan tinggi, mahabbah umum, dan keselamatan dari mata jahat (hasad).
-
----
 
 ---
 
@@ -5476,9 +4364,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Ia dianugerahi rekam jejak perilaku yang luhur dan pandangan yang lurus tepat * Dikaruniai di sepanjang usianya dengan kelimpahan kebajikan yang luas*
 *Mencintai kerapian sistem dan menyempurnakan setiap pekerjaan * Serta menjalani kehidupannya di tengah masyarakat dalam kondisi yang paling ideal.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 87 — Tilsm Buruj as-Sunbulah Kaum Wanita]**
@@ -5504,9 +4389,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini berkulit putih langsat manis atau sawo matang bersih, berpostur tubuh proporsional elok, bermata indah bercelak alami, berdahi cerah cemerlang, sangat teliti dalam berkarya seni, sangat dikagumi di kalangan wanita-wanita cerdas; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5518,11 +4400,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 *(al-wajhul-awwalu  min nazhara ilayhaa 'Uthaarida  takuunu imra'atun kaatibatu maahiratu, shaahibata 'aqli raajihi wa hisaabi daqiiqin, tahassuna idaarati baytuhaa wa amwaalihaa, wa takuunu mubaarakatun fii tijaaratihaa wa kasbihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Merkurius: Ia menjadi wanita yang mahir dalam tata administrasi tulis, memiliki logika berpikir yang matang dan akuntansi cermat, sangat piawai mengelola urusan rumah tangga dan aset finansialnya, serta membawa keberkahan dalam perniagaan usahanya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5536,10 +4413,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Venus: Ia adalah wanita yang sangat anggun dan hangat dalam pergaulan, gemar menyulam, menenun busana indah, dan perhiasan estetis, memiliki cita rasa seni yang tinggi, serta menjalani hidup dalam ketentraman dan kebahagiaan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5551,11 +4424,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaa Zuhala  takuunu imra'atun shabuuratu mudabbaratu, dzaat wa qaarin wa shamtin, tatahammalu mas'uuliyyaatu baytuhaa bijiddin wa itqaanin, wa takuunu amiinatun 'alaa kullu maa taht yadihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Saturnus: Ia menjadi wanita yang sabar, ulet, dan tenang berwibawa, memikul tanggung jawab rumah tangga dengan kesungguhan dan profesionalitas tinggi, serta sangat terpercaya dalam menjaga setiap amanah yang diembankan kepadanya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5571,11 +4439,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 
 (Rumah kehidupan dan penghidupannya) Virgo dan Merkurius: Penghidupannya berlangsung sejahtera dan tertata rapi; tidak mengenal pemborosan dan tidak pula kikir; tercukupi segala kebutuhannya berkat manajemen yang matang; hidup dalam keadaan terjaga kehormatan dan martabatnya; serta tidak berpulang melainkan dalam kenikmatan dan keselamatan dari Allah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5587,11 +4450,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 *(baytu maalihaa wa tijaaratihaa  al-Miizaani waz-Zuharati  taktasibul-amwaali minash-shanaa'i'id-daqiiqati wat-tijaaraatin-naafi'ati kabay'il-hubuubi wal-aqmisyati wal-'uthuuri, wa yubaariku Allaahi fii kasbihaa, wa taddakhiru maalan yanfa'uhaa fii kibarihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan perniagaannya) Libra dan Venus: Ia memperoleh rezeki dari keterampilan industri kreatif dan perniagaan produktif seperti komoditas hasil bumi, kain tekstil, dan wewangian murni; Allah melimpahkan berkah dalam usahanya; serta mampu menabung aset yang menopang hari tuanya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5605,11 +4463,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 
 (Rumah saudara-saudaranya) Scorpio dan Mars: Ia memiliki saudara kandung yang sangat ia sayangi dan ia bantu; dialah yang kerap dijadikan tempat meminta pertimbangan dan saran bijak; hubungan kekeluargaan mereka harmonis; serta ia tidak melihat dari mereka melainkan kebaikan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5621,11 +4474,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 *(baytu aabaa'ihaa wa ummahaatihaa  al-Qawsi wal-Musytarii  tanaalu min waalidayhaa du'aa'an mubaarakan wa radhdhan taamman, wa takuunu baarratun bihimaa muhsinatin ilayhimaa, wa tadfinu abaahaa qabla ummihaa, wa taritsu minhumaa barran wa barakatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Sagittarius dan Yupiter: Ia memetik curahan doa keberkahan dan keridhaan yang sempurna dari kedua orang tuanya; sangat berbakti dan berbuat ihsan kepada keduanya; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya warisan kebajikan dan doa berkah. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5639,11 +4487,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 
 (Rumah anak-anak dan kebahagiaannya) Capricorn dan Saturnus: Ia dianugerahi anak-anak yang berakhlak mulia dan berpikiran cerdas; ia berbahagia menyaksikan kesuksesan dan kesalehan budi pekerti mereka; serta merasakan kesejukan pandangan mata dari baktinya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5655,11 +4498,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 *(baytu amraadhihaa wa asqaamihaa  ad-Dalwi wa Zuhala  tushiibuhaa amraadhin al-jafaafi wal-buruudati fil-am'aa'i wa waja'izh-zhahri, fa-latasta'milu syaraabul-'asali wa zaytil-lawzil-halwi wal-adhaanid-daafa'ah, wa tatajannabul-ath'imatul-jaaffatu wal-baaridatu, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Aquarius dan Saturnus: Ia rentan mengalami keluhan pencernaan kering, masuk angin perut, dan nyeri punggung; maka dianjurkan rutin meminum madu murni, minyak almond manis, dan mengoleskan minyak berkhasiat hangat; serta menghindari makanan kering keras dan dingin. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5675,11 +4513,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 
 (Rumah jodoh pernikahan dan peraduannya) Pisces dan Yupiter: Ia dipersunting oleh seorang pria dermawan yang saleh nan berbudi pekerti luhur dan taat beragama; suaminya sangat menghargai dan memuliakan hak-haknya; mereka membina rumah tangga dalam ketentraman dan kedamaian; serta rumah mereka senantiasa makmur dengan kebajikan dan keberkahan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5691,11 +4524,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 *(baytu khawfihaa wa mawtihaa  al-Hamali wal-Mirriikhi  yukhaafu 'alayhaa min 'ilalir-ruthuubati wa amraadhin al-am'aa'i, wa a'waamal-khuthuri 'indahaa  tsamaanii siniina, wa sitta 'asyrata sanatin, wa atsinataani tsalaatsuuna sanatin, khamsuuna sanatin, sab'uuna sanatin, fa-in salimat minhaa 'aasyat ilaa tsamaaniina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis hidupnya) Aries dan Mars: Dikhawatirkan atasnya gangguan pencernaan dan radang usus; tahun-tahun rawan dalam siklus usianya adalah usia 8 tahun, 16 tahun, 32 tahun, 50 tahun, dan 70 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan mencapai 80 tahun dalam keadaan sehat walafiat. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5709,11 +4537,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 
 (Rumah perjalanan dan pergerakannya) Taurus dan Venus: Aktivitas perjalanannya senantiasa aman dan bermanfaat dengan didampingi oleh suami dan keluarganya; bepergian ke berbagai destinasi dalam kenyamanan dan keselamatan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5725,11 +4548,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 *(baytu 'izzihaa wa syarafihaa  al-Jawzaa'i wa 'Uthaarida  tanaalu raf'atun wa syarafaa baynan-nisaa'i bi'aqlihaa wa hukmatihaa wa husni tadbiirihaa, wa takuunu mawdhi'u tsiqatin wa ihtiraami 'indal-jamii'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan kedudukan sosialnya) Gemini dan Merkurius: Ia meraih kemuliaan dan kehormatan di kalangan kaum wanita berkat kecerdasan akal, hikmah, dan kepandaian manajemen hidupnya; serta senantiasa menjadi sosok yang terpercaya dan dihormati oleh semua orang. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5743,11 +4561,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 
 (Rumah harapan dan dambaannya) Cancer dan Bulan: Allah menyampaikan dirinya pada apa yang ia dambakan berupa keharmonisan rumah tangganya, ketenangan jiwanya, dan bakti anak-anaknya; serta dianugerahi kehidupan yang sejahtera dan husnul khatimah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5759,11 +4572,6 @@ Berkata sang ahli astrologi falak: Wanita yang bernaung di bawah buruj Virgo ini
 *(baytu a'daa'ihaa wa hussaadihaa  al-Asadi wasy-Syamsi  a'daa'uhaa min ba'dhul-hawaasidil-laatii yaghuttanna min hukmatihaa wa itqaanihaa, wa yakfiihaa Allaahi kaydihinna wa yahfazhuhaa min kullu suu'in, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Leo dan Matahari: Musuh-musuhnya hanyalah segelintir wanita pendengki yang iri melihat kepandaian dan kesempurnaan karyanya; namun Allah mencukupkan perlindungan dari tipu daya mereka dan memeliharanya dari segala marabahaya. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5788,10 +4596,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Bersungguh-sungguhlah dan giatlah berusaha niscaya engkau meraih segala impian * Karena kesungguhan membuka pintu-pintu harapan secara menakjubkan*
 *Janganlah bosan menempuh ikhtiar yang mulia karena tidaklah * Pernah merugi orang yang melangkah dengan bekal takwa.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 89 — Wafaq as-Sunbulah Kaum Wanita]**
@@ -5799,8 +4603,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 ![Gambar Rajah Asli Halaman 89 - Wafaq as-Sunbulah Wanita](rajah/rajah_p89_wafaq_nisa_sunbulah.png)
 
 *Gambar Rajah Asli Halaman 89* — Wafaq angka keramat pelindung buruj Virgo bagi kaum wanita untuk kecerdasan manajemen rumah tangga, daya tarik mahabbah, dan tolak bala sihir.
-
----
 
 ---
 
@@ -5827,9 +4629,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Ia dianugerahi perangai budi pekerti yang memikat dan batin yang bercahaya suci * Memetik kasih sayang tulus dan kehormatan diri di sepanjang hayatnya*
 *Mencintai kerukunan dan mahir mendamaikan perselisihan antarmanusia * Serta dikaruniai di sepanjang rentang usianya dengan perlindungan dari segala mara bahaya.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 90 — Tilsm Buruj al-Mizan Kaum Wanita]**
@@ -5855,10 +4654,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkulit putih bersih berpadu rona kemerahan cerah mempesona, berparas jelita dengan postur tubuh ideal, bermata indah bercelak alami, bergigi rapi putih berkilau, bertutur kata manis santun, sangat dicintai dan dikagumi oleh segenap masyarakat; dan ia terbagi atas tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5870,10 +4665,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 *(al-wajhul-awwalu  min nazhara ilayhaa az-Zuharati  takuunu imra'atun baari'atul-jamaali, mahabbatan lith-thayyiba waz-zaynata wal-malaabisal-faakhirata, dzaat dalaalin wa labaaqatin, ya'asyaqahaa zawjuhaa wa yakuunu lahaa hazhzhun 'azhiimun fis-sa'aadatiz-zawjiyyati, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Venus: Ia berparas sangat jelita memikat pandangan, gemar mengenakan parfum wangi, perhiasan berkilau, dan busana-busana mewah bermartabat, bersikap manja anggun penuh tata krama, sangat dipuja oleh suaminya dan dinaungi keberuntungan besar dalam kebahagiaan rumah tangga. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -5887,10 +4678,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Merkurius: Ia memiliki kefasihan lisan yang memukau, berwawasan luas dan penuh kebijaksanaan, sangat piawai menjadi juru damai dan mengatur berbagai urusan kemasyarakatan, serta pandangannya senantiasa membawa berkah kemaslahatan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5902,10 +4689,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaal-Musytarii  takuunu imra'atun shaalihatu kariimatu, dzaat wa ra'in wa taqwaa, tuhibbul-khayri wa ta'ayyunudh-dhu'afaa'i, wa tanaalu jaahan wa maalan wa fiiran, wa ta'iisyu fii 'izzin wa raf'atin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Yupiter: Ia adalah wanita salihah yang amat dermawan, berjiwa wara' dan bertakwa mendalam, gemar menebar kebajikan dan membela kaum lemah, memperoleh kehormatan kedudukan dan limpahan harta, serta menjalani hidup dalam kemuliaan martabat. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -5921,11 +4704,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 
 (Rumah kehidupan dan penghidupannya) Libra dan Venus: Garis kehidupannya diliputi ketentraman dan kebahagiaan; penghidupannya lapang dan penuh kemudahan; dianugerahi kecukupan rezeki yang membuatnya berkecukupan; hidup dalam pemeliharaan kehormatan; grafiknya terus menanjak dalam kedamaian jiwa; serta tidak berpulang melainkan dalam limpahan nikmat dan karunia Ilahi. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5937,11 +4715,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 *(baytu maalihaa wa tijaaratihaa  al-'Aqrabi wal-Mirriikhi  taktasibul-amwaali minat-tijaaratir-raabihati wal-'aqaaraati wash-shanaa'i'il-yadawiyyati, wa yubaariku Allaahi fii maalihaa, wa tajammu'a tsarwati thiibatin taddakhiruhaa li-awlaadihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan perniagaannya) Scorpio dan Mars: Ia mendulang kekayaan dari sektor perniagaan yang menguntungkan, aset properti, dan kerajinan tangan bernilai tinggi; Allah melimpahkan keberkahan dalam hartanya; serta mampu menghimpun kekayaan yang berkah untuk masa depan anak-anaknya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5955,11 +4728,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 
 (Rumah saudara-saudaranya) Sagittarius dan Yupiter: Ia memiliki saudara kandung laki-laki dan perempuan; ikatan persaudaraan di antara mereka diliputi kehangatan kasih sayang dan saling tolong-menolong; dialah yang menjadi tempat curahan hati dan kesayangan keluarga; serta ia tidak melihat dari mereka melainkan hal-hal yang membahagiakan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -5971,11 +4739,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 *(baytu aabaa'ihaa wa ummahaatihaa  al-Jadyi wa Zuhala  tanaalu min waalidayhaa barran wa mahabbatan, wa takuunu muthii'atun lahumaa muhsinatin ilayhimaa, wa tadfinu abaahaa qabla ummihaa, wa taritsu minhumaa maalan wa barakatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Capricorn dan Saturnus: Ia memetik curahan kasih sayang dan doa tulus dari kedua orang tuanya; sangat patuh dan berbuat ihsan kepada keduanya; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya harta peninggalan dan doa keberkahan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -5989,11 +4752,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 
 (Rumah anak-anak dan kebahagiaannya) Aquarius dan Saturnus: Ia dianugerahi putra dan putri yang berbakat cerdas dan rupawan; ia memetik kegembiraan dan kebanggaan yang mendalam atas mereka; serta sejuk pandangan matanya menyaksikan kesalehan hidup anak-anaknya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6006,20 +4764,15 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 
 (Rumah penyakit dan keluhan fisiknya) Pisces dan Yupiter: Ia rentan mengalami keluhan pegal linu persendian akibat kelembapan tubuh, pusing kepala, dan nyeri punggung; maka dianjurkan rutin meminum madu jahe hangat dan mengoleskan minyak aromaterapi berkhasiat; serta menghindari paparan angin dingin saat perut kosong di pagi hari. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 > **STATUS BATCH 9: SELESAI** (Halaman Cetak 82–91 / Halaman PDF 41–45).
 > Rajah/wafaq/tilsam batch ini telah di-crop presisi, latar putih, tersimpan di folder `rajah/`:
 > `rajah_p82_wafaq_nisa_saratan.png`, `rajah_p83_tilsam_nisa_asad.png`, `rajah_p86_wafaq_nisa_asad.png`, `rajah_p87_tilsam_nisa_sunbulah.png`, `rajah_p89_wafaq_nisa_sunbulah.png`, `rajah_p90_tilsam_nisa_mizan.png`.
 
-# BATCH 10 — HALAMAN PDF 46–50 (HALAMAN CETAK 92–101)
-
 ---
+
+# BATCH 10 — HALAMAN PDF 46–50 (HALAMAN CETAK 92–101)
 
 ---
 
@@ -6035,11 +4788,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 
 (Rumah jodoh pernikahan dan peraduannya) Aries dan Mars: Ia dipersunting oleh seorang pria pemberani yang berjiwa ksatria dan amat dermawan; suaminya sangat mencintainya dengan cinta mendalam dan memiliki kecemburuan yang wajar untuk menjaganya; mereka membina rumah tangga dalam ketentraman dan kemuliaan; serta dialah yang dipercaya memegang kendali tata kelola rumah tangganya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6051,11 +4799,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 *(baytu khawfihaa wa mawtihaa  ats-Tsawri waz-Zuharati  yukhaafu 'alayhaa min amraadhin al-buruudati wa 'awaaridhir-ruthuubati, wa a'waamal-khuthuri 'indahaa  tsamaanii siniina, wa sitta 'asyrata sanatin, wa arba'i wa tsalaatsuuna sanatin, khamsuuna sanatin, sab'uuna sanatin, fa-in salimat minhaa 'aasyat ilaa tsamaaniina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis kesehatannya) Taurus dan Venus: Dikhawatirkan atasnya penyakit akibat udara dingin basah dan kelembapan tubuh; tahun-tahun rawan dalam siklus usianya adalah usia 8 tahun, 16 tahun, 34 tahun, 50 tahun, dan 70 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan mencapai 80 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6069,11 +4812,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 
 (Rumah perjalanan dan pergerakannya) Gemini dan Merkurius: Perjalanannya senantiasa aman dan penuh berkah dengan didampingi oleh suami dan keluarganya; bepergian ke pusat-pusat kota peradaban dan pusat perniagaan yang menguntungkan; serta memetik kenyamanan dan kemuliaan di sepanjang perjalanannya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6085,11 +4823,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 *(baytu 'izzihaa wa syarafihaa  as-Sarathaani wal-Qamari  tanaalu syarafan wa makaanata rafii'ata baynan-nisaa'i bi-husni khalqihaa wa jamaalihaa wa waqaarihaa, wa takuunu muhtaramatul-jaanibi maqbuulatasy-syafaa'ati, wa yutsnaa 'alayhaal-jamii'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan status sosialnya) Cancer dan Bulan: Ia meraih kehormatan dan kedudukan tinggi di tengah kaum wanita berkat keindahan budi pekerti, kecantikan paras, dan ketenangannya; disegani kewibawaannya dan diterima pertolongannya; serta menuai sanjungan pujian dari semua orang. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6103,11 +4836,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 
 (Rumah harapan dan dambaannya) Leo dan Matahari: Allah menyampaikan dirinya pada apa yang ia dambakan berupa kesempurnaan nikmat, kemapanan kondisi keluarga, dan bakti anak-anaknya; serta dianugerahi kehidupan yang makmur sejahtera dan husnul khatimah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6119,11 +4847,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Libra berkul
 *(baytu a'daa'ihaa wa hussaadihaa  as-Sunbulati wa 'Uthaarida  a'daa'uhaa min ba'dhul-hawaasidil-laatii yahsudannahaa 'alaa hasanu thal'atihaa wa kamaali 'aqlihaa, wa yakfiihaa Allaahi kaydihinna wa yaj'aluhaa manshuuratun 'alayhunna, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Virgo dan Merkurius: Musuh-musuhnya hanyalah segelintir wanita pendengki yang iri menyaksikan keelokan paras wajahnya dan kesempurnaan daya pikirnya; namun Allah mencukupkan perlindungan dari tipu daya mereka dan menjadikannya senantiasa unggul menang. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6150,10 +4873,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Engkau telah meraih kemenangan dan harapan-harapan indah tampak nyata * Kian bertambah kemuliaan kedudukan martabat dan hartamu*
 *Maka pujilah Tuhan Maha Pemelihara atas limpahan kenikmatan-Nya * Karena dengan bersyukur kepada-Nya segala keadaan berubah menjadi lebih indah.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 93 — Wafaq al-Mizan Kaum Wanita]**
@@ -6161,8 +4880,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 ![Gambar Rajah Asli Halaman 93 - Wafaq al-Mizan Wanita](rajah/rajah_p93_wafaq_nisa_mizan.png)
 
 *Gambar Rajah Asli Halaman 93* — Wafaq angka keramat pelindung buruj Libra bagi kaum wanita untuk daya pikat cinta sejati, keadilan rumah tangga, dan tolak bala perselisihan.
-
----
 
 ---
 
@@ -6189,9 +4906,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Ia dianugerahi tekad yang kokoh membaja dan kesetiaan yang tak tergoyahkan * Berhasil meraih kemenangan yang nyata di sepanjang lembaran hidupnya*
 *Mencintai kesucian kehormatan diri dan memuliakan para tetangga * Serta senantiasa dinaungi pemeliharaan dan wibawa kemuliaan dari Allah.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 94 — Tilsm Buruj al-Aqrab Kaum Wanita]**
@@ -6217,9 +4931,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scorpio ini berkulit sawo matang bersih memikat atau condong kemerahan merona, kedua matanya tajam berbinar indah, berdahi bidang cerah, bertekad membaja, berwibawa dan bernyali ksatria, jujur tegas dalam bertutur kata; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6231,11 +4942,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 *(al-wajhul-awwalu  min nazhara ilayhaal-Mirriikhi  takuunu imra'atun syajaa'ati haazimati, quwwiyyatasy-syakhshiyyati, tahassuna tadbiiri syu'uuni baytuhaa bihazmin wa 'adlin, wa takuunu mahaabatu 'indan-nisaa'i war-rijaali, wa tanaalu 'izzan wijaahan, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Mars: Ia menjadi wanita yang berjiwa teguh mandiri, berkepribadian tangguh, mengelola tata urusan rumah tangganya dengan ketegasan dan keadilan, disegani oleh kaum wanita maupun pria, serta meraih kemuliaan dan kedudukan terhormat. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6249,10 +4955,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 
 (Wajah Kedua) Bagi yang dipandang oleh Matahari: Ia memancarkan keanggunan dan kemuliaan derajat, berparas wajah berseri memikat, berjiwa dermawan, dianugerahi limpahan kekayaan dari relasi terpandang, serta menjalani hari-harinya dalam kemakmuran dan kehormatan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6264,10 +4966,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaa az-Zuharati  takuunu imra'atun lathiifatu zhariifatu, tuhibbuz-zaynatu wath-thayyibu wal-malaabisul-aniiqatu, dzaat dalaalin wa jamaalin, yuhibbuhaa zawjuhaa wa yukarrimu maqaamuhaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Venus: Ia adalah wanita yang sangat anggun mempesona, gemar mengenakan wewangian harum, perhiasan indah, dan busana-busana modis, berdaya pikat manja yang memikat, sangat disayangi suaminya dan dimuliakan kedudukannya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -6283,11 +4981,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 
 (Rumah kehidupan dan penghidupannya) Scorpio dan Mars: Penghidupannya berlangsung stabil, sejahtera, dan mandiri; tercukupi segala kebutuhannya berkat manajemen yang matang dan keteguhan mentalnya; hidup dalam keadaan terjaga kehormatannya; serta tidak berpulang melainkan dalam limpahan nikmat dan keselamatan dari Allah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6299,11 +4992,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 *(baytu maalihaa wa tijaaratihaa  al-Qawsi wal-Musytarii  taktasibul-amwaali minat-tijaaratir-raabihati wal-'aqaaraati, wa turzaqu dzahabaa wa halyaa katsiiran, wa yubaariku Allaahi fii makaasibihaa, wa tajammu'a tsarwatin taddakhiruhaa li-awlaadihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan perniagaannya) Sagittarius dan Yupiter: Ia merengkuh kekayaan dari perniagaan yang menguntungkan dan kepemilikan aset properti; dianugerahi simpanan emas dan perhiasan berharga; Allah melimpahkan keberkahan dalam usahanya; serta mampu menabung kekayaan yang berharga bagi anak keturunannya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6317,11 +5005,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 
 (Rumah saudara-saudaranya) Capricorn dan Saturnus: Ia memiliki saudara kandung yang sangat ia sayangi dan ia bantu di saat menghadapi kesulitan hidup; dialah yang menjadi tempat tumpuan kepercayaan dan kasih sayang keluarga; serta ikatan persaudaraan mereka berlangsung harmonis. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6333,11 +5016,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 *(baytu aabaa'ihaa wa ummahaatihaa  ad-Dalwi wa Zuhala  tanaalu min waalidayhaa du'aa'an mubaarakan wa ridhaa hissinaa, wa takuunu muthii'atun lahumaa baarratin bihimaa, wa tadfinu abaahaa qabla ummihaa, wa taritsu minhumaa maalan halaalan, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Aquarius dan Saturnus: Ia memetik curahan doa berkah dan keridhaan yang tulus dari kedua orang tuanya; sangat berbakti dan taat kepada keduanya; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya harta peninggalan yang halal. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6351,11 +5029,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 
 (Rumah anak-anak dan kebahagiaannya) Pisces dan Yupiter: Ia dikaruniai putra dan putri yang menjadi penyejuk pandangan mata dan sumber kebahagiaannya; anak-anaknya tumbuh tangguh berani dan berakhlak saleh; serta sejuk pandangan matanya menyaksikan mereka meraih kesuksesan hidup. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6367,11 +5040,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 *(baytu amraadhihaa wa asqaamihaa  al-Hamali wal-Mirriikhi  tushiibuhaa amraadhin al-haraarati fir-ra'si wash-shudaa'i wa waja'izh-zhahri wal-bathni, fa-latasta'milu syaraabus-sakanjabiini wat-tamri hindiyyun, wa tatajannabul-ath'imatul-haarratu, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Aries dan Mars: Ia rentan mengalami keluhan sakit kepala panas, nyeri punggung, dan gangguan organ perut; maka dianjurkan rutin meminum oxymel (sikinjabin) dan sari asam jawa; serta menjauhi makanan-makanan yang bersifat terlalu pedas dan panas. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6387,11 +5055,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 
 (Rumah jodoh pernikahan dan peraduannya) Taurus dan Venus: Ia dipersunting oleh seorang pria terhormat berjiwa dermawan yang memiliki kekayaan dan nasab mulia; suaminya sangat mencintainya dan memuliakan kedudukannya; mereka menjalani bahtera rumah tangga dalam ketentraman dan kemakmuran; serta keharmonisan di antara mereka berlangsung abadi sepanjang usia. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6403,11 +5066,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 *(baytu khawfihaa wa mawtihaa  al-Jawzaa'i wa 'Uthaarida  yukhaafu 'alayhaa min amraadhin al-haraaratil-haaddati wa 'awaaridhil-hawaa'i, wa a'waamal-khuthuri 'indahaa  tasa'u siniina, watsamaan 'asyrata sanatin, wa sab'i wa tsalaatsuuna sanatin, khamsuuna sanatin, sab'uuna sanatin, fa-in salimat minhaa 'aasyat ilaa khamsi wa tsamaaniina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis kesehatannya) Gemini dan Merkurius: Dikhawatirkan atasnya penyakit demam panas akut dan gangguan cuaca ekstrem; tahun-tahun rawan dalam siklus usianya adalah usia 9 tahun, 18 tahun, 37 tahun, 50 tahun, dan 70 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan mencapai 85 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6421,11 +5079,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 
 (Rumah perjalanan dan pergerakannya) Cancer dan Bulan: Aktivitas perjalanannya senantiasa membawa keberkahan dengan didampingi oleh mahramnya; bepergian ke berbagai wilayah dalam naungan keselamatan dan kemudahan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6437,11 +5090,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 *(baytu 'izzihaa wa syarafihaa  al-Asadi wasy-Syamsi  tanaalu 'izzan 'azhiiman wa makaanatu saammiyyatu baynan-nisaa'i bihazmihaa wa syajaa'atihaa, wa takuunu mahaabatul-jaanibi muhtaramatal-kalimati 'indal-jamii'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan status sosialnya) Leo dan Matahari: Ia merengkuh kemuliaan yang agung dan kedudukan tinggi di tengah kaum wanita berkat keteguhan dan keberaniannya; disegani kewibawaannya dan dihormati perkataannya oleh semua orang. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6455,11 +5103,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 
 (Rumah harapan dan dambaannya) Virgo dan Merkurius: Allah menyampaikan dirinya pada apa yang ia dambakan berupa keharmonisan rumah tangganya, ketentraman jiwanya, dan bakti anak-anaknya; serta dianugerahi kehidupan yang mapan dan husnul khatimah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6471,11 +5114,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir di bawah naungan buruj Scor
 *(baytu a'daa'ihaa wa hussaadihaa  al-Miizaani waz-Zuharati  a'daa'uhaa min ba'dhul-hawaasidil-laatii yahsudannahaa 'alaa syajaa'atihaa wa husni haalihaa, wa yakfiihaa Allaahi kaydihinna wa yahfazhuhaa min kullu makruuhin, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Libra dan Venus: Musuh-musuhnya hanyalah segelintir wanita pendengki yang iri melihat ketangguhan dan kemapanan hidupnya; namun Allah mencukupkan perlindungan dari tipu daya mereka dan memeliharanya dari segala marabahaya. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6502,10 +5140,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Engkau telah memenangkan apa yang kau impikan berupa ketinggian martabat * Dan Tuhan Pemelihara 'Arsy membalasmu dengan kebaikan yang berlimpah*
 *Janganlah takut pada tipu muslihat musuh karena sesungguhnya rencana jahat mereka * Pasti akan binasa dan lenyap dengan izin Allah secara sempurna.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 97 — Wafaq al-Aqrab Kaum Wanita]**
@@ -6513,8 +5147,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 ![Gambar Rajah Asli Halaman 97 - Wafaq al-Aqrab Wanita](rajah/rajah_p97_wafaq_nisa_aqrab.png)
 
 *Gambar Rajah Asli Halaman 97* — Wafaq angka keramat pelindung buruj Scorpio bagi kaum wanita untuk benteng kekebalan batin, tolak bala sihir, dan wibawa kepemimpinan.
-
----
 
 ---
 
@@ -6541,9 +5173,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Ia dianugerahi hati nurani yang tulus bersih dan pandangan yang lurus tepat * Merengkuh di sepanjang usianya dengan ketinggian derajat dan pesona anggun*
 *Mencintai amal kebajikan dan gemar memuliakan para tetamu * Serta dilimpahi di sepanjang hayatnya dengan curahan kebaikan ihsan.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 98 — Tilsm Buruj al-Qaus Kaum Wanita]**
@@ -6569,10 +5198,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sagittarius berkulit putih bersih merona kemerahan cerah, berpostur tubuh proporsional tinggi anggun, berwajah rupawan manis berseri, berdada bidang lapang, jujur tulus dalam bertutur kata, sangat dicintai di kalangan orang-orang saleh; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6584,11 +5209,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 *(al-wajhul-awwalu  min nazhara ilayhaal-Musytarii  takuunu imra'atun shaalihatu 'aabidatu, dzaat fiqhin wa hukmatin, tahassuna tadbiiri syu'uuni baytuhaa wa tarbiyati awlaadihaa 'alaa thaa'ati Allaahi, wa tanaalu khayran katsiiran, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Yupiter: Ia menjadi wanita salihah yang tekun beribadah, memiliki pemahaman agama dan kebijaksanaan hikmah yang mendalam, mendidik putra-putrinya di atas ketaatan kepada Allah, serta dianugerahi kelimpahan kebaikan yang berlimpah. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6602,10 +5222,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 
 (Wajah Kedua) Bagi yang dipandang oleh Matahari: Ia memancarkan wibawa dan kedudukan terpandang, berwajah cerah bersinar memikat, berjiwa mulia dermawan, dianugerahi kekayaan melimpah dan status sosial tinggi, serta dihormati dan ditaati pandangannya di tengah masyarakat. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6617,10 +5233,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaa az-Zuharati  takuunu imra'atun zhariifatu hasnaa'i, mahabbatan lith-thayyiba waz-zaynata wal-malaabisal-faakhirata, dzaat hazhzhun 'azhiimun fis-sa'aadati wal-mahabbati, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Venus: Ia berparas sangat cantik jelita dan modis, gemar mengenakan wewangian harum, perhiasan indah, dan busana-busana mewah bermartabat, serta dinaungi peruntungan besar dalam keharmonisan asmara dan kebahagiaan hidup. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -6636,11 +5248,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 
 (Rumah kehidupan dan penghidupannya) Sagittarius dan Yupiter: Garis kehidupannya diliputi kesehatan afiat dan kelapangan rezeki; penghidupannya amat tentram dan sejahtera; dianugerahi kecukupan yang membuatnya tidak bergantung pada orang lain; senantiasa menanjak dalam kebahagiaan; serta tidak berpulang melainkan dalam limpahan nikmat dan keselamatan dari Allah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6652,11 +5259,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 *(baytu maalihaa wa tijaaratihaa  al-Jadyi wa Zuhala  taktasibul-amwaali minat-tijaaratir-raabihati wal-'aqaaraati wash-shanaa'i'il-yadawiyyati, wa yubaariku Allaahi fii maalihaa, wa tajammu'a tsarwati thiibatin taddakhiruhaa li-awlaadihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan perniagaannya) Capricorn dan Saturnus: Ia mendulang kekayaan dari sektor perniagaan yang berkah, kepemilikan aset properti, dan keterampilan kerajinan tangan bernilai tinggi; Allah melipatgandakan keberkahan dalam hartanya; serta mampu menabung kekayaan yang berharga untuk masa depan anak-anaknya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6670,11 +5272,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 
 (Rumah saudara-saudaranya) Aquarius dan Saturnus: Ia memiliki saudara kandung laki-laki dan perempuan; ikatan persaudaraan di antara mereka terjalin harmonis penuh kasih sayang dan saling tolong-menolong; dialah yang menjadi tempat curahan hati dan kesayangan keluarga; serta ia tidak melihat dari mereka melainkan kebaikan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6686,11 +5283,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 *(baytu aabaa'ihaa wa ummahaatihaa  al-Huuti wal-Musytarii  tanaalu min waalidayhaa barran wa mahabbatan, wa takuunu muthii'atun lahumaa muhsinatin ilayhimaa, wa tadfinu abaahaa qabla ummihaa, wa taritsu minhumaa maalan wa barakatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Pisces dan Yupiter: Ia memetik curahan kasih sayang dan doa tulus dari kedua orang tuanya; sangat berbakti dan berbuat ihsan kepada keduanya; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya warisan harta dan doa keberkahan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6704,11 +5296,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 
 (Rumah anak-anak dan kebahagiaannya) Aries dan Mars: Ia dianugerahi putra dan putri yang berbakat cerdas dan berjiwa ksatria; ia memetik kegembiraan dan kebanggaan yang mendalam atas mereka; serta sejuk pandangan matanya menyaksikan kesalehan hidup anak-anaknya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6720,11 +5307,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 *(baytu amraadhihaa wa asqaamihaa  ats-Tsawri waz-Zuharati  tushiibuhaa amraadhin ar-ruthuubati war-riyaahi fil-mafaashili wash-shudaa'i wa waja'izh-zhahri, fa-latasta'milu syaraabul-'asali biz-zanjabiili wad-dihinnal-'atharaa, wa tatajannabul-hawaa'ul-baaridu 'alaa ar-rayyiqi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Taurus dan Venus: Ia rentan mengalami keluhan pegal linu persendian akibat kelembapan tubuh, pusing kepala, dan nyeri punggung; maka dianjurkan rutin meminum madu jahe hangat dan mengoleskan minyak aromaterapi berkhasiat; serta menghindari paparan angin dingin saat perut kosong di pagi hari. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6740,11 +5322,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 
 (Rumah jodoh pernikahan dan peraduannya) Gemini dan Merkurius: Ia dipersunting oleh seorang pria saleh nan dermawan yang memiliki kedalaman ilmu dan nasab terhormat; suaminya sangat mencintainya dan memuliakan kedudukannya; mereka menjalani bahtera rumah tangga dalam ketentraman dan kemakmuran; serta keharmonisan di antara mereka berlangsung abadi sepanjang usia. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6756,11 +5333,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 *(baytu khawfihaa wa mawtihaa  as-Sarathaani wal-Qamari  yukhaafu 'alayhaa min amraadhin ar-ruthuubati wa 'awaaridhil-miyaahi, wa a'waamal-khuthuri 'indahaa  'asyara siniina, 'isyruuna sanatin, tsalaatsuuna sanatin, khamsuuna sanatin, sab'uuna sanatin, fa-in salimat minhaa 'aasyat ilaa tis'iina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis kesehatannya) Cancer dan Bulan: Dikhawatirkan atasnya penyakit akibat kelembapan tubuh dan insiden perairan; tahun-tahun rawan dalam siklus usianya adalah usia 10 tahun, 20 tahun, 30 tahun, 50 tahun, dan 70 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan berlanjut hingga 90 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6774,11 +5346,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 
 (Rumah perjalanan dan pergerakannya) Leo dan Matahari: Aktivitas perjalanannya senantiasa membawa keberkahan dengan didampingi oleh mahramnya; bepergian ke kota-kota besar peradaban dan menunaikan ibadah haji ke Baitullah al-Haram; serta memetik keselamatan dan kemudahan di sepanjang musafir. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6790,11 +5357,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 *(baytu 'izzihaa wa syarafihaa  as-Sunbulati wa 'Uthaarida  tanaalu 'izzan 'azhiiman wa makaanatu saammiyyatu baynan-nisaa'i bi'aqlihaa wa husni tadbiirihaa, wa takuunu muhtaramatul-jaanibi maqbuulatasy-syafaa'ati 'indal-jamii'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan status sosialnya) Virgo dan Merkurius: Ia merengkuh kemuliaan yang agung dan kedudukan tinggi di tengah kaum wanita berkat kecerdasan akal dan kepandaian manajemen hidupnya; disegani kewibawaannya dan diterima pertolongannya oleh semua orang. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6808,11 +5370,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 
 (Rumah harapan dan dambaannya) Libra dan Venus: Allah menyampaikan dirinya pada apa yang ia dambakan berupa keharmonisan rumah tangganya, ketentraman jiwanya, dan bakti anak-anaknya; serta dianugerahi kehidupan yang makmur sejahtera dan husnul khatimah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6824,11 +5381,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 *(baytu a'daa'ihaa wa hussaadihaa  al-'Aqrabi wal-Mirriikhi  a'daa'uhaa min ba'dhul-hawaasidil-laatii yahsudannahaa 'alaa kamaali diinihaa wa 'aqlihaa, wa yakfiihaa Allaahi kaydihinna wa yahfazhuhaa min kullu makruuhin, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Scorpio dan Mars: Musuh-musuhnya hanyalah segelintir wanita pendengki yang iri melihat kesempurnaan agamanya dan kecerdasan akalnya; namun Allah mencukupkan perlindungan dari tipu daya mereka dan memeliharanya dari segala marabahaya. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6854,10 +5406,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Sag
 Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk al-Bayadh melambangkan kejernihan niat batin, kesucian rekam jejak perilaku, dan terbitnya keberkahan dalam setiap gerak maupun diam; maka berpegang teguhlah pada kejujuran dan ketakwaan; simaklah bait syair bijak ini:
 *Zaman telah jernih berpihak kepadamu dan kenikmatan kian bertambah melimpah * Dan kedermawananmu mengalir hingga menyinari tanah suci*
 *Maka bergembiralah menyongsong keridhaan dari Tuhan kita selamanya * Karena barang siapa yang berharap kepada Allah takkan pernah celaka dan tersia-siakan.*
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
 
 ---
 
@@ -6890,9 +5438,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Ia dianugerahi akal pikiran yang matang dan kemuliaan nasab yang mengakar kuat * Berhasil meraih pahala dan kebaikan yang amat agung di sepanjang usianya*
 *Mencintai amanah kejujuran dan merawat keharmonisan rumah tangga * Serta dianugerahi di sepanjang hayatnya dengan kesempurnaan kecukupan rezeki.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 101 — Tilsm Buruj al-Jady Kaum Wanita]**
@@ -6907,9 +5452,9 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 > Rajah/wafaq/tilsam batch ini telah di-crop presisi, latar putih, tersimpan di folder `rajah/`:
 > `rajah_p93_wafaq_nisa_mizan.png`, `rajah_p94_tilsam_nisa_aqrab.png`, `rajah_p97_wafaq_nisa_aqrab.png`, `rajah_p98_tilsam_nisa_qaus.png`, `rajah_p101_wafaq_nisa_qaus.png`, `rajah_p101_tilsam_nisa_jady.png`.
 
-# BATCH 11 — HALAMAN PDF 51–55 (HALAMAN CETAK 102–111)
-
 ---
+
+# BATCH 11 — HALAMAN PDF 51–55 (HALAMAN CETAK 102–111)
 
 ---
 
@@ -6930,9 +5475,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya pada buruj Capricorn)
 Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn berkulit sawo matang bersih atau kuning langsat manis, berpostur tubuh sedang ideal, bermata indah bercelak alami, tenang dalam setiap gerak-gerik, hemat bicara, memiliki rasa malu yang tinggi dan wibawa kemuliaan; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6944,11 +5486,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 *(al-wajhul-awwalu  min nazhara ilayhaa Zuhala  takuunu imra'atun shabuuratu mudabbaratu, tahassuna ri'aayati baytuhaa wa iqtishaadi maalihaa, wa takuunu haafizhatun lisirra zawjuhaa, wa ta'iisyu fii 'izzatin wa sitrin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Saturnus: Ia menjadi wanita yang sangat sabar, ulet, dan pandai mengatur keuangan rumah tangga, menjaga rapat rahasia kehormatan suaminya, serta menjalani kehidupan dalam kemuliaan dan perlindungan Allah. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6962,10 +5499,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Venus: Ia berpenampilan anggun dan berwajah manis menawan, menyukai keindahan yang elegan dan penataan rumah yang bersih rapi, berakhlak mulia, sangat dicintai suaminya yang menghargai ketulusan dan kesabarannya. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -6977,11 +5510,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaa 'Uthaarida  takuunu imra'atun 'aaqilatu hakiimatu, shaahibata ra'aa sadiidun wa tadbiiru muhkamu, tashluhu li-idaaratusy-syu'uunil-kabiirati, wa takuunu mubaarakatun fii baytuhaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Merkurius: Ia dianugerahi kecerdasan logika dan kearifan hikmah, memiliki pandangan yang lurus dan manajemen yang rapi, sangat cakap mengelola urusan-urusan besar, serta membawa limpahan berkah di rumahnya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -6995,11 +5523,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 
 (Rumah kehidupan dan penghidupannya) Capricorn dan Saturnus: Penghidupannya berlangsung stabil, sejahtera, dan tentram; tercukupi segala kebutuhannya bahkan senantiasa berlebih; hidup dalam naungan kesucian dan kehormatan martabat; serta tidak berpulang melainkan dalam limpahan nikmat dan keselamatan dari Allah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7011,11 +5534,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 *(baytu maalihaa wa tijaaratihaa  ad-Dalwi wa Zuhala  taktasibul-amwaali minash-shanaa'i'il-yadawiyyatil-mutqanati wat-tijaaraatil-ma'muunati, wa taddakhirul-maali li-nawaa'ibad-dahri, wa yubaariku Allaahi fii kasbihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan perniagaannya) Aquarius dan Saturnus: Ia memperoleh penghasilan dari keterampilan kerajinan tangan yang teliti dan perniagaan yang aman; gemar menabung untuk kebutuhan masa depan; serta Allah melimpahkan keberkahan dalam setiap rezekinya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7029,11 +5547,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 
 (Rumah saudara-saudaranya) Pisces dan Yupiter: Ia memiliki saudara kandung yang sangat menyayangi dan berbuat baik kepadanya; dialah yang kerap dijadikan tempat mencurahkan rahasia dan musyawarah keluarga; serta hubungan persaudaraan mereka berlangsung harmonis. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7045,11 +5558,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 *(baytu aabaa'ihaa wa ummahaatihaa  al-Hamali wal-Mirriikhi  tanaalu min waalidayhaa barran wa mahabbatan, wa takuunu muthii'atun lahumaa muhsinatin ilayhimaa, wa tadfinu abaahaa qabla ummihaa, wa taritsu minhumaa maalan wa barakatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Aries dan Mars: Ia memetik curahan kasih sayang dan doa tulus dari kedua orang tuanya; sangat patuh dan berbuat ihsan kepada keduanya; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya warisan harta dan doa keberkahan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7063,11 +5571,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 
 (Rumah anak-anak dan kebahagiaannya) Taurus dan Venus: Ia dianugerahi anak-anak yang berakhlak mulia dan cerdas baik laki-laki maupun perempuan; mayoritas keturunannya adalah perempuan; ia merasakan kebahagiaan dan kebanggaan yang mendalam atas mereka; serta sejuk pandangan matanya menyaksikan kesalehan hidup anak-anaknya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7079,11 +5582,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 *(baytu amraadhihaa wa asqaamihaa  al-Jawzaa'i wa 'Uthaarida  tushiibuhaa amraadhin al-buruudati fil-'izhaama wal-mafaashili wa waja'ir-rakbatayni, fa-latasta'milul-adhaanud-daafa'ah kazaytiz-zaytuuni wa zaytil-habbatis-sawdaa'i, wa tatajannabul-hawaa'ul-baaridu, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Gemini dan Merkurius: Ia rentan mengalami keluhan pegal linu persendian akibat hawa dingin pada struktur tulang dan nyeri kedua lutut; maka dianjurkan rutin mengoleskan minyak berkhasiat hangat seperti minyak zaitun dan minyak habbatussauda murni; serta menghindari hembusan angin dingin. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7099,11 +5597,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 
 (Rumah jodoh pernikahan dan peraduannya) Cancer dan Bulan: Ia dipersunting oleh seorang pria saleh terpandang yang memiliki kekayaan dan nasab mulia; suaminya sangat mencintainya dan memuliakan kedudukannya; mereka menjalani bahtera rumah tangga dalam ketentraman dan kemakmuran; serta keharmonisan di antara mereka berlangsung abadi sepanjang usia. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7115,11 +5608,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 *(baytu khawfihaa wa mawtihaa  al-Asadi wasy-Syamsi  yukhaafu 'alayhaa min amraadhin al-buruudatisy-syadiidati wa 'awaaridhish-shadri, wa a'waamal-khuthuri 'indahaa  tsamaanii siniina, wa sitta 'asyrata sanatin, wa arba'i wa tsalaatsuuna sanatin, khamsuuna sanatin, sab'uuna sanatin, fa-in salimat minhaa 'aasyat ilaa tsamaaniina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis kesehatannya) Leo dan Matahari: Dikhawatirkan atasnya penyakit akibat udara dingin ekstrem dan gangguan pernapasan dada; tahun-tahun rawan dalam siklus usianya adalah usia 8 tahun, 16 tahun, 34 tahun, 50 tahun, dan 70 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan mencapai 80 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7133,11 +5621,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 
 (Rumah perjalanan dan pergerakannya) Virgo dan Merkurius: Aktivitas perjalanannya senantiasa aman dan penuh keberkahan dengan didampingi oleh suami dan keluarganya; bepergian ke berbagai destinasi dalam kenyamanan dan keselamatan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7149,11 +5632,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 *(baytu 'izzihaa wa syarafihaa  al-Miizaani waz-Zuharati  tanaalu 'izzan 'azhiiman wa makaanatu saammiyyatu baynan-nisaa'i bihukmatihaa wa waqaarihaa, wa takuunu muhtaramatul-jaanibi maqbuulatasy-syafaa'ati 'indal-jamii'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan status sosialnya) Libra dan Venus: Ia merengkuh kemuliaan yang agung dan kedudukan tinggi di tengah kaum wanita berkat kebijaksanaan dan ketenangannya; disegani kewibawaannya dan diterima pertolongannya oleh semua orang. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7167,11 +5645,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 
 (Rumah harapan dan dambaannya) Scorpio dan Mars: Allah menyampaikan dirinya pada apa yang ia dambakan berupa keharmonisan rumah tangganya, ketenangan jiwanya, dan bakti anak-anaknya; serta dianugerahi kehidupan yang mapan dan husnul khatimah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7183,11 +5656,6 @@ Berkata sang ahli hikmah: Wanita yang lahir bernaung di bawah buruj Capricorn be
 *(baytu a'daa'ihaa wa hussaadihaa  al-Qawsi wal-Musytarii  a'daa'uhaa min ba'dhul-hawaasidil-laatii yahsudannahaa 'alaa shabrihaa wa husni tadbiirihaa, wa yakfiihaa Allaahi kaydihinna wa yahfazhuhaa min kullu makruuhin, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Sagittarius dan Yupiter: Musuh-musuhnya hanyalah segelintir wanita pendengki yang iri melihat kesabaran dan kepandaian manajemen hidupnya; namun Allah mencukupkan perlindungan dari tipu daya mereka dan memeliharanya dari segala marabahaya. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7214,11 +5682,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Engkau telah melangkah memasuki istana kebahagiaan maka bergembiralah * Dengan tercapainya cita-cita dan menjalani hidup dalam wujud terbaik*
 *Janganlah cemas karena kesabaran akan senantiasa membuka pintunya * Bagi limpahan kebajikan yang luas di duniamu dan kebanggaan yang abadi.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Gambar Rajah Asli Halaman 104 — Wafaq al-Jady Kaum Wanita]**
@@ -7226,8 +5689,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 ![Gambar Rajah Asli Halaman 104 - Wafaq al-Jady Wanita](rajah/rajah_p104_wafaq_nisa_jady.png)
 
 *Gambar Rajah Asli Halaman 104* — Wafaq angka keramat pelindung buruj Capricorn bagi kaum wanita untuk ketahanan lahir batin, keharmonisan rumah tangga, dan tolak bala kesedihan.
-
----
 
 ---
 
@@ -7254,9 +5715,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Ia dianugerahi hati nurani yang jernih bersih dan pandangan yang lurus mantap * Memetik kebajikan budi pekerti yang luhur di sepanjang perjalanan hidupnya*
 *Mencintai kesucian martabat dan memegang teguh ikatan janji * Serta dikaruniai di sepanjang rentang usianya dengan curahan kemurahan rezeki Ilahi.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 105 — Tilsm Buruj ad-Dalw Kaum Wanita]**
@@ -7282,10 +5740,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aquarius berkulit putih bersih berpadu rona kemerahan cerah atau kuning langsat manis, berwajah rupawan berseri, berpostur tubuh proporsional luwes, bertutur kata manis santun, berperasaan halus peka, sangat disukai dan dikagumi oleh kalangan terpelajar maupun masyarakat umum; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7297,11 +5751,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 *(al-wajhul-awwalu  min nazhara ilayhaa Zuhala  takuunu imra'atun hakiimatu wa qawratun, dzaat shamtin wa fikrin, tahassuna tadbiiri manzilihaa bidiqqatin, wa takuunu masmuu'atul-qawli fii ahli baytuhaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Saturnus: Ia menjadi wanita yang bijaksana dan tenang berwibawa, gemar bertafakur dalam keheningan, mengelola urusan rumah tangganya dengan sangat teliti, serta perkataannya didengar dan dipatuhi oleh seluruh anggota keluarganya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7315,10 +5764,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Merkurius: Ia adalah wanita yang sangat cerdas dan fasih bertutur kata, berdaya tangkap cepat, mahir dalam berbagai karya seni presisi dan keterampilan estetik, serta membawa keberkahan dalam setiap rezekinya. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7330,10 +5775,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaal-Musytarii  takuunu imra'atun kariimatu sakhiyyatu, tuhibbu fi'lul-khayri wa i'aanatil-muhtaajiina, wa tanaalu jaahan wa maalan wa fiiran, wa ta'iisyu fii ruffaahiyyatin wa 'izzin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Yupiter: Ia berjiwa sangat dermawan dan berhati mulia, gemar menebar kebajikan dan membantu orang-orang yang kesusahan, memperoleh kehormatan kedudukan dan limpahan harta, serta menjalani hidup dalam kemakmuran dan kemuliaan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -7349,11 +5790,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 
 (Rumah kehidupan dan penghidupannya) Aquarius dan Saturnus: Garis kehidupannya diliputi ketentraman dan kebahagiaan; penghidupannya lapang dan penuh kemudahan; dianugerahi kecukupan rezeki yang membuatnya tidak bergantung pada orang lain; hidup dalam keadaan terjaga kehormatan dan martabatnya; serta tidak berpulang melainkan dalam limpahan nikmat dan keselamatan dari Allah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7365,11 +5801,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 *(baytu maalihaa wa tijaaratihaa  al-Huuti wal-Musytarii  taktasibul-amwaali minat-tijaaratir-raabihati wash-shanaa'i'in-naafi'ati, wa yubaariku Allaahi fii makaasibihaa, wa tajammu'a tsarwati thiibatin taddakhiruhaa li-awlaadihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan perniagaannya) Pisces dan Yupiter: Ia mendulang kekayaan dari perniagaan yang berkah dan industri kreatif yang bermanfaat; Allah melipatgandakan keberkahan dalam hartanya; serta mampu menabung kekayaan yang berharga untuk masa depan anak-anaknya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7383,11 +5814,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 
 (Rumah saudara-saudaranya) Aries dan Mars: Ia memiliki saudara kandung laki-laki dan perempuan; ikatan persaudaraan di antara mereka terjalin harmonis penuh kasih sayang dan saling tolong-menolong; dialah yang menjadi tempat curahan hati dan kesayangan keluarga; serta ia tidak melihat dari mereka melainkan kebaikan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7399,11 +5825,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 *(baytu aabaa'ihaa wa ummahaatihaa  ats-Tsawri waz-Zuharati  tanaalu min waalidayhaa barran wa mahabbatan, wa takuunu muthii'atun lahumaa muhsinatin ilayhimaa, wa tadfinu abaahaa qabla ummihaa, wa taritsu minhumaa maalan wa barakatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Taurus dan Venus: Ia memetik curahan kasih sayang dan doa tulus dari kedua orang tuanya; sangat berbakti dan berbuat ihsan kepada keduanya; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya warisan harta dan doa keberkahan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7417,11 +5838,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 
 (Rumah anak-anak dan kebahagiaannya) Gemini dan Merkurius: Ia dianugerahi putra dan putri yang berbakat cerdas dan berakhlak mulia; ia memetik kegembiraan dan kebanggaan yang mendalam atas mereka; serta sejuk pandangan matanya menyaksikan kesalehan hidup anak-anaknya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7433,11 +5849,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 *(baytu amraadhihaa wa asqaamihaa  as-Sarathaani wal-Qamari  tushiibuhaa amraadhin ar-ruthuubati war-riyaahi fil-mafaashili wash-shudaa'i wa waja'izh-zhahri, fa-latasta'milu syaraabul-'asali biz-zanjabiili wad-dihinnal-'atharaa, wa tatajannabul-hawaa'ul-baaridu 'alaa ar-rayyiqi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Cancer dan Bulan: Ia rentan mengalami keluhan pegal linu persendian akibat kelembapan tubuh, pusing kepala, dan nyeri punggung; maka dianjurkan rutin meminum madu jahe hangat dan mengoleskan minyak aromaterapi berkhasiat; serta menghindari paparan angin dingin saat perut kosong di pagi hari. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7453,11 +5864,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 
 (Rumah jodoh pernikahan dan peraduannya) Leo dan Matahari: Ia dipersunting oleh seorang pria terhormat berwibawa tinggi yang memiliki kekayaan dan status sosial mapan; suaminya sangat mencintainya dan memuliakan kedudukannya; mereka membina rumah tangga dalam ketentraman dan kemakmuran; serta keharmonisan di antara mereka berlangsung abadi sepanjang usia. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7469,11 +5875,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 *(baytu khawfihaa wa mawtihaa  as-Sunbulati wa 'Uthaarida  yukhaafu 'alayhaa min amraadhin al-buruudati wa 'awaaridhir-ruthuubati, wa a'waamal-khuthuri 'indahaa  tasa'u siniina, watsamaan 'asyrata sanatin, wa sab'i wa tsalaatsuuna sanatin, khamsuuna sanatin, sab'uuna sanatin, fa-in salimat minhaa 'aasyat ilaa tis'iina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis kesehatannya) Virgo dan Merkurius: Dikhawatirkan atasnya penyakit akibat udara dingin basah dan gangguan organ dalam perut; tahun-tahun rawan dalam siklus usianya adalah usia 9 tahun, 18 tahun, 37 tahun, 50 tahun, dan 70 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan mencapai 90 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7487,11 +5888,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 
 (Rumah perjalanan dan pergerakannya) Libra dan Venus: Aktivitas perjalanannya senantiasa aman dan penuh keberkahan dengan didampingi oleh suami dan keluarganya; bepergian ke berbagai kota dalam kenyamanan dan keselamatan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7503,11 +5899,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 *(baytu 'izzihaa wa syarafihaa  al-'Aqrabi wal-Mirriikhi  tanaalu 'izzan 'azhiiman wa makaanatu saammiyyatu baynan-nisaa'i bihukmatihaa wa waqaarihaa, wa takuunu muhtaramatul-jaanibi maqbuulatasy-syafaa'ati 'indal-jamii'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan status sosialnya) Scorpio dan Mars: Ia merengkuh kemuliaan yang agung dan kedudukan tinggi di tengah kaum wanita berkat kebijaksanaan dan ketenangannya; disegani kewibawaannya dan diterima pertolongannya oleh semua orang. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7521,11 +5912,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 
 (Rumah harapan dan dambaannya) Sagittarius dan Yupiter: Allah menyampaikan dirinya pada apa yang ia dambakan berupa keharmonisan rumah tangganya, ketentraman jiwanya, dan bakti anak-anaknya; serta dianugerahi kehidupan yang mapan dan husnul khatimah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7537,11 +5923,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Aqu
 *(baytu a'daa'ihaa wa hussaadihaa  al-Jadyi wa Zuhala  a'daa'uhaa min ba'dhul-hawaasidil-laatii yahsudannahaa 'alaa 'aqlihaa wa husni tadbiirihaa, wa yakfiihaa Allaahi kaydihinna wa yahfazhuhaa min kullu makruuhin, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Capricorn dan Saturnus: Musuh-musuhnya hanyalah segelintir wanita pendengki yang iri melihat kecerdasan akal dan kepandaian manajemen hidupnya; namun Allah mencukupkan perlindungan dari tipu daya mereka dan memeliharanya dari segala marabahaya. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7566,10 +5947,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Engkau telah menyatukan hati manusia dengan akhlakmu yang diridhai * Dan engkau hidup dalam naungan rasa aman dan kemakmuran yang nyata*
 *Maka bergembiralah menyongsong kebaikan dari Tuhan Penguasa Langit * Karena kebenaran itu benderang terang dan masa kesusahan telah berlalu.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 107 — Wafaq ad-Dalw Kaum Wanita]**
@@ -7577,8 +5954,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 ![Gambar Rajah Asli Halaman 107 - Wafaq ad-Dalw Wanita](rajah/rajah_p107_wafaq_nisa_dalw.png)
 
 *Gambar Rajah Asli Halaman 107* — Wafaq angka keramat pelindung buruj Aquarius bagi kaum wanita untuk kerukunan cinta, daya tarik mahabbah umum, dan tolak bala fitnah.
-
----
 
 ---
 
@@ -7605,9 +5980,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Ia dianugerahi hati nurani yang lembut peka dan budi pekerti yang amat mulia * Berhasil meraih kesempurnaan kebajikan di sepanjang lembaran hidupnya*
 *Mencintai perbuatan ihsan dan gemar menolong orang-orang yang membutuhkan * Serta dikaruniai di sepanjang usianya dengan segenap limpahan keberkahan.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 108 — Tilsm Buruj al-Hut Kaum Wanita]**
@@ -7633,9 +6005,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 (Uraian watak dasar thali' wanita dan pembagian tiga wajahnya)
 Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pisces berkulit putih bersih bercahaya laksana bulan purnama di malam empat belas, berpostur tubuh proporsional anggun, bermata indah bercelak alami, berdahi cerah berseri, bersuara merdu lembut, memiliki rasa malu yang tinggi dan menaruh belas kasih mendalam kepada sesama makhluk; dan ia memiliki tiga wajah (wajh).
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7647,11 +6016,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 *(al-wajhul-awwalu  min nazhara ilayhaal-Musytarii  takuunu imra'atun shaalihatu 'aabidatu, dzaat wa ra'in wa taqwaa, tahassuna tarbiyati awlaadihaa 'alaa thaa'ati Allaahi, wa turzaqu hijaa wa ziyaarati, wa takuunu mubaarakatun fii baytuhaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Pertama) Bagi yang dipandang oleh planet Yupiter: Ia menjadi wanita salihah yang tekun beribadah, memiliki sifat wara' dan takwa mendalam, mendidik putra-putrinya di atas jalan ketaatan kepada Allah, dianugerahi kesempatan menunaikan ibadah haji dan ziarah suci, serta membawa keberkahan di rumahnya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada Kedudukan Falakiyah.
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7665,10 +6029,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 
 (Wajah Kedua) Bagi yang dipandang oleh planet Venus: Ia berparas sangat cantik jelita dan modis mempesona, menyukai wewangian harum, perhiasan berkilau, dan perabot rumah yang estetis, bersikap manja anggun memikat, sangat dicintai suaminya dan dinaungi peruntungan besar dalam kebahagiaan hidup. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7680,10 +6040,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 *(al-wajhuts-tsaalitsu  min nazhara ilayhaa 'Uthaarida  takuunu imra'atun 'aaqilatu labiibatu, fa-shayhatal-lisaani, tutqinu tadbiirul-umuuri bihukmatin, wa takuunu mahbuubatan 'inda saa'irin-naasi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Wajah Ketiga) Bagi yang dipandang oleh planet Merkurius: Ia adalah wanita yang cerdas berwawasan luas, fasih bertutur kata santun, sangat terampil mengelola berbagai urusan dengan kebijaksanaan, serta dicintai oleh segenap masyarakat. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Pembagian Tiga Wajah (Wajh / Decanate)**: Membagi 30 derajat buruj menjadi tiga dekade (10 derajat per wajh).
-- **Pengaruh Planet Pengiring**: Menentukan variasi fisik, watak batin, dan profesi dominan berdasarkan bintang pemandu saat kelahiran.
 
 ---
 
@@ -7699,11 +6055,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 
 (Rumah kehidupan dan penghidupannya) Pisces dan Yupiter: Garis kehidupannya diliputi kesehatan afiat dan kelapangan rezeki; penghidupannya amat tentram dan sejahtera; dianugerahi kecukupan yang membuatnya tidak bergantung pada orang lain; hidup dalam keadaan terjaga kehormatan dan kedamaiannya; serta tidak berpulang melainkan dalam limpahan nikmat dan karunia Ilahi. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت حياتها ومعيشتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7715,11 +6066,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 *(baytu maalihaa wa tijaaratihaa  al-Hamali wal-Mirriikhi  taktasibul-amwaali minat-tijaaraatin-naafi'ati wash-shanaa'i'il-yadawiyyati, wa yubaariku Allaahi fii makaasibihaa, wa tajammu'a tsarwati thiibatin taddakhiruhaa li-awlaadihaa, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah harta dan perniagaannya) Aries dan Mars: Ia mendulang kekayaan dari perniagaan yang produktif dan keterampilan industri kreatif bernilai tinggi; Allah melipatgandakan keberkahan dalam hartanya; serta mampu menabung kekayaan yang berharga untuk masa depan anak-anaknya. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت مالها وتجارتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7733,11 +6079,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 
 (Rumah saudara-saudaranya) Taurus dan Venus: Ia memiliki saudara kandung laki-laki dan perempuan; ikatan persaudaraan di antara mereka terjalin harmonis penuh kasih sayang dan saling tolong-menolong; dialah yang menjadi tempat curahan hati dan kesayangan keluarga; serta ia tidak melihat dari mereka melainkan kebaikan. Wallahu Ta'ala a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت إخوتها وأخواتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7749,11 +6090,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 *(baytu aabaa'ihaa wa ummahaatihaa  al-Jawzaa'i wa 'Uthaarida  tanaalu min waalidayhaa barran wa mahabbatan, wa takuunu muthii'atun lahumaa muhsinatin ilayhimaa, wa tadfinu abaahaa qabla ummihaa, wa taritsu minhumaa maalan wa barakatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah orang tuanya) Gemini dan Merkurius: Ia memetik curahan kasih sayang dan doa tulus dari kedua orang tuanya; sangat berbakti dan berbuat ihsan kepada keduanya; memakamkan ayahnya lebih dahulu sebelum ibunya; serta mewarisi dari keduanya warisan harta dan doa keberkahan. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت آبائها وأمهاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7767,11 +6103,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 
 (Rumah anak-anak dan kebahagiaannya) Cancer dan Bulan: Ia dianugerahi putra dan putri yang berbakat cerdas dan berakhlak saleh; ia memetik kegembiraan dan kebanggaan yang mendalam atas mereka; serta sejuk pandangan matanya menyaksikan kesalehan hidup anak-anaknya. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أولادها وأفراحها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7783,11 +6114,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 *(baytu amraadhihaa wa asqaamihaa  al-Asadi wasy-Syamsi  tushiibuhaa amraadhin ar-ruthuubati war-riyaahi fil-mafaashili wash-shudaa'i wa waja'izh-zhahri, fa-latasta'milu syaraabul-'asali biz-zanjabiili wad-dihinnal-'atharaa, wa tatajannabul-hawaa'ul-baaridu 'alaa ar-rayyiqi, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah penyakit dan keluhan fisiknya) Leo dan Matahari: Ia rentan mengalami keluhan pegal linu persendian akibat kelembapan tubuh, pusing kepala, dan nyeri punggung; maka dianjurkan rutin meminum madu jahe hangat dan mengoleskan minyak aromaterapi berkhasiat; serta menghindari paparan angin dingin saat perut kosong di pagi hari. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أمراضها وأسقامها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7803,11 +6129,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 
 (Rumah jodoh pernikahan dan peraduannya) Virgo dan Merkurius: Ia dipersunting oleh seorang pria saleh terpandang yang memiliki kekayaan dan nasab mulia; suaminya sangat mencintainya dan memuliakan kedudukannya; mereka membina rumah tangga dalam ketentraman dan kemakmuran; serta keharmonisan di antara mereka berlangsung abadi sepanjang usia. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أزواجها وفراشها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7819,11 +6140,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 *(baytu khawfihaa wa mawtihaa  al-Miizaani waz-Zuharati  yukhaafu 'alayhaa min amraadhin al-buruudati wa 'awaaridhir-ruthuubati, wa a'waamal-khuthuri 'indahaa  tsamaanii siniina, wa sitta 'asyrata sanatin, wa arba'i wa tsalaatsuuna sanatin, khamsuuna sanatin, sab'uuna sanatin, fa-in salimat minhaa 'aasyat ilaa tis'iina sanatin, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah masa rawan dan krisis kesehatannya) Libra dan Venus: Dikhawatirkan atasnya penyakit akibat udara dingin basah dan kelembapan tubuh; tahun-tahun rawan dalam siklus usianya adalah usia 8 tahun, 16 tahun, 34 tahun, 50 tahun, dan 70 tahun; jika ia berhasil melaluinya dengan selamat, usianya akan mencapai 90 tahun. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت خوفها وموتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7837,11 +6153,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 
 (Rumah perjalanan dan pergerakannya) Scorpio dan Mars: Aktivitas perjalanannya senantiasa aman dan penuh keberkahan dengan didampingi oleh suami dan keluarganya; bepergian ke berbagai kota dalam kenyamanan dan keselamatan. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أسفارها وحركاتها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7853,11 +6164,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 *(baytu 'izzihaa wa syarafihaa  al-Qawsi wal-Musytarii  tanaalu 'izzan 'azhiiman wa makaanatu saammiyyatu baynan-nisaa'i bihukmatihaa wa waqaarihaa, wa takuunu muhtaramatul-jaanibi maqbuulatasy-syafaa'ati 'indal-jamii'i, wallaahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah kemuliaan dan status sosialnya) Sagittarius dan Yupiter: Ia merengkuh kemuliaan yang agung dan kedudukan tinggi di tengah kaum wanita berkat kebijaksanaan dan ketenangannya; disegani kewibawaannya dan diterima pertolongannya oleh semua orang. Wallahu a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت عزها وشرفها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7871,11 +6177,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 
 (Rumah harapan dan dambaannya) Capricorn dan Saturnus: Allah menyampaikan dirinya pada apa yang ia dambakan berupa keharmonisan rumah tangganya, ketentraman jiwanya, dan bakti anak-anaknya; serta dianugerahi kehidupan yang mapan dan husnul khatimah. Wallahu a'lam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت رجائها وآمالها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
-
 ---
 
 **[Teks Arab Asli]**
@@ -7887,11 +6188,6 @@ Berkata sang ahli astrologi falak: Wanita yang lahir bernaung di bawah buruj Pis
 *(baytu a'daa'ihaa wa hussaadihaa  ad-Dalwi wa Zuhala  a'daa'uhaa min ba'dhul-hawaasidil-laatii yahsudannahaa 'alaa 'iffatihaa wa jamaalihaa, wa yakfiihaa Allaahi kaydihinna wa yahfazhuhaa min kullu makruuhin, wallaahu Subhaanahu a'lamu *) **[Terjemahan Indonesia]**
 
 (Rumah musuh dan para pendengkinya) Aquarius dan Saturnus: Musuh-musuhnya hanyalah segelintir wanita pendengki yang iri melihat kesucian dirinya dan kecantikan parasnya; namun Allah mencukupkan perlindungan dari tipu daya mereka dan memeliharanya dari segala marabahaya. Wallahu Subhanahu wa Ta'ala a'lam.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Analisis Kedudukan**: Menjelaskan kaidah hukum astrologi klasik pada ( بيت أعدائها وحسادها ).
-- **Unsur & Elemen**: Menyelaraskan tabiat bintang penguasa dengan kondisi fisik dan peruntungan nasib.
-- **Petunjuk Terapi**: Pengobatan menggunakan prinsip keseimbangan unsur (panas, dingin, kering, lembap) Thibb Yunani dan herbal Nabawi.
 
 ---
 
@@ -7916,10 +6212,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 *Telah sempurna bagimu segala kenikmatan yang menyongsong langkahmu * Dan engkau telah meraih segala apa yang kau dambakan dari harapan*
 *Maka pujilah Allah atas limpahan karunia nikmat-Nya * Niscaya engkau hidup dalam naungan rasa aman dan kemuliaan martabat yang abadi.*
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 110 — Wafaq al-Hut Kaum Wanita]**
@@ -7927,8 +6219,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 ![Gambar Rajah Asli Halaman 110 - Wafaq al-Hut Wanita](rajah/rajah_p110_wafaq_nisa_hut.png)
 
 *Gambar Rajah Asli Halaman 110* — Wafaq angka keramat pelindung penutup bagi 12 Buruj Thali' Kaum Wanita (buruj Pisces).
-
----
 
 ---
 
@@ -7949,9 +6239,6 @@ Berkata sang ahli hikmah: Ketahuilah wahai wanita penanya, sesungguhnya bentuk a
 (DIAGRAM LINGKARAN FALAK AKBAR DAN 28 MANAZIL BULAN)
 Berkata sang ahli falak Abu Ma'syar al-Balkhi: Inilah gambar diagram lingkaran falak akbar (da'irah al-falak al-kubra) yang menghimpun seluruh 12 buruj zodiak dan 28 stasiun orbit Bulan (manazil al-qamar) beserta planet-planet penguasanya dari tujuh bintang pengelana (al-kawakib as-sab'ah). Diagram inilah fondasi utama perputaran kaidah-kaidah kitab ini dalam menentukan thali' kelahiran, derajat bujur bintang, jam-jam falakiyah yang beruntung (sa'ad) maupun naas (nahas), mengenali empat watak elemen zodiak (api, tanah, udara, air), serta posisi terbit dan terbenamnya bintang di setiap pergantian musim sepanjang tahun.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 111 — Da'irah al-Falak al-Kubra]**
@@ -7966,9 +6253,9 @@ Berkata sang ahli falak Abu Ma'syar al-Balkhi: Inilah gambar diagram lingkaran f
 > Rajah/wafaq/tilsam batch ini telah di-crop presisi, latar putih, tersimpan di folder `rajah/`:
 > `rajah_p104_wafaq_nisa_jady.png`, `rajah_p105_tilsam_nisa_dalw.png`, `rajah_p107_wafaq_nisa_dalw.png`, `rajah_p108_tilsam_nisa_hut.png`, `rajah_p110_wafaq_nisa_hut.png`, `rajah_p111_dairah_falak.png`.
 
-# BATCH 12 — HALAMAN PDF 56 (HALAMAN CETAK 112–113) — KHATAMAH
-
 ---
+
+# BATCH 12 — HALAMAN PDF 56 (HALAMAN CETAK 112–113) — KHATAMAH
 
 ---
 
@@ -8019,9 +6306,6 @@ Apabila engkau hendak mengetahui siapa yang akan menang (al-ghalib) dan siapa ya
 - Jika sisa angka (1) dan (9): Maka pihak pertama kalah.
 Dan demikianlah engkau mengqiyaskan sisa-sisa angka lainnya sebagaimana yang telah tersusun secara terperinci dalam tabel hisab di halaman ini — dan inilah tabel mulia perhitungan al-ghalib wal-maghlub tersebut.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Gambar Rajah Asli Halaman 112 — Jadwal Hisab al-Ghalib wal-Maghlub]**
@@ -8056,9 +6340,6 @@ Hitunglah nilai numerik nama orang yang sakit beserta nama ibunya dan nama hari 
 - Jika sisa (2), (6), atau (10): Menunjukkan bahwa penyakitnya bersumber dari unsur kering dan empedu hitam (sauda'), sakitnya memakan waktu agak lama namun kemudian ia beroleh kesembuhan.
 - Jika sisa (3), (7), atau (11): Menunjukkan bahwa penyakitnya bersumber dari angin tubuh dan sirkulasi darah; ia memerlukan terapi fashdu (buang darah kotor) dan obat herbal yang cocok, dan ia akan sembuh.
 - Jika sisa (4), (8), atau (12): Menunjukkan bahwa penyakitnya bersumber dari dahak pekat (balgham) dan kelembapan dingin; dikhawatirkan kondisi kritis atasnya kecuali bila Allah melimpahkan rahmat kesembuhan baginya.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
 
 ---
 
@@ -8100,10 +6381,6 @@ Inilah sifat dan tata cara rajah khatam penutup dari tujuh planet pengelana (al-
 6. Khatam Venus (az-Zuhrah): Dikhususkan pada hari Jumat, pada jam pertama, dengan dupa kemenyan kundur dan air mawar murni.
 7. Khatam Saturnus (Zuhal): Dikhususkan pada hari Sabtu, pada jam pertama, dengan dupa getah mur dan getah muql azraq.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Kaidah Rajah & Geomansi (Ilmu Raml)**: Menguraikan bentuk khtam/wafaq pelindung dengan hisab jumal dan tata cara waktu pembuatan (sa'ah falakiyah).
-- **Bakhur & Asapan**: Pemilihan dupa khusus untuk menyelaraskan energi spiritual dan tolak bala.
-
 ---
 
 **[Gambar Rajah Asli Halaman 113 — Jadwal Khatimah & Khawatim as-Sab'ah]**
@@ -8141,9 +6418,6 @@ Ya Allah, sesungguhnya kami memohon kepada-Mu seluruh kebaikan baik yang diseger
 Wahai Dzat Yang Memudahkan segala kesulitan, wahai Dzat Yang Melunakkan besi keras, wahai Dzat Yang Menepati janji ketetapan, wahai Dzat Yang setiap hari senantiasa dalam urusan menciptakan keagungan baru; keluarkanlah kami dari lorong kesempitan menuju jalan yang paling lapang; dengan pertolongan-Mu kami tolak segala marabahaya yang tak sanggup kami pikul; dan tiada daya serta upaya melainkan dengan pertolongan Allah Yang Maha Tinggi lagi Maha Agung.
 Maha Suci Tuhanmu, Tuhan Pemilik Kemuliaan dari apa yang mereka sifatkan; dan kesejahteraan semoga senantiasa tercurah kepada para rasul; serta segala puji hanya bagi Allah, Tuhan Penguasa semesta alam.
 
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
-
 ---
 
 **[Teks Arab Asli]**
@@ -8160,9 +6434,6 @@ Maha Suci Tuhanmu, Tuhan Pemilik Kemuliaan dari apa yang mereka sifatkan; dan ke
 
 (KOLOFON PENYELESAIAN KHATAM)
 Telah selesai dengan memuji Allah, pertolongan-Nya, dan taufik-Nya yang indah, penerjemahan dan penelaahan utuh Kitab "*Abu Ma'syar al-Falaki al-Kabir fihi Thawali' ar-Rijal wan-Nisa' bit-Tamam wal-Kamal*" dari awal mukadimah hingga khatam akhir lembarannya, menghimpun seluruh bab, pasal, 12 buruj pria, 12 buruj wanita, khawatim wafaq, tilsam, perhitungan hisab, dan doa-doa hikmahnya sesuai karya asli sang penyusun, Syaikh al-'Allamah Abu Ma'syar Ja'far bin Muhammad al-Balkhi rahimahullahu Ta'ala. Seluruh 56 halaman PDF (112 halaman cetak litograf) dan 61 rajah/tilsam/wafaq telah diselesaikan dan diterjemahkan secara lengkap ke dalam Bahasa Indonesia dengan ketelitian tinggi dan perataan format yang sempurna. Segala puji bagi Allah atas kesempurnaan dan keparipurnaan ini. Semoga shalawat serta salam senantiasa tercurah kepada junjungan kami Nabi Muhammad beserta keluarga dan segenap para sahabat beliau.
-
-**[Catatan Kaidah Falakiyah & Hikmah]**
-- **Uraian Makna**: Memuat mukadimah, syair penjelas sifat buruj, atau kaidah hisab hisab al-ghalib wal-maghlub penutup kitab.
 
 ---
 
