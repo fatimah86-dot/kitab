@@ -694,7 +694,6 @@ Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الر�
 ### arab
 الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
 
-وَالْوَفْقُ الْمُرَبَّعُ لِاسْمِ الْجَلَالَةِ [اللهُ جَلَّ جَلَالُهُ] هُوَ هَكَذَا — يُكْتَبُ بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ فِي صَحْنٍ أَبْيَضَ وَيُدَارُ عَلَيْهِ الْأَسْمَاءُ وَسُورَةُ الْإِخْلَاصِ 11 مَرَّةً، ثُمَّ يُمْحَى وَيُقْرَأُ عَلَيْهِ 70+70:
 
 | ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
 |---|---|---|---|
@@ -702,11 +701,9 @@ Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الر�
 | ٦٩٠ | ٣٣٩ | ٨٩ | ٨٠ |
 | ٨٨ | ٨١ | ٦٨٩ | ٣٤٠ |
 
-*تنبيه: الجدول 4×4 يُقرأ يمينًا إلى يسارٍ — الخلية اليُمنى في السطر الأول هي (٧٨) واليُسرى هي (٢٩٢)، ومجموع كل سطر/عمود/قطر = ٧٩٨ بإذن الله — الوفق يُكتب بالأرقام العربية و [الله جل جلاله] في القلب المعنوي — لا يُلاتن.*
+*تنبيه: الجدول 4×4 يُقرأ يمينًا إلى يسارٍ — الخلية اليُمنى في السطر الأول هي (٧٨) واليُسرى هي (٦٩٢)، ومجموع كل سطر/عمود/قطر = ٧٩٨ بإذن الله — الوفق يُكتب بالأرقام العربية و [الله جل جلاله] في القلب المعنوي — لا يُلاتن.*
 
 ### latin
-Wal-wafqul-murabba‘u li-smil-jalālati [Allāhu jalla jalāluh] huwa hākadzā — yuktabu bimā’i wardin wa za‘farānin fī shaḥnin abyaḍa wa yudāru ‘alaihil-asmā’u wa sūratul-Ikhlāṣi 11 marratan, tsumma yumḥā wa yuqra’u ‘alaihi 70+70:
-
 | ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
 |---|---|---|---|
 | ٣٤٢ | ٦٩١ | ٧٩ | ٨٦ |
@@ -715,18 +712,16 @@ Wal-wafqul-murabba‘u li-smil-jalālati [Allāhu jalla jalāluh] huwa hākadzā
 
 [Rajah Asror — tidak dilatin-kan — angka di dalam wafaq tidak diterjemahkan, tetap أرقام عربية]
 
-*Tanbīh: al-jadwal 4×4 yuqra’u yamīnan ilā yasārin — al-khaliyyatul-yumnā fis-sathril-awwali hiya (78) wal-yusrā hiya (292), wa majmū‘u kulli sathrin/‘amūdin/quthrin = 798 bi-idznillāh — al-wafqu yuktabu bil-arqāmil-‘arabiyyati wa [Allāhu jalla jalāluh] fil-qalbil-ma‘nawī — lā yulātinu.*
+*Tanbīh: al-jadwal 4×4 yuqra’u yamīnan ilā yasārin — al-khaliyyatul-yumnā fis-sathril-awwali hiya (78) wal-yusrā hiya (692), wa majmū‘u kulli sathrin/‘amūdin/quthrin = 798 bi-idznillāh — al-wafqu yuktabu bil-arqāmil-‘arabiyyati wa [Allāhu jalla jalāluh] fil-qalbil-ma‘nawī — lā yulātinu.*
 
 ### Terjemahan
-Dan wafaq murabba‘ untuk Ism al-Jalālah [Allāh Jalla Jalāluh] adalah sebagai berikut — ditulis dengan air mawar dan za‘farān di piring putih, lalu di sekelilingnya ditulis Asmā’ dan Surah al-Ikhlāsh 11 kali, kemudian dihapus dan dibacakan 70+70:
-
 | 78 | 87 | 341 | 692 |
 |---|---|---|---|
 | 342 | 691 | 79 | 86 |
 | 690 | 339 | 89 | 80 |
 | 88 | 81 | 689 | 340 |
 
-*Catatan: Tabel 4×4 dibaca kanan-ke-kiri — sel kanan baris pertama adalah (78) dan sel kiri adalah (292); jumlah tiap baris/kolom/diagonal = 798 dengan izin Allah — wafaq ditulis dengan angka Arab dan [Allāh Jalla Jalāluh] di hati maknawi — tidak dilatinkan (rajah).*
+*Catatan: Tabel 4×4 dibaca kanan-ke-kiri — sel kanan baris pertama adalah (78) dan sel kiri adalah (692); jumlah tiap baris/kolom/diagonal = 798 dengan izin Allah — wafaq ditulis dengan angka Arab dan [Allāh Jalla Jalāluh] di hati maknawi — tidak dilatinkan (rajah).*
 
 Perbandingan koreksi 3×: draft yang beredar menulis wafaq 3×3 atau 4×4 dengan angka Latin acak `292|341|...` terbalik — yang benar sesuai scan `IMG_20261025_094727.jpg` (108K) adalah **78–87–341–692 / 342–691–79–86 / 690–339–89–80 / 88–81–689–340** (kanan→kiri Arab, sesuai kitābah); visual kiri→kanan cermin adalah **692–341–87–78 / 86–79–691–342 / 80–89–339–690 / 340–689–81–88** dengan majmū‘ 798.
 
