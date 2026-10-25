@@ -1,12 +1,8 @@
-# REVISI KITAB ANWAR MUJAROBAT SYEIKH BASYIR — BATCH 04
 ## Halaman 21–30 (Faedah Qahr al-Qarin — Saif al-Battar — Radd al-Khadim — Du'a al-Khaif — Ayat 'Asyr — Kashf Manami)
 
 **Format:** [Teks Arab Asli] → [Transliterasi Latin] → [Terjemahan Indonesia] — Matan Murni
 **Sumber:** anwar_mujarobat_asli.pdf — Halaman PDF 21–30 (scan 65 hal)
 **Tanggal Revisi:** 25 Oktober 2026 — Cabang `arena/0ef9b19f-kitab`
-
----
-
 ## HALAMAN 21 — Faedah Mujarraba li-Qahri al-Qarin (Faedah 8)
 
 **[Teks Arab Asli]**
@@ -44,9 +40,6 @@
 > *(“Ya Allah, aku memohon kepada-Mu dengan Qaf kekuasaan-Mu, dengan Baha’ petunjuk-Mu, dengan Alif keazalian-Mu, dengan Bara’ rahmat-Mu, dan aku memohon kepada-Mu dengan cahaya wajah-Mu yang memenuhi pilar-pilar ‘Arsy-Mu — wahai Dzat Pemilik Keagungan dan Kemuliaan — lindungilah aku dari diriku sendiri yang telah condong pada hawa nafsu, sesat, lalu dipanggil oleh qarin dan syaitan maka ia menjawab dan menuruti, sehingga ia berhak atas penundukan dari-Mu wahai Yang Maha Menundukkan; dan aku memohon agar Engkau kuatkan ruhku yang berpegang teguh kepada-Mu dan menolak (bisikan itu) sehingga ia berhak atas pertolongan dari-Mu wahai Yang Maha Kuasa — wahai sebaik-baik Pelindung dan sebaik-baik Penolong — Mahasuci Engkau ya Allah dengan pujian-Mu, sesungguhnya Engkau atas segala sesuatu Maha Kuasa.”)*
 
 Kemudian bangkit dari sujudmu, **istighfar 15×** dan **shalawat kepada Rasulullah ﷺ 15×**. Selesai. Semoga Allah memberi manfaat kepadaku dan kalian dengan Al-Qur’an yang agung, menjadikan kami tergolong muttaqin, dan memberi petunjuk kepada kami dan kalian ke jalan-Nya yang lurus.
-
----
-
 ## HALAMAN 22 — al-Saif al-Battar li-Daf'i Maimun al-Ghaddar (Bagian 1/3)
 
 **[Teks Arab Asli]**
@@ -89,9 +82,6 @@ Kemudian bangkit dari sujudmu, **istighfar 15×** dan **shalawat kepada Rasulull
 **Tata cara:** Tulislah **wafaq dengan air mawar dan za‘faran**, lalu kelilingi dengan ayat **[Qauluhu al-Haqq wa lahu al-Mulk]** (“Firman-Nya adalah benar dan milik-Nyalah kerajaan”). Kemudian kelilingi pula dengan **29 ayat mulia** berikut. Namun penulisannya harus dengan format begini — demikian pula bacaannya: *Lā ilāha illā Allāh* **[ayat 1]** *Lā ilāha illā Allāh* **[ayat 2]** dan seterusnya hingga akhir ayat-ayat tersebut. Kemudian bacakan **Ism Allah ‘Azza wa Jalla [al-Hakīm] — dengan alif-lam ta‘rif, bukan dengan ya’ nida’ — sebanyak 582 kali**, lalu **29 ayat itu 29 kali**.
 
 *Daftar ayat 1–12 pada halaman 22 diterjemahkan ayat-per-ayat sesuai akhiran “wa Huwa al-‘Azīz al-Hakīm” (lihat hal 22–23 untuk naskah Arab lengkap; terjemahan harfiah menyusul setelah daftar lengkap 29 ayat).*
-
----
-
 ## HALAMAN 23 — al-Saif al-Battar Lanjutan (Bagian 2/3) — Daftar Ayat 13–29
 
 **[Teks Arab Asli — Lanjutan]**
@@ -150,9 +140,6 @@ Kemudian bangkit dari sujudmu, **istighfar 15×** dan **shalawat kepada Rasulull
 29. *… Allah Yang Mengetahui gaib dan nyata — dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.*
 
 Selesai — wahai saudaraku, itulah ayat-ayat mulia tersebut; dan inilah wafaq yang telah disebutkan sebelumnya:
-
----
-
 ## HALAMAN 24 — al-Saif al-Battar Lanjutan (Bagian 3/3) — Wafaq 3×3
 
 **[Gambar Wafaq Asli Halaman 24]**
@@ -180,9 +167,6 @@ Pedang Pemutus untuk Menolak Maimun Pengkhianat — Syeikh al-Basyir
 ![Wafaq Saif Battar](rajah_anwar/rajah_p24_wafaq_saif_battar.png)
 
 *Wafaq Saif al-Battar — konstanta 582 (al-Hakim)*
-
----
-
 ## HALAMAN 25 — Faedah Qathi'ah li-Raddi al-Khadim (Faedah 10)
 
 **[Teks Arab Asli]**
@@ -221,9 +205,6 @@ Di akhir tilawah, berdoalah dengan doa berikut **7×**:
 > *(“Ya Allah, Pencipta langit dan bumi, Yang Mengetahui gaib dan nyata, Yang Maha Besar lagi Maha Tinggi — aku bersaksi bahwa Engkaulah Allah tiada tuhan selain Engkau, Tuhan tujuh langit dan tujuh bumi serta apa di antaranya, Yang Maha Mengetahui yang gaib, Pengampun dosa, Penutup aib, Penghilang duka, Penumbuh biji, Penakluk hati — bagi orang yang sempat terasing agar kembali dicintai — aku memohon kepada-Mu ya Allah agar Engkau menundukkan bagiku [sebut nama khadim] sebagaimana Engkau menundukkan pemikul ‘Arsy di bawah ‘Arsy-Mu — wahai Penanggung ‘Arsy dari para pemikul ‘Arsy — dan sebagaimana Engkau menundukkan burung di angkasa, sebagaimana Engkau menundukkan matahari dan bulan — masing-masing beredar hingga ajal yang ditentukan — dan sebagaimana Engkau menundukkan laut untuk Musa bin ‘Imran. Tuhanku, dengan perintah-Mu aku memerintahnya, dengan seruan-Mu aku menariknya, dengan kalimat-Mu aku memalingkannya, sehingga jika aku memanggilnya ia menjawabku, jika aku bersamanya ia mencintaiku, jika aku jauh darinya ia merindukanku, ia tidak durhaka terhadap perintahku dan tidak melirik majelis selain aku — dengan kehendak dan izin-Mu — ya Allah ya Allah ya Allah ya Hayyu ya Qayyuum ya Badi‘a al-samawati wa al-ardh ya Dza al-Jalali wa al-Ikram.”)*
 
 Adapun **hari Jumat**, puasanya tanpa bacaan — kecuali **setelah shalat Jumat**: tulislah **ayat dan doa tadi di kertas putih bersih** dengan **air mawar, za‘faran, dan misik**, lalu bacakan **ayat 7×** dan **doa 1×** setelah ayat, letakkan di bawah bantalmu, tidurlah dengan niat tidak menyakiti makhluk Allah. Di pagi hari ambil kertas itu, lipat, dan bawalah bersamamu. Maka **tidak akan lewat Jumat berikutnya kecuali khadim telah hadir** dengan izin Allah dan berkat Kalam Allah ‘Azza wa Jalla. Jangan melampaui batas Allah wahai penuntut. Semoga Allah memberi manfaat kepadaku dan kalian dengan Al-Qur’an yang agung… wassalam.
-
----
-
 ## HALAMAN 26 — Du'a al-Khaif (Doa Orang Ketakutan)
 
 **[Teks Arab Asli]**
@@ -258,9 +239,6 @@ Adapun **hari Jumat**, puasanya tanpa bacaan — kecuali **setelah shalat Jumat*
 > *(“Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Ya Allah, limpahkan shalawat kepada junjungan kami Muhammad dan kepada keluarganya semua dengan salam sempurna. Ya Allah, wahai Dzat yang hijab-Nya terlindungi, Kursi-Nya tertata, Nabi-Nya ﷺ tercinta — halangilah antara aku dan siapa yang hatiku takut kepadanya — wahai Yang Maha Menang yang tak terkalahkan — sesungguhnya Engkau telah berfirman dan firman-Mu benar: ‘Maka Allah akan mencukupimu dari mereka dan Dialah Yang Maha Mendengar lagi Maha Mengetahui’ (QS. al-Baqarah: 137). Wahai Allah, wahai Yang Maha Menjaga, wahai Dzat yang nikmat-Nya tak terhitung, yang dzikir-Nya tak terlupa, yang milik-Nya Asma’ al-Husna dan sifat-sifat luhur — jagalah aku sebagaimana Engkau menjaga al-Dzikr al-Hakim — sesungguhnya Engkau berfirman dan firman-Mu benar: ‘Sesungguhnya Kamilah yang menurunkan al-Dzikr dan Kamilah penjaganya’ (QS. al-Hijr: 9), dan demi ‘baginya ada malaikat-malaikat pengiring dari depan dan belakang yang menjaganya atas perintah Allah’ (QS. al-Ra‘d: 11), dan ‘Allah mengepung mereka dari belakang’ (QS. al-Buruj: 20), dan demi ‘Ya Sin dan al-Qur’an yang penuh hikmah’ hingga ‘mereka tidak dapat melihat’ (QS. Ya Sin: 1–9). Dan limpahkan shalawat ya Allah kepada junjungan kami Muhammad dan keluarganya semua.”)*
 
 Semoga Allah memberi taufik kepada kalian untuk segala kebaikan.
-
----
-
 ## HALAMAN 27 — al-Ayat al-'Asyr al-Mubtilat li-al-Nafth wa al-Sihar (Bagian 1/2)
 
 **[Teks Arab Asli]**
@@ -308,9 +286,6 @@ Wahai saudara-saudaraku karena Allah, aku hadapkan kepada kalian faedah bermanfa
 > *“Musa berkata: apa yang kalian datangkan berupa sihir — sesungguhnya Allah akan membatalkannya — sesungguhnya Allah tidak memperbaiki perbuatan para perusak.” (Yunus: 81)*
 
 Dan inilah wafaqnya:
-
----
-
 ## HALAMAN 28 — al-Ayat al-'Asyr Lanjutan (Bagian 2/2) — Wafaq 3×3
 
 **[Gambar Wafaq Asli Halaman 28]**
@@ -353,9 +328,6 @@ http://www.alanwaralqadria.com
 ![Wafaq Ayat Asyr](rajah_anwar/rajah_p28_wafaq_ashr_mubtilat.png)
 
 *Wafaq Sepuluh Ayat Pembatal Sihir — konstanta 2190*
-
----
-
 ## HALAMAN 29 — Faedah fi al-Kashf al-Manami (Bagian 1/2)
 
 **[Teks Arab Asli]**
@@ -390,9 +362,6 @@ Wahai saudara-saudaraku karena Allah, aku hadapkan kepada kalian faedah agung in
 Setelah sempurna, **bershalawat kepada Rasulullah ﷺ 11×**, lalu letakkan kertas **di bawah bantal dengan tulisan menghadap ke atas**, tidurlah di tempatmu **berbaring pada lambung kanan**. Maka dengan izin Allah engkau akan **melihat dalam mimpi apa yang menyenangkanmu** — **jangan kabarkan kepada siapa pun** apa yang engkau lihat.
 
 Inilah wafaqnya — kelilingi **empat sisinya dengan ayat “Qauluhu al-Haqq wa lahu al-Mulk”**, kelilingi pula dengan ayat **“Alā ya‘lamu man khalaqa wa Huwa al-Lathīfu al-Khabīr”** dari empat sisinya, dan **doa dimulai dari kanan atas berlawanan arah jarum jam**.
-
----
-
 ## HALAMAN 30 — Faedah Kashf Manami Lanjutan — Wafaq 5×5
 
 **[Gambar Wafaq Asli Halaman 30]**
@@ -422,9 +391,6 @@ Faedah Kashaf Manami — Syeikh al-Basyir
 ![Wafaq Kashf Manami](rajah_anwar/rajah_p30_wafaq_kashf_manami.png)
 
 *Wafaq Kashf Manami 5×5 — konstanta 2866 — dikelilingi ayat Lathif Khabir*
-
----
-
 ### KETERANGAN RAJAH — Batch 04
 
 | Halaman | Nama File Rajah | Isi | Konstanta |
@@ -434,9 +400,5 @@ Faedah Kashaf Manami — Syeikh al-Basyir
 | 30 | `rajah_p30_wafaq_kashf_manami.png` | Wafaq Kashf Manami 5×5 (142…1277 …306…229) | 2866 |
 
 Semua rajah disimpan di `rajah_anwar/` — tidak dialih-aksarakan, hanya sebagai gambar crop 200 DPI.
-
----
-
 > **STATUS BATCH 04: SELESAI** (Halaman 21–30 — 10 halaman: Qahr Qarin + Saif Battar lengkap + Radd Khadim + Du'a Khaif + Ayat 'Asyr + Kashf Manami)
 > Batch berikutnya: Halaman 31–40 (Faedah lanjutan + Khatimah)
-

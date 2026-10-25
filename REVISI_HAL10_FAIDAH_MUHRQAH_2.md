@@ -37,4 +37,3 @@ Qasam dibaca 5 kali pada tiap waraqah dan pada air di piring (angka 5 = benteng 
 
 ![Rajah Hal 10 — Tabel Taksir 5×13 + 4 sudut Ḥanaqāyīl](rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg)
 [Gambar: Tabel Taksir 5×13 — 4 sudut Ḥanaqāyīl]
-

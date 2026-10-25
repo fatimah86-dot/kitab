@@ -1,5 +1,3 @@
-# REVISI HAL 01–08 — ANWĀR ASH-SHAYKH AL-BASHĪR (GABUNGAN UNTUK KOREKSI — LATIN BARU dza/sy/sh/dh/zh/ts/th/gh)
-
 > 8 halaman — Sampul → Maysarah 3/3 — Latin gaya baru: hādzā, sy, sh, dh, zh, ts, th, gh — wafaq sisip Hal08
 
 ## HALAMAN 01 — SAMPUL — أَنْوَارُ الشَّيْخِ الْبَشِيرِ
@@ -30,9 +28,6 @@ Sampul depan kitab: judul cahaya-cahaya Syeikh Al-Basyir, diterbitkan oleh Forum
 
 ### Khususiyah dan Tatacara Praktik
 Halaman sampul tidak ada amalan khusus — hanya penanda judul dan penerbit. Baca dengan niat mencari ilmu yang diridhai Allah.
-
----
-
 ## HALAMAN 02 — IHDA' — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
@@ -59,9 +54,6 @@ Ihda' adalah adab sufi: menghadiahkan pahala karya kepada Nabi & Ahlul Bait sebe
 
 ### 5. Khususiyah dan Tatacara Praktik
 Halaman ihda' tidak ada ritual khusus — fungsinya niyyah & sanad. Adab: baca ihda' dengan khushu', hadiahkan Fatihah setelahnya (seperti ijazah hal 03: shalawat + Fatihah untuk Nabi, guru, diri). Tidak perlu menulis/membakar halaman ini.
-
----
-
 ## HALAMAN 03 — IJAZAH — إِجَازَةُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
@@ -106,9 +98,6 @@ Ijazah umum: sanad terbuka dari Syeikh Basyir untuk siapa saja yang menerima kit
 
 ### Khususiyah dan Tatacara Praktik
 Tatacara menerima ijazah: baca shalawat 1×, Al-Fatihah 1× dengan niat menghadiahkan pahalanya sesuai urutan di atas (Nabi → guru → diri → Syeikh Faqir), lalu yakin ijazah telah sampai. Tidak perlu ijazah tatap muka. Gunakan hanya untuk hal yang diridhai Allah.
-
----
-
 ## HALAMAN 04 — SAMPUL DALAM — فَوَائِدُ وَمُجَرَّبَاتُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
@@ -129,9 +118,6 @@ Halaman pembatas: menandai masuknya bab utama kitab — kumpulan faedah dan amal
 
 ### Khususiyah dan Tatacara Praktik
 Halaman sampul dalam tidak ada amalan khusus — hanya penanda judul bab. Tidak ada wirid pada halaman ini.
-
----
-
 ## HALAMAN 05 — FIHRIS — فِهْرِسُ مُجَرَّبَاتِ الشَّيْخِ الْبَشِيرِ
 
 ### arab
@@ -200,9 +186,6 @@ Daftar isi kitab: 13 faedah utama dari Maysarah (rezeki) hingga Kasyaf Manami (s
 
 ### Khususiyah dan Tatacara Praktik
 Halaman fihris tidak ada wirid khusus — hanya penunjuk. Pilih faedah sesuai hajat setelah mendapat ijazah Hal03, dan baca dengan adab mencari ilmu yang diridhai Allah.
-
----
-
 ## HALAMAN 06 — MAYSARAH 1/3 — طَرِيقَةُ الْمُيَسَّرَةِ فِي جَلْبِ الْأَرْزَاقِ
 
 ### arab
@@ -299,9 +282,6 @@ Halaman ini menjelaskan kaidah hisab huruf (mizan harfi) untuk wafaq Maysarah 5�
 
 ### Khususiyah dan Tatacara Praktik
 Khasiat Maysarah: menarik rezeki dan melariskan dagang. Kaidah di halaman ini adalah dasar hisab — belum ada tata cara tulis wafaq (akan dirinci Hal07-08). Ikuti hitungan dengan wudhu dan niat halal.
-
----
-
 ## HALAMAN 07 — MAYSARAH 2/3 — طَرِيقَةُ الْمُيَسَّرَةِ فِي جَلْبِ الْأَرْزَاقِ (LANJUTAN)
 
 ### arab
@@ -348,9 +328,6 @@ Lanjutan hisab Maysarah: pengambilan nama khadam dengan tathlith (loncat 3 huruf
 
 ### Khususiyah dan Tatacara Praktik
 Wafaq depan 5×5 (huruf amal) dikelilingi ayat Qauluhu al-Haqq dan dua ayat rezeki; wafaq belakang 4×4 (huruf ruhani penguasa). Tulis pada jam Zuhrah hari apa saja dengan air mawar + za'faran + misik dan dupa luban/ud shalib. Wirid: Lā Ilāha illallāhu al-Muhaimin.
-
----
-
 ## HALAMAN 08 — MAYSARAH 3/3 — طَرِيقَةُ الْمُيَسَّرَةِ فِي جَلْبِ الْأَرْزَاقِ (WAFAQ)
 
 ### arab

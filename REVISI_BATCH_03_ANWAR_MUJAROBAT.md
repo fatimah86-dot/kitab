@@ -1,12 +1,8 @@
-# REVISI KITAB ANWAR MUJAROBAT SYEIKH BASYIR — BATCH 03
 ## Halaman 14–20 (Faedah 4 Lanjutan: Zajr & Faedah 5–7)
 
 **Format:** [Teks Arab Asli] → [Transliterasi Latin] → [Terjemahan Indonesia] — Matan Murni
 **Sumber:** anwar_mujarobat_asli.pdf — Halaman PDF 14–20 (scan 65 hal)
 **Tanggal Revisi:** 25 Oktober 2026 — Cabang `arena/6be1ccd6-kitab`
-
----
-
 ## HALAMAN 14 — Faedah 4: al-Zajr al-Qathi' Lanjutan (Bagian 2/2) — Teks Zajr Lengkap
 
 **[Teks Arab Asli — Zajr Hijau]**
@@ -28,9 +24,6 @@
 *Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang, Raja Yang Hak lagi Nyata, yang berfirman dalam muhkam Kitab-Nya yang mulia: “Alif Lām, Allah tiada tuhan selain Dia Yang Hidup Kekal lagi Berdiri Sendiri … hingga Dzat Pembalas, Akan Kami lemparkan rasa takut ke dalam hati orang-orang kafir karena mereka mempersekutukan Allah … hingga tempat kembali orang-orang zhalim, bagi mereka hamparan dari Jahannam dan di atas mereka penutup, demikianlah Kami membalas orang zhalim, (ingat) ketika Tuhanmu mewahyukan kepada para malaikat … hingga setiap ujung jari — turunlah wahai malaikat Tuhanku kepada para pembantu ini dengan pukulan, hempasan, dan siksa yang pedih hingga mereka menaati perintahku dan berjanji kepadaku untuk berkata benar, demi Allah Raja Yang Hak lagi Nyata. Jawablah dan taatilah wahai golongan khadim! Jika kalian durhaka dan enggan, maka bumi takkan menanggung kalian, langit takkan menaungi kalian, tak ada tempat kalian lari, tak ada tempat berlindung, nama-nama Allah mengepung kalian, dan azimatku ini adalah api dan pembakaran atas kalian. Sungguh aku bersumpah atas kalian demi Allah Yang Maha Agung dan demi hak sumpah agung ini agar kalian menjadikan perkataanku berlaku dan tembus di sisi kalian, ucapanku didengar dan diterima di sisi kalian, agar kalian melayaniku, menaatiku, dan berjanji kepadaku untuk berkata benar demi hak apa yang aku sumpahkan atas kalian — dan sesungguhnya itu adalah sumpah yang jika kalian tahu amatlah agung, hampir-hampir langit terbelah karenanya, bumi terbelah, dan gunung runtuh hancur berkeping-keping. Wahai golongan khadim, aku telah menegur kalian dengan teguran keras dan menyeru kalian dengan seruan yang tiada jalan lolos dan tiada tempat lari darinya, hingga kalian menaati perintahku.” Maka ia akan berjanji kepadamu dan meletakkan tangannya di atas surah itu; saat itu bacalah ayat “[Dan penuhilah janji Allah apabila kalian berjanji … hingga menjadi penjamin]” (QS. al-Nahl: 91, dipenggal sesuai naskah).*
 
 Kemudian palingkan (sharif) dia dan jangan lakukan istinzal lagi hari itu. Jika setelah itu engkau melakukan istinzal kembali, engkau akan mendapati apa yang ia katakan kepadamu benar dan ia akan jujur bersamamu dengan izin Allah. Semoga Allah memberi manfaat kepadaku dan kepada kalian melalui Al-Qur’an yang agung, mengumpulkan aku dan kalian dalam rombongan orang bertakwa, mengampuni aku dan kalian serta seluruh mukminin, wassalam.
-
----
-
 ## HALAMAN 15 — Faedah 5: Li-Thardi 'Uthush Mufsid al-A'mal al-Ruhaniyah (Bagian 1/2)
 
 **[Teks Arab Asli]**
@@ -62,9 +55,6 @@ Wahai saudara-saudaraku karena Allah, aku hadapkan kepada kalian faedah yang ber
 > *(“Aku bersumpah atas kalian wahai ‘Uthush demi Dzat yang menciptakan dan membentuk kalian — kalian menjadi kebutuhan bagi ahli hikmah — janganlah kalian merusak apa yang telah aku kerjakan, jangan dekati aku dalam apa yang aku buat, jangan bergerak demi hak nama-nama pembakar ini atas kalian: Jaljal 2×, Jalanisy 2×, Qahr 2×, Barhah 2×, Syathisy 2×, Syah 2×, ‘maka ke mana pun kalian menghadap, di sana wajah Allah’ — wahai ‘Uthush bin Aghlaghal jangan dekati aku dan jangan dekati pelataranku, demi hak nama-nama ini: Malhub, Malhub, Abyak, Yalikh, al-Qamush, Marush, Harmush, Qarmush — berangkatlah dalam keadaan ringan maupun berat demi ‘Apabila bumi diguncangkan dengan guncangannya’ hingga ‘asy-tātan, asy-tātan, asy-tātan’.”)*
 
 Setelah azimah selesai — setelah engkau membacanya pada tanganmu 21 kali — letakkan tanganmu di bawah kepalamu hingga pagi. Kemudian hapus jadwal (wafaq) dari tanganmu dengan air suci, masukkan air hapusan ke dalam sebuah **botol bening**, lakukan amalan ini **selama 7 hari**. Ketika sempurna, ambil botol itu, pergi ke tempat sepi yang jauh dari manusia, gali lubang, letakkan botol di dalamnya, timbun dengan tanah, letakkan tanganmu di atasnya, bacalah **Ayat Kursi hingga “khālidūn” satu kali dan Surah al-Mulk 3 kali**, lalu pulanglah dari arah kedatanganmu dan jangan sekali-kali menoleh kembali ke botol itu. Wafaqnya adalah sebagai berikut:
-
----
-
 ## HALAMAN 16 — Faedah 5 Lanjutan (Bagian 2/2) — Wafaq 'Uthush 3×3
 
 **[Gambar Wafaq Asli Halaman 16]**
@@ -89,9 +79,6 @@ Semoga Allah memberi taufik kepada kalian menuju apa yang Dia cintai dan ridhai,
 ![Wafaq 'Uthush](rajah_anwar/rajah_p16_wafaq_uthush.png)
 
 *Wafaq 'Uthush mufsid al-a'mal — Syeikh al-Basyir — Muntadā al-Anwār al-Qādiriyyah*
-
----
-
 ## HALAMAN 17 — Faedah 6: al-Durrah al-Nuraniyah fi 'Ilaj al-A'radh al-Ruhaniyah (Bagian 1/2)
 
 **[Teks Arab Asli]**
@@ -131,9 +118,6 @@ Nama-nama yang ditulis melingkar mengelilingi wafaq beserta surah mulia itu adal
 Sebagai pengingat: **Surah al-Ikhlash ditulis melingkar 11 kali** di sekeliling wafaq.
 
 Aku memohon kepada Allah Yang Maha Agung agar memberi manfaat kepadaku dan kepada kalian melalui Al-Qur’an yang mulia, membimbingku dan kalian ke jalan kebenaran yang nyata — sesungguhnya Dialah penolong dan Yang Maha Kuasa atas hal itu.
-
----
-
 ## HALAMAN 18 — Faedah 6 Lanjutan (Bagian 2/2) — Wafaq 4×4 Murabba' al-Jalalah
 
 **[Gambar Wafaq Asli Halaman 18]**
@@ -162,9 +146,6 @@ Mutiara Cahaya untuk Terapi Gangguan Ruhaniyah — Syeikh al-Basyir
 ![Wafaq Durra](rajah_anwar/rajah_p18_wafaq_durra.png)
 
 *Wafaq murabba‘ 4×4 — nama agung Allah Jalla Jalaluh*
-
----
-
 ## HALAMAN 19 — Faedah 7: Fi Tadmiri al-Zhalim (Bagian 1/2)
 
 **[Teks Arab Asli]**
@@ -194,9 +175,6 @@ Mutiara Cahaya untuk Terapi Gangguan Ruhaniyah — Syeikh al-Basyir
 > *[“Ya Allah, Engkaulah Yang Mencukupiku dan Wakilku atas si zhalim. Ya Allah, putuskan napasnya, porak-porandakan kebersamaannya, cerai-beraikan perkumpulannya, balikkan tipu dayanya, ubah keadaannya, dekatkan ajalnya, guncangkan langkahnya, bakar tulang-tulangnya — demi hak firman ‘Sesungguhnya orang-orang yang memfitnah kaum mukminin dan mukminat kemudian tidak bertaubat, bagi mereka azab Jahannam dan azab pembakaran’ (QS. al-Buruj: 10) dan ‘Jika mereka meminta pertolongan, mereka akan ditolong dengan air bagaikan cairan tembaga yang memanggang wajah’ (QS. al-Kahf: 29). Ya Allah, cabut jejaknya hingga tak tersisa sedikit pun, jangan beri ia perlindungan dari azab-Mu, sibukkan ia dengan jasadnya sendiri, lemparkan ia dengan petir-petir pembalasan-Mu, hantam ia dengan hantaman yang keras, ambil ia dengan pengambilan yang perkasa, hancurkan ia sehancur-hancurnya, binasakan ia sebinasanya, jadikan ia debu yang beterbangan, dan putuskan sebutannya — maka Engkaulah Yang Mencukupiku dan Wakilku atasnya.”] Selesai doa.*
 
 Azimahnya adalah: **[Lā ilāha illā Allāh al-Hasīb al-Wakīl]**. Setelah sempurna azimah dan doa, ambil lempengan dari atas api, masukkan ke dalam **botol kaca atau logam berisi air dingin**, tutup rapat, letakkan di **tempat yang gelap …** *(sambungan terpotong di scan halaman 19 — dilanjutkan ke halaman 20).*
-
----
-
 ## HALAMAN 20 — Faedah 7 Lanjutan (Bagian 2/2) — Wafaq Tadmiri
 
 **[Teks Arab Asli — Lanjutan dari Hal 19]**
@@ -222,9 +200,6 @@ Azimahnya adalah: **[Lā ilāha illā Allāh al-Hasīb al-Wakīl]**. Setelah sem
 ![Wafaq Tadmiri](rajah_anwar/rajah_p20_wafaq_tadmiri.png)
 
 *Wafaq Tadmiri al-Zhalim — Syeikh al-Basyir — sisi segitiga bertuliskan “انقاييل” di empat penjuru*
-
----
-
 ### KETERANGAN RAJAH — Batch 03
 
 | Halaman | Nama File Rajah | Isi | Konstanta |
@@ -234,9 +209,5 @@ Azimahnya adalah: **[Lā ilāha illā Allāh al-Hasīb al-Wakīl]**. Setelah sem
 | 20 | `rajah_p20_wafaq_tadmiri.png` | Wafaq Tadmiri 3×3 (614,1230,52 …) + segitiga Inqayail | 1896 |
 
 Semua rajah disimpan di `rajah_anwar/` — tidak dialih-aksarakan, hanya sebagai gambar crop 300 DPI.
-
----
-
 > **STATUS BATCH 03: SELESAI** (Halaman 14–20 — 7 halaman: Zajr lengkap + Faedah 5, 6, 7)
 > Batch berikutnya: Halaman 21–25 (Faedah 8 Qahr al-Qarin & Faedah 9 Saif al-Battar)
-

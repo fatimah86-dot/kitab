@@ -39,4 +39,3 @@ Bentuk Rajah Angka 3×3 khas Faedah Qāṭi‘ah — mengunci aura piring (sha�
 
 ![Wafaq Hal 12 — 3×3 ‘Adad — 9 angka](hal12_crop_sharp.jpg)
 [Gambar: Wafaq 3×3 — 9 angka — 600,1209,18 / 27,609,1191 / 1200,9,618 — baca kanan→kiri 18-1209-600 — Crop tajam IMG_20261025_073117.jpg]
-

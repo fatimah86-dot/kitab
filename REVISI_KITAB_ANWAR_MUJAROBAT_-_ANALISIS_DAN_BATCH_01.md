@@ -1,4 +1,3 @@
-# REVISI KITAB — ANWAR MUJAROBAT SYEIKH BASYIR
 ## Analisis Penerimaan Kitab Asli & Rencana Revisi Sistematis (Batch 01: Halaman 1–8)
 
 **Tanggal Analisis:** 25 Oktober 2026  
@@ -8,9 +7,6 @@
 
 > **Tujuan Dokumen Ini:** Menjawab permintaan “*Bantu saya revisi kitab ini yang sudah saya terjemahkan tetapi banyak yang salah, ini saya sertakan kitab aslinya 5*”.
 > Dokumen ini merinci **(A)** identifikasi isi kitab asli yang baru Anda kirim, **(B)** diagnosis kesalahan umum pada terjemahan lama (Abu Ma’syar) agar tidak terulang, dan **(C)** contoh konkret hasil revisi untuk **Batch 01 (Halaman 1–8) Kitab Anwar Mujarobat Syeikh Basyir** dengan format baku yang siap dilanjutkan per 5 halaman.
-
----
-
 ## A. IDENTIFIKASI KITAB ASLI YANG DITERIMA
 
 ### 1. Sampul & Kolofon
@@ -48,9 +44,6 @@ Dari sampel halaman 6–31 yang kami baca, tiap faedah memiliki pola tetap:
 - **Cara amal** (hari, jam falak/kawakib, bukhur, ‘azīmah)
 - **Wafaq Murabba‘/Mukhammas** (kotak 4×4 atau 5×5 berisi huruf) — **tidak boleh diterjemahkan menjadi teks, harus crop sebagai gambar**
 - **Al-Istikhdam & Khatimah Du‘ā**
-
----
-
 ## B. DIAGNOSIS KESALAHAN PADA TERJEMAHAN LAMA (ABU MA’SYAR)
 
 Agar revisi Anwar Mujarobat tidak mengulang kesalahan yang sama, kami audit `TERJEMAHAN.md` (8.169 baris) dan 12 Batch:
@@ -66,9 +59,6 @@ Agar revisi Anwar Mujarobat tidak mengulang kesalahan yang sama, kami audit `TER
 | 7 | **Istilah kunci tidak dibiarkan Arab** | “hamba sahaya” untuk *raqīq* tanpa penjelasan, “pengetuk siang” untuk *thāriq* yang maksudnya jin/‘āridh | Hilang nuansa | Revisi: biarkan *raqīq, thāriq, khādim, ‘āridh, qarin* + glosarium |
 
 > **Kesimpulan:** Terjemahan Abu Ma’syar sudah “khatam” secara kuantitas, tapi **belum lolos quality-control filologis**. Untuk Anwar Mujarobat kami usulkan **format revisi baru** di bawah ini.
-
----
-
 ## C. FORMAT BAKU REVISI BARU (Diterapkan Mulai Batch 01)
 
 Setiap halaman akan disajikan 4 lapis:
@@ -79,13 +69,7 @@ Setiap halaman akan disajikan 4 lapis:
 4. **[Catatan Revisi & Tanbih]** — penjelasan kaidah + peringatan aqidah + rujukan ayat/hadits jika ada.
 
 Rajah/wafaq: disimpan di `rajah_anwar/` dengan nama `rajah_p0X_wafaq_maysarah.png`, resolusi 300 DPI, latar putih, keterangan cara pakai.
-
----
-
 # BATCH 01 — HALAMAN 1–8 KITAB ANWAR MUJAROBAT SYEIKH BASYIR
-
----
-
 ## HALAMAN 1 — Sampul
 
 **[Teks Arab Asli]**
@@ -109,9 +93,6 @@ Forum Cahaya Qadiriyah & Ruh-Ruh Rahmaniyah
 
 **[Catatan]**
 Halaman sampul. Tidak ada amalan. Kami simpan warna asli untuk arsip; untuk versi cetak akan dibuat versi putih-resmi.
-
----
-
 ## HALAMAN 2 — Ihda’ (Persembahan)
 
 **[Teks Arab Asli]**
@@ -142,9 +123,6 @@ kepada keluarga beliau yang saleh dan terpilih,
 kepada Syeikh al-Faqir al-Qadiri (guru thariqah),
 kepada Dr. Bihouni,
 dan kepada seluruh faqir (murid-murid spiritual) di mana pun berada.
-
----
-
 ## HALAMAN 3 — Ijazah ‘Ammah (Izin Pengamalan)
 
 **[Teks Arab Asli]**
@@ -178,9 +156,6 @@ dan kepada seluruh faqir (murid-murid spiritual) di mana pun berada.
 
 **[Tanbih Syar‘i]**
 Ijazah ini adalah adab sanad hikmah, bukan jaminan mutlak qabul. Niatkan lillāh, bukan untuk kemudaratan; bila ragu tanya guru yang tsiqah.
-
----
-
 ## HALAMAN 4 — Fihris (Daftar Isi) — Bagian 1
 
 **[Teks Arab Asli]**
@@ -203,9 +178,6 @@ Ijazah ini adalah adab sanad hikmah, bukan jaminan mutlak qabul. Niatkan lillāh
 
 **[Terjemahan]**
 (lihat tabel 13 faedah pada Bagian A.2 di atas)
-
----
-
 ## HALAMAN 6 — Faedah 1: Thariqah al-Maysarah fi Jalb al-Arzaq (Bagian 1/3)
 
 **[Teks Arab Asli — Halaman 6, paragraf 1–5]**
@@ -286,9 +258,6 @@ Kuhadapkan ke hadapan kalian permata yang bermanfaat ini dalam urusan mendatangk
 - Lama: “535 = khamsin wa tsalatsun” (salah, menghilangkan *mi'ah*). Revisi: lengkap *khamsu mi'ah wa tsalātsūna wa khamsumi'ah*.
 - Lama: “9−4 =5 maka jadi wafaq” tanpa menjelaskan *mukhammas 25 bait*. Revisi: dijelaskan 5×5 = 25.
 - Lama: huruf ظلمانيين diterjemahkan “kegelapan”. Revisi: *zhulmānī* = huruf berwatak keras/panas dalam ilmu huruf, bukan mistik gelap; dijelaskan dengan takhrīj yang benar.
-
----
-
 ## HALAMAN 7 — Faedah 1 Lanjutan (Bagian 2/3)
 
 **[Teks Arab Asli — Halaman 7]**
@@ -332,9 +301,6 @@ Ambil huruf-huruf *al-‘amal* (و ا هـ د ي) dan huruf Rūhānī al-Hākim 
 
 **[Tanbih]**
 Jam Zuhrah = jam Venus (baik untuk rezeki, mahabbah). Cara hitung jam falak: siang 12 jam + malam 12 jam, dimulai dari terbit matahari. Jangan jadikan jam sebagai penentu mutlak; ia hanya ikhtiar waktu.
-
----
-
 ## HALAMAN 8 — Faedah 1 Lanjutan (Bagian 3/3) — Dua Wafaq
 
 **[Teks Arab Asli]**
@@ -364,9 +330,6 @@ Adapun **bilangan ‘azīmah** (wirid) yang dibaca: **196 kali**, dengan menghad
 
 **[Tanbih Penutup Faedah 1]**
 ‘Azīmah “Lā ilāha illā Allāh al-Muhaimin” 196× bukan mantra yang bekerja sendiri; khasiat rezeki tetap dari Allah. Niatkan untuk nafkah halal, bukan menipu; tinggalkan jika menimbulkan was-was.
-
----
-
 ## D. RENCANA LANJUTAN — Minta Persetujuan Anda
 
 Kami telah menyiapkan **pondasi Batch 01**. Untuk menyelesaikan **65 halaman penuh**, kami usulkan pembagian:
@@ -392,9 +355,6 @@ Kami telah menyiapkan **pondasi Batch 01**. Untuk menyelesaikan **65 halaman pen
 4. **Apakah Anda setuju kami tambahkan *Tanbih Syar‘i* di setiap faedah** yang mengandung khodam/azimah (untuk kehati-hatian aqidah), atau Anda ingin versi “matan murni tanpa tambahan”?
 
 > **Setelah Anda jawab, kami langsung kerjakan Batch 02 (Halaman 9–13) dan commit ke cabang `arena/80a0cd9d-kitab` — dengan format yang sama persis seperti contoh di atas.**
-
----
-
 ### Lampiran: Cara Penggunaan Repositori
 
 - File induk terjemahan baru akan diberi nama `TERJEMAHAN_ANWAR_MUJAROBAT_SYEIKH_BASYIR.md` (akan dipecah per Batch agar tidak 8000 baris seperti Abu Ma’syar).

@@ -1,13 +1,9 @@
-# REVISI KITAB ANWAR MUJAROBAT SYEIKH BASYIR — BATCH 05
 ## Halaman 31–40 (Kitab al-Da‘awat wa al-Riyadhat — Muqaddimah s/d al-Da‘wah al-Qahirah)
 
 **Format:** [Teks Arab Asli] → [Transliterasi Latin] → [Terjemahan Indonesia] — Matan Murni
 **Sumber:** anwar_mujarobat_asli.pdf — Halaman PDF 31–40 (scan 65 hal)
 **Tanggal Revisi:** 25 Oktober 2026 — Cabang `arena/04997e0d-kitab`
 **Catatan:** Hal 31–40 memasuki kitab kedua dalam naskah induk: **“Da‘awat wa Riyadhat al-Syaikh al-Basyir”** (Fihris 9 bab). Tetap direvisi dengan format akademik harfiah yang sama — matan murni tanpa Tanbih Syar‘i.
-
----
-
 ## HALAMAN 31 — Sampul Kitab Kedua: Da‘awat wa Riyadhat
 
 **[Teks Arab Asli — Halaman Sampul]**
@@ -26,9 +22,6 @@
 *Syaikh al-Basyir*
 
 *Halaman sampul kedua setelah khatam Faedah Kashf Manami (hal 30). Menandai awal kitab “Da‘awat wa Riyadhat” yang masih dalam korpus Anwar Mujarobat Syeikh Basyir.*
-
----
-
 ## HALAMAN 32 — Fihris Da‘awat wa Riyadhat
 
 **[Teks Arab Asli]**
@@ -72,9 +65,6 @@
 7. Doa Qahirah (yang menundukkan)
 8. Dan untuk kalian — benteng perlindungan yang dijanjikan
 9. Doa Ayat Kursi yang mulia
-
----
-
 ## HALAMAN 33 — Muqaddimah Hammah Khassah bi al-A‘mal al-Ruhaniyah
 
 **[Teks Arab Asli]**
@@ -127,9 +117,6 @@
 8. **Melaksanakan amal yang dimaksud**
 9. **Istighfar sekuat kemampuan penuntut**
 10. **Shalawat kepada junjungan kita Rasulullah ﷺ**
-
----
-
 ## HALAMAN 34 — Tanbih al-Labib fī mā Yakhushshu al-Da‘awat wa al-Riyadhat
 
 **[Teks Arab Asli — Ringkasan inti; naskah penuh 1 hal padat]**
@@ -161,9 +148,6 @@ Maka setiap penuntut **harus memulai dengan riyadhat tertentu yang serupa** untu
 - **Riyadhat 3:** Asma *Qawiyy Syadid* — jumlah bacaannya **gabungan riyadhat 1 + 2**, durasinya tetap dari nama penuntut. *Contoh: riyadhat 1 = 100× setiap selesai shalat, riyadhat 2 = 170×, maka riyadhat 3 = 270× setiap selesai shalat.* Setelah selesai riyadhat 3, penuntut dapat **masuk dari pintu luas terang ke alam ini tanpa takut**.
 
 Ingatlah firman Allah dalam QS. al-Baqarah: **“Bukanlah kebajikan itu kalian memasuki rumah dari belakangnya, melainkan kebajikan itu orang bertakwa — dan masukilah rumah dari pintu-pintunya…” (QS. 2:189)** — renungkan dan ambil pelajaran, wassalam.
-
----
-
 ## HALAMAN 35 — Da‘wah al-Tafwidh
 
 **[Teks Arab Asli — Inti; du‘a panjang 1 hal]**
@@ -194,9 +178,6 @@ Ingatlah firman Allah dalam QS. al-Baqarah: **“Bukanlah kebajikan itu kalian m
 Lalu bacalah **Doa Tafwidh 3× atau 7×** — teks Arab panjang dimulai *“Bismillāhirrahmānirrahīm, Allāhumma innī astadfi‘u bi-asrāri anwāri bawāriqi …”* hingga *“… wa ufawwidhu amrī ilallāh inna Allāha Bashīrun bil-‘Ibād”*. Selesai. Tutup dengan **al-Fatihah dan shalawat** kepada al-Habib Muhammad ﷺ. Semoga Allah memberi manfaat… amin.
 
 *Catatan naskah: Du‘a Tafwidh versi lengkap 1 halaman merah padat (dilestarikan dalam foto scan full_p35.png).*
-
----
-
 ## HALAMAN 36 — Ishrāf al-‘Ammār al-Masyhūd bi-Shihhatihi
 
 **[Teks Arab Asli]**
@@ -230,9 +211,6 @@ Lalu bacalah **Doa Tafwidh 3× atau 7×** — teks Arab panjang dimulai *“Bism
 > Dibaca **7× sebelum setiap amal**.
 
 **Bukhur (dupa):** *Lubān Dzakar*, atau *Hashā Lubān Ahmar [Shulban Hamra’]*, atau *getah Sidr* — yang terakhir paling baik. *Wallāhu al-Muwaffiq.*
-
----
-
 ## HALAMAN 37 — al-Durrah al-Nāfi‘ah al-Dāfi‘ah lil-Sihri wa Radduhu ‘alā Fā‘ilih (Bagian 1/2)
 
 **[Teks Arab Asli — Pengantar]**
@@ -261,9 +239,6 @@ Lalu bacalah **Doa Tafwidh 3× atau 7×** — teks Arab panjang dimulai *“Bism
 - Jika ia **korban sihir** dan membacanya, **sirnalah sihirnya** dengan izin Allah ‘Azza wa Jalla.
 
 Aku memohon kepada Allah kesembuhan dan keselamatan bagi setiap yang tertimpa, dan kehancuran serta siksaan bagi setiap tukang sihir. **Doanya adalah sebagai berikut** (disambung hal 38).
-
----
-
 ## HALAMAN 38 — al-Durrah Lanjutan — Teks Doa Lengkap (Bagian 2/2)
 
 **[Teks Arab Asli — Doa panjang 1 hal penuh, tinta merah, diringkas awal & akhir]**
@@ -289,9 +264,6 @@ Doa panjang 1 halaman penuh — berisi: permohonan keteguhan, perlindungan dari 
 > *Catatan akademik: Teks lengkap durasi 7× setelah Maghrib seperti halaman 37 — dilestarikan foto scan full_p38.png (merah padat). Terjemahan harfiah lengkap tersedia pada naskah transliterasi di atas (awal-akhir ditampilkan; tengah diringkas karena panjang 500+ kata).*
 
 Selesai doa — semoga Allah memberi manfaat kepada kami dan kalian dengan Al-Qur’an yang agung dan menjadikan doa ini hujjah pada Hari Penghadapan, serta shalawat kepada Sayyid al-Mursalin.
-
----
-
 ## HALAMAN 39 — Da‘wah al-Taskhīr — Nas’al Allāh al-Ijābah
 
 **[Teks Arab Asli]**
@@ -322,9 +294,6 @@ Selesai doa — semoga Allah memberi manfaat kepada kami dan kalian dengan Al-Qu
 > *(“Ya Allah, wahai Penunduk tujuh langit dan tujuh bumi serta penghuninya — tundukkan bagiku seluruh hamba-Mu dari daratan dan lautan-Mu — wahai Tuhan semesta alam — hingga tiada suatu pun di alam yang bergerak atau diam, berbicara atau membisu, tampak atau tersembunyi kecuali Engkau tundukkan bagiku dan ia patuh pada perintahku — dengan berkat Nama-Mu yang tersimpan tersembunyi — ya Allah ya Hayyu ya Qayyum, sesungguhnya urusan-Nya bila menghendaki sesuatu hanya berkata ‘Jadilah’ maka terjadilah. Tuhanku, kedermawanan-Mu menunjukkanku kepada-Mu, kebaikan-Mu mendekatkanku kepada-Mu — aku mengadu kepada-Mu apa yang tak tersembunyi dari-Mu, aku meminta kepada-Mu apa yang tak sulit bagi-Mu — karena pengetahuan-Mu tentang keadaanku cukup sebagai ganti pertanyaanku — wahai Penghilang duka setiap yang berduka dan Penyelamat — lapangkan dukaku dan keadaanku — wahai Dzat yang tidak gaib untuk dinanti, tidak tidur untuk dibangunkan, tidak lalai untuk diingatkan, tidak lupa untuk diingatkan, tidak lemah untuk ditangguhkan — wahai Yang Mengetahui keseluruhan tanpa butuh rincian, Yang Mendengar yang berkata walau sedikit — cukuplah ilmu-Mu dari ucapanku, terputus harapan kecuali kepada-Mu wahai Yang Maha Tinggi, kecewa harapan kecuali pada-Mu wahai Pemilik Keagungan dan Kemuliaan, tertutup jalan kecuali kepada-Mu wahai Yang Maha Pemurah — ya Allah ya Sami‘ ya Mujib ya Qarib, ampunilah aku dan rahmatilah aku dengan rahmat-Mu yang meliputi segala sesuatu, mudahkan urusanku, tundukkan bagiku seluruh makhluk-Mu dari arwah ruhaniyah — sesungguhnya Engkau atas segala sesuatu Maha Kuasa — bagi-Mu keperkasaan dan penundukan, di tangan-Mu penciptaan dan urusan, tiada daya dan kekuatan kecuali dengan-Mu — ya Qawiyy ya Qahhar ya Qarib ya Mujibu al-du‘ā’.”)*
 
 Semoga Allah memberi taufik kepada kalian untuk kebaikan — sesungguhnya Dia atas segala sesuatu Maha Kuasa.
-
----
-
 ## HALAMAN 40 — al-Da‘wah al-Qāhirah
 
 **[Teks Arab Asli — Inti; 1 hal penuh]**
@@ -355,9 +324,6 @@ Teksnya dimulai *“Ilāhī Anta al-Qā’im ‘alā kulli nafsin wa al-Qayyūm 
 **Isi pokok:** permohonan **madad ruhaniyah dari Asma’ al-Qahriyyah** agar dikuatkan kekuatan qalbi dan qalabi (fisik), sehingga **setiap pemilik hati yang menjumpai penuntut akan berbalik kalah**, dilunakkan lidah & hatinya, diberi **tangan berkuasa dan kekuatan penunduk**, dijaga dari kesombongan, hingga **menundukkan setiap jiwa penunduk lain** — *“nār al-qahri”* memadamkan kesombongan mereka — dan diakhiri dengan *“yā Syadīda al-Bathsyi yā Qahhār”* serta *“Anta Jabbāru al-ardhi wa al-samā’”*.
 
 Selesai doa — *“Semoga Allah memberi manfaat kepadaku dan kalian dengan Al-Qur’an yang agung, shalawat kepada Sayyidina Muhammad…”*
-
----
-
 ### KETERANGAN RAJAH — Batch 05
 
 | Halaman | Nama File | Isi | Catatan |
@@ -367,9 +333,5 @@ Selesai doa — *“Semoga Allah memberi manfaat kepadaku dan kalian dengan Al-Q
 | 33–40 | `full_p33.png` … `full_p40.png` | Muqaddimah, Tanbih, Tafwidh, Ishraf, Durrah, Taskhir, Qahirah | Tidak ada wafaq tabel — hanya doa panjang bertinta merah/hijau |
 
 Semua gambar disimpan di `rajah_anwar/` — tidak dialih-aksarakan, hanya sebagai scan crop 200 DPI (matn murni).
-
----
-
 > **STATUS BATCH 05: SELESAI** (Halaman 31–40 — 10 halaman: Sampul + Fihris + 6 doa/riyadhat)
 > Batch berikutnya: Halaman 41–50 (lanjutan Da‘awat — Tahshin, Ayat Kursi, dst. + Khatimah)
-

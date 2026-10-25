@@ -19,7 +19,6 @@ _Syarah sesuai nash._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 02 — IHDA' — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
@@ -46,7 +45,6 @@ _Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 03 — IJAZAH 'AMMAH — إِجَازَةُ الشَّيْخِ الْبَشِيرِ
 
@@ -79,7 +77,6 @@ _Syarah sesuai nash._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 04 — SAMPUL DALAM — فَوَائِدُ وَمُجَرَّبَاتُ
 
 ### arab
@@ -96,7 +93,6 @@ _Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 05 — FIHRIS — فِهْرِسُ مُجَرَّبَاتِ
 
@@ -128,7 +124,6 @@ _Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 06 — FAEDAH MAYSARAH 1/3 — طَرِيقَةُ الْمَيْسَرَةِ
 
@@ -174,7 +169,6 @@ _Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 07 — FAEDAH MAYSARAH 2/3 — LANJUTAN
 
@@ -231,7 +225,6 @@ _Syarah sesuai nash._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 08 — FAEDAH MAYSARAH 3/3 — 2 WAFAQ
 
 ### arab
@@ -266,7 +259,6 @@ _Khususiyah._
 ![Halaman 08 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
 [Gambar: Halaman 08]
 
-
 ## HALAMAN 09 — FAEDAH MUHRIQAH 1/2
 
 ### arab
@@ -296,7 +288,6 @@ _Syarah sesuai nash._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 10 — FAEDAH MUHRIQAH 2/2 — JADWAL & QASAM
 
 ### arab
@@ -318,7 +309,6 @@ _Khususiyah._
 
 ![Halaman 10 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg)
 [Gambar: Halaman 10]
-
 
 ## HALAMAN 11 — FAEDAH QATHI'AH 1/2
 
@@ -347,7 +337,6 @@ _Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 12 — FAEDAH QATHI'AH 2/2 — WAFAQ 3×3
 
@@ -380,7 +369,6 @@ _Khususiyah._
 
 ![Halaman 12 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_073117.jpg)
 [Gambar: Halaman 12]
-
 
 ## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ
 
@@ -434,7 +422,6 @@ Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). T
 
 ![Halaman 13 — Scan 300 DPI](hal_13.png)
 [Gambar: Halaman 13]
-
 
 ## HALAMAN 14 — ZAJR QATHI' 2/3 — الزَّجْرُ الْقَاطِعُ (LANJUTAN)
 
@@ -529,7 +516,6 @@ Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan sete
 ![Halaman 14 — Scan 300 DPI](hal_14.png)
 [Gambar: Halaman 14]
 
-
 ## HALAMAN 15 — FAIDAH THARD 'ATHLUSYIN 1/2 — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ
 
 ### arab
@@ -578,7 +564,6 @@ Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, w
 
 ![Halaman 15 — Scan 300 DPI](hal_15.png)
 [Gambar: Halaman 15]
-
 
 ## HALAMAN 16 — FAIDAH THARD 'ATHLUSYIN 2/2 — WAFAQ 3×3
 
@@ -639,4 +624,3 @@ Khasiat: mengunci ‘Athlūsy agar tidak merusak amal apapun — setelah 7 hari 
 
 ![Halaman 16 — Scan 300 DPI](hal_16_wafaq_athlush.jpg)
 [Gambar: Halaman 16]
-
