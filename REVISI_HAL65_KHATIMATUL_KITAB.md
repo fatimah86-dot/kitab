@@ -1,0 +1,68 @@
+# REVISI HAL 65 — خَاتِمَةُ الْكِتَابِ (KOLOFON PENUTUP)
+
+## HALAMAN 65 — خَاتِمَةُ الْكِتَابِ
+
+### arab
+
+تَمَّ بِعَوْنِ اللهِ الِانْتِهَاءُ مِنْ جَمْعِ فَوَائِدَ وَمُجَرَّبَاتٍ وَرِيَاضَاتٍ
+وَدُرُوسِ
+شَيْخِنَا الْجَلِيلِ
+الْبَشِيرِ
+رَبِّي يُبَارِكُ فِيهِ وَيَحْفَظُهُ
+الْحُقُوقُ مَحْفُوظَةٌ
+لِمُنْتَدَيَاتِ الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
+http://www.alanwaralqadria.com
+الرَّاجِيَةُ عَفْوَ رَبِّهَا
+خَادِمَتُكُمْ
+عَابِدَةُ اللهِ
+أَسْأَلُكُمُ الدُّعَاءَ بِالْخَيْرِ لِزَوْجِي وَأَوْلَادِي
+وَإِهْدَاءَ الْفَاتِحَةِ إِلَى رُوحِ أُمِّي وَأَبِي
+
+### latin
+
+Tamma bi'aunillāhil-intihā'u min jam'i fawā'ida wa mujarrabātin wa riyādhātin
+wa durūsi
+Syaikhināl-Jalīli
+Al-Basyīri
+Rabbī yubāriku fīhi wa yahfazhuhū
+Al-huqūqu mahfūzhatun
+Limuntadayātil-Anwāril-Qādiriyyati wal-Arwāhir-Rahmāniyyati
+http://www.alanwaralqadria.com
+Ar-rājiyatu 'afwa Rabbihā
+Khādimatukum
+'Ābidatullāhi
+As'alukumud-du'ā'a bil-khairi lizaujī wa aulādī
+Wa ihdā'al-Fātihati ilā rūhi ummī wa abī.
+
+### Terjemahan
+
+Telah sempurna dengan pertolongan Allah penyelesaian penghimpunan berbagai faidah, mujarrabat, riyadhah,
+dan pelajaran-pelajaran dari
+Syeikh kami yang mulia
+Al-Basyīr —
+semoga Tuhanku memberkahi beliau dan senantiasa menjaga beliau.
+Hak cipta dilindungi
+untuk Forum Al-Anwār Al-Qādiriyyah wal-Arwāh Ar-Rahmāniyyah
+http://www.alanwaralqadria.com
+Yang mengharapkan ampunan Tuhannya,
+pelayan kalian:
+'Ābidatullāh.
+Aku memohon kepada kalian doa kebaikan untuk suamiku dan anak-anakku,
+serta menghadiahkan bacaan Surah Al-Fatihah untuk ruh ibuku dan ayahku.
+
+### Syarah dan Penjelasan
+
+1. **Verifikasi 3× vs Scan Asli `hal_65.png` — Khātimah & Kolofon Penutup Seluruh Kitab (65 Halaman)**:
+   - Pada draf kiriman sebelumnya, Halaman 65 ditulis sebagai tabel fiktif malaikat `صمياييل / سطياييل / كطياييل` lalu diikuti draf fiktif Halaman 66 dan Halaman 67 ("Bab IV Khawāsh Asmā'ul Husnā").
+   - Setelah diverifikasi terhadap scan asli `hal_65.png`, **Halaman 65 adalah halaman penutup (kolofon) dari keseluruhan kitab *Anwārusy-Syaikh al-Basyīr*** (total kitab asli berjumlah **65 halaman utuh**, dari Halaman 01 Sampul hingga Halaman 65 Kolofon Penutup — tidak ada Halaman 66 maupun 67 pada naskah asli).
+   - Kolofon ini menegaskan struktur tiga bagian utama yang telah dihimpun di dalam kitab oleh murid beliau (*'Ābidatullāh* dari Forum *Al-Anwār Al-Qādiriyyah wal-Arwāh Ar-Rahmāniyyah*):
+     1. **Fawā'id wa Mujarrabāt** (Halaman 03–28);
+     2. **Riyādhāt** (Halaman 29–39);
+     3. **Durūsusy-Syaikh al-Basyīr** — 10 Pelajaran Ilmu Wafaq, Istinthāq, dan Rahasia Huruf (Halaman 40–64).
+
+### Khususiyah dan Tatacara Praktik
+
+1. **Adab Penutup Pembaca & Pengamal Kitab (*Wasiat Penyusun*)**:
+   - Mendoakan keberkahan dan penjagaan Allah bagi mualif ilmu dalam kitab ini, **Asy-Syaikh al-Jalīl al-Basyīr**.
+   - Mendoakan kebaikan bagi penghimpun kitab (**'Ābidatullāh**), suami, dan anak-anak beliau.
+   - Membaca dan menghadiahkan **Surah Al-Fatihah** kepada ruh kedua orang tua beliau (ibu dan ayah beliau) serta seluruh masyayikh ilmu hikmah.
