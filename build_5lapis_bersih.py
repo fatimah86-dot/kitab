@@ -136,12 +136,8 @@ PESANTREN_TEMPLATES = {
 
 # Build MD
 md_lines = []
-md_lines.append("# REVISI FINAL SUPER BERSIH — 5 LAPIS — HAL 01-13")
-md_lines.append("> Kitab Anwar Mujarobat Syeikh Basyir — 65 hal — Anwar Mujarobat Syeikh Basyir saja (bukan Abu Ma'syar) — Matan murni, tanpa Tanbih Syar'i — Gaya: Arab → Latin Wasal → Pesantren")
-md_lines.append("> Format: 1) Arab Berharokat Full • 2) Latin Washal Bunyi • 3) Terjemahan Ala Pesantren (Utawi/Adapun bermula/Puniko/Maka/Yakni) • 4) Syarah dan Penjelasan • 5) Khususiyah dan Tatacara Praktik + Crop Wafaq (sumber tunggal rajah_anwar_FINAL_300DPI/)")
-md_lines.append("")
-md_lines.append("---")
-md_lines.append("")
+# Header bukan isi kitab — sengaja tidak ditulis (hapus per permintaan)
+# md_lines mulai langsung dari HALAMAN 01
 
 for hal in ["01","02","03","04","05","06","07","08","09","10","11","12","13"]:
     block = blocks.get(hal, "")
@@ -332,37 +328,7 @@ def caption_doc(text):
     run.font.size = Pt(7.5); run.italic = True; run.font.color.rgb = RGBColor(0x42,0x42,0x42)
     return p
 
-# Cover
-p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-r = p.add_run("REVISI FINAL SUPER BERSIH"); r.bold=True; r.font.size=Pt(9); r.font.color.rgb=RGBColor(0x6A,0x1B,0x9A)
-p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-r = p.add_run("5 LAPIS HAL 01-13"); r.bold=True; r.font.size=Pt(22); r.font.color.rgb=RGBColor(0x14,0x3D,0x6B)
-p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-r = p.add_run("Arab Berharokat • Latin Washal • Terjemahan Pesantren (Utawi/Adapun/Puniko/Maka/Yakni) • Syarah • Khususiyah + Wafaq"); r.font.size=Pt(8); r.italic=True; r.font.color.rgb=RGBColor(0x55,0x55,0x55)
-p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-r = p.add_run("Anwar Mujarobat Syeikh Basyir — 65 hal — Edisi Pesantren"); r.font.size=Pt(7); r.font.color.rgb=RGBColor(0x75,0x75,0x75)
-
-# Info box
-p = doc.add_paragraph()
-pPr = p._p.get_or_add_pPr()
-shd = OxmlElement('w:shd'); shd.set(qn('w:val'),'clear'); shd.set(qn('w:color'),'auto'); shd.set(qn('w:fill'),'E8F5E9')
-pPr.append(shd)
-pBdr = OxmlElement('w:pBdr')
-for edge in ['top','left','bottom','right']:
-    el = OxmlElement(f'w:{edge}'); el.set(qn('w:val'),'single'); el.set(qn('w:sz'),'3'); el.set(qn('w:space'),'4'); el.set(qn('w:color'),'A5D6A7')
-    pBdr.append(el)
-pPr.append(pBdr)
-run = p.add_run("Format Baru: 5 Lapis Bersih per halaman — hapus semua sampah Batch01/02 V2 lama")
-run.bold=True; run.font.size=Pt(9); run.font.color.rgb=RGBColor(0x1B,0x5E,0x20)
-for bullet in [
-    "1) Arab Berharokat Full Halaman — dari anwar_mujarobat_asli.pdf Hal PDF 01-13/65 (harokat penuh)",
-    "2) Latin Washal Bunyi — langsung latin sambung: Anwārush-Syaikhil-Basyīr",
-    "3) Terjemahan Ala Pesantren — gaya Utawi / Adapun bermula / Puniko / Maka / Yakni",
-    "4) Syarah dan Penjelasan — makna, asbab, dalil",
-    "5) Khususiyah dan Tatacara Praktik + Crop Wafaq — sumber tunggal rajah_anwar_FINAL_300DPI/",
-]:
-    pb = doc.add_paragraph(style='List Bullet')
-    run = pb.add_run(bullet); run.font.size=Pt(7.5)
+# Cover — HAPUS per permintaan: bukan isi kitab, langsung ke Daftar Isi & HALAMAN 01
 
 # TOC
 doc.add_heading("DAFTAR ISI — 5 Lapis Bersih Hal01-13", level=1)

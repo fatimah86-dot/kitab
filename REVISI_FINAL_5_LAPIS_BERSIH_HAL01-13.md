@@ -1,9 +1,3 @@
-# REVISI FINAL SUPER BERSIH — 5 LAPIS — HAL 01-13
-> Kitab Anwar Mujarobat Syeikh Basyir — 65 hal — Anwar Mujarobat Syeikh Basyir saja (bukan Abu Ma'syar) — Matan murni, tanpa Tanbih Syar'i — Gaya: Arab → Latin Wasal → Pesantren
-> Format: 1) Arab Berharokat Full • 2) Latin Washal Bunyi • 3) Terjemahan Ala Pesantren (Utawi/Adapun bermula/Puniko/Maka/Yakni) • 4) Syarah dan Penjelasan • 5) Khususiyah dan Tatacara Praktik + Crop Wafaq (sumber tunggal rajah_anwar_FINAL_300DPI/)
-
----
-
 ## HALAMAN 01 — SAMPUL — أَنْوَارُ الشَّيْخِ الْبَشِيرِ
 
 ### 1. Arab Berharokat Full Halaman
