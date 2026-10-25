@@ -160,3 +160,12 @@ Telah selesai, wahai saudara-saudaraku karena Allah, ayat-ayat yang mulia terseb
 
 Dan inilah wafaqnya.
 
+
+### Syarah dan Penjelasan
+
+Wafaq musallas 3×3 Saif al-Battār memiliki 9 kamar dengan konstanta 582 per baris/kolom/diagonal (165+143+274=582, 303+194+85=582, 114+245+223=582), selaras dengan hitungan wirid Al-Hakīm 582×. Empat sudut luar ditandai simbol G/A sebagai pasak rajah, bingkai diputar dengan ayat Qauluhul-Haqq wa Lahul-Mulk diselingi 29 ayat Al-‘Azīz Al-Hakīm. Fungsi utamanya sebagai pemutus ikatan sihir/pelet Maimūn an-Nikāh (jin mārid Majūsī) yang merusak kehormatan suami-istri; mekanisme wirid Al-Hakīm 582× + ayat-ayat 29× menjadi pemantik pembakar energi sihir.
+
+### Khususiyah dan Tatacara Praktik
+
+Penulisan dengan air mawar + za‘faran, pembacaan terpisah (Lā ilāha illallāh per ayat) lalu wirid Al-Hakīm, cocok sebagai hirz pelindung kehormatan. Simetri 582 memancarkan daya hancur bergelombang yang memutus kiriman Maimūn secara instan.
+

@@ -38,3 +38,11 @@ Selesai doa. Adapun azimahnya: [Tidak ada tuhan selain Allah Yang Maha Mencukupi
 Setelah sempurna azimah dan doa, ambillah potongan tersebut dari atas api, letakkan dalam botol kaca atau logam yang berisi air dingin, lalu tutuplah dan simpan di tempat yang gelap; niscaya engkau akan melihat rahasia Allah pada orang zalim. Jika ia telah kembali (bertaubat) dari kezalimannya, keluarkan potongan itu dari air dan bacakan di atasnya Al-Fatihah 7 kali, Al-Mulk 7 kali dan Al-Ikhlas 7 kali. Ketahuilah, aku telah meletakkan faedah ini pada tanggungan orang yang Allah bukakan rahasianya baginya; wahai penuntut ilmu, jagalah kehormatan Allah pada makhluk-Nya dan ingatlah bahwa Hari Perhitungan tidak ada keraguan padanya. Dan inilah wafaqnya.
 
 
+### Syarah dan Penjelasan
+
+Faedah Tadmīr azh-Zhālim ini termasuk tashrīf langka dari wirid Hasbunallāh wa Ni‘mal-Wakīl. Penulis menegaskan syarat ketat: hanya untuk orang yang benar-benar zhalim, melampaui batas dan takabbur; penyalahgunaan untuk kezhaliman akan berbalik sebagai racun. Rahasia disembunyikan dalam hisab: tembaga merah ukuran telapak tangan diukir dengan paku baja, dibingkai basmalah dan empat sudut nama raja ruhaniyah Anfāyīl. Inti amalan adalah hisab jantung musallas: nama zhālim + nama ibunya dicampur huruf khādim Malūbāyīl, di-taksīr hingga makhraj, lalu diambil huruf-huruf daf‘ dari sathr al-mīzān beserta huruf sesudahnya, dijumlahkan dan dimasukkan ke qalbul-mutsallas dengan lingkaran. Pembakaran di atas api dengan bukhūr qisth al-murr dan pembacaan ‘azīmah 1264× serta du‘ā di atas ‘aqd menjadi kunci pengaktifan; pembalikan ke air dingin di tempat gelap sebagai penahan energi, dan cara pemulihan bila pelaku bertaubat (Fātihah, Mulk, Ikhlās 7×).
+
+### Khususiyah dan Tatacara Praktik
+
+Amalan ini bersifat darurat dan sangat keras; tidak boleh untuk dendam pribadi ringan. Kehati-hatian dalam hisab wajib: salah hitung merusak khasiat. Penempatan di air gelap menahan pengaruh; pencabutan dan pembacaan surat-surat penyejuk menjadi penawar. Penulis mengikat amanah pada pembaca: jaga kehormatan makhluk Allah dan ingat Hari Hisab.
+

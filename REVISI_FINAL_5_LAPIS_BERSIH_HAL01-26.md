@@ -781,6 +781,14 @@ Selesai doa. Adapun azimahnya: [Tidak ada tuhan selain Allah Yang Maha Mencukupi
 Setelah sempurna azimah dan doa, ambillah potongan tersebut dari atas api, letakkan dalam botol kaca atau logam yang berisi air dingin, lalu tutuplah dan simpan di tempat yang gelap; niscaya engkau akan melihat rahasia Allah pada orang zalim. Jika ia telah kembali (bertaubat) dari kezalimannya, keluarkan potongan itu dari air dan bacakan di atasnya Al-Fatihah 7 kali, Al-Mulk 7 kali dan Al-Ikhlas 7 kali. Ketahuilah, aku telah meletakkan faedah ini pada tanggungan orang yang Allah bukakan rahasianya baginya; wahai penuntut ilmu, jagalah kehormatan Allah pada makhluk-Nya dan ingatlah bahwa Hari Perhitungan tidak ada keraguan padanya. Dan inilah wafaqnya.
 
 
+### Syarah dan Penjelasan
+
+Faedah Tadmīr azh-Zhālim ini termasuk tashrīf langka dari wirid Hasbunallāh wa Ni‘mal-Wakīl. Penulis menegaskan syarat ketat: hanya untuk orang yang benar-benar zhalim, melampaui batas dan takabbur; penyalahgunaan untuk kezhaliman akan berbalik sebagai racun. Rahasia disembunyikan dalam hisab: tembaga merah ukuran telapak tangan diukir dengan paku baja, dibingkai basmalah dan empat sudut nama raja ruhaniyah Anfāyīl. Inti amalan adalah hisab jantung musallas: nama zhālim + nama ibunya dicampur huruf khādim Malūbāyīl, di-taksīr hingga makhraj, lalu diambil huruf-huruf daf‘ dari sathr al-mīzān beserta huruf sesudahnya, dijumlahkan dan dimasukkan ke qalbul-mutsallas dengan lingkaran. Pembakaran di atas api dengan bukhūr qisth al-murr dan pembacaan ‘azīmah 1264× serta du‘ā di atas ‘aqd menjadi kunci pengaktifan; pembalikan ke air dingin di tempat gelap sebagai penahan energi, dan cara pemulihan bila pelaku bertaubat (Fātihah, Mulk, Ikhlās 7×).
+
+### Khususiyah dan Tatacara Praktik
+
+Amalan ini bersifat darurat dan sangat keras; tidak boleh untuk dendam pribadi ringan. Kehati-hatian dalam hisab wajib: salah hitung merusak khasiat. Penempatan di air gelap menahan pengaruh; pencabutan dan pembacaan surat-surat penyejuk menjadi penawar. Penulis mengikat amanah pada pembaca: jaga kehormatan makhluk Allah dan ingat Hari Hisab.
+
 
 
 ---
@@ -811,6 +819,15 @@ Visual LTR (sebagaimana tampak pada gambar): `614 | 1230 | 52 / 736 | [kosong] |
 
 - تحوطه بالبسملة mulai dari sathr musallas asfal, tulisan muwāliyah lil mutsallas min al-yamīn ilā al-syimāl... إلخ — sesuai teks Hal19.
 - Empat perpotongan arkan diisi أنفاييل — kitābah muwāliyah lil wafqi.
+
+
+### Syarah dan Penjelasan
+
+Wafaq musallas 3×3 Tadmīr azh-Zhālim berbingkai hijau dengan empat sudut Anfāyīl (diagonal) dan bingkai basmalah muwāliyah lil-mutsallas. Delapan angka luar berjumlah 1896 per baris/kolom (614+1230+52=1896 dst.), jantung dibiarkan kosong untuk diisi hasil hisab huruf daf‘ yang dilingkari. Angka-angka ditulis dengan tinta asror tanpa dialih-aksarakan; keempat arkan berfungsi sebagai pasak penjaga segitiga.
+
+### Khususiyah dan Tatacara Praktik
+
+Wafaq ini tidak berdiri sendiri: harus diukir di tembaga merah, dibasuh basmalah, diasapi qisth al-murr, dibakar, direndam, dan diaktifkan dengan ‘azīmah 1264×. Kehati-hatian dalam arah tulisan (kanan→kiri, muwāliyah) menentukan kesempurnaan hisab.
 
 
 
@@ -867,6 +884,15 @@ Setelah salat Subuh, duduklah di tempat salatmu; mohon ampunlah kepada Allah 15 
 Kemudian bangkitlah dari sujudmu; mohon ampunlah kepada Allah 15 kali dan bershalawatlah kepada Rasulullah 15 kali.
 
 Selesai. Semoga Allah memberi manfaat kepada kami dan kalian dengan al-Qur'an yang agung, menjadikan kami termasuk orang-orang yang bertakwa, dan memberi petunjuk kepada kami dan kalian kepada jalan-Nya yang lurus.
+
+
+### Syarah dan Penjelasan
+
+Hakikat Qarin (al-Qarīn al-Mu'dzī): setiap manusia didampingi qarin jin sejak lahir; bila jiwa lemah, qarin menguasai dengan was-was, malas ibadah, halwasah. Bacaan ar-Rahmān + 13 ayat sajdah menciptakan puncak ketundukan; sujud saat ayat sajdah menghinakan syaitan yang enggan sujud dahulu. Rahasia huruf dalam doa sujud (qāf qudratika, hā' hidāyatika, alif azaliyyatika, rā' rahmatika) merangkai Q-H-A-R yang membentuk Ya Qahhār.
+
+### Khususiyah dan Tatacara Praktik
+
+Amalan tanpa rajah/wafaq, murni tilawah, sujud dan du‘ā, sehingga aman untuk siapa saja setelah Shubuh. Penguncian angka 15 (istighfār 15× + shalawat 15× di awal dan akhir) mengapit doa sujud di hadapan ‘Arsy; pembacaan ayat sajdah Maryam di dalam sujud menjadi inti qahr.
 
 
 
@@ -1033,6 +1059,15 @@ Wafaq ditulis dengan air mawar dan za'faran; kelilingilah ia dengan ayat [Firman
 Telah selesai, wahai saudara-saudaraku karena Allah, ayat-ayat yang mulia tersebut dan untuk kalian wafaq yang telah disebutkan terdahulu.
 
 Dan inilah wafaqnya.
+
+
+### Syarah dan Penjelasan
+
+Wafaq musallas 3×3 Saif al-Battār memiliki 9 kamar dengan konstanta 582 per baris/kolom/diagonal (165+143+274=582, 303+194+85=582, 114+245+223=582), selaras dengan hitungan wirid Al-Hakīm 582×. Empat sudut luar ditandai simbol G/A sebagai pasak rajah, bingkai diputar dengan ayat Qauluhul-Haqq wa Lahul-Mulk diselingi 29 ayat Al-‘Azīz Al-Hakīm. Fungsi utamanya sebagai pemutus ikatan sihir/pelet Maimūn an-Nikāh (jin mārid Majūsī) yang merusak kehormatan suami-istri; mekanisme wirid Al-Hakīm 582× + ayat-ayat 29× menjadi pemantik pembakar energi sihir.
+
+### Khususiyah dan Tatacara Praktik
+
+Penulisan dengan air mawar + za‘faran, pembacaan terpisah (Lā ilāha illallāh per ayat) lalu wirid Al-Hakīm, cocok sebagai hirz pelindung kehormatan. Simetri 582 memancarkan daya hancur bergelombang yang memutus kiriman Maimūn secara instan.
 
 
 
