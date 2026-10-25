@@ -471,12 +471,14 @@ Washal: *Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā f�
 ### 8) Struktur Kitab
 [HAL 05] Fihris → [HAL 06] Hisab 535 → [HAL 07] Ruhani & jam Zuhrah → **[HAL 08] 2 Wafaq + 'Azimah 196× ← ANDA DI SINI (Penutup Faedah 01)** → [HAL 09] Faedah 02 Muhriqah (halaman berikutnya). Faedah 01 selesai (3 hal + 2 wafaq) — menjadi **model hisab** untuk 12 faedah lain yang akan memakai pola serupa (hisab → wafaq → 'azimah).
 
-### 9) Crop 300 DPI
-**DENGAN WAFAQ (2 buah):**  
-- Scan full: `hal08_300dpi.png` 3300×2550 1.0 MB (judul «طريقة الميسرة...» + 2 wafaq bersebelahan)  
-- Crop wafaq amal mukhammas 5×5: `crop_hal08_wafaq_amal_mukhammas_5x5_300dpi.png` 1287×1096 px 250 KB — kotak 5×5 huruf و د ي هـ ا ... (latar putih, garis merah, watermark «طريقة الميسرة...»)  
-- Crop wafaq ruhani murabba' 4×4: `crop_hal08_wafaq_ruhani_murabba_4x4_300dpi.png` 1287×1096 px 256 KB — kotak 4×4 huruf م س ل ن ... (desain sama)  
-Semua 300 DPI, garis kotak 2 pt merah tua, latar putih bersih (sudah dibersihkan dari bingkai krem). Lokasi: `rajah_anwar_v2_300/`
+### 9) Crop 300 DPI — **SUMBER TUNGGAL: rajah_anwar_FINAL_300DPI/ (Crop Asli Anda)**
+**DENGAN WAFAQ (2 buah) — DIGANTI DENGAN CROP ANDA:**
+
+- Scan full (arsip, tanpa wafaq crop): `rajah_anwar_v2_300/hal08_300dpi.png` 3300×2550 1.0 MB (judul «طريقة الميسرة...» + 2 wafaq bersebelahan) — tetap sebagai arsip full, bukan sumber wafaq
+- **Crop wafaq amal Mukhammas 5×5 (BARU — crop Anda):** `rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg` — 334×244 px, 50 KB, **Mukhammas Hurufi 5×5** — huruf **و د ي هـ ا** tadwir, latar putih bersih — ![Wafaq Hal 08b Mukhammas 5×5](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg) — *[Gambar 1.3: Wafaq Amal Mukhammas 5×5 Hal 08 — و ا هـ د ي tadwir — Crop Asli 300 DPI]*
+- **Crop wafaq ruhani Murabba' 4×4 (BARU — crop Anda):** `rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg` — 334×241 px, 49 KB, **Murabba' Hurufi 4×4** — huruf **م س ل ن** tadwir — ![Wafaq Hal 08a Murabba' 4×4](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg) — *[Gambar 1.4: Wafaq Ruhani Murabba' 4×4 Hal 08 — م س ل ن tadwir — Crop Asli 300 DPI]*
+
+> **Diganti:** `rajah_anwar_v2_300/crop_hal08_wafaq_amal_mukhammas_5x5_300dpi.png` (1287×1096, 250KB — **HAPUS, deprecated**) & `crop_hal08_wafaq_ruhani_murabba_4x4_300dpi.png` (1287×1096, 256KB — **HAPUS**) → diganti crop asli Anda di atas. Untuk Hal 09-65, jangan pernah crop lagi dari full_pXX.png — selalu pakai `rajah_anwar_FINAL_300DPI/`.
 
 > **KHATAM BATCH 01 V2 (8 Halaman) — 9 Ketentuan Selesai.**
 > 8 halaman (Sampul → Ihda' → Ijazah → Sampul Dalam → Fihris → Faedah 01 [3 hal + 2 wafaq]) telah direvisi dengan template 1-9 menggantikan format lama Matan Murni. Tanpa Tanbih Syar'i tambahan (sesuai amanah matan murni), kecuali adab tawassul yang memang ada di nash. Google Docs: Hal01 (233947) + Hal02-08 menyusul (append). GitHub: file ini + 11 PNG 300 DPI.

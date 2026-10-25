@@ -240,7 +240,7 @@ rajah_anwar_v2_300/
 └── crop_hal01_sampul_judul_300dpi.png        (crop judul, latar cokelat)
 ```
 
-> **Untuk halaman berikutnya yang memiliki wafaq (Hal 08):** akan ada tambahan `crop_hal08_wafaq_amal_mukhammas_5x5_300dpi.png` (1287×1096 px, 250 KB) & `crop_hal08_wafaq_ruhani_murabba_4x4_300dpi.png` (1287×1096 px, 256 KB) — keduanya 300 DPI latar putih bersih (sudah dipisah dari halaman). Lihat preview di bawah.
+> **Untuk halaman berikutnya yang memiliki wafaq (Hal 08):** telah diganti dengan crop asli Anda: `rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg` (Mukhammas 5×5 و ا هـ د ي, 334×244, 50KB) & `IMG_20261025_072327.jpg` (Murabba' 4×4 م س ل ن, 334×241, 49KB) — keduanya Crop Asli 300 DPI (menggantikan lama 1287×1096). Lihat preview di bawah.
 
 **Preview Crop Hal 01 (300 DPI):**
 *File `crop_hal01_sampul_judul_300dpi.png` — ornamen cokelat, tulisan putih «أنوار الشيخ البشير» di tengah, footer «منتديات الأنوار القادرية و الأرواح الرحمانية»*
