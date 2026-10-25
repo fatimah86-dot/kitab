@@ -2,15 +2,15 @@
 
 **Kitab:** Anwar Mujarobat Syeikh Basyir (65 Halaman PDF)
 **Sumber Asli:** anwar_mujarobat_asli.pdf (scan 9.9 MB, 65 hal)
-**Format Revisi:** Akademik Matan Murni — Teks Arab Asli → Transliterasi → Terjemahan Indonesia Baku
-**Media Kerja:** Google Docs + Repositori GitHub (branch arena/3d1b07bc-kitab)
-**Preferensi User (25 Okt 2026):** Fokus Anwar saja (bukan Abu Ma'syar), Gaya akademik, Google Docs, Tanpa Tanbih Syar'i (matan murni)
+**Format Revisi:** **9 Ketentuan Baru (Reformat Total Batch01 V2)** — 1 Arab Full Harokat 2 Nahwu-Sharaf 3 3 Hukum Washal 4 Latin Washal Bunyi 5 Terjemahan 6 Syarah 7 Khususiyah & Tata Cara 8 Struktur Kitab 9 Crop Wafaq 300 DPI — *Menggantikan Matan Murni lama*
+**Media Kerja:** Google Docs (1IffC92Oc9hm4xBEAIGylAFzekJLQwvhkFFj3cFBrgqw) + GitHub `arena/f46942f6-kitab` PR #11
+**Preferensi User (25 Okt 2026):** Reformat Total Batch01 Hal1-8 pakai 9 Ketentuan (contoh: أَنْوَارُ الشَّيْخِ الْبَشِيْرِ / مُنْتَدَيَاتُ الْأَنْوَارِ الْقَادِرِيَّةِ), Hapus Matan Murni lama
 
-## Progres Batch (Update 25 Okt 2026 — Batch 08 KHATAM — 65/65 100%)
+## Progres Batch — EDISI 9 KETENTUAN (Update 25 Okt 2026 — Batch01 V2 8/8 KHATAM 281872)
 
 | Batch | Halaman PDF | Isi | Status | Link |
 |-------|-------------|-----|--------|------|
-| 01 | 1–8 | Sampul, Ihda, Ijazah, Fihris 13 Faedah, Faedah 1 Thariqah al-Maysarah (3 hal + 2 wafaq) | ✅ SELESAI | [Google Docs Batch 01](https://docs.google.com/document/d/1IffC92Oc9hm4xBEAIGylAFzekJLQwvhkFFj3cFBrgqw) |
+| 01 V2 | 1–8 | **REFORMAT TOTAL 9 KETENTUAN** — Sampul (أَنْوَارُ الشَّيْخِ الْبَشِيْرِ), Ihda', Ijazah 'Ammah, Sampul Dalam, Fihris 13 Faedah, Faedah01 Maysarah 3 hal (535→13→Samsail/Nasmahil→Zuhrah) + 2 wafaq (mukhammas 5×5 و ا هـ د ي & murabba' 4×4 م س ل ن, 'azimah 196×) — *Matan Murni lama deprecated* | ✅ **SELESAI V2 — 8/8 HAL (9 Ketentuan)** — Docs 281872 (Hal01 20KB + Hal02-05 24KB + Hal06-08 34KB), 11 PNG 300 DPI (rajah_anwar_v2_300/) | [Google Docs V2](https://docs.google.com/document/d/1IffC92Oc9hm4xBEAIGylAFzekJLQwvhkFFj3cFBrgqw) + `REVISI_BATCH_01_V2_9KETENTUAN__HAL01_SAMPUL.md` + `REVISI_BATCH_01_V2_9KETENTUAN__HAL02-08.md` |
 | 02 | 9–13 | Faedah 2 Muhriqah Tharidah & Faedah 3 Qathi'ah Mass (+ awal Faedah 4) | ✅ SELESAI — 5 hal, 4 rajah | [Google Docs](https://docs.google.com/document/d/1IffC92Oc9hm4xBEAIGylAFzekJLQwvhkFFj3cFBrgqw) + `REVISI_BATCH_02_ANWAR_MUJAROBAT.md` |
 | 03 | 14–20 | Faedah 4 Lanjutan Zajr al-Qathi' (hal 14 hijau) + Faedah 5 Thard 'Uthush (hal 15–16, wafaq 3×3) + Faedah 6 Durrah Nuraniyah (hal 17–18, wafaq 4×4) + Faedah 7 Tadmiri al-Zhalim (hal 19–20, wafaq 3×3 + segitiga) | ✅ SELESAI — 7 hal, 3 rajah | [Google Docs](https://docs.google.com/document/d/1IffC92Oc9hm4xBEAIGylAFzekJLQwvhkFFj3cFBrgqw) + `REVISI_BATCH_03_ANWAR_MUJAROBAT.md` |
 | 04 | 21–30 | Faedah 8 Qahr al-Qarin (hal 21, du'a Qaf-Ba-Alif-Bara) + Faedah 9 Saif al-Battar li-Daf'i Maimun al-Ghaddar (hal 22–24, 29 ayat + wafaq 3×3 konstanta 582) + Faedah 10 Radd al-Khadim (hal 25, Yusuf 75× + du'a Fathir) + Du'a al-Khaif (hal 26, hijab) + Faedah Ayat 'Asyr Mubtilat (hal 27–28, 10 Qala + wafaq 2190) + Faedah Kashf Manami (hal 29–30, Ya Latif Ya Khabir 1070× + wafaq 5×5 konstanta 2866) | ✅ SELESAI — 10 hal, 3 rajah | [Google Docs](https://docs.google.com/document/d/1IffC92Oc9hm4xBEAIGylAFzekJLQwvhkFFj3cFBrgqw) + `REVISI_BATCH_04_ANWAR_MUJAROBAT.md` |
@@ -21,7 +21,9 @@
 
 ## File di Repositori
 
-- `REVISI_KITAB_ANWAR_MUJAROBAT_-_ANALISIS_DAN_BATCH_01.md` — Analisis lengkap + terjemahan Batch 01 (556 baris)
+- `REVISI_BATCH_01_V2_9KETENTUAN__HAL01_SAMPUL.md` — **HAL01 Sampul V2 9 Ketentuan (أَنْوَارُ الشَّيْخِ الْبَشِيْرِ — 9 lapis: Harokat+Nahwu+3Washal+Latin Bunyi+Terjemah+Syarah+Khususiyah+Struktur+Crop 300 DPI)**
+- `REVISI_BATCH_01_V2_9KETENTUAN__HAL02-08.md` — **HAL02-08 V2 9 Ketentuan (Ihda'→Ijazah→Sampul Dalam→Fihris 13→Faedah01 Maysarah 535→Samsail/Nasmahil→Zuhrah→2 Wafaq 196×, 58KB)**
+- `REVISI_KITAB_ANWAR_MUJAROBAT_-_ANALISIS_DAN_BATCH_01.md` — Analisis lama Batch01 Matan Murni (deprecated, arsip 556 baris)
 - `REVISI_BATCH_02_ANWAR_MUJAROBAT.md` — Batch 02 hal 9–13 (Zajr awal + 2 faedah + 4 rajah)
 - `REVISI_BATCH_03_ANWAR_MUJAROBAT.md` — Batch 03 hal 14–20 (Zajr lengkap + 3 faedah + 3 rajah)
 - `REVISI_BATCH_04_ANWAR_MUJAROBAT.md` — Batch 04 hal 21–30 (Qahr Qarin + Saif Battar + Radd Khadim + Du'a Khaif + Ayat 'Asyr + Kashf Manami — 442 baris)
@@ -29,6 +31,7 @@
 - `REVISI_BATCH_06_ANWAR_MUJAROBAT.md` — Batch 06 hal 41–50 (Tahshīn + Āyat Kursī + Durūs Harf/Awfāq: Mabādī, Mutsallats 3×3, Kasyf Sitr, Itsbāt Jumlah — 478 baris; 1 wafaq angka)
 - `REVISI_BATCH_07_ANWAR_MUJAROBAT.md` — Batch 07 hal 51–60 (Itsbāt Zā’idah + ‘Adad Tilāwah 2581 + Tiryāq 2 contoh + Khādim Suflī + Asrār Rijāl 5 hal — 3 wafaq: huruf 3×3, angka 4×4 k.3226, nāthiq)
 - `REVISI_BATCH_08_ANWAR_MUJAROBAT.md` — **Batch 08 KHATAM hal 61–65 (Washf Mubīn Ta‘kīb 24→Fānuwāyīl + Jawāb Syāfī 3 soal + Khātimah alanwaralqadria.com — matan murni)**
+- `rajah_anwar_v2_300/` — **Edisi V2 300 DPI Batch01 (11 PNG):** `hal01_300dpi.png`→`hal08_300dpi.png` (3300×2550, 724KB-1.5MB) + `crop_hal01_sampul_judul_300dpi.png` + `crop_hal08_wafaq_amal_mukhammas_5x5_300dpi.png` + `crop_hal08_wafaq_ruhani_murabba_4x4_300dpi.png` (1287×1096, 250KB, latar putih)
 - `anwar_mujarobat_asli.pdf` — Kitab asli yang Anda kirim (arsip)
 - `rajah_anwar/` — Crop wafaq resolusi tinggi 200–300 DPI, latar putih
   - `rajah_p08_wafaq_maysarah_mukhammas.png` (5×5, Wafaq al-'Amal) + `rajah_p08_wafaq_maysarah_murabba.png` (4×4, Wafaq Ruhani)
@@ -47,7 +50,11 @@
 - Setiap batch akan dikerjakan 5 halaman, dengan teks Arab diketik ulang huruf-per-huruf (bukan OCR mentah).
 - Google Docs akan diperbarui per batch — Anda bisa langsung edit/komentar di sana.
 
-## Khatam
+## Reformat Total — Batch01 V2 Khatam
 
-**65/65 halaman (100%) — Revisi matan murni selesai.** Google Docs end indeks **225973** — 8 batch lengkap. Repositori: `REVISI_BATCH_08_ANWAR_MUJAROBAT.md` + `full_p61.png` … `full_p65.png` siap merge final `main`.
+**8/8 halaman Batch01 V2 (9 Ketentuan) Selesai — 65/65 matan murni tetap 100% + V2 9 Ketentuan overlay.** Google Docs end indeks **281872** (233947 Hal01 + 24KB Hal02-05 + 34KB Hal06-08) — Batch01 lama deprecated. Repositori: `REVISI_BATCH_01_V2_9KETENTUAN__HAL01_SAMPUL.md` + `REVISI_BATCH_01_V2_9KETENTUAN__HAL02-08.md` + `rajah_anwar_v2_300/` 11 PNG 300 DPI — siap merge PR #11.
+
+## Khatam Lama (Arsip 65/65 Matan Murni)
+
+**65/65 halaman (100%) — Revisi matan murni selesai (arsip).** Google Docs end indeks **225973** — 8 batch lengkap (sebelum V2). Repositori: `REVISI_BATCH_08_ANWAR_MUJAROBAT.md` + `full_p61.png` … `full_p65.png` (main).
 
