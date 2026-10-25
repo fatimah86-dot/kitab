@@ -403,27 +403,143 @@ Tata cara sama Hal11 — wafaq ini yang ditulis di bejana. Tulis angka dengan ti
 
 
 
-## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ
+## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
 
 ### arab
-الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الْاِسْتِنْزَالِ
+الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
 
-اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-إِخْوَتِي فِي اللهِ، كَثِيرًا مَا وَقَعَ لَكُمْ أَنِ اسْتَخْدَمْتُمُ اسْتِنْزَالًا وَحَضَرَ خَادِمُهُ وَسَأَلْتُمْ عَنْ أَمْرٍ فَأَجَابَكُمْ وَوَجَدْتُمْ مَا قَالَهُ كَذِبًا [أَيْ الصَّبِيُّ] وَهَذِهِ الْحَالَةُ تَقَعُ لِمَنْ يَعْمَلُونَ الِاسْتِنْزَالَ عَبْرَ الْوَسِيطِ [أَيْ الصَّبِيِّ]، وَمُعْظَمُ هَذِهِ الِاسْتِنْزَالَاتِ كَاذِبَةٌ وَسَبَبُهُ هُوَ إِمَّا أَنْ يَكُونَ الطَّالِبُ غَيْرَ مُتَمَرِّسٍ وَإِمَّا أَنْ يَكُونَ قَدْ تَمَادَى بِفِعْلِ الِاسْتِنْزَالِ وَطَلَبِ الْخُدَّامِ وَسُؤَالِهِمْ عَنْ أُمُورٍ تُحَقِّرُ مِنْ مَكَانَتِهِمْ خُصُوصًا إِذَا كَانَ الْخَادِمُ عُلْوِيًّا فَإِنَّهُ يَمْتَنِعُ عَنِ النُّزُولِ وَيَدْخُلُ مَكَانَهُ خَادِمٌ سُفْلِيٌّ كَذَّابٌ، [لَيْسَتِ الْإِشَارَةُ هُنَا لِلْمُلُوكِ السَّبْعِ فَهِيَ لَا تَنْزِلُ أَبَدًا تَنْزِلُ فِي اسْتِنْزَالِ نَفْسِي رَبَّانِيٍّ].
+إِخْوَتِي فِي اللهِ، كَثِيرًا مَا وَقَعَ لَكُمْ أَنِ اسْتَخْدَمْتُمُ اسْتِنْزَالًا وَحَضَرَ خَادِمُهُ وَسَأَلْتُمُوهُ عَنْ أَمْرٍ فَأَجَابَكُمْ عَنْهُ وَوَجَدْتُمْ مَا قَالَهُ كَذِبًا [أَيْ الصَّبِيِّ]، وَهَذِهِ الْحَالَةُ تَقَعُ لِمَنْ يَعْمَلُونَ الِاسْتِنْزَالَ عَبْرَ الْوَسِيطِ [أَيْ الصَّبِيِّ]، وَمُعْظَمُ هَذِهِ الِاسْتِنْزَالَاتِ كَاذِبَةٌ، وَالسَّبَبُ هُوَ إِمَّا أَنْ يَكُونَ الطَّالِبُ غَيْرَ مُتَمَرِّسٍ، وَإِمَّا أَنْ يَكُونَ قَدْ تَمَادَى بِفِعْلِ الِاسْتِنْزَالِ وَطَلَبِ الْخُدَّامِ وَسُؤَالِهِمْ عَنْ أُمُورٍ تُحَقِّرُ مِنْ مَكَانَتِهِمْ، خُصُوصًا إِذَا كَانَ الْخَادِمُ عُلْوِيًّا فَإِنَّهُ يَمْتَنِعُ عَنِ النُّزُولِ وَيَدْخُلُ مَكَانَهُ خَادِمٌ سُفْلِيٌّ كَذَّابٌ [عُلْوِيًّا لَيْسَتِ الْإِشَارَةُ هُنَا لِلْمُلُوكِ السَّبْعَةِ فَهِيَ لَا تَنْزِلُ أَبَدًا إِلَّا فِي اسْتِنْزَالٍ نَفْسِيٍّ رَبَّانِيٍّ]
 
-وَهَذِهِ فَائِدَةٌ قَاطِعَةٌ لِزَجْرِ خَادِمِ الِاسْتِنْزَالِ وَحَثِّهِمْ عَلَى قَوْلِ الْحَقِّ، وَلَا تُخْبِرِ النَّاظِرَ بِمَا تُرِيدُ فِعْلَهُ كَيْ تَتَأَكَّدَ مِمَّا يَنْظُرُ لَهُ، بَعْدَ مَا تَعْمَلُ الِاسْتِنْزَالَ وَيُخْبِرُكَ بِحُضُورِ الْخَادِمِ تَتْلُو هَذِهِ الْآيَةَ ٧ مَرَّاتٍ وَأَنْتَ مَاسِكٌ بِجَبْهَةِ النَّاظِرِ لِتُثْقِفَهُ، [وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَكِنْ كَرِهَ اللهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ] وَبَعْدَ ذَلِكَ تَأْمُرُهُ بِالشَّهَادَتَيْنِ وَالصَّلَاةِ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ثُمَّ تَأْمُرُهُ أَنْ يَأْتِيَ بِالْمُصْحَفِ الشَّرِيفِ وَيَفْتَحَهُ فِي سُورَةِ الْمُجَادَلَةِ وَأَمْرُ النَّاظِرِ أَنْ يَبْدَأَ فِي قِرَاءَةِ السُّورَةِ لِتَتَأَكَّدَ أَنَّهَا هِيَ بَعْدَ ذَلِكَ تَأْمُرُ الْخَادِمَ أَنْ يَضَعَ يَدَهُ الْيُمْنَى عَلَيْهَا وَيُعَاهِدَكَ بِقَوْلِ الْحَقِّ وَأَنْ أَبِي وَهُوَ سَيَفْعَلُ ذَلِكَ لَا مَحَالَةَ أَزْجُرَهُ بِهَذَا الزَّجْرِ الْقَاطِعِ
+وَهَذِهِ فَائِدَةٌ قَاطِعَةٌ لِزَجْرِ خُدَّامِ الِاسْتِنْزَالِ وَحَثِّهِمْ عَلَى قَوْلِ الْحَقِّ، وَلَا تُخْبِرِ النَّاظِرَ بِمَا تُرِيدُ فِعْلَهُ كَيْ تَتَأَكَّدَ مِمَّا يَنْظُرُ لَهُ، بَعْدَ مَا تَعْمَلُ الِاسْتِنْزَالَ وَيُخْبِرُكَ بِحُضُورِ الْخَادِمِ تَتْلُو هَذِهِ الْآيَةَ سَبْعَ مَرَّاتٍ وَأَنْتَ مَاسِكٌ بِجَبْهَةِ النَّاظِرِ لِتَثْقِيفِهِ:
+
+﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَكِنْ كَرِهَ اللهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾
+
+وَبَعْدَ ذَلِكَ تَأْمُرُهُ بِالشَّهَادَتَيْنِ وَالصَّلَاةِ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ تَأْمُرُهُ أَنْ يَأْتِيَ بِالْمُصْحَفِ الشَّرِيفِ وَيَفْتَحَهُ فِي سُورَةِ الْمُجَادَلَةِ، وَأْمُرِ النَّاظِرَ أَنْ يَبْدَأَ فِي قِرَاءَةِ السُّورَةِ لِتَتَأَكَّدَ أَنَّهَا هِيَ، بَعْدَ ذَلِكَ تَأْمُرُ الْخَادِمَ أَنْ يَضَعَ يَدَهُ الْيُمْنَى عَلَيْهَا وَيُعَاهِدَكَ بِقَوْلِ الْحَقِّ، وَإِنْ أَبَى وَهُوَ سَيَفْعَلُ ذَلِكَ لَا مَحَالَةَ ازْجُرْهُ بِهَذَا الزَّجْرِ الْقَاطِعِ:
 
 ### latin
-Az-zajrul-qāthi'u li'akhdzil-'ahdi wal-mītsāqi 'alā khādimi al-istinzāli, as-salāmu 'alaikum ..., ikhwatī fillāh katsīram-mā waqa'a lakum anistakhdamtumu istinzālan wa hadhara khādimuhu wa sa'altumuhu 'an amrin fa'ajābakum wa wajadtum mā qālahu kadziban [ay ash-shabiyyu] ...
+Az-Zajrul-qāthi‘u li’akhdzil-‘ahdi wal-mītsāqi ‘alā khādimil-istinzāli
+
+As-salāmu ‘alaikum wa rahmatullāhi wa barakātuh
+
+Ikhwatī fillāhi, katsīran mā waqa‘a lakum ani istakhdamtumu istinzālan wa hadhara khādimuhu wa sa’altumūhu ‘an amrin fa’ajābakum ‘anhu wa wajadtum mā qālahu kadziban [ay ash-shabiyyi], wa hādzihil-ḥālatu taqa‘u liman ya‘malūnal-istinzāla ‘abral-wasīthi [ay ash-shabiyyi], wa mu‘zhamu hādzihil-istinzālātsi kādzibatun, was-sababu huwa immā an yakūna ath-thālibu ghaira mutamarrisin, wa immā an yakūna qad tamādā bifi‘lil-istinzāli wa thalabil-khuddāmi wa su’ālihim ‘an umūrin tuhaqqiru min makānatihim, khushūshan idzā kānal-khādimu ‘ulwiyyan fa’innahu yamtani‘u ‘anin-nuzūli wa yadkhulu makānahu khādimun sufliyyun kadzdzābun [‘ulwiyyan laisatil-isyāratu hunā lil-mulūkis-sab‘ati fahiya lā tanzilu abadan illā fī istinzālin nafsiyyin rabbāniyyin]
+
+Wa hādzihi fā’idatun qāthi‘atun lizajri khuddāmil-istinzāli wa hatstsihim ‘alā qaulil-ḥaqqi, wa lā tukhbirin-nāzhira bimā turīdu fi‘lahu kai tata’akkada mimmā yanzhuru lahu, ba‘da mā ta‘malul-istinzāla wa yukhbiruka biḥudhūril-khādimi tatlū hādzihil-āyata sab‘a marrātin wa anta māsikun bijabhatin-nāzhiri litatsqīfihi:
+
+﴿ Wa lau arādul-khurūja la’a‘addū lahu ‘uddatan wa lākin karihallāhub‘ātsahum fatsabbathahum wa qīla iq‘udū ma‘al-qā‘idīna ﴾ (QS At-Taubah: 46)
+
+Wa ba‘da dzālika ta’muruhu bisy-syahādataini wash-shalāti ‘alan-nabiyyi shallallāhu ‘alaihi wa sallama, tsumma ta’muruhu an ya’tiya bil-mushḥafisy-syarīfi wa yaftahahu fī sūratil-mujādalati, wa’murin-nāzhira an yabda’a fī qirā’atis-sūrati litata’akkada annahā hiya, ba‘da dzālika ta’murul-khādima an yadha‘a yadahul-yumnā ‘alaihā wa yu‘āhidaka biqaulil-ḥaqqi, wa in abā wa huwa saya‘alu dzālika lā maḥālata izjurhu bihādzaz-zajril-qāthi‘i:
 
 ### Terjemahan
-Bentakan pemutus untuk mengambil janji dan sumpah atas khadam istinzal. Assalamu'alaikum warahmatullahi wabarakatuh. Wahai saudara-saudaraku karena Allah, sering terjadi pada kalian bahwa kalian menggunakan istinzal dan khadamnya hadir dan kalian bertanya tentang suatu perkara lalu ia menjawab kalian dan kalian dapati apa yang dikatakannya dusta [yaitu anak kecil], dan keadaan ini terjadi bagi orang yang melakukan istinzal melalui perantara [yaitu anak kecil], dan kebanyakan istinzal-istinzal ini dusta dan sebabnya adalah entah penanya belum terlatih atau ia telah berlebihan dalam melakukan istinzal dan meminta para khadam dan bertanya kepada mereka tentang hal-hal yang merendahkan kedudukan mereka, terutama jika khadam itu 'ulwi maka ia enggan turun dan masuk menggantikannya khadam suflie yang pendusta. [Bukanlah isyarat di sini untuk tujuh raja, mereka tidak turun sama sekali, turun dalam istinzal nafsi rabbaniy]. Dan ini adalah faedah pemutus untuk membentak khadam istinzal dan mendorong mereka untuk berkata jujur. Jangan beri tahu penglihat tentang apa yang hendak kau lakukan agar kau yakin tentang apa yang ia lihat. Setelah engkau melakukan istinzal dan ia mengabarkan kehadiran khadam, bacalah ayat ini 7 kali sambil memegang dahi penglihat untuk menahannya: [Wa Lau Araadul-Khuruja La-a'addulah 'Uddatan wa Lakin Karihallahu Inbi'atsahum fa Tsabbathahum wa Qila Iq'udu ma'al-Qa'idin]. Setelah itu perintahkan ia dengan dua kalimat syahadat dan shalawat kepada Nabi shallallahu 'alaihi wa sallam, kemudian perintahkan ia untuk datang dengan mushaf yang mulia dan membukanya pada surah Al-Mujadalah dan perintahkan penglihat untuk mulai membaca surah itu agar kau yakin bahwa itu benar, setelah itu perintahkan khadam untuk meletakkan tangan kanannya di atasnya dan berjanji kepadamu untuk berkata jujur. Ayahku telah melakukannya dan dia pasti akan melakukannya, tidak dapat tidak, bentaklah ia dengan bentakan pemutus ini.
+Gertakan Pemutus untuk Mengambil Sumpah dan Janji atas Khādim Istinzāl:
 
-### 4. Syarah dan Penjelasan
-Faedah ini Faedah 04 awal (Hal13) — pengantar Zajr Qathi' yang akan berlanjut Hal14 (wafaq hijau 8-bagian). Istinzal via shabiyy = memanggil khadim lewat anak kecil polos (wasith) — praktik klasik, rawan dusta. Penulis membedakan 'ulwi vs suflī: 'ulwi luhur tak turun untuk hal remeh; jika dipaksa turun, suflī pendusta masuk. [Bukan 7 mulūk] = 7 raja jin (Mudzhib, Murrah, Ahmar, Barqan, Syamhūraš, Abyadh, Maymūn) tidak turun dalam istinzal nafsi rabbani — penegasan batas. Ayat At-Taubah 46 = kunci tahan agar khadim tak kabur (la'a'ddū ...). Mushaf & Mujādalah = sumpah di atas mushaf untuk verifikasi jujur — adab bukan sihir.
+“Assalāmu‘alaikum warahmatullāhi wabarakātuh.
 
-### 5. Khususiyah dan Tatacara Praktik
-Khasiat: mengikat khadim istinzal agar jujur & tepati janji. Tata cara Hal13 (pengantar): jangan bocorkan niat ke nāzhir, baca ayat 7× sambil pegang dahi, syahadatain + shalawat, mushaf Mujādalah, tangan kanan di atasnya. Zajr lengkap menyusul Hal14. Syarat: thālib harus mutamarris (terlatih), jangan bertanya merendahkan khadim.
+Wahai saudara-saudaraku karena Allah, sering terjadi pada kalian bahwa kalian telah menggunakan suatu istinzāl (teknik menghadirkan khādim ghaib melalui perantara), lalu khādimnya hadir dan kalian bertanya kepadanya tentang suatu urusan, kemudian ia menjawab kalian *tentang urusan itu* namun ternyata apa yang dikatakannya kalian dapati sebagai kedustaan — [yaitu perantara anak kecil tersebut (ash-shabiyy)]. Keadaan seperti ini menimpa orang-orang yang melakukan istinzāl melalui perantara (al-wasīth) [yaitu anak kecil], dan mayoritas istinzāl-istinzāl seperti ini adalah dusta. Sebabnya ialah terkadang sang penuntut ilmu (ath-thālib) belum terlatih/mahir, dan terkadang ia telah berlebihan dalam melakukan istinzāl serta meminta para khādim dan menanyai mereka tentang perkara-perkara yang merendahkan kedudukan mereka. Khususnya apabila khādim tersebut tergolong ‘ulwiyy (luhur/atas), maka ia enggan untuk turun lalu masuk menggantikannya khādim suflī (bawah/rendah) yang pendusta — [yang dimaksud ‘ulwiyy di sini bukanlah isyarat kepada tujuh raja jin; mereka tidak akan pernah turun sama sekali kecuali dalam istinzāl nafsī rabbānī (istinzāl kejiwaan yang bersifat ketuhanan/rabbani)].
+
+Dan ini adalah faedah yang ampuh untuk menggertak para khādim istinzāl dan mendorong mereka agar berkata benar: Jangan beritahu sang penglihat (an-nāzhir) tentang apa yang hendak kamu lakukan agar kamu dapat memastikan kebenaran apa yang ia lihat. Setelah kamu melakukan istinzāl dan ia memberitahumu tentang kehadiran khādim, bacalah ayat berikut sebanyak **tujuh kali** dalam keadaan kamu **memegang dahi an-nāzhir untuk mengunci/menguatkannya (li-tatsqīfihi)**:
+
+﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَٰكِن كَرِهَ اللَّهُ انبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾ (QS At-Taubah: 46)
+
+Setelah itu, perintahkan ia (khādim melalui perantara) untuk mengucapkan dua kalimat syahadat dan shalawat kepada Nabi shallallāhu ‘alaihi wa sallam. Kemudian perintahkan ia untuk mendatangkan mushaf yang mulia dan membukanya pada **Surah al-Mujādalah**. Perintahkan an-nāzhir untuk mulai membaca surah tersebut agar kamu dapat memastikan bahwa yang terbuka memang surah itu. Setelah itu, perintahkan khādim untuk meletakkan tangan kanannya di atas mushaf tersebut dan berjanji kepadamu untuk berkata benar. **Jika ia menolak — padahal ia pasti akan melakukannya, tidak dapat tidak — maka gertaklah ia dengan gertakan pemutus (az-zajr al-qāthi‘) berikut ini:”
+
+### Syarah dan Penjelasan
+Halaman ini adalah **muqaddimah Zajr Qāthi‘ (Bagian 1/3)** — etika istinzāl melalui perantara anak kecil (ash-shabiyy/an-nāzhir al-wasīth). Penulis menegaskan dua penyebab utama kedustaan khādim: (1) *ghairu mutamarris* — penuntut belum mahir menguasai adab istinzāl, dan (2) *tamādā* — berlebihan meminta khādim untuk hal-hal remeh yang merendahkan martabat khādim ‘ulwī. ‘Ulwī vs suflī: khādim luhur bersifat mulia, tidak sudi turun untuk urusan rendah; kekosongan diisi khādim suflī pendusta. Penegasan **[bukan tujuh raja]** membatasi: tujuh raja jin agung (Mudzhab, Murrah, al-Aḥmar, Barqān, Syamhūrasy, al-Abyadh, Maimūn) tidak turun dalam istinzāl biasa, hanya dalam *istinzāl nafsī rabbānī* — praktik sufi tingkat tinggi dengan penyucian jiwa, bukan sekadar panggil-memanggil. Koreksi penting: *fa-ajābakum ‘anhu* — jawaban **tentang** persoalan yang ditanyakan, bukan jawaban umum; detail “‘anhu” dihilangkan dalam naskah Final lama. *Litatsqīfihi* — mengunci/memperkuat penglihatan nāzhir, bukan sekadar “menahan”: akar *tsaqafa* berarti menegakkan/meluruskan. Ayat At-Taubah: 46 — *lau arādul-khurūja...* — berfungsi sebagai *qufl* (kunci) agar khādim suflī tidak kabur: “jika mereka ingin keluar...” dibaca 7× sambil memegang dahi — sinkronisasi fisik-spiritual. Sumpah di atas al-Mujādalah — dipilih karena setiap ayatnya mengandung Lafzh al-Jalālah (Allah), sehingga jin fasik takut bersumpah palsu di atasnya; nāzhir diperintah membaca untuk verifikasi objektif (anti-sugesti).
+
+### Khususiyah dan Tatacara Praktik
+Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). Tata cara yang diajarkan: (1) Rahasiakan niat dari nāzhir (uji buta), (2) Setelah istinzāl dan laporan “khādim hadir”, pegang dahi nāzhir dan baca At-Taubah: 46 sebanyak 7× — niat mengunci (tatsqīf), (3) Syahadatain + shalawat (memurnikan saluran), (4) Hadirkan mushaf, buka al-Mujādalah, verifikasi bacaan nāzhir, (5) Letakkan tangan kanan khādim di atas mushaf dan minta sumpah jujur — jika menolak, lanjutkan ke Hal14 (Az-Zajr al-Qāthi‘). Pantangan: jangan lakukan untuk main-main, jaga adab, jangan tanya hal merendahkan. Waktu tidak terikat, namun dianjurkan suci (wudhu) dan menghadap kiblat. Kegagalan biasanya karena thālib ghairu mutamarris — perbanyak riyādhah sebelum mengulang.
+
+![Halaman 13 — Scan 300 DPI](rajah_anwar_v2_300/hal13_300dpi.png)
+[Gambar: Halaman 13 — Zajr Qathi' 1/3 — 7× At-Taubah 46 + sumpah Mujādalah]
+
+
+
+## HALAMAN 14 — ZAJR QATHI' 2/3 — مَتْنُ الزَّجْرِ الْقَاطِعِ لِخَادِمِ الِاسْتِنْزَالِ
+
+### arab
+بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ، الْمَلِكِ الْحَقِّ الْمُبِينِ، الَّذِي قَالَ فِي مُحْكَمِ كِتَابِهِ الْكَرِيمِ:
+
+﴿ الم ۝ اللهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۝ نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَأَنْزَلَ التَّوْرَاةَ وَالْإِنْجِيلَ ۝ مِنْ قَبْلُ هُدًى لِلنَّاسِ وَأَنْزَلَ الْفُرْقَانَ إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِ اللهِ لَهُمْ عَذَابٌ شَدِيدٌ وَاللهُ عَزِيزٌ ذُو انْتِقَامٍ ﴾
+
+﴿ سَنُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ بِمَا أَشْرَكُوا بِاللهِ مَا لَمْ يُنَزِّلْ بِهِ سُلْطَانًا وَمَأْوَاهُمُ النَّارُ وَبِئْسَ مَثْوَى الظَّالِمِينَ ﴾
+
+﴿ لَهُمْ مِنْ جَهَنَّمَ مِهَادٌ وَمِنْ فَوْقِهِمْ غَوَاشٍ وَكَذَلِكَ نَجْزِي الظَّالِمِينَ ﴾
+
+﴿ إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ ﴾
+
+انْزِلُوا يَا مَلَائِكَةَ رَبِّي عَلَى هَؤُلَاءِ الْأَعْوَانِ بِالضَّرْبِ وَالْقَصْفِ وَالْعَذَابِ الشَّدِيدِ حَتَّى يُطِيعُوا أَمْرِي وَيُعَاهِدُونِي عَلَى قَوْلِ الْحَقِّ بِحَقِّ اللهِ الْمَلِكِ الْحَقِّ الْمُبِينِ، أَجِيبُوا وَأَطِيعُوا يَا مَعْشَرَ الْخُدَّامِ، فَإِنْ عَصَيْتُمْ وَأَبَيْتُمْ فَلَا أَرْضَ تُقِلُّكُمْ وَلَا سَمَاءَ تُظِلُّكُمْ وَلَا أَيْنَ تَهْرُبُونَ وَلَا أَيْنَ تُمْنَعُونَ، وَأَسْمَاءُ اللهِ مُحِيطَةٌ بِكُمْ، وَعَزِيمَتِي هَذِهِ نَارٌ وَحَرِيقٌ عَلَيْكُمْ
+
+فَإِنِّي أَقْسَمْتُ عَلَيْكُمْ بِاللهِ الْعَظِيمِ وَبِحَقِّ هَذَا الْقَسَمِ الْعَظِيمِ أَنْ تَجْعَلُوا كَلِمَتِي عِنْدَكُمْ سَارِيَةً نَافِذَةً، وَكَلَامِي عِنْدَكُمْ مَسْمُوعًا مَقْبُولًا، وَأَنْ تَخْدُمُونِي وَتُطِيعُونِي وَتُعَاهِدُونِي عَلَى قَوْلِ الْحَقِّ بِحَقِّ مَا أَقْسَمْتُ بِهِ عَلَيْكُمْ، وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ، تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا
+
+هَيَّا يَا مَعْشَرَ الْخُدَّامِ، زَجَرْتُكُمْ زَجْرًا وَدَعَوْتُكُمْ دَعْوَةً لَا خَلَاصَ لَكُمْ مِنْهَا وَلَا مَفَرَّ لَكُمْ مِنْهَا حَتَّى تُطِيعُوا أَمْرِي
+
+فَهَكَذَا سَيُعَاهِدُكَ وَيَضَعُ يَدَهُ عَلَى السُّورَةِ، عِنْدَهَا اقْرَإِ الْآيَةَ:
+
+﴿ وَأَوْفُوا بِعَهْدِ اللهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللهَ عَلَيْكُمْ كَفِيلًا ﴾
+
+ثُمَّ اصْرِفْهُ وَلَا تَعْمَلِ الِاسْتِنْزَالَ ذَلِكَ الْيَوْمَ، فَإِنْ عَمِلْتَ الِاسْتِنْزَالَ بَعْدَهَا سَتَجِدُ مَا يَقُولُ لَكَ حَقًّا وَيَكُونُ مَعَكَ صَادِقًا بِإِذْنِ اللهِ
+
+نَفَعَنِي اللهُ وَإِيَّاكُمْ بِالْقُرْآنِ الْعَظِيمِ وَحَشَرَنِي وَإِيَّاكُمْ فِي زُمْرَةِ الْمُتَّقِينَ وَغَفَرَ لِي وَلَكُمْ وَلِلْمُؤْمِنِينَ أَجْمَعِينَ، وَالسَّلَامُ
+
+### latin
+Bismillāhir-raḥmānir-raḥīm, al-malikil-ḥaqqil-mubīn, alladzī qāla fī muḥkami kitābihil-karīm:
+
+﴿ Alif-Lām-Mīm, Allāhu lā ilāha illā huwal-ḥayyul-qayyūmu, nazzala ‘alaikal-kitāba bil-ḥaqqi mushaddiqan limā baina yadaihi wa anzalat-taurāta wal-injīla, min qablu hudan lin-nāsi wa anzalal-furqāna innalladzīna kafarū bi’āyātillāhi lahum ‘adzābun syadīdun wallāhu ‘azīzun dzun-tiqāmin ﴾ (QS Āli ‘Imrān: 1-4)
+
+﴿ Sanulqī fī qulūbilladzīna kafarūr-ru‘ba bimā asyrakū billāhi mā lam yunazzil bihi sulthānan wa ma’wāhumun-nāru wa bi’sa matswāzh-zhālimīna ﴾ (QS Āli ‘Imrān: 151)
+
+﴿ Lahum min jahannama mihādun wa min fauqihim ghawāsyin wa kadzālika najzīzh-zhālimīna ﴾ (QS Al-A‘rāf: 41)
+
+﴿ Idz yūḥī rabbuka ilal-malā’ikati annī ma‘akum fatsabbitulladzīna āmanū sa’ulqī fī qulūbilladzīna kafarūr-ru‘ba fadhribū fauqal-a‘nāqi wadhribū minhum kulla banānin ﴾ (QS Al-Anfāl: 12)
+
+Inzilū yā malā’ikata rabbī ‘alā hā’ulā’il-a‘wāni bidh-dharbi wal-qashfi wal-‘adzābisy-syadīdi ḥattā yuthī‘ū amrī wa yu‘āhidūnī ‘alā qaulil-ḥaqqi biḥaqqillāhil-malikil-ḥaqqil-mubīni, ajībū wa athī‘ū yā ma‘syarak-khuddāmi, fa’in ‘ashaitum wa abaitum falā ardha tuqillukum wa lā samā’a tuzhillukum wa lā aina tahrubūna wa lā aina tumna‘ūna, wa asmā’ullāhi muḥīthatun bikum, wa ‘azīmatī hādzihi nārun wa ḥarīqun ‘alaikum
+
+Fa’innī aqsamtu ‘alaikum billāhil-‘azhīmi wa biḥaqqi hādzal-qasamil-‘azhīmi an taj‘alū kalimatī ‘indakum sāriyatan nāfidzatan, wa kalāmī ‘indakum masmū‘an maqbūlan, wa an takhdumūnī wa tuthī‘ūnī wa tu‘āhidūnī ‘alā qaulil-ḥaqqi biḥaqqi mā aqsamtu bihī ‘alaikum, wa innahu laqasamun lau ta‘lamūna ‘azhīmun, takādus-samāwātu yatafaththarna minhu wa tansyaqqul-ardhu wa takhirrul-jibālu haddan
+
+Hayyā yā ma‘syarak-khuddāmi, zajartukum zajran wa da‘autukum da‘watan lā khalāsha lakum minhā wa lā mafarra lakum minhā ḥattā tuthī‘ū amrī
+
+Fahākadzā sayu‘āhiduka wa yadha‘u yadahu ‘alas-sūrati, ‘indahāq-ra’il-āyata:
+
+﴿ Wa aufū bi‘ahdillāhi idzā ‘āhadtum wa lā tanqudhul-aimāna ba‘da taukīdihā wa qad ja‘altumullāha ‘alaikum kafīlan ﴾ (QS An-Naḥl: 91)
+
+Tsummash-rifhu wa lā ta‘malil-istinzāla dzālikal-yauma, fa’in ‘amiltal-istinzāla ba‘dahā satajidu mā yaqūlu laka ḥaqqan wa yakūnu ma‘aka shādiqan bi’idznillāhi
+
+Nafa‘aniyallāhu wa iyyākum bil-qur’ānil-‘azhīmi wa ḥasyaranī wa iyyākum fī zumratil-muttaqīna wa ghafara lī wa lakum wa lil-mu’minīna ajma‘īna, was-salāmu
+
+### Terjemahan
+Teks Gertakan Pemutus Khādim Istinzāl (Az-Zajr al-Qāthi‘):
+
+“Dengan nama Allah Yang Maha Pengasih Maha Penyayang, Yang Merupakan Raja Yang Maha Benar lagi Maha Nyata, Yang berfirman dalam Kitab-Nya yang muhkam lagi mulia:
+
+• ‘Alif Lām Mīm. Allah, tiada tuhan selain Dia Yang Maha Hidup lagi terus-menerus mengurus (makhluk-Nya). Dia menurunkan kepadamu Kitab dengan hak, membenarkan apa yang ada di hadapannya, dan menurunkan Taurat dan Injil — sebelumnya sebagai petunjuk bagi manusia — dan menurunkan al-Furqān. Sesungguhnya orang-orang yang kafir terhadap ayat-ayat Allah, bagi mereka azab yang keras, dan Allah Mahaperkasa Pemilik balasan siksaan’ (QS Āli ‘Imrān: 1-4).
+
+• ‘Akan Kami masukkan ke dalam hati orang-orang kafir rasa takut disebabkan mereka mempersekutukan Allah dengan sesuatu yang Allah tidak menurunkan keterangan pun tentangnya, dan tempat kembali mereka ialah neraka, dan seburuk-buruk tempat tinggal orang-orang zhalim’ (QS Āli ‘Imrān: 151).
+
+• ‘Bagi mereka hamparan dari neraka Jahannam dan di atas mereka selimut (api), demikianlah Kami membalas orang-orang yang zhalim’ (QS al-A‘rāf: 41).
+
+• ‘(Ingatlah) ketika Tuhanmu mewahyukan kepada para malaikat: Sesungguhnya Aku bersamamu, maka teguhkanlah orang-orang yang beriman, akan Aku masukkan rasa takut ke dalam hati orang-orang kafir, maka penggallah di atas leher (mereka) dan penggallah tiap-tiap ujung jari mereka’ (QS al-Anfāl: 12).
+
+Turunlah wahai malaikat-malaikat Tuhanku kepada para pembantu/khādim ini dengan pukulan, sambaran petir, dan azab yang keras hingga mereka menaati perintahku dan berjanji kepadaku untuk berkata benar, demi hak Allah Raja Yang Maha Benar lagi Maha Nyata! Jawablah dan taatilah wahai sekumpulan khādim! Maka jika kalian durhaka dan enggan, maka tidak ada bumi yang akan menopang kalian, tidak ada langit yang akan menaungi kalian, tidak ada tempat kalian lari, dan tidak ada tempat kalian berlindung — sedangkan Nama-Nama Allah meliputi kalian! Dan ‘azīmah-ku ini adalah api dan pembakaran atas kalian!
+
+Maka sesungguhnya aku telah bersumpah atas kalian demi Allah Yang Maha Agung dan demi hak sumpah yang agung ini agar kalian menjadikan kata-kataku berlaku dan menembus di sisi kalian, dan perkataanku didengar lagi diterima di sisi kalian, dan agar kalian melayaniku, menaatiku, dan berjanji kepadaku untuk berkata benar demi hak apa yang telah aku sumpahkan atas kalian. Dan sesungguhnya ia benar-benar sumpah yang agung — jika kalian mengetahui — yang hampir-hampir langit pecah karenanya, bumi terbelah, dan gunung-gunung runtuh hancur berkeping-keping!
+
+Bersegeralah wahai sekumpulan khādim, aku telah menggertak kalian dengan satu gertakan dan menyeru kalian dengan satu seruan yang tidak ada keselamatan bagi kalian darinya dan tidak ada tempat lari bagi kalian darinya hingga kalian menaati perintahku!’
+
+Tahap Pengikatan Janji:
+
+Maka dengan cara seperti inilah ia (khādim) akan berjanji kepadamu dan meletakkan tangannya di atas surah (al-Mujādalah di mushaf). Pada saat itu bacalah ayat:
+
+﴿ وَأَوْفُوا بِعَهْدِ اللهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللهَ عَلَيْكُمْ كَفِيلًا ﴾ (QS an-Naḥl: 91)
+
+Kemudian pulangkanlah ia (ishrāf) dan jangan melakukan istinzāl pada hari itu juga. Maka sesungguhnya jika kamu melakukan istinzāl setelahnya (hari berikutnya), kamu akan mendapati apa yang ia katakan kepadamu adalah benar dan ia akan senantiasa jujur bersamamu — dengan izin Allah.
+
+Semoga Allah memberi manfaat kepadaku dan kepada kalian melalui al-Qur’an yang agung, mengumpulkan aku dan kalian dalam rombongan orang-orang yang bertakwa, dan mengampuni diriku, kalian, dan seluruh orang-orang mukmin semuanya. Wassalām.”
+
+### Syarah dan Penjelasan
+Halaman ini adalah **matan Az-Zajr al-Qāthi‘ (Bagian 2/3 — inti ancaman)**. Strukturnya tersusun sebagai *‘azīmah qasamiyyah* (sumpah pengikat) dengan empat lapis ayat azab: (1) Āli ‘Imrān: 1-4 — tauḥīd dan ancaman bagi kafir ayat Allah, menegaskan otoritas Rabb al-‘Arsy; (2) Āli ‘Imrān: 151 — *ru‘b* (rasa takut) yang dilemparkan ke hati musuh — untuk melemahkan mental jin suflī; (3) al-A‘rāf: 41 — gambaran Jahanam sebagai pembalasan zhalim — untuk menggetarkan khādim yang zhalim/pendusta; (4) al-Anfāl: 12 — wahyu kepada malaikat untuk memenggal leher dan ujung jari — memanggil *malā’ikatul-‘adzāb* sebagai eksekutor spiritual. Keempatnya dirangkai dalam satu silsilah *qāla fī muḥkami kitābihil-karīm* — bukan sekadar kutipan, melainkan istidlāl bahwa Allah sendiri telah menetapkan sunnah penghukuman. Seruan *inzilū yā malā’ikata rabbī* — bukan memerintah malaikat secara hakiki (yang hanya patuh pada Allah), melainkan tawassul: memohon agar Allah memerintahkan malaikat-Nya untuk menekan khādim — adab hikmah Qādiriyyah membedakan *amr takwīnī* (Allah) dan *amr ta‘abbudī* (manusia). Ancaman *falā ardha tuqillukum...* menggunakan struktur *lā nāfiyatu lil-jinsi* — negasi total: tidak ada tempat berlindung di semesta — menegaskan bahwa Asmā’ Allah *muḥīthah* (meliputi). ‘Azīmah “*nārun wa ḥarīqun ‘alaikum*” — api hakiki bagi entitas halus yang hakikatnya dari api — maka api Asmā’ lebih membakar. Puncak sumpah mengutip QS al-Ḥāqqah: *wa innahu laqasamun lau ta‘lamūna ‘azhīm* dan QS Maryam/asy-Syūrā: *takādus-samāwātu yatafattharna...* — sumpah yang mengguncang langit-bumi, sebagai *tahdīd* final. Penutup *fahākadzā sayu‘āhiduka* — janji akan terjadi *lā maḥālata* (pasti), namun tetap disempurnakan dengan An-Naḥl: 91 — *wa aufū bi‘ahdillāhi...* — mengikat janji manusia-jin di atas kalam Allah. Perintah *tshummash-rifhu wa lā ta‘malil-istinzāla dzālikal-yauma* — *karantina satu hari* (tark al-istinzāl yaumahu) — memberi jeda stabilisasi gelombang (istidlāl penulis: “baru pada hari berikutnya istinzāl siap 100% jujur”). Doa penutup *nafa‘aniyallāhu...* — adab khatam dengan shalawat Fatihah dan istighfar kolektif, ciri khas Syaikh al-Basyīr.
+
+### Khususiyah dan Tatacara Praktik
+Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan setelah penolakan khādim untuk bersumpah. Cara baca: menghadap kiblat, dalam keadaan suci, suara tegas (jahr) tetapi tidak berteriak memekik — “*zajara zajran*” (gertakan mantap). Empat ayat dibaca berurutan dengan tartīl, lalu seruan *inzilū...* hingga *ḥattā tuthī‘ū amrī* — satu nafas jika mampu, atau pecah dua. Jangan menambah/mengurangi ayat — keempatnya adalah *rukun Zajr*. Setelah selesai, jangan lanjutkan istinzāl hari itu — *ishrāf* (pulangkan) khādim dengan salam. Keesokan harinya, istinzāl dapat dipakai untuk hajat halal — khādim kini *mu‘āhad* (terikat janji) dan akan *shādiqan bi’idznillāhi*. Larangan: jangan gunakan untuk menanyakan aib orang, judi, atau sihir pemisah — sumpah akan batal dan khādim kembali suflī. Kelebihan khusus: metode ini adalah *filter permanen* — sekali diikat, semua istinzāl berikutnya tersaring otomatis dari dusta, berbeda dengan ruqyah biasa yang bersifat temporer.
 
 
