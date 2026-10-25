@@ -1,5 +1,3 @@
-# REVISI HAL 65 — خَاتِمَةُ الْكِتَابِ (KOLOFON PENUTUP)
-
 ## HALAMAN 65 — خَاتِمَةُ الْكِتَابِ
 
 ### arab

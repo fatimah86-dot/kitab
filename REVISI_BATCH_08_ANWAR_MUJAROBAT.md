@@ -1,13 +1,9 @@
-# REVISI KITAB ANWAR MUJAROBAT SYEIKH BASYIR — BATCH 08 (KHATAM)
 ## Halaman 61–65 (al-Washf al-Mubīn + al-Jawāb al-Syāfī + Khātimah)
 
 **Format:** [Teks Arab Asli] → [Transliterasi Latin] → [Terjemahan Indonesia] — Matan Murni
 **Sumber:** anwar_mujarobat_asli.pdf — Halaman PDF 61–65 (scan 65 hal, 5 hal terakhir)
 **Tanggal Revisi:** 25 Oktober 2026 — Cabang `arena/3d1b07bc-kitab`
 **Catatan:** Batch penutup & khatam. Hal 61: al-Washf al-Mubīn ba‘da Tamwīh al-Mudda‘īn fī Kaifiyyat Istikhrāj al-Rūhānī (metode ta‘kīb). Hal 62–64: al-Jawāb al-Syāfī — 3 pertanyaan besar (tawkīl malaikat, malaikat muqarrabīn, huruf Jibrīl). Hal 65: Khātimah & doa penutup. Matan murni tanpa Tanbih Syar‘i.
-
----
-
 ## HALAMAN 61 — al-Washf al-Mubīn ba‘da Tamwīh al-Mudda‘īn fī Kaifiyyat Istikhrāj al-Rūhānī
 
 **[Teks Arab Asli — Judul]**
@@ -53,9 +49,6 @@ Wahai saudara-saudaraku karena Allah — ini adalah **penjelasan cara menggali R
 - **Inilah huruf-huruf Rūhānī untuk nama Zaid** — setelah ditambah **[آييل Āyīl]** menjadi: **[فانوآييل] Fānuwāyīl**.
 
 *Semoga Allah memberi manfaat kepadaku & kalian, menunjukkan kita ke jalan kebenaran & menerangi kita dengan cahaya-Nya — Dia atas segala sesuatu Mahakuasa.*
-
----
-
 ## HALAMAN 62 — al-Jawāb al-Syāfī — Pertanyaan 1: Tawkīl Malaikat dalam Wafaq Thabī‘ī
 
 **[Teks Arab Asli — Judul hitam + pertanyaan merah hlm 62]**
@@ -79,9 +72,6 @@ Wahai saudara-saudaraku karena Allah — ini adalah **penjelasan cara menggali R
 **Pertanyaan:** *Malaikat Samkāyīl, Syaranthyāyīl, Nuwayāyīl & Mīthathrūn yang ditulis di sudut-sudut Wafaq Thabī‘ī — apakah mereka memang digali dari Wafaq Thabī‘ī? Kenapa tawkīl (penyerahan tugas) tidak dilakukan kecuali dengan Samkāyīl & Nuwayāyīl?*
 
 **Jawaban:** Ketahuilah saudaraku — **apa yang mereka letakkan melingkari Wafaq Thabī‘ī & menjadikannya wakil atas semua amalan tidak lain adalah kamuflase agar hakikat tetap hilang di antara baris**. Dari malaikat yang mereka tulis, **hanya dua yang benar-benar digali dari Wafaq Thabī‘ī** — dan **isyaratnya bukan ke “Bath Zuhaj Wāh” (بط زهج واح) melainkan ke [كصم عهق سيح] Kasham ‘Ahaq Sīh** — untuk menemukannya **harus mengikuti metode Hadm (peruntuhan) & Tajdzīr (penakaran) serta menetapkan persepuluhan sempurna tiap bait** — inilah yang **disembunyikan para hukamā’ karena ia adalah pintu gerbang ekstraksi Ism al-A‘zham**. Adapun **Samkāyīl benar**, sedangkan **Nuwayāyīl keliru — terjadi tahrīf — hakikatnya [نوفاييل] Nūfāyīl**. Adapun **Syaranthyāyīl & Mīthathrūn — tak ada urusan kami dengan mereka & tak kami butuhkan dalam ilmu Huruf & Awfāq** — yang kami ketahui, masing-masing punya **aqsām zājirah (sumpah pengusir) atas khadam da‘wah** — namun **kami tak pernah menemukan metode mereka dalam Awfāq**, karena **Awfāq berdiri independen & punya lingkar kewenangan yang tak bisa dilampaui pekerja ilmu ini**. Adapun **12 malaikat rūhāniyyah — mereka termasuk khadam Wafaq & punya pengaruh di dalamnya bagi siapa Allah bukakan rahasianya**.
-
----
-
 ## HALAMAN 63 — al-Jawāb al-Syāfī — Pertanyaan 2: Malaikat Muqarrabīn & Mutsallats
 
 **[Teks Arab Asli — Pertanyaan merah hlm 63]**
@@ -101,9 +91,6 @@ Wahai saudara-saudaraku karena Allah — ini adalah **penjelasan cara menggali R
 **Pertanyaan 2: Jibrīl, ‘Izrā’īl, Mīkā’īl & Isrāfīl — Malaikat Penyangga Pilar — Apakah Digali dari Mutsallats 3×3?**
 
 **Jawaban — diawali aqidah malaikat (hlm 63 padat):** Pertama, **malaikat adalah makhluk Allah ‘Azza wa Jalla — tak ada yang mengetahui jumlahnya & menghitungnya kecuali Dia**. Sunnah menjelaskan **mereka dicipta dari cahaya**, sebagaimana sabda shahih: *“Malaikat dicipta dari cahaya, jin dari nyala api (mārij min nār), & Adam dari apa yang disifatkan kepada kalian”* — HR. Muslim. **Jibrīl memiliki 600 sayap**, Rasul ﷺ melihatnya **dua kali dalam wujud aslinya: di Sidratul Muntahā & di bumi — menutup ufuk karena besarnya** — namun dengan qudrah Allah ia **bisa berubah ke wujud manusia** — sahih dalam hadits. **Kewajiban iman: kepada yang kita kenal namanya & yang tak kita kenal**. Yang **tsābit namanya dalam nash: Jibrīl, Mīkā’īl, Isrāfīl & Mālik penjaga Neraka** — masyhur menyebut **Ridhwān penjaga Surga & ‘Izrā’īl Malaikat Maut — namun aku tak mengetahui sanad sahih untuk itu** — yang pasti dalam Kitab & Sunnah hanya **Jibrīl, Mīkā’īl, Isrāfīl & Mālik**. Wajib imani baik yang disebut namanya maupun tidak, serta **tugas-tugas yang mereka pikul** — ada yang **diwakilkan wahyu (Jibrīl), hujan (Mīkā’īl), tiupan Shūr (Isrāfīl), penjaga Neraka (Mālik), pencabut nyawa, gunung, rahim, Surga, Neraka dll. — jumlah mereka amat banyak**: hadits *“Tak seorang pun dari kalian melainkan baginya qarīn dari jin & qarīn dari malaikat”* & hadits **Bait al-Ma‘mūr di langit ketujuh di atas Ka‘bah — dimasuki 70.000 malaikat tiap hari & tak kembali** — bukti jumlah mereka yang tak terhitung. **Jawaban syāfī: malaikat-malaikat mulia ini TIDAK digali dari wafaq mana pun & tak ada kaitan wafaq dengan mereka** — manusia hanya mengambil **tulisan-tulisan pena kamuflase**. Bila kalian baca **“Bait Jibrīl”** dalam wafaq, itu **isyarat bahwa dari bait itulah keluar Rūhānī yang ditugaskan menjemput [kabar/akhbār] — bukan Jibrīl itu sendiri**.
-
----
-
 ## HALAMAN 64 — al-Jawāb al-Syāfī — Pertanyaan 3: Jibrīl & Huruf Zhulmāniyyah
 
 **[Teks Arab Asli — Pertanyaan merah hlm 64]**
@@ -134,9 +121,6 @@ Wahai saudara-saudaraku karena Allah — ini adalah **penjelasan cara menggali R
 **[ج ب] dua huruf Zhulmāniyyah ‘Ulwiyyah, begitu pula [د] dari nama Muhammad ﷺ — maka [ج ب د] tetap Zhulmānī ‘Ulwī.**
 
 Adapun **kaidah-kaidah harfiyyah — mayoritasnya tersembunyi — bahkan bila kau temukan satu kaidah dalam kitab, kau dapati ia tak sempurna atau sudah dipalsukan**. Jika kalian bertanya kenapa mereka lakukan itu, kujawab jujur: **andaikata mereka tidak melakukannya, hari ini kita sudah saling memerangi dengan senjata yang tak ada obatnya kecuali dari Allah**. Mahasuci yang meletakkan pada huruf-huruf Kitab-Nya kekuatan luar biasa ini dengan izin-Nya — betapa agung kedudukan-Nya. **Aku ingin memperingatkan: barang siapa berkata “ambil Nama Allah lalu pecah (kasr) lah” — ia telah memalsukan Nama Allah; barang siapa berkata “ambil ayat & pecah lah” — ia telah memalsukan Kalam Allah**. **Kaidah hisab ayat & Asmā’ Husnā berbeda total & punya metode khusus — pada martabat yang disebut “Martabat Ittishāl Kawnī”**. **Semua rahasia ada di dalam 28 huruf** — semoga Allah membantu kami membimbing kalian — **renungkan dengan akal & cermatilah kaidah-kaidah yang kami letakkan — aku telah melanggar sunnah para pendahulu yang menyembunyikan ilmu ini — namun aku takkan melanggar Kalam Allah** dalam firman-Nya ***“Yu’til Hikmata man yasyā’”*** (QS.2:269) — **tak boleh melampaui batas ini**. Kami akan letakkan kaidah-kaidah & contoh-contoh banyak & sempurnakan dengan isyarat — **maka mintalah tolong dengan istighfar & shalawat kepada Rasul ﷺ hingga Allah membukakan bagi kalian — Dialah al-Fattāh al-‘Alīm**.
-
----
-
 ## HALAMAN 65 — Khātimah — Tamma bi-‘Auni Allāh
 
 **[Teks Arab Asli — Judul hitam + matan merah hlm 65]**
@@ -180,9 +164,6 @@ http://www.alanwaralqadria.com
 *Yang mengharap ampunan Rabb-nya — pelayan kalian — **‘Ābidatullāh (Hamba Allah)** — aku memohon doa kebaikan untuk suami & anak-anakku, serta **hadiah al-Fātihah untuk ruh ibu & ayahku**.*
 
 > **KHATAM — 65 HALAMAN SELESAI.** Naskah asli 65 hal PDF telah direvisi lengkap **matan murni** (Arab → transliterasi → Indonesia) dalam **8 batch (1–8)**, **65 hal**, dengan **rajah/wafaq dipisah sebagai scan 200 DPI** (tanpa dialih-aksarakan — sesuai amanah akademik: “lestarikan, jangan ubah”). Tanpa Tanbih Syar‘i — sesuai permintaan.
-
----
-
 ### KETERANGAN RAJAH — Batch 08
 
 | Halaman | Nama File | Isi | Catatan |
@@ -194,9 +175,6 @@ http://www.alanwaralqadria.com
 | 65 | `full_p65.png` | Khātimah — Tamma bi-‘Auni Allāh + doa ‘Ābidatullāh | Sampul penutup; hak cipta forum |
 
 Semua gambar disimpan di `rajah_anwar/` — tidak dialih-aksarakan, hanya sebagai scan 200 DPI (matn murni).
-
----
-
 ### RINGKASAN AKHIR — REVISI LENGKAP 65 HALAMAN
 
 **Total:** 8 batch — 65 hal PDF (9.9 MB) → **5 MD revisi + 1 analisis**:

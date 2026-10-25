@@ -1,5 +1,3 @@
-# REVISI HAL 21 — فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ (5 LAPIS BERSIH)
-
 ## HALAMAN 21 — فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ
 
 ### arab
@@ -50,7 +48,6 @@ Kemudian bangkitlah dari sujudmu; mohon ampunlah kepada Allah 15 kali dan bersha
 
 Selesai. Semoga Allah memberi manfaat kepada kami dan kalian dengan al-Qur'an yang agung, menjadikan kami termasuk orang-orang yang bertakwa, dan memberi petunjuk kepada kami dan kalian kepada jalan-Nya yang lurus.
 
-
 ### Syarah dan Penjelasan
 
 Hakikat Qarin (al-Qarīn al-Mu'dzī): setiap manusia didampingi qarin jin sejak lahir; bila jiwa lemah, qarin menguasai dengan was-was, malas ibadah, halwasah. Bacaan ar-Rahmān + 13 ayat sajdah menciptakan puncak ketundukan; sujud saat ayat sajdah menghinakan syaitan yang enggan sujud dahulu. Rahasia huruf dalam doa sujud (qāf qudratika, hā' hidāyatika, alif azaliyyatika, rā' rahmatika) merangkai Q-H-A-R yang membentuk Ya Qahhār.
@@ -58,4 +55,3 @@ Hakikat Qarin (al-Qarīn al-Mu'dzī): setiap manusia didampingi qarin jin sejak 
 ### Khususiyah dan Tatacara Praktik
 
 Amalan tanpa rajah/wafaq, murni tilawah, sujud dan du‘ā, sehingga aman untuk siapa saja setelah Shubuh. Penguncian angka 15 (istighfār 15× + shalawat 15× di awal dan akhir) mengapit doa sujud di hadapan ‘Arsy; pembacaan ayat sajdah Maryam di dalam sujud menjadi inti qahr.
-

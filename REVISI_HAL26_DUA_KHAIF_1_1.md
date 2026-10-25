@@ -1,5 +1,3 @@
-# REVISI HAL 26 — دُعَاءُ الْخَائِفِ (5 LAPIS BERSIH)
-
 ## HALAMAN 26 — دُعَاءُ الْخَائِفِ
 
 ### arab
@@ -55,4 +53,3 @@ Kombinasi Ayat-Ayat Penjaga (Āyātul-Hifzh): Doa ini merajut lima pilar ayat pe
 Kepraktisan Tanpa Sarat Berat: Tidak memerlukan tirakat puasa atau penulisan wafaq rumit; cukup dibaca saat merasa terancam atau hendak menemui orang zalim.
 
 Keamanan Mutlak Perjalanan dan Darurat: Sangat ampuh dibaca saat berada di daerah rawan kejahatan, ancaman tindak kekerasan, intimidasi penguasa, maupun gangguan makhluk halus.
-

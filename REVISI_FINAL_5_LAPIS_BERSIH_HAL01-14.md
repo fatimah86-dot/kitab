@@ -19,8 +19,6 @@ _Syarah sesuai nash kitab._
 ### 5. Khususiyah dan Tatacara Praktik
 _Khususiyah sesuai nash — lihat Syarah._
 
-
-
 ## HALAMAN 02 — IHDA' — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
@@ -47,8 +45,6 @@ Ihda' adalah adab sufi: menghadiahkan pahala karya kepada Nabi & Ahlul Bait sebe
 
 ### 5. Khususiyah dan Tatacara Praktik
 Halaman ihda' tidak ada ritual khusus — fungsinya niyyah & sanad. Adab: baca ihda' dengan khushu', hadiahkan Fatihah setelahnya (seperti ijazah hal 03: shalawat + Fatihah untuk Nabi, guru, diri). Tidak perlu menulis/membakar halaman ini.
-
-
 
 ## HALAMAN 03 — IJAZAH 'AMMAH — إِجَازَةُ الشَّيْخِ الْبَشِيرِ
 
@@ -81,8 +77,6 @@ Ijazah 'ammah adalah sanad terbuka khas tradisi Qadiriyah kontemporer: tidak per
 ### 5. Khususiyah dan Tatacara Praktik
 Tata cara menerima ijazah (wajib sebelum amal faedah apa pun): 1) Niat untuk ridha Allah, 2) Shalawat 1× (minimal), 3) Fatihah 1× dengan hadiah seperti di atas (niat dalam hati: «hadiah pahala untuk...»), 4) Yakin ijazah telah washil (sampai) — tidak perlu mimpi/karamah. Khususiyah: ijazah ini mengikat sanad ruhani; mengamalkan tanpa ijazah = tanpa sanad (kurang barakah, meski tetap boleh sebagai doa umum). Tidak ada mahar/puasa khusus untuk ijazah ini.
 
-
-
 ## HALAMAN 04 — SAMPUL DALAM — فَوَائِدُ وَمُجَرَّبَاتُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
@@ -99,8 +93,6 @@ Halaman ini adalah title page dalam (bukan duplikat sampul). Bedanya: sampul hal
 
 ### 5. Khususiyah dan Tatacara Praktik
 Sama seperti sampul — tidak ada ritual. Hanya penanda niat: membaca judul dalam ini dengan berharap faidah & mujarrabat yang sahih.
-
-
 
 ## HALAMAN 05 — FIHRIS — فِهْرِسُ مُجَرَّبَاتِ الشَّيْخِ الْبَشِيرِ
 
@@ -132,8 +124,6 @@ Fihris ini adalah peta 13 faedah yang menjadi inti kitab (hal 06–30). Faedah 1
 
 ### 5. Khususiyah dan Tatacara Praktik
 Fihris tidak ada amalan — hanya penunjuk. Adab: baca fihris untuk memilih hajat, jangan amalkan semua sekaligus. Prioritaskan faedah yang sesuai hajat & telah dapat ijazah hal 03.
-
-
 
 ## HALAMAN 06 — FAEDAH 01 (1/3) — طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
 
@@ -179,8 +169,6 @@ Faedah Maysarah adalah faedah pertama & paling terperinci (hal 06-08) — menjad
 
 ### 5. Khususiyah dan Tatacara Praktik
 Khasiat: melariskan dagang & menarik rizki halal. Belum ada tatacara di hal 06 — baru hisab. Persiapan: siapkan nama penanya (tholib) + nama ibu, hitung seperti contoh, siapkan kertas putih & tinta misk (akan dirinci hal 07).
-
-
 
 ## HALAMAN 07 — FAEDAH 01 (2/3) — LANJUTAN MAYSARAH
 
@@ -242,8 +230,6 @@ Samsail vs Nasmahil: Samsail adalah Ruhani Khadim (pelaksana), Nasmahil adalah R
 - Tilawah: 'Azimah «لا إله إلا الله المهيمن» 196× (angka dari 27? 27×? 196 =14² — rahasia mizan, akan muncul di hal 08). Niat tawajjuh kepada Allah dengan hajat.
 - Pantangan: Tulis dalam keadaan suci (wudhu), menghadap kiblat, tidak bercanda/merokok, niat halal.
 
-
-
 ## HALAMAN 08 — FAEDAH 01 (3/3) — 2 WAFAQ (MUKHAMMAS 5×5 & MURABBA' 4×4)
 
 ### arab
@@ -282,8 +268,6 @@ Wafaq Mukhammas 5×5 (kanan di scan): Matriks 5×5 = 25 petak berisi 5 huruf ama
 ![Wafaq Hal 08](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
 [Gambar: Wafaq Hal 08]
 
-
-
 ## HALAMAN 09 — FAEDAH MUHRIQAH 1/2 — فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ
 
 ### arab
@@ -313,8 +297,6 @@ Faedah ini adalah Faedah 02 (pertama dari seri jin). Kaidah mazj thabi'ah — me
 ### 5. Khususiyah dan Tatacara Praktik
 Khasiat: membakar jin 'aridh & maradah yang menetap di jasad, bi'iznillah — bukan untuk iseng. Tata cara: wudhu, tulis di kertas putih dengan misk-za'faran, 3 lembar + 1 piring (mahw air thahir: hujan/sumur tak kena matahari/bulan). Bakhur tiap malam 1 lembar + oles + tidur pisah 3 malam. Jika tak ada hujan, pakai sumur. Pantangan: tulis setelah isya? Tidak mutlak (hal09 tidak sebut waktu — fleksibel), jaga aurat, niat lillāh, jangan untuk balas dendam.
 
-
-
 ## HALAMAN 10 — FAEDAH MUHRIQAH 2/2 — JADWAL & QASAM — حِنْقَايِيلُ
 
 ### arab
@@ -336,8 +318,6 @@ Tata cara Hal10: tulis jadwal 5×15 (lihat crop), tulis Hinqāyīl di 4 sudut mi
 
 ![Wafaq Hal 10](rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg)
 [Gambar: Wafaq Hal 10]
-
-
 
 ## HALAMAN 11 — FAEDAH QATHI'AH 1/2 — فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
 
@@ -366,8 +346,6 @@ Faedah ini Fā'idah Qāthi'ah = pemutus (qāthi' = memutuskan ikatan jin). Mass 
 
 ### 5. Khususiyah dan Tatacara Praktik
 Khasiat: terapi mass & buka penghalang dafā'in. Waktu: setelah Isya, kecuali Rabu & Sabtu (hari nahas dalam falak Jafari — hindari). Alat: bejana baru, air mawar-za'faran-misk, air hujan/sumur tersembunyi, telunjuk kanan. Bacaan: 5 surah urut tulis & baca 7× saat mahw. Air mahw: minum + mandi? Naskah hanya sebut mahw & baca, tidak detail minum — cukup mahw lalu pakai airnya (ruqyah).
-
-
 
 ## HALAMAN 12 — FAEDAH QATHI'AH 2/2 — WAFAQ 3×3
 
@@ -400,8 +378,6 @@ Tata cara sama Hal11 — wafaq ini yang ditulis di bejana. Tulis angka dengan ti
 
 ![Wafaq Hal 12 — 3×3 — 9 angka — 600,1209,18 / 27,609,1191 / 1200,9,618 — baca kanan→kiri](hal12_crop_sharp.jpg)
 [Gambar: Wafaq Hal 12 — 3×3 — salin persis crop IMG_20261025_073117.jpg — hal12_crop_sharp.jpg — 35KB tajam]
-
-
 
 ## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
 
@@ -452,8 +428,6 @@ Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). T
 
 ![Halaman 13 — Scan 300 DPI](hal_13.png)
 [Gambar: Halaman 13 — Zajr Qathi' 1/3 — 7× At-Taubah 46 + sumpah Mujādalah]
-
-
 
 ## HALAMAN 14 — ZAJR QATHI' 2/3 — مَتْنُ الزَّجْرِ الْقَاطِعِ لِخَادِمِ الِاسْتِنْزَالِ
 
@@ -544,4 +518,3 @@ Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan sete
 
 ![Halaman 14 — Scan 300 DPI](hal_14.png)
 [Gambar: Halaman 14 — Zajr Qathi' 2/3 — 4 ayat azab + ishrāf]
-

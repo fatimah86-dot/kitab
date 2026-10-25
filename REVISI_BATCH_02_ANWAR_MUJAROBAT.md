@@ -1,12 +1,8 @@
-# REVISI KITAB ANWAR MUJAROBAT SYEIKH BASYIR — BATCH 02
 ## Halaman 9–13 (Faedah 2: Muhriqah Tharidah & Faedah 3: Qathi'ah Mass)
 
 **Format:** [Teks Arab Asli] → [Transliterasi Latin] → [Terjemahan Indonesia] — Matan Murni
 **Sumber:** anwar_mujarobat_asli.pdf — Halaman PDF 9–13 (scan 65 hal)
 **Tanggal Revisi:** 25 Oktober 2026 — Cabang `arena/80a0cd9d-kitab`
-
----
-
 ## HALAMAN 9 — Faedah 2: Muhriqah Tharidah lil-Jinn wa al-Maradah (Bagian 1/2)
 
 **[Teks Arab Asli]**
@@ -64,9 +60,6 @@ Setelah itu jumlahkan nilai huruf-huruf *rūhānī*, lafalkan jumlahnya, dan akh
 **Bukhur (dupa) tiap lembar:** [7 lembar daun bidara (*sidr*), 7 butir cengkeh, sedikit mastika (*masthakā*)]. Ini hanyalah contoh untuk diqiyaskan.
 
 **Contoh praktik:** Nama pasien dan ibunya adalah **Hasan bin Ruqayyah**.
-
----
-
 ## HALAMAN 10 — Faedah 2 Lanjutan (Bagian 2/2) — Jadwal & Qasam
 
 **[Teks Arab Asli]**
@@ -99,9 +92,6 @@ Kemudian qasam ini dibaca **5 kali** pada tiap lembar dan juga pada air (hasil m
 **[Catatan Teknis Revisi]**
 - Nilai 158 = ن (50) + ح (8) + ق (100) = 158 → dilafalkan *Hinqāyīl* (ditambah “-īl” sebagai penutup nama rūhānī).
 - Qasam memuat Āhyā Syarāhyā (nama-nama ibrani) — dibiarkan apa adanya sesuai naskah, tanpa terjemahan.
-
----
-
 ## HALAMAN 11 — Faedah 3: Qathi'ah li 'Ilaj al-Mass (Bagian 1/2)
 
 **[Teks Arab Asli]**
@@ -149,9 +139,6 @@ Kemudian qasam ini dibaca **5 kali** pada tiap lembar dan juga pada air (hasil m
 5. *Qul ūhiya* (QS. al-Jinn) hingga akhir surah
 
 Penulisan dilakukan **setelah shalat Isya, kecuali pada hari Rabu dan Sabtu**. Wafaqnya adalah sebagai berikut:
-
----
-
 ## HALAMAN 12 — Faedah 3 Lanjutan (Bagian 2/2) — Wafaq Numerik
 
 **[Teks Arab Asli — Keterangan di bawah wafaq]**
@@ -183,9 +170,6 @@ Penulisan ayat-ayat dan surah-surah dimulai dari **atas wafaq, bergerak dari kan
 ![Wafaq Mass](rajah_anwar/rajah_p12_wafaq_mass.png)
 
 *Gambar asli halaman 12*: Wafaq angka (3×3) untuk terapi mass. Di bawahnya tertera: *Wafqun li-‘ilāj al-mass — Al-Syaikh al-Basyir — Muntadā al-Anwār al-Qādiriyyah — http://www.alanwaralqadria.com*. Angka-angka tidak diterjemahkan menjadi huruf latin; dibiarkan sebagai gambar.
-
----
-
 ## HALAMAN 13 — Faedah 4: al-Zajr al-Qathi' (Awal)
 
 **[Teks Arab Asli]**
@@ -215,9 +199,6 @@ Penulisan ayat-ayat dan surah-surah dimulai dari **atas wafaq, bergerak dari kan
 *Assalamu'alaikum warahmatullahi wabarakatuh.* Wahai saudara-saudaraku karena Allah, seringkali terjadi pada kalian: kalian melakukan sebuah *istinzāl* (upaya menghadirkan khadim), lalu khadimnya hadir dan kalian bertanya kepadanya tentang suatu perkara, lalu ia menjawab — namun ternyata yang ia katakan dusta. Keadaan ini banyak menimpa mereka yang melakukan istinzal melalui perantara (*wasīth* — yakni seorang anak kecil). Mayoritas istinzal-istinzāl semacam itu dusta, sebabnya bisa jadi karena si penuntut (*thālib*) belum mahir, atau karena ia telah berlebih-lebihan dalam melakukan istinzal dan meminta para khadim serta menanyai mereka tentang hal-hal yang merendahkan kedudukan mereka — terutama bila khadim itu berjenis *‘ulwī* (tinggi). Jika ia *‘ulwī*, ia akan enggan turun, dan yang masuk menggantikannya adalah khadim *suflī* (rendahan) yang pendusta. [Catatan naskah: yang dimaksud *‘ulwī* di sini bukanlah Tujuh Raja (al-Mulūk al-Sab‘ah), karena mereka tidak pernah turun sama sekali kecuali dalam *istinzāl nafsī rabbānī* (penyingkapan batin ketuhanan)].
 
 Faedah ini adalah **zajr (teguran keras) yang memutus** untuk menegur para khadim istinzal dan mendorong mereka berkata benar. Jangan beri tahu *al-nāzhir* (anak perantara yang melihat) apa yang hendak kau lakukan, agar kau bisa memastikan kebenaran penglihatannya. Setelah kau lakukan istinzal dan ia mengabarkan bahwa khadim telah hadir, bacalah ayat berikut **7 kali** sambil memegang dahi *nāzhir* untuk menguatkannya: **[“Wa law arādū al-khurūja la-a‘addū lahu ‘uddah … ilā al-qā‘idīn”]** (QS. al-Taubah: 46, dipenggal sesuai naskah). Setelah itu perintahkan ia mengucapkan dua kalimat syahadat dan bershalawat kepada Nabi ﷺ. Kemudian perintahkan ia mengambil mushaf yang mulia dan membukanya pada **Surah al-Mujādalah**; suruh *nāzhir* mulai membaca surah tersebut untuk memastikan bahwa memang surah itu yang terbuka. Setelah itu perintahkan sang khadim meletakkan tangan kanannya di atas mushaf dan berjanji kepadamu untuk berkata benar. Jika ia menolak — dan ia pasti akan melakukannya — maka bentaklah ia dengan **zajr yang memutus ini** (lanjutannya pada halaman berikutnya).
-
----
-
 ### KETERANGAN RAJAH — Batch 02
 
 | Halaman | Nama File Rajah | Isi | Status |
@@ -226,9 +207,5 @@ Faedah ini adalah **zajr (teguran keras) yang memutus** untuk menegur para khadi
 | 12 | `rajah_p12_wafaq_mass.png` | Wafaq angka 3×3 (600-1209-18 / 27-609-1191 / 1200-9-618) — konstanta 1827 | ✅ Crop 300 DPI |
 
 Kedua rajah disimpan di `rajah_anwar/` sebagai gambar, tidak dialih-hurufkan.
-
----
-
 > **STATUS BATCH 02: SELESAI** (Halaman 9–13 — Faedah 2 & 3 lengkap + awal Faedah 4)
 > Batch berikutnya: Halaman 14–20 (Faedah 4 Zajr lanjutan & Faedah 5 Thard 'Uthusy)
-

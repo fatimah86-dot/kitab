@@ -43,4 +43,3 @@ Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, w
 
 ![Halaman 15 — Scan 300 DPI](hal_15.png)
 [Gambar: Halaman 15 — Faedah ‘Athlūsy 1/2 — 21× azimah — 7 hari botol]
-

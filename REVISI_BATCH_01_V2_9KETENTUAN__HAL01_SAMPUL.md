@@ -1,4 +1,3 @@
-# REVISI ANWAR MUJAROBAT SYEIKH BASYIR — EDISI 9 KETENTUAN BARU (REFORMAT TOTAL)
 ## Batch 01 V2 — Halaman 1–8 (Menggantikan Format Lama Matan Murni)
 ### HALAMAN 01 — SAMPUL — أَنْوَارُ الشَّيْخِ البَشِيْرِ
 
@@ -7,9 +6,6 @@
 > **Sumber:** `anwar_mujarobat_asli.pdf` — Hal PDF 01/65 (Sampul) — scan 300 DPI `rajah_anwar_v2_300/hal01_300dpi.png` + crop `crop_hal01_sampul_judul_300dpi.png`
 > **Tanggal Reformat:** 25 Oktober 2026 — Cabang `arena/f46942f6-kitab`
 > **Prinsip:** Matan tidak diubah — hanya diberi harakat, i'rab, washal & syarah untuk keabsahan bacaan & pemahaman.
-
----
-
 ### TEMPLATE 9 KETENTUAN — Penjelasan
 
 Setiap halaman kini disajikan dalam **9 lapis**:
@@ -23,9 +19,6 @@ Setiap halaman kini disajikan dalam **9 lapis**:
 7. **Khususiyah & Tata Cara** — khasiat/keutamaan yang disebut penulis + adab & langkah amal yang sahih menurut teks (tanpa menambah khurafat).
 8. **Struktur Kitab** — peta posisi halaman dalam keseluruhan 65 hal & hubungannya dengan faedah/bab lain.
 9. **Crop Wafaq Asli 300 DPI** — untuk halaman yang mengandung wafaq/rajah: disimpan terpisah sebagai PNG 300 DPI latar putih; untuk sampul tanpa wafaq: disimpan sebagai arsip visual sampul.
-
----
-
 ## 1) Arab Full Harokat
 
 Teks Arab pada sampul terdiri dari **3 baris** (teks utama di emblem + footer institusi). Berikut penulisan dengan harakat lengkap sesuai foto 300 DPI hal 01:
@@ -45,9 +38,6 @@ Teks Arab pada sampul terdiri dari **3 baris** (teks utama di emblem + footer in
 - Baris footer **مُنْتَدَيَاتُ الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ** — tertulis kecil di bawah emblem; kata **مُنْتَدَيَاتُ** jamak mu'annats salim dari *muntadā* (forum), marfu' sebagai badal/athaf bayan dari judul.
 
 > **Varian penulisan yang Anda contohkan:** أَنْوَارُ الشَّيْخِ الْبَشِيْرِ / مُنْتَدَيَاتُ الْأَنْوَارِ الْقَادِرِيَّةِ — kami pakai **البَشِيرِ** tanpa ya' tambahan (sesuai kaidah Imla' standar: بشير = بَشِير), namun bunyi sama *al-Basyīr*. Jika Anda ingin ejaan **البَشِيْر** (dengan ya' mad), tetap sah dan akan kami catat sebagai varian rasm forum.
-
----
-
 ## 2) Kaidah Nahwu–Sharaf
 
 | Kata | I'rab & Kedudukan | Wazan Sharaf & Asal |
@@ -68,9 +58,6 @@ Teks Arab pada sampul terdiri dari **3 baris** (teks utama di emblem + footer in
 وَالْأَرْوَاحِ (ma'thuf pada الأنوار, sekaligus man'ut bagi الرحمانية)
 ```
 Ini adalah **idhafah bukan hakiki (lafzhiyah)** pada tingkat kedua karena mudhaf berupa jamak yang di-idhafah-kan untuk takhsis (spesifikasi), bukan untuk ta'rif saja.
-
----
-
 ## 3) 3 Hukum Washal
 
 Hukum washal = kaidah menyambung (washal), menghentikan (waqf), dan memulai (ibtida') bacaan teks Arab. Diterapkan pada judul sampul:
@@ -99,9 +86,6 @@ Saat **memulai setelah waqf/berhenti**, berlaku:
 - **Hamzah Qath' (أَ):** pada **أَنْوَارُ** — hamzah qath' (أَ) dibaca jelas baik washal maupun ibtida'. Ibtida' di awal judul: «أَنْوَارُ...» dengan fathah hamzah.
 - **Hamzah Washal (الـ):** pada semua **الـ** — hamzah washal (ٱ) **dibaca jika ibtida'**, **gugur jika washal**. Contoh: ibtida' di «الشَّيْخِ الْبَشِيرِ» → baca «أَشَّيْخِ الْبَشِيرِ» (hamzah washal menjadi أَ berfathah). Namun jika washal dari kata sebelumnya «أَنْوَارُ الشَّيْخِ...», hamzah washal ال tidak dibaca, langsung ke syin tasydid.
 - **Ibtida' setelah wawu:** «وَالْأَرْوَاحِ» — jika memulai dari wawu, baca «وَالْأَرْوَاحِ» (wawu fathah, lam qamariyah jelas). Tidak boleh memulai dengan sukun.
-
----
-
 ## 4) Latin Washal Bunyi
 
 Transliterasi yang mencerminkan **bunyi hadar (cepat-sedang) saat washal**, bukan ejaan harfiah huruf-per-huruf. Menggunakan pedoman Kemenag RI + modifikasi bunyi washal (tanda hubung = sambung tanpa jeda; tasydid = ganda).
@@ -128,9 +112,6 @@ Atau dalam satu baris penuh (washal tam):
 - **ar-Rahmāniyyah** — syamsiyah: al → ar- (lam hilang, ra' ganda): **ar-Rahmāniyya(h)**.
 
 **Praktik pelafalan untuk ijazah:** Baca washal (B) saat ijazah hal 03 dibacakan, bukan qathi' (A). Jika waqf untuk istirahat, gunakan sukun seperti di Hukum B.
-
----
-
 ## 5) Terjemahan Indonesia
 
 **Terjemahan Baku (PUEBI):**
@@ -150,9 +131,6 @@ Atau dalam judul buku yang natural:
 - **Muntadayāt** = forum/majelis/jaringan situs. Konteks: forum internet sufi Qadiriyah tempat naskah ini pertama kali disebar (http://www.alanwaralqadria.com — lihat khatimah hal 65).
 - **al-Qādiriyyah** = nisbah kepada Thariqah Qadiriyah (Syaikh Abdul Qadir al-Jilani). Di-Indonesia-kan «Qadiriyah» (KBBI).
 - **al-Rahmāniyyah** = nisbah kepada sifat *al-Rahman* (Maha Pengasih) — juga nama thariqah/varian Rahmaniyah yang berafiliasi. Diterjemahkan «Rahmaniyah».
-
----
-
 ## 6) Syarah
 
 **a) Makna Judul:**
@@ -166,9 +144,6 @@ Sampul dengan ornamen cokelat keemasan & bingkai ukir klasik menunjukkan naskah 
 
 **d) Hubungan dengan Ijazah Hal 03:**
 Judul sampul ini menjadi objek ijazah umum hal 03: *«laqad ajaztu kulla man washalat ilaihi fawā'idī...»* (Aku ijazahkan kepada siapa saja yang sampai kepadanya faedah-faedahku). Maka membaca sampul ini adalah langkah pertama menerima ijazah — disyaratkan shalawat + Fatihah (lihat hal 03).
-
----
-
 ## 7) Khususiyah & Tata Cara
 
 **Khususiyah Sampul:**
@@ -183,9 +158,6 @@ Sampul sendiri **tidak memiliki khasiat/ritual khusus** dalam naskah — khasiat
 5. **Baru buka sampul & baca daftar isi** dengan keyakinan bahwa semua manfaat/mudarat hanya dari Allah — kitab adalah *sabab* (perantara doa), bukan jimat yang berkuasa sendiri (prinsip yang ditekankan di Jawab Syafi hal 62–64).
 
 > **Tanbih:** Sampul ini tidak perlu ditulis sebagai wafaq/jimat, tidak perlu dibakar/diminum airnya — cukup dipahami sebagai identitas & niat. Jika ragu, tanyakan kepada guru yang tsiqah (sejalan dengan kaidah hal 64: *tahkim al-'aql wa al-istighfar wa al-shalawāt*).
-
----
-
 ## 8) Struktur Kitab
 
 **Posisi Hal 01 dalam 65 Halaman:**
@@ -219,9 +191,6 @@ Sampul adalah **pintu gerbang sanad**. Tanpa memahami sampul = forum Qadiriyah, 
 - Hal 04 (Sampul Dalam) → bandingkan dengan sampul hal 01 (variasi khat)
 - Hal 05 (Fihris) → terapkan nahwu pada 13 judul faedah + struktur
 - Hal 06–08 (Faedah 01) → terapkan 9 ketentuan pada hisab 535, taksir, & 2 wafaq (akan ada crop wafaq 300 DPI terpisah untuk hal 08)
-
----
-
 ## 9) Crop Wafaq Asli 300 DPI
 
 **Untuk Halaman 01 — Status: TANPA WAFAQ**
@@ -244,11 +213,7 @@ rajah_anwar_v2_300/
 
 **Preview Crop Hal 01 (300 DPI):**
 *File `crop_hal01_sampul_judul_300dpi.png` — ornamen cokelat, tulisan putih «أنوار الشيخ البشير» di tengah, footer «منتديات الأنوار القادرية و الأرواح الرحمانية»*
-
----
-
 > **PENUTUP HAL 01 — Sampul Selesai.**
 > Dokumen ini adalah **sampel Hal 01** dengan 9 Ketentuan Baru. Format lama Matan Murni untuk Batch 01 (hal 01–08) di Google Docs dianggap **deprecated (tidak berlaku)** dan digantikan oleh edisi ini. Jika Anda setujui format Hal 01 ini, kami akan **lanjutkan Hal 02–08 dengan template identik** dalam file & Google Docs yang sama, lalu simpan progres ke PR baru.
 >
 > **Langkah selanjutnya:** Append Hal 01 ke Google Docs → tunggu konfirmasi Anda → kerjakan Hal 02 (Ihda') hingga Hal 08 (2 Wafaq Maysarah 5×5 & 4×4).
-

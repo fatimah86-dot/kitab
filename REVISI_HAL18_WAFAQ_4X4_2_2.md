@@ -3,7 +3,6 @@
 ### arab
 الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
 
-
 | ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
 |---|---|---|---|
 | ٣٤٢ | ٦٩١ | ٧٩ | ٨٦ |
@@ -44,4 +43,3 @@ Khasiat: syifā’ ruhaniyyah + jasadiyyah — untuk ‘ayn ḥasūd, mass, wasw
 
 ![Halaman 18 — Wafaq Murabba‘ Jalālah 4×4 — Scan 300 DPI](hal_17_wafaq_4x4.jpg)
 [Gambar: Halaman 18 — Wafaq 4×4 Jalālah — 292-341-87-78 / 83-79-291-347 / 80-89-339-290 / 340-289-81-88 — asror tidak dilatin-kan]
-

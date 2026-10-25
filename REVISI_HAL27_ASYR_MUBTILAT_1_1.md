@@ -1,5 +1,3 @@
-# REVISI HAL 27 — الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ (5 LAPIS BERSIH)
-
 ## HALAMAN 27 — الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ
 
 ### arab
@@ -83,4 +81,3 @@ Rahasia “al-‘Asyr Qālā t” — sepuluh dialog tauhid Nabi Musa melawan Fi
 ### Khususiyah dan Tatacara Praktik
 
 Garansi permanen (lā tanhallu): dirancang pada jam Bulan agar tidak luntur oleh waktu. Spesifik penghancur sihir buhul hembusan (an-naffātsāti fil-‘uqad) — tali/ikatan yang ditiup mantra.
-

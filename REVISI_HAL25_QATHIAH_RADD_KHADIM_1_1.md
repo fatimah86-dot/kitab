@@ -1,5 +1,3 @@
-# REVISI HAL 25 — فَائِدَةٌ قَاطِعَةٌ لِرَدِّ الْخَادِمِ (5 LAPIS BERSIH)
-
 ## HALAMAN 25 — فَائِدَةٌ قَاطِعَةٌ لِرَدِّ الْخَادِمِ
 
 ### arab
@@ -55,4 +53,3 @@ Pendekatan Ritual: Menggabungkan ibadah mahdhah berupa puasa sunnah dua hari (Ka
 Fungsi Utama: Digunakan secara khusus sebagai metode darurat untuk memanggil kembali (raddul-khādim) kekuatan, energi, atau entitas pengawal amalan yang kabur atau terputus koneksinya.
 
 Peringatan Ketat: Diingatkan oleh penyusun kitab agar pengamal senantiasa bertakwa, menjaga batasan syariat, dan tidak menyalahgunakan amalan ini untuk kezaliman.
-

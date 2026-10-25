@@ -78,4 +78,3 @@ Halaman ini adalah Faedah Muhriqah Tharidah — kaidah hisab nama + ibunya tanpa
 
 ### Khususiyah dan Tatacara Praktik
 Khasiat: membakar/mengusir jin & maradah dari jasad dengan izin Allah. Tatacara: tulis 3 waraqah amalan + tulis di shahn naqiy (piring bersih) → hapus dengan mā' thāhir (air suci). Bakhur 3 malam mutataliyah: tiap malam bakar 1 waraqah bersama 7 waraqāt Sidr + 7 habbāt Qaranful + qalīl Masthakā, lalu oleskan air hapusan piring ke seluruh jasad setelah bakhur, tidur mun'azilan (menyendiri). Rajah huruf [ ا ه ط م ك س ق ] tidak diterjemahkan — tetap arab dengan Ha = ه.
-

@@ -1,10 +1,6 @@
-# REVISI BATCH 01 V2 — HAL 02–08 — 9 KETENTUAN BARU (Lanjutan Hal 01)
 > **Sumber:** anwar_mujarobat_asli.pdf Hal PDF 02–08/65 — scan 300 DPI `rajah_anwar_v2_300/hal02_300dpi.png` s/d `hal08_300dpi.png` + crop wafaq hal08  
 > **Tanggal:** 25 Okt 2026 — Cabang `arena/f46942f6-kitab` — PR #11 (lanjutan Hal01)  
 > **Template:** (1) Arab Full Harokat (2) Nahwu-Sharaf (3) 3 Hukum Washal (4) Latin Washal Bunyi (5) Terjemahan (6) Syarah (7) Khususiyah & Tata Cara (8) Struktur Kitab (9) Crop 300 DPI
-
----
-
 ## HALAMAN 02 — IHDA' (Persembahan) — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
 ### 1) Arab Full Harokat
@@ -58,9 +54,6 @@ Halaman ihda' tidak ada ritual khusus — fungsinya **niyyah & sanad**. Adab: ba
 
 ### 9) Crop 300 DPI
 Tanpa wafaq. Arsip: `hal02_300dpi.png` 3300×2550 px 879 KB (kuning krem bingkai, kaligrafi hitam «اهداء الشيخ البشير» + 5 baris).
-
----
-
 ## HALAMAN 03 — IJAZAH 'AMMAH — إِجَازَةُ الشَّيْخِ الْبَشِيرِ
 
 ### 1) Arab Full Harokat
@@ -121,9 +114,6 @@ Ijazah 'ammah adalah **sanad terbuka** khas tradisi Qadiriyah kontemporer: tidak
 
 ### 9) Crop 300 DPI
 Tanpa wafaq. Arsip: `hal03_300dpi.png` 3300×2550 1.1 MB (kuning krem, judul hitam «اجازة الشيخ البشير», teks hitam + merah bergantian).
-
----
-
 ## HALAMAN 04 — SAMPUL DALAM — فَوَائِدُ وَمُجَرَّبَاتُ الشَّيْخِ الْبَشِيرِ
 
 ### 1) Arab Full Harokat
@@ -162,9 +152,6 @@ Sama seperti sampul — tidak ada ritual. Hanya penanda niat: membaca judul dala
 
 ### 9) Crop 300 DPI
 Tanpa wafaq. Arsip: `hal04_300dpi.png` 3300×2550 724 KB (judul hijau besar tengah).
-
----
-
 ## HALAMAN 05 — FIHRIS — فِهْرِسُ مُجَرَّبَاتِ الشَّيْخِ الْبَشِيرِ
 
 ### 1) Arab Full Harokat (13 judul lengkap, tahqiq dari scan)
@@ -218,9 +205,6 @@ Fihris tidak ada amalan — hanya penunjuk. Adab: baca fihris untuk memilih haja
 
 ### 9) Crop 300 DPI
 Tanpa wafaq. Arsip: `hal05_300dpi.png` 3300×2550 867 KB (judul merah «فهرس مجربات الشيخ البشير» + 13 baris hitam).
-
----
-
 ## HALAMAN 06 — FAEDAH 01: طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ (Bagian 1/3)
 
 ### 1) Arab Full Harokat (transkrip hal 06 lengkap, harokat tashih)
@@ -307,9 +291,6 @@ Khasiat: melariskan dagang & menarik rizki halal. Belum ada tatacara di hal 06 �
 
 ### 9) Crop 300 DPI
 Tanpa wafaq (belum). Arsip: `hal06_300dpi.png` 3300×2550 1.5 MB (judul «طريقة الميسرة في جلب الارزاق», teks hitam + 3 baris merah hisab bawah).
-
----
-
 ## HALAMAN 07 — FAEDAH 01 LANJUTAN (Bagian 2/3)
 
 ### 1) Arab Full Harokat
@@ -400,9 +381,6 @@ Washal bunyi: *Tsumma nalquthu minas-sathrits-tsānismarrūḥāniyyi mubtadi'ī
 
 ### 9) Crop 300 DPI
 Tanpa wafaq visual (teks saja). Arsip: `hal07_300dpi.png` 3300×2550 1.5 MB (judul «طريقة الميسرة...» hitam, teks hitam + 6× «و ا هـ د ي =27...» merah tebal).
-
----
-
 ## HALAMAN 08 — FAEDAH 01 PENUTUP — وَهَذَا وَفْقُ الْعَمَلِ + وَفْقُ الرُّوحَانِيِّ (2 Wafaq)
 
 ### 1) Arab Full Harokat (teks luar wafaq)
@@ -482,4 +460,3 @@ Washal: *Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā f�
 
 > **KHATAM BATCH 01 V2 (8 Halaman) — 9 Ketentuan Selesai.**
 > 8 halaman (Sampul → Ihda' → Ijazah → Sampul Dalam → Fihris → Faedah 01 [3 hal + 2 wafaq]) telah direvisi dengan template 1-9 menggantikan format lama Matan Murni. Tanpa Tanbih Syar'i tambahan (sesuai amanah matan murni), kecuali adab tawassul yang memang ada di nash. Google Docs: Hal01 (233947) + Hal02-08 menyusul (append). GitHub: file ini + 11 PNG 300 DPI.
-

@@ -1,12 +1,8 @@
-# REVISI KITAB ANWAR MUJAROBAT SYEIKH BASYIR — BATCH 07
 ## Halaman 51–60 (Durūs ‘Ilm al-Harf wa al-Awfāq — Itsbāt Zā’idah s/d Asrār al-Rijāl)
 
 **Format:** [Teks Arab Asli] → [Transliterasi Latin] → [Terjemahan Indonesia] — Matan Murni
 **Sumber:** anwar_mujarobat_asli.pdf — Halaman PDF 51–60 (scan 65 hal)
 **Tanggal Revisi:** 25 Oktober 2026 — Cabang `arena/daa37ea4-kitab`
-
----
-
 ## HALAMAN 51 — Itsbāt al-Jumlah al-Zā’idah li-Istikhrāj Asrār al-Riyādhāt
 
 **[Teks Arab Asli — Judul]**
@@ -48,9 +44,6 @@ Ketahuilah: bila kalimat **lebih dari 9 huruf, wajib menghapus huruf-huruf berle
 7. **Hapus huruf dengan nilai terbesar** jika masih belum stabil setelah penghapusan di atas.
 
 **Contoh merah hlm 51:** Nama seseorang dan ibunya: **[‘Abd al-Khāliq Fāthimah al-Zahrā’ = 21 huruf]**. Kita **hapus “al-Zahrā’” (karena tersusun), hapus “Al” ta‘rīf, hapus Bā’ & Dāl dari ‘Abd, dan tā’ ta’nīts dari Fāthimah** — stabil 9 huruf menjadi: **[ع خ ل ق ا ف ط م ه]** (*‘A Kha Lām Qāf A Fā Thā Mīm Hā’*) — inilah jumlah 9 yang dipakai untuk riyadhat. *Waffaqakumullāh…*
-
----
-
 ## HALAMAN 52 — Qā‘idah Istikhrāj ‘Adad al-Tilāwah li-kulli Thālib
 
 **[Teks Arab Asli — Judul]**
@@ -106,9 +99,6 @@ Setelah kalian paham cara menetapkan kalimat 9 huruf, kita buat **contoh ekstrak
 5. **Gabungkan:** **2245+336 = 2581** — inilah **bilangan wirid “Yā Hayy Yā Qayyūm” setiap selesai shalat selama 40 hari**.
 
 Ditutup doa: *Allāhumma waffiqnā lil-khair …*
-
----
-
 ## HALAMAN 53 — al-Tiryāq li-kulli Thālib li-Ma‘rifat Asmā’ al-Khāliq (Bagian 1/2)
 
 **[Teks Arab Asli — Judul]**
@@ -141,9 +131,6 @@ Wahai saudara-saudaraku karena Allah — kuhadapkan kepada kalian **faedah harfi
 - Gabung: **[ا ح م + ا ي ر] = 6 huruf**, satu berulang (Alif) → **[ا ح م ا ي ر]** → tersusun **الاسم الأول: [رحيم] Rahīm**.
 - Dua Alif yang berulang → kumpulkan nilainya **[1+1=11]** → istinthāq → **[ب]** (*Bā’*), gantikan dua Alif → **[ب ح م ا ي ر]** → **الاسم Kedua: [برّ] Barr**.
 - Jadi **Nama yang cocok untuk Ahmad: [Barr] & [Rahīm] — “Barrun Rahīm”**. Wiridnya **260× setiap selesai shalat**, atau **1300× (260×5) di tengah malam**.
-
----
-
 ## HALAMAN 54 — al-Tiryāq — Lanjutan Contoh [Sa‘īd]
 
 **[Teks Arab Asli — Judul lanjutan hlm 54 atas hitam]**
@@ -171,9 +158,6 @@ Yang huruf Nūrāniyyah-nya 3: **[س ع ي]** — bentangkan: **س ي ن — ع 
 Dua huruf berulang **[س س]** → jumlah **120** → istinthāq **[ك ق]** (*Kāf Qāf*) → gabung ke huruf sebelumnya → **[ك ق ي ع س ب ر]** → **dua Nama lagi: [Kabīr Qarīb] — “Kabīrun Qarīb”**.
 
 Maka untuk **Sa‘īd ada 4 Nama: “Barrun Sarī‘un Kabīrun Qarīb”** — wiridnya **402× setiap shalat** atau **2010× (402×5) di tengah malam**. *Ini yang kami inginkan dari penjelasan metode berkah ini — semoga Allah memberi manfaat … wassalām.*
-
----
-
 ## HALAMAN 55 — al-Qā‘idah al-Shārimah fī Istikhrāj al-Khādim al-Suflī
 
 **[Teks Arab Asli — Judul]**
@@ -220,9 +204,6 @@ Wahai saudara-saudaraku — kuhadapkan **cara menggali khadam suflī dari sebuah
 - **Jadi khadam suflī dari Zaid: [ب ص ذ طيش] “Bashadz Thīsy”**.
 
 **Kenapa suflī dengan bilangan & rūhānī dengan huruf? Karena huruf lebih kuat daripada bilangan di jalan kebaikan — dan sebaliknya.** Selesai — wasiatku: bertakwalah kepada Allah & jaga kehormatan makhluk-Nya.
-
----
-
 ## HALAMAN 56 — Asrār al-Rijāl fī Isti‘māl Āyāt al-Qur’ān li-Thard al-Jinn wa al-Syaithān (Bagian 1/4)
 
 **[Teks Arab Asli — Judul]**
@@ -275,9 +256,6 @@ Wahai saudara-saudaraku — kuhadapkan **metode harfiyyah untuk mengusir jin & s
 Karena **dzukūr lebih dari 5**, wajib **adjust 3 terakhir dari laqth** — jumlahkan & **tajfīr (reduksi) hingga 1 huruf:** **[ج+ش+غ = 1303 = 7 → ز]** (*Zāy* menggantikan mereka) → **huruf Afrād jadi [ص ا ن ق ز]**, Azwāj tetap **[د و ر ض]**.
 
 **Peletakan:** **Afrād di rumah [أجهزط]**, **Azwāj di rumah [بدوح]** — urut **dari terkecil ke terbesar** (bersambung hal 57).
-
----
-
 ## HALAMAN 57 — Asrār al-Rijāl (Bagian 2/4) — Wafaq Huruf
 
 **[Teks Arab Asli — Judul hlm 57 + tabel huruf]**
@@ -307,9 +285,6 @@ Gambar **Wafaq huruf 3×3** Syaikh Basyir — susunan sesuai kaidah hal 56:
 ```
 
 Huruf Afrād **[ص ا ن ق ز]** + Azwāj **[د و ر ض]** + tambahan **ر و** dari hisab — ditata dalam buyt *Ujhzaṭ/Budūh* — scan `full_p57.png`.
-
----
-
 ## HALAMAN 58 — Asrār al-Rijāl (Bagian 3/4) — Wafaq ‘Adadī 4×4
 
 **[Teks Arab Asli — Tabel angka hlm 58]**
@@ -349,9 +324,6 @@ Kaidah: **hitung sisi panjang-lebar & dua diagonal** — nilainya:
 ```
 
 Konstanta wafaq 4×4 ini **3226** (tiap baris/kolom/diagonal). Scan `full_p58.png`.
-
----
-
 ## HALAMAN 59 — Asrār al-Rijāl (Bagian 4/4) — Natiqah Huruf
 
 **[Teks Arab Asli — Tabel huruf hlm 59]**
@@ -383,9 +355,6 @@ Kemudian **ucapkan setiap bait sebagai huruf** — tiap bait memuat **2–4 huru
 ```
 
 Tiap sel adalah **kombinasi huruf nātiq hasil istinthāq angka di atas** — wafaq siap tashrīf (penggunaan). Scan `full_p59.png`.
-
----
-
 ## HALAMAN 60 — Asrār al-Rijāl (Lanjutan — Istikhrāj al-Rūhānī)
 
 **[Teks Arab Asli — Judul hlm 60]**
@@ -417,9 +386,6 @@ Untuk **menggali Rūhānī-nya, diambil dari bait ke-7 & ke-2**: ambil **huruf N
 Ditutup doa: *As’alu Allāha … an yulhimakum … wa yahdiyanā …*
 
 > *Bab Asrār al-Rijāl bersambung Batch 08 — masih sisa 5 hal (61–65: Washf Mubīn + Jawāb Syāfī + Khatimah).*
-
----
-
 ### KETERANGAN RAJAH — Batch 07
 
 | Halaman | Nama File | Isi | Catatan |
@@ -436,9 +402,5 @@ Ditutup doa: *As’alu Allāha … an yulhimakum … wa yahdiyanā …*
 | 60 | `full_p60.png` | Asrār lanjutan — Rūhānī Thakqāyīl 129 | Hitam + contoh bait 7+2 |
 
 Semua gambar disimpan di `rajah_anwar/` — tidak dialih-aksarakan, hanya sebagai scan 200 DPI (matn murni).
-
----
-
 > **STATUS BATCH 07: SELESAI** (Halaman 51–60 — 10 halaman: Itsbāt Zā’idah + ‘Adad Tilāwah + Tiryāq 2 contoh + Khādim Suflī + Asrār Rijāl 5 hal)
 > Batch berikutnya & terakhir: Halaman 61–65 (Washf Mubīn + Jawāb Syāfī + Khatimah — 5 hal)
-

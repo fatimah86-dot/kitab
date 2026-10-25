@@ -19,7 +19,6 @@ _Syarah._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 02 — IHDA' — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
@@ -46,7 +45,6 @@ _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 03 — IJAZAH 'AMMAH — إِجَازَةُ الشَّيْخِ الْبَشِيرِ
 
@@ -79,7 +77,6 @@ _Syarah._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 04 — SAMPUL DALAM — فَوَائِدُ وَمُجَرَّبَاتُ
 
 ### arab
@@ -96,7 +93,6 @@ _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 05 — FIHRIS — فِهْرِسُ مُجَرَّبَاتِ
 
@@ -128,7 +124,6 @@ _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 06 — FAEDAH MAYSARAH 1/3 — طَرِيقَةُ الْمَيْسَرَةِ
 
@@ -174,7 +169,6 @@ _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 07 — FAEDAH MAYSARAH 2/3 — LANJUTAN
 
@@ -231,7 +225,6 @@ _Syarah._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 08 — FAEDAH MAYSARAH 3/3 — 2 WAFAQ
 
 ### arab
@@ -266,7 +259,6 @@ _Khususiyah._
 ![Halaman 08 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
 [Gambar: Halaman 08]
 
-
 ## HALAMAN 09 — FAEDAH MUHRIQAH 1/2
 
 ### arab
@@ -296,7 +288,6 @@ _Syarah._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 10 — FAEDAH MUHRIQAH 2/2 — JADWAL & QASAM
 
 ### arab
@@ -318,7 +309,6 @@ _Khususiyah._
 
 ![Halaman 10 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg)
 [Gambar: Halaman 10]
-
 
 ## HALAMAN 11 — FAEDAH QATHI'AH 1/2
 
@@ -347,7 +337,6 @@ _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 12 — FAEDAH QATHI'AH 2/2 — WAFAQ 3×3
 
@@ -380,7 +369,6 @@ _Khususiyah._
 
 ![Halaman 12 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_073117.jpg)
 [Gambar: Halaman 12]
-
 
 ## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ
 
@@ -434,7 +422,6 @@ Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). T
 
 ![Halaman 13 — Scan 300 DPI](hal_13.png)
 [Gambar: Halaman 13]
-
 
 ## HALAMAN 14 — ZAJR QATHI' 2/3 — الزَّجْرُ الْقَاطِعُ (LANJUTAN)
 
@@ -529,7 +516,6 @@ Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan sete
 ![Halaman 14 — Scan 300 DPI](hal_14.png)
 [Gambar: Halaman 14]
 
-
 ## HALAMAN 15 — FAIDAH THARD 'ATHLUSYIN 1/2 — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ
 
 ### arab
@@ -578,7 +564,6 @@ Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, w
 
 ![Halaman 15 — Scan 300 DPI](hal_15.png)
 [Gambar: Halaman 15]
-
 
 ## HALAMAN 16 — FAIDAH THARD 'ATHLUSYIN 2/2 — WAFAQ 3×3
 
@@ -640,7 +625,6 @@ Khasiat: mengunci ‘Athlūsy agar tidak merusak amal apapun — setelah 7 hari 
 ![Halaman 16 — Scan 300 DPI](hal_16_wafaq_athlush.jpg)
 [Gambar: Halaman 16]
 
-
 ## HALAMAN 17 — AD-DURRAH AN-NŪRĀNIYYAH 1/2 — الدُّرَّةُ النُّورَانِيَّةُ
 
 ### arab
@@ -688,12 +672,10 @@ Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الر�
 ![Halaman 17 — Scan 300 DPI](hal_17.png)
 [Gambar: Halaman 17]
 
-
 ## HALAMAN 18 — WAFAQ MURABBA‘ JALĀLAH 4×4 — وَفْقُ الْجَلَالَةِ
 
 ### arab
 الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
-
 
 | ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
 |---|---|---|---|
@@ -736,13 +718,6 @@ Khasiat: syifā’ ruhaniyyah + jasadiyyah — untuk ‘ayn ḥasūd, mass, wasw
 
 ![Halaman 18 — Scan 300 DPI](hal_18.png)
 [Gambar: Halaman 18]
-
-
-
----
-
-# REVISI HAL 19-20 — فَائِدَةٌ فِي تَدْمِيرِ الظَّالِمِ (5 LAPIS BERSIH)
-
 > Sumber: hal_19.png 1.8M + hal_20_wafaq_3x3.jpg 105K — verifikasi 3× baris-per-baris
 > Format: arab / latin / Terjemahan (tanpa Tanbih Syar'i)
 
@@ -758,7 +733,6 @@ Khasiat: syifā’ ruhaniyyah + jasadiyyah — untuk ‘ayn ḥasūd, mass, wasw
 
 وَبَعْدَ تَمَامِ الْعَزِيمَةِ وَالدُّعَاءِ تَأْخُذُ الْقِطْعَةَ مِنْ عَلَى النَّارِ، تَضَعُهَا فِي قَارُورَةٍ زُجَاجٍ أَوْ مَعْدِنٍ فِيهَا مَاءٌ بَارِدٌ، وَتَسُدُّ عَلَيْهَا فِي مَكَانٍ مُظْلِمٍ، فَتَرَى سِرَّ اللهِ فِي الظَّالِمِ، فَإِنْ عَادَ عَنْ ظُلْمِهِ فَأَخْرِجْهَا مِنَ الْمَاءِ وَاقْرَأْ عَلَيْهَا الْفَاتِحَةَ ٧ مَرَّاتٍ، وَالْمُلْكَ ٧، وَالْإِخْلَاصَ ٧، وَاعْلَمُوا أَنِّي وَضَعْتُ هَذِهِ الْفَائِدَةَ فِي ذِمَّةِ مَنْ فَتَحَ اللهُ لَهُ سِرَّهَا، فَأَيُّهَا الطَّالِبُ رَاعِ حُرْمَةَ اللهِ فِي خَلْقِهِ، وَتَذَكَّرْ أَنَّ يَوْمَ الْحِسَابِ لَا رَيْبَ فِيهِ، وَهَذَا هُوَ الْوَفْقُ
 
-
 ### latin
 
 Fāidatun fī tadmirizh zhālim.
@@ -769,7 +743,6 @@ Tammad du'ā', wal 'azīmah: [Lā ilāha illallāhul Hasībul Wakīl]
 
 Wa ba'da tamāmil 'azīmati wad du'ā'i ta'khudhul qith'ata min 'alan nāri, tadha'uhā fī qārūratin zujājin au ma'danin fīhā mā'un bāridun, wa tasuddu 'alaihā fī makānin muzhlimin, fa-tarā sirrallāhi fizh zhālīm, fa-in 'āda 'an zhulmihī fa-akhrijhā minal mā'i waqra' 'alaihal Fātihata 7 marrāt, wal Mulka 7, wal Ikhlāsha 7, wa'lamū annī wadha'tu hādzihil fāidata fī dzimmati man fatahallāhu lahū sirrahā, fa-ayyuhath thālibu rā'i hurmatallāhi fī khalqihī, wa tadzkar anna yaumal hisābi lā raiba fīh, wa-hādzā huwal wafqu.
 
-
 ### Terjemahan
 
 Faedah dalam menghancurkan orang zalim.
@@ -779,13 +752,7 @@ Assalamu'alaikum warahmatullahi wabarakatuh, wahai saudara-saudaraku karena Alla
 Selesai doa. Adapun azimahnya: [Tidak ada tuhan selain Allah Yang Maha Mencukupi lagi Maha Melindungi].
 
 Setelah sempurna azimah dan doa, ambillah potongan tersebut dari atas api, letakkan dalam botol kaca atau logam yang berisi air dingin, lalu tutuplah dan simpan di tempat yang gelap; niscaya engkau akan melihat rahasia Allah pada orang zalim. Jika ia telah kembali (bertaubat) dari kezalimannya, keluarkan potongan itu dari air dan bacakan di atasnya Al-Fatihah 7 kali, Al-Mulk 7 kali dan Al-Ikhlas 7 kali. Ketahuilah, aku telah meletakkan faedah ini pada tanggungan orang yang Allah bukakan rahasianya baginya; wahai penuntut ilmu, jagalah kehormatan Allah pada makhluk-Nya dan ingatlah bahwa Hari Perhitungan tidak ada keraguan padanya. Dan inilah wafaqnya.
-
-
-
-
----
-
-# HALAMAN 20 — الْوَفْقُ الْمُثَلَّثُ (3×3) لِتَدْمِيرِ الظَّالِمِ
+## HALAMAN 20 — الْوَفْقُ الْمُثَلَّثُ (3×3) لِتَدْمِيرِ الظَّالِمِ
 
 > Wafaq musallas 3×3 — sumber hal_20_wafaq_3x3.jpg — 4 أركان أنفاييل — القلب خالي للميزان
 
@@ -811,13 +778,6 @@ Visual LTR (sebagaimana tampak pada gambar): `614 | 1230 | 52 / 736 | [kosong] |
 
 - تحوطه بالبسملة mulai dari sathr musallas asfal, tulisan muwāliyah lil mutsallas min al-yamīn ilā al-syimāl... إلخ — sesuai teks Hal19.
 - Empat perpotongan arkan diisi أنفاييل — kitābah muwāliyah lil wafqi.
-
-
-
----
-
-# REVISI HAL 21 — فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ (5 LAPIS BERSIH)
-
 ## HALAMAN 21 — فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ
 
 ### arab
@@ -867,4 +827,3 @@ Setelah salat Subuh, duduklah di tempat salatmu; mohon ampunlah kepada Allah 15 
 Kemudian bangkitlah dari sujudmu; mohon ampunlah kepada Allah 15 kali dan bershalawatlah kepada Rasulullah 15 kali.
 
 Selesai. Semoga Allah memberi manfaat kepada kami dan kalian dengan al-Qur'an yang agung, menjadikan kami termasuk orang-orang yang bertakwa, dan memberi petunjuk kepada kami dan kalian kepada jalan-Nya yang lurus.
-

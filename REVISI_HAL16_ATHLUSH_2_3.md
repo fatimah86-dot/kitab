@@ -54,4 +54,3 @@ Khasiat: mengunci ‘Athlūsy agar tidak merusak amal apapun — setelah 7 hari 
 
 ![Halaman 16 — Wafaq ‘Athlūsy 3×3 — Scan 300 DPI](hal_16_wafaq_athlush.jpg)
 [Gambar: Halaman 16 — Wafaq ‘Athlūsy — 3×3 — 8 angka + عَطْلُوشٌ di tengah — RTL]
-

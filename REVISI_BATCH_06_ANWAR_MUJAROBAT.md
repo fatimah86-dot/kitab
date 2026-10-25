@@ -1,13 +1,9 @@
-# REVISI KITAB ANWAR MUJAROBAT SYEIKH BASYIR — BATCH 06
 ## Halaman 41–50 (Penutup Da‘awat wa Riyadhat + Pembuka Durūs ‘Ilm al-Harf wa al-Awfāq)
 
 **Format:** [Teks Arab Asli] → [Transliterasi Latin] → [Terjemahan Indonesia] — Matan Murni
 **Sumber:** anwar_mujarobat_asli.pdf — Halaman PDF 41–50 (scan 65 hal)
 **Tanggal Revisi:** 25 Oktober 2026 — Cabang `arena/a5deab58-kitab`
 **Catatan:** Hal 41–42 menutup kitab *Da‘awat wa Riyadhat* (bab 8–9 dari 9 bab Fihris hal 32: Tahshīn + Āyat al-Kursī). Hal 43–50 membuka kitab ketiga dalam korpus: **Durūs ‘Ilm al-Harf wa al-Awfāq** li al-Syaikh al-Basyīr — 10 durūs (Fihris hal 44). Tetap format akademik harfiah, matan murni tanpa Tanbih Syar‘i.
-
----
-
 ## HALAMAN 41 — Wa Ilaikum al-Tahshīn al-Maw‘ūd bih
 
 **[Teks Arab Asli — Judul + Muqaddimah hitam]**
@@ -44,9 +40,6 @@
 > *Al-Fātihah 1× — Alif Lām Mīm sampai “al-Muflihūn” (QS.2:1–5) 1× — Āyat al-Kursī sampai “Khālidūn” (QS.2:255–257) 1× — “Lillāhi mā fī al-samāwāti…” sampai akhir al-Baqarah (QS.2:284–286) 1× — kemudian: “Bismillāh wa billāh wa minallāh wa ilallāh wa fillāh wa lā ilāha illallāh wa mā al-nashru illā min ‘indillāh wa lā haula wa lā quwwata illā billāhi al-‘Aliyyi al-‘Azhīm. Bismillāh ihtajabtu wa bi-haulillāh i‘tashamtu wa bi-quwwatillāh istamsaktu, mā syā’ Allāh lā quwwata illā billāh, tawakkaltu ‘alallāh wa hasbiyallāh wa lā ilāha illallāh al-Hayyu al-Qayyūm al-‘Aliyyu al-‘Azhīm. Allāhumma ihjibnī min jamī‘i ashnāfi al-jinni wa anwā‘ihā wa ajnāsihā bi-kalimātika al-tāmmāti al-mubārakāt wa bi-Ismika al-A‘zhami al-Mubajjali al-Mukarram hijāban māni‘an saqfuhu madadu nūri Ismika al-Hayyi al-Qayyūm, hīthānuhu ‘Salāmun Qaulam min Rabbin Rahīm’, dā’iratuhu ‘Lahu Mu‘aqqibātun min baina yadaihi wa min khalfihi yahfazhūnahu min Amri Allāh’, wa Allāhu min warā’ihim Muhīth, ‘Inna ‘Ibādī Laisa laka ‘alaihim Sulthān wa Kafā bi-Rabbika Wakīlā. Allāhumma ihfazhnī min fauqī wa min tahtī wa min amāmī wa min khalfī wa ‘an yamīnī wa ‘an syimālī bimā hafizhta bihi al-Dzikra al-Hakīm, innaka ‘alā kulli syai’in Qadīr, wa shalli Allāhumma ‘alā Sayyidinā Muhammad wa ‘alā Ālihi wa Shahbihi wa sallim taslīmā.”*
 
 **Aturan baca (hitam bawah):** Dibaca **7× sebelum setiap amal**. Jika ingin dijadikan **wirid harian**, baca **5× setelah Shubuh dan 5× setelah Maghrib**. *Waffaqakumullāh limā yuhibbuhu wa yardhāh.* Scan dilestarikan `full_p41.png`.
-
----
-
 ## HALAMAN 42 — Da‘wah Āyat al-Kursī al-Syarīfah
 
 **[Teks Arab Asli — Muqaddimah hitam atas]**
@@ -82,9 +75,6 @@
 **Teks doa (merah, 1 hal penuh):** Dimulai *“Bismillāhirrahmānirrahīm, al-Hamdu lillāhi alladzī khalaqa al-‘ālami wa yassara al-‘ulūma wa ajrā al-aflāka …”* — pujian panjang atas keagungan Allah: Pencipta alam, Pengatur falak & bintang, Yang Mengetahui zhahir-bathin & sirr maktum, Pemberi rezeki & ajal mahtum, Yang tidak mengantuk-tidur, al-Qābidh al-Bāsith, Pemilik langit-bumi, Pemberi tutup & keamanan, Pelindung mukminin, Pemberi syafa‘ah dengan izin-Nya, Yang Mengetahui depan-belakang makhluk, Pencipta dua alam & Tsaqalain, Rabb Masyriqain-Maghribain, Yang Kursi-Nya meliputi langit-bumi tanpa berat memeliharanya — *Tabārakallāh Rabbanā Dzu al-Jalāli wa al-Ikrām* — dst. hingga menyebut penciptaan surga-neraka, hidayah-dhalalah, puncak dengan **shalawat kepada Sayyidina Muhammad shahib al-mu‘jizat wa al-āsār**, permohonan **khair & barakat terbaik yang diturunkan kepada hamba & wali**, naungan ridha-‘afw-magfirah-rahmat yang meliputi segala sesuatu, mahabbah-qabul-taubah-inabah-ijabah, hifzh di hidup-mati, *yā Qarīb yā Samī‘ yā Mujību al-da‘awāt*, dan *lā haula wa lā quwwata illā bik*.
 
 **Penutup (hitam):** *Selesai doa yang diberkahi — aku memohon kepada Allah al-‘Aliyy al-Qadīr agar memberi manfaat kepada kalian dengannya dan mencurahkan cahayanya — Dialah Walinya dan Yang Maha Kuasa atasnya. Wahai saudara-saudaraku karena Allah, aku harap maaf karena lupa jumlah bacaannya — ia memiliki **3 bilangan: 7 atau 11 atau 49**, semuanya bermanfaat dengan izin Allah.* Scan `full_p42.png` (merah padat) dilestarikan — transliterasi lengkap tersedia di atas (awal-akhir utuh; tengah diringkas 500+ kata sesuai naskah).
-
----
-
 ## HALAMAN 43 — Sampul Kitab Ketiga: Durūs ‘Ilm al-Harf wa al-Awfāq
 
 **[Teks Arab Asli — Sampul hijau besar]**
@@ -106,9 +96,6 @@
 **Syaikh al-Basyīr**
 
 *Halaman sampul kitab ketiga setelah khatam Da‘awat (hal 42). Latar watermark tipis “al-Basyīr”. Menandai awal korpus Durūs — 10 pelajaran.*
-
----
-
 ## HALAMAN 44 — Fihris Durūs al-Syaikh al-Basyīr
 
 **[Teks Arab Asli — Judul merah + daftar hitam 10 butir]**
@@ -155,9 +142,6 @@
 8. Rahasia para ahli dalam menggunakan ayat-ayat Qur’an untuk mengusir jin & syaitan
 9. Uraian terang setelah penyamaran para pengaku — tentang cara menggali khadam ruhani
 10. Jawaban yang menyembuhkan
-
----
-
 ## HALAMAN 45 — Mabādī al-Awfāq (Bagian 1/2)
 
 **[Teks Arab Asli — Judul hitam + matan hitam padat]**
@@ -199,9 +183,6 @@ Ketahuilah: **awfāq terbagi 2: harfiyyah (berbasis huruf) & ‘adadiyyah (berba
 
 > **Kaidah merah-biru hlm 45 bawah:**
 > *Amalan harfiyyah-wafqiyyah memiliki **[3 tingkatan — harap berhenti pada kalimat ini baik-baik]** — bila amal adalah **thālib & mathlūb: mathlūb 3 nūrāniyyah + 2 zhulmāniyyah; bila amal thālib & thalab: 5 nūrāniyyah; bila amal mathlūb & thalab: 5 zhulmāniyyah. Perhatikan baik-baik — telah kusingkap rahasia penting dalam urutan martabat amalan — isyaratnya ada pada **mutsallats thabī‘ī** (wafaq 3×3 alami).*
-
----
-
 ## HALAMAN 46 — Mabādī al-Awfāq (Bagian 2/2) — al-Mutsallats
 
 **[Teks Arab Asli — Judul]**
@@ -244,9 +225,6 @@ Gambar **Wafaq Mutsallats (3×3) Syaikh al-Basyir** — susunan klasik:
 ```
 
 *Setiap baris, kolom, diagonal berjumlah 15 — konstanta wafaq muthallats thabī‘ī. Inilah wafaq dasar yang menjadi isyarat tingkatan amalan (hlm 45). Sumber scan `full_p46.png` dilestarikan; tertera alamat lama forum al-Anwar al-Qadiriyyah.*
-
----
-
 ## HALAMAN 47 — Kasyf al-Sitār ‘an al-Mutsallats wa mā Yahmiluhu min Asrār (Bagian 1/3)
 
 **[Teks Arab Asli — Judul]**
@@ -299,9 +277,6 @@ Kita tahu semua: **mutsallats memuat 9 huruf** — terbagi menjadi **nūrāniyya
 - **Tsaqīlah (berat) = huruf turābiyyah + mā’iyyah**
 
 Ketahuilah: **huruf-huruf Afrād adalah asal (pokok) dalam mutsallats, huruf Azwāj adalah cabang — diekstrak & dilahirkan dari Afrād**. Renungkan ayat-ayat Allah tentang **awal penciptaan Adam dari tanah dan Hawa dari tulang rusuk Adam** — itulah isyarat rahasia Allah dalam ilmu ini — kita sedang membahasnya. **Az-wāj diekstrak dari Afrād — berikut rinciannya (hlm 48).**
-
----
-
 ## HALAMAN 48 — Kasyf al-Sitār (Bagian 2/3) — Istikhrāj al-Azwāj min al-Afrād
 
 **[Teks Arab Asli — Perhitungan kanan]**
@@ -361,9 +336,6 @@ Jīm  Hā’  Zāy
 *Salib huruf mutsallats — poros Hā’-pusat.*
 
 Lanjutan: *Adapun **pintu penolakan (madkhal al-daf‘) kebalikannya** — peletakan dengan Azwāj dan Afrād diekstrak dari Azwāj — maka **Bait al-Qalam & al-Lauh keluar dari zhahir rumah-rumah Nār-Turāb-Mā’-Hawā’**, sementara **‘Arsy & Kursī keluar dari bathin rumah Mā’-Turāb-Quthb** karena kemuliaan & nilai keduanya — rinciannya menyusul. Sebelum itu, aku ingin mengingatkan: kebanyakan penuntut terlanjur menancap dalam benak kalimat **“Ujhzaṭu untuk keburukan” — padahal itu huruf-huruf Jalāl & “Budūh untuk kebaikan”** — yang benar **sebaliknya: Ujhzaṭu untuk kebaikan & Budūh untuk keburukan** — ini koreksi penting Syaikh.*
-
----
-
 ## HALAMAN 49 — Kasyf al-Sitār (Bagian 3/3) — Takmilah & Madkhal al-Daf‘
 
 **[Teks Arab Asli — Perhitungan kanan atas]**
@@ -408,9 +380,6 @@ Lanjutan: *Adapun **pintu penolakan (madkhal al-daf‘) kebalikannya** — pelet
 *Di sini **sempurna sudah ekstraksi Afrād & Azwāj dan selesailah peletakan pertama untuk mutsallats al-daf‘ (penolakan)**. Agar tak tersisa kem samar, **ekstraklah tawālud semua huruf** — prosesnya: **bagilah huruf-huruf atas 2,3,4,5,6,7,8,9,10 — ambillah bilangan yang mengekspresikan satu huruf — itulah yang dijadikan pegangan**.*
 
 *(Skema kiri melengkapi salib kedua: Dāl–Bā’ atas, Hā’ tengah, Hā’–Wāw bawah.)*
-
----
-
 ## HALAMAN 50 — Itsbāt al-Jumlah li-Istikhrāj Asrār al-Riyādhāt (Awal)
 
 **[Teks Arab Asli — Judul]**
@@ -452,9 +421,6 @@ Lanjutan: *Adapun **pintu penolakan (madkhal al-daf‘) kebalikannya** — pelet
 *Adapun **kalimat berlebih (zā’idah) punya kaidah khusus agak sulit** — bukan menambah melainkan **menghapus huruf** — dan harus tahu **prioritas penghapusan** untuk huruf berlebih dari 9 — akan kami bentangkan insya Allah secara sederhana rinci agar kalian paham — Wallāhu al-Muwaffaq Wassalām.*
 
 > *Halaman 50 terpotong di tengah kaidah zā’idah — bersambung Batch 07 (hal 51–60).*
-
----
-
 ### KETERANGAN RAJAH — Batch 06
 
 | Halaman | Nama File | Isi | Catatan |
@@ -471,8 +437,5 @@ Lanjutan: *Adapun **pintu penolakan (madkhal al-daf‘) kebalikannya** — pelet
 | 50 | `full_p50.png` | Itsbāt al-Jumlah bag awal — 9 huruf thālib | Hitam + merah contoh Hasan Fatimah/Maryam/Hind |
 
 Semua gambar disimpan di `rajah_anwar/` — tidak dialih-aksarakan, hanya sebagai scan 200 DPI (matn murni).
-
----
-
 > **STATUS BATCH 06: SELESAI** (Halaman 41–50 — 10 halaman: penutup Da‘awat 2 bab + pembuka Durūs 8 hal)
 > Batch berikutnya: Halaman 51–60 (lanjutan Itsbāt al-Jumlah + Qawā‘id Riyadhat/Tiryāq/Khādim Sufli)

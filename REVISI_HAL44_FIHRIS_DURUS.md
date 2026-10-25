@@ -1,5 +1,3 @@
-# REVISI HAL 44 — فِهْرِسُ دُرُوسِ الشَّيْخِ الْبَشِيرِ (DAFTAR ISI PELAJARAN ILMU HURUF & WAFAQ)
-
 ## HALAMAN 44 — فِهْرِسُ دُرُوسِ الشَّيْخِ الْبَشِيرِ
 
 ### arab

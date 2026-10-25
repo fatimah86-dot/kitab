@@ -19,7 +19,6 @@ _Syarah._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 02 — IHDA' — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
@@ -46,7 +45,6 @@ _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 03 — IJAZAH 'AMMAH — إِجَازَةُ الشَّيْخِ الْبَشِيرِ
 
@@ -79,7 +77,6 @@ _Syarah._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 04 — SAMPUL DALAM — فَوَائِدُ وَمُجَرَّبَاتُ
 
 ### arab
@@ -96,7 +93,6 @@ _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 05 — FIHRIS — فِهْرِسُ مُجَرَّبَاتِ
 
@@ -128,7 +124,6 @@ _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 06 — FAEDAH MAYSARAH 1/3 — طَرِيقَةُ الْمَيْسَرَةِ
 
@@ -174,7 +169,6 @@ _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 07 — FAEDAH MAYSARAH 2/3 — LANJUTAN
 
@@ -231,7 +225,6 @@ _Syarah._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 08 — FAEDAH MAYSARAH 3/3 — 2 WAFAQ
 
 ### arab
@@ -266,7 +259,6 @@ _Khususiyah._
 ![Halaman 08 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
 [Gambar: Halaman 08]
 
-
 ## HALAMAN 09 — FAEDAH MUHRIQAH 1/2
 
 ### arab
@@ -296,7 +288,6 @@ _Syarah._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-
 ## HALAMAN 10 — FAEDAH MUHRIQAH 2/2 — JADWAL & QASAM
 
 ### arab
@@ -318,7 +309,6 @@ _Khususiyah._
 
 ![Halaman 10 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg)
 [Gambar: Halaman 10]
-
 
 ## HALAMAN 11 — FAEDAH QATHI'AH 1/2
 
@@ -347,7 +337,6 @@ _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
 
 ## HALAMAN 12 — FAEDAH QATHI'AH 2/2 — WAFAQ 3×3
 
@@ -380,7 +369,6 @@ _Khususiyah._
 
 ![Halaman 12 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_073117.jpg)
 [Gambar: Halaman 12]
-
 
 ## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ
 
@@ -434,7 +422,6 @@ Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). T
 
 ![Halaman 13 — Scan 300 DPI](hal_13.png)
 [Gambar: Halaman 13]
-
 
 ## HALAMAN 14 — ZAJR QATHI' 2/3 — الزَّجْرُ الْقَاطِعُ (LANJUTAN)
 
@@ -529,7 +516,6 @@ Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan sete
 ![Halaman 14 — Scan 300 DPI](hal_14.png)
 [Gambar: Halaman 14]
 
-
 ## HALAMAN 15 — FAIDAH THARD 'ATHLUSYIN 1/2 — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ
 
 ### arab
@@ -578,7 +564,6 @@ Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, w
 
 ![Halaman 15 — Scan 300 DPI](hal_15.png)
 [Gambar: Halaman 15]
-
 
 ## HALAMAN 16 — FAIDAH THARD 'ATHLUSYIN 2/2 — WAFAQ 3×3
 
@@ -640,7 +625,6 @@ Khasiat: mengunci ‘Athlūsy agar tidak merusak amal apapun — setelah 7 hari 
 ![Halaman 16 — Scan 300 DPI](hal_16_wafaq_athlush.jpg)
 [Gambar: Halaman 16]
 
-
 ## HALAMAN 17 — AD-DURRAH AN-NŪRĀNIYYAH 1/2 — الدُّرَّةُ النُّورَانِيَّةُ
 
 ### arab
@@ -688,12 +672,10 @@ Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الر�
 ![Halaman 17 — Scan 300 DPI](hal_17.png)
 [Gambar: Halaman 17]
 
-
 ## HALAMAN 18 — WAFAQ MURABBA‘ JALĀLAH 4×4 — وَفْقُ الْجَلَالَةِ
 
 ### arab
 الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
-
 
 | ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
 |---|---|---|---|
@@ -736,13 +718,6 @@ Khasiat: syifā’ ruhaniyyah + jasadiyyah — untuk ‘ayn ḥasūd, mass, wasw
 
 ![Halaman 18 — Scan 300 DPI](hal_18.png)
 [Gambar: Halaman 18]
-
-
-
----
-
-# REVISI HAL 19-20 — فَائِدَةٌ فِي تَدْمِيرِ الظَّالِمِ (5 LAPIS BERSIH)
-
 > Sumber: hal_19.png 1.8M + hal_20_wafaq_3x3.jpg 105K — verifikasi 3× baris-per-baris
 > Format: arab / latin / Terjemahan (tanpa Tanbih Syar'i)
 
@@ -758,7 +733,6 @@ Khasiat: syifā’ ruhaniyyah + jasadiyyah — untuk ‘ayn ḥasūd, mass, wasw
 
 وَبَعْدَ تَمَامِ الْعَزِيمَةِ وَالدُّعَاءِ تَأْخُذُ الْقِطْعَةَ مِنْ عَلَى النَّارِ، تَضَعُهَا فِي قَارُورَةٍ زُجَاجٍ أَوْ مَعْدِنٍ فِيهَا مَاءٌ بَارِدٌ، وَتَسُدُّ عَلَيْهَا فِي مَكَانٍ مُظْلِمٍ، فَتَرَى سِرَّ اللهِ فِي الظَّالِمِ، فَإِنْ عَادَ عَنْ ظُلْمِهِ فَأَخْرِجْهَا مِنَ الْمَاءِ وَاقْرَأْ عَلَيْهَا الْفَاتِحَةَ ٧ مَرَّاتٍ، وَالْمُلْكَ ٧، وَالْإِخْلَاصَ ٧، وَاعْلَمُوا أَنِّي وَضَعْتُ هَذِهِ الْفَائِدَةَ فِي ذِمَّةِ مَنْ فَتَحَ اللهُ لَهُ سِرَّهَا، فَأَيُّهَا الطَّالِبُ رَاعِ حُرْمَةَ اللهِ فِي خَلْقِهِ، وَتَذَكَّرْ أَنَّ يَوْمَ الْحِسَابِ لَا رَيْبَ فِيهِ، وَهَذَا هُوَ الْوَفْقُ
 
-
 ### latin
 
 Fāidatun fī tadmirizh zhālim.
@@ -768,7 +742,6 @@ Assalāmu 'alaikum wa rahmatullāhi wa barakātuh, ikhwatī fillāh, irta'aitu a
 Tammad du'ā', wal 'azīmah: [Lā ilāha illallāhul Hasībul Wakīl]
 
 Wa ba'da tamāmil 'azīmati wad du'ā'i ta'khudhul qith'ata min 'alan nāri, tadha'uhā fī qārūratin zujājin au ma'danin fīhā mā'un bāridun, wa tasuddu 'alaihā fī makānin muzhlimin, fa-tarā sirrallāhi fizh zhālīm, fa-in 'āda 'an zhulmihī fa-akhrijhā minal mā'i waqra' 'alaihal Fātihata 7 marrāt, wal Mulka 7, wal Ikhlāsha 7, wa'lamū annī wadha'tu hādzihil fāidata fī dzimmati man fatahallāhu lahū sirrahā, fa-ayyuhath thālibu rā'i hurmatallāhi fī khalqihī, wa tadzkar anna yaumal hisābi lā raiba fīh, wa-hādzā huwal wafqu.
-
 
 ### Terjemahan
 
@@ -780,7 +753,6 @@ Selesai doa. Adapun azimahnya: [Tidak ada tuhan selain Allah Yang Maha Mencukupi
 
 Setelah sempurna azimah dan doa, ambillah potongan tersebut dari atas api, letakkan dalam botol kaca atau logam yang berisi air dingin, lalu tutuplah dan simpan di tempat yang gelap; niscaya engkau akan melihat rahasia Allah pada orang zalim. Jika ia telah kembali (bertaubat) dari kezalimannya, keluarkan potongan itu dari air dan bacakan di atasnya Al-Fatihah 7 kali, Al-Mulk 7 kali dan Al-Ikhlas 7 kali. Ketahuilah, aku telah meletakkan faedah ini pada tanggungan orang yang Allah bukakan rahasianya baginya; wahai penuntut ilmu, jagalah kehormatan Allah pada makhluk-Nya dan ingatlah bahwa Hari Perhitungan tidak ada keraguan padanya. Dan inilah wafaqnya.
 
-
 ### Syarah dan Penjelasan
 
 Faedah Tadmīr azh-Zhālim ini termasuk tashrīf langka dari wirid Hasbunallāh wa Ni‘mal-Wakīl. Penulis menegaskan syarat ketat: hanya untuk orang yang benar-benar zhalim, melampaui batas dan takabbur; penyalahgunaan untuk kezhaliman akan berbalik sebagai racun. Rahasia disembunyikan dalam hisab: tembaga merah ukuran telapak tangan diukir dengan paku baja, dibingkai basmalah dan empat sudut nama raja ruhaniyah Anfāyīl. Inti amalan adalah hisab jantung musallas: nama zhālim + nama ibunya dicampur huruf khādim Malūbāyīl, di-taksīr hingga makhraj, lalu diambil huruf-huruf daf‘ dari sathr al-mīzān beserta huruf sesudahnya, dijumlahkan dan dimasukkan ke qalbul-mutsallas dengan lingkaran. Pembakaran di atas api dengan bukhūr qisth al-murr dan pembacaan ‘azīmah 1264× serta du‘ā di atas ‘aqd menjadi kunci pengaktifan; pembalikan ke air dingin di tempat gelap sebagai penahan energi, dan cara pemulihan bila pelaku bertaubat (Fātihah, Mulk, Ikhlās 7×).
@@ -788,12 +760,7 @@ Faedah Tadmīr azh-Zhālim ini termasuk tashrīf langka dari wirid Hasbunallāh 
 ### Khususiyah dan Tatacara Praktik
 
 Amalan ini bersifat darurat dan sangat keras; tidak boleh untuk dendam pribadi ringan. Kehati-hatian dalam hisab wajib: salah hitung merusak khasiat. Penempatan di air gelap menahan pengaruh; pencabutan dan pembacaan surat-surat penyejuk menjadi penawar. Penulis mengikat amanah pada pembaca: jaga kehormatan makhluk Allah dan ingat Hari Hisab.
-
-
-
----
-
-# HALAMAN 20 — الْوَفْقُ الْمُثَلَّثُ (3×3) لِتَدْمِيرِ الظَّالِمِ
+## HALAMAN 20 — الْوَفْقُ الْمُثَلَّثُ (3×3) لِتَدْمِيرِ الظَّالِمِ
 
 > Wafaq musallas 3×3 — sumber hal_20_wafaq_3x3.jpg — 4 أركان أنفاييل — القلب خالي للميزان
 
@@ -820,7 +787,6 @@ Visual LTR (sebagaimana tampak pada gambar): `614 | 1230 | 52 / 736 | [kosong] |
 - تحوطه بالبسملة mulai dari sathr musallas asfal, tulisan muwāliyah lil mutsallas min al-yamīn ilā al-syimāl... إلخ — sesuai teks Hal19.
 - Empat perpotongan arkan diisi أنفاييل — kitābah muwāliyah lil wafqi.
 
-
 ### Syarah dan Penjelasan
 
 Wafaq musallas 3×3 Tadmīr azh-Zhālim berbingkai hijau dengan empat sudut Anfāyīl (diagonal) dan bingkai basmalah muwāliyah lil-mutsallas. Delapan angka luar berjumlah 1896 per baris/kolom (614+1230+52=1896 dst.), jantung dibiarkan kosong untuk diisi hasil hisab huruf daf‘ yang dilingkari. Angka-angka ditulis dengan tinta asror tanpa dialih-aksarakan; keempat arkan berfungsi sebagai pasak penjaga segitiga.
@@ -828,13 +794,6 @@ Wafaq musallas 3×3 Tadmīr azh-Zhālim berbingkai hijau dengan empat sudut Anf�
 ### Khususiyah dan Tatacara Praktik
 
 Wafaq ini tidak berdiri sendiri: harus diukir di tembaga merah, dibasuh basmalah, diasapi qisth al-murr, dibakar, direndam, dan diaktifkan dengan ‘azīmah 1264×. Kehati-hatian dalam arah tulisan (kanan→kiri, muwāliyah) menentukan kesempurnaan hisab.
-
-
-
----
-
-# REVISI HAL 21 — فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ (5 LAPIS BERSIH)
-
 ## HALAMAN 21 — فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ
 
 ### arab
@@ -885,7 +844,6 @@ Kemudian bangkitlah dari sujudmu; mohon ampunlah kepada Allah 15 kali dan bersha
 
 Selesai. Semoga Allah memberi manfaat kepada kami dan kalian dengan al-Qur'an yang agung, menjadikan kami termasuk orang-orang yang bertakwa, dan memberi petunjuk kepada kami dan kalian kepada jalan-Nya yang lurus.
 
-
 ### Syarah dan Penjelasan
 
 Hakikat Qarin (al-Qarīn al-Mu'dzī): setiap manusia didampingi qarin jin sejak lahir; bila jiwa lemah, qarin menguasai dengan was-was, malas ibadah, halwasah. Bacaan ar-Rahmān + 13 ayat sajdah menciptakan puncak ketundukan; sujud saat ayat sajdah menghinakan syaitan yang enggan sujud dahulu. Rahasia huruf dalam doa sujud (qāf qudratika, hā' hidāyatika, alif azaliyyatika, rā' rahmatika) merangkai Q-H-A-R yang membentuk Ya Qahhār.
@@ -893,13 +851,6 @@ Hakikat Qarin (al-Qarīn al-Mu'dzī): setiap manusia didampingi qarin jin sejak 
 ### Khususiyah dan Tatacara Praktik
 
 Amalan tanpa rajah/wafaq, murni tilawah, sujud dan du‘ā, sehingga aman untuk siapa saja setelah Shubuh. Penguncian angka 15 (istighfār 15× + shalawat 15× di awal dan akhir) mengapit doa sujud di hadapan ‘Arsy; pembacaan ayat sajdah Maryam di dalam sujud menjadi inti qahr.
-
-
-
----
-
-# REVISI HAL 22-24 — السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ (5 LAPIS BERSIH)
-
 ## HALAMAN 22-24 — السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ
 
 ### arab
@@ -1060,7 +1011,6 @@ Telah selesai, wahai saudara-saudaraku karena Allah, ayat-ayat yang mulia terseb
 
 Dan inilah wafaqnya.
 
-
 ### Syarah dan Penjelasan
 
 Wafaq musallas 3×3 Saif al-Battār memiliki 9 kamar dengan konstanta 582 per baris/kolom/diagonal (165+143+274=582, 303+194+85=582, 114+245+223=582), selaras dengan hitungan wirid Al-Hakīm 582×. Empat sudut luar ditandai simbol G/A sebagai pasak rajah, bingkai diputar dengan ayat Qauluhul-Haqq wa Lahul-Mulk diselingi 29 ayat Al-‘Azīz Al-Hakīm. Fungsi utamanya sebagai pemutus ikatan sihir/pelet Maimūn an-Nikāh (jin mārid Majūsī) yang merusak kehormatan suami-istri; mekanisme wirid Al-Hakīm 582× + ayat-ayat 29× menjadi pemantik pembakar energi sihir.
@@ -1068,13 +1018,6 @@ Wafaq musallas 3×3 Saif al-Battār memiliki 9 kamar dengan konstanta 582 per ba
 ### Khususiyah dan Tatacara Praktik
 
 Penulisan dengan air mawar + za‘faran, pembacaan terpisah (Lā ilāha illallāh per ayat) lalu wirid Al-Hakīm, cocok sebagai hirz pelindung kehormatan. Simetri 582 memancarkan daya hancur bergelombang yang memutus kiriman Maimūn secara instan.
-
-
-
----
-
-# REVISI HAL 25 — فَائِدَةٌ قَاطِعَةٌ لِرَدِّ الْخَادِمِ (5 LAPIS BERSIH)
-
 ## HALAMAN 25 — فَائِدَةٌ قَاطِعَةٌ لِرَدِّ الْخَادِمِ
 
 ### arab
@@ -1130,13 +1073,6 @@ Pendekatan Ritual: Menggabungkan ibadah mahdhah berupa puasa sunnah dua hari (Ka
 Fungsi Utama: Digunakan secara khusus sebagai metode darurat untuk memanggil kembali (raddul-khādim) kekuatan, energi, atau entitas pengawal amalan yang kabur atau terputus koneksinya.
 
 Peringatan Ketat: Diingatkan oleh penyusun kitab agar pengamal senantiasa bertakwa, menjaga batasan syariat, dan tidak menyalahgunakan amalan ini untuk kezaliman.
-
-
-
----
-
-# REVISI HAL 26 — دُعَاءُ الْخَائِفِ (5 LAPIS BERSIH)
-
 ## HALAMAN 26 — دُعَاءُ الْخَائِفِ
 
 ### arab
@@ -1192,13 +1128,6 @@ Kombinasi Ayat-Ayat Penjaga (Āyātul-Hifzh): Doa ini merajut lima pilar ayat pe
 Kepraktisan Tanpa Sarat Berat: Tidak memerlukan tirakat puasa atau penulisan wafaq rumit; cukup dibaca saat merasa terancam atau hendak menemui orang zalim.
 
 Keamanan Mutlak Perjalanan dan Darurat: Sangat ampuh dibaca saat berada di daerah rawan kejahatan, ancaman tindak kekerasan, intimidasi penguasa, maupun gangguan makhluk halus.
-
-
-
----
-
-# REVISI HAL 27 — الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ (5 LAPIS BERSIH)
-
 ## HALAMAN 27 — الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ
 
 ### arab
@@ -1282,10 +1211,6 @@ Rahasia “al-‘Asyr Qālā t” — sepuluh dialog tauhid Nabi Musa melawan Fi
 ### Khususiyah dan Tatacara Praktik
 
 Garansi permanen (lā tanhallu): dirancang pada jam Bulan agar tidak luntur oleh waktu. Spesifik penghancur sihir buhul hembusan (an-naffātsāti fil-‘uqad) — tali/ikatan yang ditiup mantra.
-
-
-
-# REVISI HAL 28 — الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ (٢/٢ — الْوَفْقُ الثُّلَاثِيُّ)
 
 ## HALAMAN 28 — الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ
 

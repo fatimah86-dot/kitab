@@ -1,10 +1,6 @@
-# REVISI BATCH 02 V2 — HAL 09–13 — 9 KETENTUAN BARU (Lanjutan Batch01 V2)
 > **Sumber:** anwar_mujarobat_asli.pdf Hal PDF 09–13/65 — scan 300 DPI `rajah_anwar_v2_300/hal09_300dpi.png` s/d `hal13_300dpi.png` — **Wafaq sumber tunggal:** `rajah_anwar_FINAL_300DPI/` (jangan crop ulang)
 > **Tanggal:** 25 Okt 2026 — Cabang `arena/4a8b9c56-kitab`
 > **Template:** (1) Arab Full Harokat (2) Nahwu-Sharaf (3) 3 Hukum Washal (4) Latin Washal Bunyi (5) Terjemahan (6) Syarah (7) Khususiyah & Tata Cara (8) Struktur Kitab (9) Crop 300 DPI FINAL
-
----
-
 ## HALAMAN 09 — FAEDAH MUHRIQAH THARIDAH 1/2 — فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
 
 ### 1) Arab Full Harokat
@@ -65,9 +61,6 @@ Faedah ini adalah **Faedah 02** (pertama dari seri jin). Kaidah **mazj thabi'ah*
 
 ### 9) Crop 300 DPI — Sumber Tunggal FINAL
 Tanpa wafaq di Hal09 (teks teori saja). Arsip full: `rajah_anwar_v2_300/hal09_300dpi.png` (3300×2550, 1.6 MB, kuning krem). **Wafaq Hal09 belum ada** — jadwal baru di Hal10.
-
----
-
 ## HALAMAN 10 — FAEDAH MUHRIQAH 2/2 — JADWAL & QASAM
 
 ### 1) Arab Full Harokat
@@ -132,9 +125,6 @@ Contoh praktik **Hasan bin Ruqayyah**: dari taksir nama + huruf thabi'ah diperol
   - Link raw: `https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg`
   - Deskripsi: Tabel 5 baris huruf campuran (ا ح د س ط ن ...), 4 diagonal merah Ḥinqāyīl (حنقاييل).
 - Untuk Hal10, **jangan** pakai `rajah_anwar/rajah_p10_jadwal_muhriqah.png` lama (200 DPI) — pakai FINAL di atas.
-
----
-
 ## HALAMAN 11 — FAEDAH QATHI'AH LI 'ILAJ AL-MASS 1/2
 
 ### 1) Arab Full Harokat
@@ -191,9 +181,6 @@ Faedah ini **Fā'idah Qāthi'ah** = pemutus (qāthi' = memutuskan ikatan jin). *
 
 ### 9) Crop 300 DPI — Sumber Tunggal FINAL
 Tanpa wafaq di Hal11 (teks + daftar ayat). Arsip full: `rajah_anwar_v2_300/hal11_300dpi.png` (3300×2550, 840KB). **Wafaq baru di Hal12** — pakai crop FINAL (lihat Hal12).
-
----
-
 ## HALAMAN 12 — FAEDAH QATHI'AH 2/2 — WAFAQ 3×3
 
 ### 1) Arab Full Harokat (teks luar wafaq)
@@ -251,9 +238,6 @@ Tata cara sama Hal11 — wafaq ini yang ditulis di bejana. Tulis angka dengan ti
 - **Crop FINAL Anda:** `rajah_anwar_FINAL_300DPI/IMG_20261025_073117.jpg` — 683×263 px, 79 KB — **[Gambar 2.2: Wafaq Qathi'ah li 'Ilaj al-Mass 3×3 Angka — 6000/1209/18 — Crop Asli 300 DPI]**
   - Link raw: `https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_073117.jpg`
   - Garis merah 2pt, angka hitam, latar putih.
-
----
-
 ## HALAMAN 13 — AL-ZAJR AL-QATHI' LI AKHDZ AL-'AHD 1/3
 
 ### 1) Arab Full Harokat
@@ -315,9 +299,5 @@ Faedah ini **Faedah 04 awal** (Hal13) — pengantar Zajr Qathi' yang akan berlan
 
 ### 9) Crop 300 DPI — Sumber Tunggal FINAL
 Tanpa wafaq di Hal13 (teks merah/hitam). Arsip full: `rajah_anwar_v2_300/hal13_300dpi.png` (3300×2550, 780KB, teks hitam-merah).
-
----
-
 > **KHATAM BATCH 02 V2 (Hal 09-13) — 5 Halaman — 9 Ketentuan Selesai.**
 > 5 halaman (Muhriqah 2 hal + Qathi'ah 2 hal + Zajr 1 hal) dengan 2 wafaq (Jadwal 5×15 & Wafaq 3×3) dari **rajah_anwar_FINAL_300DPI/** sumber tunggal. Google Docs: Hal09-13 appended. GitHub: `REVISI_BATCH_02_V2_9KETENTUAN__HAL09-13.md` + 5 PNG v2_300 + 2 JPG FINAL.
-
