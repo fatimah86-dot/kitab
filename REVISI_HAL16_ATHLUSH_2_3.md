@@ -3,12 +3,12 @@
 ### arab
 وَالْوَفْقُ هُوَ هَكَذَا — يُكْتَبُ بِصَمْغٍ فِي الْيَدِ الْيُمْنَى:
 
-| ٣ | ١١١١ | ١ |
+| ١ | ١١١١ | ٣ |
 |---|---|---|
-| ١١١٠ | عَطْلُوشٌ | ٥ |
-| ٢ | ٤ | ١١٠٩ |
+| ٥ | عَطْلُوشٌ | ١١١٠ |
+| ١١٠٩ | ٤ | ٢ |
 
-*تنبيه: الجدول يُقرأ يمينًا إلى يسارٍ كالعربية — الخلية اليُمنى هي (١) واليُسرى هي (٣) في السطر الأول، وهكذا.*
+*تنبيه: الجدول يُقرأ يمينًا إلى يسارٍ كالعربية — الخلية اليُمنى هي (٣) واليُسرى هي (١) في السطر الأول، وهكذا.*
 
 ثُمَّ بَعْدَ الدَّفْنِ تَقْرَأُ كَمَا تَقَدَّمَ آيَةَ الْكُرْسِيِّ إِلَى ﴿ خَالِدُونَ ﴾ وَسُورَةَ الْمُلْكِ، وَلَا تَلْتَفِتْ.
 
@@ -17,10 +17,10 @@
 ### latin
 Wal-wafqu huwa hākadzā — yuktabu bishamghin fīl-yadil-yumnā:
 
-| ٣ | ١١١١ | ١ |
+| ١ | ١١١١ | ٣ |
 |---|---|---|
-| ١١١٠ | عَطْلُوشٌ | ٥ |
-| ٢ | ٤ | ١١٠٩ |
+| ٥ | عَطْلُوشٌ | ١١١٠ |
+| ١١٠٩ | ٤ | ٢ |
 
 [Rajah Asror — tidak dilatin-kan — angka dan huruf di dalam wafaq tidak diterjemahkan]
 
@@ -33,12 +33,12 @@ Tsumma ba‘dad-dafni taqra’u kamā taqaddama āyatal-kursiyyi ilā ... khāli
 ### Terjemahan
 Dan wafaqnya adalah seperti ini — ditulis dengan *shamgh* pada tangan kanan:
 
-| ٣ | ١١١١ | ١ |
+| ١ | ١١١١ | ٣ |
 |---|---|---|
-| ١١١٠ | عَطْلُوشٌ | ٥ |
-| ٢ | ٤ | ١١٠٩ |
+| ٥ | عَطْلُوشٌ | ١١١٠ |
+| ١١٠٩ | ٤ | ٢ |
 
-*Catatan: tabel dibaca dari kanan ke kiri seperti Arab — sel kanan baris pertama adalah (1) dan sel kiri adalah (3), demikian seterusnya.*
+*Catatan: tabel dibaca dari kanan ke kiri seperti Arab — sel kanan baris pertama adalah (3) dan sel kiri adalah (1), demikian seterusnya.*
 
 Kemudian setelah penguburan, bacalah sebagaimana telah dijelaskan Ayat Kursi sampai *khālidūn* dan Surah al-Mulk, dan jangan menoleh.
 

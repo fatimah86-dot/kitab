@@ -14,10 +14,10 @@
 Cahaya-cahaya Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah.
 
 ### Syarah dan Penjelasan
-_Syarah sesuai nash kitab._
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-_Khususiyah sesuai nash — lihat Syarah._
+_Khususiyah._
 
 
 ## HALAMAN 02 — IHDA' — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
@@ -42,10 +42,10 @@ Ihdā'ush-Syaikhil-Basyīr, uhdī hādzal-'amala ilā Sayyidī Rasūlillāhi ṣ
 Persembahan Syeikh Al-Basyir. Aku hadiahkan karya ini kepada junjunganku Rasulullah shallallahu 'alaihi wa sallam, kepada keluarga beliau yang baik dan terpilih, kepada Syeikh Al-Faqir Al-Qadiri, kepada Dr. Baihuni, dan kepada seluruh fuqara.
 
 ### Syarah dan Penjelasan
-Ihda' adalah adab sufi: menghadiahkan pahala karya kepada Nabi & Ahlul Bait sebelum ilmu disebar — menandakan keberkahan sanad. Syaikh al-Faqir al-Qadiri adalah guru thariqah penulis (disebut juga di ijazah hal 03: «athāla Allāhu lanā fī 'umrih» — semoga dipanjangkan umur). Dr. Bihuni (بيهوني) kemungkinan peneliti/mentor akademik forum — disebut setara guru, menunjukkan kolaborasi sufi-akademik. Fuqara (فقراء) bukan fakir miskin harta, tetapi «faqir ilallāh» — murid yang merasa butuh kepada Allah, istilah Qadiriyah untuk ikhwan.
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-Halaman ihda' tidak ada ritual khusus — fungsinya niyyah & sanad. Adab: baca ihda' dengan khushu', hadiahkan Fatihah setelahnya (seperti ijazah hal 03: shalawat + Fatihah untuk Nabi, guru, diri). Tidak perlu menulis/membakar halaman ini.
+_Khususiyah._
 
 
 ## HALAMAN 03 — IJAZAH 'AMMAH — إِجَازَةُ الشَّيْخِ الْبَشِيرِ
@@ -74,10 +74,10 @@ Laqad ajastukulla maw-wa-shallat ilaihi fawā'idī wa riyādhātī ijāzatan 'ā
 Ijazah dari Syeikh Al-Basyir. Sungguh aku telah memberi ijazah umum kepada setiap orang yang sampai kepadanya faedah-faedah dan riyadhah-riyadhahku, untuk hal yang diridhai Allah dan Rasul-Nya. Caranya: membaca shalawat kepada Al-Habib Al-Musthafa, membaca Al-Fatihah dan menghadiahkan pahalanya kepada ruh Al-Habib Muhammad shallallahu 'alaihi wa sallam, kepada ruh guruku, dan kepada Syeikh Al-Faqir Al-Qadiri — semoga Allah panjangkan umurnya untuk kami. Dengan itu ijazah umum telah sampai kepadanya.
 
 ### Syarah dan Penjelasan
-Ijazah 'ammah adalah sanad terbuka khas tradisi Qadiriyah kontemporer: tidak perlu baiat tatap muka, cukup menerima naskah dengan syarat shalawat & Fatihah. «Fīmā yurdhi Allāha wa Rasūlah» adalah batas maqashid syar'i — ijazah batal jika untuk zalim/sihir merusak (prinsip hal 64: *yu'til hikmata man yasyā'*). Urutan hadiah Fatihah: Nabi → guru → diri penulis → Syaikh Faqir Qadiri, menunjukkan tawadhu' & silsilah. Kalimat «athāla Allāhu lanā fī 'umrih» (semoga Allah panjangkan umur) menunjukkan Syaikh Faqir masih hidup saat kitab ditulis — bukan tokoh wafat.
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-Tata cara menerima ijazah (wajib sebelum amal faedah apa pun): 1) Niat untuk ridha Allah, 2) Shalawat 1× (minimal), 3) Fatihah 1× dengan hadiah seperti di atas (niat dalam hati: «hadiah pahala untuk...»), 4) Yakin ijazah telah washil (sampai) — tidak perlu mimpi/karamah. Khususiyah: ijazah ini mengikat sanad ruhani; mengamalkan tanpa ijazah = tanpa sanad (kurang barakah, meski tetap boleh sebagai doa umum). Tidak ada mahar/puasa khusus untuk ijazah ini.
+_Khususiyah._
 
 
 ## HALAMAN 04 — SAMPUL DALAM — فَوَائِدُ وَمُجَرَّبَاتُ
@@ -92,10 +92,10 @@ Fawā'idu wa Mujarrabātush-Syaikhil-Basyīr
 Faedah-faedah dan mujarrabat-mujarrabat Syeikh Al-Basyir.
 
 ### Syarah dan Penjelasan
-Halaman ini adalah title page dalam (bukan duplikat sampul). Bedanya: sampul hal 01 menyebut forum penerbit, hal 04 hanya menyebut isi (fawaid & mujarrabat). Warna hijau melambangkan keberkahan & Qadiriyah. Fungsi: penanda mulai bab inti setelah muqaddimah sanad (ihda' + ijazah).
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-Sama seperti sampul — tidak ada ritual. Hanya penanda niat: membaca judul dalam ini dengan berharap faidah & mujarrabat yang sahih.
+_Khususiyah._
 
 
 ## HALAMAN 05 — FIHRIS — فِهْرِسُ مُجَرَّبَاتِ
@@ -124,10 +124,10 @@ fawā'idu → fawā'idum-muhriqatun ṭāridatun lil-Jinni wal-Maradati bi'iznil
 Daftar isi mujarrabat Syeikh Al-Basyir. 1. Cara Maysarah untuk menarik rezeki. 2. Faedah pembakar pengusir jin dan maradah dengan izin Allah. 3. Faedah pemutus untuk mengobati kerasukan. 4. Bentakan pemutus untuk mengambil janji dan sumpah atas khadam istinzal. 5. Faedah untuk mengusir 'Uthush perusak amalan ruhani. 6. Mutiara bercahaya untuk mengobati gejala-gejala ruhani. 7. Faedah untuk menghancurkan orang zalim. 8. Faedah mujarrab untuk menundukkan qarin. 9. Pedang pemotong untuk menolak Maimun yang khianat. 10. Faedah pemutus untuk mengembalikan khadam. 11. Doa orang yang takut. 12. Sepuluh ayat pembatal tiupan dan sihir. 13. Faedah untuk kasyaf melalui mimpi.
 
 ### Syarah dan Penjelasan
-Fihris ini adalah peta 13 faedah yang menjadi inti kitab (hal 06–30). Faedah 1–3 tentang rizki & jin; 4–6 tentang khadam & gangguan; 7–9 tentang zhalim & qarin; 10–13 tentang perlindungan & kasyaf. Jumlah 13 bukan 12 seperti dugaan awal (koreksi dari analisis Batch01 lama). Faedah 12 (10 Ayat Mubthilat) merujuk pada kumpulan «10 Qala» yang akan dibahas di hal 27–28 dengan wafaq 2190.
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-Fihris tidak ada amalan — hanya penunjuk. Adab: baca fihris untuk memilih hajat, jangan amalkan semua sekaligus. Prioritaskan faedah yang sesuai hajat & telah dapat ijazah hal 03.
+_Khususiyah._
 
 
 ## HALAMAN 06 — FAEDAH MAYSARAH 1/3 — طَرِيقَةُ الْمَيْسَرَةِ
@@ -170,10 +170,10 @@ Fihris tidak ada amalan — hanya penunjuk. Adab: baca fihris untuk memilih haja
 Cara Maysarah untuk menarik rezeki. Wahai saudara-saudaraku karena Allah, aku letakkan di hadapan kalian mutiara yang bermanfaat ini untuk menarik rezeki dan melariskan perdagangan, yaitu Cara Maysarah. Aku pandang baik untuk meletakkannya bagi kalian karena di dalamnya ada kebaikan dan keberkahan, dan juga karena mengandung kaidah-kaidah huruf yang membantu kalian dalam apa yang sedang kita bahas dengan izin Allah. Aku berikan contoh dengan nama Murad dan ibunya Maryam: م ر ا د م ر ي م = 535, kita ucapkan bilangan itu secara huruf: خَمْسُ مِائَةٍ وَثَلَاثُونَ وَخَمْسُ مِائَةٍ, kemudian kita hilangkan huruf yang berulang sehingga menjadi خ م س و ث ل ن ا هـ = 9 huruf. Begitu juga kita lakukan pada nama penanya, kita hilangkan yang berulang dan huruf mad, sehingga م ر ا د م ر ي م menjadi م ر د ي = 4 huruf. Kemudian kita kurangkan yang lebih sedikit dari yang lebih banyak: 9 - 4 = 5, maka pekerjaannya tetap pada wafaq 5×5 yang jumlah petaknya 25. Kemudian kita bandingkan huruf-huruf lafaz bilangan dengan huruf-huruf penanya dan kita hilangkan yang berulang di antara keduanya: خ م س و ث ل ن ا هـ + م ر د ي menjadi 12 huruf, kita kurangkan dari jumlah petak wafaq 5×5: 25 - 12 = 13. Ini adalah pokok huruf yang telah disesuaikan. Maka kita ambil dari huruf-huruf itu yang jumlahnya kurang dari 13 untuk diletakkan pada wafaq amal, dan yang lebih dari 13 untuk ruhaninya. Huruf-huruf yang dikeluarkan adalah: kurang dari 13: و ا هـ د ي ; lebih dari 13: خ م س و ث ل ن ر. Wajib atas kita menyesuaikan dua huruf zhulmani dari pihak ruhani [خ ث] tetapi penyesuaian dengan mizan yang kekal tanpa nisbah perbedaan, maka kita ganti huruf [خ] dengan huruf [س] dan [ث] dengan huruf [ن] sehingga huruf-hurufnya menjadi [س م س ن ل ن ر] kemudian kita pecah tiga kali seperti ini: س م س ن ل ن ر / ر س ن م ل س ن / ن ر س س ن ل م.
 
 ### Syarah dan Penjelasan
-Faedah Maysarah adalah faedah pertama & paling terperinci (hal 06-08) — menjadi «pintu» hisab huruf untuk 12 faedah lain. Nama Murad bin Maryam = «yang diinginkan bin Maryam» (contoh generik, bukan orang spesifik). Bilangan 535 (khamsu mi'ah ...) adalah hisab Jumal kabir? Bukan, ini hisab lafzhi (melafalkan angka jadi huruf) — metode khas Syeikh Basyir, beda dengan Jumal abjadi biasa (ا=1...). Wafaq mukhammas 5×5 = 25 petak melambangkan keseimbangan 5 rukun / 5 panca indera (tafsir penulis hal 45-46). Pembagian 13 (al-uss al-harfi al-mu'addal) adalah inti: huruf <13 (wafaq amal) vs >13 (ruhani) — angka 13 muncul dari 25−12, menjadi threshold suci (di faedah 08 juga akan muncul 582 etc.). Ta'dil خ→س & ث→ن dengan mizan ibaqi adalah kaidah tabdil zhulmani→nurani — huruf keras (kho, tsa) ditukar ke halus (sin, nun) agar wafaq tidak «panas» (zhulmani = berat, nurani = cahaya).
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-Khasiat: melariskan dagang & menarik rizki halal. Belum ada tatacara di hal 06 — baru hisab. Persiapan: siapkan nama penanya (tholib) + nama ibu, hitung seperti contoh, siapkan kertas putih & tinta misk (akan dirinci hal 07).
+_Khususiyah._
 
 
 ## HALAMAN 07 — FAEDAH MAYSARAH 2/3 — LANJUTAN
@@ -226,15 +226,10 @@ Tsumma nalquthu minas-sathrits-tsānismarrūḥāniyyi mubtadi'īna minal-ḥarf
 Kemudian kita ambil dari baris kedua nama ruhaninya dengan memulai dari huruf kedua dan kita berjalan dengan pelompatan tiga, yaitu [س م س] maka ruhaninya adalah [Samsail]. Kemudian kita ambil dari baris ketiga juga dengan pelompatan tiga dengan memulai dari huruf pertama untuk mengeluarkan ruhani yang menguasai, maka huruf-hurufnya adalah [ن س ل م] maka ruhaninya setelah disusun huruf-hurufnya adalah [Nasmahil]. Kemudian kita ambil huruf-huruf amal dan ruhani yang menguasai yang terhampar tanpa pengulangan dan tanpa huruf-huruf zhulmani dan kita keluarkan darinya nama-nama Allah yang indah yang bercahaya, yaitu [ن ل م س ي هـ و] maka nama-nama yang dikeluarkan adalah [Laa Ilaaha Illallah Al-Muhaimin] dan itulah yang dibaca atas amalan tersebut. Adapun cara amalnya: kita ambil lima huruf untuk amal dan kita bagi 7 untuk mengeluarkan jam amalnya seperti ini: و ا هـ د ي = 27 dibagi 7 hasilnya 3 sisanya 6, maka jam amalnya adalah Zuhrah. Maka penulisan dan pembacaan pada jam Zuhrah pada hari apa saja yang kita kehendaki. Maka kita ambil huruf-huruf amal yang tersusun dan kita turunkan pada wafaq 5×5 dan kita kelilingi dengan ayat [Qauluhul-Haqqu wa lahul-Mulku] dan kita tulis pada empat sudutnya nama ruhani [Samsail] dan kita kelilingi dengan dua ayat yang mulia: Allahu Lathifun bi 'Ibadihi Yarzuqu man Yasya' wa Huwal-Qawiyyul-'Aziz, dan ayat: Alladzina Yatluuna Kitaballah ... hingga Lan Tabur. Dan pada kertas yang sama di belakang wafaq 5×5 kita gambar wafaq sesuai jumlah huruf ruhani yang menguasai dan kita turunkan di dalamnya sebagaimana kita lakukan pada huruf-huruf amal, maka menjadi wafaq 4×4 dan kita kelilingi dengan namanya. Penulisan dengan air mawar, za'faran dan misik beserta dupa yang harum seperti luban dan kayu gaharu salib.
 
 ### Syarah dan Penjelasan
-Samsail vs Nasmahil: Samsail adalah Ruhani Khadim (pelaksana), Nasmahil adalah Ruhani Hakim (pengawas) — hierarki ruhani 2 tingkat khas Qadiriyah (khadim di bawah hakim). Tatslits (loncat 3) adalah kaidah taltif — mengambil tiap huruf ke-3 dari baris taksir, melambangkan perimbangan 3 unsur (jism-ruh-aql). Asma «La ilaha illa Allah al-Muhaimin» (196×) — bukan «Ya Razzaq» yang diduga — menunjukkan inti rizki adalah tauhid & pengawasan Allah (al-Muhaimin), bukan mantra jin. Hisab jam Zuhrah: sisa 6 dari 27÷7 — dalam falak klasik Zuhrah (Venus) = bintang ke-6 (urutan: Qamar 1, 'Utarid 2, Zuhrah 6? Variasi). Penulis tetap pada sisa 6 = Zuhrah (cek konsistensi: hal 06 menyebut 7 jam: Syams, Zuhrah, 'Utharid, Qamar, Zuhal, Musytari, Mirrikh — sisa 1=Syams ... 6=Zuhrah, 0=Zuhal). Ayat pelingkaran: Qawluhul-Haq (kekuasaan ucapan Allah), Lathif (Kelembutan rizki), Yatlu Kitab Allah (keberkahan tilawah) — tiga ayat rangkuman tauhid-rizki-barokah.
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-- Waktu: Jam Zuhrah hari apa saja (siang/malam hitung falak 12 jam siang +12 malam mulai terbit). Jika terlewat, tunda ke hari berikut jam sama — jangan paksakan jam lain.
-- Alat: Kertas putih polos, qalam, tinta ruhani: air mawar + za'faran + misk (nisabah 1:1:sedikit misk), tanpa tinta hitam kimia.
-- Bukhur: Luban (kemenyan putih) + 'ud shalib (kayu gaharu salib) — dibakar saat tulis & tilawah untuk mewangikan majelis ruhani (bukan untuk jin).
-- Tulisan: Wafaq mukhammas di depan (huruf و ا هـ د ي diputar), keliling ayat; wafaq murabba' di belakang (huruf ن س ل م diputar). 4 sudut mukhammas tulis «سمسائيل» tiap sudut.
-- Tilawah: 'Azimah «لا إله إلا الله المهيمن» 196× (angka dari 27? 27×? 196 =14² — rahasia mizan, akan muncul di hal 08). Niat tawajjuh kepada Allah dengan hajat.
-- Pantangan: Tulis dalam keadaan suci (wudhu), menghadap kiblat, tidak bercanda/merokok, niat halal.
+_Khususiyah._
 
 
 ## HALAMAN 08 — FAEDAH MAYSARAH 3/3 — 2 WAFAQ
@@ -260,26 +255,16 @@ Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā fīhir-rū�
 Dan inilah wafaq amal dan wafaq 4×4 yang kita turunkan di dalamnya ruhani tersebut. Cara Maysarah untuk menarik rezeki. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. http://www.alanwaralqadria.com. Jumlah bacaan wirid 196 kali beserta menghadap kepada Allah Azza wa Jalla dengan permohonanmu. Aku memohon kepada Allah Azza wa Jalla agar memberi manfaat kepada kalian dengan simpanan yang diberkahi ini, sesungguhnya Dia-lah penolongnya dan Yang Maha Kuasa atasnya. Wassalam.
 
 ### Syarah dan Penjelasan
-Wafaq Mukhammas 5×5 (kanan di scan): Matriks 5×5 = 25 petak berisi 5 huruf amal (و ا هـ د ي) yang dirotasi tiap baris — pola tadwir (perputaran). Konstanta wafaq mukhammas bukan angka (seperti mukhammas ghazali 65) melainkan huruf — tiap baris/kolom/diagonal mengandung semua 5 huruf tanpa ulang, melambangkan keseimbangan rizki dari 5 arah. Wafaq Murabba' 4×4 (kiri): 16 petak berisi 4 huruf Ruhani Hakim (م س ل ن) rotasi — melambangkan 4 penjuru/4 khadim. Keduanya ditulis di satu kertas bolak-balik (mukhammas depan, murabba' belakang) — simbol zahir (amal) & batin (ruhani). 'Azimah 196×: 196 = 14² = 196 → 14 = jumlah huruf «لا إله إلا الله المهيمن» tanpa ulang? Hitung: ل ا إ ل هـ إ ل ا ا ل ل هـ ا ل م هـ ي م ن =14 unik → 14² =196 — rahasia mizan penulis (angka «muka» — lihat hal 45: mizan ibaqi). Link forum di bawah wafaq menegaskan otentisitas digital.
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-- Fungsi: Pelaris dagang, pembuka pintu rizki halal (bukan judi/maksiat).  
-- Waktu: Jam Zuhrah (hal 07) — tulis & baca di jam itu; 'azimah 196× dibaca setelah tulis, menghadap kiblat, tawajjuh (konsentrasi hajat).  
-- Media: Kertas putih, tinta mawar-za'faran-misk, bukhur luban/'ud salib.  
-- Adab: Niat halal, yakin Allah pemberi rizki (wafaq sabab doa, bukan jimat berkuasa), tinggalkan jika was-was. Jika hajat belum qabul, ulangi 3/7 malam berturut pada jam sama — bukan menambah jumlah wirid.  
-- Pantangan Faedah 01: Jangan gunakan untuk menipu timbangan / riba — penulis syaratkan «fimā yurdhi Allāh».
-
-![Wafaq Hal 08](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
-[Gambar: Wafaq Hal 08]
-
-![Wafaq Hal 08](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
-[Gambar: Wafaq Hal 08]
+_Khususiyah._
 
 ![Halaman 08 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
-[Gambar: Halaman 08 — Wafaq]
+[Gambar: Halaman 08]
 
 ![Halaman 08 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
-[Gambar: Halaman 08 — Wafaq]
+[Gambar: Halaman 08]
 
 
 ## HALAMAN 09 — FAEDAH MUHRIQAH 1/2
@@ -306,10 +291,10 @@ Fā'idatum-muhriqatun ṭāridatun lil-jinni wal-maradati bi'iznillāhi, as-sal�
 Faedah pembakar pengusir jin dan maradah dengan izin Allah. Assalamu'alaikum warahmatullahi wabarakatuh. Wahai saudara-saudaraku karena Allah, aku letakkan bagi kalian faedah khusus ini untuk membakar jin dan mengusirnya dari jasad manusia dengan izin Allah, yaitu sebagai berikut: Kita ambil nama orang tersebut dan nama ibunya dan kita hilangkan huruf-huruf yang berulang jika ada dalam nama, jika tidak ada pengulangan maka nama tetap sebagaimana adanya tanpa penghapusan. Kemudian kita campurkan dengan huruf-huruf berunsur api dan udara yang bercahaya [ا هـ ط م ك س ق] di mana huruf pertama dan huruf terakhirnya tetap demikian. Kemudian kita pecahkan baris yang telah dicampur sampai ke tempat keluar dengan membiarkannya, yaitu kita ambil baris-baris sebelumnya saja dan kita lihat jumlah baris pemecahan apakah genap atau ganjil. Jika genap kita ambil ruhaninya dari baris kedua, jika ganjil kita ambil dari baris ketiga. Demikian pula huruf-hurufnya: jika pemecahan genap maka huruf-huruf ruhaninya genap, jika ganjil maka huruf-hurufnya ganjil. Pengambilan dari baris dengan meninggalkan dua huruf dari awal baris dan dua huruf dari akhirnya hingga tersisa huruf-huruf ruhani di tengah, ini jika pemecahan genap; adapun jika ganjil kita tinggalkan satu huruf dari awal dan satu huruf dari akhir hingga tersisa huruf-huruf ruhani di tengah. Kemudian kita kumpulkan jumlah huruf-huruf ruhani dan kita ucapkan dan kita akhiri dengan -ail dan kita gambar tabel sesuai jumlah huruf pemecahan dan kita tulis pada sudut-sudutnya nama ruhani yang telah dikeluarkan dan kita kelilingi semuanya dengan sumpah yang akan disebutkan. Kita buat tiga lembar dari amalan tersebut dan kita tulis juga pada piring yang bersih dan dihapus dengan air yang suci. Orang sakit diberi pengasapan tiga malam berturut-turut, tiap malam satu lembar dan ia mengolesi seluruh tubuhnya tiap malam setelah pengasapan dan tidur di tempat tidurnya secara terpisah. Dupa yang diletakkan bersama tiap lembar adalah [7 lembar daun bidara, 7 butir cengkeh, sedikit mustaka] dan ini contoh untuk diqiyaskan. Maka contoh nama orang sakit dan ibunya adalah Hasan dan Ruqayyah.
 
 ### Syarah dan Penjelasan
-Faedah ini adalah Faedah 02 (pertama dari seri jin). Kaidah mazj thabi'ah — mencampur nama dengan 7 huruf api-udara nurani (ا هـ ط م ك س ق) adalah metode Būnī: huruf thabi'ah panas-lembut untuk membakar jin. Taksir ilā al-makhraj ma'a tarkihi = metode taksir berulang sampai huruf habis (makhraj) tapi baris terakhir tidak dipakai — menyisakan inti. Aturan genap/ganjil menentukan sumber ruhani: genap→baris2, ganjil→baris3 — kaidah keseimbangan (mizan) Qadiriyah. 3 lembar + piring mahw = simbol 3 malam + penyatuan zahir-batin (tulisan & air). Bukhur bidara (sidr, penangkal sihir), qaranful (cengkeh, penguat), mustakā (damar, pewangi) — bahan klasik ruqyah.
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-Khasiat: membakar jin 'aridh & maradah yang menetap di jasad, bi'iznillah — bukan untuk iseng. Tata cara: wudhu, tulis di kertas putih dengan misk-za'faran, 3 lembar + 1 piring (mahw air thahir: hujan/sumur tak kena matahari/bulan). Bakhur tiap malam 1 lembar + oles + tidur pisah 3 malam. Jika tak ada hujan, pakai sumur. Pantangan: tulis setelah isya? Tidak mutlak (hal09 tidak sebut waktu — fleksibel), jaga aurat, niat lillāh, jangan untuk balas dendam.
+_Khususiyah._
 
 
 ## HALAMAN 10 — FAEDAH MUHRIQAH 2/2 — JADWAL & QASAM
@@ -326,16 +311,13 @@ Akhadznā hurūfar-rūhāniy minas-sathrits-tsālitsi wa hiya [ ن ح ق ] — [
 Kita ambil huruf-huruf ruhani dari baris ketiga yaitu [ن ح ق] jumlahnya 158, pengucapannya [Hinqayil], dialah ruhaninya, kita tulis di sudut-sudut dan kita kelilingi dengan sumpah berikut: [Dengan nama Allah Yang Maha Pengasih Maha Penyayang, aku bersumpah kepada kalian wahai ruh-ruh ruhaniyah Thaktsayil dan engkau wahai 'Awtsayil dengan hak raja yang menguasai kalian Fahghayil dan dengan hak Ahya Syarahya Adunai Ashba'ut Ali Syaddai dan dengan hak 'In Kaanat Illa Shaihataw Wahidataw fa Idza Hum Jami'un Ladaina Muhdharun' agar kalian hadir sekarang dan turun atas marid yang sombong dan menyakiti makhluk Allah ini dengan pengusiran, pembakaran dan siksaan. Ambillah dia dan dengan cahaya-cahaya kalian bakarlah dia dengan hak 'Was-sama'i Dzatil-Buruj' hingga akhir surah]. Kemudian sumpah dibaca pada tiap lembar 5 kali dan demikian juga pada air. Wassalam.
 
 ### Syarah dan Penjelasan
-Contoh praktik Hasan bin Ruqayyah: dari taksir nama + huruf thabi'ah diperoleh huruf ruhani ن ح ق =158 → Hinqāyīl — bukan nama jin, tapi khadim ruhaniyyah pengusir. Empat sudut jadwal = 4 penjuru (malaikat hafazhah). Qasam berlapis: (1) basmalah, (2) sumpah kepada Thaktsāyīl & 'Awtsāyīl (dua khadim), (3) demi raja Fahghāyīl (hakim), (4) asma barhatiyyah Āhyā Syarāhyā (kunci sufi klasik), (5) ayat Yasin 53 (hadirkan), (6) ayat Buruj (pembakar). 5× tiap lembar = 15× total 3 malam, menyempurnakan 3 lembar + air.
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-Tata cara Hal10: tulis jadwal 5×15 (lihat crop), tulis Hinqāyīl di 4 sudut miring (diagonal merah), kelilingi qasam. Tulis 3 lembar + 1 piring mahw. Bakhur: 7 sidr +7 qaranful + mustaka tiap malam. Baca qasam 5× tiap lembar + pada air mahw, oles tubuh, tidur pisah. Waktu fleksibel (tidak terikat jam Zuhrah seperti Faedah01).
-
-![Wafaq Hal 10](rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg)
-[Gambar: Wafaq Hal 10]
+_Khususiyah._
 
 ![Halaman 10 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg)
-[Gambar: Halaman 10 — Wafaq]
+[Gambar: Halaman 10]
 
 
 ## HALAMAN 11 — FAEDAH QATHI'AH 1/2
@@ -361,10 +343,10 @@ Fā'idatun qāthi'atun li'ilājil-massi, as-salāmu 'alaikum ..., yuktabul-wafqu
 Faedah pemutus untuk mengobati kerasukan. Assalamu'alaikum warahmatullahi wabarakatuh, wahai saudara-saudaraku karena Allah, untuk kalian faedah dari faedah-faedah yang telah teruji dalam mengobati keadaan kerasukan dan juga bermanfaat untuk membatalkan penghalang dari harta terpendam, ia telah teruji dan cepat tembus. Wafaq pada halaman berikutnya ditulis pada bejana yang bersih dan baru dengan air mawar, za'faran dan misik dan dikelilingi dengan ayat-ayat dan surah-surah yang mulia dan setelah penulisan dihapus dengan air yang suci, jika dengan air hujan maka lebih baik, jika tidak maka dengan air sumur yang tidak terkena matahari dan tidak terkena cahaya bulan. Penghapusan tulisan dengan jari telunjuk tangan kanan dan bacaan ketika penghapusan 7 kali. Penulisan dengan urutan yang aku letakkan dan demikian pula pembacaannya: 1. Wasy-Syamsi wa Dhuhaaha hingga akhir surah. 2. Surah Al-Ikhlash. 3. Allahu Nuru As-Samawati wal-Ardhi hingga Turfa'. 4. Wa Adzdzin fin-Nasi bil-Hajji hingga 'Amiq. 5. Qul Uhiya hingga akhir surah. Penulisan setelah shalat Isya kecuali hari Rabu dan Sabtu, dan wafaqnya adalah sebagai berikut.
 
 ### Syarah dan Penjelasan
-Faedah ini Fā'idah Qāthi'ah = pemutus (qāthi' = memutuskan ikatan jin). Mass = kerasukan (jin menyentuh saraf). Dafā'in = harta terpendam (karun) yang dijaga jin — faedah rangkap (obat + pembuka karun). Bejana baru = simbol kesucian (najis membatalkan). Air hujan > sumur = hujan langsung dari langit (barakah), sumur tak kena matahari/bulan = air tersembunyi (ghayb) sesuai adab sufi. 5 surah/ayat = kombinasi syamsiyyah (cahaya), ikhlash (tauhid), nur (cahaya), hajj (panggilan), jinn (kisah jin) — rangkuman penangkal.
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-Khasiat: terapi mass & buka penghalang dafā'in. Waktu: setelah Isya, kecuali Rabu & Sabtu (hari nahas dalam falak Jafari — hindari). Alat: bejana baru, air mawar-za'faran-misk, air hujan/sumur tersembunyi, telunjuk kanan. Bacaan: 5 surah urut tulis & baca 7× saat mahw. Air mahw: minum + mandi? Naskah hanya sebut mahw & baca, tidak detail minum — cukup mahw lalu pakai airnya (ruqyah).
+_Khususiyah._
 
 
 ## HALAMAN 12 — FAEDAH QATHI'AH 2/2 — WAFAQ 3×3
@@ -391,16 +373,13 @@ Wafqun li'ilājil-massi, kitābatul-āyāti was-suwari tabda'u min fawqil-wafqi 
 Faedah pemutus untuk mengobati kerasukan. Wafaq untuk mengobati kerasukan. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. http://www.alanwaralqadria.com. Penulisan ayat-ayat dan surah-surah dimulai dari atas wafaq dari arah kanan menuju ke kiri. Semoga Allah memberi taufik kepada kalian pada apa yang Dia cintai dan ridhai.
 
 ### Syarah dan Penjelasan
-Wafaq 3×3 angka Hal12 adalah wafaq 'adadi mu'addal khusus Faedah Qathi'ah — bukan wafaq Ghazali 15. Angka: 18 (baris1 kanan), 1209, 600; 1191,609,27; 618,9,1200 — jika dihitung: 18+609+1200=1827? 600+27+9=6036? Konstanta tidak 15 seperti mutsallats klasik, tapi mizan khass untuk mass. Cara tulis: mulai dari atas kanan ke kiri — sesuai kaidah kuttab Arab (kanan dulu). Doa waffaqakumullah = penutup adab.
+_Syarah sesuai nash._
 
 ### Khususiyah dan Tatacara Praktik
-Tata cara sama Hal11 — wafaq ini yang ditulis di bejana. Tulis angka dengan tinta misk, kelilingi 5 surah/ayat Hal11 dari atas kanan ke kiri. Mahw dengan air thahir + telunjuk kanan 7×.
-
-![Wafaq Hal 12 — 3×3 — 9 angka — 600,1209,18 / 27,609,1191 / 1200,9,618 — baca kanan→kiri](hal12_crop_sharp.jpg)
-[Gambar: Wafaq Hal 12 — 3×3 — salin persis crop IMG_20261025_073117.jpg — hal12_crop_sharp.jpg — 35KB tajam]
+_Khususiyah._
 
 ![Halaman 12 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_073117.jpg)
-[Gambar: Halaman 12 — Wafaq]
+[Gambar: Halaman 12]
 
 
 ## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ
@@ -454,7 +433,7 @@ Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). T
 [Gambar: Halaman 13 — Zajr Qathi' 1/3 — 7× At-Taubah 46 + sumpah Mujādalah]
 
 ![Halaman 13 — Scan 300 DPI](hal_13.png)
-[Gambar: Halaman 13 — Scan]
+[Gambar: Halaman 13]
 
 
 ## HALAMAN 14 — ZAJR QATHI' 2/3 — الزَّجْرُ الْقَاطِعُ (LANJUTAN)
@@ -548,10 +527,10 @@ Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan sete
 [Gambar: Halaman 14 — Zajr Qathi' 2/3 — 4 ayat azab + ishrāf]
 
 ![Halaman 14 — Scan 300 DPI](hal_14.png)
-[Gambar: Halaman 14 — Scan]
+[Gambar: Halaman 14]
 
 
-## HALAMAN 15 — FAIDAH THARD 'ATHLUSH 1/2 — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ
+## HALAMAN 15 — FAIDAH THARD 'ATHLUSYIN 1/2 — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ
 
 ### arab
 فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ مُفْسِدِ الْأَعْمَالِ الرَّوْحَانِيَّةِ
@@ -598,20 +577,20 @@ Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, w
 [Gambar: Halaman 15 — Faedah ‘Athlūsy 1/2 — 21× azimah — 7 hari botol]
 
 ![Halaman 15 — Scan 300 DPI](hal_15.png)
-[Gambar: Halaman 15 — Scan]
+[Gambar: Halaman 15]
 
 
-## HALAMAN 16 — FAIDAH THARD 'ATHLUSH 2/2 — WAFAQ 3×3
+## HALAMAN 16 — FAIDAH THARD 'ATHLUSYIN 2/2 — WAFAQ 3×3
 
 ### arab
 وَالْوَفْقُ هُوَ هَكَذَا — يُكْتَبُ بِصَمْغٍ فِي الْيَدِ الْيُمْنَى:
 
-| ٣ | ١١١١ | ١ |
+| ١ | ١١١١ | ٣ |
 |---|---|---|
-| ١١١٠ | عَطْلُوشٌ | ٥ |
-| ٢ | ٤ | ١١٠٩ |
+| ٥ | عَطْلُوشٌ | ١١١٠ |
+| ١١٠٩ | ٤ | ٢ |
 
-*تنبيه: الجدول يُقرأ يمينًا إلى يسارٍ كالعربية — الخلية اليُمنى هي (١) واليُسرى هي (٣) في السطر الأول، وهكذا.*
+*تنبيه: الجدول يُقرأ يمينًا إلى يسارٍ كالعربية — الخلية اليُمنى هي (٣) واليُسرى هي (١) في السطر الأول، وهكذا.*
 
 ثُمَّ بَعْدَ الدَّفْنِ تَقْرَأُ كَمَا تَقَدَّمَ آيَةَ الْكُرْسِيِّ إِلَى ﴿ خَالِدُونَ ﴾ وَسُورَةَ الْمُلْكِ، وَلَا تَلْتَفِتْ.
 
@@ -620,10 +599,10 @@ Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, w
 ### latin
 Wal-wafqu huwa hākadzā — yuktabu bishamghin fīl-yadil-yumnā:
 
-| ٣ | ١١١١ | ١ |
+| ١ | ١١١١ | ٣ |
 |---|---|---|
-| ١١١٠ | عَطْلُوشٌ | ٥ |
-| ٢ | ٤ | ١١٠٩ |
+| ٥ | عَطْلُوشٌ | ١١١٠ |
+| ١١٠٩ | ٤ | ٢ |
 
 [Rajah Asror — tidak dilatin-kan — angka dan huruf di dalam wafaq tidak diterjemahkan]
 
@@ -636,12 +615,12 @@ Tsumma ba‘dad-dafni taqra’u kamā taqaddama āyatal-kursiyyi ilā ... khāli
 ### Terjemahan
 Dan wafaqnya adalah seperti ini — ditulis dengan *shamgh* pada tangan kanan:
 
-| ٣ | ١١١١ | ١ |
+| ١ | ١١١١ | ٣ |
 |---|---|---|
-| ١١١٠ | عَطْلُوشٌ | ٥ |
-| ٢ | ٤ | ١١٠٩ |
+| ٥ | عَطْلُوشٌ | ١١١٠ |
+| ١١٠٩ | ٤ | ٢ |
 
-*Catatan: tabel dibaca dari kanan ke kiri seperti Arab — sel kanan baris pertama adalah (1) dan sel kiri adalah (3), demikian seterusnya.*
+*Catatan: tabel dibaca dari kanan ke kiri seperti Arab — sel kanan baris pertama adalah (3) dan sel kiri adalah (1), demikian seterusnya.*
 
 Kemudian setelah penguburan, bacalah sebagaimana telah dijelaskan Ayat Kursi sampai *khālidūn* dan Surah al-Mulk, dan jangan menoleh.
 
@@ -659,5 +638,5 @@ Khasiat: mengunci ‘Athlūsy agar tidak merusak amal apapun — setelah 7 hari 
 [Gambar: Halaman 16 — Wafaq ‘Athlūsy — 3×3 — 8 angka + عَطْلُوشٌ di tengah — RTL]
 
 ![Halaman 16 — Scan 300 DPI](hal_16_wafaq_athlush.jpg)
-[Gambar: Halaman 16 — Wafaq]
+[Gambar: Halaman 16]
 
