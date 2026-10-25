@@ -1,0 +1,54 @@
+## HALAMAN 08 — MAYSARAH 3/3 — طَرِيقَةُ الْمُيَسَّرَةِ فِي جَلْبِ الْأَرْزَاقِ (WAFAQ)
+
+### arab
+طَرِيقَةُ الْمُيَسَّرَةِ فِي جَلْبِ الْأَرْزَاقِ
+
+وَهَذَا وَفْقُ الْعَمَلِ
+
+![Wafaq Hal 08 — Mukhammas 5×5 (Amal) — di bawah: وهذا وفق العمل](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
+[Gambar: Wafaq Mukhammas 5×5 — Amal — 25 petak — و ا هـ د ي]
+
+وَهَذَا الْوَفْقُ الْمُرَبَّعُ الَّذِي نَزَلْنَا فِيهِ الرَّوْحَانِيَّ
+
+![Wafaq Hal 08 — Murabba' 4×4 (Ruhani) — di bawah: وهذا الوفق المربع الذي نزلنا فيه الروحاني](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
+[Gambar: Wafaq Murabba' 4×4 — Ruhani — 16 petak — س م س ن ل ن ر]
+
+وَعَدَدُ الْعَزِيمَةِ 196 مَرَّةً مَعَ التَّوَجُّهِ إِلَى اللهِ عَزَّ وَجَلَّ بِطَلَبِكَ
+
+أَسْأَلُ اللهَ عَزَّ وَجَلَّ أَنْ يَنْفَعَكُمْ بِهَذِهِ الذَّخِيرَةِ الْمُبَارَكَةِ إِنَّهُ وَلِيُّ ذَلِكَ وَالْقَادِرُ عَلَيْهِ وَالسَّلَامُ
+
+### latin
+Tharīqatu al-Muyassarati fī Jalbi al-Arzāqi
+
+Wa-hādzā Wafqu al-ʿAmali
+
+![Wafaq Hal 08 — Mukhammas 5×5 (Amal) — di bawah: Wa-hādzā Wafqu al-ʿAmali](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
+[Gambar: Wafaq Mukhammas 5×5 — Amal]
+
+Wa-hādzā al-Wafqu al-Murabbaʿu alladzī nazalnā fīhi ar-Rūḥāniyyi
+
+![Wafaq Hal 08 — Murabba' 4×4 (Ruhani) — di bawah: Wa-hādzā al-Wafqu al-Murabbaʿu](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
+[Gambar: Wafaq Murabba' 4×4 — Ruhani]
+
+Wa-ʿadadu al-ʿAzīmati 196 marratan maʿa at-tawajjuhi ilā Allāhi ʿAzza wa-Jalla bi-thalabika
+
+As'alu Allāha ʿAzza wa-Jalla an yanfaʿakum bi-hādzihi adz-Dzakhīrati al-Mubārakati innahu Waliyyu dzālika wa al-Qādiru ʿalaihi was-Salāmu
+
+### Terjemahan
+Cara Maysarah untuk Menarik Rezeki.
+
+Dan inilah wafaq amalan.
+[Gambar: Wafaq Mukhammas 5×5 — Amal — 25 petak]
+
+Dan inilah wafaq persegi yang kita turunkan di dalamnya (huruf) ruhaninya.
+[Gambar: Wafaq Murabba' 4×4 — Ruhani — 16 petak]
+
+Jumlah wiridnya 196 kali dengan menghadap kepada Allah Azza wa Jalla dengan permohonanmu,
+
+Aku memohon kepada Allah Azza wa Jalla semoga memberi manfaat kepada kalian dengan simpanan yang diberkahi ini, sesungguhnya Dia-lah penolongnya dan Yang Maha Kuasa atasnya. Wassalam.
+
+### Syarah dan Penjelasan
+Dua wafaq berdampingan di kitab: kanan wafaq amalan 5×5 (25 petak, huruf و ا هـ د ي diputar), kiri wafaq ruhani 4×4 (16 petak, huruf س م س ن ل ن ر diputar). Penempatan sesuai kitab: wafaq pertama langsung di bawah «وَهَذَا وَفْقُ الْعَمَلِ», wafaq kedua di bawah «وَهَذَا الْوَفْقُ الْمُرَبَّعُ الَّذِي نَزَلْنَا فِيهِ الرَّوْحَانِيَّ». Keduanya hasil hisab Hal06-07. Wirid 196 adalah Lā Ilāha illallāhu al-Muhaimin yang diekstrak Hal07.
+
+### Khususiyah dan Tatacara Praktik
+Wafaq ditulis bolak-balik satu kertas: depan mukhammas (amalan), belakang murabba' (ruhani penguasa). Tulis pada jam Zuhrah dengan air mawar + za'faran + misik, di sekeliling wafaq tulis ayat Qauluhu al-Haqq dan dua ayat rezeki (Allāhu Laṭīfun ... dan Alladzīna yatlūna ...), empat sudut tulis Samsāyīl. Baca wirid 196 kali dengan tawajjuh. Rajah huruf di dalam kotak wafaq tidak diterjemahkan — ditulis ulang sebagai gambar.
