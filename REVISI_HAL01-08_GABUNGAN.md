@@ -1,6 +1,6 @@
 # REVISI HAL 01–08 — ANWĀR ASH-SHAYKH AL-BASHĪR (GABUNGAN UNTUK KOREKSI)
 
-> 8 halaman pertama — Sampul → Maysarah 3/3 — siap koreksi kata-per-kata.
+> 8 halaman pertama — Sampul → Maysarah 3/3 — rajah sisip di bawah kalimat kitab Hal08.
 
 ## HALAMAN 01 — SAMPUL — أَنْوَارُ الشَّيْخِ الْبَشِيرِ
 
@@ -358,7 +358,13 @@ Wafaq depan 5×5 (huruf amal) dikelilingi ayat Qauluhu al-Haqq dan dua ayat reze
 
 وَهَذَا وَفْقُ الْعَمَلِ
 
+![Wafaq Hal 08 — Mukhammas 5×5 (Amal) — di bawah: وهذا وفق العمل](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
+[Gambar: Wafaq Mukhammas 5×5 — Amal — 25 petak — و ا هـ د ي]
+
 وَهَذَا الْوَفْقُ الْمُرَبَّعُ الَّذِي نَزَلْنَا فِيهِ الرَّوْحَانِيَّ
+
+![Wafaq Hal 08 — Murabba' 4×4 (Ruhani) — di bawah: وهذا الوفق المربع الذي نزلنا فيه الروحاني](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
+[Gambar: Wafaq Murabba' 4×4 — Ruhani — 16 petak — س م س ن ل ن ر]
 
 وَعَدَدُ الْعَزِيمَةِ 196 مَرَّةً مَعَ التَّوَجُّهِ إِلَى اللهِ عَزَّ وَجَلَّ بِطَلَبِكَ
 
@@ -366,26 +372,36 @@ Wafaq depan 5×5 (huruf amal) dikelilingi ayat Qauluhu al-Haqq dan dua ayat reze
 
 ### latin
 Ṭarīqatu al-Muyassarati fī Jalbi al-Arzāqi
+
 Wa-hādhā Wafqu al-ʿAmali
+
+![Wafaq Hal 08 — Mukhammas 5×5 (Amal) — di bawah: Wa-hādhā Wafqu al-ʿAmali](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
+[Gambar: Wafaq Mukhammas 5×5 — Amal]
+
 Wa-hādhā al-Wafqu al-Murabbaʿu alladhī nazalnā fīhi ar-Rūḥāniyyi
+
+![Wafaq Hal 08 — Murabba' 4×4 (Ruhani) — di bawah: Wa-hādhā al-Wafqu al-Murabbaʿu](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
+[Gambar: Wafaq Murabba' 4×4 — Ruhani]
+
 Wa-ʿadadu al-ʿAzīmati 196 marratan maʿa at-tawajjuhi ilā Allāhi ʿAzza wa-Jalla bi-ṭalabika
+
 As'alu Allāha ʿAzza wa-Jalla an yanfaʿakum bi-hādhihi adh-Dhakhīrati al-Mubārakati innahu Waliyyu dhālika wa al-Qādiru ʿalaihi was-Salāmu
 
 ### Terjemahan
 Cara Maysarah untuk Menarik Rezeki.
+
 Dan inilah wafaq amalan.
+[Gambar: Wafaq Mukhammas 5×5 — Amal — 25 petak]
+
 Dan inilah wafaq persegi yang kita turunkan di dalamnya (huruf) ruhaninya.
+[Gambar: Wafaq Murabba' 4×4 — Ruhani — 16 petak]
+
 Jumlah wiridnya 196 kali dengan menghadap kepada Allah Azza wa Jalla dengan permohonanmu,
+
 Aku memohon kepada Allah Azza wa Jalla semoga memberi manfaat kepada kalian dengan simpanan yang diberkahi ini, sesungguhnya Dia-lah penolongnya dan Yang Maha Kuasa atasnya. Wassalam.
 
 ### Syarah dan Penjelasan
-Dua wafaq berdampingan: kanan wafaq amalan 5×5 (25 petak, huruf و ا هـ د ي diputar), kiri wafaq ruhani 4×4 (16 petak, huruf س م س ن ل ن ر diputar). Keduanya hasil hisab Hal06-07. Wirid 196 adalah Lā Ilāha illallāhu al-Muhaimin yang diekstrak Hal07.
+Dua wafaq berdampingan di kitab: kanan wafaq amalan 5×5 (25 petak, huruf و ا هـ د ي diputar), kiri wafaq ruhani 4×4 (16 petak, huruf س م س ن ل ن ر diputar). Penempatan sesuai kitab: wafaq pertama langsung di bawah «وَهَذَا وَفْقُ الْعَمَلِ», wafaq kedua di bawah «وَهَذَا الْوَفْقُ الْمُرَبَّعُ الَّذِي نَزَلْنَا فِيهِ الرَّوْحَانِيَّ». Keduanya hasil hisab Hal06-07. Wirid 196 adalah Lā Ilāha illallāhu al-Muhaimin yang diekstrak Hal07.
 
 ### Khususiyah dan Tatacara Praktik
 Wafaq ditulis bolak-balik satu kertas: depan mukhammas (amalan), belakang murabba' (ruhani penguasa). Tulis pada jam Zuhrah dengan air mawar + za'faran + misik, di sekeliling wafaq tulis ayat Qauluhu al-Haqq dan dua ayat rezeki (Allāhu Laṭīfun ... dan Alladzīna yatlūna ...), empat sudut tulis Samsāyīl. Baca wirid 196 kali dengan tawajjuh. Rajah huruf di dalam kotak wafaq tidak diterjemahkan — ditulis ulang sebagai gambar.
-
-![Wafaq Hal 08 — Mukhammas 5×5 (Amal)](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
-[Gambar: Wafaq Mukhammas 5×5 — Amal]
-
-![Wafaq Hal 08 — Murabba' 4×4 (Ruhani)](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
-[Gambar: Wafaq Murabba' 4×4 — Ruhani]
