@@ -6,12 +6,12 @@
 **Media Kerja:** Google Docs + Repositori GitHub (branch arena/80a0cd9d-kitab)
 **Preferensi User (25 Okt 2026):** Fokus Anwar saja (bukan Abu Ma'syar), Gaya akademik, Google Docs, Tanpa Tanbih Syar'i (matan murni)
 
-## Progres Batch
+## Progres Batch (Update 25 Okt 2026 — Batch 02 Selesai)
 
 | Batch | Halaman PDF | Isi | Status | Link |
 |-------|-------------|-----|--------|------|
 | 01 | 1–8 | Sampul, Ihda, Ijazah, Fihris 13 Faedah, Faedah 1 Thariqah al-Maysarah (3 hal + 2 wafaq) | ✅ SELESAI | [Google Docs Batch 01](https://docs.google.com/document/d/1IffC92Oc9hm4xBEAIGylAFzekJLQwvhkFFj3cFBrgqw) |
-| 02 | 9–13 | Faedah 2 Muhriqah & Faedah 3 Qathi'ah | ⏳ Menunggu konfirmasi lanjut | — |
+| 02 | 9–13 | Faedah 2 Muhriqah Tharidah & Faedah 3 Qathi'ah Mass (+ awal Faedah 4) | ✅ SELESAI — 5 hal, 2 rajah | [Google Docs](https://docs.google.com/document/d/1IffC92Oc9hm4xBEAIGylAFzekJLQwvhkFFj3cFBrgqw) + `REVISI_BATCH_02_ANWAR_MUJAROBAT.md` |
 | 03 | 14–20 | Faedah 4 Zajr & Faedah 5 Thard 'Uthusy | ⏳ Antri | — |
 | 04 | 21–30 | Faedah 6 Durrah & Faedah 7 Tadmīr | ⏳ Antri | — |
 | 05 | 31–40 | Faedah 8 Qahr Qarin & Faedah 9 Saif Battar | ⏳ Antri | — |
