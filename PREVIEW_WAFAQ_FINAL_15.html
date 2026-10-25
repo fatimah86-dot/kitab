@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MANIFEST WAFAQ FINAL — 15 File Sumber Tunggal 300 DPI</title>
+<style>
+body{font-family:Inter,Calibri,Segoe UI,Arial,sans-serif;background:#faf8f0;color:#222;margin:0}
+header{background:linear-gradient(135deg,#1b5e20 0%,#2e7d32 50%,#66bb6a 100%);color:#fff;padding:22px 24px;text-align:center}
+header h1{margin:0;font-size:22px;letter-spacing:.3px}
+header p{margin:6px 0 0;font-size:13px;opacity:.95}
+.wrap{max-width:1100px;margin:18px auto;padding:0 16px}
+.card{background:#fff;border:1px solid #e0e0e0;border-radius:12px;padding:18px;margin:14px 0;box-shadow:0 3px 12px rgba(0,0,0,.06)}
+.badge{display:inline-block;background:#e8f5e9;color:#1b5e20;padding:5px 12px;border-radius:999px;font-size:12px;font-weight:800;letter-spacing:.3px}
+.btn{display:inline-block;background:#1b5e20;color:#fff;text-decoration:none;padding:10px 18px;border-radius:8px;font-weight:700;margin:6px 8px 6px 0;font-size:13px}
+.btn.sec{background:#fff;color:#1b5e20;border:1px solid #1b5e20}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.tile{border:1px solid #ddd;border-radius:10px;overflow:hidden;background:#fff;transition:transform .15s}
+.tile:hover{transform:translateY(-2px);box-shadow:0 6px 18px rgba(0,0,0,.12)}
+.tile img{width:100%;height:160px;object-fit:contain;background:#fafafa;border-bottom:1px solid #eee}
+.tile .info{padding:10px}
+.tile .name{font-weight:800;font-size:12px;color:#1b5e20;word-break:break-all}
+.tile .meta{font-size:11px;color:#666;margin-top:4px}
+.tile .desc{font-size:11px;color:#333;margin-top:6px;line-height:1.4}
+.caption{text-align:center;font-style:italic;color:#555;font-size:12px;margin-top:6px}
+table{width:100%;border-collapse:collapse;font-size:12px;margin-top:10px}
+th,td{border:1px solid #ddd;padding:6px 8px;text-align:left}
+th{background:#1b5e20;color:#fff}
+.muted{font-size:11px;color:#777}
+h2{color:#1b5e20;margin:0 0 10px;font-size:18px}
+h3{color:#2e7d32;margin:14px 0 8px;font-size:15px}
+</style>
+</head>
+<body>
+<header>
+  <h1>MANIFEST WAFAQ CROP SAYA — SUMBER TUNGGAL FINAL 300 DPI</h1>
+  <p>15 file JPG • 1.09 MB total • 300 DPI asli • latar putih tanpa compress • jangan crop ulang dari PDF/scan</p>
+</header>
+<div class="wrap">
+  <div class="card" style="text-align:center;border:2px solid #1b5e20">
+    <span class="badge">SUKSES — 15 FILE TERINVENTARISASI</span>
+    <h2 style="margin:8px 0 6px;color:#1b5e20">Total 15 File — 1.09 MB — Sumber Tunggal rajah_anwar_FINAL_300DPI/</h2>
+    <p class="muted" style="font-size:13px">Semua wafaq wajib pakai 15 JPG ini. Halaman <strong>dengan wafaq</strong> di kitab asli (65 hal PDF, deteksi otomatis: p08,10,12,16,18,20,24,28,30,46,57) → pakai crop. Halaman <strong>tanpa wafaq</strong> → pakai full scan 300 DPI <code>halXX_300dpi.png</code> saja. Jangan sebutkan manual Hal09/13/08-12 lagi — biarkan script sortir.</p>
+    <a class="btn" href="https://raw.githubusercontent.com/fatimah86-dot/kitab/arena/7021a54a-kitab/MANIFEST_WAFAQ_CROP_SAYA.md" target="_blank">📄 Lihat Manifest MD</a>
+    <a class="btn sec" href="https://github.com/fatimah86-dot/kitab/pull/14" target="_blank">🔗 PR #14 OPEN</a>
+    <a class="btn sec" href="https://docs.google.com/document/d/1IffC92Oc9hm4xBEAIgyIAFzekJLQwvhkFFj3cFBrgqw" target="_blank">📃 Google Docs (404 perlu cek akses)</a>
+    <p class="muted" style="margin-top:8px">Raw base: <code>https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/</code> + nama file — pertahankan 300 DPI</p>
+  </div>
+
+  <div class="card">
+    <h2>📋 Aturan Sortir Otomatis (11 Halaman Ada Wafaq)</h2>
+    <p class="muted">Deteksi via Python (central-crop 80%, morphology 100px, hitung garis panjang ≥6): p08, p10, p12, p16, p18, p20, p24, p28, p30, p46, p57 — p01 cover diabaikan (false positive dekor). Dari 11 halaman ini tersebar 15 crop karena beberapa halaman berisi 2–4 wafaq komposit (mis. p08=2 wafaq, p20=4-in-1).</p>
+    <table>
+      <tr><th>Halaman Terdeteksi Wafaq</th><th>Jumlah Crop</th><th>Contoh File</th></tr>
+      <tr><td>p08</td><td>2</td><td>IMG_072327 (4×4), IMG_072355 (5×5)</td></tr>
+      <tr><td>p10</td><td>1</td><td>IMG_072854 (jadwal 5×15)</td></tr>
+      <tr><td>p12</td><td>1</td><td>IMG_073117 (3×3 angka 6000/1209/18)</td></tr>
+      <tr><td>p16, p18, p20, p24, p28, p30, p46, p57</td><td>11</td><td>IMG_092532 s/d IMG_153434 — sisanya 11 JPG</td></tr>
+    </table>
+    <p class="muted"><strong>Tidak ada wafaq:</strong> semua halaman lain (termasuk p01-07 Sampul/Ihda'/Ijazah/Fihris, p09 teori, p11 teori, p13 Zajr teori) → cukup full scan.</p>
+  </div>
+
+  <div class="card">
+    <h2>⭐ 3 Contoh Preview (Beda Jenis)</h2>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px">
+      <div style="border:1px solid #c8e6c9;border-radius:10px;overflow:hidden;background:#fff">
+        <img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg" alt="contoh 1" style="width:100%;height:180px;object-fit:contain;background:#fff8e1">
+        <div style="padding:10px">
+          <div style="font-weight:800;color:#1b5e20;font-size:13px">Contoh 1 — Murabba' Kecil 4×4</div>
+          <div class="muted" style="font-size:11px;margin-top:4px">IMG_072327.jpg • 49 KB • 334×241<br>Wafaq huruf murni — rotasi <strong>م س ل ن</strong> — terkecil, garis tipis — contoh presisi crop latar putih.</div>
+        </div>
+      </div>
+      <div style="border:1px solid #bbdefb;border-radius:10px;overflow:hidden;background:#fff">
+        <img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg" alt="contoh 2" style="width:100%;height:180px;object-fit:contain;background:#e3f2fd">
+        <div style="padding:10px">
+          <div style="font-weight:800;color:#0d47a1;font-size:13px">Contoh 2 — Jadwal 5×15 [Gambar 2.1]</div>
+          <div class="muted" style="font-size:11px;margin-top:4px">IMG_072854.jpg • 58 KB • 435×370<br>Jadwal Muhriqah — 4 sudut <strong>حِنْقَايِيلُ</strong> merah — contoh wafaq memanjang.</div>
+        </div>
+      </div>
+      <div style="border:1px solid #ffe0b2;border-radius:10px;overflow:hidden;background:#fff">
+        <img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_102900.jpg" alt="contoh 3" style="width:100%;height:180px;object-fit:contain;background:#fff3e0">
+        <div style="padding:10px">
+          <div style="font-weight:800;color:#e65100;font-size:13px">Contoh 3 — Komposit 788×543</div>
+          <div class="muted" style="font-size:11px;margin-top:4px">IMG_102900.jpg • 138 KB • 788×543<br>Komposit terbesar — angka 1177/1001 + huruf ح ث ن اغ — 4 wafaq dalam 1 JPG, jangan dipotong.</div>
+        </div>
+      </div>
+    </div>
+    <p class="caption">Total 15 file — 1.09 MB (rata 74 KB) — semua latar putih 300 DPI — jenis bervariasi: kecil 334px s/d besar 818px</p>
+  </div>
+
+  <div class="card">
+    <h2>🖼️ Galeri Lengkap — 15 File (Grid)</h2>
+    <div class="grid">
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg"><div class="info"><div class="name">IMG_072327.jpg</div><div class="meta">49 KB • 334×241</div><div class="desc">Murabba' 4×4 — م س ل ن</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg"><div class="info"><div class="name">IMG_072355.jpg</div><div class="meta">50 KB • 334×244</div><div class="desc">Mukhammas 5×5 — و ا هـ د ي</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg"><div class="info"><div class="name">IMG_072854.jpg</div><div class="meta">58 KB • 435×370</div><div class="desc">Jadwal 5×15 — Gambar 2.1</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_073117.jpg"><div class="info"><div class="name">IMG_073117.jpg</div><div class="meta">79 KB • 683×263</div><div class="desc">Mutsallats 3×3 — Gambar 2.2</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_092532.jpg"><div class="info"><div class="name">IMG_092532.jpg</div><div class="meta">68 KB • 618×300</div><div class="desc">Mutsallats + عطوش</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_094727.jpg"><div class="info"><div class="name">IMG_094727.jpg</div><div class="meta">107 KB • 671×328</div><div class="desc">Murabba' 4×4 — Durrah</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_094859.jpg"><div class="info"><div class="name">IMG_094859.jpg</div><div class="meta">105 KB • 704×380</div><div class="desc">Komposit 4-in-1</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_101416.jpg"><div class="info"><div class="name">IMG_101416.jpg</div><div class="meta">74 KB • 643×334</div><div class="desc">Mutsallats Hurufi</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_102900.jpg"><div class="info"><div class="name">IMG_102900.jpg</div><div class="meta">138 KB • 788×543</div><div class="desc">Komposit multi-panel</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_110522.jpg"><div class="info"><div class="name">IMG_110522.jpg</div><div class="meta">106 KB • 818×476</div><div class="desc">Multi-panel Mabadi</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_110735.jpg"><div class="info"><div class="name">IMG_110735.jpg</div><div class="meta">41 KB • 435×434</div><div class="desc">Mabadi Mini 3×3</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_153252.jpg"><div class="info"><div class="name">IMG_153252.jpg</div><div class="meta">36 KB • 381×288</div><div class="desc">Mutsallats kecil</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_153335.jpg"><div class="info"><div class="name">IMG_153335.jpg</div><div class="meta">56 KB • 501×231</div><div class="desc">Murabba' campur</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_153402.jpg"><div class="info"><div class="name">IMG_153402.jpg</div><div class="meta">65 KB • 400×273</div><div class="desc">Mutsallats angka</div></div></div>
+      <div class="tile"><img src="https://raw.githubusercontent.com/fatimah86-dot/kitab/main/rajah_anwar_FINAL_300DPI/IMG_20261025_153434.jpg"><div class="info"><div class="name">IMG_153434.jpg</div><div class="meta">84 KB • 424×306</div><div class="desc">Wafaq Natiq</div></div></div>
+    </div>
+    <p class="muted" style="text-align:center;margin-top:12px">Semua dari <code>rajah_anwar_FINAL_300DPI/</code> — jangan crop ulang dari PDF/scan — pertahankan 300 DPI</p>
+  </div>
+
+  <div class="card" style="background:#e8f5e9;border-color:#a5d6a7">
+    <h3>✅ Verifikasi — Sumber Tunggal FINAL</h3>
+    <ul style="font-size:13px;line-height:1.6">
+      <li><strong>Total:</strong> 15 file JPG — 1.09 MB (1144028 bytes) — 300 DPI asli — latar putih — tanpa compress</li>
+      <li><strong>Deteksi otomatis:</strong> 11 halaman ada wafaq (p08,10,12,16,18,20,24,28,30,46,57) — p01 cover diabaikan — 15 crop karena komposit multi-wafaq</li>
+      <li><strong>Tanpa crop ulang:</strong> Hapus rujukan lama <code>crop_hal08_*.png 1287×1096</code> — sudah diganti IMG_072327/072355</li>
+      <li><strong>PR:</strong> PR #11 MERGED, PR #13 MERGED, PR #14 OPEN <code>arena/7021a54a-kitab</code> 4c16673</li>
+      <li><strong>Google Docs:</strong> https://docs.google.com/document/d/1IffC92Oc9hm4xBEAIGylAFzekJLQwvhkFFj3cFBrgqw — end 282635 — dokumen saat ini 404 (perlu verifikasi akses/sharing) — manifest siap append saat akses pulih</li>
+    </ul>
+  </div>
+
+  <footer style="text-align:center;padding:16px;color:#777;font-size:11px">
+    Anwar Mujarobat Syeikh al-Basyir • 15 crop FINAL • 1.09 MB • Batch01 V2 + Batch02 V2 LENGKAP • 25 Okt 2026 • arena/7021a54a-kitab
+  </footer>
+</div>
+</body>
+</html>
