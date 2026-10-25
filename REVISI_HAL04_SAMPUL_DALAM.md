@@ -7,7 +7,7 @@
 
 ### latin
 Fawā'idu wa-Mujarrabātu
-ash-Shaykhi al-Bashīri
+asy-Syaykhi al-Basyīri
 
 ### Terjemahan
 Faedah-faedah dan mujarrabat-mujarrabat,

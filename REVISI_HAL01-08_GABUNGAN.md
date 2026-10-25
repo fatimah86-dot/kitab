@@ -1,6 +1,6 @@
-# REVISI HAL 01–08 — ANWĀR ASH-SHAYKH AL-BASHĪR (GABUNGAN UNTUK KOREKSI)
+# REVISI HAL 01–08 — ANWĀR ASH-SHAYKH AL-BASHĪR (GABUNGAN UNTUK KOREKSI — LATIN BARU dza/sy/sh/dh/zh/ts/th/gh)
 
-> 8 halaman pertama — Sampul → Maysarah 3/3 — rajah sisip di bawah kalimat kitab Hal08.
+> 8 halaman — Sampul → Maysarah 3/3 — Latin gaya baru: hādzā, sy, sh, dh, zh, ts, th, gh — wafaq sisip Hal08
 
 ## HALAMAN 01 — SAMPUL — أَنْوَارُ الشَّيْخِ الْبَشِيرِ
 
@@ -15,7 +15,7 @@
 
 ### latin
 Anwāru
-ash-Shaykhi al-Bashīri
+asy-Syaykhi al-Basyīri
 Muntadayātu
 al-Anwāri al-Qādiriyyati wa al-Arwāḥi ar-Raḥmāniyyati
 
@@ -49,7 +49,7 @@ Halaman sampul tidak ada amalan khusus — hanya penanda judul dan penerbit. Bac
 وَإِلَى جَمِيعِ الْفُقَرَاءِ
 
 ### latin
-Ihdā'ush-Syaikhil-Basyīr, uhdī hādzal-'amala ilā Sayyidī Rasūlillāhi ṣallallāhu 'alaihi wa sallam, wa ilā Āli baitihith-Ṭayyibīnal-Akhyār, wa lish-Syaikhil-Faqīril-Qādiriyy, wa lid-Duktūri Bīhūnī, wa ilā jamī'il-Fuqarā'.
+Ihdā'usy-Syaikhil-Basyīr, uhdī hādzal-'amala ilā Sayyidī Rasūlillāhi shallallāhu 'alaihi wa sallam, wa ilā Āli baitihits-Thayyibīnal-Akhyār, wa lisy-Syaikhil-Faqīril-Qādiriyy, wa lid-Duktūri Bīhūnī, wa ilā jamī'il-Fuqarā'.
 
 ### Terjemahan
 Persembahan Syeikh Al-Basyir. Aku hadiahkan karya ini kepada junjunganku Rasulullah shallallahu 'alaihi wa sallam, kepada keluarga beliau yang baik dan terpilih, kepada Syeikh Al-Faqir Al-Qadiri, kepada Dr. Baihuni, dan kepada seluruh fuqara.
@@ -82,14 +82,14 @@ Halaman ihda' tidak ada ritual khusus — fungsinya niyyah & sanad. Adab: baca i
 وَبِذَلِكَ تَكُونُ قَدْ وَصَلَتْهُ الْإِجَازَةُ الْعَامَّةُ
 
 ### latin
-Ijāzatu ash-Shaykhi al-Bashīri
-Laqad ajaztu kulla man waṣalat ilaihi fawā'idī wa-riyāḍātī ijāzatan ʿāmmatan
-Fīmā yurḍillāha wa-rasūlahu wa yaqūmu bihā baʿda
-aṣ-Ṣalāti ʿalā al-Ḥabībi al-Muṣṭafā wa-qirā'ati al-Fātiḥati wa-ihdā'i thawābihā
-li-rūḥi al-Ḥabībi Muḥammadin ṣallallāhu ʿalaihi wa-sallama wa ilā rūḥi
-shaykhī raḥimahullāhu ʿalaihi wa li-Fātiḥatin lī
-wa-ilā ash-Shaykhi al-Faqīri al-Qādiriyyi aṭāla Allāhu lanā fī ʿumrihi
-wa-bi-dhālika takūnu qad waṣalat-hu al-Ijāzatu al-ʿĀmmatu
+Ijāzatu asy-Syaykhi al-Basyīri
+Laqad ajaztu kulla man washalat ilaihi fawā'idī wa-riyādhātī ijāzatan ʿāmmatan
+Fīmā yurdhillāha wa-rasūlahu wa yaqūmu bihā baʿda
+ash-Shalāti ʿalā al-Ḥabībi al-Mushthafā wa-qirā'ati al-Fātiḥati wa-ihdā'i tsawābihā
+li-rūḥi al-Ḥabībi Muḥammadin shallallāhu ʿalaihi wa-sallama wa ilā rūḥi
+syaykhī raḥimahullāhu ʿalaihi wa li-Fātiḥatin lī
+wa-ilā asy-Syaykhi al-Faqīri al-Qādiriyyi athāla Allāhu lanā fī ʿumrihi
+wa-bi-dzālika takūnu qad washalat-hu al-Ijāzatu al-ʿĀmmatu
 
 ### Terjemahan
 Ijazah Syeikh Al-Basyir.
@@ -118,7 +118,7 @@ Tatacara menerima ijazah: baca shalawat 1×, Al-Fatihah 1× dengan niat menghadi
 
 ### latin
 Fawā'idu wa-Mujarrabātu
-ash-Shaykhi al-Bashīri
+asy-Syaykhi al-Basyīri
 
 ### Terjemahan
 Faedah-faedah dan mujarrabat-mujarrabat,
@@ -164,20 +164,20 @@ Halaman sampul dalam tidak ada amalan khusus — hanya penanda judul bab. Tidak 
 13. فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ
 
 ### latin
-Fihrisu Mujarrabāti ash-Shaykhi al-Bashīri
-1. Ṭarīqatu al-Maysarati fī Jalbi al-Arzāqi
-2. Fā'idatun Muḥriqatun Ṭāridatun lil-Jinni wa al-Maradati bi-idhni Allāhi
-3. Fā'idatun Qāṭiʿatun li-ʿIlāji al-Massi
-4. az-Zajru al-Qāṭiʿu li-Akhdhi al-ʿAhdi wa al-Mīthāqi ʿalā Khādimi al-Istinzāli
-5. Fā'idatun li-Ṭardi ʿAṭlūshin Mufsidi al-Aʿmāli ar-Rūḥāniyyati
-6. ad-Durratu an-Nūrāniyyatu fī ʿIlāji al-Aʿrāḍi ar-Rūḥāniyyati
-7. Fā'idatun fī Tadmīri aẓ-Ẓālimi
+Fihrisu Mujarrabāti asy-Syaykhi al-Basyīri
+1. Tharīqatu al-Maysarati fī Jalbi al-Arzāqi
+2. Fā'idatun Muḥriqatun Thāridatun lil-Jinni wa al-Maradati bi-idzni Allāhi
+3. Fā'idatun Qāthiʿatun li-ʿIlāji al-Massi
+4. az-Zajru al-Qāthiʿu li-Akhdzi al-ʿAhdi wa al-Mītsāqi ʿalā Khādimi al-Istinzāli
+5. Fā'idatun li-Thardi ʿAthlūsyin Mufsidi al-Aʿmāli ar-Rūḥāniyyati
+6. ad-Durratu an-Nūrāniyyatu fī ʿIlāji al-Aʿrādhi ar-Rūḥāniyyati
+7. Fā'idatun fī Tadmīri azh-Zhālimi
 8. Fā'idatun Mujarrabatun li-Qahri al-Qarīni
 9. as-Sayfu al-Battāru li-Dafʿi Maymūna al-Ghaddāri
-10. Fā'idatun Qāṭiʿatun li-Raddi al-Khādimi
+10. Fā'idatun Qāthiʿatun li-Raddi al-Khādimi
 11. Duʿā'u al-Khā'ifi
-12. al-Āyātu al-ʿAshru al-Mubṭilātu li-an-Nafthi wa as-Siḥri
-13. Fā'idatun fī al-Kashfi al-Manāmiyyi
+12. al-Āyātu al-ʿAsyru al-Mubthilātu li-an-Naftsi wa as-Siḥri
+13. Fā'idatun fī al-Kasyfi al-Manāmiyyi
 
 ### Terjemahan
 Daftar Mujarrabat Syeikh Al-Basyir.
@@ -249,21 +249,21 @@ Halaman fihris tidak ada wirid khusus — hanya penunjuk. Pilih faedah sesuai ha
 ن ر س س ل ن م
 
 ### latin
-Ṭarīqatu al-Muyassarati fī Jalbi al-Arzāqi
+Tharīqatu al-Muyassarati fī Jalbi al-Arzāqi
 Ikhwatī fī Allāhi
-Aḍaʿu bayna aydīkum hādhihi ad-durrata an-nāfiʿata fī jalbi al-arzāqi wa rawāji at-tijāratī wa hiya Ṭarīqatu al-Muyassarati wa irta'aytu an aḍaʿahā lakum limā fīhā mina al-khayri wa al-barakati wa kadhālika li-iḥtiwā'ihā ʿalā qawāʿida ḥarfiyyatin tusāʿidukum ʿalā mā naḥnu bi-ṣadadihi bi-idhni Allāhi wa naḍaʿu fī dhālika mithālan bi-ismi Murādin wa ummihi Maryama
+Adhaʿu bayna aydīkum hādzihi ad-durrata an-nāfiʿata fī jalbi al-arzāqi wa rawāji at-tijāratī wa hiya Tharīqatu al-Muyassarati wa irta'aytu an adhaʿahā lakum limā fīhā mina al-khayri wa al-barakati wa kadzālika li-iḥtiwā'ihā ʿalā qawāʿida ḥarfiyyatin tusāʿidukum ʿalā mā naḥnu bi-shadadihi bi-idzni Allāhi wa nadhaʿu fī dzālika mitsālan bi-ismi Murādin wa ummihi Maryama
 م ر ا د م ر ي م = 535 نَلْفِظُ الْعَدَدَ حَرْفِيًّا
 535 : خ م س و ث ل ا ث و ن و خ م س م ا ئ ه
-Thumma nuzīlu at-takrāra mina al-ḥurūfi hākadhā
+Tsumma nuzīlu at-takrāra mina al-ḥurūfi hākadzā
 خ م س و ث ل ن ا هـ = 9 أَحْرُفٍ
-Wa kadhālika nafʿalu bi-ismi aṭ-ṭālibi nuzīlu minhu al-mukarrara wa ḥurūfa al-maddi hākadhā
+Wa kadzālika nafʿalu bi-ismi ath-thālibi nuzīlu minhu al-mukarrara wa ḥurūfa al-maddi hākadzā
 م ر ا د م ر ي م ، تَصِيرُ كَالتَّالِي: م ر د ي = 4 حُرُوفٍ
-Thumma naṭraḥu al-aqalla mina al-akthari
-9 - 4 = 5 fa-thabata al-ʿamalu fī wafqin mukhammasi wa ʿadadu buyūtihi 25 baytan
-Thumma baʿda dhālika nuqārinu ḥurūfa lafẓi al-ʿadadi maʿa ḥurūfi aṭ-ṭālibi wa nuzīlu al-mukarrara minhumā
+Tsumma nathraḥu al-aqalla mina al-aktsari
+9 - 4 = 5 fa-tsabata al-ʿamalu fī wafqin mukhammasi wa ʿadadu buyūtihi 25 baytan
+Tsumma baʿda dzālika nuqārinu ḥurūfa lafzhi al-ʿadadi maʿa ḥurūfi ath-thālibi wa nuzīlu al-mukarrara minhumā
 خ م س و ث ل ن ا هـ م ر د ي ، فَتَصِيرُ الْحُرُوفُ هَكَذَا:
 خ م س و ث ل ن ا هـ م ر د ي = 12 حَرْفًا نَطْرَحُهَا مِنْ عَدَدِ بُيُوتِ الْمُخَمَّسِ، 25 - 12 = 13
-Wa hādhā huwa al-ussu al-ḥarfiyyu al-muʿaddalu fa-na'khudhu mina al-ḥurūfi mā kāna ʿadaduhu aqalla min 13 tūḍaʿu fī al-wafqi wa mā kāna akthara min 13 fa-hiya li-ar-rūḥāniyyi wa al-ḥurūfu al-mustakhrajatu hiya ka-at-tālī
+Wa hādzā huwa al-ussu al-ḥarfiyyu al-muʿaddalu fa-na'khudzu mina al-ḥurūfi mā kāna ʿadaduhu aqalla min 13 tūdhaʿu fī al-wafqi wa mā kāna aktsara min 13 fa-hiya li-ar-rūḥāniyyi wa al-ḥurūfu al-mustakhrajatu hiya ka-at-tālī
 أَقَلُّ مِنْ 13: و ا هـ د ي
 أَكْثَرُ مِنْ 13: خ م س ث ل ن ر
 وَجَبَ عَلَيْنَا تَعْدِيلُ حَرْفَيْنِ ظُلْمَانِيَّيْنِ مِنَ الرُّوحَانِيِّ [خ ث] لَكِنَّ التَّعْدِيلَ يَكُونُ بِالْمِيزَانِ الْأَيْقَغِيِّ بِدُونِ نِسَبٍ تَفَاضُلِيَّةٍ، وَعَلَيْهِ نَسْتَبْدِلُ حَرْفَ [خ بِحَرْفِ س] وَ [ث بِحَرْفِ ن] فَتَصِيرُ الْحُرُوفُ كَالتَّالِي: [س م س ن ل ن ر] ثُمَّ نَكْسِرُهَا 3 مَرَّاتٍ هَكَذَا:
@@ -318,17 +318,17 @@ Khasiat Maysarah: menarik rezeki dan melariskan dagang. Kaidah di halaman ini ad
 وَفِي نَفْسِ الْوَرَقَةِ مِنْ وَرَاءِ الْوَفْقِ الْمُخَمَّسِ تَرْسُمُ وَفْقًا بِقَدْرِ حُرُوفِ الرَّوْحَانِيِّ الْحَاكِمِ وَنَنْزِلُ بِهِ كَمَا فَعَلْنَا بِحُرُوفِ الْعَمَلِ، فِي مِثَالِنَا هَذَا يَكُونُ وَفْقًا مُرَبَّعًا وَتُحَوِّطُهُ بِاسْمِهِ. وَالْكِتَابَةُ تَكُونُ بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ وَمِسْكٍ مَعَ بَخُورٍ طَيِّبٍ كَاللُّبَانِ وَعُودِ الصَّلِيبِ
 
 ### latin
-Ṭarīqatu al-Muyassarati fī Jalbi al-Arzāqi
+Tharīqatu al-Muyassarati fī Jalbi al-Arzāqi
 
-Thumma nalquṭu mina as-saṭri ath-thānī isma ar-rūḥāniyyi mubtadi'īna mina al-ḥarfi ath-thānī wa nasīru bi-t-tathlīthi fa-yakūnu hākadhā: س م س — [Rajah ditulis ulang: سَمْسَائِيلُ]. Thumma nalquṭu mina as-saṭri ath-thālithi kadhālika bi-t-tathlīthi mubtadi'īna mina al-ḥarfi al-awwali li-istikhrāji ar-rūḥāniyyi al-ḥākimi fa-takūnu ḥurūfuhu hiya [ ن س ل م ] — [Rajah ditulis ulang: نَلْسَمَائِيلُ]
+Tsumma nalquthu mina as-sathri ats-tsānī isma ar-rūḥāniyyi mubtadi'īna mina al-ḥarfi ats-tsānī wa nasīru bi-t-tatslītsi fa-yakūnu hākadzā: س م س — [Rajah ditulis ulang: سَمْسَائِيلُ]. Tsumma nalquthu mina as-sathri ats-tsālitsi kadzālika bi-t-tatslītsi mubtadi'īna mina al-ḥarfi al-awwali li-istikhrāji ar-rūḥāniyyi al-ḥākimi fa-takūnu ḥurūfuhu hiya [ ن س ل م ] — [Rajah ditulis ulang: نَلْسَمَائِيلُ]
 
-Thumma na'khudhu ḥurūfa al-ʿamali wa ar-rūḥāniyyi al-ḥākimi mabsūṭatan bidūni takrārin wa bidūni ḥurūfin ẓulmāniyyatin wa nastakhriju minhā mā tarakkaba fīhā min asmā'i Allāhi al-ḥusnā an-nūrāniyyati hākadhā: [ ن ل ا م س ي هـ ] — [Rajah ditulis ulang: لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ]
+Tsumma na'khudzu ḥurūfa al-ʿamali wa ar-rūḥāniyyi al-ḥākimi mabsūthatan bidūni takrārin wa bidūni ḥurūfin zhulmāniyyatin wa nastakhriju minhā mā tarakkaba fīhā min asmā'i Allāhi al-ḥusnā an-nūrāniyyati hākadzā: [ ن ل ا م س ي هـ ] — [Rajah ditulis ulang: لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ]
 
-Ammā ṭarīqatu al-ʿamali: na'khudhu al-ḥurūfa al-khamsata allatī lil-ʿamali wa naqsimuhā ʿalā 7 li-istikhrāji sāʿati al-ʿamali hākadhā: و ا هـ د ي = 27 — maqsūmatan ʿalā 7 al-khāriju 3 wa al-bāqī 6 — idhan sāʿatu al-ʿamali hiya az-Zuhratu
+Ammā tharīqatu al-ʿamali: na'khudzu al-ḥurūfa al-khamsata allatī lil-ʿamali wa naqsimuhā ʿalā 7 li-istikhrāji sāʿati al-ʿamali hākadzā: و ا هـ د ي = 27 — maqsūmatan ʿalā 7 al-khāriju 3 wa al-bāqī 6 — idzan sāʿatu al-ʿamali hiya az-Zuhratu
 
-Fa-na'khudhu ḥurūfa al-ʿamali murattabatan wa nanzilu bihā fī wafqin mukhammasi wa nuḥawwiṭuhu bi-al-āyati [ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ ] wa naktubu ʿalā al-arkāni al-arbaʿati isma ar-rūḥāniyyi [ سَمْسَائِيلُ ] wa nudawwiru ʿalaihi al-āyataini al-karīmataini: Allāhu laṭīfun bi-ʿibādihi yarzuqu man yashā'u wa huwa al-qawiyyu al-ʿazīzu — wa al-āyata: Alladhīna yatlūna kitāba Allāhi ... ilā lan tabūra
+Fa-na'khudzu ḥurūfa al-ʿamali murattabatan wa nanzilu bihā fī wafqin mukhammasi wa nuḥawwithuhu bi-al-āyati [ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ ] wa naktubu ʿalā al-arkāni al-arbaʿati isma ar-rūḥāniyyi [ سَمْسَائِيلُ ] wa nudawwiru ʿalaihi al-āyataini al-karīmataini: Allāhu lathīfun bi-ʿibādihi yarzuqu man yasyā'u wa huwa al-qawiyyu al-ʿazīzu — wa al-āyata: Alladzīna yatlūna kitāba Allāhi ... ilā lan tabūra
 
-Wa fī nafsi al-waraqati min warā'i al-wafqi al-mukhammasi tarsumu wafqan bi-qadri ḥurūfi ar-rūḥāniyyi al-ḥākimi wa nanzilu bihi kamā faʿalnā bi-ḥurūfi al-ʿamali — fī mithālinā hādhā yakūnu wafqan murabbaʿan wa tuḥawwiṭuhu bi-ismihi. Wa al-kitābatu takūnu bi-mā'i wardin wa zaʿfarānin wa miskin maʿa bakhūrin ṭayyibin ka-al-lubāni wa ʿūdi aṣ-ṣalībi
+Wa fī nafsi al-waraqati min warā'i al-wafqi al-mukhammasi tarsumu wafqan bi-qadri ḥurūfi ar-rūḥāniyyi al-ḥākimi wa nanzilu bihi kamā faʿalnā bi-ḥurūfi al-ʿamali — fī mitsālinā hādzā yakūnu wafqan murabbaʿan wa tuḥawwithuhu bi-ismihi. Wa al-kitābatu takūnu bi-mā'i wardin wa zaʿfarānin wa miskin maʿa bakhūrin thayyibin ka-al-lubāni wa ʿūdi ash-shalībi
 
 ### Terjemahan
 Cara Maysarah untuk Menarik Rezeki.
@@ -371,21 +371,21 @@ Wafaq depan 5×5 (huruf amal) dikelilingi ayat Qauluhu al-Haqq dan dua ayat reze
 أَسْأَلُ اللهَ عَزَّ وَجَلَّ أَنْ يَنْفَعَكُمْ بِهَذِهِ الذَّخِيرَةِ الْمُبَارَكَةِ إِنَّهُ وَلِيُّ ذَلِكَ وَالْقَادِرُ عَلَيْهِ وَالسَّلَامُ
 
 ### latin
-Ṭarīqatu al-Muyassarati fī Jalbi al-Arzāqi
+Tharīqatu al-Muyassarati fī Jalbi al-Arzāqi
 
-Wa-hādhā Wafqu al-ʿAmali
+Wa-hādzā Wafqu al-ʿAmali
 
-![Wafaq Hal 08 — Mukhammas 5×5 (Amal) — di bawah: Wa-hādhā Wafqu al-ʿAmali](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
+![Wafaq Hal 08 — Mukhammas 5×5 (Amal) — di bawah: Wa-hādzā Wafqu al-ʿAmali](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
 [Gambar: Wafaq Mukhammas 5×5 — Amal]
 
-Wa-hādhā al-Wafqu al-Murabbaʿu alladhī nazalnā fīhi ar-Rūḥāniyyi
+Wa-hādzā al-Wafqu al-Murabbaʿu alladzī nazalnā fīhi ar-Rūḥāniyyi
 
-![Wafaq Hal 08 — Murabba' 4×4 (Ruhani) — di bawah: Wa-hādhā al-Wafqu al-Murabbaʿu](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
+![Wafaq Hal 08 — Murabba' 4×4 (Ruhani) — di bawah: Wa-hādzā al-Wafqu al-Murabbaʿu](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
 [Gambar: Wafaq Murabba' 4×4 — Ruhani]
 
-Wa-ʿadadu al-ʿAzīmati 196 marratan maʿa at-tawajjuhi ilā Allāhi ʿAzza wa-Jalla bi-ṭalabika
+Wa-ʿadadu al-ʿAzīmati 196 marratan maʿa at-tawajjuhi ilā Allāhi ʿAzza wa-Jalla bi-thalabika
 
-As'alu Allāha ʿAzza wa-Jalla an yanfaʿakum bi-hādhihi adh-Dhakhīrati al-Mubārakati innahu Waliyyu dhālika wa al-Qādiru ʿalaihi was-Salāmu
+As'alu Allāha ʿAzza wa-Jalla an yanfaʿakum bi-hādzihi adz-Dzakhīrati al-Mubārakati innahu Waliyyu dzālika wa al-Qādiru ʿalaihi was-Salāmu
 
 ### Terjemahan
 Cara Maysarah untuk Menarik Rezeki.

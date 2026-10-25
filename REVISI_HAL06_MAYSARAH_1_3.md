@@ -44,21 +44,21 @@
 ن ر س س ل ن م
 
 ### latin
-Ṭarīqatu al-Muyassarati fī Jalbi al-Arzāqi
+Tharīqatu al-Muyassarati fī Jalbi al-Arzāqi
 Ikhwatī fī Allāhi
-Aḍaʿu bayna aydīkum hādhihi ad-durrata an-nāfiʿata fī jalbi al-arzāqi wa rawāji at-tijāratī wa hiya Ṭarīqatu al-Muyassarati wa irta'aytu an aḍaʿahā lakum limā fīhā mina al-khayri wa al-barakati wa kadhālika li-iḥtiwā'ihā ʿalā qawāʿida ḥarfiyyatin tusāʿidukum ʿalā mā naḥnu bi-ṣadadihi bi-idhni Allāhi wa naḍaʿu fī dhālika mithālan bi-ismi Murādin wa ummihi Maryama
+Adhaʿu bayna aydīkum hādzihi ad-durrata an-nāfiʿata fī jalbi al-arzāqi wa rawāji at-tijāratī wa hiya Tharīqatu al-Muyassarati wa irta'aytu an adhaʿahā lakum limā fīhā mina al-khayri wa al-barakati wa kadzālika li-iḥtiwā'ihā ʿalā qawāʿida ḥarfiyyatin tusāʿidukum ʿalā mā naḥnu bi-shadadihi bi-idzni Allāhi wa nadhaʿu fī dzālika mitsālan bi-ismi Murādin wa ummihi Maryama
 م ر ا د م ر ي م = 535 نَلْفِظُ الْعَدَدَ حَرْفِيًّا
 535 : خ م س و ث ل ا ث و ن و خ م س م ا ئ ه
-Thumma nuzīlu at-takrāra mina al-ḥurūfi hākadhā
+Tsumma nuzīlu at-takrāra mina al-ḥurūfi hākadzā
 خ م س و ث ل ن ا هـ = 9 أَحْرُفٍ
-Wa kadhālika nafʿalu bi-ismi aṭ-ṭālibi nuzīlu minhu al-mukarrara wa ḥurūfa al-maddi hākadhā
+Wa kadzālika nafʿalu bi-ismi ath-thālibi nuzīlu minhu al-mukarrara wa ḥurūfa al-maddi hākadzā
 م ر ا د م ر ي م ، تَصِيرُ كَالتَّالِي: م ر د ي = 4 حُرُوفٍ
-Thumma naṭraḥu al-aqalla mina al-akthari
-9 - 4 = 5 fa-thabata al-ʿamalu fī wafqin mukhammasi wa ʿadadu buyūtihi 25 baytan
-Thumma baʿda dhālika nuqārinu ḥurūfa lafẓi al-ʿadadi maʿa ḥurūfi aṭ-ṭālibi wa nuzīlu al-mukarrara minhumā
+Tsumma nathraḥu al-aqalla mina al-aktsari
+9 - 4 = 5 fa-tsabata al-ʿamalu fī wafqin mukhammasi wa ʿadadu buyūtihi 25 baytan
+Tsumma baʿda dzālika nuqārinu ḥurūfa lafzhi al-ʿadadi maʿa ḥurūfi ath-thālibi wa nuzīlu al-mukarrara minhumā
 خ م س و ث ل ن ا هـ م ر د ي ، فَتَصِيرُ الْحُرُوفُ هَكَذَا:
 خ م س و ث ل ن ا هـ م ر د ي = 12 حَرْفًا نَطْرَحُهَا مِنْ عَدَدِ بُيُوتِ الْمُخَمَّسِ، 25 - 12 = 13
-Wa hādhā huwa al-ussu al-ḥarfiyyu al-muʿaddalu fa-na'khudhu mina al-ḥurūfi mā kāna ʿadaduhu aqalla min 13 tūḍaʿu fī al-wafqi wa mā kāna akthara min 13 fa-hiya li-ar-rūḥāniyyi wa al-ḥurūfu al-mustakhrajatu hiya ka-at-tālī
+Wa hādzā huwa al-ussu al-ḥarfiyyu al-muʿaddalu fa-na'khudzu mina al-ḥurūfi mā kāna ʿadaduhu aqalla min 13 tūdhaʿu fī al-wafqi wa mā kāna aktsara min 13 fa-hiya li-ar-rūḥāniyyi wa al-ḥurūfu al-mustakhrajatu hiya ka-at-tālī
 أَقَلُّ مِنْ 13: و ا هـ د ي
 أَكْثَرُ مِنْ 13: خ م س ث ل ن ر
 وَجَبَ عَلَيْنَا تَعْدِيلُ حَرْفَيْنِ ظُلْمَانِيَّيْنِ مِنَ الرُّوحَانِيِّ [خ ث] لَكِنَّ التَّعْدِيلَ يَكُونُ بِالْمِيزَانِ الْأَيْقَغِيِّ بِدُونِ نِسَبٍ تَفَاضُلِيَّةٍ، وَعَلَيْهِ نَسْتَبْدِلُ حَرْفَ [خ بِحَرْفِ س] وَ [ث بِحَرْفِ ن] فَتَصِيرُ الْحُرُوفُ كَالتَّالِي: [س م س ن ل ن ر] ثُمَّ نَكْسِرُهَا 3 مَرَّاتٍ هَكَذَا:

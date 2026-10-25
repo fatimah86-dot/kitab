@@ -18,21 +18,21 @@
 أَسْأَلُ اللهَ عَزَّ وَجَلَّ أَنْ يَنْفَعَكُمْ بِهَذِهِ الذَّخِيرَةِ الْمُبَارَكَةِ إِنَّهُ وَلِيُّ ذَلِكَ وَالْقَادِرُ عَلَيْهِ وَالسَّلَامُ
 
 ### latin
-Ṭarīqatu al-Muyassarati fī Jalbi al-Arzāqi
+Tharīqatu al-Muyassarati fī Jalbi al-Arzāqi
 
-Wa-hādhā Wafqu al-ʿAmali
+Wa-hādzā Wafqu al-ʿAmali
 
-![Wafaq Hal 08 — Mukhammas 5×5 (Amal) — di bawah: Wa-hādhā Wafqu al-ʿAmali](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
+![Wafaq Hal 08 — Mukhammas 5×5 (Amal) — di bawah: Wa-hādzā Wafqu al-ʿAmali](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
 [Gambar: Wafaq Mukhammas 5×5 — Amal]
 
-Wa-hādhā al-Wafqu al-Murabbaʿu alladhī nazalnā fīhi ar-Rūḥāniyyi
+Wa-hādzā al-Wafqu al-Murabbaʿu alladzī nazalnā fīhi ar-Rūḥāniyyi
 
-![Wafaq Hal 08 — Murabba' 4×4 (Ruhani) — di bawah: Wa-hādhā al-Wafqu al-Murabbaʿu](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
+![Wafaq Hal 08 — Murabba' 4×4 (Ruhani) — di bawah: Wa-hādzā al-Wafqu al-Murabbaʿu](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
 [Gambar: Wafaq Murabba' 4×4 — Ruhani]
 
-Wa-ʿadadu al-ʿAzīmati 196 marratan maʿa at-tawajjuhi ilā Allāhi ʿAzza wa-Jalla bi-ṭalabika
+Wa-ʿadadu al-ʿAzīmati 196 marratan maʿa at-tawajjuhi ilā Allāhi ʿAzza wa-Jalla bi-thalabika
 
-As'alu Allāha ʿAzza wa-Jalla an yanfaʿakum bi-hādhihi adh-Dhakhīrati al-Mubārakati innahu Waliyyu dhālika wa al-Qādiru ʿalaihi was-Salāmu
+As'alu Allāha ʿAzza wa-Jalla an yanfaʿakum bi-hādzihi adz-Dzakhīrati al-Mubārakati innahu Waliyyu dzālika wa al-Qādiru ʿalaihi was-Salāmu
 
 ### Terjemahan
 Cara Maysarah untuk Menarik Rezeki.

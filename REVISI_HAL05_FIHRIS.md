@@ -30,20 +30,20 @@
 13. فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ
 
 ### latin
-Fihrisu Mujarrabāti ash-Shaykhi al-Bashīri
-1. Ṭarīqatu al-Maysarati fī Jalbi al-Arzāqi
-2. Fā'idatun Muḥriqatun Ṭāridatun lil-Jinni wa al-Maradati bi-idhni Allāhi
-3. Fā'idatun Qāṭiʿatun li-ʿIlāji al-Massi
-4. az-Zajru al-Qāṭiʿu li-Akhdhi al-ʿAhdi wa al-Mīthāqi ʿalā Khādimi al-Istinzāli
-5. Fā'idatun li-Ṭardi ʿAṭlūshin Mufsidi al-Aʿmāli ar-Rūḥāniyyati
-6. ad-Durratu an-Nūrāniyyatu fī ʿIlāji al-Aʿrāḍi ar-Rūḥāniyyati
-7. Fā'idatun fī Tadmīri aẓ-Ẓālimi
+Fihrisu Mujarrabāti asy-Syaykhi al-Basyīri
+1. Tharīqatu al-Maysarati fī Jalbi al-Arzāqi
+2. Fā'idatun Muḥriqatun Thāridatun lil-Jinni wa al-Maradati bi-idzni Allāhi
+3. Fā'idatun Qāthiʿatun li-ʿIlāji al-Massi
+4. az-Zajru al-Qāthiʿu li-Akhdzi al-ʿAhdi wa al-Mītsāqi ʿalā Khādimi al-Istinzāli
+5. Fā'idatun li-Thardi ʿAthlūsyin Mufsidi al-Aʿmāli ar-Rūḥāniyyati
+6. ad-Durratu an-Nūrāniyyatu fī ʿIlāji al-Aʿrādhi ar-Rūḥāniyyati
+7. Fā'idatun fī Tadmīri azh-Zhālimi
 8. Fā'idatun Mujarrabatun li-Qahri al-Qarīni
 9. as-Sayfu al-Battāru li-Dafʿi Maymūna al-Ghaddāri
-10. Fā'idatun Qāṭiʿatun li-Raddi al-Khādimi
+10. Fā'idatun Qāthiʿatun li-Raddi al-Khādimi
 11. Duʿā'u al-Khā'ifi
-12. al-Āyātu al-ʿAshru al-Mubṭilātu li-an-Nafthi wa as-Siḥri
-13. Fā'idatun fī al-Kashfi al-Manāmiyyi
+12. al-Āyātu al-ʿAsyru al-Mubthilātu li-an-Naftsi wa as-Siḥri
+13. Fā'idatun fī al-Kasyfi al-Manāmiyyi
 
 ### Terjemahan
 Daftar Mujarrabat Syeikh Al-Basyir.

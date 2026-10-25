@@ -14,17 +14,17 @@
 وَفِي نَفْسِ الْوَرَقَةِ مِنْ وَرَاءِ الْوَفْقِ الْمُخَمَّسِ تَرْسُمُ وَفْقًا بِقَدْرِ حُرُوفِ الرَّوْحَانِيِّ الْحَاكِمِ وَنَنْزِلُ بِهِ كَمَا فَعَلْنَا بِحُرُوفِ الْعَمَلِ، فِي مِثَالِنَا هَذَا يَكُونُ وَفْقًا مُرَبَّعًا وَتُحَوِّطُهُ بِاسْمِهِ. وَالْكِتَابَةُ تَكُونُ بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ وَمِسْكٍ مَعَ بَخُورٍ طَيِّبٍ كَاللُّبَانِ وَعُودِ الصَّلِيبِ
 
 ### latin
-Ṭarīqatu al-Muyassarati fī Jalbi al-Arzāqi
+Tharīqatu al-Muyassarati fī Jalbi al-Arzāqi
 
-Thumma nalquṭu mina as-saṭri ath-thānī isma ar-rūḥāniyyi mubtadi'īna mina al-ḥarfi ath-thānī wa nasīru bi-t-tathlīthi fa-yakūnu hākadhā: س م س — [Rajah ditulis ulang: سَمْسَائِيلُ]. Thumma nalquṭu mina as-saṭri ath-thālithi kadhālika bi-t-tathlīthi mubtadi'īna mina al-ḥarfi al-awwali li-istikhrāji ar-rūḥāniyyi al-ḥākimi fa-takūnu ḥurūfuhu hiya [ ن س ل م ] — [Rajah ditulis ulang: نَلْسَمَائِيلُ]
+Tsumma nalquthu mina as-sathri ats-tsānī isma ar-rūḥāniyyi mubtadi'īna mina al-ḥarfi ats-tsānī wa nasīru bi-t-tatslītsi fa-yakūnu hākadzā: س م س — [Rajah ditulis ulang: سَمْسَائِيلُ]. Tsumma nalquthu mina as-sathri ats-tsālitsi kadzālika bi-t-tatslītsi mubtadi'īna mina al-ḥarfi al-awwali li-istikhrāji ar-rūḥāniyyi al-ḥākimi fa-takūnu ḥurūfuhu hiya [ ن س ل م ] — [Rajah ditulis ulang: نَلْسَمَائِيلُ]
 
-Thumma na'khudhu ḥurūfa al-ʿamali wa ar-rūḥāniyyi al-ḥākimi mabsūṭatan bidūni takrārin wa bidūni ḥurūfin ẓulmāniyyatin wa nastakhriju minhā mā tarakkaba fīhā min asmā'i Allāhi al-ḥusnā an-nūrāniyyati hākadhā: [ ن ل ا م س ي هـ ] — [Rajah ditulis ulang: لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ]
+Tsumma na'khudzu ḥurūfa al-ʿamali wa ar-rūḥāniyyi al-ḥākimi mabsūthatan bidūni takrārin wa bidūni ḥurūfin zhulmāniyyatin wa nastakhriju minhā mā tarakkaba fīhā min asmā'i Allāhi al-ḥusnā an-nūrāniyyati hākadzā: [ ن ل ا م س ي هـ ] — [Rajah ditulis ulang: لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ]
 
-Ammā ṭarīqatu al-ʿamali: na'khudhu al-ḥurūfa al-khamsata allatī lil-ʿamali wa naqsimuhā ʿalā 7 li-istikhrāji sāʿati al-ʿamali hākadhā: و ا هـ د ي = 27 — maqsūmatan ʿalā 7 al-khāriju 3 wa al-bāqī 6 — idhan sāʿatu al-ʿamali hiya az-Zuhratu
+Ammā tharīqatu al-ʿamali: na'khudzu al-ḥurūfa al-khamsata allatī lil-ʿamali wa naqsimuhā ʿalā 7 li-istikhrāji sāʿati al-ʿamali hākadzā: و ا هـ د ي = 27 — maqsūmatan ʿalā 7 al-khāriju 3 wa al-bāqī 6 — idzan sāʿatu al-ʿamali hiya az-Zuhratu
 
-Fa-na'khudhu ḥurūfa al-ʿamali murattabatan wa nanzilu bihā fī wafqin mukhammasi wa nuḥawwiṭuhu bi-al-āyati [ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ ] wa naktubu ʿalā al-arkāni al-arbaʿati isma ar-rūḥāniyyi [ سَمْسَائِيلُ ] wa nudawwiru ʿalaihi al-āyataini al-karīmataini: Allāhu laṭīfun bi-ʿibādihi yarzuqu man yashā'u wa huwa al-qawiyyu al-ʿazīzu — wa al-āyata: Alladhīna yatlūna kitāba Allāhi ... ilā lan tabūra
+Fa-na'khudzu ḥurūfa al-ʿamali murattabatan wa nanzilu bihā fī wafqin mukhammasi wa nuḥawwithuhu bi-al-āyati [ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ ] wa naktubu ʿalā al-arkāni al-arbaʿati isma ar-rūḥāniyyi [ سَمْسَائِيلُ ] wa nudawwiru ʿalaihi al-āyataini al-karīmataini: Allāhu lathīfun bi-ʿibādihi yarzuqu man yasyā'u wa huwa al-qawiyyu al-ʿazīzu — wa al-āyata: Alladzīna yatlūna kitāba Allāhi ... ilā lan tabūra
 
-Wa fī nafsi al-waraqati min warā'i al-wafqi al-mukhammasi tarsumu wafqan bi-qadri ḥurūfi ar-rūḥāniyyi al-ḥākimi wa nanzilu bihi kamā faʿalnā bi-ḥurūfi al-ʿamali — fī mithālinā hādhā yakūnu wafqan murabbaʿan wa tuḥawwiṭuhu bi-ismihi. Wa al-kitābatu takūnu bi-mā'i wardin wa zaʿfarānin wa miskin maʿa bakhūrin ṭayyibin ka-al-lubāni wa ʿūdi aṣ-ṣalībi
+Wa fī nafsi al-waraqati min warā'i al-wafqi al-mukhammasi tarsumu wafqan bi-qadri ḥurūfi ar-rūḥāniyyi al-ḥākimi wa nanzilu bihi kamā faʿalnā bi-ḥurūfi al-ʿamali — fī mitsālinā hādzā yakūnu wafqan murabbaʿan wa tuḥawwithuhu bi-ismihi. Wa al-kitābatu takūnu bi-mā'i wardin wa zaʿfarānin wa miskin maʿa bakhūrin thayyibin ka-al-lubāni wa ʿūdi ash-shalībi
 
 ### Terjemahan
 Cara Maysarah untuk Menarik Rezeki.

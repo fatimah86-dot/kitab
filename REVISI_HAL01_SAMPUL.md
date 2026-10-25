@@ -11,7 +11,7 @@
 
 ### latin
 Anwāru
-ash-Shaykhi al-Bashīri
+asy-Syaykhi al-Basyīri
 Muntadayātu
 al-Anwāri al-Qādiriyyati wa al-Arwāḥi ar-Raḥmāniyyati
 

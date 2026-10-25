@@ -18,14 +18,14 @@
 وَبِذَلِكَ تَكُونُ قَدْ وَصَلَتْهُ الْإِجَازَةُ الْعَامَّةُ
 
 ### latin
-Ijāzatu ash-Shaykhi al-Bashīri
-Laqad ajaztu kulla man waṣalat ilaihi fawā'idī wa-riyāḍātī ijāzatan ʿāmmatan
-Fīmā yurḍillāha wa-rasūlahu wa yaqūmu bihā baʿda
-aṣ-Ṣalāti ʿalā al-Ḥabībi al-Muṣṭafā wa-qirā'ati al-Fātiḥati wa-ihdā'i thawābihā
-li-rūḥi al-Ḥabībi Muḥammadin ṣallallāhu ʿalaihi wa-sallama wa ilā rūḥi
-shaykhī raḥimahullāhu ʿalaihi wa li-Fātiḥatin lī
-wa-ilā ash-Shaykhi al-Faqīri al-Qādiriyyi aṭāla Allāhu lanā fī ʿumrihi
-wa-bi-dhālika takūnu qad waṣalat-hu al-Ijāzatu al-ʿĀmmatu
+Ijāzatu asy-Syaykhi al-Basyīri
+Laqad ajaztu kulla man washalat ilaihi fawā'idī wa-riyādhātī ijāzatan ʿāmmatan
+Fīmā yurdhillāha wa-rasūlahu wa yaqūmu bihā baʿda
+ash-Shalāti ʿalā al-Ḥabībi al-Mushthafā wa-qirā'ati al-Fātiḥati wa-ihdā'i tsawābihā
+li-rūḥi al-Ḥabībi Muḥammadin shallallāhu ʿalaihi wa-sallama wa ilā rūḥi
+syaykhī raḥimahullāhu ʿalaihi wa li-Fātiḥatin lī
+wa-ilā asy-Syaykhi al-Faqīri al-Qādiriyyi athāla Allāhu lanā fī ʿumrihi
+wa-bi-dzālika takūnu qad washalat-hu al-Ijāzatu al-ʿĀmmatu
 
 ### Terjemahan
 Ijazah Syeikh Al-Basyir.
