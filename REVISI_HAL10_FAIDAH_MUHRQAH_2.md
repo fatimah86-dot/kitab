@@ -14,7 +14,7 @@
 ### latin
 Fā'idatun muḥriqatun thāridatun lil-jinni wal-maradati bi'idznillāhi
 
-Akhadznā ḥurūfar-rūḥāniyya minas-sathrit-tsālitsi wa hiya: [ N — Ḥ — Q ] — [Rajah Huruf — tidak diterjemahkan: ن ح ق ] , ʿadaduhā 158, nuthquhā [ Ḥanaqāyīlu ] huwar-rūḥāniyyu, naktubuhū ʿalal-arkāni, wa nudawwiru bihīl-qasamal-ātīya:
+Akhadznā ḥurūfar-rūḥāniyya minas-sathrit-tsālitsi wa hiya: [ ن ح ق ] — [Rajah Huruf — tidak diterjemahkan] , ʿadaduhā 158, nuthquhā [ Ḥanaqāyīlu ] huwar-rūḥāniyyu, naktubuhū ʿalal-arkāni, wa nudawwiru bihīl-qasamal-ātīya:
 
 [ Bismillāhir-raḥmānir-raḥīmi, aqsamtu ʿalaikum ayyatuhāl-arwāḥur-rūḥāniyyatu Thaktāyīlu wa anta yā ʿAutsāyīlu biḥaqqil-malikil-ḥākimi ʿalaikum Qahghāyīlu wa biḥaqqi Ahyā Syarāhiyā Adūnāya Ashbā'uta Āli Syaddāya wa biḥaqqi in kānat illā shaiḥatan wāḥidatan fa'idzā hum jamīʿun ladainā muḥdharūna, an taḥdhurus-sāʿata wa tanzilū ʿalā hādzāl-māridil-mutajabbiri wal-mu'dzī likhalqillāhi bith-thardi wal-ḥarqi wan-nakāli, khudzūhu wa bi'anwārikum aḥriqūhu biḥaqqi: Was-samā'i dzātil-burūji ... ilā ākhiris-sūrati ].
 
