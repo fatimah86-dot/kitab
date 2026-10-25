@@ -35,6 +35,6 @@ Struktur Wafaq ‘Adad Khāsh 2×4 (8 kotak): Dua baris × empat kolom, angka 60
 ### Khususiyah dan Tatacara Praktik
 Bentuk Rajah Angka Unik 2×4 jarang ditemukan — dirancang mengunci aura piring (shaḥn naqiyy). Kecepatan (sarī’atun-nafādz): kombinasi angka wafaq + 5 surat/ayat saat mahw 7× terbukti cepat menetralkan jin di syaraf dan melebur benteng penutup harta karun. Rajah angka tidak diterjemahkan — angka Arab ditulis apa adanya, arah penulisan dari kanan ke kiri.
 
-![Wafaq Hal 12 — 2×4 ‘Adad — 8 angka](rajah_anwar_FINAL_300DPI/IMG_20261025_101416.jpg)
-[Gambar: Wafaq 2×4 — 600,1209,18,27 / 6091,191,1200,618 — FINAL 300 DPI]
+![Wafaq Hal 12 — 2×4 ‘Adad — 8 angka](hal12_wafaq_corrected.png)
+[Gambar: Wafaq 2×4 — Koreksi kolom — 600,1209,18,27 / 6091,191,1200,618 — 300 DPI — sesuai teks]
 
