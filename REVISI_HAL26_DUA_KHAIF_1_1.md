@@ -44,3 +44,15 @@ Bacalah terlebih dahulu Ayat Kursi sebanyak tiga kali, kemudian berdoalah dengan
 
 Semoga Allah memberi taufik kepada kalian untuk segala kebaikan.
 
+### Syarah dan Penjelasan
+
+Konstruksi Benteng Tak Terlihat (Ihtijāb): Amalan ini berfungsi membentuk perisai aura tak kasat mata di sekeliling praktisi. Ketika berhadapan dengan musuh, orang jahat, atau penguasa yang hendak berbuat zalim, musuh tidak akan memiliki daya untuk mencelakai atau bahkan pandangan mereka dikunci oleh Allah.
+
+Kombinasi Ayat-Ayat Penjaga (Āyātul-Hifzh): Doa ini merajut lima pilar ayat perlindungan utama Al-Qur'an: (1) Ayat Kursi (3×) sebagai pondasi benteng tauhid; (2) QS. al-Baqarah: 137 (Fa-sayakfīkahumullāhu) — janji pengawalan langsung dari Allah; (3) QS. al-Hijr: 9 (Innā Nahnu Nazzalnādz-Dzikra) — memindahkan jaminan pemeliharaan Al-Qur'an ke keselamatan fisik dan jiwa pengamal; (4) QS. ar-Ra'd: 11 (Mu'aqqibāt) — mengaktifkan pengawalan Malaikat Mu'aqqibat di depan dan belakang tubuh; (5) QS. Yā-Sīn: 1–9 (Wa Ja'alnā min Baini Aidīhim) — mengunci mata musuh agar buta dari keberadaan pengamal.
+
+### Khususiyah dan Tatacara Praktik
+
+Kepraktisan Tanpa Sarat Berat: Tidak memerlukan tirakat puasa atau penulisan wafaq rumit; cukup dibaca saat merasa terancam atau hendak menemui orang zalim.
+
+Keamanan Mutlak Perjalanan dan Darurat: Sangat ampuh dibaca saat berada di daerah rawan kejahatan, ancaman tindak kekerasan, intimidasi penguasa, maupun gangguan makhluk halus.
+

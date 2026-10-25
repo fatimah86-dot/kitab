@@ -44,3 +44,15 @@ Dan di akhir bacaan hendaklah ia berdoa dengan doa ini sebanyak 7 kali:
 
 Adapun pada hari Jumat, berpuasalah tanpa bacaan kecuali setelah salat Jumat, lalu tulislah terlebih dahulu ayat-ayat dan doa tersebut pada kertas putih bersih dengan air mawar, za'faran dan misk; bacalah di atasnya ayat tersebut 7 kali dan doa setelah ayat 1 kali, lalu tinggalkanlah hingga malam di mana engkau meletakkannya di bawah bantalmu dan engkau tidur dengan niat tidak menyakiti makhluk Allah. Pada pagi harinya ambillah kertas tersebut, lipatlah dan jadikanlah di sisimu; maka tidak akan lewat Jumat kedua kecuali khadam tersebut telah hadir dengan izin Allah dan dengan keberkahan kalam Allah 'azza wa jalla. Maka janganlah engkau melampaui batas-batas Allah, wahai penuntut ilmu. Semoga Allah memberi manfaat kepadaku dan kepada kalian dengan Al-Qur'an yang agung, memberi petunjuk kepadaku dan kepada kalian kepada jalan-Nya yang lurus, dan salam sejahtera.
 
+### Syarah dan Penjelasan
+
+Konteks Masalah: Halaman ini memuat solusi spesifik dalam disiplin hikmah untuk mengatasi problem ketika seorang praktisi (as-sālik) mengalami pemutusan hubungan spiritual dengan khadam atau pendamping gaibnya akibat kesalahan prosedur, keteledoran, atau sanksi internal amalan.
+
+Pendekatan Ritual: Menggabungkan ibadah mahdhah berupa puasa sunnah dua hari (Kamis–Jumat), pembacaan ayat khusus dari kisah Nabi Yusuf — simbol kemuliaan, penundukan pandangan, dan pengembalian posisi terhormat — serta doa tawasul tauhid yang kuat untuk memohon pemulihan ikatan batin amalan.
+
+### Khususiyah dan Tatacara Praktik
+
+Fungsi Utama: Digunakan secara khusus sebagai metode darurat untuk memanggil kembali (raddul-khādim) kekuatan, energi, atau entitas pengawal amalan yang kabur atau terputus koneksinya.
+
+Peringatan Ketat: Diingatkan oleh penyusun kitab agar pengamal senantiasa bertakwa, menjaga batasan syariat, dan tidak menyalahgunakan amalan ini untuk kezaliman.
+

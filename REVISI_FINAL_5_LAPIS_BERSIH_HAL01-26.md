@@ -1084,6 +1084,18 @@ Dan di akhir bacaan hendaklah ia berdoa dengan doa ini sebanyak 7 kali:
 
 Adapun pada hari Jumat, berpuasalah tanpa bacaan kecuali setelah salat Jumat, lalu tulislah terlebih dahulu ayat-ayat dan doa tersebut pada kertas putih bersih dengan air mawar, za'faran dan misk; bacalah di atasnya ayat tersebut 7 kali dan doa setelah ayat 1 kali, lalu tinggalkanlah hingga malam di mana engkau meletakkannya di bawah bantalmu dan engkau tidur dengan niat tidak menyakiti makhluk Allah. Pada pagi harinya ambillah kertas tersebut, lipatlah dan jadikanlah di sisimu; maka tidak akan lewat Jumat kedua kecuali khadam tersebut telah hadir dengan izin Allah dan dengan keberkahan kalam Allah 'azza wa jalla. Maka janganlah engkau melampaui batas-batas Allah, wahai penuntut ilmu. Semoga Allah memberi manfaat kepadaku dan kepada kalian dengan Al-Qur'an yang agung, memberi petunjuk kepadaku dan kepada kalian kepada jalan-Nya yang lurus, dan salam sejahtera.
 
+### Syarah dan Penjelasan
+
+Konteks Masalah: Halaman ini memuat solusi spesifik dalam disiplin hikmah untuk mengatasi problem ketika seorang praktisi (as-sālik) mengalami pemutusan hubungan spiritual dengan khadam atau pendamping gaibnya akibat kesalahan prosedur, keteledoran, atau sanksi internal amalan.
+
+Pendekatan Ritual: Menggabungkan ibadah mahdhah berupa puasa sunnah dua hari (Kamis–Jumat), pembacaan ayat khusus dari kisah Nabi Yusuf — simbol kemuliaan, penundukan pandangan, dan pengembalian posisi terhormat — serta doa tawasul tauhid yang kuat untuk memohon pemulihan ikatan batin amalan.
+
+### Khususiyah dan Tatacara Praktik
+
+Fungsi Utama: Digunakan secara khusus sebagai metode darurat untuk memanggil kembali (raddul-khādim) kekuatan, energi, atau entitas pengawal amalan yang kabur atau terputus koneksinya.
+
+Peringatan Ketat: Diingatkan oleh penyusun kitab agar pengamal senantiasa bertakwa, menjaga batasan syariat, dan tidak menyalahgunakan amalan ini untuk kezaliman.
+
 
 
 ---
@@ -1133,4 +1145,16 @@ Bacalah terlebih dahulu Ayat Kursi sebanyak tiga kali, kemudian berdoalah dengan
 [Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang, ya Allah limpahkanlah shalawat kepada junjungan kami Nabi Muhammad dan kepada keluarganya semuanya serta berilah keselamatan dengan sebenar-benar keselamatan; ya Allah, wahai Zat yang hijab-Nya terjaga, Kursi-Nya terpancang dan Nabi-Nya — semoga Allah bershalawat kepadanya dan memberi keselamatan — adalah kekasih yang dicintai, halangilah antara aku dan orang yang hatiku merasa takut kepadanya, wahai Yang Maha Menang yang tidak terkalahkan, sesungguhnya Engkau telah berfirman dan firman-Mu adalah benar: {Maka Allah akan mencukupimu terhadap mereka dan Dialah Yang Maha Mendengar lagi Maha Mengetahui}; wahai Allah, wahai Yang Maha Memelihara, wahai Zat yang nikmat-nikmat-Nya tidak terhitung, wahai Zat yang mengingat-Nya tidak terlupakan, wahai Zat yang memiliki nama-nama yang paling baik dan sifat-sifat yang Maha Tinggi, jagalah aku sebagaimana Engkau menjaga Adz-Dzikir yang bijaksana; sesungguhnya Engkau telah berfirman dan firman-Mu benar: {Sesungguhnya Kamilah yang menurunkan Adz-Dzikir dan sesungguhnya Kamilah yang benar-benar memeliharanya}; dan demi hak {Baginya ada malaikat-malaikat pengiring dari depan dan belakangnya yang menjaganya atas perintah Allah} dan {Allah meliputi mereka dari belakang} serta demi hak Yasin hingga {maka mereka tidak dapat melihat}; dan limpahkanlah shalawat ya Allah kepada junjungan kami Nabi Muhammad dan kepada keluarganya semuanya].
 
 Semoga Allah memberi taufik kepada kalian untuk segala kebaikan.
+
+### Syarah dan Penjelasan
+
+Konstruksi Benteng Tak Terlihat (Ihtijāb): Amalan ini berfungsi membentuk perisai aura tak kasat mata di sekeliling praktisi. Ketika berhadapan dengan musuh, orang jahat, atau penguasa yang hendak berbuat zalim, musuh tidak akan memiliki daya untuk mencelakai atau bahkan pandangan mereka dikunci oleh Allah.
+
+Kombinasi Ayat-Ayat Penjaga (Āyātul-Hifzh): Doa ini merajut lima pilar ayat perlindungan utama Al-Qur'an: (1) Ayat Kursi (3×) sebagai pondasi benteng tauhid; (2) QS. al-Baqarah: 137 (Fa-sayakfīkahumullāhu) — janji pengawalan langsung dari Allah; (3) QS. al-Hijr: 9 (Innā Nahnu Nazzalnādz-Dzikra) — memindahkan jaminan pemeliharaan Al-Qur'an ke keselamatan fisik dan jiwa pengamal; (4) QS. ar-Ra'd: 11 (Mu'aqqibāt) — mengaktifkan pengawalan Malaikat Mu'aqqibat di depan dan belakang tubuh; (5) QS. Yā-Sīn: 1–9 (Wa Ja'alnā min Baini Aidīhim) — mengunci mata musuh agar buta dari keberadaan pengamal.
+
+### Khususiyah dan Tatacara Praktik
+
+Kepraktisan Tanpa Sarat Berat: Tidak memerlukan tirakat puasa atau penulisan wafaq rumit; cukup dibaca saat merasa terancam atau hendak menemui orang zalim.
+
+Keamanan Mutlak Perjalanan dan Darurat: Sangat ampuh dibaca saat berada di daerah rawan kejahatan, ancaman tindak kekerasan, intimidasi penguasa, maupun gangguan makhluk halus.
 
