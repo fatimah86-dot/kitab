@@ -35,7 +35,7 @@ _Khususiyah sesuai nash — lihat Syarah._
 ‏وَإِلَى جَمِيعِ الْفُقَرَاءِ
 
 ### latin
-Ihdā'ush-Syaikhil-Basyīr, uhdī hādzal-'amala ilā Sayyidī Rasūlillāhi ṣallallāhu 'alaihi wa sallam, wa ilā Āli baitihith-Ṭayyibīnal-Akhyār, wa lish-Syaikhil-Faqīril-Qādiriyy, wa lid-Duktūri Bīhūnī, wa ilā jamī'il-Fuqarā'.
+Ihdā'ush-Syaikhil-Basyīr, uhdī hādzal-'amala ilā Sayyidī Rasūlillāhi shallallāhu 'alaihi wa sallam, wa ilā Āli baitihith-Thayyibīnal-Akhyār, wa lish-Syaikhil-Faqīril-Qādiriyy, wa lid-Duktūri Bīhūnī, wa ilā jamī'il-Fuqarā'.
 
 ### Terjemahan
 Persembahan Syeikh Al-Basyir. Aku hadiahkan karya ini kepada junjunganku Rasulullah shallallahu 'alaihi wa sallam, kepada keluarga beliau yang baik dan terpilih, kepada Syeikh Al-Faqir Al-Qadiri, kepada Dr. Baihuni, dan kepada seluruh fuqara.
@@ -66,7 +66,7 @@ Halaman ihda' tidak ada ritual khusus — fungsinya niyyah & sanad. Adab: baca i
 ‏وَبِذَلِكَ تَكُونُ قَدْ وَصَلَتْهُ الْإِجَازَةُ الْعَامَّةُ
 
 ### latin
-Laqad ajastukulla maw-wa-shallat ilaihi fawā'idī wa riyādhātī ijāzatan 'āmma(tan) fīmā yurdhiLlāha wa Rasūlahu wa yaqūmu bihā ba'daṣ-Ṣalāti 'alal-Ḥabībil-Muṣṭafā wa qirā'atil-Fātiḥati wa ihdā'i thawābihā li rūḥil-Ḥabībi Muḥammadin ṣallallāhu 'alaihi wa sallam, wa ilā rūḥi syaikhī raḥimahullāh 'alaih, wa li Fātiḥatillī, wa ilash-Syaikhil-Faqīril-Qādiriyyi aṭālallāhu lanā fī 'umrih, wa bi dzālika takūnu qad washallathul-ijāzatul-'āmmah.
+Laqad ajastukulla maw-wa-shallat ilaihi fawā'idī wa riyādhātī ijāzatan 'āmma(tan) fīmā yurdhiLlāha wa Rasūlahu wa yaqūmu bihā ba'dash-Shalāti 'alal-Ḥabībil-Mushthafā wa qirā'atil-Fātiḥati wa ihdā'i thawābihā li rūḥil-Ḥabībi Muḥammadin shallallāhu 'alaihi wa sallam, wa ilā rūḥi syaikhī raḥimahullāh 'alaih, wa li Fātiḥatillī, wa ilash-Syaikhil-Faqīril-Qādiriyyi athālallāhu lanā fī 'umrih, wa bi dzālika takūnu qad washallathul-ijāzatul-'āmmah.
 
 ### Terjemahan
 Ijazah dari Syeikh Al-Basyir. Sungguh aku telah memberi ijazah umum kepada setiap orang yang sampai kepadanya faedah-faedah dan riyadhah-riyadhahku, untuk hal yang diridhai Allah dan Rasul-Nya. Caranya: membaca shalawat kepada Al-Habib Al-Musthafa, membaca Al-Fatihah dan menghadiahkan pahalanya kepada ruh Al-Habib Muhammad shallallahu 'alaihi wa sallam, kepada ruh guruku, dan kepada Syeikh Al-Faqir Al-Qadiri — semoga Allah panjangkan umurnya untuk kami. Dengan itu ijazah umum telah sampai kepadanya.
@@ -114,7 +114,7 @@ Sama seperti sampul — tidak ada ritual. Hanya penanda niat: membaca judul dala
 ‏13. فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ
 
 ### latin
-fawā'idu → fawā'idum-muhriqatun ṭāridatun lil-Jinni wal-Maradati bi'iznillāh).
+fawā'idu → fawā'idum-muhriqatun thāridatun lil-Jinni wal-Maradati bi'iznillāh).
 
 ### Terjemahan
 Daftar isi mujarrabat Syeikh Al-Basyir. 1. Cara Maysarah untuk menarik rezeki. 2. Faedah pembakar pengusir jin dan maradah dengan izin Allah. 3. Faedah pemutus untuk mengobati kerasukan. 4. Bentakan pemutus untuk mengambil janji dan sumpah atas khadam istinzal. 5. Faedah untuk mengusir 'Uthush perusak amalan ruhani. 6. Mutiara bercahaya untuk mengobati gejala-gejala ruhani. 7. Faedah untuk menghancurkan orang zalim. 8. Faedah mujarrab untuk menundukkan qarin. 9. Pedang pemotong untuk menolak Maimun yang khianat. 10. Faedah pemutus untuk mengembalikan khadam. 11. Doa orang yang takut. 12. Sepuluh ayat pembatal tiupan dan sihir. 13. Faedah untuk kasyaf melalui mimpi.
@@ -159,7 +159,7 @@ Fihris tidak ada amalan — hanya penunjuk. Adab: baca fihris untuk memilih haja
 ‏ن ر س س ن ل م
 
 ### latin
-Ṭarīqatul-Maysarati fī Jalbil-Arzāq, ikhwatī fillāh, aḍa'u baina aidīkum hādzihid-durratan-nāfi'ata fī jalbil-arzāqi wa rawājit-tijārah, wahya Ṭarīqatul-Maysarah, warta'aytu an aḍa'ahā lakum limā fīhā minal-khairi wal-barakah... bismi Murādin wa ummihi Maryam, mīm rā' alif dāl mīm rā' yā' mīm = 535 nalfiẓul-'adada ḥarfiyyā...
+Tharīqatul-Maysarati fī Jalbil-Arzāq, ikhwatī fillāh, adha'u baina aidīkum hādzihid-durratan-nāfi'ata fī jalbil-arzāqi wa rawājit-tijārah, wahya Tharīqatul-Maysarah, warta'aytu an adha'ahā lakum limā fīhā minal-khairi wal-barakah... bismi Murādin wa ummihi Maryam, mīm rā' alif dāl mīm rā' yā' mīm = 535 nalfizhul-'adada ḥarfiyyā...
 
 ### Terjemahan
 ‎Cara Maysarah untuk menarik rezeki. Wahai saudara-saudaraku karena Allah, aku letakkan di hadapan kalian mutiara yang bermanfaat ini untuk menarik rezeki dan melariskan perdagangan, yaitu Cara Maysarah. Aku pandang baik untuk meletakkannya bagi kalian karena di dalamnya ada kebaikan dan keberkahan, dan juga karena mengandung kaidah-kaidah huruf yang membantu kalian dalam apa yang sedang kita bahas dengan izin Allah. Aku berikan contoh dengan nama Murad dan ibunya Maryam: م ر ا د م ر ي م = 535, kita ucapkan bilangan itu secara huruf: خَمْسُ مِائَةٍ وَثَلَاثُونَ وَخَمْسُ مِائَةٍ, kemudian kita hilangkan huruf yang berulang sehingga menjadi خ م س و ث ل ن ا هـ = 9 huruf. Begitu juga kita lakukan pada nama penanya, kita hilangkan yang berulang dan huruf mad, sehingga م ر ا د م ر ي م menjadi م ر د ي = 4 huruf. Kemudian kita kurangkan yang lebih sedikit dari yang lebih banyak: 9 - 4 = 5, maka pekerjaannya tetap pada wafaq 5×5 yang jumlah petaknya 25. Kemudian kita bandingkan huruf-huruf lafaz bilangan dengan huruf-huruf penanya dan kita hilangkan yang berulang di antara keduanya: خ م س و ث ل ن ا هـ + م ر د ي menjadi 12 huruf, kita kurangkan dari jumlah petak wafaq 5×5: 25 - 12 = 13. Ini adalah pokok huruf yang telah disesuaikan. Maka kita ambil dari huruf-huruf itu yang jumlahnya kurang dari 13 untuk diletakkan pada wafaq amal, dan yang lebih dari 13 untuk ruhaninya. Huruf-huruf yang dikeluarkan adalah: kurang dari 13: و ا هـ د ي ; lebih dari 13: خ م س و ث ل ن ر. Wajib atas kita menyesuaikan dua huruf zhulmani dari pihak ruhani [خ ث] tetapi penyesuaian dengan mizan yang kekal tanpa nisbah perbedaan, maka kita ganti huruf [خ] dengan huruf [س] dan [ث] dengan huruf [ن] sehingga huruf-hurufnya menjadi [س م س ن ل ن ر] kemudian kita pecah tiga kali seperti ini: س م س ن ل ن ر / ر س ن م ل س ن / ن ر س س ن ل م.
@@ -246,7 +246,7 @@ Samsail vs Nasmahil: Samsail adalah Ruhani Khadim (pelaksana), Nasmahil adalah R
 ‏أَسْأَلُ اللهَ عَزَّ وَجَلَّ أَنْ يَنْفَعَكُمْ بِهَذِهِ الذَّخِيرَةِ الْمُبَارَكَةِ إِنَّهُ وَلِيُّ ذَلِكَ وَالْقَادِرُ عَلَيْهِ وَالسَّلَامُ
 
 ### latin
-Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā fīhir-rūḥāniyy, ... wa 'adadul-'azīmati mi'atun wa sittun wa tis'ūna marratam-ma'at-tawajjuhi ilallāhi 'azza wa jalla bi ṭalabik, as'alullāha 'azza wa jalla an yanfa'akum bihādzihidz-dzakhīratil-mubārakati innahu Waliyyu dzālika wal-Qādiru 'alaihi was-salām.
+Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā fīhir-rūḥāniyy, ... wa 'adadul-'azīmati mi'atun wa sittun wa tis'ūna marratam-ma'at-tawajjuhi ilallāhi 'azza wa jalla bi thalabik, as'alullāha 'azza wa jalla an yanfa'akum bihādzihidz-dzakhīratil-mubārakati innahu Waliyyu dzālika wal-Qādiru 'alaihi was-salām.
 
 ### Terjemahan
 Dan inilah wafaq amal dan wafaq 4×4 yang kita turunkan di dalamnya ruhani tersebut. Cara Maysarah untuk menarik rezeki. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. Jumlah bacaan wirid 196 kali beserta menghadap kepada Allah Azza wa Jalla dengan permohonanmu. Aku memohon kepada Allah Azza wa Jalla agar memberi manfaat kepada kalian dengan simpanan yang diberkahi ini, sesungguhnya Dia-lah penolongnya dan Yang Maha Kuasa atasnya. Wassalam.
@@ -279,7 +279,7 @@ Wafaq Mukhammas 5×5 (kanan di scan): Matriks 5×5 = 25 petak berisi 5 huruf ama
 ‏وَالبَخُورُ الَّذِي يُوضَعُ مَعَ كُلِّ وَرَقَةٍ هُوَ [٧ وَرَقَاتِ سِدْرٍ، ٧ حَبَّاتِ قَرَنْفُلٍ، قَلِيلٌ مِنَ الْمُصْطَكَى] وَهَذَا مِثَالٌ لِلْقِيَاسِ، فَرَدَدْنَا اسْمَ الْمَرِيضِ وَأُمِّهِ هُوَ حَسَنُ رُقَيَّةَ،
 
 ### latin
-Fā'idatum-muhriqatun ṭāridatun lil-jinni wal-maradati bi'iznillāhi, as-salāmu 'alaikum wa rahmatullāhi wa barakātuh, ikhwatī fillāh adha'u lakum hādzihil-fā'idata al-khāshshata bi'ihrāqil-jinni wa thardihi min jasadil-insāni bi'iznillāh... na'khudzu isma asy-syakhshi wa ummihi ... [alif hā' thā' mīm kāf sīn qāf] ...
+Fā'idatum-muhriqatun thāridatun lil-jinni wal-maradati bi'iznillāhi, as-salāmu 'alaikum wa rahmatullāhi wa barakātuh, ikhwatī fillāh adha'u lakum hādzihil-fā'idata al-khāshshata bi'ihrāqil-jinni wa thardihi min jasadil-insāni bi'iznillāh... na'khudzu isma asy-syakhshi wa ummihi ... [alif hā' thā' mīm kāf sīn qāf] ...
 
 ### Terjemahan
 ‎Faedah pembakar pengusir jin dan maradah dengan izin Allah. Assalamu'alaikum warahmatullahi wabarakatuh. Wahai saudara-saudaraku karena Allah, aku letakkan bagi kalian faedah khusus ini untuk membakar jin dan mengusirnya dari jasad manusia dengan izin Allah, yaitu sebagai berikut: Kita ambil nama orang tersebut dan nama ibunya dan kita hilangkan huruf-huruf yang berulang jika ada dalam nama, jika tidak ada pengulangan maka nama tetap sebagaimana adanya tanpa penghapusan. Kemudian kita campurkan dengan huruf-huruf berunsur api dan udara yang bercahaya [ا هـ ط م ك س ق] di mana huruf pertama dan huruf terakhirnya tetap demikian. Kemudian kita pecahkan baris yang telah dicampur sampai ke tempat keluar dengan membiarkannya, yaitu kita ambil baris-baris sebelumnya saja dan kita lihat jumlah baris pemecahan apakah genap atau ganjil. Jika genap kita ambil ruhaninya dari baris kedua, jika ganjil kita ambil dari baris ketiga. Demikian pula huruf-hurufnya: jika pemecahan genap maka huruf-huruf ruhaninya genap, jika ganjil maka huruf-hurufnya ganjil. Pengambilan dari baris dengan meninggalkan dua huruf dari awal baris dan dua huruf dari akhirnya hingga tersisa huruf-huruf ruhani di tengah, ini jika pemecahan genap; adapun jika ganjil kita tinggalkan satu huruf dari awal dan satu huruf dari akhir hingga tersisa huruf-huruf ruhani di tengah. Kemudian kita kumpulkan jumlah huruf-huruf ruhani dan kita ucapkan dan kita akhiri dengan -ail dan kita gambar tabel sesuai jumlah huruf pemecahan dan kita tulis pada sudut-sudutnya nama ruhani yang telah dikeluarkan dan kita kelilingi semuanya dengan sumpah yang akan disebutkan. Kita buat tiga lembar dari amalan tersebut dan kita tulis juga pada piring yang bersih dan dihapus dengan air yang suci. Orang sakit diberi pengasapan tiga malam berturut-turut, tiap malam satu lembar dan ia mengolesi seluruh tubuhnya tiap malam setelah pengasapan dan tidur di tempat tidurnya secara terpisah. Dupa yang diletakkan bersama tiap lembar adalah [7 lembar daun bidara, 7 butir cengkeh, sedikit mustaka] dan ini contoh untuk diqiyaskan. Maka contoh nama orang sakit dan ibunya adalah Hasan dan Ruqayyah.
@@ -411,7 +411,7 @@ Halaman ini adalah **muqaddimah Zajr Qāthi‘ (Bagian 1/3)** — etika istinzā
 ### Khususiyah dan Tatacara Praktik
 Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). Tata cara yang diajarkan: (1) Rahasiakan niat dari nāzhir (uji buta), (2) Setelah istinzāl dan laporan “khādim hadir”, pegang dahi nāzhir dan baca At-Taubah: 46 sebanyak 7× — niat mengunci (tatsqīf), (3) Syahadatain + shalawat (memurnikan saluran), (4) Hadirkan mushaf, buka al-Mujādalah, verifikasi bacaan nāzhir, (5) Letakkan tangan kanan khādim di atas mushaf dan minta sumpah jujur — jika menolak, lanjutkan ke Hal14 (Az-Zajr al-Qāthi‘). Pantangan: jangan lakukan untuk main-main, jaga adab, jangan tanya hal merendahkan. Waktu tidak terikat, namun dianjurkan suci (wudhu) dan menghadap kiblat. Kegagalan biasanya karena thālib ghairu mutamarris — perbanyak riyādhah sebelum mengulang.
 
-## HALAMAN 14 — ZAJR QATHI' 2/3 — مَتْنُ الزَّجْرِ الْقَاطِعِ لِخَادِمِ الِاسْتِنْزَالِ
+## HALAMAN 14 — مَتْنُ الزَّجْرِ الْقَاطِعِ لِخَادِمِ الِاسْتِنْزَالِ (٢)
 
 ### arab
 ‏[ بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ، الْمَلِكِ الْحَقِّ الْمُبِينِ، الَّذِي قَالَ فِي مُحْكَمِ كِتَابِهِ الْكَرِيمِ:

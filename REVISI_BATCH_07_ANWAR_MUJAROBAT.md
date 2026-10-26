@@ -232,7 +232,7 @@ Wahai saudara-saudaraku — kuhadapkan **cara menggali khadam suflī dari sebuah
 
 **[Transliterasi]**
 
-*Asrāru al-Rijāl … adha‘u ṭarīqatan harfiyyatan li-thardi al-jinni … sirran akhfathu al-masyāyikh wa huwa kaifiyyatu isti‘māli Āyah Qur’āniyyah fī al-awfāq, wa nadha‘u masalan li-āyah [Fakhruj minhā fa-innaka rajīm] nahsubuhā … wa hiya qā‘idah … wa man ta’ammala fī al-kalimah al-ūlā [Fakhruj] == [Ukhruj] … Subhāna mukawwin al-akwān … — A-Kh-R-J =804 [D Dhād] — M-N-H =96 [W Shād] — F-A-N-K=151 [A N Q] — R-J-Y-M=253 [J N R] — Majmū‘=1304 [D Sh Gh] — Hurūfu al-dzukūr bidūni takrār [Sh A N Q J Sh Gh] — Hurūfu al-ināts bidūni takrār [D W R Dhād] — Hurūfu al-dzukūr zādat ‘an 5 … fa-wajaba ta‘dīl 3 al-akhīrah … [J+Sh+Gh=1303=7=Zāy] … fa-takūnu hurūfu al-afrād [Sh A N Q Z] wa al-azwāj [D W R Dhād] … nadha‘u al-afrād fī buyūti [Ujhzaṭ] wa al-azwāj fī [Budūh] bi-tartīb min al-ashghar ilā al-akbar.*
+*Asrāru al-Rijāl … adha‘u tharīqatan harfiyyatan li-thardi al-jinni … sirran akhfathu al-masyāyikh wa huwa kaifiyyatu isti‘māli Āyah Qur’āniyyah fī al-awfāq, wa nadha‘u masalan li-āyah [Fakhruj minhā fa-innaka rajīm] nahsubuhā … wa hiya qā‘idah … wa man ta’ammala fī al-kalimah al-ūlā [Fakhruj] == [Ukhruj] … Subhāna mukawwin al-akwān … — A-Kh-R-J =804 [D Dhād] — M-N-H =96 [W Shād] — F-A-N-K=151 [A N Q] — R-J-Y-M=253 [J N R] — Majmū‘=1304 [D Sh Gh] — Hurūfu al-dzukūr bidūni takrār [Sh A N Q J Sh Gh] — Hurūfu al-ināts bidūni takrār [D W R Dhād] — Hurūfu al-dzukūr zādat ‘an 5 … fa-wajaba ta‘dīl 3 al-akhīrah … [J+Sh+Gh=1303=7=Zāy] … fa-takūnu hurūfu al-afrād [Sh A N Q Z] wa al-azwāj [D W R Dhād] … nadha‘u al-afrād fī buyūti [Ujhzath] wa al-azwāj fī [Budūh] bi-tartīb min al-ashghar ilā al-akbar.*
 
 **[Terjemahan Indonesia]**
 
@@ -284,7 +284,7 @@ Gambar **Wafaq huruf 3×3** Syaikh Basyir — susunan sesuai kaidah hal 56:
 ض  ا  ر
 ```
 
-Huruf Afrād **[ص ا ن ق ز]** + Azwāj **[د و ر ض]** + tambahan **ر و** dari hisab — ditata dalam buyt *Ujhzaṭ/Budūh* — scan `full_p57.png`.
+Huruf Afrād **[ص ا ن ق ز]** + Azwāj **[د و ر ض]** + tambahan **ر و** dari hisab — ditata dalam buyt *Ujhzath/Budūh* — scan `full_p57.png`.
 ## HALAMAN 58 — Asrār al-Rijāl (Bagian 3/4) — Wafaq ‘Adadī 4×4
 
 **[Teks Arab Asli — Tabel angka hlm 58]**
