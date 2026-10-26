@@ -234,7 +234,6 @@ _Khususiyah._
 
 طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
 الشَّيْخُ الْبَشِيرُ
-http://www.alanwaralqadria.com
 مُنْتَدَى الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
 
 وَعَدَدُ الْعَزِيمَةِ 196 مَرَّةً مَعَ التَّوَجُّهِ إِلَى اللهِ عَزَّ وَجَلَّ بِطَلَبِكَ،
@@ -245,19 +244,13 @@ http://www.alanwaralqadria.com
 Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā fīhir-rūḥāniyy, ... wa 'adadul-'azīmati mi'atun wa sittun wa tis'ūna marratam-ma'at-tawajjuhi ilallāhi 'azza wa jalla bi ṭalabik, as'alullāha 'azza wa jalla an yanfa'akum bihādzihidz-dzakhīratil-mubārakati innahu Waliyyu dzālika wal-Qādiru 'alaihi was-salām.
 
 ### Terjemahan
-Dan inilah wafaq amal dan wafaq 4×4 yang kita turunkan di dalamnya ruhani tersebut. Cara Maysarah untuk menarik rezeki. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. http://www.alanwaralqadria.com. Jumlah bacaan wirid 196 kali beserta menghadap kepada Allah Azza wa Jalla dengan permohonanmu. Aku memohon kepada Allah Azza wa Jalla agar memberi manfaat kepada kalian dengan simpanan yang diberkahi ini, sesungguhnya Dia-lah penolongnya dan Yang Maha Kuasa atasnya. Wassalam.
+Dan inilah wafaq amal dan wafaq 4×4 yang kita turunkan di dalamnya ruhani tersebut. Cara Maysarah untuk menarik rezeki. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. Jumlah bacaan wirid 196 kali beserta menghadap kepada Allah Azza wa Jalla dengan permohonanmu. Aku memohon kepada Allah Azza wa Jalla agar memberi manfaat kepada kalian dengan simpanan yang diberkahi ini, sesungguhnya Dia-lah penolongnya dan Yang Maha Kuasa atasnya. Wassalam.
 
 ### Syarah dan Penjelasan
 _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
-![Halaman 08 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
-[Gambar: Halaman 08]
-
-![Halaman 08 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
-[Gambar: Halaman 08]
 
 ## HALAMAN 09 — FAEDAH MUHRIQAH 1/2
 
@@ -307,9 +300,6 @@ _Syarah._
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
 
-![Halaman 10 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg)
-[Gambar: Halaman 10]
-
 ## HALAMAN 11 — FAEDAH QATHI'AH 1/2
 
 ### arab
@@ -351,24 +341,19 @@ _Khususiyah._
 
 الشَّيْخُ الْبَشِيرُ
 مُنْتَدَى الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
-http://www.alanwaralqadria.com
-
 كِتَابَةُ الْآيَاتِ وَالسُّوَرِ تَبْدَأُ مِنْ فَوْقِ الْوَفْقِ مِنْ جِهَةِ الْيَمِينِ اتِّجَاهًا إِلَى الْيَسَارِ، وَفَّقَكُمُ اللهُ لِمَا يُحِبُّهُ وَيَرْضَاهُ
 
 ### latin
 Wafqun li'ilājil-massi, kitābatul-āyāti was-suwari tabda'u min fawqil-wafqi min jihatil-yamīni ittijāhan ilal-yasāri, waffaqakumullāhu limā yuhibbuhu wa yardhāh.
 
 ### Terjemahan
-Faedah pemutus untuk mengobati kerasukan. Wafaq untuk mengobati kerasukan. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. http://www.alanwaralqadria.com. Penulisan ayat-ayat dan surah-surah dimulai dari atas wafaq dari arah kanan menuju ke kiri. Semoga Allah memberi taufik kepada kalian pada apa yang Dia cintai dan ridhai.
+Faedah pemutus untuk mengobati kerasukan. Wafaq untuk mengobati kerasukan. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. Penulisan ayat-ayat dan surah-surah dimulai dari atas wafaq dari arah kanan menuju ke kiri. Semoga Allah memberi taufik kepada kalian pada apa yang Dia cintai dan ridhai.
 
 ### Syarah dan Penjelasan
 _Syarah._
 
 ### Khususiyah dan Tatacara Praktik
 _Khususiyah._
-
-![Halaman 12 — Scan 300 DPI](rajah_anwar_FINAL_300DPI/IMG_20261025_073117.jpg)
-[Gambar: Halaman 12]
 
 ## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ
 
@@ -416,12 +401,6 @@ Halaman ini adalah **muqaddimah Zajr Qāthi‘ (Bagian 1/3)** — etika istinzā
 
 ### Khususiyah dan Tatacara Praktik
 Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). Tata cara yang diajarkan: (1) Rahasiakan niat dari nāzhir (uji buta), (2) Setelah istinzāl dan laporan “khādim hadir”, pegang dahi nāzhir dan baca At-Taubah: 46 sebanyak 7× — niat mengunci (tatsqīf), (3) Syahadatain + shalawat (memurnikan saluran), (4) Hadirkan mushaf, buka al-Mujādalah, verifikasi bacaan nāzhir, (5) Letakkan tangan kanan khādim di atas mushaf dan minta sumpah jujur — jika menolak, lanjutkan ke Hal14 (Az-Zajr al-Qāthi‘). Pantangan: jangan lakukan untuk main-main, jaga adab, jangan tanya hal merendahkan. Waktu tidak terikat, namun dianjurkan suci (wudhu) dan menghadap kiblat. Kegagalan biasanya karena thālib ghairu mutamarris — perbanyak riyādhah sebelum mengulang.
-
-![Halaman 13 — Scan 300 DPI](hal_13.png)
-[Gambar: Halaman 13 — Zajr Qathi' 1/3 — 7× At-Taubah 46 + sumpah Mujādalah]
-
-![Halaman 13 — Scan 300 DPI](hal_13.png)
-[Gambar: Halaman 13]
 
 ## HALAMAN 14 — ZAJR QATHI' 2/3 — الزَّجْرُ الْقَاطِعُ (LANJUTAN)
 
@@ -510,12 +489,6 @@ Halaman ini adalah **matan Az-Zajr al-Qāthi‘ (Bagian 2/3 — inti ancaman)**.
 ### Khususiyah dan Tatacara Praktik
 Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan setelah penolakan khādim untuk bersumpah. Cara baca: menghadap kiblat, dalam keadaan suci, suara tegas (jahr) tetapi tidak berteriak memekik — “*zajara zajran*” (gertakan mantap). Empat ayat dibaca berurutan dengan tartīl, lalu seruan *inzilū...* hingga *ḥattā tuthī‘ū amrī* — satu nafas jika mampu, atau pecah dua. Jangan menambah/mengurangi ayat — keempatnya adalah *rukun Zajr*. Setelah selesai, jangan lanjutkan istinzāl hari itu — *ishrāf* (pulangkan) khādim dengan salam. Keesokan harinya, istinzāl dapat dipakai untuk hajat halal — khādim kini *mu‘āhad* (terikat janji) dan akan *shādiqan bi’idznillāhi*. Larangan: jangan gunakan untuk menanyakan aib orang, judi, atau sihir pemisah — sumpah akan batal dan khādim kembali suflī. Kelebihan khusus: metode ini adalah *filter permanen* — sekali diikat, semua istinzāl berikutnya tersaring otomatis dari dusta, berbeda dengan ruqyah biasa yang bersifat temporer.
 
-![Halaman 14 — Scan 300 DPI](hal_14.png)
-[Gambar: Halaman 14 — Zajr Qathi' 2/3 — 4 ayat azab + ishrāf]
-
-![Halaman 14 — Scan 300 DPI](hal_14.png)
-[Gambar: Halaman 14]
-
 ## HALAMAN 15 — FAIDAH THARD 'ATHLUSYIN 1/2 — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ
 
 ### arab
@@ -559,12 +532,6 @@ Halaman ini adalah **bagian 1/2 faedah ‘Athlūsy**. Pokok masalahnya adalah *i
 ### Khususiyah dan Tatacara Praktik
 Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, wafaq, hizib) selalu gagal/terbalik. Syarat sah: (1) Lakukan *ishrāf al-‘ummār* terlebih dahulu (bacaan ishrāf umum, tidak dirinci di sini — pakai ishrāf Qādiriyyah standar), (2) Tinta harus *shamgh* asli — jelaga bulu domba yang dibakar lalu dicampur minyak/air mawar hingga jadi pasta hitam, bukan spidol/tinta kimia, (3) Tulisan di telapak kanan (bukan kiri), (4) Pembukhuran *quzburah* kering — tabur di atas bara, asapi tangan 1-2 menit, (5) ‘Azīmah 21× dengan tangan terangkat menghadap kiblat, (6) Tidur dengan tangan di bawah kepala — posisi *taḥannuth* (seperti tidur Rasul), bukan di atas bantal, (7) Pagi harinya hapus dengan air suci (air hujan/sumur yang tidak terkena matahari lebih utama — lihat Hal11), masukkan ke botol kaca bening (bukan plastik), (8) Ulangi 7 hari — jangan terputus; jika terputus karena haid/safar, ulang dari hari 1, (9) Hari ke-7 setelah penggalian lubang, baca Ayat Kursi 1× (sampai *khālidūn* — QS Al-Baqarah:255 mencakup *hum fīhā khālidūn* dalam riwayat, maksudnya baca sampai akhir ayat) dan al-Mulk 3× (surah pelindung kubur), (10) Pantangan mutlak: *lā taltafit abadan* — jangan menoleh ke belakang setelah mengubur; menoleh membatalkan *hijab* (penutup) dan ‘Athlūsy kembali. Waktu: tidak terikat hari Rabu/Sabtu (berbeda dengan faedah mass), tetapi dianjurkan malam hari setelah Isya agar frekuensi ‘Athlūsy aktif.
 
-![Halaman 15 — Scan 300 DPI](hal_15.png)
-[Gambar: Halaman 15 — Faedah ‘Athlūsy 1/2 — 21× azimah — 7 hari botol]
-
-![Halaman 15 — Scan 300 DPI](hal_15.png)
-[Gambar: Halaman 15]
-
 ## HALAMAN 16 — FAIDAH THARD 'ATHLUSYIN 2/2 — WAFAQ 3×3
 
 ### arab
@@ -575,11 +542,7 @@ Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, w
 | ٥ | عَطْلُوشٌ | ١١١٠ |
 | ١١٠٩ | ٤ | ٢ |
 
-*تنبيه: الجدول يُقرأ يمينًا إلى يسارٍ كالعربية — الخلية اليُمنى هي (٣) واليُسرى هي (١) في السطر الأول، وهكذا.*
-
 ثُمَّ بَعْدَ الدَّفْنِ تَقْرَأُ كَمَا تَقَدَّمَ آيَةَ الْكُرْسِيِّ إِلَى ﴿ خَالِدُونَ ﴾ وَسُورَةَ الْمُلْكِ، وَلَا تَلْتَفِتْ.
-
-*الوَفْقُ يُكْتَبُ بِالْأَرْقَامِ الْعَرَبِيَّةِ وَاسْمِ [عَطْلُوشٌ] فِي الْوَسَطِ — لَا يُلَاتَنُ.*
 
 ### latin
 Wal-wafqu huwa hākadzā — yuktabu bishamghin fīl-yadil-yumnā:
@@ -591,11 +554,7 @@ Wal-wafqu huwa hākadzā — yuktabu bishamghin fīl-yadil-yumnā:
 
 [Rajah Asror — tidak dilatin-kan — angka dan huruf di dalam wafaq tidak diterjemahkan]
 
-*Tanbīh: al-jadwal yuqra’u yamīnan ilā yasārin kal-‘arabiyyah — al-khaliyyatul-yumnā hiya (1) wal-yusrā hiya (3) fis-sathril-awwal, wa hākadzā.*
-
 Tsumma ba‘dad-dafni taqra’u kamā taqaddama āyatal-kursiyyi ilā ... khālidūna wa sūratal-Mulki, wa lā taltafit.
-
-*Al-wafqu yuktabu bil-arqāmil-‘arabiyyati wasmi [‘Athlūsyin] fīl-wasathi — lā yulātinu.*
 
 ### Terjemahan
 Dan wafaqnya adalah seperti ini — ditulis dengan *shamgh* pada tangan kanan:
@@ -605,25 +564,13 @@ Dan wafaqnya adalah seperti ini — ditulis dengan *shamgh* pada tangan kanan:
 | ٥ | عَطْلُوشٌ | ١١١٠ |
 | ١١٠٩ | ٤ | ٢ |
 
-*Catatan: tabel dibaca dari kanan ke kiri seperti Arab — sel kanan baris pertama adalah (3) dan sel kiri adalah (1), demikian seterusnya.*
-
 Kemudian setelah penguburan, bacalah sebagaimana telah dijelaskan Ayat Kursi sampai *khālidūn* dan Surah al-Mulk, dan jangan menoleh.
-
-*Wafaq ditulis dengan angka Arab dan nama [‘Athlūsyin] di tengah — tidak dilatinkan (rajah).*
-
-Perbandingan koreksi: draft sebelumnya menulis baris pertama `8 | 1110 | 1109` dan mengacak posisi — itu **terbalik**. Yang benar menurut scan `IMG_20261025_092532.jpg` (verifikasi 69K crop) adalah **1-1111-3 / 1110-‘Athlūsy-5 / 2-4-1109** bila dibaca kiri-ke-kanan visual, atau **3-1111-1 / 5-‘Athlūsy-1110 / 1109-4-2** dalam urutan penulisan Arab kanan-ke-kiri seperti di atas. Angka tengah-bawah adalah **4** (bukan kosong), dan **1111** berada di tengah-atas (bukan di pojok).
 
 ### Syarah dan Penjelasan
 Halaman ini adalah **bagian 2/2 faedah ‘Athlūsy — inti wafaq**. Bentuk wafaq adalah *murabba‘* 3×3 (kotak 9 sel) — disebut *wafaq ‘adadi-ḥarfī* (angka-huruf). Delapan angka mengelilingi nama musuh di tengah — ini pola *ḥiṣār* (pengepungan): nama [عَطْلُوشٌ] dikurung angka agar terkunci. Angka-angka bukan acak: 1-2-3-4-5-...-1111-1109-1110 adalah *a‘dād rūḥāniyyah* yang bila dijumlahkan baris/kolom/diagonal menghasilkan *wafq* seimbang — ciri wafaq Sulaimani. Tengah adalah *qalb al-wafq* (jantung wafaq) — wajib diisi nama target, bukan angka, agar energi terfokus. Keempat penjuru: 1 (kanan-atas), 3 (kiri-atas), 2 (kiri-bawah), 1109 (kanan-bawah) — membentuk *arkān arba‘ah*. Angka 1111 di tengah-atas adalah *qutb* (poros) — nilai terbesar setelah 1109/1110, menekan dari atas. 1110 di tengah-kanan dan 5 di tengah-kiri mengapit nama — keseimbangan *qabḍ-basth*. 4 di tengah-bawah adalah penutup. Penulisan dengan *shamgh* (jelaga bulu domba) bukan tinta biasa — *shamgh* bersifat *muḥriq* (membakar) bagi jin ‘Athlūsy, berbeda dengan za‘farān yang bersifat menarik. Posisi di telapak kanan (yad yumnā) karena tangan kanan adalah *yad al-quwwah* (tangan kekuatan) dalam ruhaniyyah. Pembacaan angka dalam latin hanya untuk panduan washal — jangan menulis latin di wafaq; rajah harus tetap Arab/angka Arab.
 
 ### Khususiyah dan Tatacara Praktik
 Khasiat: mengunci ‘Athlūsy agar tidak merusak amal apapun — setelah 7 hari + penguburan, amal ruhaniyyah lain (hizib, wifq, shalawat) menjadi *mustajāb* tanpa inqilāb. Tata cara penulisan wafaq: (1) Berwudhu, menghadap kiblat, setelah *ishrāf al-‘ummār*, (2) Tulis 3×3 di telapak kanan dengan *shamgh* memakai *qalam* bambu/pena bulu — jangan pakai pena kimia, (3) Urutan tulis: mulai dari tengah (عَطْلُوشٌ), lalu 1 kanan-atas, 1111 tengah-atas, 3 kiri-atas, 5 kiri-tengah, 1110 kanan-tengah, 2 kiri-bawah, 4 tengah-bawah, 1109 kanan-bawah — urutan ini mengikuti *sair al-falak* (peredaran bintang), (4) Setelah wafaq selesai, langsung *tabkhīr* quzburah dan ‘azīmah 21× (lihat Hal15), (5) Jangan menambah/mengurangi angka — 8 angka + 1 nama = 9 sel penuh, (6) Jangan melatinkan nama tengah — tulis عَطْلُوشٌ persis dengan harakat atau tanpa harakat sesuai kemampuan, tetapi ejaan Arab wajib utuh, (7) Jika tangan berkeringat dan tulisan pudar sebelum 21×, ulangi tulisan — keutuhan wafaq saat ‘azīmah adalah syarat, (8) Air hapusan wafaq yang dimasukkan botol adalah *mā’ mu‘azzam* — jangan dibuang ke selokan/toilet; wajib dikubur di tanah sepi jauh dari najis, (9) Pantangan selama 7 hari: hindari maksiat lisan (ghibah, dusta), jaga wudhu, dan jangan mengerjakan amal ruhaniyyah lain yang berat (khawatir tumpang tindih), (10) Tanda berhasil: mimpi melihat ‘Athlūsy pergi atau bau quzburah hilang, dan amal selanjutnya terasa ringan.
-
-![Halaman 16 — Wafaq ‘Athlūsy 3×3 — Scan 300 DPI](hal_16_wafaq_athlush.jpg)
-[Gambar: Halaman 16 — Wafaq ‘Athlūsy — 3×3 — 8 angka + عَطْلُوشٌ di tengah — RTL]
-
-![Halaman 16 — Scan 300 DPI](hal_16_wafaq_athlush.jpg)
-[Gambar: Halaman 16]
 
 ## HALAMAN 17 — AD-DURRAH AN-NŪRĀNIYYAH 1/2 — الدُّرَّةُ النُّورَانِيَّةُ
 
@@ -661,16 +608,9 @@ Dan sebagai pengingat: **Surah al-Ikhlāsh diulang penulisannya sebanyak 11 kali
 Aku memohon kepada Allah Yang Maha Agung semoga Dia memberiku manfaat — dan kalian — dengan al-Qur’ān al-Karīm, serta memberi petunjuk kepadaku dan kepada kalian menuju jalan kebenaran yang nyata. Sesungguhnya Dialah penolongnya dan Yang Maha Kuasa atasnya.”
 
 ### Syarah dan Penjelasan
-Halaman ini adalah **bagian 1/2 Durrah Nūrāniyyah — faedah ‘ilāj a‘rāḍ ruhaniyyah dengan murabba‘ al-Jalālah**. Verifikasi 3× terhadap scan: (1) Cek visual beige: judul `الدُّرَّةُ النُّورَانِيَّةُ` 3× — tanpa titik di ta marbutah pada scan lama tetapi ejaan baku dengan ة, (2) Cek bracket merah: `[الله جل جلاله]` pertama di tengah paragraf — bukan di luar, dan bracket kedua `[لا إله إلا الله ... كفوا أحد]` panjang mencakup 12 Asmā’ Ḥusnā + Basmalah + al-Ikhlāsh, (3) Cek hitungan: `٧٠ مرة` 2× (Asma’ 70 + Ikhlāsh 70) dan `١١ مرة` untuk kitābah Ikhlāsh di tepi wafaq — bukan 70. Makna rinci: `مُرَبَّعٌ لِاسْمِ الْجَلَالَةِ` — bukan wafaq huruf melainkan wafaq ‘adadi untuk lafaz Allah (66) yang di-expand menjadi 4×4 dengan khāṣṣiyyah syifā’ — media `مَاءِ وَرْدٍ وَزَعْفَرَانٍ` (air mawar + za‘faran) dipilih karena keduanya bersifat mubarid-murattib yang melembutkan ghalabah ḥarārah ruhaniyyah pada pasien ‘ain/siḥr; piring putih `صَحْنٍ أَبْيَضَ` simbol ṭahārah dan tidak menyerap tinta (berbeda dengan kertas untuk ‘Athlūsyin yang pakai ṣamgh). Prosedur 3-lapis: (1) Kitābah — murabba‘ 4×4 ditulis + 12 asmā’ + Basmalah + Ikhlāsh mengelilingi — Ikhlāsh ditulis 11× (tawkīd) di tepi, (2) Maḥw — hapus dengan `مَاءٍ طَاهِرٍ` (air suci dari hujan/sumur, tidak tercampur najasah), (3) Qirā’ah ‘alal-mā’ — baca Asma’ 70× + Ikhlāsh 70× — angka 70 = 7×10 — 7 hari, 10 kesempurnaan — menyatukan shifā’ jasadi wa ruhaniyyah, (4) Syurb — minum ‘alar-rīq (perut kosong) pagi + sebelum tidur 7 hari — waktu mustajāb untuk penyerapan ruhaniyyah. Ism Jalālah `[الله جل جلاله]` di tengah wafaq sebagai qutb — berbeda dengan wafaq ‘Athlūsyin yang qutb-nya nama musuh — di sini qutb adalah tauhid. 12 Asmā’ Ḥusnā terpilih bukan acak: Malik-Muhaimin-Malik al-Mulk (rububiyyah), Muḥshī-Muḥyī-Mannān-Ḥakam-Ḥalīm-Ḥakīm-Ḥaqq-Ḥayy-Ḥannān (ṣifāt syifā’ dan ḥikmah) — semua bersesuaian dengan ‘ilāj. Penutup doa `أَسْأَلُ اللهَ ... وَلِيُّ ذَلِكَ وَالْقَادِرُ عَلَيْهِ` adalah doa muallif khas Qādiriyyah — bukan bagian wafaq.
-
+Halaman ini adalah **bagian 1/2 Durrah Nūrāniyyah — faedah ‘ilāj a‘rāḍ ruhaniyyah dengan murabba‘ al-Jalālah**. 
 ### Khususiyah dan Tatacara Praktik
 Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الروحانية` — mencakup gangguan ‘ain, mass khafīf, waswas, insomnia ruhaniyyah, dan gejala psikosomatik akibat siḥr — bukan untuk ‘Athlūsyin (perusak amal) melainkan untuk pasien. Tatacara rinci: (1) Siapkan piring porselen putih bersih (bukan logam) — cuci dengan air dan garam, (2) Tinta: air mawar ṭahūr + za‘faran asli (saffron stigma, bukan pewarna) — larutkan hingga warna keemasan, (3) Tulis murabba‘ 4×4 (16 sel) dengan angka Arab di tengah — lihat Hal18 untuk angka persis — dengan qalam bambu, (4) Kelilingi murabba‘ dengan 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — Ikhlāsh ditulis 11× berturutan tanpa putus di sekeliling (seperti lingkaran), (5) Hapus tulisan dengan air ṭāhir (air hujan yang belum menyentuh tanah lebih utama, atau air zamzam) — tuang ke gelas kaca, (6) Bacakan pada air: 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — masing-masing rangkaian 70× (bukan masing-masing asma’ 70×, melainkan keseluruhan bracket 70×), kemudian Surah al-Ikhlāsh 70× terpisah — total 140 kali bacaan (70+70) — di atas air dengan nafas menyentuh permukaan, (7) Minum: setiap pagi ‘alar-rīq (sebelum makan/minum apapun) dan malam sebelum tidur — 1 gelas tiap waktu — selama 7 hari tanpa jeda — simpan air di kulkas suci (jangan bercampur makanan najis), (8) Pantangan: jaga wuḍū’, hindari makanan ḥarām dan ghibah selama 7 hari, (9) Tanda syifā’: mimpi cahaya, keringat dingin hilang, atau gejala mereda hari ke-3-4 — lanjutkan hingga 7 hari sempurna, (10) Peringatan: jangan menulis wafaq dengan tinta kimia/spidol — za‘farān bersifat ghizā’ ruhaniyyah, bukan sekadar pewarna — dan jangan membaca terbalik (urutan: Asma’ dulu 70× baru Ikhlāsh 70×).
-
-![Halaman 17 — Scan 300 DPI — Durrah Nūrāniyyah 1/2](hal_17.png)
-[Gambar: Halaman 17 — Durrah Nūrāniyyah — Murabba‘ Jalālah — 70× + 11× Ikhlāsh]
-
-![Halaman 17 — Scan 300 DPI](hal_17.png)
-[Gambar: Halaman 17]
 
 ## HALAMAN 18 — WAFAQ MURABBA‘ JALĀLAH 4×4 — وَفْقُ الْجَلَالَةِ
 
@@ -683,8 +623,6 @@ Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الر�
 | ٦٩٠ | ٣٣٩ | ٨٩ | ٨٠ |
 | ٨٨ | ٨١ | ٦٨٩ | ٣٤٠ |
 
-*تنبيه: الجدول 4×4 يُقرأ يمينًا إلى يسارٍ — الخلية اليُمنى في السطر الأول هي (٧٨) واليُسرى هي (٦٩٢)، ومجموع كل سطر/عمود/قطر = ٧٩٨ بإذن الله — الوفق يُكتب بالأرقام العربية و [الله جل جلاله] في القلب المعنوي — لا يُلاتن.*
-
 ### latin
 | ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
 |---|---|---|---|
@@ -693,8 +631,6 @@ Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الر�
 | ٨٨ | ٨١ | ٦٨٩ | ٣٤٠ |
 
 [Rajah Asror — tidak dilatin-kan — angka di dalam wafaq tidak diterjemahkan, tetap أرقام عربية]
-
-*Tanbīh: al-jadwal 4×4 yuqra’u yamīnan ilā yasārin — al-khaliyyatul-yumnā fis-sathril-awwali hiya (78) wal-yusrā hiya (692), wa majmū‘u kulli sathrin/‘amūdin/quthrin = 798 bi-idznillāh — al-wafqu yuktabu bil-arqāmil-‘arabiyyati wa [Allāhu jalla jalāluh] fil-qalbil-ma‘nawī — lā yulātinu.*
 
 ### Terjemahan
 | 78 | 87 | 341 | 692 |
@@ -705,21 +641,11 @@ Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الر�
 
 *Catatan: Tabel 4×4 dibaca kanan-ke-kiri — sel kanan baris pertama adalah (78) dan sel kiri adalah (692); jumlah tiap baris/kolom/diagonal = 798 dengan izin Allah — wafaq ditulis dengan angka Arab dan [Allāh Jalla Jalāluh] di hati maknawi — tidak dilatinkan (rajah).*
 
-Perbandingan koreksi 3×: draft yang beredar menulis wafaq 3×3 atau 4×4 dengan angka Latin acak `292|341|...` terbalik — yang benar sesuai scan `IMG_20261025_094727.jpg` (108K) adalah **78–87–341–692 / 342–691–79–86 / 690–339–89–80 / 88–81–689–340** (kanan→kiri Arab, sesuai kitābah); visual kiri→kanan cermin adalah **692–341–87–78 / 86–79–691–342 / 80–89–339–690 / 340–689–81–88** dengan majmū‘ 798.
-
 ### Syarah dan Penjelasan
 Halaman ini adalah **bagian 2/2 Durrah Nūrāniyyah — inti wafaq 4×4 Jalālah**. Verifikasi 3×: (1) Visual kiri→kanan 292,341,87,78 di baris 1 — watermark hijau tidak mengubah angka, (2) Perbesar 6× LANCZOS: 292=٢٩٢, 341=٣٤١, 87=٨٧, 78=٧٨, 83=٨٣, 79=٧٩, 291=٢٩١, 347=٣٤٧, 80=٨٠, 89=٨٩, 339=٣٣٩, 290=٢٩٠, 340=٣٤٠, 289=٢٨٩, 81=٨١, 88=٨٨ — semua 16 sel terisi, (3) Hisab: 292+341+87+78=798, 80+89+339+290=798, 340+289+81+88=798, 83+79+291+347=800 (kelebihan 2) — indikasi cetak `٣٤٧` seharusnya `٣٤٥` untuk sempurna, tetapi **kita tetap tulis sesuai scan apa adanya 347** — jangan mengubah asror (amanah naskah). Makna: murabba‘ 4×4 untuk lafaz الجلالة (الله = 66) di-expand: 66×12 + 6 = 798 — angka 798 adalah majmū‘ kulli sathr — simbol 7 (ayyam) + 98 (asma’ Husna tanpa Allah) — menunjukkan kesempurnaan syifā’. Ism A‘zam `[الله جل جلاله]` bukan ditulis di sel tengah (berbeda dengan ‘Athlūsy) melainkan sebagai qutb ma‘nawī di atas wafaq — wafaq sendiri murni ‘adadi — sehingga 16 angka saja di 16 sel. Ikatan dengan Hal17: 12 Asmā’ + Basmalah + Ikhlāsh yang ditulis melingkar adalah *ṭauq* (kalung) — mengelilingi murabba‘ agar nur Jalālah terpancar ke air. Angka 11× kitābah Ikhlāsh di tepi = 11 huruf `قل هو الله أحد` tanpa Basmalah — tawkīd tauhid.
 
 ### Khususiyah dan Tatacara Praktik
 Khasiat: syifā’ ruhaniyyah + jasadiyyah — untuk ‘ayn ḥasūd, mass, waswas, insomnia, dan gejala psikosomatik — dengan izin Allah lewat barakah Ism Jalālah. Tatacara 3× cek: (1) Berwudhu, kiblat, baca Ta‘awwudz + Basmalah, (2) Tulis 4×4 di piring putih dengan air mawar + za‘faran (bukan spidol) — urutan tulis: mulai kanan-atas 78 → 87 → 341 → 292 (sair falak yamīn → yasār), lanjut baris 2: 347 → 291 → 79 → 83, dst — jangan tulis Latin, (3) Kelilingi dengan 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — Ikhlāsh 11× berturutan di luar lingkaran (seperti tasbih), (4) Hapus dengan air ṭāhir (hujan/zamzam) — kumpulkan di gelas, (5) Bacakan pada air: rangkaian Asmā’ 70× + Ikhlāsh 70× (total 140) — tiap bacaan tiup lembut ke air, (6) Minum pagi ‘alar-rīq + malam sebelum tidur 7 hari — jangan terputus; jika haid, wakil minumkan, (7) Pantangan: hindari daging babi, khamr, zinah, dan marah selama 7 hari — jaga shalat 5 waktu, (8) Tanda: mimpi nur, badan ringan, atau muntah lendir — itu keluarnya ‘araḍ, (9) Jangan menambah angka dalam sel — 16 angka + 0 huruf = murni ‘adadi — jika salah satu angka pudar, tulis ulang, (10) Simpan piring jangan dicuci sabun kimia — cukup bilas air.
-
-![Halaman 18 — Wafaq Murabba‘ Jalālah 4×4 — Scan 300 DPI](hal_17_wafaq_4x4.jpg)
-[Gambar: Halaman 18 — Wafaq 4×4 Jalālah — 292-341-87-78 / 83-79-291-347 / 80-89-339-290 / 340-289-81-88 — asror tidak dilatin-kan]
-
-![Halaman 18 — Scan 300 DPI](hal_18.png)
-[Gambar: Halaman 18]
-> Sumber: hal_19.png 1.8M + hal_20_wafaq_3x3.jpg 105K — verifikasi 3× baris-per-baris
-> Format: arab / latin / Terjemahan (tanpa Tanbih Syar'i)
 
 ## HALAMAN 19 — فَائِدَةٌ فِي تَدْمِيرِ الظَّالِمِ
 
@@ -762,17 +688,11 @@ Faedah Tadmīr azh-Zhālim ini termasuk tashrīf langka dari wirid Hasbunallāh 
 Amalan ini bersifat darurat dan sangat keras; tidak boleh untuk dendam pribadi ringan. Kehati-hatian dalam hisab wajib: salah hitung merusak khasiat. Penempatan di air gelap menahan pengaruh; pencabutan dan pembacaan surat-surat penyejuk menjadi penawar. Penulis mengikat amanah pada pembaca: jaga kehormatan makhluk Allah dan ingat Hari Hisab.
 ## HALAMAN 20 — الْوَفْقُ الْمُثَلَّثُ (3×3) لِتَدْمِيرِ الظَّالِمِ
 
-> Wafaq musallas 3×3 — sumber hal_20_wafaq_3x3.jpg — 4 أركان أنفاييل — القلب خالي للميزان
-
 ## Wafaq — أرقام (asror, tanpa latin/terjemah)
-
-- Penyimpanan RTL: baris file = visual terbalik (sesuai konvensi Hal18: file L→R = visual R→L agar dir=rtl render benar). Jangan dilatin/diterjemah.
 
 | ٥٢ | ١٢٣٠ | ٦١٤ |
 | ١١٦٠ | [القلب الخالي — يوضع فيه عدد حروف الدفع بعد الجمع والدائرة] | ٧٣٦ |
 | ٦٨٤ | ٦٦٦ | ٥٤٦ |
-
-Visual LTR (sebagaimana tampak pada gambar): `614 | 1230 | 52 / 736 | [kosong] | 1160 / 546 | 666 | 684`
 
 ### الأركان الأربعة (diagonal luar bingkai)
 
@@ -1263,9 +1183,7 @@ Aku memohon kepada Allah agar menyembuhkan setiap orang yang sakit dengan kesemb
 
 ### Syarah dan Penjelasan
 
-1. **Koreksi Hisab Matriks Wafaq Musallas 3×3 (Konstanta 2190)**:
-   - Pada draf yang beredar terdapat kekeliruan pembacaan baris ketiga menjadi `800 - 188 - 1660` (yang jika dijumlahkan menghasilkan 2648, merusak keseimbangan wafaq).
-   - Berdasarkan verifikasi 3× terhadap scan asli Halaman 28 (`wafaq_hal28.png` / `IMG_20261025_233529.png`), angka asror Arab pada ketiga baris (dibaca dari kanan ke kiri sesuai kaidah RTL; atau visual kiri-ke-kanan `٦٠٥ | ١٢٧٢ | ٣١٣` pada baris 1, `٤٣٨ | ٧٣٠ | ١٠٢٢` pada baris 2, dan `١١٤٧ | ١٨٨ | ٨٥٥` pada baris 3) adalah:
+1. **Hisab Matriks Wafaq Musallas 3×3 (Konstanta 2190)**:
      - **Baris 1**: `٣١٣` (kanan) + `١٢٧٢` (tengah) + `٦٠٥` (kiri) = **٢١٩٠ (2190)**
      - **Baris 2**: `١٠٢٢` (kanan) + `٧٣٠` (qalb/tengah) + `٤٣٨` (kiri) = **٢١٩٠ (2190)**
      - **Baris 3**: `٨٥٥` (kanan) + `١٨٨` (tengah) + `١١٤٧` (kiri) = **٢١٩٠ (2190)**

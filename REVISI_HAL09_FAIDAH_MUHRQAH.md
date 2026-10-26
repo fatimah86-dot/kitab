@@ -32,7 +32,7 @@ Ikhwatī fillāhi, adhaʿu lakum hādzihil-fā'idatal-khāshshata bi'ihrāqil-ji
 
 Na'khudzu ismas-syakhshi wa ummihī wa nuzīlu minhul-ḥurūfal-mukarrarata in kāna fil-ismi, wa illā yabqal-ismu kamā huwa bidūni ḥadzfin idzā lam tatakarrar fīhil-ḥurūfu.
 
-Tsumma namzujuhū bil-ḥurūfin-nāriyyati wal-hawā'iyyatin-nūrāniyyati: [ A — H — Th — M — K — S — Q ] — [Rajah Huruf — tidak diterjemahkan: ا ه ط م ك س ق — Ha = ه]
+Tsumma namzujuhū bil-ḥurūfin-nāriyyati wal-hawā'iyyatin-nūrāniyyati: [ ا ه ط م ك س ق ] [Rajah Huruf — tidak diterjemahkan]
 
 Ḥaitsu yakūnu awwalu ḥarfin minhā wa ākhiru ḥarfin minhā kadzālika.
 
@@ -74,7 +74,7 @@ Adapun bakhur yang diletakkan bersama setiap lembar adalah: 7 lembar daun Sidr (
 Dan ini contoh untuk qiyas: kita andaikan nama pasien dan ibunya adalah: Hasan Ruqayyah.
 
 ### Syarah dan Penjelasan
-Halaman ini adalah Faedah Muhriqah Tharidah — kaidah hisab nama + ibunya tanpa takrir, kemudian di-mix dengan 7 huruf Nariyah-Hawaiyah Nurani [ ا ه ط م ك س ق ] dengan Ha = ه (koreksi: bukan هـ). Taksir dilakukan ilal-makhraj dengan tark baris terakhir, lalu dilihat genap/ganjil untuk menentukan baris sumber Ruhani (baris 2 jika genap, baris 3 jika ganjil) dan jumlah huruf Ruhani mengikuti genap/ganjil. Pengambilan Ruhani dengan membuang 2 huruf depan-belakang (jika genap) atau 1 huruf (jika ganjil) agar tersisa di wasath. Nilai huruf Ruhani dijumlah (hisab jumal), di-istinthaq menjadi nama, diakhiri -Āyīl (mis. ...āyīl). Wafaq digambar sejumlah huruf taksir, 4 sudut diisi nama Ruhani, sekeliling diputar qasam (akan disebut Hal10).
+Halaman ini adalah Faedah Muhriqah Tharidah — kaidah hisab nama + ibunya tanpa takrir, kemudian di-mix dengan 7 huruf Nariyah-Hawaiyah Nurani [ ا ه ط م ك س ق ] dengan Ha = ه . Taksir dilakukan ilal-makhraj dengan tark baris terakhir, lalu dilihat genap/ganjil untuk menentukan baris sumber Ruhani (baris 2 jika genap, baris 3 jika ganjil) dan jumlah huruf Ruhani mengikuti genap/ganjil. Pengambilan Ruhani dengan membuang 2 huruf depan-belakang (jika genap) atau 1 huruf (jika ganjil) agar tersisa di wasath. Nilai huruf Ruhani dijumlah (hisab jumal), di-istinthaq menjadi nama, diakhiri -Āyīl (mis. ...āyīl). Wafaq digambar sejumlah huruf taksir, 4 sudut diisi nama Ruhani, sekeliling diputar qasam (akan disebut Hal10).
 
 ### Khususiyah dan Tatacara Praktik
 Khasiat: membakar/mengusir jin & maradah dari jasad dengan izin Allah. Tatacara: tulis 3 waraqah amalan + tulis di shahn naqiy (piring bersih) → hapus dengan mā' thāhir (air suci). Bakhur 3 malam mutataliyah: tiap malam bakar 1 waraqah bersama 7 waraqāt Sidr + 7 habbāt Qaranful + qalīl Masthakā, lalu oleskan air hapusan piring ke seluruh jasad setelah bakhur, tidur mun'azilan (menyendiri). Rajah huruf [ ا ه ط م ك س ق ] tidak diterjemahkan — tetap arab dengan Ha = ه.

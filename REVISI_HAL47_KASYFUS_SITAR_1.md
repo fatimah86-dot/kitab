@@ -50,12 +50,7 @@ Dan ketahuilah wahai saudara-saudaraku karena Allah, bahwa huruf-huruf Afrād (g
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_47.png` — Pembersihan Total Teks Draf yang Bukan Isi Kitab**:
-   - Pada draf kiriman sebelumnya, Halaman 47 ditulis sebagai `فَائِدَةٌ فِي جَلْبِ الرِّزْقِ وَالْبَرَكَةِ` (ayat *Wa man yattaqillāha...* dan wafaq `36-41-34...`). Setelah diverifikasi terhadap scan asli `hal_47.png`, teks dan wafaq tersebut **sama sekali tidak ada dalam kitab asli**.
-   - Halaman 47 yang asli adalah **`كَشْفُ السِّتَارِ عَنِ الْمُثَلَّثِ وَمَا يَحْمِلُهُ مِنْ أَسْرَارٍ`** (Pelajaran Kedua dalam Daftar Isi: Penyingkapan Tabir tentang Wafaq Musallas dan Rahasia-Rahasia yang Dikandungnya).
-   - Sesuai pedoman baku workspace, empat kelompok huruf Hijaiyah terpisah di dalam kurung siku (`[ ا ه ط ح ]`, `[ ب ج د و ز ]`, `[ ا ج ه ز ط ]`, `[ ب د و ح ]`) tetap dipertahankan dalam huruf Arab aslinya tanpa dilatinkan dan diberi keterangan `[Rajah Huruf — tidak diterjemahkan]`.
-
-2. **Anatomi 9 Huruf Wafaq Musallas (`أَبْجَدْ هَوَّزْ حُطِّي`)**:
+1. **Anatomi 9 Huruf Wafaq Musallas (`أَبْجَدْ هَوَّزْ حُطِّي`)**:
    - Sembilan huruf pembentuk Musallas (`ا ب ج د ه و ز ح ط` = nilai `١` s.d. `٩`) terbagi menjadi enam pasangan sifat:
      1) **Nūrāniyyah (`[ ا ه ط ح ]` = 1, 5, 9, 8)**: Tiga huruf api (`ا ه ط`) ditambah satu huruf air yang memantulkan cahaya (`ح`).
      2) **Zhulmāniyyah (`[ ب ج د و ز ]` = 2, 3, 4, 6, 7)**: Lima huruf selainnya yang mewakili kepadatan materi/kegelapan.
@@ -64,7 +59,7 @@ Dan ketahuilah wahai saudara-saudaraku karena Allah, bahwa huruf-huruf Afrād (g
      5) **Khafīfah (Ringan)**: Huruf-huruf berelemen Api (*Nāriyyah*: `ا ه ط`) dan Udara (*Hawā'iyyah*: `ج ز`) karena sifat api dan udara yang selalu bergerak naik ke atas.
      6) **Tsaqīlah (Berat)**: Huruf-huruf berelemen Tanah (*Turābiyyah*: `ب و`) dan Air (*Mā'iyyah*: `د ح`) karena sifat tanah dan air yang cenderung turun dan menetap di bawah.
 
-3. **Falsafah Penciptaan Nabi Adam & Hawa dalam Matriks Musallas**:
+2. **Falsafah Penciptaan Nabi Adam & Hawa dalam Matriks Musallas**:
    - Syeikh al-Basyir mengaitkan struktur matematis Wafaq Musallas dengan ayat kauniyah penciptaan manusia pertama: sebagaimana Siti Hawa (`حَوَّاء` — yang huruf-hurufnya senada dengan unsur kehidupan dan pasangan genap) diciptakan dari tulang rusuk Nabi Adam (`آدَم` — yang merupakan pokok/asal), demikian pula keempat kamar sudut genap (`[ ب د و ح ]`) dalam Wafaq Musallas **dilahirkan (*tatawalladu*) dan diekstraksi (*tustakhraju*)** dari penjumlahan/pengurangan kelima kamar pokok ganjil (`[ ا ج ه ز ط ]`).
 
 ### Khususiyah dan Tatacara Praktik

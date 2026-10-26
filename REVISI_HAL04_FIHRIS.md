@@ -1,68 +1,72 @@
-## HALAMAN 04 — FIHRIS — فِهْرِسُ مُجَرَّبَاتِ الشَّيْخِ الْبَشِيرِ
+## HALAMAN 05 — فِهْرِسُ مُجَرَّبَاتِ الشَّيْخِ الْبَشِيرِ
 
 ### arab
 فِهْرِسُ مُجَرَّبَاتِ الشَّيْخِ الْبَشِيرِ
 
-1. طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
+١. طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
 
-2. فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَ الْمَرَدَةِ بِإِذْنِ اللهِ
+٢. فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
 
-3. فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
+٣. فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
 
-4. الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَ الْمِيثَاقِ عَلَى خَادِمِ الْاِسْتِنْزَالِ
+٤. الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
 
-5. فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ مُفْسِدِ الْأَعْمَالِ الرُّوحَانِيَّةِ
+٥. فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ مُفْسِدِ الْأَعْمَالِ الرُّوحَانِيَّةِ
 
-6. الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرُّوحَانِيَّةِ
+٦. الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرُّوحَانِيَّةِ
 
-7. فَائِدَةٌ فِي تَدْمِيرِ الظَّالِمِ
+٧. فَائِدَةٌ فِي تَدْمِيرِ الظَّالِمِ
 
-8. فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ
+٨. فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ
 
-9. السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ
+٩. السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ
 
-10. فَائِدَةٌ قَاطِعَةٌ لِرَدِّ الْخَادِمِ
+١٠. فَائِدَةٌ قَاطِعَةٌ لِرَدِّ الْخَادِمِ
 
-11. دُعَاءُ الْخَائِفِ
+١١. دُعَاءُ الْخَائِفِ
 
-12. الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَ السِّحْرِ
+١٢. الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ
 
-13. فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ
+١٣. فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ
 
 ### latin
-Fihrisu Mujarrabāti ash-Shaykhi al-Bashīri
-1. Ṭarīqatu al-Maysarati fī Jalbi al-Arzāqi
-2. Fā'idatun Muḥriqatun Ṭāridatun lil-Jinni wa al-Maradati bi-idhni Allāhi
-3. Fā'idatun Qāṭiʿatun li-ʿIlāji al-Massi
-4. az-Zajru al-Qāṭiʿu li-Akhdhi al-ʿAhdi wa al-Mīthāqi ʿalā Khādimi al-Istinzāli
-5. Fā'idatun li-Ṭardi ʿAṭlūshin Mufsidi al-Aʿmāli ar-Rūḥāniyyati
-6. ad-Durratu an-Nūrāniyyatu fī ʿIlāji al-Aʿrāḍi ar-Rūḥāniyyati
-7. Fā'idatun fī Tadmīri aẓ-Ẓālimi
-8. Fā'idatun Mujarrabatun li-Qahri al-Qarīni
-9. as-Sayfu al-Battāru li-Dafʿi Maymūna al-Ghaddāri
-10. Fā'idatun Qāṭiʿatun li-Raddi al-Khādimi
-11. Duʿā'u al-Khā'ifi
-12. al-Āyātu al-ʿAshru al-Mubṭilātu li-an-Nafthi wa as-Siḥri
-13. Fā'idatun fī al-Kashfi al-Manāmiyyi
+Fihrisu Mujarrabātisy-Syaikhil-Basyīri
+
+1. Tharīqatul-maysarati fī jalbil-arzāqi
+2. Fā'idatun muhriqatun thāridatun lil-jinni wal-maradati bi-idznillāhi
+3. Fā'idatun qāthi'atun li-'ilājil-massi
+4. Az-zajrul-qāthi'u li-akhdzil-'ahdi wal-mītsāqi 'alā khādimil-istinzāli
+5. Fā'idatun li-thardi 'Athlūsyin mufsidil-a'mālir-rūhāniyyati
+6. Ad-durratun-nūrāniyyatu fī 'ilājil-a'rādhir-rūhāniyyati
+7. Fā'idatun fī tadmīrizh-zhālimi
+8. Fā'idatun mujarrabatun li-qahril-qarīni
+9. As-saiful-battāru li-daf'i Maimūninil-ghaddāri
+10. Fā'idatun qāthi'atun li-raddil-khādimi
+11. Du'ā'ul-khā'ifi
+12. Al-āyātul-'asyrul-mubthilātu lin-naftsi was-sihri
+13. Fā'idatun fil-kasyfil-manāmiyyi
 
 ### Terjemahan
-Daftar Mujarrabat Syeikh Al-Basyir.
-1. Cara Maysarah untuk menarik rezeki.
-2. Faedah pembakar pengusir jin dan maradah dengan izin Allah.
-3. Faedah pemutus untuk mengobati kerasukan.
-4. Bentakan pemutus untuk mengambil janji dan sumpah atas khadam istinzal.
-5. Faedah untuk mengusir Athlush perusak amalan ruhani.
-6. Mutiara bercahaya untuk mengobati gejala-gejala ruhani.
-7. Faedah untuk menghancurkan orang zalim.
-8. Faedah mujarrab untuk menundukkan qarin.
-9. Pedang pemotong untuk menolak Maimun yang berkhianat.
-10. Faedah pemutus untuk mengembalikan khadam.
-11. Doa orang yang ketakutan.
-12. Sepuluh ayat pembatal tiupan dan sihir.
-13. Faedah untuk kasyaf melalui mimpi.
+Daftar Isi Mujarrabat Syeikh al-Basyir.
+
+1. Metode al-Maysarah (kemudahan) dalam menarik rezeki.
+2. Faedah yang membakar lagi mengusir jin dan jin maradah dengan izin Allah.
+3. Faedah pemutus yang ampuh untuk mengobati kerasukan (al-mass).
+4. Gertakan pemutus untuk mengambil janji dan sumpah setia atas khadim istinzal.
+5. Faedah untuk mengusir 'Athlūsyin perusak amalan-amalan ruhani.
+6. Mutiara bercahaya dalam mengobati gejala-gejala gangguan ruhani.
+7. Faedah dalam menghancurkan orang yang zalim.
+8. Faedah yang telah teruji untuk menundukkan qarin.
+9. Pedang penyabet yang tajam untuk menolak Maimun yang pengkhianat.
+10. Faedah pemutus untuk mengembalikan khadim.
+11. Doa orang yang merasa takut.
+12. Sepuluh ayat pembatal hembusan dan ikatan sihir.
+13. Faedah dalam penyingkapan melalui mimpi (al-kasyful-manāmī).
 
 ### Syarah dan Penjelasan
-Daftar isi kitab: 13 faedah utama dari Maysarah (rezeki) hingga Kasyaf Manami (singkap mimpi). Daftar ini menjadi peta isi kitab — tidak ada amalan di halaman ini, hanya penunjuk judul faedah.
+1. **Sistematika Bagian Pertama Kitab (*Fawā'id wa Mujarrabāt*)**:
+   - Halaman ini memuat daftar isi (*fihris*) untuk 13 faedah dan mujarrabat pada Bagian Pertama kitab (Halaman 06 s.d. Halaman 30), yang mencakup penarikan rezeki (*jalbul-arzāq*), pengobatan gangguan jin dan sihir (*'ilājul-mass was-sihr*), penertiban khadim, penjagaan diri (*ihtijāb*), hingga penyingkapan batin melalui mimpi (*al-kasyful-manāmī*).
 
 ### Khususiyah dan Tatacara Praktik
-Halaman fihris tidak ada wirid khusus — hanya penunjuk. Pilih faedah sesuai hajat setelah mendapat ijazah Hal03, dan baca dengan adab mencari ilmu yang diridhai Allah.
+1. **Panduan Pemilihan Amalan**:
+   - Gunakan daftar isi ini untuk memilih bab amalan yang sesuai dengan hajat yang sedang dihadapi setelah mengamalkan tawasul ijazah umum pada Halaman 03.

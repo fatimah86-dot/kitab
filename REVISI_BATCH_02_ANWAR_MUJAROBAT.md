@@ -85,8 +85,6 @@ Kemudian qasam ini dibaca **5 kali** pada tiap lembar dan juga pada air (hasil m
 
 **[Gambar Rajah Asli Halaman 10 — Jadwal Taksīr]**
 
-![Jadwal Muhriqah](rajah_anwar/rajah_p10_jadwal_muhriqah.png)
-
 *Gambar asli halaman 10*: Tabel taksīr 5×15 berisi huruf campuran nama Hasan Ruqayyah + huruf nāriyyah/hawā’iyyah. Di empat sudut luar tertulis: **حنقاييل — حنقاييل — هنثاييل? — هنثاييل?** (varian penamaan Rūhānī). Tabel ini disimpan sebagai gambar, tidak dialih-aksarakan.
 
 **[Catatan Teknis Revisi]**
@@ -167,9 +165,7 @@ Penulisan ayat-ayat dan surah-surah dimulai dari **atas wafaq, bergerak dari kan
 
 **[Gambar Rajah Asli Halaman 12 — Wafaq l-‘Ilaj al-Mass]**
 
-![Wafaq Mass](rajah_anwar/rajah_p12_wafaq_mass.png)
-
-*Gambar asli halaman 12*: Wafaq angka (3×3) untuk terapi mass. Di bawahnya tertera: *Wafqun li-‘ilāj al-mass — Al-Syaikh al-Basyir — Muntadā al-Anwār al-Qādiriyyah — http://www.alanwaralqadria.com*. Angka-angka tidak diterjemahkan menjadi huruf latin; dibiarkan sebagai gambar.
+*Gambar asli halaman 12*: Wafaq angka (3×3) untuk terapi mass. Di bawahnya tertera: *Wafqun li-‘ilāj al-mass — Al-Syaikh al-Basyir — Muntadā al-Anwār al-Qādiriyyah — *. Angka-angka tidak diterjemahkan menjadi huruf latin; dibiarkan sebagai gambar.
 ## HALAMAN 13 — Faedah 4: al-Zajr al-Qathi' (Awal)
 
 **[Teks Arab Asli]**

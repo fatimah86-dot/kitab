@@ -157,14 +157,10 @@ Selesai — wahai saudaraku, itulah ayat-ayat mulia tersebut; dan inilah wafaq y
 السيف البتار لدفع ميمون الغدار
 الشيخ البشير
 منتدى الأنوار القادرية و الأرواح الرحمانية
-http://www.alanwaralqadria.com
-
 **[Terjemahan]**
 Pedang Pemutus untuk Menolak Maimun Pengkhianat — Syeikh al-Basyir
 
 **[Gambar Rajah Asli Halaman 24]**
-
-![Wafaq Saif Battar](rajah_anwar/rajah_p24_wafaq_saif_battar.png)
 
 *Wafaq Saif al-Battar — konstanta 582 (al-Hakim)*
 ## HALAMAN 25 — Faedah Qathi'ah li-Raddi al-Khadim (Faedah 10)
@@ -321,11 +317,7 @@ Dan setelah semua ditulis, **hapus dengan air suci**, bacakan **10 ayat tersebut
 وفق الآيات العشر المبطلات للنفث و السحر
 الشيخ البشير
 منتدى الأنوار القادرية و الأرواح الرحمانية
-http://www.alanwaralqadria.com
-
 **[Gambar Rajah Asli Halaman 28]**
-
-![Wafaq Ayat Asyr](rajah_anwar/rajah_p28_wafaq_ashr_mubtilat.png)
 
 *Wafaq Sepuluh Ayat Pembatal Sihir — konstanta 2190*
 ## HALAMAN 29 — Faedah fi al-Kashf al-Manami (Bagian 1/2)
@@ -381,14 +373,10 @@ Inilah wafaqnya — kelilingi **empat sisinya dengan ayat “Qauluhu al-Haqq wa 
 فائدة في الكشف المنامي
 الشيخ البشير
 منتدى الأنوار القادرية و الأرواح الرحمانية
-http://www.alanwaralqadria.com
-
 **[Terjemahan]**
 Faedah Kashaf Manami — Syeikh al-Basyir
 
 **[Gambar Rajah Asli Halaman 30]**
-
-![Wafaq Kashf Manami](rajah_anwar/rajah_p30_wafaq_kashf_manami.png)
 
 *Wafaq Kashf Manami 5×5 — konstanta 2866 — dikelilingi ayat Lathif Khabir*
 ### KETERANGAN RAJAH — Batch 04

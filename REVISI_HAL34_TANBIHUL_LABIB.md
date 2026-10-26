@@ -32,15 +32,7 @@ Maka renungkanlah wahai penuntut ilmu dan ambillah pelajaran, wassalam.
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs `hal_34.png` — Pengembalian 4 Bagian Penting yang Hilang pada Draf**:
-   - Dalam draf kiriman sebelumnya, terdapat 4 bagian kalimat asli kitab yang terpotong/hilang sama sekali pada teks Arab, Latin, maupun Terjemahan, dan kini telah dikembalikan **100% utuh**:
-     1) Doa penjagaan: `حَفِظَنَا اللهُ وَإِيَّاكُمْ وَالْمُسْلِمِينَ أَجْمَعِينَ` (*semoga Allah menjaga kami, kalian, dan seluruh kaum muslimin*).
-     2) Penjelasan rahasia hitungan Riyadhah Pertama: `وَرُبَّمَا صَادَفَ أَحَدُكُمْ هَذِهِ الْحَالَةَ وَالسِّرُّ فِيهَا عَدَدُ التِّلَاوَةِ لِأَنَّهُ يَخْرُجُ مِنِ اسْمِ الطَّالِبِ` (*dan boleh jadi salah seorang di antara kalian pernah mengalami kondisi tersebut; adapun rahasia di dalamnya terletak pada jumlah bacaannya karena jumlah itu dikeluarkan dari nama sang penuntut ilmu*).
-     3) Contoh konkret penjumlahan wirid Riyadhah Ketiga: `مَثَلًا كَانَ عَدَدُ التِّلَاوَةِ فِي الرِّيَاضَةِ ١ ، ١٠٠ دُبُرَ كُلِّ صَلَاةٍ وَالتِّلَاوَةُ فِي الرِّيَاضَةِ ٢ ، ١٧٠ دُبُرَ كُلِّ صَلَاةٍ تَكُونُ التِّلَاوَةُ فِي الرِّيَاضَةِ الثَّالِثَةِ ٢٧٠ دُبُرَ كُلِّ صَلَاةٍ` (*sebagai contoh: apabila jumlah bacaan pada riyadhah 1 adalah 100 setiap selesai shalat, dan bacaan pada riyadhah 2 adalah 170 setiap selesai shalat, maka bacaan pada riyadhah ke-3 adalah 270 setiap selesai shalat*).
-     4) Janji pengarang & doa penutup: `وَسَأَضَعُ لَكُمْ إِخْوَتِي فِي اللهِ طَرِيقَةَ حِسَابِ الْمُدَّةِ وَعَدَدِ التِّلَاوَةِ بِهَذَا الْخُصُوصِ لِتَسْتَفِيدُوا مِنْهَا وَتَسْتَنِيرَ طَرِيقُكُمْ ، وَفَّقَكُمُ اللهُ وَأَعَانَكُمْ عَلَى الْخَيْرِ وَفِعْلِهِ وَأَنَارَ طَرِيقَكُمْ وَأَعَاذَكُمْ مِنَ الْجَهْلِ وَأَهْلِهِ` beserta lanjutan ayat `وَاتَّقُوا اللهَ لَعَلَّكُمْ تُفْلِحُونَ ] صَدَقَ اللهُ الْعَظِيمُ`.
-   - Selain itu kata sisipan `(الْتَرْكُ الرُّوحِيُّ)` yang tidak ada pada scan asli telah dihapus dari bagian `arab` dan `latin`.
-
-2. **Kurikulum Tiga Jenjang Riyadhah Pembentukan Ruh (*Taqwiyatul-Arwāh*)**:
+1. **Kurikulum Tiga Jenjang Riyadhah Pembentukan Ruh (*Taqwiyatul-Arwāh*)**:
    - Syeikh al-Basyir memaparkan kurikulum wajib 3 tahap sebelum seorang murid mengamalkan *Da'wah* atau *Istikhdām*:
      - **Tahap 1 (`حَيٌّ قَيُّومٌ` — 40 Hari)**: Menghidupkan kesadaran ruh (*Hayyun*) dan kemandirian batin (*Qayyūmun*) disertai *tarku mā lahū rūh* (pantang memakan daging/produk hewani tanpa harus berpuasa di siang hari) guna memutus ikatan syahwat jasmani serta menghancurkan gangguan jin betina (*'awāridh min inātsil-jinn*), terutama bagi penuntut ilmu yang belum menikah (*a'zab*).
      - **Tahap 2 (`حَيٌّ قَوِيٌّ`)**: Memadukan kehidupan ruh (*Hayyun*) dengan kekuatan batin (*Qawiyyun*); jumlah bacaan (*'adadut-tilāwah*) dan lama harinya (*muddatul-'amal*) dihitung berdasarkan hisab nama murid.

@@ -99,10 +99,10 @@ Yuktabul-wafqu bi-mā'i wardin wa za'farānin, wa tuhawwithuhu bil-āyati [Qaulu
 15, Lā ilāha illallāhu mā yaftahillāhu lin-nāsi min rahmatin fa-lā mumsika lahā wa mā yumsik fa-lā mursila lahu min ba'dihi wa Huwal-'Azīzul-Hakīm.
 16, Lā ilāha illallāhu tanzīlul-kitābi minallāhil-'Azīzil-Hakīm.
 17, Lā ilāha illallāhu Rabbanā wa adkhilhum jannāti 'adninil-latī wa'adtahum wa man shalaha min ābā'ihim wa azwājihim wa dzurriyyātihim innaka Antal-'Azīzul-Hakīm.
-18, Lā ilāha illallāhu Hā Mīm 'Ain Sīn Qāf kadzālika yūhī ilaika wa ilal-ladzīna min qablikallāhul-'Azīzul-Hakīm.
-19, Lā ilāha illallāhu Hā Mīm tanzīlul-kitābi minallāhil-'Azīzil-Hakīm [al-Jātsiyah].
+18, Lā ilāha illallāhu [ حم عسق ] [Rajah Huruf — tidak diterjemahkan] kadzālika yūhī ilaika wa ilal-ladzīna min qablikallāhul-'Azīzul-Hakīm.
+19, Lā ilāha illallāhu [ حم ] [Rajah Huruf — tidak diterjemahkan] tanzīlul-kitābi minallāhil-'Azīzil-Hakīm [al-Jātsiyah].
 20, Lā ilāha illallāhu wa lahul-kibriyā'u fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Hakīm.
-21, Lā ilāha illallāhu Hā Mīm tanzīlul-kitābi minallāhil-'Azīzil-Hakīm [al-Ahqāf].
+21, Lā ilāha illallāhu [ حم ] [Rajah Huruf — tidak diterjemahkan] tanzīlul-kitābi minallāhil-'Azīzil-Hakīm [al-Ahqāf].
 22, Lā ilāha illallāhu sabbaha lillāhi mā fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Hakīm [al-Hadīd].
 23, Lā ilāha illallāhu sabbaha lillāhi mā fis-samāwāti wa mā fil-ardhi wa Huwal-'Azīzul-Hakīm [al-Hasyr].
 24, Lā ilāha illallāhu Huwallāhul-Khāliqul-Bāri'ul-Mushawwiru lahul-asmā'ul-husnā yusabbihu lahu mā fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Hakīm.
@@ -112,7 +112,14 @@ Yuktabul-wafqu bi-mā'i wardin wa za'farānin, wa tuhawwithuhu bil-āyati [Qaulu
 28, Lā ilāha illallāhu wa ākharīna minhum lammā yalhaqū bihim wa Huwal-'Azīzul-Hakīm.
 29, Lā ilāha illallāhu 'ālimul-ghaibi wasy-syahādati wa Huwal-'Azīzul-Hakīm.
 
-Tammat ikhwatī fillāhi al-āyātul-karīmātu wa ilaikum al-wafqus-sālifu dzikruhu.
+Tammat ikhwatī fillāhi al-āyātul-karīmātu wa ilaikumul-wafqus-sālifu dzikruhū:
+
+| ٢٧٤ | ١٤٣ | ١٦٥ |
+|---|---|---|
+| ٨٥ | ١٩٤ | ٣٠٣ |
+| ٢٢٣ | ٢٤٥ | ١١٤ |
+
+[Wafaq Musallas 3×3 As-Saiful-Battār — Asror Angka Arab, tidak dilatinkan]
 
 Wafaq musallas 3×3 (asror, tanpa latin/terjemah angka — simpan RTL agar dir=rtl): lihat tabel arab di atas.
 
@@ -141,10 +148,10 @@ Wafaq ditulis dengan air mawar dan za'faran; kelilingilah ia dengan ayat [Firman
 15, Tidak ada tuhan selain Allah — Apa saja yang Allah bukakan bagi manusia berupa rahmat, maka tidak ada yang dapat menahannya; dan apa saja yang Dia tahan, maka tidak ada yang dapat mengirimnya setelah-Nya; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
 16, Tidak ada tuhan selain Allah — Turunnya Kitab ini dari Allah Yang Maha Perkasa lagi Maha Bijaksana.
 17, Tidak ada tuhan selain Allah — Wahai Tuhan kami, masukkanlah mereka ke dalam surga-surga 'Adn yang telah Engkau janjikan kepada mereka beserta orang-orang saleh dari bapak-bapak mereka, istri-istri mereka dan keturunan mereka; sesungguhnya Engkaulah Yang Maha Perkasa lagi Maha Bijaksana.
-18, Tidak ada tuhan selain Allah — Hā Mīm ‘Ain Sīn Qāf, demikianlah Allah Yang Maha Perkasa lagi Maha Bijaksana mewahyukan kepadamu dan kepada orang-orang sebelum kamu.
-19, Tidak ada tuhan selain Allah — Hā Mīm, turunnya Kitab ini dari Allah Yang Maha Perkasa lagi Maha Bijaksana [Al-Jatsiyah].
+18, Tidak ada tuhan selain Allah — [ حم عسق ] [Rajah Huruf — tidak diterjemahkan], demikianlah Allah Yang Maha Perkasa lagi Maha Bijaksana mewahyukan kepadamu dan kepada orang-orang sebelum kamu.
+19, Tidak ada tuhan selain Allah — [ حم ] [Rajah Huruf — tidak diterjemahkan], turunnya Kitab ini dari Allah Yang Maha Perkasa lagi Maha Bijaksana [Al-Jatsiyah].
 20, Tidak ada tuhan selain Allah — Dan bagi-Nya keagungan di langit dan di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
-21, Tidak ada tuhan selain Allah — Hā Mīm, turunnya Kitab ini dari Allah Yang Maha Perkasa lagi Maha Bijaksana [Al-Ahqaf].
+21, Tidak ada tuhan selain Allah — [ حم ] [Rajah Huruf — tidak diterjemahkan], turunnya Kitab ini dari Allah Yang Maha Perkasa lagi Maha Bijaksana [Al-Ahqaf].
 22, Tidak ada tuhan selain Allah — Bertasbih kepada Allah apa yang ada di langit dan di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana [Al-Hadid].
 23, Tidak ada tuhan selain Allah — Bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana [Al-Hasyr].
 24, Tidak ada tuhan selain Allah — Dialah Allah Yang Menciptakan, Yang Mengadakan, Yang Membentuk Rupa; bagi-Nya nama-nama yang paling baik; bertasbih kepada-Nya apa yang ada di langit dan di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
@@ -156,11 +163,18 @@ Wafaq ditulis dengan air mawar dan za'faran; kelilingilah ia dengan ayat [Firman
 
 Telah selesai, wahai saudara-saudaraku karena Allah, ayat-ayat yang mulia tersebut dan untuk kalian wafaq yang telah disebutkan terdahulu.
 
-Dan inilah wafaqnya.
+Dan inilah wafaqnya:
+
+| ٢٧٤ | ١٤٣ | ١٦٥ |
+|---|---|---|
+| ٨٥ | ١٩٤ | ٣٠٣ |
+| ٢٢٣ | ٢٤٥ | ١١٤ |
+
+[Wafaq Musallas 3×3 As-Saiful-Battār — Asror Angka Arab, tidak diterjemahkan]
 
 ### Syarah dan Penjelasan
 
-Wafaq musallas 3×3 Saif al-Battār memiliki 9 kamar dengan konstanta 582 per baris/kolom/diagonal (165+143+274=582, 303+194+85=582, 114+245+223=582), selaras dengan hitungan wirid Al-Hakīm 582×. Empat sudut luar ditandai simbol G/A sebagai pasak rajah, bingkai diputar dengan ayat Qauluhul-Haqq wa Lahul-Mulk diselingi 29 ayat Al-‘Azīz Al-Hakīm. Fungsi utamanya sebagai pemutus ikatan sihir/pelet Maimūn an-Nikāh (jin mārid Majūsī) yang merusak kehormatan suami-istri; mekanisme wirid Al-Hakīm 582× + ayat-ayat 29× menjadi pemantik pembakar energi sihir.
+Wafaq musallas 3×3 Saif al-Battār memiliki 9 kamar dengan konstanta 582 per baris/kolom/diagonal (165+143+274=582, 303+194+85=582, 114+245+223=582), selaras dengan hitungan wirid Al-Hakīm 582×. Keempat sisi bingkai hijau di sekeliling wafaq bertuliskan kaligrafi ayat `قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ` (`قوله` di kanan-atas, `الحق` di kiri-atas, `وله` di kiri-bawah, `الملك` di kanan-bawah), lalu di luarnya diputar diselingi 29 ayat Al-‘Azīz Al-Hakīm. Fungsi utamanya sebagai pemutus ikatan sihir/pelet Maimūn an-Nikāh (jin mārid Majūsī) yang merusak kehormatan suami-istri; mekanisme wirid Al-Hakīm 582× + ayat-ayat 29× menjadi pemantik pembakar energi sihir.
 
 ### Khususiyah dan Tatacara Praktik
 

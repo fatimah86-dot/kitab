@@ -43,14 +43,12 @@ Faedah tentang penyingkapan melalui mimpi (al-kasyful-manāmī).
 
 ### Syarah dan Penjelasan
 
-1. **Koreksi Fatal atas Draf Kiriman pada Matriks Wafaq Mukhammas 5×5 (Konstanta 3266)**:
-   - Pada draf yang beredar, terdapat banyak kesalahan baca dan pengosongan sel karena tertutup bayangan watermark: baris 1 ditulis `142 | 230 | 207 | 910 | 1977` (salah baca `٣٠٧` menjadi `207` dan `١٦٧٧` menjadi `1977`), baris 2 ditulis `1911 | 167...` (salah baca `٩١١` menjadi `1911` dan `١٦٧٨` menjadi `167`), serta 4 kotak pada baris 3 dan 4 ditulis `[ KOTAK INTI ]` seolah-olah kosong. Selain itu draf juga menambahkan kalimat `Muntadāl-Anwāril-Qādiriyyati...` yang sama sekali tidak ada pada halaman kitab.
-   - Berdasarkan pemeriksaan 3× atas scan resolusi tinggi `wafaq_hal30.jpg` (`IMG_20261025_102900.jpg`) dan rumus baku *Wafaq Mukhammas* (5×5), **seluruh 25 sel berisi angka penuh tanpa satu pun kotak kosong**, dan memiliki jumlah konstan (*dhl'ul-mukhammas*) sebesar **٣٢٦٦ (3266)** pada semua baris, kolom, dan kedua diagonalnya:
-     - **Baris 1 (kanan→kiri)**: `١٤٢ + ٢٣٠ + ٣٠٧ + ٩١٠ + ١٦٧٧ = ٣٢٦٦` (visual kiri→kanan: `١٦٧٧ | ٩١٠ | ٣٠٧ | ٢٣٠ | ١٤٢`)
-     - **Baris 2 (kanan→kiri)**: `٩١١ + ١٦٧٨ + ١٤٣ + ٢٢٦ + ٣٠٨ = ٣٢٦٦` (visual kiri→kanan: `٣٠٨ | ٢٢٦ | ١٤٣ | ١٦٧٨ | ٩١١`)
-     - **Baris 3 (kanan→kiri)**: `٢٢٧ + ٣٠٤ + ٩١٢ + ١٦٧٩ + ١٤٤ = ٣٢٦٦` (visual kiri→kanan: `١٤٤ | ١٦٧٩ | ٩١٢ | ٣٠٤ | ٢٢٧`)
-     - **Baris 4 (kanan→kiri)**: `١٦٨٠ + ١٤٥ + ٢٢٨ + ٣٠٥ + ٩٠٨ = ٣٢٦٦` (visual kiri→kanan: `٩٠٨ | ٣٠٥ | ٢٢٨ | ١٤٥ | ١٦٨٠`)
-     - **Baris 5 (kanan→kiri)**: `٣٠٦ + ٩٠٩ + ١٦٧٦ + ١٤٦ + ٢٢٩ = ٣٢٦٦` (visual kiri→kanan: `٢٢٩ | ١٤٦ | ١٦٧٦ | ٩٠٩ | ٣٠٦`)
+1. **Hisab Matriks Wafaq Mukhammas 5×5 (Konstanta 3266)**:
+     - **Baris 1 (kanan→kiri)**: `١٤٢ + ٢٣٠ + ٣٠٧ + ٩١٠ + ١٦٧٧ = ٣٢٦٦`
+     - **Baris 2 (kanan→kiri)**: `٩١١ + ١٦٧٨ + ١٤٣ + ٢٢٦ + ٣٠٨ = ٣٢٦٦`
+     - **Baris 3 (kanan→kiri)**: `٢٢٧ + ٣٠٤ + ٩١٢ + ١٦٧٩ + ١٤٤ = ٣٢٦٦`
+     - **Baris 4 (kanan→kiri)**: `١٦٨٠ + ١٤٥ + ٢٢٨ + ٣٠٥ + ٩٠٨ = ٣٢٦٦`
+     - **Baris 5 (kanan→kiri)**: `٣٠٦ + ٩٠٩ + ١٦٧٦ + ١٤٦ + ٢٢٩ = ٣٢٦٦`
      - **Kolom 1 s.d. 5**: masing-masing tepat berjumlah **٣٢٦٦ (3266)**.
      - **Diagonal 1**: `١٤٢ + ١٦٧٨ + ٩١٢ + ٣٠٥ + ٢٢٩ = ٣٢٦٦`
      - **Diagonal 2**: `١٦٧٧ + ٢٢٦ + ٩١٢ + ١٤٥ + ٣٠٦ = ٣٢٦٦`

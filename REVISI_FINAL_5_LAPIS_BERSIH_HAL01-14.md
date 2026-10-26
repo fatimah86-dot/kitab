@@ -239,7 +239,6 @@ Samsail vs Nasmahil: Samsail adalah Ruhani Khadim (pelaksana), Nasmahil adalah R
 
 طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
 الشَّيْخُ الْبَشِيرُ
-http://www.alanwaralqadria.com
 مُنْتَدَى الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
 
 وَعَدَدُ الْعَزِيمَةِ 196 مَرَّةً مَعَ التَّوَجُّهِ إِلَى اللهِ عَزَّ وَجَلَّ بِطَلَبِكَ،
@@ -250,7 +249,7 @@ http://www.alanwaralqadria.com
 Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā fīhir-rūḥāniyy, ... wa 'adadul-'azīmati mi'atun wa sittun wa tis'ūna marratam-ma'at-tawajjuhi ilallāhi 'azza wa jalla bi ṭalabik, as'alullāha 'azza wa jalla an yanfa'akum bihādzihidz-dzakhīratil-mubārakati innahu Waliyyu dzālika wal-Qādiru 'alaihi was-salām.
 
 ### Terjemahan
-Dan inilah wafaq amal dan wafaq 4×4 yang kita turunkan di dalamnya ruhani tersebut. Cara Maysarah untuk menarik rezeki. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. http://www.alanwaralqadria.com. Jumlah bacaan wirid 196 kali beserta menghadap kepada Allah Azza wa Jalla dengan permohonanmu. Aku memohon kepada Allah Azza wa Jalla agar memberi manfaat kepada kalian dengan simpanan yang diberkahi ini, sesungguhnya Dia-lah penolongnya dan Yang Maha Kuasa atasnya. Wassalam.
+Dan inilah wafaq amal dan wafaq 4×4 yang kita turunkan di dalamnya ruhani tersebut. Cara Maysarah untuk menarik rezeki. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. Jumlah bacaan wirid 196 kali beserta menghadap kepada Allah Azza wa Jalla dengan permohonanmu. Aku memohon kepada Allah Azza wa Jalla agar memberi manfaat kepada kalian dengan simpanan yang diberkahi ini, sesungguhnya Dia-lah penolongnya dan Yang Maha Kuasa atasnya. Wassalam.
 
 ### 4. Syarah dan Penjelasan
 Wafaq Mukhammas 5×5 (kanan di scan): Matriks 5×5 = 25 petak berisi 5 huruf amal (و ا هـ د ي) yang dirotasi tiap baris — pola tadwir (perputaran). Konstanta wafaq mukhammas bukan angka (seperti mukhammas ghazali 65) melainkan huruf — tiap baris/kolom/diagonal mengandung semua 5 huruf tanpa ulang, melambangkan keseimbangan rizki dari 5 arah. Wafaq Murabba' 4×4 (kiri): 16 petak berisi 4 huruf Ruhani Hakim (م س ل ن) rotasi — melambangkan 4 penjuru/4 khadim. Keduanya ditulis di satu kertas bolak-balik (mukhammas depan, murabba' belakang) — simbol zahir (amal) & batin (ruhani). 'Azimah 196×: 196 = 14² = 196 → 14 = jumlah huruf «لا إله إلا الله المهيمن» tanpa ulang? Hitung: ل ا إ ل هـ إ ل ا ا ل ل هـ ا ل م هـ ي م ن =14 unik → 14² =196 — rahasia mizan penulis (angka «muka» — lihat hal 45: mizan ibaqi). Link forum di bawah wafaq menegaskan otentisitas digital.
@@ -261,12 +260,6 @@ Wafaq Mukhammas 5×5 (kanan di scan): Matriks 5×5 = 25 petak berisi 5 huruf ama
 - Media: Kertas putih, tinta mawar-za'faran-misk, bukhur luban/'ud salib.  
 - Adab: Niat halal, yakin Allah pemberi rizki (wafaq sabab doa, bukan jimat berkuasa), tinggalkan jika was-was. Jika hajat belum qabul, ulangi 3/7 malam berturut pada jam sama — bukan menambah jumlah wirid.  
 - Pantangan Faedah 01: Jangan gunakan untuk menipu timbangan / riba — penulis syaratkan «fimā yurdhi Allāh».
-
-![Wafaq Hal 08](rajah_anwar_FINAL_300DPI/IMG_20261025_072327.jpg)
-[Gambar: Wafaq Hal 08]
-
-![Wafaq Hal 08](rajah_anwar_FINAL_300DPI/IMG_20261025_072355.jpg)
-[Gambar: Wafaq Hal 08]
 
 ## HALAMAN 09 — FAEDAH MUHRIQAH 1/2 — فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ
 
@@ -316,9 +309,6 @@ Contoh praktik Hasan bin Ruqayyah: dari taksir nama + huruf thabi'ah diperoleh h
 ### 5. Khususiyah dan Tatacara Praktik
 Tata cara Hal10: tulis jadwal 5×15 (lihat crop), tulis Hinqāyīl di 4 sudut miring (diagonal merah), kelilingi qasam. Tulis 3 lembar + 1 piring mahw. Bakhur: 7 sidr +7 qaranful + mustaka tiap malam. Baca qasam 5× tiap lembar + pada air mahw, oles tubuh, tidur pisah. Waktu fleksibel (tidak terikat jam Zuhrah seperti Faedah01).
 
-![Wafaq Hal 10](rajah_anwar_FINAL_300DPI/IMG_20261025_072854.jpg)
-[Gambar: Wafaq Hal 10]
-
 ## HALAMAN 11 — FAEDAH QATHI'AH 1/2 — فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
 
 ### arab
@@ -360,24 +350,19 @@ Khasiat: terapi mass & buka penghalang dafā'in. Waktu: setelah Isya, kecuali Ra
 
 الشَّيْخُ الْبَشِيرُ
 مُنْتَدَى الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
-http://www.alanwaralqadria.com
-
 كِتَابَةُ الْآيَاتِ وَالسُّوَرِ تَبْدَأُ مِنْ فَوْقِ الْوَفْقِ مِنْ جِهَةِ الْيَمِينِ اتِّجَاهًا إِلَى الْيَسَارِ، وَفَّقَكُمُ اللهُ لِمَا يُحِبُّهُ وَيَرْضَاهُ
 
 ### latin
 Wafqun li'ilājil-massi, kitābatul-āyāti was-suwari tabda'u min fawqil-wafqi min jihatil-yamīni ittijāhan ilal-yasāri, waffaqakumullāhu limā yuhibbuhu wa yardhāh.
 
 ### Terjemahan
-Faedah pemutus untuk mengobati kerasukan. Wafaq untuk mengobati kerasukan. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. http://www.alanwaralqadria.com. Penulisan ayat-ayat dan surah-surah dimulai dari atas wafaq dari arah kanan menuju ke kiri. Semoga Allah memberi taufik kepada kalian pada apa yang Dia cintai dan ridhai.
+Faedah pemutus untuk mengobati kerasukan. Wafaq untuk mengobati kerasukan. Syeikh Al-Basyir. Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. Penulisan ayat-ayat dan surah-surah dimulai dari atas wafaq dari arah kanan menuju ke kiri. Semoga Allah memberi taufik kepada kalian pada apa yang Dia cintai dan ridhai.
 
 ### 4. Syarah dan Penjelasan
 Wafaq 3×3 angka Hal12 adalah wafaq 'adadi mu'addal khusus Faedah Qathi'ah — bukan wafaq Ghazali 15. Angka: 18 (baris1 kanan), 1209, 600; 1191,609,27; 618,9,1200 — jika dihitung: 18+609+1200=1827? 600+27+9=6036? Konstanta tidak 15 seperti mutsallats klasik, tapi mizan khass untuk mass. Cara tulis: mulai dari atas kanan ke kiri — sesuai kaidah kuttab Arab (kanan dulu). Doa waffaqakumullah = penutup adab.
 
 ### 5. Khususiyah dan Tatacara Praktik
 Tata cara sama Hal11 — wafaq ini yang ditulis di bejana. Tulis angka dengan tinta misk, kelilingi 5 surah/ayat Hal11 dari atas kanan ke kiri. Mahw dengan air thahir + telunjuk kanan 7×.
-
-![Wafaq Hal 12 — 3×3 — 9 angka — 600,1209,18 / 27,609,1191 / 1200,9,618 — baca kanan→kiri](hal12_crop_sharp.jpg)
-[Gambar: Wafaq Hal 12 — 3×3 — salin persis crop IMG_20261025_073117.jpg — hal12_crop_sharp.jpg — 35KB tajam]
 
 ## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
 
@@ -425,9 +410,6 @@ Halaman ini adalah **muqaddimah Zajr Qāthi‘ (Bagian 1/3)** — etika istinzā
 
 ### Khususiyah dan Tatacara Praktik
 Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). Tata cara yang diajarkan: (1) Rahasiakan niat dari nāzhir (uji buta), (2) Setelah istinzāl dan laporan “khādim hadir”, pegang dahi nāzhir dan baca At-Taubah: 46 sebanyak 7× — niat mengunci (tatsqīf), (3) Syahadatain + shalawat (memurnikan saluran), (4) Hadirkan mushaf, buka al-Mujādalah, verifikasi bacaan nāzhir, (5) Letakkan tangan kanan khādim di atas mushaf dan minta sumpah jujur — jika menolak, lanjutkan ke Hal14 (Az-Zajr al-Qāthi‘). Pantangan: jangan lakukan untuk main-main, jaga adab, jangan tanya hal merendahkan. Waktu tidak terikat, namun dianjurkan suci (wudhu) dan menghadap kiblat. Kegagalan biasanya karena thālib ghairu mutamarris — perbanyak riyādhah sebelum mengulang.
-
-![Halaman 13 — Scan 300 DPI](hal_13.png)
-[Gambar: Halaman 13 — Zajr Qathi' 1/3 — 7× At-Taubah 46 + sumpah Mujādalah]
 
 ## HALAMAN 14 — ZAJR QATHI' 2/3 — مَتْنُ الزَّجْرِ الْقَاطِعِ لِخَادِمِ الِاسْتِنْزَالِ
 
@@ -515,6 +497,3 @@ Halaman ini adalah **matan Az-Zajr al-Qāthi‘ (Bagian 2/3 — inti ancaman)**.
 
 ### Khususiyah dan Tatacara Praktik
 Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan setelah penolakan khādim untuk bersumpah. Cara baca: menghadap kiblat, dalam keadaan suci, suara tegas (jahr) tetapi tidak berteriak memekik — “*zajara zajran*” (gertakan mantap). Empat ayat dibaca berurutan dengan tartīl, lalu seruan *inzilū...* hingga *ḥattā tuthī‘ū amrī* — satu nafas jika mampu, atau pecah dua. Jangan menambah/mengurangi ayat — keempatnya adalah *rukun Zajr*. Setelah selesai, jangan lanjutkan istinzāl hari itu — *ishrāf* (pulangkan) khādim dengan salam. Keesokan harinya, istinzāl dapat dipakai untuk hajat halal — khādim kini *mu‘āhad* (terikat janji) dan akan *shādiqan bi’idznillāhi*. Larangan: jangan gunakan untuk menanyakan aib orang, judi, atau sihir pemisah — sumpah akan batal dan khādim kembali suflī. Kelebihan khusus: metode ini adalah *filter permanen* — sekali diikat, semua istinzāl berikutnya tersaring otomatis dari dusta, berbeda dengan ruqyah biasa yang bersifat temporer.
-
-![Halaman 14 — Scan 300 DPI](hal_14.png)
-[Gambar: Halaman 14 — Zajr Qathi' 2/3 — 4 ayat azab + ishrāf]

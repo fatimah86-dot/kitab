@@ -23,11 +23,7 @@ Ketahuilah wahai saudaraku, bahwa apa yang mereka letakkan mengelilingi Wafaq Th
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_62.png` — Pembersihan Total Teks Draf Karangan**:
-   - Pada draf kiriman sebelumnya, Halaman 62 ditulis sebagai `الآيات الثمانية المخصصة للطرد والحرق` (teks karangan yang tidak ada dalam kitab). Setelah diverifikasi terhadap scan asli `hal_62.png`, isi asli Halaman 62 adalah Pelajaran Kesepuluh (Terakhir): **`الْجَوَابُ الشَّافِي`** (Jawaban yang Memuaskan — Bagian 1).
-   - Catatan ortografi scan: pada baris 11 cetakan tertulis `التجيدير/التجدير`, yang maksud istilah bakunya dalam hisab adalah `التَّجْذِيرِ` (penarikan akar/jadzr bersama `الْهَدْمِ`).
-
-2. **Tiga Rahasia Besar yang Disingkap Syeikh al-Basyir pada Halaman 62**:
+1. **Tiga Rahasia Besar yang Disingkap Syeikh al-Basyir pada Halaman 62**:
    - **Rahasia 1 — Wafaq Thabī'ī Martabat Puluhan `[ كصم عهق سيح ]`**:
      - Jika Wafaq Musallas satuan adalah `[ بطد زهج واح ]` (`2-9-4 / 7-5-3 / 6-1-8`, konstanta **15**), maka Wafaq Musallas martabat puluhan-ratusannya (*al-a'syār*) adalah **`[ كصم عهق سيح ]`**:
        - Baris 1: `ك (20) | ص (90) | م (40)` = **150**

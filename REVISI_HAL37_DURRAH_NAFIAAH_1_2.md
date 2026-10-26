@@ -32,12 +32,7 @@ Adapun doanya adalah sebagai berikut:
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs `hal_37.png` — Pengembalian Doa Pengarang & Pembersihan Sisipan**:
-   - Pada draf kiriman sebelumnya, kalimat doa pengarang di baris ke-9 dan ke-10 (`أَسْأَلُ اللهَ الشِّفَاءَ وَالْعَافِيَةَ لِكُلِّ مُبْتَلًى وَأَسْأَلُهُ عَزَّ وَجَلَّ الدَّمَارَ وَالنَّكَالَ لِكُلِّ سَاحِرٍ`) terlewat dan tidak diterjemahkan di bagian `Terjemahan`. Kini kalimat tersebut telah diterjemahkan secara utuh.
-   - Subjudul sisipan `طَرِيقَةُ الْعَمَلِ:` yang tidak ada pada halaman asli telah dihapus agar struktur baris-per-baris murni mengikuti kitab.
-   - Perbaikan transliterasi: kata `مَسْحُورًا` ditulis *mas-hūran* (dengan tanda hubung agar tidak terbaca *mashūran* = مشهورا), `الشِّفَاءَ` ditulis *asy-syifā'a* (`sy`), dan `وَرَدِّهِ` dibaca *wa raddihī* (*majrūr* mengikuti `لِلسِّحْرِ` / `دَفْعِ السِّحْرِ`).
-
-2. **Makna `فَلْيُحَكِّمْ عَقْلَهُ فِيهِ` (Memfokuskan Akal/Batin pada Pelaku)**:
+1. **Makna `فَلْيُحَكِّمْ عَقْلَهُ فِيهِ` (Memfokuskan Akal/Batin pada Pelaku)**:
    - Ungkapan Syeikh al-Basyir `وَإِنْ كَانَ يَعْرِفُ مَنْ سَحَرَهُ فَلْيُحَكِّمْ عَقْلَهُ فِيهِ` bermakna: apabila korban telah mengetahui secara yakin (misalnya melalui *kasyf manāmī* pada Halaman 29–30 atau bukti nyata) siapa pelaku sihirnya, maka saat membaca *Da'wah* ini sebanyak 7 kali, ia mengikat fokus pikirannya (*tahkīmul-'aql* / *tawajjuh*) pada sosok penyihir tersebut agar pantulan *raddus-sihr* tepat mengarah kepada sumber pengirimnya. Namun jika tidak mengetahui pelakunya, cukup membaca doa ini dengan niat kesembuhan dan pengembalian sihir kepada siapa pun pembuatnya dalam ilmu Allah.
 
 ### Khususiyah dan Tatacara Praktik

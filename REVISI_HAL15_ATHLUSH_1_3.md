@@ -14,7 +14,7 @@
 ### latin
 Fā’idatun li-thardi ‘Athlūsyin mufsidil-a‘mālir-rūḥāniyyah
 
-Ikhwatī fillāh, aḍa‘u baina aidīkum hādzihil-fā’idatan-nāfi‘ata fī daf‘il-khādimil-mufsidi lil-a‘māli wanqilābihā bishaddil-marghūbi fīhā, wa huwa khādimun ismuhu [‘Athlūsyin], wal-ḥākimu ‘alaihi Abū Thārishin malikul-‘ummār.
+Ikhwatī fillāh, aḍa‘u baina aidīkum hādzihil-fā’idatan-nāfi‘ata fī daf‘il-khādimil-mufsidi lil-a‘māli wanqilābihā bishaddil-marghūbi fīhā, wa huwa khādimun ismuhu [‘Athlūsyun], wal-ḥākimu ‘alaihi Abū Thārisyin malikul-‘ummār.
 
 Taktubul-wafqa fī yadikal-yumnā bishamghin —ayil-midādil-aswadil-mustakhraji min shūfil-ghanami—, wa tubakhkhiru yadaka bil-quzburati, wa hādzā thab‘an ba‘da ishrāfil-‘ummār. Tsumma tu‘azzimu ‘alal-yadi iḥdā wa ‘isyrīna marratan, wa hādzihi hiyal-‘azīmatu:
 
@@ -40,6 +40,3 @@ Halaman ini adalah **bagian 1/2 faedah ‘Athlūsy**. Pokok masalahnya adalah *i
 
 ### Khususiyah dan Tatacara Praktik
 Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, wafaq, hizib) selalu gagal/terbalik. Syarat sah: (1) Lakukan *ishrāf al-‘ummār* terlebih dahulu (bacaan ishrāf umum, tidak dirinci di sini — pakai ishrāf Qādiriyyah standar), (2) Tinta harus *shamgh* asli — jelaga bulu domba yang dibakar lalu dicampur minyak/air mawar hingga jadi pasta hitam, bukan spidol/tinta kimia, (3) Tulisan di telapak kanan (bukan kiri), (4) Pembukhuran *quzburah* kering — tabur di atas bara, asapi tangan 1-2 menit, (5) ‘Azīmah 21× dengan tangan terangkat menghadap kiblat, (6) Tidur dengan tangan di bawah kepala — posisi *taḥannuth* (seperti tidur Rasul), bukan di atas bantal, (7) Pagi harinya hapus dengan air suci (air hujan/sumur yang tidak terkena matahari lebih utama — lihat Hal11), masukkan ke botol kaca bening (bukan plastik), (8) Ulangi 7 hari — jangan terputus; jika terputus karena haid/safar, ulang dari hari 1, (9) Hari ke-7 setelah penggalian lubang, baca Ayat Kursi 1× (sampai *khālidūn* — QS Al-Baqarah:255 mencakup *hum fīhā khālidūn* dalam riwayat, maksudnya baca sampai akhir ayat) dan al-Mulk 3× (surah pelindung kubur), (10) Pantangan mutlak: *lā taltafit abadan* — jangan menoleh ke belakang setelah mengubur; menoleh membatalkan *hijab* (penutup) dan ‘Athlūsy kembali. Waktu: tidak terikat hari Rabu/Sabtu (berbeda dengan faedah mass), tetapi dianjurkan malam hari setelah Isya agar frekuensi ‘Athlūsy aktif.
-
-![Halaman 15 — Scan 300 DPI](hal_15.png)
-[Gambar: Halaman 15 — Faedah ‘Athlūsy 1/2 — 21× azimah — 7 hari botol]

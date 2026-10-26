@@ -38,12 +38,7 @@ Semoga Allah memberikan taufik kepada kalian menuju apa yang di dalamnya terdapa
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs `hal_39.png` — Koreksi Istilah `التَّسْخِيرِ` & Pengembalian Kalimat Terjemahan yang Hilang**:
-   - Pada draf kiriman tertulis *Da'watut-tasghīri* (dengan *gh* = تَصْغِير), padahal di scan asli tertulis jelas **`دَعْوَةُ التَّسْخِيرِ`** (*Da'watut-taskhīri* dengan huruf *kh* `خ` = Doa Penundukan).
-   - Selain itu, pada bagian `Terjemahan` draf terdapat 6 potong kalimat doa yang hilang/tidak diterjemahkan (antara lain `وَأَسْأَلُكَ مَا لَا يَعْسُرُ عَلَيْكَ`, `يَا مُفَرِّجًا عَنْ كُلِّ مَكْرُوبٍ...`, `وَلَا بِنَاسٍ فَأُذَكِّرَهُ`, `يَا عَالِمًا بِالْجُمْلَةِ... يَا مِفْضَالُ`, serta penutup `فَلَكَ الْعِزَّةُ وَالْقَهْرُ... يَا مُجِيبَ الدُّعَاءِ`). Kini seluruhnya telah diterjemahkan **100% utuh kata demi kata**.
-   - Koreksi lafaz sesuai scan: `إِذْ عِلْمُكَ بِحَالِي` (*idz 'ilmuka bihālī*, bukan *inna*), `بِرَحْمَتِكَ الَّتِي وَسِعْتَ بِهَا كُلَّ شَيْءٍ` (dengan kata `بِهَا` sesuai scan).
-
-2. **Perpaduan Munajat Para Wali & Taskhīr Ruhaniyyah**:
+1. **Perpaduan Munajat Para Wali & Taskhīr Ruhaniyyah**:
    - Paragraf tengah doa ini (`إِلَهِي جُودُكَ دَلَّنِي عَلَيْكَ... كَفَى عِلْمُكَ عَنِ الْمَقَالِ`) merupakan munajat agung para ulama sufi dan auliya' yang menegaskan adab penghambaan tertinggi: bahwa penundukan (*taskhīr*) alam semesta maupun arwah ruhaniyyah hanya terjadi ketika seorang hamba menyadari kefakiran mutlaknya di hadapan ilmu dan kekuasaan Allah (`إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ`).
 
 ### Khususiyah dan Tatacara Praktik

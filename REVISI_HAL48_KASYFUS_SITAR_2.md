@@ -57,18 +57,14 @@ Sebelum itu, aku ingin memberikan isyarat penting bahwa sebagian besar penuntut 
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_48.png` & `wafaq_hal48.jpg` — Pembersihan Total Teks Draf yang Salah Halaman**:
-   - Pada draf kiriman sebelumnya, Halaman 48 ditulis sebagai `[ وَفْقُ جَلْبِ الرِّزْقِ وَالْبَرَكَةِ ]` (4×4: `14-1-4-15...`), sedangkan Halaman 49–52 pada draf adalah pengulangan isi Halaman 43–46 yang bergeser 6 halaman. Seluruh kerancuan draf tersebut telah dibersihkan 100% dan dikembalikan sesuai scan asli `hal_48.png`.
-   - Diagram 3×3 pada `wafaq_hal48.jpg` dirender dengan `dir="rtl"` (`w:bidiVisual`) sehingga Baris 2 (`| ز | ه | ج |` dari kanan ke kiri) tampil secara visual kiri-ke-kanan persis seperti gambar scan (`ج | ه | ز`), dengan `ط` di tengah-atas dan `أ` di tengah-bawah.
-
-2. **Rumus Matematis Melahirkan 4 Sudut *Azwāj* (`ب د و ح`) dari 5 Palang *Afrād* (`ا ج ه ز ط`)**:
+1. **Rumus Matematis Melahirkan 4 Sudut *Azwāj* (`ب د و ح`) dari 5 Palang *Afrād* (`ا ج ه ز ط`)**:
    - Inilah pembuktian matematis dari perumpamaan Nabi Adam (*Afrād*) dan Siti Hawa (*Azwāj*) yang disampaikan Syeikh al-Basyir pada Halaman 47:
      1) **`ط` (9, atas-tengah) + `ج` (3, kiri-tengah) = 12 ÷ 2 = `6 [ و ]`** (lahirlah sudut kanan-bawah).
      2) **`ط` (9, atas-tengah) + `ز` (7, kanan-tengah) = 16 ÷ 2 = `8 [ ح ]`** (lahirlah sudut kiri-bawah).
      3) **`ج` (3, kiri-tengah) + `ا` (1, bawah-tengah) = 4 ÷ 2 = `2 [ ب ]`** (lahirlah sudut kanan-atas).
      4) **`ا` (1, bawah-tengah) + `ز` (7, kanan-tengah) = 8 ÷ 2 = `4 [ د ]`** (lahirlah sudut kiri-atas).
 
-3. **Koreksi Besar Syeikh al-Basyir atas Kesalahpahaman Umum (`اجهزط` vs `بدوح`)**:
+2. **Koreksi Besar Syeikh al-Basyir atas Kesalahpahaman Umum (`اجهزط` vs `بدوح`)**:
    - Syeikh al-Basyir meluruskan doktrin keliru yang banyak beredar di kalangan pelajar ilmu hikmah yang mengira `اجهزط` untuk *syarr* dan `بدوح` untuk *khair*:
      - Justru **`اجهزط` (*al-Afrād* / huruf-huruf ganjil *Jalāl*) adalah pintu masuk kebaikan (*Madkhalul-Khair*)**, karena Allah itu Witir (Ganjil/Esa) dan menyukai yang ganjil, serta huruf-huruf *Afrād* merupakan pokok (*ashl*).
      - Sedangkan **`بدوح` (*al-Azwāj* / huruf-huruf genap)** digunakan sebagai **pintu masuk penolakan/penangkisan (*Madkhalud-Daf' / asy-Syarr*)**, yaitu ketika seorang ahli hikmah memulai pengisian wafaq dari keempat sudut genap terlebih dahulu untuk menolak kezaliman atau menghancurkan sihir.

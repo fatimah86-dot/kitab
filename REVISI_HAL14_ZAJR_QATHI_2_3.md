@@ -28,7 +28,7 @@
 ### latin
 Bismillāhir-raḥmānir-raḥīm, al-malikil-ḥaqqil-mubīn, alladzī qāla fī muḥkami kitābihil-karīm:
 
-﴿ Alif-Lām-Mīm, Allāhu lā ilāha illā huwal-ḥayyul-qayyūmu, nazzala ‘alaikal-kitāba bil-ḥaqqi mushaddiqan limā baina yadaihi wa anzalat-taurāta wal-injīla, min qablu hudan lin-nāsi wa anzalal-furqāna innalladzīna kafarū bi’āyātillāhi lahum ‘adzābun syadīdun wallāhu ‘azīzun dzun-tiqāmin ﴾ (QS Āli ‘Imrān: 1-4)
+﴿ [ الم ] [Rajah Huruf — tidak diterjemahkan], Allāhu lā ilāha illā huwal-ḥayyul-qayyūmu, nazzala ‘alaikal-kitāba bil-ḥaqqi mushaddiqan limā baina yadaihi wa anzalat-taurāta wal-injīla, min qablu hudan lin-nāsi wa anzalal-furqāna innalladzīna kafarū bi’āyātillāhi lahum ‘adzābun syadīdun wallāhu ‘azīzun dzun-tiqāmin ﴾ (QS Āli ‘Imrān: 1-4)
 
 ﴿ Sanulqī fī qulūbilladzīna kafarūr-ru‘ba bimā asyrakū billāhi mā lam yunazzil bihi sulthānan wa ma’wāhumun-nāru wa bi’sa matswāzh-zhālimīna ﴾ (QS Āli ‘Imrān: 151)
 
@@ -55,7 +55,7 @@ Teks Gertakan Pemutus Khādim Istinzāl (Az-Zajr al-Qāthi‘):
 
 “Dengan nama Allah Yang Maha Pengasih Maha Penyayang, Yang Merupakan Raja Yang Maha Benar lagi Maha Nyata, Yang berfirman dalam Kitab-Nya yang muhkam lagi mulia:
 
-• ‘Alif Lām Mīm. Allah, tiada tuhan selain Dia Yang Maha Hidup lagi terus-menerus mengurus (makhluk-Nya). Dia menurunkan kepadamu Kitab dengan hak, membenarkan apa yang ada di hadapannya, dan menurunkan Taurat dan Injil — sebelumnya sebagai petunjuk bagi manusia — dan menurunkan al-Furqān. Sesungguhnya orang-orang yang kafir terhadap ayat-ayat Allah, bagi mereka azab yang keras, dan Allah Mahaperkasa Pemilik balasan siksaan’ (QS Āli ‘Imrān: 1-4).
+• ‘[ الم ] [Rajah Huruf — tidak diterjemahkan]. Allah, tiada tuhan selain Dia Yang Maha Hidup lagi terus-menerus mengurus (makhluk-Nya). Dia menurunkan kepadamu Kitab dengan hak, membenarkan apa yang ada di hadapannya, dan menurunkan Taurat dan Injil — sebelumnya sebagai petunjuk bagi manusia — dan menurunkan al-Furqān. Sesungguhnya orang-orang yang kafir terhadap ayat-ayat Allah, bagi mereka azab yang keras, dan Allah Mahaperkasa Pemilik balasan siksaan’ (QS Āli ‘Imrān: 1-4).
 
 • ‘Akan Kami masukkan ke dalam hati orang-orang kafir rasa takut disebabkan mereka mempersekutukan Allah dengan sesuatu yang Allah tidak menurunkan keterangan pun tentangnya, dan tempat kembali mereka ialah neraka, dan seburuk-buruk tempat tinggal orang-orang zhalim’ (QS Āli ‘Imrān: 151).
 
@@ -73,7 +73,7 @@ Tahap Pengikatan Janji:
 
 Maka dengan cara seperti inilah ia (khādim) akan berjanji kepadamu dan meletakkan tangannya di atas surah (al-Mujādalah di mushaf). Pada saat itu bacalah ayat:
 
-﴿ وَأَوْفُوا بِعَهْدِ اللهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللهَ عَلَيْكُمْ كَفِيلًا ﴾ ] (QS an-Naḥl: 91)
+﴿ Dan tepatilah perjanjian dengan Allah apabila kamu berjanji, dan janganlah kamu membatalkan sumpah-sumpah(mu) itu sesudah meneguhkannya, sedang kamu telah menjadikan Allah sebagai saksimu (terhadap sumpah-sumpahmu itu) ﴾ ] (QS. an-Nahl: 91).
 
 Kemudian pulangkanlah ia (ishrāf) dan jangan melakukan istinzāl pada hari itu juga. Maka sesungguhnya jika kamu melakukan istinzāl setelahnya (hari berikutnya), kamu akan mendapati apa yang ia katakan kepadamu adalah benar dan ia akan senantiasa jujur bersamamu — dengan izin Allah.
 
@@ -84,6 +84,3 @@ Halaman ini adalah **matan Az-Zajr al-Qāthi‘ (Bagian 2/3 — inti ancaman)**.
 
 ### Khususiyah dan Tatacara Praktik
 Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan setelah penolakan khādim untuk bersumpah. Cara baca: menghadap kiblat, dalam keadaan suci, suara tegas (jahr) tetapi tidak berteriak memekik — “*zajara zajran*” (gertakan mantap). Empat ayat dibaca berurutan dengan tartīl, lalu seruan *inzilū...* hingga *ḥattā tuthī‘ū amrī* — satu nafas jika mampu, atau pecah dua. Jangan menambah/mengurangi ayat — keempatnya adalah *rukun Zajr*. Setelah selesai, jangan lanjutkan istinzāl hari itu — *ishrāf* (pulangkan) khādim dengan salam. Keesokan harinya, istinzāl dapat dipakai untuk hajat halal — khādim kini *mu‘āhad* (terikat janji) dan akan *shādiqan bi’idznillāhi*. Larangan: jangan gunakan untuk menanyakan aib orang, judi, atau sihir pemisah — sumpah akan batal dan khādim kembali suflī. Kelebihan khusus: metode ini adalah *filter permanen* — sekali diikat, semua istinzāl berikutnya tersaring otomatis dari dusta, berbeda dengan ruqyah biasa yang bersifat temporer.
-
-![Halaman 14 — Scan 300 DPI](hal_14.png)
-[Gambar: Halaman 14 — Zajr Qathi' 2/3 — 4 ayat azab + ishrāf]

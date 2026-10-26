@@ -128,7 +128,7 @@ Atau dalam judul buku yang natural:
 **Catatan istilah:**
 - **Anwār** (أَنْوَار) = jamak dari *nūr* (cahaya). Diterjemahkan «Cahaya-Cahaya» untuk menunjukkan banyaknya faedah/cahaya ilmu, bukan satu cahaya.
 - **Syeikh al-Basyir** = nama penulis/pengijazah (الشيخ البشير) — bukan sifat umum. Dipertahankan sebagai nama diri; jika diterjemahkan harfiah bermakna "Guru Pemberi Kabar Gembira".
-- **Muntadayāt** = forum/majelis/jaringan situs. Konteks: forum internet sufi Qadiriyah tempat naskah ini pertama kali disebar (http://www.alanwaralqadria.com — lihat khatimah hal 65).
+- **Muntadayāt** = forum/majelis/jaringan situs. Konteks: forum internet sufi Qadiriyah tempat naskah ini pertama kali disebar (— lihat khatimah hal 65).
 - **al-Qādiriyyah** = nisbah kepada Thariqah Qadiriyah (Syaikh Abdul Qadir al-Jilani). Di-Indonesia-kan «Qadiriyah» (KBBI).
 - **al-Rahmāniyyah** = nisbah kepada sifat *al-Rahman* (Maha Pengasih) — juga nama thariqah/varian Rahmaniyah yang berafiliasi. Diterjemahkan «Rahmaniyah».
 ## 6) Syarah

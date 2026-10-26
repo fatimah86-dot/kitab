@@ -57,7 +57,7 @@ Wafaq musallas 3×3 (lihat Hal. 28) — ditulis dengan angka asror dan dibingkai
 
 Sepuluh ayat pembatal hembusan dan sihir.
 
-Wahai saudara-saudaraku karena Allah, aku letakkan untuk kalian faedah yang bermanfaat ini dengan izin Allah dalam membatalkan sihir. Ia termasuk amalan huruf dan wafaq yang telah diikat pada jam astrologi tertentu agar faedah tetap فعال terus-menerus dalam kerjanya dan tidak terlepas hingga Allah 'azza wa jalla menghendaki. Waktu penulisannya ialah pada jam Bulan (sā'atul-qamar) di hari apa pun dengan tinta ruhani yang suci.
+Wahai saudara-saudaraku karena Allah, aku letakkan untuk kalian faedah yang bermanfaat ini dengan izin Allah dalam membatalkan sihir. Ia termasuk amalan huruf dan wafaq yang telah diikat pada jam astrologi tertentu agar faedah tersebut tetap aktif berdaya guna (fa''ālah) secara terus-menerus dalam kerjanya dan tidak terlepas hingga Allah 'azza wa jalla menghendaki. Waktu penulisannya ialah pada jam Bulan (sā'atul-qamar) di hari apa pun dengan tinta ruhani yang suci.
 
 Wafaq tsulātsī (3×3) ditulis dan dikelilingi dari empat arahnya dengan basmalah yang mulia, dimulai dari kanan bawah menuju ke kiri, kemudian sepuluh ayat tersebut — yang diistilahkan sebagai sepuluh “qālā” — diputar mengelilinginya; sembilan di antaranya dari Surah asy-Syu'arā' dan satu ayat dari Surah Yūnus, yaitu:
 

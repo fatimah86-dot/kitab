@@ -23,10 +23,7 @@ Pertama-tama: Malaikat adalah salah satu makhluk ciptaan Allah 'Azza wa Jalla ya
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_63.png` — Pembersihan Total Teks Draf Karangan**:
-   - Pada draf kiriman sebelumnya, Halaman 63 ditulis sebagai `شمطئيل = 400 - 51` (teks karangan yang tidak ada dalam kitab). Setelah diverifikasi terhadap scan asli `hal_63.png`, isi asli Halaman 63 adalah bagian kedua dari Pelajaran Kesepuluh **`الْجَوَابُ الشَّافِي`** yang menjawab **Pertanyaan Kedua (`السُّؤَالُ الثَّانِي`)**.
-
-2. **Penjelasan Akidah & Rahasia Istilah *Baitu Jibrīl* dalam Ilmu Wafaq**:
+1. **Penjelasan Akidah & Rahasia Istilah *Baitu Jibrīl* dalam Ilmu Wafaq**:
    - Syeikh al-Basyir menegaskan akidah Ahlussunnah wal-Jama'ah tentang kemuliaan para Malaikat Muqarrabīn (*Jibrīl, Mīkā'īl, Isrāfīl, Mālik*, dan *Malakul-Maut*) serta meluruskan kesalahpahaman besar: nama-nama malaikat agung tersebut **bukanlah hasil hitungan wafaq dan tidak tunduk pada taukil wafaq manusia**.
    - Adapun istilah para ahli hikmah yang menamai empat sisi wafaq atau kamar tertentu dengan sebutan *"Baitu Jibrīl"*, *"Baitu Mīkā'īl"*, *"Baitu Isrāfīl"*, atau *"Baitu 'Azrā'īl"* hanyalah **kode simbolis (*tamwīh / isyārah*)** terhadap **jenis fungsi khadim rūhānī** yang diekstraksi dari kamar tersebut:
      - *Baitu Jibrīl* = kamar tempat mengekstraksi khadim rūhānī untuk fungsi **mendatangkan berita/kasyf (*jalbul-akhbār*)**, karena tugas Jibril adalah membawa wahyu/berita langit.

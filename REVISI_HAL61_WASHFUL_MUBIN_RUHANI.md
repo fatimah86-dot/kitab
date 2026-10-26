@@ -36,7 +36,7 @@ Wahai saudara-saudaraku karena Allah, ini adalah penjelasan tentang tata cara me
 [ ز ي د ] [Rajah Huruf — tidak diterjemahkan] = 3 huruf
 [ ز ا ي ي ا د ا ل ] [Rajah Huruf — tidak diterjemahkan] = 8 huruf (hasil uraian lafal)
 3 dikalikan 8 = 24, ditulis dengan huruf: [ ا ر ب ع ة و ع ش ر و ن ] [Rajah Huruf — tidak diterjemahkan] (arba'atun wa 'isyrūna); uraian ejaan huruf-hurufnya adalah seperti ini:
-[ ا ل ف ر ا ب ا ع ي ن ت ا و ا و ع ي ن ش ي ن ر ا و ا و ن و ن ] [Rajah Huruf — tidak diterjemahkan]. Kita hilangkan huruf-huruf mad-nya (yakni huruf mad di tengah kata ejaan seperti yā' pada 'ain/syīn dan alif pada wāw/nūn), sehingga menjadi:
+[ ا ل ف ر ا ب ا ع ي ن ت ا و ا و ع ي ن ش ي ن ر ا و ا و ن و ن ] [Rajah Huruf — tidak diterjemahkan]. Kita hilangkan huruf-huruf mad-nya (yakni huruf mad di tengah ejaan huruf seperti [ ي ] pada [ ع ي ن / ش ي ن ] dan [ ا ] pada [ و ا و / ن و ن ]), sehingga menjadi:
 [ ا ل ف ر ا ب ا ع ن ت ا و و ع ن ش ن ر ا و و ن ن ] [Rajah Huruf — tidak diterjemahkan]. Lalu kita pungut huruf-hurufnya dengan hitungan kelipatan tiga (bit-tatslīts) dimulai dari huruf [ ف ] [Rajah Huruf — tidak diterjemahkan], sehingga menghasilkan:
 [ ف ا ا ن ا و ن ن ا و ن ] [Rajah Huruf — tidak diterjemahkan]. Kemudian kita hilangkan huruf-huruf yang berulang (izālatut-tikrār) dari deret huruf ini, sehingga tersisa:
 [ ف ا ن و ] [Rajah Huruf — tidak diterjemahkan]; inilah huruf-huruf khadim rūhānī untuk nama Zaid. Berdasarkan hal itu, maka nama khadim rūhānī-nya setelah ditambahkan akhiran [ آيِيل ] (āyīl) adalah: [ فَانَوَآيِيلُ ] (Fānawāyīlu).
@@ -44,11 +44,7 @@ Semoga Allah memberikan manfaat kepadaku dan kepada kalian, membimbing kita menu
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_61.png` — Pembersihan Total Teks Draf Karangan**:
-   - Pada draf kiriman sebelumnya, Halaman 61 ditulis sebagai `قَفَأَطَيْشٌ = 500 - 319` (teks karangan yang tidak ada dalam kitab). Setelah diverifikasi terhadap scan asli `hal_61.png`, isi asli Halaman 61 adalah Pelajaran Kesembilan: **`الْوَصْفُ الْمُبِينُ بَعْدَ تَمْوِيهِ الْمُدَّعِينَ فِي كَيْفِيَّةِ اسْتِخْرَاجِ الرُّوحَانِيِّ`**.
-   - Seluruh deret huruf Hijaiyah terpisah (`[ ز ي د ]`, `[ ز ا ي ي ا د ا ل ]`, `[ ا ر ب ع ة و ع ش ر و ن ]`, `[ ا ل ف ر ا ب ا ع ي ن ت ا و ا و ع ي ن ش ي ن ر ا و ا و ن و ن ]`, `[ ا ل ف ر ا ب ا ع ن ت ا و و ع ن ش ن ر ا و و ن ن ]`, `[ ف ]`, `[ ف ا ا ن ا و ن ن ا و ن ]`, `[ ف ا ن و ]`) tetap dipertahankan dalam huruf Arab aslinya tanpa dilatinkan dan diberi keterangan `[Rajah Huruf — tidak diterjemahkan]`.
-
-2. **Perbandingan Presisi Ekstraksi *Rūhānī* (Hal 61) vs *Suflī* (Hal 55) pada Nama `زَيْد`**:
+1. **Perbandingan Presisi Ekstraksi *Rūhānī* (Hal 61) vs *Suflī* (Hal 55) pada Nama `زَيْد`**:
    Halaman 61 ini melengkapi pasangan rahasia yang telah disinggung Syeikh al-Basyir pada Halaman 55:
    - **Persamaan Awal (Langkah 1–4)**:
      - `ز ي د` = **3 huruf**; uraian lafalnya `ز ا ي ي ا د ا ل` = **8 huruf**.

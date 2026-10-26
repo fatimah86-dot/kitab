@@ -53,17 +53,12 @@ Assalamu'alaikum warahmatullahi wabarakatuh. Wahai saudara-saudaraku karena Alla
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs `hal_33.png` (Koreksi Lafaz & Transliterasi)**:
-   - **Poin 7 (`تِلَاوَةُ دَعْوَةِ التَّسْخِيرِ`)**: Pada draf tertulis *Tilāwatu da'watit-tasghīri* (dengan *gh*), padahal di kitab asli tertulis **`التَّسْخِيرِ`** (*Tilāwatu da'watit-taskhīri* dengan huruf *kh* = Doa Penundukan yang akan dijabarkan pada halaman selanjutnya).
-   - **Poin 9 (`قَدْرَ مُسْتَطَاعِ الطُّلَّابِ`)**: Pada scan asli tertulis bentuk jamak `الطُّلَّابِ` (*ath-thullābi*), bukan bentuk tunggal *ath-thālibi*.
-   - **Kaidah Huruf `ظ` (`zh`), `ص` (`sh`), dan `ش` (`sy`)**: Kata `عُظْمَى` ditulis *'uzhmā* (`zh`), `وَالتَّصْرِيفِ` ditulis *wat-tashrīfi* (`sh`), `التَّحْصِينِ` ditulis *at-tahshīni* (`sh`), dan `مُعْضِلَةٍ` dibaca *mu'dhilatin* (dengan dhammah mim sebagai *isim fā'il* dari *a'dhala*, bukan *ma'dhilatin*).
-
-2. **Dua Penyebab Kegagalan Amalan (`In'idāmul-Ijābah wat-Tashrīf`)**:
+1. **Dua Penyebab Kegagalan Amalan (`In'idāmul-Ijābah wat-Tashrīf`)**:
    - Syeikh al-Basyir mendiagnosis secara tajam mengapa banyak pengamal kitab hikmah gagal memperoleh hasil:
      1) **Faktor Metodologis (`Ghaflatuth-Thālib 'an Kaifiyyatil-'Amal`)**: Pengamal langsung membaca *'azīmah* atau menulis *wafaq* tanpa menjalankan urutan pembuka dan penutup yang baku.
      2) **Faktor Gangguan Ruhani (`'Awāridh`)**: Adanya penghalang pada diri pengamal atau tempat amalan yang memutus hubungan batin (*al-ittishāl*) dengan hajatnya.
 
-3. **Rahasia Bilangan Istighfar 1000× & Shalawat 406×**:
+2. **Rahasia Bilangan Istighfar 1000× & Shalawat 406×**:
    - **Istighfar 1000×** adalah bilangan *kulliyyah* (kesempurnaan pembersihan) untuk menggugurkan karat dosa yang menghalangi *ijābah*.
    - **Shalawat 406×**: Dalam disiplin hisab Abjad (*Jumal Kabīr*), angka **406** adalah nilai huruf **`ت`** (*Tā'* = 400) + **`و`** (6) yang mengisyaratkan *Taubah* dan *Tawajjuh*, serta nilai kalimat-kalimat pembuka nurani yang menyambungkan ruh pengamal dengan syafaat Rasulullah ﷺ.
 

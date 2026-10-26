@@ -1,26 +1,49 @@
-## HALAMAN 02 — IHDA' — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
+## HALAMAN 02 — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
-إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
+إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
-أُهْدِي هَذَا الْعَمَلَ إِلَى سَيِّدِي رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ
+أُهْدِي هَذَا الْعَمَلَ إِلَى سَيِّدِي رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ
 
-وَإِلَى آلِ بَيْتِهِ الطَّيِّبِينَ الْأَخْيَارِ
+وَإِلَى آلِ بَيْتِهِ الطَّيِّبِينَ الْأَخْيَارِ
 
-وَلِلشَّيْخِ الْفَقِيرِ الْقَادِرِيِّ
+وَلِلشَّيْخِ الْفَقِيرِ الْقَادِرِيِّ
 
-وَلِلدُّكْتُورِ بِيهُونِي
+وَلِلدُّكْتُورِ بِيهُونِي
 
 وَإِلَى جَمِيعِ الْفُقَرَاءِ
 
 ### latin
-Ihdā'usy-Syaikhil-Basyīr, uhdī hādzal-'amala ilā Sayyidī Rasūlillāhi shallallāhu 'alaihi wa sallam, wa ilā Āli baitihits-Thayyibīnal-Akhyār, wa lisy-Syaikhil-Faqīril-Qādiriyy, wa lid-Duktūri Bīhūnī, wa ilā jamī'il-Fuqarā'.
+Ihdā'usy-Syaikhil-Basyīri
+
+Uhdī hādzal-'amala ilā Sayyidī Rasūlillāhi shallallāhu 'alaihi wa sallama
+
+Wa ilā Āli baitihith-Thayyibīnal-Akhyāri
+
+Wa lisy-Syaikhil-Faqīril-Qādiriyyi
+
+Wa lid-Duktūri Bīhūnī
+
+Wa ilā jamī'il-Fuqarā'i
 
 ### Terjemahan
-Persembahan Syeikh Al-Basyir. Aku hadiahkan karya ini kepada junjunganku Rasulullah shallallahu 'alaihi wa sallam, kepada keluarga beliau yang baik dan terpilih, kepada Syeikh Al-Faqir Al-Qadiri, kepada Dr. Baihuni, dan kepada seluruh fuqara.
+Persembahan Syeikh al-Basyir.
 
-### 4. Syarah dan Penjelasan
-Ihda' adalah adab sufi: menghadiahkan pahala karya kepada Nabi & Ahlul Bait sebelum ilmu disebar — menandakan keberkahan sanad. Syaikh al-Faqir al-Qadiri adalah guru thariqah penulis (disebut juga di ijazah hal 03: «athāla Allāhu lanā fī 'umrih» — semoga dipanjangkan umur). Dr. Bihuni (بيهوني) kemungkinan peneliti/mentor akademik forum — disebut setara guru, menunjukkan kolaborasi sufi-akademik. Fuqara (فقراء) bukan fakir miskin harta, tetapi «faqir ilallāh» — murid yang merasa butuh kepada Allah, istilah Qadiriyah untuk ikhwan.
+Aku hadiahkan karya ini kepada junjunganku Rasulullah shallallahu 'alaihi wa sallam,
 
-### 5. Khususiyah dan Tatacara Praktik
-Halaman ihda' tidak ada ritual khusus — fungsinya niyyah & sanad. Adab: baca ihda' dengan khushu', hadiahkan Fatihah setelahnya (seperti ijazah hal 03: shalawat + Fatihah untuk Nabi, guru, diri). Tidak perlu menulis/membakar halaman ini.
+dan kepada keluarga beliau (Ahlulbait) yang suci lagi terpilih,
+
+dan kepada Syeikh al-Faqir al-Qadiri,
+
+dan kepada Doktor Bihuni,
+
+dan kepada seluruh kaum fuqara (para penempuh jalan ruhani).
+
+### Syarah dan Penjelasan
+1. **Adab Sanad & Persembahan (*Ihdā'*)**:
+   - Halaman ini memuat persembahan (*ihdā'*) karya dari Syeikh al-Basyir kepada junjungan utama Rasulullah ﷺ beserta Ahlulbait beliau (`آلِ بَيْتِهِ الطَّيِّبِينَ الْأَخْيَارِ`), yang menegaskan kemurnian adab bertawasul dalam tradisi thariqah.
+   - Penyebutan **Syeikh al-Faqir al-Qadiri** dan **Dr. Bihuni** serta seluruh *fuqarā'* (`الْفُقَرَاء` — istilah sufi Qadiriyah bagi para murid yang merasa fakir/butuh hanya kepada Allah Ta'ala) menunjukkan pertautan sanad keilmuan kitab ini di lingkungan *Muntadā al-Anwār al-Qādiriyyah wal-Arwāh ar-Rahmāniyyah*.
+
+### Khususiyah dan Tatacara Praktik
+1. **Niat & Tawasul Pembuka**:
+   - Halaman *ihdā'* tidak memuat wirid khusus, melainkan dibaca sebagai adab pembuka untuk menyambungkan hati dan sanad keilmuan sebelum mengamalkan isi kitab (dilanjutkan dengan kaidah penerimaan ijazah umum pada Halaman 03).

@@ -50,17 +50,12 @@ Dan Allah-lah Yang Maha Memberi taufik.
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs `hal_36.png` — Koreksi Transliterasi `sy` dan `kh` serta Lafaz Kitab**:
-   - Sesuai kaidah baku yang telah ditetapkan (huruf ش wajib ditulis `sy` bukan `sh`, dan huruf خ wajib ditulis `kh` bukan `x`), lafaz `أَهُوشٍ` dan `أَشْمَخٍ شَمَاخٍ` yang pada draf ditulis *Ahwashin* dan *Asymaxin Syamāxin* telah dikoreksi menjadi **`Ahūsyin`** (pada scan diberi harokat kasrah di bawah ha' sebelum wawu) dan **`Asymakhin Syamākhin`**.
-   - Lafaz `آهِيًّا شَرَاهِيًّا` pada scan ditulis dengan alif di akhir (`آهيا شراهيا`), dan di bagian bawah halaman kalimat penutup `وَاللهُ الْمُوَفِّقُ` yang terlewat pada terjemahan draf telah dikembalikan utuh.
-   - Subjudul tambahan `* التَّكْرَارُ:` dan `* الْبَخُورُ:` pada draf yang tidak ada di halaman kitab asli telah dihapus sehingga baris-per-baris murni mengikuti kitab.
-
-2. **Makna Asma Suryaniyyah/Ibraniyyah & Empat Tugas Malaikat Muqarrabin**:
+1. **Makna Asma Suryaniyyah/Ibraniyyah & Empat Tugas Malaikat Muqarrabin**:
    - **`أَشْمَخٍ شَمَاخٍ`** (*Asymakhin Syamākhin*): Dalam literatur hikmah klasik bermakna *al-'Aliyyul-'Azhīm* (Dzat Yang Maha Tinggi lagi Maha Agung).
    - **`آهِيًّا شَرَاهِيًّا آدُونَايَ أَصْبَاؤُوتَ آلِ شَدَّايَ`**: Merupakan rangkaian Asma Agung (*al-Hayyul-Qayyūm, Rabbush-Shabā'ūt, al-Qādirul-Kāfī*) yang menjadi sumpah pengikat (*qasam*) paling dihormati oleh para penghuni halus ruangan (*'ummārul-makān*).
    - Empat sifat malaikat utama: *Nafkhatu Isrāfīl* (tiupan sangkakala), *Qabdhatu 'Izrā'īl* (genggaman pencabut ruh), *Mathratu Mīkā'īl* (curahan hujan/rezeki), dan *Habthatu Jabrā'īl* (turunnya wahyu) melambangkan empat unsur dan empat penjuru kekuasaan malaikat yang menjaga ruang amalan.
 
-3. **Adab Pemindahan Sementara & Pengembalian (`Wa 'Ūdū Kamā Kuntum`)**:
+2. **Adab Pemindahan Sementara & Pengembalian (`Wa 'Ūdū Kamā Kuntum`)**:
    - Perhatikan bahwa di dalam teks *ishrāf* ini sudah terdapat kalimat izin kembali setelah amalan usai (`حَتَّى أُنْهِيَ عَمَلِي بِسُهُولَةٍ وَعُودُوا كَمَا كُنْتُمْ... بِسَلَامٍ آمِنِينَ` — *hingga aku menyelesaikan amalanku dengan mudah, dan kembalilah kalian sebagaimana keadaan kalian semula... dengan selamat dan aman*). Hal ini menjadikan formula *ishrāf* Syeikh al-Basyir ini aman: para *'ummār* (jin mukmin penghuni rumah) tidak disakiti, melainkan diminta menyingkir sementara selama proses penulisan wafaq atau pembacaan *da'wah* berlangsung, lalu kembali dengan damai setelah selesai.
 
 ### Khususiyah dan Tatacara Praktik

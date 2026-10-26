@@ -47,11 +47,7 @@ Daftar isi pelajaran-pelajaran Syeikh al-Basyir
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_44.png` — Pembersihan Total Teks Draf yang Bukan Isi Kitab**:
-   - Pada draf kiriman sebelumnya, Halaman 44 ditulis sebagai `[ وَفْقُ الِاسْمِ الْأَعْظَمِ الْجَلَالِيِّ ]` dengan tabel 3×3 (`67-60-65...`). Setelah diverifikasi terhadap scan asli `hal_44.png`, teks tersebut **sama sekali tidak ada dalam kitab asli**.
-   - Halaman 44 yang asli adalah **`فِهْرِسُ دُرُوسِ الشَّيْخِ الْبَشِيرِ`** (Daftar Isi Pelajaran-Pelajaran Syeikh al-Basyir) yang memuat 10 judul pelajaran inti Ilmu Huruf dan Wafaq.
-
-2. **Pemenuhan Janji Pengarang pada Halaman 34**:
+1. **Pemenuhan Janji Pengarang pada Halaman 34**:
    - Ingat kembali bahwa pada Halaman 34 (*Tanbīhul-Labīb*), Syeikh al-Basyir berjanji: *"Dan aku akan meletakkan untuk kalian, wahai saudara-saudaraku karena Allah, tata cara menghitung lama hari dan jumlah bacaan khusus dalam hal ini..."* (`وَسَأَضَعُ لَكُمْ إِخْوَتِي فِي اللهِ طَرِيقَةَ حِسَابِ الْمُدَّةِ وَعَدَدِ التِّلَاوَةِ بِهَذَا الْخُصُوصِ`).
    - Janji tersebut ditepati secara sistematis pada Poin 3, 4, 5, dan 6 dalam daftar isi Halaman 44 ini (`إِثْبَاتُ الْجُمْلَةِ`, `إِثْبَاتُ الْجُمْلَةِ الزَّائِدَةِ`, `قَاعِدَةُ اسْتِخْرَاجِ عَدَدِ التِّلَاوَةِ لِكُلِّ طَالِبٍ`, dan `التِّرْيَاقُ لِكُلِّ طَالِبٍ لِمَعْرِفَةِ أَسْمَاءِ الْخَالِقِ`).
 
