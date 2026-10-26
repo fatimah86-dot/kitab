@@ -33,14 +33,7 @@ Rahasia-rahasia para tokoh ahli hikmah (ar-rijāl) dalam menggunakan ayat-ayat A
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_57.png` & `wafaq_hal57.jpg` — Pembersihan Total Teks Draf Karangan**:
-   - Pada draf kiriman sebelumnya, Halaman 57 ditulis sebagai `إِثْبَاتُ الْجُمْلَةِ الزَّائِدَةِ - الدرس الرابع` (teks karangan yang tidak ada dalam kitab). Setelah diverifikasi terhadap scan asli `hal_57.png` dan `wafaq_hal57.jpg`, halaman ini adalah kelanjutan langsung dari akhir Halaman 56 (`وَالْوَضْعُ يَكُونُ بِتَرْتِيبٍ مِنَ الْأَصْغَرِ إِلَى الْأَكْبَرِ هَكَذَا ،`), yang menampilkan diagram **Wafaq Musallas Huruf 3×3** hasil ekstraksi ayat `اخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ`.
-   - Sesuai pedoman baku workspace, huruf-huruf di dalam tabel wafaq **tidak dilatinkan dan tidak diterjemahkan**, serta disusun dalam orientasi kanan-ke-kiri (`dir="rtl"`):
-     - **Baris 1 (kanan→kiri)**: `| د | ق | و |` *(tampilan visual kiri→kanan pada gambar: `و | ق | د`)*
-     - **Baris 2 (kanan→kiri)**: `| ص | ن | ز |` *(tampilan visual kiri→kanan pada gambar: `ز | ن | ص`)*
-     - **Baris 3 (kanan→kiri)**: `| ر | ا | ض |` *(tampilan visual kiri→kanan pada gambar: `ض | ا | ر`)*
-
-2. **Bukti Presisi Pemetaan 9 Huruf ke Dalam Kamar `[ اجهزط ]` dan `[ بدوح ]`**:
+1. **Bukti Presisi Pemetaan 9 Huruf ke Dalam Kamar `[ اجهزط ]` dan `[ بدوح ]`**:
    - Perhatikan bagaimana kesembilan huruf hasil ekstraksi Halaman 56 menempati kamar-kamar *Musallas Thabī'ī* (`١` s.d. `٩`) secara berurutan dari nilai Abjad terkecil ke terbesar:
      - **Kelompok *Afrād* (`[ ص ا ن ق ز ]` → diurutkan menjadi `ا [1] ، ز [7] ، ن [50] ، ص [90] ، ق [100]`)**:
        - Kamar 1 (`ا` — Bawah-Tengah): diisi **`ا`** (1)

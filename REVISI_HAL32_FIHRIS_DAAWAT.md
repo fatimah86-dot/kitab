@@ -44,12 +44,7 @@ Daftar isi doa-doa dan riyadhah-riyadhah Syeikh al-Basyir
 
 ### Syarah dan Penjelasan
 
-1. **Koreksi 3× atas Draf Kiriman vs `hal_32.png`**:
-   - **Poin 6 (`دَعْوَةُ التَّسْخِيرِ نَسْأَلُ اللهَ الْإِجَابَةَ`)**: Pada draf tertulis *Da'watut-Tasghīri* (dengan huruf *gh* yang berarti pengecilan/penghinaan `تَصْغِير`), padahal di kitab asli tertulis jelas **`التَّسْخِيرِ`** dengan huruf *kh* (`خ`) yaitu ***Da'watut-taskhīri*** (Doa Penundukan). Selain itu, kalimat doa pengarang `نَسْأَلُ اللهَ الْإِجَابَةَ` (*"kami memohon kepada Allah pengabulannya"*) pada terjemahan draf sempat dihilangkan dan kini telah dikembalikan secara utuh.
-   - **Poin 4 & 8**: Perbaikan transliterasi huruf *shād* (`ص`) pada `بِصِحَّتِهِ` (*bishihhatihī*, bukan *bisihhatihī*) dan `التَّحْصِينُ` (*at-tahshīnul*, bukan *at-tahsīnul*), serta *syīn* (`ش`) pada `الشَّيْخِ` (*asy-Syaikhil*) dan `الْمَشْهُودُ` (*al-masyhūdu*).
-   - **Poin 5 (`وَرَدِّهِ عَلَى فَاعِلِهِ`)**: Kata `وَرَدِّهِ` dibaca *majrūr* (*wa raddihī*) karena *ma'thūf* (mengikuti hukum i'rab) pada kata `لِلسِّحْرِ` (*majrūr* dengan huruf jar *lām*).
-
-2. **Sistematika 9 Bab Bagian Kedua Kitab**:
+1. **Sistematika 9 Bab Bagian Kedua Kitab**:
    - Syeikh al-Basyir menyusun bagian kedua ini dengan urutan metodologis yang sangat rapi:
      - **Fondasi Ilmu & Adab (Bab 1–2)**: *Muqaddimah Hāmmah* dan *Tanbīhul-Labīb* sebagai pedoman syarat, adab, serta rambu-rambu bagi pengamal *da'wah* dan *riyādhah*.
      - **Kesiapan Batin & Tempat (Bab 3–4 & 8)**: *Da'watut-Tafwīdh* (penyerahan urusan kepada Allah), *Ishrāful-'Ummār* (sterilisasi tempat amalan dari gangguan jin penghuni ruang), serta *at-Tahshīn al-Mau'ūd bih* (benteng penjagaan diri yang telah dijanjikan pengarang pada bagian pertama kitab).

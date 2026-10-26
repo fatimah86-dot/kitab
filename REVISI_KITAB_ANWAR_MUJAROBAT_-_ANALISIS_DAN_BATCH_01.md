@@ -10,7 +10,7 @@
 ## A. IDENTIFIKASI KITAB ASLI YANG DITERIMA
 
 ### 1. Sampul & Kolofon
-- **Halaman 1 (Sampul):** Judul **أنوار الشيخ البشير** — *Anwar al-Syaikh al-Basyir*, dengan sub-footer: *Muntadayat al-Anwar al-Qadariyah wa al-Arwah al-Rahmaniyah* (Forum Cahaya Qadiriyah & Ruh-ruh Rahmaniyah) — situs rujukan `http://www.alanwaralqadria.com`.
+- **Halaman 1 (Sampul):** Judul **أنوار الشيخ البشير** — *Anwar al-Syaikh al-Basyir*, dengan sub-footer: *Muntadayat al-Anwar al-Qadariyah wa al-Arwah al-Rahmaniyah* (Forum Cahaya Qadiriyah & Ruh-ruh Rahmaniyah) — situs rujukan ``.
 - **Halaman 2 (Ihda’):** Ehdā`ul-Syaikh al-Basyir — persembahan pahala kepada Rasulullah SAW, Ahlul Bait, Syaikh al-Faqir al-Qadiri, Dr. Bihouni, dan seluruh fuqara.
 - **Halaman 3 (Ijāzah ‘Āmmah):** *“Laqad ajaztu kulla man washala ilaihi fawā`idī wa riyādhātī ijāzatan ‘āmmah fīmā yardhallāhu wa rasūluhu wa yaqūmu bihā ba’da ṣalāt ‘alā al-Habīb al-Musthafā wa qirā`at al-Fātihah wa ihdā` thawābihā li-rūh al-Habīb Muhammad SAW wa ilā rūh syaikhī … wa ilā Syaikh al-Faqir al-Qadiri athālallāhu lanā fī ‘umrih…”* — Artinya: Syeikh Basyir memberikan ijazah umum kepada siapa pun yang menerima faedah-faedah dan riyadhah di kitab ini, dengan syarat shalawat, Fatihah, dan hadiah pahala.
 

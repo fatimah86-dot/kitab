@@ -190,8 +190,6 @@ Tanpa wafaq di Hal11 (teks + daftar ayat). Arsip full: `rajah_anwar_v2_300/hal11
 وَفْقٌ لِعِلَاجِ الْمَسِّ
 الشَّيْخُ الْبَشِيرُ
 مُنْتَدَى الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
-http://www.alanwaralqadria.com
-
 كِتَابَةُ الْآيَاتِ وَالسُّوَرِ تَبْدَأُ مِنْ فَوْقِ الْوَفْقِ مِنْ جِهَةِ الْيَمِينِ اتِّجَاهًا إِلَى الْيَسَارِ، وَفَّقَكُمُ اللهُ لِمَا يُحِبُّهُ وَيَرْضَاهُ
 ```
 **Wafaq 3×3 angka (dibaca kanan→kiri per baris):**
@@ -220,8 +218,7 @@ Washal: *Wafqun li'ilājil-massi, kitābatul-āyāti was-suwari tabda'u min fawq
 
 ### 5) Terjemahan
 > **Wafaq untuk Terapi Mass**
-> Syaikh al-Basyir — Forum al-Anwar al-Qadiriyah — http://www.alanwaralqadria.com
-> Penulisan ayat/surah dimulai dari **atas wafaq dari arah kanan ke kiri**. Semoga Allah memberi taufik kepada kalian untuk apa yang dicintai & diridhai-Nya.
+> Syaikh al-Basyir — Forum al-Anwar al-Qadiriyah — > Penulisan ayat/surah dimulai dari **atas wafaq dari arah kanan ke kiri**. Semoga Allah memberi taufik kepada kalian untuk apa yang dicintai & diridhai-Nya.
 
 ### 6) Syarah
 Wafaq 3×3 angka **Hal12** adalah **wafaq 'adadi mu'addal** khusus Faedah Qathi'ah — bukan wafaq Ghazali 15. Angka: 18 (baris1 kanan), 1209, 6000; 1191,609,27; 618,9,1200 — jika dihitung: 18+609+1200=1827? 6000+27+9=6036? Konstanta tidak 15 seperti mutsallats klasik, tapi **mizan khass** untuk mass. **Cara tulis:** mulai dari atas kanan ke kiri — sesuai kaidah kuttab Arab (kanan dulu). **Doa waffaqakumullah** = penutup adab.

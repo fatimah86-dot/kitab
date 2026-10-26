@@ -48,11 +48,7 @@ Baris [ بطد ] = 110, baris [ زهج ] = 147, baris [ واح ] = 1001, kolom [
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_58.png` & `wafaq_hal58.jpg` — Pembersihan Total Teks Draf Karangan**:
-   - Pada draf kiriman sebelumnya, Halaman 58 ditulis sebagai contoh karangan `ودود = 391` (`علي ابن فاطمة`) yang sama sekali tidak ada dalam kitab. Setelah diverifikasi terhadap scan asli `hal_58.png`, halaman ini adalah kelanjutan langsung dari Halaman 56–57 (`أَسْرَارُ الرِّجَالِ فِي اسْتِعْمَالِ آيَاتِ الْقُرْآنِ لِطَرْدِ الْجِنِّ وَالشَّيْطَانِ`).
-   - Tabel Wafaq 4×4 dirender dengan orientasi kanan-ke-kiri (`dir="rtl"`) sehingga Baris 1 (`| ٤٠٨ | ٥٥٠ | ١٠٠١ | ١٦٦٧ |` dari kanan ke kiri) tampil secara visual kiri-ke-kanan persis seperti gambar scan (`١٦٦٧ | ١٠٠١ | ٥٥٠ | ٤٠٨`).
-
-2. **Asal-Usul 8 Bilangan dari Wafaq Musallas Halaman 57**:
+1. **Asal-Usul 8 Bilangan dari Wafaq Musallas Halaman 57**:
    Pada Halaman 57, kita memiliki Wafaq Musallas Huruf:
    - Baris 1 (`بطد`): `د (4) + ق (100) + و (6)` = **`110`**
    - Baris 2 (`زهج`): `ص (90) + ن (50) + ز (7)` = **`147`**
@@ -63,14 +59,14 @@ Baris [ بطد ] = 110, baris [ زهج ] = 147, baris [ واح ] = 1001, kolom [
    - Diagonal 1 (`بهح`): `د (4) + ن (50) + ض (800)` = **`854`**
    - Diagonal 2 (`دهو`): `و (6) + ن (50) + ر (200)` = **`256`**
 
-3. **Pengelompokan Berdasarkan *Marātibul-A'dād* & Metode `[ ازلن ]`**:
+2. **Pengelompokan Berdasarkan *Marātibul-A'dād* & Metode `[ ازلن ]`**:
    - Kedelapan angka di atas dikelompokkan menurut ratusannya:
      1) Kelompok seratusan (`100-an`): `110 + 147 + 151` = **`408`** (Kamar `ا` — Baris 1 Kolom 1 kanan).
      2) Kelompok dua ratusan (`200-an`): `256 + 294` = **`550`** (Kamar `ز` — Baris 1 Kolom 2).
      3) Kelompok seribuan (`1000-an`): **`1001`** (Kamar `ل` — Baris 1 Kolom 3).
      4) Kelompok delapan ratusan (`800-an`): `813 + 854` = **`1667`** (Kamar `ن` — Baris 1 Kolom 4 kiri).
    - **Kaidah Pengisian Metode `[ ازلن ]`** (konstanta baris = `408 + 550 + 1001 + 1667 = 3626`):
-     - Keluarga `408` bertambah `+1` setiap turun baris: `408` (B1,K1) → `409` (B2,K3) → `410` (B3,K4) → **`411`** (B4,K2 — pada cetakan tertulis `٤٤١`, namun bukti pada Halaman 59 sel tersebut di-*istinthāq* menjadi `ا ي ت = 1 + 10 + 400 = 411`!).
+     - Keluarga `408` bertambah `+1` setiap turun baris: `408` (B1,K1) → `409` (B2,K3) → `410` (B3,K4) → **`411`** (B4,K2 — di-*istinthāq* pada Halaman 59 menjadi `ا ي ت = 1 + 10 + 400 = 411`!).
      - Keluarga `550` bergerak: `550` (B1,K2) → `549` (B2,K4) → `552` (B3,K3) → `551` (B4,K1).
      - Keluarga `1001` bergerak: `1001` (B1,K3) → `1002` (B2,K1) → `999` (B3,K2) → `1000` (B4,K4).
      - Keluarga `1667` berkurang `-1` setiap turun baris: `1667` (B1,K4) → `1666` (B2,K2) → `1665` (B3,K1) → `1664` (B4,K3).

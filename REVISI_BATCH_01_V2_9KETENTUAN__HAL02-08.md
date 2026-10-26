@@ -391,7 +391,6 @@ Tanpa wafaq visual (teks saja). Arsip: `hal07_300dpi.png` 3300×2550 1.5 MB (jud
 
 طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
 الشَّيْخُ الْبَشِيرُ
-http://www.alanwaralqadria.com
 مُنْتَدَى الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
 
 وَعَدَدُ الْعَزِيمَةِ 196 مَرَّةً مَعَ التَّوَجُّهِ إِلَى اللهِ عَزَّ وَجَلَّ بِطَلَبِكَ،
@@ -433,7 +432,7 @@ Washal: *Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā f�
 
 ### 5) Terjemahan
 > Dan inilah **wafaq amal (mukhammas 5×5)** — berisi susunan و ا هـ د ي yang diputar (tadwir). Dan inilah **wafaq murabba' (4×4)** tempat kami turunkan Ruhani — berisi م س ل ن yang diputar.
-> — *Thariqah Maysarah fi Jalb al-Arzaq, Syaikh al-Basyir, http://www.alanwaralqadria.com, Forum al-Anwar al-Qadiriyah wa al-Arwah al-Rahmaniyah* —
+> — *Thariqah Maysarah fi Jalb al-Arzaq, Syaikh al-Basyir, , Forum al-Anwar al-Qadiriyah wa al-Arwah al-Rahmaniyah* —
 > Bilangan 'azimah (wirid) 196 kali disertai tawajjuh kepada Allah 'Azza wa Jalla dengan permintaanmu. Aku mohon kepada Allah 'Azza wa Jalla agar memberi manfaat kepada kalian dengan simpanan berkah ini — Dialah penolong & Yang Maha Kuasa atas itu, wassalam.
 
 ### 6) Syarah

@@ -200,8 +200,6 @@ Ketahuilah: **awfāq terbagi 2: harfiyyah (berbasis huruf) & ‘adadiyyah (berba
 الوفق المثلث
 الشيخ البشير
 منتدى الانوار القادريه
-http://www.alanwaralqadria.com
-
 **[Transliterasi]**
 
 *Wa al-mutsallatsu huwa — al-Wafqu al-Mutsallatsu al-Syaikh al-Basyīr — Muntadā al-Anwār al-Qādiriyyah*
@@ -298,8 +296,6 @@ Ketahuilah: **huruf-huruf Afrād adalah asal (pokok) dalam mutsallats, huruf Azw
 |  | ا |  |
 
 الشيخ البشير
-http://www.alanwaralqadria.com
-
 **[Teks Arab Asli — Lanjutan tengah-bawah]**
 
 اما مدخل الدفع بعكس الاولى اي يكون الوضع بالازواج و تستخرج الافراد من الازواج فيخرج بيت القلم و اللوح من ظاهر بيوت النار و التراب و الماء و الهواء و العرش و الكرسي و العرش يخرجان من باطن بيوت الماء و التراب و القطب و ذلك لشرف البيتين و قيمتهما و اليكم التفصيل اخوتي في الله اود الاشاره قبل ذلك ان معظم الطلاب ترسخت في اذهانهم هذه الجمله [ اجهزط للشر ] فكيف يكون ذلك و هي حروف جلال و [ بدوح للخير ] و [ بدوح للشر ] — وهذا ليس بصحيح اذ ان اجهزط للخير و بدوح للشر

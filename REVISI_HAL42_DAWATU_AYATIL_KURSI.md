@@ -41,15 +41,7 @@ Wahai saudara-saudaraku karena Allah, aku memohon maaf kepada kalian atas kelupa
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs `hal_42.png` — Pengembalian 7 Baris Penutup Latin & Bait-Bait Terjemahan yang Hilang**:
-   - Pada draf kiriman sebelumnya:
-     1) Di bagian `latin` draf, **seluruh 7 baris terakhir** (mulai dari `اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ الْمُخْتَارِ...` hingga catatan akhir `٧ أَوْ ١١ أَوْ ٤٩ وَكُلُّهَا نَافِعَةٌ بِإِذْنِ اللهِ`) **hilang sama sekali**!
-     2) Di bagian `Terjemahan` draf, lebih dari separuh bait-bait *saj'* (prosa berima) yang mengapit penggalan Ayat Kursi dipotong/diringkas!
-     3) Kata `الْخَالِيَةَ` pada `وَأَبَادَ الدُّهُورَ الْخَالِيَةَ`, kata `وَسَكَّنَ` pada `وَسَكَّنَ رَوْعَاتِ الْخَائِفِينَ`, kalimat `إِنَّهُ وَلِيُّ ذَلِكَ وَالْقَادِرُ عَلَيْهِ`, serta kalimat permohonan maaf pengarang `إِخْوَتِي فِي اللهِ أَرْجُو مِنْكُمُ الْمَعْذِرَةَ لِنِسْيَانِي عَدَدَ التِّلَاوَةِ` hilang di draf.
-     4) Salah ketik `wa xsarrafahum` pada draf telah diperbaiki menjadi **`wa syarrafahum`** (`وَشَرَّفَهُمْ`).
-     Kini seluruhnya telah dikembalikan **100% utuh sesuai scan asli**.
-
-2. **Keindahan Struktur *Tashmīth / Tazhyīl* Sembilan Kalimat Ayat Kursi**:
+1. **Keindahan Struktur *Tashmīth / Tazhyīl* Sembilan Kalimat Ayat Kursi**:
    - *Da'watu Āyatil-Kursī asy-Syarīfah* ini disusun dengan seni sastra munajat tingkat tinggi: setiap kalimat dari 9 kalimat Ayat Kursi didahului oleh untaian kalimat pujian (*tahmīd & tanzīh*) yang berima senada dengan huruf akhir penggalan Ayat Kursi tersebut, lalu dijembatani dengan kata **`سُبْحَانَهُ`**:
      1) Rima *Mīm* (`العلوم، النجوم، المفهوم، المكتوم، مقسوم، محتوم، معلوم`) → ditutup `سُبْحَانَهُ هُوَ اللهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ`.
      2) Rima *Mīm* (`قوم، يوم، لوم`) → ditutup `سُبْحَانَهُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ`.

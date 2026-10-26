@@ -54,11 +54,7 @@ Di sinilah telah sempurna pengeluaran (ekstraksi) huruf-huruf Afrād (ganjil) da
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_49.png` & `wafaq_hal49.jpg` — Pembersihan Total Teks Draf yang Salah Halaman**:
-   - Pada draf kiriman sebelumnya, Halaman 49 ditulis sebagai sampul `دُرُوسُ عِلْمِ الْحَرْفِ وَالْأَوْفَاقِ` (yang sebenarnya adalah isi Halaman 43). Setelah diverifikasi terhadap scan asli `hal_49.png`, halaman ini adalah bagian penutup pelajaran **`كَشْفُ السِّتَارِ عَنِ الْمُثَلَّثِ وَمَا يَحْمِلُهُ مِنْ أَسْرَارٍ`** yang menjabarkan rumus **`مُثَلَّثُ الدَّفْعِ`** (*Mutsallatsud-Daf'*).
-   - Tabel 3×3 pada `wafaq_hal49.jpg` dirender kanan-ke-kiri (`dir="rtl"`) sehingga Baris 1 (`| ب |   | د |`) tampil secara visual kiri-ke-kanan sebagai `د |   | ب` dan Baris 3 (`| و |   | ح |`) tampil secara visual kiri-ke-kanan sebagai `ح |   | و`, dengan `ه` di pusat wafaq.
-
-2. **Bedah Rumus *Mutsallatsud-Daf'* (Melahirkan *Afrād* dari *Azwāj* & *Tawālud*)**:
+1. **Bedah Rumus *Mutsallatsud-Daf'* (Melahirkan *Afrād* dari *Azwāj* & *Tawālud*)**:
    - Ketika menyusun Wafaq Musallas untuk penolakan/penangkisan (*Madkhalud-Daf'*), yang diketahui terlebih dahulu adalah 4 kamar sudut *Azwāj* (`ب، د، و، ح`) dan kamar poros *al-Quthb* (`ه`):
      1) **Kamar `ز` (7 — Kanan-Tengah / *al-Lauh*)**: lahir dari rata-rata dua sudut bawah: `ح (8) + و (6) = 14 ÷ 2 = 7 [ ز ]`.
      2) **Kamar `ج` (3 — Kiri-Tengah / *al-Qalam*)**: lahir dari rata-rata dua sudut atas: `ب (2) + د (4) = 6 ÷ 2 = 3 [ ج ]`.

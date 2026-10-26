@@ -32,11 +32,7 @@ Aku memohon kepada Allah Subhanahu wa Ta'ala agar mengilhamkan kepada kalian dan
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_60.png` — Pembersihan Total Teks Draf Karangan**:
-   - Pada draf kiriman sebelumnya, Halaman 60 ditulis sebagai `التِّرْيَاقُ - الدرس السادس` (diagnosa unsur dibagi 4 yang merupakan karangan di luar naskah). Setelah diverifikasi terhadap scan asli `hal_60.png`, isi asli Halaman 60 adalah bagian penutup (5/5) dari Pelajaran Kedelapan (`أَسْرَارُ الرِّجَالِ فِي اسْتِعْمَالِ آيَاتِ الْقُرْآنِ لِطَرْدِ الْجِنِّ وَالشَّيْطَانِ`).
-   - Seluruh deret huruf Hijaiyah terpisah (`[ س و خ غ ]`, `[ ط ت ]`, `[ ط س ]`, `[ ط ك س م ]`, `[ طكق ]`) tetap dipertahankan dalam huruf Arab aslinya tanpa dilatinkan dan diberi keterangan `[Rajah Huruf — tidak diterjemahkan]`.
-
-2. **Bedah Matematis Ekstraksi Khadim Rūhānī `[ طَكْقَآيِيلُ ]`**:
+1. **Bedah Matematis Ekstraksi Khadim Rūhānī `[ طَكْقَآيِيلُ ]`**:
    - **Langkah 1 — Ambil Kamar ke-7 dan Kamar ke-2 dari Wafaq 4×4 (Hal 58–59)**:
      - Kamar ke-7 (nilai `1666` di Baris 2 Kolom 2 kanan): berisi huruf **`[ س و خ غ ]`**.
      - Kamar ke-2 (nilai `409` di Baris 2 Kolom 3 kanan): berisi huruf **`[ ط ت ]`**.

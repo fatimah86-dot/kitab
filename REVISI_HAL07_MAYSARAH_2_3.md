@@ -1,46 +1,126 @@
-## HALAMAN 07 — MAYSARAH 2/3 — طَرِيقَةُ الْمُيَسَّرَةِ فِي جَلْبِ الْأَرْزَاقِ (LANJUTAN)
+## HALAMAN 07 — طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ (٢)
 
 ### arab
-طَرِيقَةُ الْمُيَسَّرَةِ فِي جَلْبِ الْأَرْزَاقِ
+طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
 
-ثُمَّ نَلْقُطُ مِنَ السَّطْرِ الثَّانِي اسْمَ الرَّوْحَانِيِّ مُبْتَدِئِينَ مِنَ الْحَرْفِ الثَّانِي وَنَسِيرُ بِالتَّثْلِيثِ فَيَكُونُ هَكَذَا: س م س ، وَعَلَيْهِ يَكُونُ الرَّوْحَانِيُّ هُوَ [ سَمْسَائِيلُ ]. ثُمَّ نَلْقُطُ مِنَ السَّطْرِ الثَّالِثِ كَذَلِكَ بِالتَّثْلِيثِ مُبْتَدِئِينَ مِنَ الْحَرْفِ الْأَوَّلِ لِاسْتِخْرَاجِ الرَّوْحَانِيِّ الْحَاكِمِ، فَتَكُونُ حُرُوفُهُ هِيَ [ ن س ل م ]، وَعَلَيْهِ يَكُونُ الرَّوْحَانِيُّ بَعْدَ تَرْتِيبِ حُرُوفِهِ هُوَ [ نَلْسَمَائِيلُ ]
+ثُمَّ نَلْقُطُ مِنَ السَّطْرِ الثَّانِي اسْمَ الرُّوحَانِيِّ مُبْتَدِئِينَ مِنَ الْحَرْفِ الثَّانِي وَنَسِيرُ بِالتَّثْلِيثِ هَكَذَا ،
 
-ثُمَّ نَأْخُذُ حُرُوفَ الْعَمَلِ وَالرَّوْحَانِيَّ الْحَاكِمَ مَبْسُوطَةً بِدُونِ تَكْرَارٍ وَبِدُونِ حُرُوفٍ ظُلْمَانِيَّةٍ وَنَسْتَخْرِجُ مِنْهَا مَا تَرَكَّبَ فِيهَا مِنْ أَسْمَاءِ اللهِ الْحُسْنَى النُّورَانِيَّةِ هَكَذَا: [ ن ل ا م س ي هـ ] ، وَعَلَيْهِ تَكُونُ الْأَسْمَاءُ الْمُسْتَخْرَجَةُ هِيَ [ لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ ] ، وَهِيَ الَّتِي تُتْلَى عَلَى الْعَمَلِ
+[ س م س ] وَعَلَيْهِ يَكُونُ الرُّوحَانِيُّ هُوَ [ سَمْسَائِيلُ ] ثُمَّ نَلْقُطُ مِنَ السَّطْرِ الثَّالِثِ كَذَلِكَ بِالتَّثْلِيثِ
 
-أَمَّا طَرِيقَةُ الْعَمَلِ: نَأْخُذُ الْحُرُوفَ الْخَمْسَةَ الَّتِي لِلْعَمَلِ وَنَقْسِمُهَا عَلَى 7 لِاسْتِخْرَاجِ سَاعَةِ الْعَمَلِ هَكَذَا: و ا هـ د ي = 27 ، مَقْسُومَةً عَلَى 7 الْخَارِجُ 3 وَالْبَاقِي 6 ، إِذَنْ سَاعَةُ الْعَمَلِ هِيَ الزُّهَرَةُ ، وَعَلَيْهِ تَكُونُ الْكِتَابَةُ وَالتِّلَاوَةُ سَاعَةَ الزُّهَرَةِ فِي أَيِّ يَوْمٍ شِئْنَا
+مُبْتَدِئِينَ مِنَ الْحَرْفِ الْأَوَّلِ لِاسْتِخْرَاجِ الرُّوحَانِيِّ الْحَاكِمِ فَتَكُونُ حُرُوفُهُ هِيَ [ ن س ل م ] وَعَلَيْهِ
 
-فَنَأْخُذُ حُرُوفَ الْعَمَلِ مُرَتَّبَةً وَنَنْزِلُ بِهَا فِي وَفْقٍ مُخَمَّسٍ وَنُحَوِّطُهُ بِالْآيَةِ [ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ ] ، وَنَكْتُبُ عَلَى الْأَرْكَانِ الْأَرْبَعَةِ اسْمَ الرَّوْحَانِيِّ [ سَمْسَائِيلُ ] ، وَنُدَوِّرُ عَلَيْهِ الْآيَتَيْنِ الْكَرِيمَتَيْنِ: اللهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَنْ يَشَاءُ وَهُوَ الْقَوِيُّ الْعَزِيزُ ، وَالْآيَةَ: الَّذِينَ يَتْلُونَ كِتَابَ اللهِ ... إِلَى ... لَنْ تَبُورَ
+يَكُونُ الرُّوحَانِيُّ بَعْدَ تَرْتِيبِ حُرُوفِهِ هُوَ [ نَلْسَمَائِيلُ ] ثُمَّ نَأْخُذُ حُرُوفَ الْعَمَلِ وَالرُّوحَانِيِّ الْحَاكِمِ
 
-وَفِي نَفْسِ الْوَرَقَةِ مِنْ وَرَاءِ الْوَفْقِ الْمُخَمَّسِ تَرْسُمُ وَفْقًا بِقَدْرِ حُرُوفِ الرَّوْحَانِيِّ الْحَاكِمِ وَنَنْزِلُ بِهِ كَمَا فَعَلْنَا بِحُرُوفِ الْعَمَلِ، فِي مِثَالِنَا هَذَا يَكُونُ وَفْقًا مُرَبَّعًا وَتُحَوِّطُهُ بِاسْمِهِ. وَالْكِتَابَةُ تَكُونُ بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ وَمِسْكٍ مَعَ بَخُورٍ طَيِّبٍ كَاللُّبَانِ وَعُودِ الصَّلِيبِ
+مَبْسُوطَةً بِدُونِ تَكْرَارٍ وَبِدُونِ حُرُوفٍ ظُلْمَانِيَّةٍ وَنَسْتَخْرِجُ مِنْهَا مَا تَرَكَّبَ فِيهَا مِنْ أَسْمَاءِ اللهِ
+
+الْحُسْنَى النُّورَانِيَّةِ هَكَذَا ، [ ن ل ا م س ي هـ ] وَعَلَيْهِ تَكُونُ الْأَسْمَاءُ الْمُسْتَخْرَجَةُ هِيَ [ لَا إِلَهَ إِلَّا
+
+اللهُ الْمُهَيْمِنُ ] وَهِيَ الَّتِي تُتْلَى عَلَى الْعَمَلِ ،
+
+أَمَّا طَرِيقَةُ الْعَمَلِ ، نَأْخُذُ الْحُرُوفَ الْخَمْسَةَ الَّتِي لِلْعَمَلِ وَنَقْسِمُهَا عَلَى ٧ لِاسْتِخْرَاجِ سَاعَةِ الْعَمَلِ
+
+هَكَذَا ،
+
+[ و ا هـ د ي ] = ٢٧ مَقْسُومَةً عَلَى ٧ الْخَارِجُ ٣ وَالْبَاقِي ٦ إِذَنْ سَاعَةُ الْعَمَلِ هِيَ الزُّهَرَةُ ، وَعَلَيْهِ
+
+تَكُونُ الْكِتَابَةُ وَالتِّلَاوَةُ سَاعَةَ الزُّهَرَةِ فِي أَيِّ يَوْمٍ شِئْنَا ،
+
+فَنَأْخُذُ حُرُوفَ الْعَمَلِ مُرَتَّبَةً وَنَنْزِلُ بِهَا فِي وَفْقٍ مُخَمَّسٍ وَنُحَوِّطُهُ بِالْآيَةِ [ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ ]
+
+وَنَكْتُبُ عَلَى الْأَرْكَانِ الْأَرْبَعَةِ اسْمَ الرُّوحَانِيِّ [ سَمْسَائِيلُ ] وَنُدَوِّرُ عَلَيْهِ الْآيَتَيْنِ الْكَرِيمَتَيْنِ ، ﴿ اللهُ
+
+لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَنْ يَشَاءُ وَهُوَ الْقَوِيُّ الْعَزِيزُ ﴾ ، وَالْآيَةَ ، ﴿ الَّذِينَ يَتْلُونَ كِتَابَ اللهِ ... إِلَى لَنْ
+
+تَبُورَ ﴾ .
+
+وَفِي نَفْسِ الْوَرَقَةِ مِنْ وَرَاءِ الْوَفْقِ الْمُخَمَّسِ تَرْسُمُ وَفْقًا بِقَدْرِ حُرُوفِ الرُّوحَانِيِّ الْحَاكِمِ وَنَنْزِلُ بِهِ
+
+كَمَا فَعَلْنَا بِحُرُوفِ الْعَمَلِ فِي مِثَالِنَا هَذَا يَكُونُ وَفْقًا مُرَبَّعًا وَتُحَوِّطُهُ بِاسْمِهِ ، وَالْكِتَابَةُ تَكُونُ
+
+بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ وَمِسْكٍ مَعَ بَخُورٍ طَيِّبٍ
+
+كَاللُّبَانِ وَعُودِ الصَّلِيبِ
 
 ### latin
-Tharīqatu al-Muyassarati fī Jalbi al-Arzāqi
+Tharīqatul-maysarati fī jalbil-arzāqi.
 
-Tsumma nalquthu mina as-sathri ats-tsānī isma ar-rūḥāniyyi mubtadi'īna mina al-ḥarfi ats-tsānī wa nasīru bi-t-tatslītsi fa-yakūnu hākadzā: س م س — [Rajah ditulis ulang: سَمْسَائِيلُ]. Tsumma nalquthu mina as-sathri ats-tsālitsi kadzālika bi-t-tatslītsi mubtadi'īna mina al-ḥarfi al-awwali li-istikhrāji ar-rūḥāniyyi al-ḥākimi fa-takūnu ḥurūfuhu hiya [ ن س ل م ] — [Rajah ditulis ulang: نَلْسَمَائِيلُ]
+Tsumma nalquthu minas-sathrits-tsānī ismar-rūhāniyyi mubtadi'īna minal-harfits-tsānī wa nasīru bit-tatslītsi hākadzā,
 
-Tsumma na'khudzu ḥurūfa al-ʿamali wa ar-rūḥāniyyi al-ḥākimi mabsūthatan bidūni takrārin wa bidūni ḥurūfin zhulmāniyyatin wa nastakhriju minhā mā tarakkaba fīhā min asmā'i Allāhi al-ḥusnā an-nūrāniyyati hākadzā: [ ن ل ا م س ي هـ ] — [Rajah ditulis ulang: لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ]
+[ س م س ] wa 'alaihi yakūnur-rūhāniyyu huwa [ Samsā'īlu ] tsumma nalquthu minas-sathrits-tsālitsi kadzālika bit-tatslītsi
 
-Ammā tharīqatu al-ʿamali: na'khudzu al-ḥurūfa al-khamsata allatī lil-ʿamali wa naqsimuhā ʿalā 7 li-istikhrāji sāʿati al-ʿamali hākadzā: و ا هـ د ي = 27 — maqsūmatan ʿalā 7 al-khāriju 3 wa al-bāqī 6 — idzan sāʿatu al-ʿamali hiya az-Zuhratu
+mubtadi'īna minal-harfil-awwali listikhrājir-rūhāniyyil-hākimi fatakūnu hurūfuhū hiya [ ن س ل م ] wa 'alaihi
 
-Fa-na'khudzu ḥurūfa al-ʿamali murattabatan wa nanzilu bihā fī wafqin mukhammasi wa nuḥawwithuhu bi-al-āyati [ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ ] wa naktubu ʿalā al-arkāni al-arbaʿati isma ar-rūḥāniyyi [ سَمْسَائِيلُ ] wa nudawwiru ʿalaihi al-āyataini al-karīmataini: Allāhu lathīfun bi-ʿibādihi yarzuqu man yasyā'u wa huwa al-qawiyyu al-ʿazīzu — wa al-āyata: Alladzīna yatlūna kitāba Allāhi ... ilā lan tabūra
+yakūnur-rūhāniyyu ba'da tartībi hurūfihī huwa [ Nalsamā'īlu ] tsumma na'khudzu hurūfal-'amali war-rūhāniyyil-hākimi
 
-Wa fī nafsi al-waraqati min warā'i al-wafqi al-mukhammasi tarsumu wafqan bi-qadri ḥurūfi ar-rūḥāniyyi al-ḥākimi wa nanzilu bihi kamā faʿalnā bi-ḥurūfi al-ʿamali — fī mitsālinā hādzā yakūnu wafqan murabbaʿan wa tuḥawwithuhu bi-ismihi. Wa al-kitābatu takūnu bi-mā'i wardin wa zaʿfarānin wa miskin maʿa bakhūrin thayyibin ka-al-lubāni wa ʿūdi ash-shalībi
+mabsūthatan bidūni takrārin wa bidūni hurūfin zhulmāniyyatin wa nastakhriju minhā mā tarakkaba fīhā min asmā'illāhi
+
+al-husnan-nūrāniyyati hākadzā, [ ن ل ا م س ي هـ ] wa 'alaihi takūnul-asmā'ul-mustakhrajatu hiya [ Lā ilāha illallāhul-Muhaiminu ] wa hiyal-latī tutlā 'alal-'amali,
+
+Ammā tharīqatul-'amali, na'khudzul-hurūfal-khamsatal-latī lil-'amali wa naqsimuhā 'alā 7 listikhrāji sā'atil-'amali
+
+hākadzā,
+
+[ و ا هـ د ي ] = 27 maqsūmatan 'alā 7 al-khāriju 3 wal-bāqī 6 idzan sā'atul-'amali hiyaz-Zuharatu, wa 'alaihi
+
+takūnul-kitābatu wat-tilāwatu sā'ataz-Zuharati fī ayyi yaumin syi'nā,
+
+Fana'khudzu hurūfal-'amali murattabatan wa nanzilu bihā fī wafqin mukhammasin wa nuhawwithuhū bil-āyati [ Qauluhul-haqqu wa lahul-mulku ]
+
+wa naktubu 'alal-arkānil-arba'ati ismar-rūhāniyyi [ Samsā'īla ] wa nudawwiru 'alaihil-āyatainil-karīmataini, ﴿ Allāhu
+
+lathīfun bi'ibādihī yarzuqu man yasyā'u wa Huwal-Qawiyyul-'Azīzu ﴾ , wal-āyata, ﴿ Alladzīna yatlūna kitāballāhi ... ilā lan
+
+tabūra ﴾ .
+
+Wa fī nafsil-waraqati min warā'il-wafqil-mukhammasi tarsumu wafqan biqadri hurūfir-rūhāniyyil-hākimi wa nanzilu bihī
+
+kamā fa'alnā bihurūfil-'amali fī mitsālinā hādzā yakūnu wafqan murabba'an wa tuhawwithuhū bismihī, wal-kitābatu takūnu
+
+bimā'i wardin wa za'farānin wa miskin ma'a bakhūrin thayyibin
+
+kal-lubāni wa 'ūdish-shalībi.
 
 ### Terjemahan
-Cara Maysarah untuk Menarik Rezeki.
+Metode al-Maysarah (kemudahan) dalam menarik rezeki.
 
-Kemudian kita pungut dari baris kedua nama ruhani dengan memulai dari huruf kedua dan berjalan dengan tathlith (loncat 3) sehingga menjadi: س م س — [Rajah ditulis ulang: سَمْسَائِيلُ]. Kemudian kita pungut dari baris ketiga dengan tathlith dari huruf pertama untuk mengeluarkan ruhani penguasa: [ ن س ل م ] — [Rajah ditulis ulang: نَلْسَمَائِيلُ]
+Kemudian kita pungut dari baris kedua (hasil taksīr pada Halaman 06) nama khadim rūhānī pelaksananya dengan memulai dari huruf kedua dan melangkah dengan hitungan loncat tiga (bit-tatslīts) seperti ini:
 
-Kemudian kita ambil huruf-huruf amal dan ruhani penguasa yang terhampar tanpa pengulangan dan tanpa huruf kegelapan, dan kita keluarkan darinya nama-nama Allah yang indah yang bercahaya: [ ن ل ا م س ي هـ ] — [Rajah ditulis ulang: لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ] — itulah yang dibaca atas amalan
+[ س م س ] [Rajah Huruf — tidak diterjemahkan]; maka berdasarkan hal itu nama khadim rūhānī-nya adalah [ Samsā'īlu ]. Kemudian kita pungut pula dari baris ketiga dengan hitungan loncat tiga (bit-tatslīts)
 
-Adapun cara amalnya: kita ambil lima huruf amal dan kita bagi 7 untuk mengeluarkan jam amalnya: و ا هـ د ي = 27 — dibagi 7 hasilnya 3 sisanya 6 — maka jam amalnya adalah Zuhrah — penulisan dan pembacaan pada jam Zuhrah di hari apa saja yang kita kehendaki
+dengan memulai dari huruf pertama untuk mengeluarkan nama khadim rūhānī penguasanya (ar-rūhāniyyul-hākim), maka huruf-hurufnya adalah [ ن س ل م ] [Rajah Huruf — tidak diterjemahkan]; dan berdasarkan hal itu
 
-Kita ambil huruf amal yang tersusun dan kita turunkan pada wafaq 5×5 dan kita kelilingi dengan ayat [قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ] dan kita tulis pada empat sudut nama ruhani [سَمْسَائِيلُ] dan kita putarkan dua ayat mulia: Allah Maha Lembut terhadap hamba-hamba-Nya memberi rezeki siapa yang Dia kehendaki dan Dia Maha Kuat Maha Perkasa — dan ayat: Orang-orang yang membaca Kitab Allah ... hingga ... tidak akan rugi
+nama khadim rūhānī penguasanya setelah disusun urutan huruf-hurufnya adalah [ Nalsamā'īlu ]. Kemudian kita ambil gabungan huruf-huruf amalan dan huruf-huruf khadim rūhānī penguasa tersebut
 
-Dan pada kertas yang sama di balik wafaq 5×5 kita gambar wafaq sesuai jumlah huruf ruhani penguasa dan kita turunkan seperti yang kita lakukan pada huruf amal — pada contoh ini menjadi wafaq 4×4 dan kita kelilingi dengan namanya. Penulisan dengan air mawar, za'faran, dan misik dengan dupa harum seperti luban dan kayu salib
+secara terhampar tanpa pengulangan dan tanpa huruf-huruf zhulmāniyyah (yaitu membuang huruf dāl), lalu kita keluarkan darinya rangkaian kalimat yang terbentuk dari Asmaul Husna
+
+yang bersifat nūrāniyyah seperti ini: [ ن ل ا م س ي هـ ] [Rajah Huruf — tidak diterjemahkan]; maka berdasarkan hal itu rangkaian kalimat Asma yang dihasilkan adalah [ Lā ilāha illallāhul-Muhaiminu ] (Tiada Tuhan selain Allah Yang Maha Memelihara lagi Mengawasi), dan kalimat itulah yang dibaca (diwiridkan) di atas amalan ini.
+
+Adapun tata cara pengerjaan amalannya: kita ambil kelima huruf amalan tadi, lalu jumlah nilai hisabnya kita bagi 7 untuk mengeluarkan jam pengerjaan amalan (sā'atul-'amal)
+
+seperti ini:
+
+[ و ا هـ د ي ] [Rajah Huruf — tidak diterjemahkan] = 27 (6 + 1 + 5 + 4 + 10 = 26/27), dibagi 7 hasilnya 3 dan sisanya 6; dengan demikian jam pengerjaan amalannya adalah jam ke-6 yaitu jam planet Zuhrah (Venus). Berdasarkan hal itu,
+
+penulisan wafaq dan pembacaan wiridnya dikerjakan pada jam Zuhrah di hari apa saja yang kita kehendaki.
+
+Maka kita ambil kelima huruf amalan tersebut secara berurutan (dari nilai terkecil: ا هـ د و ي) lalu kita turunkan ke dalam Wafaq Mukhammas (5×5), dan kita kelilingi empat sisinya dengan potongan ayat [ Firman-Nya adalah benar dan milik-Nya segala kerajaan (QS. al-An'ām: 73) ],
+
+serta kita tuliskan pada keempat sudutnya nama khadim rūhānī [ Samsā'īl ], lalu kita tuliskan melingkar di sekelilingnya dua ayat yang mulia: ﴿ Allah Maha Lembut terhadap hamba-hamba-Nya; Dia memberi rezeki kepada siapa yang Dia kehendaki, dan Dialah Yang Maha Kuat lagi Maha Perkasa ﴾ (QS. asy-Syūrā: 19), dan ayat: ﴿ Sesungguhnya orang-orang yang selalu membaca Kitab Allah ... hingga firman-Nya: perniagaan yang tidak akan merugi (lan tabūr) ﴾ (QS. Fāthir: 29).
+
+Dan pada lembar kertas yang sama di bagian belakang Wafaq Mukhammas tersebut, engkau gambar sebuah wafaq sesuai jumlah huruf khadim rūhānī penguasanya, lalu kita turunkan huruf-hurufnya ke dalam wafaq itu
+
+sebagaimana yang telah kita lakukan pada huruf-huruf amalan; pada contoh kita ini (4 huruf: ن ل س م) wafaqnya menjadi Wafaq Murabba' (4×4), dan engkau kelilingi wafaq tersebut dengan namanya (Nalsamā'īl). Adapun penulisannya dilakukan
+
+dengan tinta air mawar, za'faran, dan misik, disertai pengasapan bukhur yang harum
+
+seperti lubān (kemenyan Arab) dan kayu 'ūd ash-shalīb.
 
 ### Syarah dan Penjelasan
-Lanjutan hisab Maysarah: pengambilan nama khadam dengan tathlith (loncat 3 huruf) menghasilkan Samsayil (pelaksana) dan Nalsamayil (penguasa), lalu ekstraksi Asma Al-Muhaimin dari huruf bersih, penentuan jam Zuhrah (27÷7 sisa 6), dan tata letak dua wafaq (5×5 depan dan 4×4 belakang) dengan tinta mawar-za'faran-misik.
+1. **Metode Pemungutan *Bit-Tatslīts* & Ekstraksi Dzikir Asmā'ul-Husnā**:
+   - Dari baris ke-2 *taksīr* (`ر س ن م ل س ن`), dimulai dari huruf ke-2 (`س`) dengan loncat 3 huruf diperoleh **`[ س م س ]`** → **`[ سَمْسَائِيلُ ]`** (*Samsā'īl*, khadim pelaksana pada 4 sudut Wafaq 5×5).
+   - Dari baris ke-3 *taksīr* (`ن ر س س ل ن م`), dimulai dari huruf ke-1 (`ن`) dengan loncat 3 huruf diperoleh **`[ ن س ل م ]`** → setelah ditertibkan menjadi **`[ نَلْسَمَائِيلُ ]`** (*Nalsamā'īl*, khadim penguasa pada Wafaq 4×4 di balik kertas).
+   - Gabungan huruf amalan (`و ا هـ د ي`) dan huruf khadim penguasa (`ن س ل م`) setelah dibuang pengulangan dan huruf *zhulmānī* (`د`) menyisakan **`[ ن ل ا م س ي هـ ]`**, yang membentuk kalimat tauhid dan Asmā'ul-Husnā **`[ لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ ]`**.
 
 ### Khususiyah dan Tatacara Praktik
-Wafaq depan 5×5 (huruf amal) dikelilingi ayat Qauluhu al-Haqq dan dua ayat rezeki; wafaq belakang 4×4 (huruf ruhani penguasa). Tulis pada jam Zuhrah hari apa saja dengan air mawar + za'faran + misik dan dupa luban/ud shalib. Wirid: Lā Ilāha illallāhu al-Muhaimin.
+1. **Waktu, Media Tulis, dan Bukhur**:
+   - Dikerjakan pada **jam Zuhrah** di hari apa pun menggunakan kertas putih polos dengan tinta *midād rūhānī* (air mawar, za'faran, dan misik) sambil menyalakan bukhur *lubān dzakar* dan *'ūd ash-shalīb*.

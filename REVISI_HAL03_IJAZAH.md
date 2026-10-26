@@ -1,4 +1,4 @@
-## HALAMAN 03 — IJAZAH — إِجَازَةُ الشَّيْخِ الْبَشِيرِ
+## HALAMAN 03 — إِجَازَةُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
 إِجَازَةُ الشَّيْخِ الْبَشِيرِ
@@ -11,34 +11,52 @@
 
 لِرُوحِ الْحَبِيبِ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَإِلَى رُوحِ
 
-شَيْخِي رَحِمَهُ اللهُ عَلَيْهِ وَلِفَاتِحَةٍ لِي
+شَيْخِي رَحْمَةُ اللهِ عَلَيْهِ وَالْفَاتِحَةُ لِي
 
 وَإِلَى الشَّيْخِ الْفَقِيرِ الْقَادِرِيِّ أَطَالَ اللهُ لَنَا فِي عُمُرِهِ
 
 وَبِذَلِكَ تَكُونُ قَدْ وَصَلَتْهُ الْإِجَازَةُ الْعَامَّةُ
 
 ### latin
-Ijāzatu asy-Syaykhi al-Basyīri
-Laqad ajaztu kulla man washalat ilaihi fawā'idī wa-riyādhātī ijāzatan ʿāmmatan
-Fīmā yurdhillāha wa-rasūlahu wa yaqūmu bihā baʿda
-ash-Shalāti ʿalā al-Ḥabībi al-Mushthafā wa-qirā'ati al-Fātiḥati wa-ihdā'i tsawābihā
-li-rūḥi al-Ḥabībi Muḥammadin shallallāhu ʿalaihi wa-sallama wa ilā rūḥi
-syaykhī raḥimahullāhu ʿalaihi wa li-Fātiḥatin lī
-wa-ilā asy-Syaykhi al-Faqīri al-Qādiriyyi athāla Allāhu lanā fī ʿumrihi
-wa-bi-dzālika takūnu qad washalat-hu al-Ijāzatu al-ʿĀmmatu
+Ijāzatusy-Syaikhil-Basyīri
+
+Laqad ajaztu kulla man washalat ilaihi fawā'idī wa riyādhātī ijāzatan 'āmmatan
+
+Fīmā yurdhillāha wa rasūlahū wa yaqūmu bihā ba'da
+
+Ash-shalāti 'alal-Habībil-Mushthafā wa qirā'atil-Fātihati wa ihdā'i tsawābihā
+
+Lirūhil-Habībi Muhammadin shallallāhu 'alaihi wa sallama wa ilā rūhi
+
+Syaikhī rahmatullāhi 'alaihi wal-Fātihatu lī
+
+Wa ilasy-Syaikhil-Faqīril-Qādiriyyi athālallāhu lanā fī 'umurihī
+
+Wa bidzālika takūnu qad washalat-hul-ijāzatul-'āmmatu
 
 ### Terjemahan
-Ijazah Syeikh Al-Basyir.
-Sungguh aku telah memberi ijazah umum kepada setiap orang yang sampai kepadanya faedah-faedah dan riyadhah-riyadhahku dengan ijazah umum.
-Untuk hal yang diridhai Allah dan Rasul-Nya dan ia mengamalkannya setelahnya:
-Membaca shalawat kepada Al-Habib Al-Musthafa dan membaca Al-Fatihah serta menghadiahkan pahalanya
-Kepada ruh Al-Habib Muhammad shallallahu 'alaihi wa sallam dan kepada ruh
-Guruku semoga rahmat Allah atasnya dan Al-Fatihah untukku
-Dan kepada Syeikh Al-Faqir Al-Qadiri semoga Allah panjangkan umurnya untuk kami
-Dan dengan itu maka sungguh telah sampai kepadanya ijazah umum tersebut.
+Ijazah Syeikh al-Basyir.
+
+Sungguh aku telah memberikan ijazah kepada setiap orang yang sampai kepadanya faedah-faedah dan riyadhah-riyadhahku dengan ijazah umum,
+
+dalam perkara yang diridhai oleh Allah dan Rasul-Nya; dan ia mengamalkannya setelah:
+
+membaca selawat atas al-Habib al-Mushthafa, serta membaca Surah al-Fatihah dan menghadiahkan pahalanya
+
+kepada ruh al-Habib Muhammad shallallahu 'alaihi wa sallam, dan kepada ruh
+
+guruku — semoga rahmat Allah tercurah atasnya —, serta bacaan al-Fatihah untukku,
+
+dan kepada Syeikh al-Faqir al-Qadiri — semoga Allah memanjangkan umurnya untuk kita —;
+
+dan dengan melakukan hal itu, maka sungguh telah sampailah kepadanya ijazah umum tersebut.
 
 ### Syarah dan Penjelasan
-Ijazah umum: sanad terbuka dari Syeikh Basyir untuk siapa saja yang menerima kitab ini dengan syarat tawasul (shalawat, Fatihah untuk Nabi, guru, diri, dan Syeikh Al-Faqir Al-Qadiri). Syarat 'apa yang diridhai Allah dan Rasul-Nya' menjadi batas agar tidak disalahgunakan. Urutan hadiah pahala menunjukkan tawadhu dan silsilah Qadiriyah.
+1. **Syarat Sah Ijazah Umum (*Al-Ijāzatul-'Āmmah*)**:
+   - Syeikh al-Basyir memberikan ijazah umum bagi setiap penuntut ilmu yang menerima naskah kitab ini dengan dua syarat pokok:
+     1) **Syarat Syar'i (`فِيمَا يُرْضِي اللهَ وَرَسُولَهُ`)**: Seluruh faedah dan riyadhah di dalam kitab hanya diijazahkan untuk tujuan yang diridhai Allah dan Rasul-Nya (tidak berlaku apabila digunakan untuk kezaliman atau kemaksiatan).
+     2) **Syarat Sanad Ruhani**: Membaca selawat kepada Nabi ﷺ dan menghadiahkan pahala Surah al-Fatihah kepada empat pihak: (a) Rasulullah ﷺ, (b) ruh guru Syeikh al-Basyir (`شَيْخِي رَحْمَةُ اللهِ عَلَيْهِ`), (c) Syeikh al-Basyir sendiri (`وَالْفَاتِحَةُ لِي`), dan (d) Syeikh al-Faqir al-Qadiri.
 
 ### Khususiyah dan Tatacara Praktik
-Tatacara menerima ijazah: baca shalawat 1×, Al-Fatihah 1× dengan niat menghadiahkan pahalanya sesuai urutan di atas (Nabi → guru → diri → Syeikh Faqir), lalu yakin ijazah telah sampai. Tidak perlu ijazah tatap muka. Gunakan hanya untuk hal yang diridhai Allah.
+1. **Tata Cara Mengaktifkan Ijazah Kitab**:
+   - Sebelum mengamalkan faedah apa pun di dalam kitab ini, duduklah menghadap kiblat dalam keadaan suci, bacalah selawat kepada Nabi Muhammad ﷺ, lalu bacalah Surah al-Fatihah dengan niat menghadiahkan pahalanya sesuai urutan di atas. Dengan demikian, ikatan ijazah umum (*al-ijāzatul-'āmmah*) telah tersambung secara sah.

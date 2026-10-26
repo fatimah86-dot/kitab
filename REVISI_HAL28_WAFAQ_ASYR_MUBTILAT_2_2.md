@@ -49,9 +49,7 @@ Aku memohon kepada Allah agar menyembuhkan setiap orang yang sakit dengan kesemb
 
 ### Syarah dan Penjelasan
 
-1. **Koreksi Hisab Matriks Wafaq Musallas 3×3 (Konstanta 2190)**:
-   - Pada draf yang beredar terdapat kekeliruan pembacaan baris ketiga menjadi `800 - 188 - 1660` (yang jika dijumlahkan menghasilkan 2648, merusak keseimbangan wafaq).
-   - Berdasarkan verifikasi 3× terhadap scan asli Halaman 28 (`wafaq_hal28.png` / `IMG_20261025_233529.png`), angka asror Arab pada ketiga baris (dibaca dari kanan ke kiri sesuai kaidah RTL; atau visual kiri-ke-kanan `٦٠٥ | ١٢٧٢ | ٣١٣` pada baris 1, `٤٣٨ | ٧٣٠ | ١٠٢٢` pada baris 2, dan `١١٤٧ | ١٨٨ | ٨٥٥` pada baris 3) adalah:
+1. **Hisab Matriks Wafaq Musallas 3×3 (Konstanta 2190)**:
      - **Baris 1**: `٣١٣` (kanan) + `١٢٧٢` (tengah) + `٦٠٥` (kiri) = **٢١٩٠ (2190)**
      - **Baris 2**: `١٠٢٢` (kanan) + `٧٣٠` (qalb/tengah) + `٤٣٨` (kiri) = **٢١٩٠ (2190)**
      - **Baris 3**: `٨٥٥` (kanan) + `١٨٨` (tengah) + `١١٤٧` (kiri) = **٢١٩٠ (2190)**

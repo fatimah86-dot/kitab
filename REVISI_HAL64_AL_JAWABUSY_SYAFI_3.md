@@ -29,15 +29,12 @@ Adapun mengenai kaidah-kaidah ilmu huruf (*al-qawā'idul-harfiyyah*), maka sebag
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_64.png` — Pembersihan Total Teks Draf Karangan**:
-   - Pada draf kiriman sebelumnya, Halaman 64 ditulis sebagai lanjutan fiktif ekstraksi malaikat `عنيائيل` dan `حنيائيل`. Setelah diverifikasi terhadap scan asli `hal_64.png`, halaman ini adalah bagian ketiga sekaligus penutup dari Pelajaran Kesepuluh **`الْجَوَابُ الشَّافِي`** yang menjawab **Pertanyaan Ketiga (`السُّؤَالُ الثَّالِثُ`)**.
-
-2. **Perbedaan Huruf *Zhulmāniyyah 'Ulwiyyah* pada Nama Ilahiah vs Kaidah Ekstraksi Khadim**:
+1. **Perbedaan Huruf *Zhulmāniyyah 'Ulwiyyah* pada Nama Ilahiah vs Kaidah Ekstraksi Khadim**:
    - Syeikh al-Basyir menjelaskan mengapa nama Malaikat `جِبْرَائِيل` memuat huruf `[ ج ]` dan `[ ب ]` serta nama Nabi `مُحَمَّد` صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ memuat huruf `[ د ]` yang secara tabel termasuk 14 huruf *Zhulmāniyyah*:
      1. Nama yang ditetapkan langsung oleh Allah Ta'ala (*tauqīfī*) tidak tunduk pada rekayasa *istinthāq* manusia; huruf `[ ج ب ]` dan `[ د ]` pada nama mulia tersebut berstatus **Huruf Zhulmāniyyah 'Ulwiyyah** (bermartabat tinggi/langit).
      2. Adapun kaidah penyaringan huruf *Nūrāniyyah* (`صراط علي حق نمسكه`) yang diajarkan pada Pelajaran ke-8 dan ke-9 khusus diberlakukan ketika manusia mengekstraksi nama *khadim rūhānī* dari wafaq, dengan dua tujuan: (a) agar nama rūhānī itu membakar/menundukkan khadim suflī di bawahnya, dan (b) agar praktisi tidak keluar dari batas kemampuan akal manusia.
 
-3. **Larangan Keras Melakukan *Taksīr* (Pemecahan Huruf) pada Ayat Al-Qur'an & Asmā'ul-Husnā**:
+2. **Larangan Keras Melakukan *Taksīr* (Pemecahan Huruf) pada Ayat Al-Qur'an & Asmā'ul-Husnā**:
    - Syeikh al-Basyir memperingatkan bahwa metode *taksīr* (memecah dan mengacak urutan huruf) yang biasa diterapkan pada kalimat hajat manusia **haram diterapkan pada Asmā'ul-Husnā dan ayat-ayat Al-Qur'an**, karena tindakan itu mengubah susunan Kalamullah (*tahrīf*). Hisab ayat dan Asmā'ul-Husnā memiliki metode khusus tersendiri pada tingkatan ***Martabatul-Ittishālil-Kaunī***.
 
 ### Khususiyah dan Tatacara Praktik

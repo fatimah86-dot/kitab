@@ -137,8 +137,6 @@ Adapun **kaidah-kaidah harfiyyah — mayoritasnya tersembunyi — bahkan bila ka
 
 لمنتديات الانوار القادريه و الارواح الرحمانيه
 
-http://www.alanwaralqadria.com
-
 الراجيه عفو ربها
 
 خادمتكم
@@ -151,7 +149,7 @@ http://www.alanwaralqadria.com
 
 **[Transliterasi]**
 
-*Tamma bi-‘auni Allāh al-intihā’u min jam‘i Fawā’id wa Mujarrabāt wa Riyādhāt wa Durūs Syaikhinā al-Jalīl al-Basyīr — Rabbi yubārik fīhi wa yahfazhhu — al-Huqūqu mahfūzhah li-Muntadayāti al-Anwār al-Qādiriyyah wa al-Arwāh al-Rahmāniyyah http://www.alanwaralqadria.com — al-Rājiyatu ‘afwa Rabbihā khādimatukum ‘Ābidatu Allāh as’alukum al-du‘ā’a bi-al-khair li-zaujī wa awlādī wa ihdā’a al-Fātihah ilā rūhi ummī wa abī.*
+*Tamma bi-‘auni Allāh al-intihā’u min jam‘i Fawā’id wa Mujarrabāt wa Riyādhāt wa Durūs Syaikhinā al-Jalīl al-Basyīr — Rabbi yubārik fīhi wa yahfazhhu — al-Huqūqu mahfūzhah li-Muntadayāti al-Anwār al-Qādiriyyah wa al-Arwāh al-Rahmāniyyah — al-Rājiyatu ‘afwa Rabbihā khādimatukum ‘Ābidatu Allāh as’alukum al-du‘ā’a bi-al-khair li-zaujī wa awlādī wa ihdā’a al-Fātihah ilā rūhi ummī wa abī.*
 
 **[Terjemahan Indonesia]**
 
@@ -159,7 +157,7 @@ http://www.alanwaralqadria.com
 
 *Dengan pertolongan Allah telah selesai **pengumpulan Faedah-faedah, Mujarrabāt, Riyādhāt & Pelajaran-pelajaran Syaikh kami yang agung al-Basyīr** — semoga Rabb memberkahi beliau & menjaganya.*
 
-*Hak cipta dilindungi — untuk Forum al-Anwār al-Qādiriyyah & al-Arwāh al-Rahmāniyyah — http://www.alanwaralqadria.com*
+*Hak cipta dilindungi — untuk Forum al-Anwār al-Qādiriyyah & al-Arwāh al-Rahmāniyyah — *
 
 *Yang mengharap ampunan Rabb-nya — pelayan kalian — **‘Ābidatullāh (Hamba Allah)** — aku memohon doa kebaikan untuk suami & anak-anakku, serta **hadiah al-Fātihah untuk ruh ibu & ayahku**.*
 

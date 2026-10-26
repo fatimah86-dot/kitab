@@ -44,12 +44,7 @@ Kemudian kita memungut huruf-hurufnya dengan hitungan kelipatan tiga (al-laqthu 
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_55.png` — Pembersihan Total Teks Draf Karangan**:
-   - Pada draf kiriman sebelumnya, Halaman 55 ditulis sebagai `إِثْبَاتُ الْجُمْلَةِ - الدرس الثالث` (teks karangan yang tidak ada dalam kitab). Setelah diverifikasi terhadap scan asli `hal_55.png`, isi asli Halaman 55 adalah Pelajaran Ketujuh: **`الْقَاعِدَةُ الصَّارِمَةُ فِي اسْتِخْرَاجِ الْخَادِمِ السُّفْلِيِّ`** (Kaidah Tegas dalam Mengeluarkan Nama Khadim Suflī).
-   - Catatan ortografi scan: pada baris 1 tertulis `اخوتي في اضع` (kata `الله` terlewat ketik pada cetakan asli), sehingga dilengkapi dalam tanda kurung siku `[ اللهِ ]`.
-   - Seluruh deret huruf Hijaiyah terpisah (`[ ز ي د ]`, `[ ز ا ي ي ا د ا ل ]`, `[ ا ر ب ع ة و ع ش ر و ن ]`, `[ ا ل ف ر ب ع ي ن ت و ش ]`, `[ ف ب ي ت ش ]`, `[ ب ص ذ ]`) tetap ditulis dalam huruf Arab aslinya tanpa dilatinkan dan diberi keterangan `[Rajah Huruf — tidak diterjemahkan]`.
-
-2. **Tahapan Algoritma *Istikhrājul-Khādimis-Suflī* (Contoh Nama `زَيْد`)**:
+1. **Tahapan Algoritma *Istikhrājul-Khādimis-Suflī* (Contoh Nama `زَيْد`)**:
    - **Langkah 1**: Hitung jumlah huruf dasar nama (`ز ي د` = **3 huruf**).
    - **Langkah 2**: Uraikan ejaan lafalnya tanpa hamzah akhir (`ز ا ي` [3] + `ي ا` [2] + `د ا ل` [3] = **8 huruf**).
    - **Langkah 3**: Kalikan jumlah huruf dasar × jumlah huruf uraian: `3 × 8 = 24`.
@@ -61,7 +56,7 @@ Kemudian kita memungut huruf-hurufnya dengan hitungan kelipatan tiga (al-laqthu 
      `ف (80) + ب (2) + ي (10) + ت (400) + ش (300)` = **`792`**.
    - **Langkah 8**: Lakukan *istinthāq* atas angka `792`: `2 = ب`, `90 = ص`, `700 = ذ` → **`[ ب ص ذ ]`**, lalu tambahkan akhiran **`طَيْشٍ`** (*Thaisyin*) → **`بَصَذْ طَيْشٍ`** (*Bashadz Thaisyin*).
 
-3. **Kaidah Filosofis: Mengapa *Rūhānī* dengan Huruf dan *Suflī* dengan Angka?**:
+2. **Kaidah Filosofis: Mengapa *Rūhānī* dengan Huruf dan *Suflī* dengan Angka?**:
    - Syeikh al-Basyir menutup pelajaran ini dengan kaidah emas: **Huruf adalah ruh (*rūh*) sehingga lebih kuat pada jalur kebaikan (*tharīqul-khair / rūhānī*), sedangkan angka adalah jasad/materi sehingga lebih kuat pada jalur bawah/penolakan (*suflī*)**.
 
 ### Khususiyah dan Tatacara Praktik

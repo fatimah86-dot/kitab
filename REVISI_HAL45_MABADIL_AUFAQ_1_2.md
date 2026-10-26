@@ -53,17 +53,13 @@ Perhatikanlah dan cermatilah sungguh-sungguh, karena aku telah menyingkapkan rah
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_45.png` — Pembersihan Total Teks Draf yang Bukan Isi Kitab**:
-   - Pada draf kiriman sebelumnya, Halaman 45 ditulis sebagai `فَائِدَةُ الْخَاصِّ وَبَابُ الْمَحَبَّةِ` (*Yā Wadūdu Yā Badūhu...*). Setelah diverifikasi langsung terhadap scan asli `hal_45.png`, teks tersebut **sama sekali tidak ada dalam kitab asli**.
-   - Halaman 45 yang asli adalah **`مَبَادِئُ الْأَوْفَاقِ`** (Pelajaran Pertama: Prinsip-Prinsip Dasar Ilmu Wafaq).
-
-2. **Peta Besar Ilmu Huruf & Wafaq Menurut Syeikh al-Basyir**:
+1. **Peta Besar Ilmu Huruf & Wafaq Menurut Syeikh al-Basyir**:
    - **Dua Jenis Wafaq**: *Harfiyyah* (kamar-kamarnya diisi huruf/kata) dan *'Adadiyyah* (kamar-kamarnya diisi angka hasil hisab).
    - **Dua Jalur Metode**:
      1) **Jalur Zhāhirī**: Bertumpu pada *Istibdālul-Hurūf* (substitusi huruf melalui kaidah *nazhīrah/taraf'*) dan *Al-Haramul-Harfī* (piramida pelipatan huruf *taksīr*) dengan *Al-Mīzānul-Falsafī* (7 martabat positif *mūjab/zā'id* dan negatif *sālib/nāqish*).
      2) **Jalur Bāthinī**: Bertumpu pada klasifikasi kosmologis huruf: 4 unsur (*Nāriyyah, Turābiyyah, Hawā'iyyah, Mā'iyyah*), *Nūrāniyyah* vs *Zhulmāniyyah*, *'Ulwiyyah* vs *Sufliyyah*, *Dzukūr* (jantan/ganjil) vs *Ināts* (betina/genap), serta silsilah turunan huruf (*Tawālud: Abnā' & Ahfād*), diikuti 4 tahapan kerja: *Tartīb* (pengurutan) → *Wadh'* (pengisian ke kamar wafaq) → *Laqth* (pemungutan huruf dari kamar) → *Rabth* (pengikatan menjadi nama khadim/azimah).
 
-3. **Rahasia Agung Tiga Rumus *Marātibul-A'māl* (Kunci 5 Kamar Pokok Musallas)**:
+2. **Rahasia Agung Tiga Rumus *Marātibul-A'māl* (Kunci 5 Kamar Pokok Musallas)**:
    - Di akhir halaman, Syeikh al-Basyir membuka rahasia besar yang jarang ditulis secara terang-terangan dalam kitab lain: di dalam Wafaq Musallas 3×3 terdapat **5 kamar pokok (*al-Afrād*)** yang menjadi poros pengisian amalan:
      1) **Jika amalan melibatkan `طَالِبٌ وَمَطْلُوبٌ` (Pemohon + Orang yang dituju, misalnya mahabbah/islah antara dua orang)**: maka komposisi kuncinya adalah **3 Huruf Nūrāniyyah + 2 Huruf Zhulmāniyyah**.
      2) **Jika amalan melibatkan `طَالِبٌ وَطَلَبٌ` (Pemohon + Hajat murni kepada Allah, misalnya keluasan rezeki, ilmu, kasyf, atau kesembuhan diri)**: maka seluruh 5 kuncinya adalah **5 Huruf Nūrāniyyah** murni.

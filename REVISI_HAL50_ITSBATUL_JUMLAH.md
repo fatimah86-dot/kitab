@@ -32,14 +32,10 @@ Contoh yang lain:
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_50.png` — Pembersihan Total Teks Draf yang Salah Halaman**:
-   - Pada draf kiriman sebelumnya, Halaman 50 ditulis sebagai daftar isi `فَهْرَسُ دُرُوسِ الشَّيْخِ الْبَشِيرِ` (yang sebenarnya adalah isi Halaman 44). Setelah diverifikasi terhadap scan asli `hal_50.png`, isi asli Halaman 50 adalah Pelajaran Ketiga: **`إِثْبَاتُ الْجُمْلَةِ لِاسْتِخْرَاجِ أَسْرَارِ الرِّيَاضَاتِ`** (Penetapan Jumlah Kalimat 9 Huruf untuk Mengeluarkan Rahasia-Rahasia Riyadhah — Bagian Pertama: *Al-Jumlatun-Nāqishah*).
-   - Seluruh deret huruf Hijaiyah terpisah (`ح س ن ف ا ط م ه`, `[ أ ]`, `[ س ]`, `[ ا ل س ي ن ]`, `[ س ن ]`, `[ ح س ن م ر ي م س ن ]`, `[ ا ل ن و ن ]`, `[ ن و ن ]`, `[ ح س ن ه ن د ن و ن ]`) tetap dipertahankan dalam huruf Arab aslinya tanpa dilatinkan dan diberi penanda `[Rajah Huruf — tidak diterjemahkan]`.
-
-2. **Mengapa Nama Murid + Ibu Wajib Ditetapkan Menjadi Tepat 9 Huruf?**:
+1. **Mengapa Nama Murid + Ibu Wajib Ditetapkan Menjadi Tepat 9 Huruf?**:
    - Karena fondasi perhitungan Syeikh al-Basyir dibangun di atas **Wafaq Musallas (3×3)** yang memiliki **9 kamar (`٩ بُيُوتٍ`)**: 5 kamar *Afrād* (ganjil: posisi ke-1, 3, 5, 7, 9) dan 4 kamar *Azwāj* (genap: posisi ke-2, 4, 6, 8). Agar huruf-huruf nama murid dan ibunya dapat dipetakan tepat satu huruf per kamar Musallas, maka jumlah huruf gabungan nama murid dan ibunya (tanpa kata `بن` / `بنت`) wajib dinormalisasi menjadi tepat **9 huruf**.
 
-3. **Rumus Normalisasi Nama yang Kurang dari 9 Huruf (*Al-Jumlatun-Nāqishah*)**:
+2. **Rumus Normalisasi Nama yang Kurang dari 9 Huruf (*Al-Jumlatun-Nāqishah*)**:
    - **Kasus 1 — Kurang 1 Huruf (Total 8 Huruf)**:
      - Langsung tambahkan huruf **`[ أ ]` (Alif)** di akhir rangkaian.
      - Contoh: `حسن` (3) + `فاطمه` (5) = 8 huruf (`ح س ن ف ا ط م ه`) → ditambah `[ أ ]` menjadi **`[ ح س ن ف ا ط م ه أ ]`** (9 huruf).

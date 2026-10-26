@@ -38,16 +38,14 @@ Dan ketika seluruh amalan telah sempurna, engkau bershalawat atas Rasulullah sha
 
 ### Syarah dan Penjelasan
 
-1. **Koreksi Kelengkapan Naskah (3× Verifikasi vs `hal_29.png`)**:
-   - Pada draf kiriman bagian transliterasi Latin terputus di tengah halaman (teks doa `Allāhumma innī as'aluka...` dan seluruh paragraf penutup `Wa 'inda tamāmil-'amali...` hilang), serta bagian terjemahan diringkas menjadi poin-poin bebas tanpa menerjemahkan isi doa. Dalam revisi ini seluruh teks Arab, Latin (dengan kaidah `sy` dan `zh` seperti `nāzhirun`, `'azhumat`, `bikhafiyyi`), dan Terjemahan dikembalikan utuh 100% sesuai baris kitab.
-2. **Rahasia Bilangan 1070 (`عَدَدَ ١٠٧٠ مَرَّةً`) & `رَأْسُ الْمَرَاتِبِ`**:
+1. **Rahasia Bilangan 1070 (`عَدَدَ ١٠٧٠ مَرَّةً`) & `رَأْسُ الْمَرَاتِبِ`**:
    - Tiga Asmaul Husna yang dipanggil dengan huruf seruan (`يَا اللهُ يَا لَطِيفُ يَا خَبِيرُ`) memiliki nilai hisab Jumal Kabir:
      - `الله` = **66**
      - `لطيف` = **129**
      - `خبير` = **812**
      - Jumlah ketiganya = `66 + 129 + 812 = 1007`, dan apabila dihitung bersama huruf seruan / penggenapan thabaqāt mukhammas menjadi **1070**.
    - Istilah **`عَلَى رَأْسِ الْمَرَاتِبِ`** (*di setiap kepala tingkatan bilangan*) dalam disiplin ilmu hikmah berarti: ketika membaca 1070 kali, bacaan dijeda pada kepala satuan/puluhan pertama (**70**), lalu setiap genap ratusan (**100, 200, 300, 400, 500, 600, 700, 800, 900, 1000** — total 11 jeda) untuk membaca QS. al-Mulk: 14 sebanyak 10× dan Doa Kasyf 1×.
-3. **Kesesuaian Ayat Kunci QS. al-Mulk: 14 & QS. al-An'ām: 73**:
+2. **Kesesuaian Ayat Kunci QS. al-Mulk: 14 & QS. al-An'ām: 73**:
    - QS. al-Mulk: 14 (`أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ`) adalah ayat kunci *kasyf* (penyingkapan) paling masyhur di kalangan ulama hikmah karena memadukan sifat *al-Lathīf* (Yang menembus perkara paling halus/tersembunyi) dan *al-Khabīr* (Yang mengetahui hakikat batin).
    - Adapun bingkai dalam wafaq menggunakan potongan QS. al-An'ām: 73 (`قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ` — 4 kata untuk 4 sisi bingkai wafaq), yang huruf-huruf awalnya (atau nilai hisabnya) menjadi fondasi pengunci kebenaran penglihatan mimpi (*ru'yā shādiqah*).
 

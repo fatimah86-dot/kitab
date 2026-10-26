@@ -76,8 +76,6 @@ Semoga Allah memberi taufik kepada kalian menuju apa yang Dia cintai dan ridhai,
 
 **[Gambar Rajah Asli Halaman 16]**
 
-![Wafaq 'Uthush](rajah_anwar/rajah_p16_wafaq_uthush.png)
-
 *Wafaq 'Uthush mufsid al-a'mal — Syeikh al-Basyir — Muntadā al-Anwār al-Qādiriyyah*
 ## HALAMAN 17 — Faedah 6: al-Durrah al-Nuraniyah fi 'Ilaj al-A'radh al-Ruhaniyah (Bagian 1/2)
 
@@ -136,14 +134,10 @@ Aku memohon kepada Allah Yang Maha Agung agar memberi manfaat kepadaku dan kepad
 الدرة النورانية في علاج الأعراض الروحانية
 الشيخ البشير
 منتدى الأنوار القادرية و الأرواح الرحمانية
-http://www.alanwaralqadria.com
-
 **[Terjemahan]**
 Mutiara Cahaya untuk Terapi Gangguan Ruhaniyah — Syeikh al-Basyir
 
 **[Gambar Rajah Asli Halaman 18]**
-
-![Wafaq Durra](rajah_anwar/rajah_p18_wafaq_durra.png)
 
 *Wafaq murabba‘ 4×4 — nama agung Allah Jalla Jalaluh*
 ## HALAMAN 19 — Faedah 7: Fi Tadmiri al-Zhalim (Bagian 1/2)
@@ -196,8 +190,6 @@ Azimahnya adalah: **[Lā ilāha illā Allāh al-Hasīb al-Wakīl]**. Setelah sem
 … masukkan ke dalam botol kaca atau logam berisi air dingin, tutup, letakkan di **tempat gelap**. Jika ia (si zhalim) **berhenti dari kezhalimannya, maka keluarkan lempengan dari air**, bacakan **al-Fātihah 7×, Surah al-Mulk 7×, dan al-Ikhlāsh 7×** ke atasnya, lalu keluarkan dari air. Ketahuilah, aku telah meletakkan faedah ini sebagai amanah di pundak siapa pun yang Allah bukakan bashirahnya. Wahai penuntut, jagalah kehormatan Allah pada makhluk-Nya, ingat dan ingatlah bahwa Hari Hisab pasti datang tanpa keraguan. Dan inilah wafaqnya.
 
 **[Gambar Rajah Asli Halaman 20]**
-
-![Wafaq Tadmiri](rajah_anwar/rajah_p20_wafaq_tadmiri.png)
 
 *Wafaq Tadmiri al-Zhalim — Syeikh al-Basyir — sisi segitiga bertuliskan “انقاييل” di empat penjuru*
 ### KETERANGAN RAJAH — Batch 03

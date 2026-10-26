@@ -39,22 +39,17 @@ Adapun wafaq musallas (3×3 alami) itu adalah:
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_46.jpg` (`IMG_20261025_110522.jpg`) — Pembersihan Total Teks Draf yang Bukan Isi Kitab**:
-   - Pada draf kiriman sebelumnya, Halaman 46 ditulis sebagai `[ وَفْقُ بَابِ الْمَحَبَّةِ وَالْقَبُولِ ]` (4×4: `35-8-11-20...`). Setelah diverifikasi terhadap scan asli `IMG_20261025_110522.jpg`, teks dan tabel 4×4 tersebut **sama sekali tidak ada dalam kitab asli**.
-   - Halaman 46 yang asli adalah lanjutan langsung dari kalimat terakhir Halaman 45 (`وَالْإِشَارَةُ فِي الْمُثَلَّثِ الطَّبِيعِيِّ`), yang memuat judul **`مَبَادِئُ الْأَوْفَاقِ`**, kalimat **`وَالْمُثَلَّثُ هُوَ`**, serta diagram **`الْمُثَلَّثُ الطَّبِيعِيُّ` (Wafaq Musallas Alami 3×3 / *Budūh*)**.
-
-2. **Kaidah Orientasi RTL (`dir="rtl"`) & Konstanta 15 (*Wafaq Thabī'ī*)**:
-   - Sesuai ketetapan penulisan wafaq di dalam workspace ini, angka di dalam wafaq **tidak dilatinkan dan tidak diterjemahkan**, serta disusun dalam tabel berarah kanan-ke-kiri (`dir="rtl"`):
-     - **Baris 1 (kanan→kiri)**: `٢ | ٩ | ٤` *(tampilan visual kiri→kanan pada gambar: `٤ | ٩ | ٢`)* = **١٥ (15)**
-     - **Baris 2 (kanan→kiri)**: `٧ | ٥ | ٣` *(tampilan visual kiri→kanan pada gambar: `٣ | ٥ | ٧`)* = **١٥ (15)**
-     - **Baris 3 (kanan→kiri)**: `٦ | ١ | ٨` *(tampilan visual kiri→kanan pada gambar: `٨ | ١ | ٦`)* = **١٥ (15)**
+1. **Hisab Matriks *Al-Mutsallatsuth-Thabī'ī* (Konstanta 15)**:
+     - **Baris 1 (kanan→kiri)**: `٢ | ٩ | ٤` = **١٥ (15)**
+     - **Baris 2 (kanan→kiri)**: `٧ | ٥ | ٣` = **١٥ (15)**
+     - **Baris 3 (kanan→kiri)**: `٦ | ١ | ٨` = **١٥ (15)**
      - **Kolom Kanan**: `٢ + ٧ + ٦ = ١٥`
      - **Kolom Tengah**: `٩ + ٥ + ١ = ١٥`
      - **Kolom Kiri**: `٤ + ٣ + ٨ = ١٥`
      - **Diagonal 1**: `٢ + ٥ + ٨ = ١٥`
      - **Diagonal 2**: `٤ + ٥ + ٦ = ١٥`
 
-3. **Kedudukan *Al-Mutsallatsuth-Thabī'ī* sebagai Ibu Seluruh Wafaq**:
+2. **Kedudukan *Al-Mutsallatsuth-Thabī'ī* sebagai Ibu Seluruh Wafaq**:
    - Sembilan angka (`١` s.d. `٩`) di dalam Musallas Thabī'ī ini mewakili 9 huruf pertama susunan *Abjad*:
      - **`١`** = `ا` (*Alif*), **`٢`** = `ب` (*Bā'*), **`٣`** = `ج` (*Jīm*), **`٤`** = `د` (*Dāl*), **`٥`** = `ه` (*Hā'* — titik pusat/qalb), **`٦`** = `و` (*Wāw*), **`٧`** = `ز` (*Zāy*), **`٨`** = `ح` (*Hā'*), **`٩`** = `ط` (*Thā'*).
    - Empat sudutnya diisi oleh angka-angka genap (`٢، ٤، ٦، ٨` = **`ب د و ح`** / *Budūh*), sedangkan palang tengah vertikal dan horizontalnya diisi oleh angka-angka ganjil (`١، ٣، ٥، ٧، ٩` = **`ا ج ه ز ط`**), yang rahasia penciptaannya segera disingkapkan oleh Syeikh al-Basyir pada Halaman 47.

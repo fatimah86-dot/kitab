@@ -1,17 +1,16 @@
-## HALAMAN 18 — WAFAQ MURABBA‘ JALĀLAH 4×4 — وَفْقُ الْجَلَالَةِ
+## HALAMAN 18 — الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرُّوحَانِيَّةِ (٢ — وَفْقُ الْجَلَالَةِ ٤×٤)
 
 ### arab
-الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
+الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرُّوحَانِيَّةِ
 
 | ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
 |---|---|---|---|
 | ٣٤٢ | ٦٩١ | ٧٩ | ٨٦ |
 | ٦٩٠ | ٣٣٩ | ٨٩ | ٨٠ |
 | ٨٨ | ٨١ | ٦٨٩ | ٣٤٠ |
-
-*تنبيه: الجدول 4×4 يُقرأ يمينًا إلى يسارٍ — الخلية اليُمنى في السطر الأول هي (٧٨) واليُسرى هي (٦٩٢)، ومجموع كل سطر/عمود/قطر = ٧٩٨ بإذن الله — الوفق يُكتب بالأرقام العربية و [الله جل جلاله] في القلب المعنوي — لا يُلاتن.*
 
 ### latin
+Ad-durratun-nūrāniyyatu fī 'ilājil-a'rādhir-rūhāniyyati.
 
 | ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
 |---|---|---|---|
@@ -19,27 +18,35 @@
 | ٦٩٠ | ٣٣٩ | ٨٩ | ٨٠ |
 | ٨٨ | ٨١ | ٦٨٩ | ٣٤٠ |
 
-[Rajah Asror — tidak dilatin-kan — angka di dalam wafaq tidak diterjemahkan, tetap أرقام عربية]
-
-*Tanbīh: al-jadwal 4×4 yuqra’u yamīnan ilā yasārin — al-khaliyyatul-yumnā fis-sathril-awwali hiya (78) wal-yusrā hiya (692), wa majmū‘u kulli sathrin/‘amūdin/quthrin = 798 bi-idznillāh — al-wafqu yuktabu bil-arqāmil-‘arabiyyati wa [Allāhu jalla jalāluh] fil-qalbil-ma‘nawī — lā yulātinu.*
+[Wafaq Murabba' 4×4 Lafzhul-Jalālah — Asror Angka Arab, tidak dilatinkan]
 
 ### Terjemahan
+Mutiara bercahaya dalam mengobati gejala-gejala gangguan ruhani.
 
-| 78 | 87 | 341 | 692 |
+| ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
 |---|---|---|---|
-| 342 | 691 | 79 | 86 |
-| 690 | 339 | 89 | 80 |
-| 88 | 81 | 689 | 340 |
+| ٣٤٢ | ٦٩١ | ٧٩ | ٨٦ |
+| ٦٩٠ | ٣٣٩ | ٨٩ | ٨٠ |
+| ٨٨ | ٨١ | ٦٨٩ | ٣٤٠ |
 
-*Catatan: Tabel 4×4 dibaca kanan-ke-kiri — sel kanan baris pertama adalah (78) dan sel kiri adalah (692); jumlah tiap baris/kolom/diagonal = 798 dengan izin Allah — wafaq ditulis dengan angka Arab dan [Allāh Jalla Jalāluh] di hati maknawi — tidak dilatinkan (rajah).*
-
-Perbandingan koreksi 3×: draft yang beredar menulis wafaq 3×3 atau 4×4 dengan angka Latin acak `292|341|...` terbalik — yang benar sesuai scan `IMG_20261025_094727.jpg` (108K) adalah **78–87–341–692 / 342–691–79–86 / 690–339–89–80 / 88–81–689–340** (kanan→kiri Arab, sesuai kitābah); visual kiri→kanan cermin adalah **692–341–87–78 / 86–79–691–342 / 80–89–339–690 / 340–689–81–88** dengan majmū‘ 798.
+[Wafaq Murabba' 4×4 Lafzhul-Jalālah — Asror Angka Arab, tidak diterjemahkan]
 
 ### Syarah dan Penjelasan
-Halaman ini adalah **bagian 2/2 Durrah Nūrāniyyah — inti wafaq 4×4 Jalālah**. Verifikasi 3×: (1) Visual kiri→kanan 292,341,87,78 di baris 1 — watermark hijau tidak mengubah angka, (2) Perbesar 6× LANCZOS: 292=٢٩٢, 341=٣٤١, 87=٨٧, 78=٧٨, 83=٨٣, 79=٧٩, 291=٢٩١, 347=٣٤٧, 80=٨٠, 89=٨٩, 339=٣٣٩, 290=٢٩٠, 340=٣٤٠, 289=٢٨٩, 81=٨١, 88=٨٨ — semua 16 sel terisi, (3) Hisab: 292+341+87+78=798, 80+89+339+290=798, 340+289+81+88=798, 83+79+291+347=800 (kelebihan 2) — indikasi cetak `٣٤٧` seharusnya `٣٤٥` untuk sempurna, tetapi **kita tetap tulis sesuai scan apa adanya 347** — jangan mengubah asror (amanah naskah). Makna: murabba‘ 4×4 untuk lafaz الجلالة (الله = 66) di-expand: 66×12 + 6 = 798 — angka 798 adalah majmū‘ kulli sathr — simbol 7 (ayyam) + 98 (asma’ Husna tanpa Allah) — menunjukkan kesempurnaan syifā’. Ism A‘zam `[الله جل جلاله]` bukan ditulis di sel tengah (berbeda dengan ‘Athlūsy) melainkan sebagai qutb ma‘nawī di atas wafaq — wafaq sendiri murni ‘adadi — sehingga 16 angka saja di 16 sel. Ikatan dengan Hal17: 12 Asmā’ + Basmalah + Ikhlāsh yang ditulis melingkar adalah *ṭauq* (kalung) — mengelilingi murabba‘ agar nur Jalālah terpancar ke air. Angka 11× kitābah Ikhlāsh di tepi = 11 huruf `قل هو الله أحد` tanpa Basmalah — tawkīd tauhid.
+1. **Hisab Matriks Wafaq Murabba' 4×4 *Al-Jalālah* (Konstanta 1198)**:
+   - Matriks Wafaq 4×4 pada Halaman 18 ini memiliki *miftāh* (angka terkecil) **`٧٨`** di sudut kanan-atas dan *maghlāq* (angka terbesar) **`٦٩٢`** di sudut kiri-atas, dengan jumlah konstanta setiap baris, kolom, dan diagonal tepat **١١٩٨ (1198)**:
+     - **Baris 1**: `٧٨ + ٨٧ + ٣٤١ + ٦٩٢ = ١١٩٨`
+     - **Baris 2**: `٣٤٢ + ٦٩١ + ٧٩ + ٨٦ = ١١٩٨`
+     - **Baris 3**: `٦٩٠ + ٣٣٩ + ٨٩ + ٨٠ = ١١٩٨`
+     - **Baris 4**: `٨٨ + ٨١ + ٦٨٩ + ٣٤٠ = ١١٩٨`
+     - **Kolom Kanan**: `٧٨ + ٣٤٢ + ٦٩٠ + ٨٨ = ١١٩٨`
+     - **Kolom ke-2**: `٨٧ + ٦٩١ + ٣٣٩ + ٨١ = ١١٩٨`
+     - **Kolom ke-3**: `٣٤١ + ٧٩ + ٨٩ + ٦٨٩ = ١١٩٨`
+     - **Kolom Kiri**: `٦٩٢ + ٨٦ + ٨٠ + ٣٤٠ = ١١٩٨`
+     - **Diagonal 1**: `٧٨ + ٦٩١ + ٨٩ + ٣٤٠ = ١١٩٨`
+     - **Diagonal 2**: `٦٩٢ + ٧٩ + ٣٣٩ + ٨٨ = ١١٩٨`
 
 ### Khususiyah dan Tatacara Praktik
-Khasiat: syifā’ ruhaniyyah + jasadiyyah — untuk ‘ayn ḥasūd, mass, waswas, insomnia, dan gejala psikosomatik — dengan izin Allah lewat barakah Ism Jalālah. Tatacara 3× cek: (1) Berwudhu, kiblat, baca Ta‘awwudz + Basmalah, (2) Tulis 4×4 di piring putih dengan air mawar + za‘faran (bukan spidol) — urutan tulis: mulai kanan-atas 78 → 87 → 341 → 292 (sair falak yamīn → yasār), lanjut baris 2: 347 → 291 → 79 → 83, dst — jangan tulis Latin, (3) Kelilingi dengan 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — Ikhlāsh 11× berturutan di luar lingkaran (seperti tasbih), (4) Hapus dengan air ṭāhir (hujan/zamzam) — kumpulkan di gelas, (5) Bacakan pada air: rangkaian Asmā’ 70× + Ikhlāsh 70× (total 140) — tiap bacaan tiup lembut ke air, (6) Minum pagi ‘alar-rīq + malam sebelum tidur 7 hari — jangan terputus; jika haid, wakil minumkan, (7) Pantangan: hindari daging babi, khamr, zinah, dan marah selama 7 hari — jaga shalat 5 waktu, (8) Tanda: mimpi nur, badan ringan, atau muntah lendir — itu keluarnya ‘araḍ, (9) Jangan menambah angka dalam sel — 16 angka + 0 huruf = murni ‘adadi — jika salah satu angka pudar, tulis ulang, (10) Simpan piring jangan dicuci sabun kimia — cukup bilas air.
-
-![Halaman 18 — Wafaq Murabba‘ Jalālah 4×4 — Scan 300 DPI](hal_17_wafaq_4x4.jpg)
-[Gambar: Halaman 18 — Wafaq 4×4 Jalālah — 292-341-87-78 / 83-79-291-347 / 80-89-339-290 / 340-289-81-88 — asror tidak dilatin-kan]
+1. **Tata Cara Penulisan & Terapi Air *Ad-Durratun-Nūrāniyyah***:
+   - Tulislah Wafaq Murabba' 4×4 ini dengan angka Arab asli di tengah piring putih bersih menggunakan tinta air mawar dan za'faran.
+   - Kelilingi wafaq dengan rangkaian 12 Asmā'ul-Husnā (`لَا إِلَهَ إِلَّا اللهُ الْمَلِكُ الْمُهَيْمِنُ مَالِكُ الْمُلْكِ الْمُحْصِي الْمُحْيِي الْمَنَّانُ الْحَكَمُ الْحَلِيمُ الْحَكِيمُ الْحَقُّ الْحَيُّ الْحَنَّانُ`) beserta Surah al-Ikhlāsh yang ditulis berulang sebanyak **11 kali** (sebagaimana rincian Halaman 17).
+   - Lebur tulisan dengan air suci, bacakan di atas air tersebut rangkaian Asmā' 70 kali dan Surah al-Ikhlāsh 70 kali, lalu diminum oleh pasien setiap pagi sebelum makan (*'alar-rīq*) dan setiap malam menjelang tidur selama 7 hari berturut-turut.

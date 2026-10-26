@@ -1,41 +1,57 @@
-## HALAMAN 12 — FAIDAH QATHI'AH LI'ILAJ AL-MASS (WAFQ) — فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ (الوَفْق)
+## HALAMAN 12 — فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ (٢ — الْوَفْقُ)
 
 ### arab
 فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
 
-[ وَفْقٌ لِعِلَاجِ الْمَسِّ ]
+وَفْقٌ لِعِلَاجِ الْمَسِّ
 
 | ١٨ | ١٢٠٩ | ٦٠٠ |
+|---|---|---|
 | ١١٩١ | ٦٠٩ | ٢٧ |
 | ٦١٨ | ٩ | ١٢٠٠ |
 
-كِتَابَةُ الْآيَاتِ وَالسُّوَرِ تَبْدَأُ مِنْ فَوْقِ الْوَفْقِ مِنْ جِهَةِ الْيَمِينِ اتِّجَاهًا إِلَى الْيَسَارِ، وَفَّقَكُمُ اللهُ لِمَا يُحِبُّهُ وَيَرْضَاهُ.
+كِتَابَةُ الْآيَاتِ وَالسُّوَرِ تَبْدَأُ مِنْ فَوْقِ الْوَفْقِ مِنْ جِهَةِ الْيَمِينِ اتِّجَاهًا إِلَى الْيَسَارِ ، وَفَّقَكُمُ اللهُ لِمَا يُحِبُّهُ وَيَرْضَاهُ
 
 ### latin
-Fā'idatun qāthi'atul-li'ilājil-massi
+Fā'idatun qāthi'atun li-'ilājil-massi.
 
-[ Wafqul-li'ilājil-massi ]
+Wafqun li-'ilājil-massi:
 
-(Angka Wafaq 3×3 — 9 angka: 600 - 1209 - 18 / 27 - 609 - 1191 / 1200 - 9 - 618 — baca Arab kanan→kiri: 18-1209-600 / 1191-609-27 / 618-9-1200)
+| ١٨ | ١٢٠٩ | ٦٠٠ |
+|---|---|---|
+| ١١٩١ | ٦٠٩ | ٢٧ |
+| ٦١٨ | ٩ | ١٢٠٠ |
 
-Kitābatul-āyāti was-suwari tabda'u min fauqil-wafqi min jihatil-yamīni ittijāhan ilal-yasāri, waffaqakumullāhu limā yuḥibbuhū wa yardhāhu.
+[Wafaq Musallas 3×3 — Asror Angka Arab, tidak dilatinkan]
+
+Kitābatul-āyāti was-suwari tabda'u min fauqil-wafqi min jihatil-yamīni ittijāhan ilal-yasāri, waffaqakumullāhu limā yuhibbuhū wa yardhāhu.
 
 ### Terjemahan
-Faedah Ampuh untuk Mengobati Kesurupan / Al-Mass (Visualisasi Wafaq):
+Faedah pemutus yang ampuh untuk mengobati kerasukan (al-mass).
 
-[ Wafaq Pengobatan Kesurupan / Al-Mass ]
+Wafaq untuk mengobati kerasukan (al-mass):
 
-| ٦٠٠ (600) | ١٢٠٩ (1209) | ١٨ (18) |
-| ٢٧ (27) | ٦٠٩ (609) | ١١٩١ (1191) |
-| ١٢٠٠ (1200) | ٩ (9) | ٦١٨ (618) |
+| ١٨ | ١٢٠٩ | ٦٠٠ |
+|---|---|---|
+| ١١٩١ | ٦٠٩ | ٢٧ |
+| ٦١٨ | ٩ | ١٢٠٠ |
 
-“Penulisan ayat-ayat dan surat-surat (5 surat di Hal11) dimulai dari bagian atas wafaq dari sebelah kanan melingkar menuju ke sebelah kiri (searah tulisan Arab / berlawanan jarum jam). Semoga Allah memberi taufik kepada kalian pada apa yang dicintai dan diridai-Nya.”
+[Wafaq Musallas 3×3 — Asror Angka Arab, tidak diterjemahkan]
+
+Penulisan ayat-ayat dan surah-surah (yang disebutkan pada Halaman 11) dimulai dari bagian atas wafaq dari arah kanan melingkar menuju ke arah kiri. Semoga Allah memberikan taufik kepada kalian menuju apa yang dicintai dan diridhai-Nya.
 
 ### Syarah dan Penjelasan
-Struktur Wafaq ‘Adad Khāsh 3×3 (9 kotak): Tiga baris × tiga kolom — 600,1209,18 (baris1) / 27,609,1191 (baris2) / 1200,9,618 (baris3) — 3×3=9 kotak hasil takhrīj Abjad dari Sūrat al-Jinn & Āyat al-Nūr + Asmā’ al-Ḥusnā. Arah Tadwīr: 5 sūrat/āyāt (al-Shams, al-Ikhlāṣ, al-Nūr, al-Ḥajj, al-Jinn) ditulis melingkari luar wafaq mulai kanan atas ke kiri. Tinta Za‘farān+Misk+Ward dilebur dengan air hujan/sumur, digosok sabbābah 7×.
+1. **Hisab Matriks Wafaq Musallas 3×3 *'Ilājul-Mass* (Konstanta 1827)**:
+   - Matriks Wafaq 3×3 ini dibangun dengan kelipatan 9 (*miftāh* `٩` di baris 3 tengah, *qalb* `٦٠٩` di pusat, dan *maghlāq* `١٢٠٩` di baris 1 tengah) dengan jumlah konstanta setiap baris, kolom, dan diagonal tepat **١٨٢٧ (1827)**:
+     - **Baris 1**: `١٨ + ١٢٠٩ + ٦٠٠ = ١٨٢٧`
+     - **Baris 2**: `١١٩١ + ٦٠٩ + ٢٧ = ١٨٢٧`
+     - **Baris 3**: `٦١٨ + ٩ + ١٢٠٠ = ١٨٢٧`
+     - **Kolom Kanan**: `١٨ + ١١٩١ + ٦١٨ = ١٨٢٧`
+     - **Kolom Tengah**: `١٢٠٩ + ٦٠٩ + ٩ = ١٨٢٧`
+     - **Kolom Kiri**: `٦٠٠ + ٢٧ + ١٢٠٠ = ١٨٢٧`
+     - **Diagonal 1**: `١٨ + ٦٠٩ + ١٢٠٠ = ١٨٢٧`
+     - **Diagonal 2**: `٦٠٠ + ٦٠٩ + ٦١٨ = ١٨٢٧`
 
 ### Khususiyah dan Tatacara Praktik
-Bentuk Rajah Angka 3×3 khas Faedah Qāṭi‘ah — mengunci aura piring (shaḥn naqiyy). Kecepatan (sarī‘atu al-nafādh): kombinasi angka wafaq + 5 sūrat/āyāt saat maḥw 7× terbukti cepat menetralkan jinn di syaraf dan melebur benteng penutup harta karun. Rajah angka tidak diterjemahkan — angka ‘Arabī ditulis apa adanya, arah baca kanan→kiri (18-1209-600 / 1191-609-27 / 618-9-1200).
-
-![Wafaq Hal 12 — 3×3 ‘Adad — 9 angka](hal12_crop_sharp.jpg)
-[Gambar: Wafaq 3×3 — 9 angka — 600,1209,18 / 27,609,1191 / 1200,9,618 — baca kanan→kiri 18-1209-600 — Crop tajam IMG_20261025_073117.jpg]
+1. **Arah Penulisan *Tadwīr* & Peleburan**:
+   - Tulislah Wafaq 3×3 dengan angka Arab asli di tengah piring baru yang bersih menggunakan tinta air mawar, za'faran, dan misik, lalu kelilingi dengan 5 surah/ayat dari Halaman 11 dimulai dari atas-kanan menuju ke kiri. Lebur dengan air hujan atau air sumur yang tidak terkena sinar matahari/bulan menggunakan jari telunjuk kanan sambil membaca kelima surah/ayat tersebut 7 kali.

@@ -51,15 +51,7 @@ dan inilah yang disebut Wafaq at-Tashrīf (Wafaq Pengaktifan Daya Guna).
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_59.png` & `wafaq_hal59.jpg` — Pembersihan Total Teks Draf Karangan**:
-   - Pada draf kiriman sebelumnya, Halaman 59 ditulis sebagai `قَاعِدَةُ اسْتِخْرَاجِ عَدَدِ التِّلَاوَةِ - الدرس الخامس` (teks karangan yang tidak ada dalam kitab). Setelah diverifikasi terhadap scan asli `hal_59.png` dan `wafaq_hal59.jpg`, halaman ini adalah kelanjutan langsung dari Halaman 58 yang menyajikan **`وَفْقُ التَّصْرِيفِ`** (*Wafqut-Tashrīf* 4×4).
-   - Sesuai pedoman baku workspace, huruf-huruf di dalam tabel wafaq **tidak dilatinkan dan tidak diterjemahkan**, serta disusun dalam orientasi kanan-ke-kiri (`dir="rtl"`):
-     - **Baris 1 (kanan→kiri)**: `| ح ت | ن ث | ا غ | س ز خ غ |` *(tampilan visual kiri→kanan pada gambar: `س ز خ غ | ا غ | ن ث | ح ت`)*
-     - **Baris 2 (kanan→kiri)**: `| ب غ | س و خ غ | ط ت | ط م ت |` *(tampilan visual kiri→kanan pada gambar: `ط م ت | ط ت | س و خ غ | ب غ`)*
-     - **Baris 3 (kanan→kiri)**: `| ه س و غ | ط ص ض | ن ب ث | ي ت |` *(tampilan visual kiri→kanan pada gambar: `ي ت | ن ب ث | ط ص ض | ه س و غ`)*
-     - **Baris 4 (kanan→kiri)**: `| ا ن ث | ا ي ت | س د خ غ | ق ر ذ |` *(tampilan visual kiri→kanan pada gambar: `ق ر ذ | س د خ غ | ا ي ت | ا ن ث`)*
-
-2. **Kunci *Istinthāq* 16 Kamar dari Wafaq Angka (Hal 58) ke Wafaq Huruf (Hal 59)**:
+1. **Kunci *Istinthāq* 16 Kamar dari Wafaq Angka (Hal 58) ke Wafaq Huruf (Hal 59)**:
    - Setiap kamar pada Halaman 59 adalah hasil pelafalan huruf (*istinthāq*) dari angka kamar yang bersesuaian pada Halaman 58:
      - **Baris 1**: `408 = ح (8) ت (400)` | `550 = ن (50) ث (500)` | `1001 = ا (1) غ (1000)` | `1667 = س (60) ز (7) خ (600) غ (1000)`
      - **Baris 2**: `1002 = ب (2) غ (1000)` | `1666 = س (60) و (6) خ (600) غ (1000)` | `409 = ط (9) ت (400)` | `549 = ط (9) م (40) ت (400)`

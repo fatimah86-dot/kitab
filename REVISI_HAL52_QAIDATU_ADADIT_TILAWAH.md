@@ -46,13 +46,13 @@ Kaidah mengeluarkan (menghitung) jumlah bacaan wirid bagi setiap penuntut ilmu.
 
 Wahai saudara-saudaraku karena Allah, setelah kalian mengetahui tata cara menetapkan rangkaian nama ke dalam sembilan hurufnya, kini kita meletakkan sebuah contoh untuk mengeluarkan (menghitung) jumlah bacaan wirid khusus bagi setiap orang dalam riyadhah Asmaul Husna: [ حَيٌّ قَيُّومٌ ] (Hayyun Qayyūmun).
 Misalnya nama penuntut ilmu beserta nama ibunya adalah [ سَعِيدٌ فَاطِمَةُ ] (Sa'īd bin Fāthimah), maka cara pengerjaannya adalah sebagai berikut:
-[ س ع ي د ف ا ط م ه ] [Rajah Huruf — tidak diterjemahkan] (9 huruf). Kita ambil huruf-huruf yang jatuh pada posisi-posisi ganjil (mawāqi'ul-afrād: urutan ke-1, 3, 5, 7, 9) karena posisi-posisi tersebut adalah tempat-tempat keagungan (mawāqi'u jalāl). Berdasarkan hal itu, maka huruf-huruf yang diambil adalah [ س ي ف ط ه ] [Rajah Huruf — tidak diterjemahkan]. Kemudian kita uraikan huruf-huruf tersebut secara ejaan lafal (basth lafzhī) tanpa mengikutsertakan huruf mad pada huruf yang memiliki mad tengah, disertai penetapan huruf hamzah di dalam uraian tersebut menjadi huruf Alif (sehingga setiap huruf yang berakhir dengan alif dan hamzah dihitung dua Alif):
+[ س ع ي د ف ا ط م ه ] [Rajah Huruf — tidak diterjemahkan] (9 huruf). Kita ambil huruf-huruf yang jatuh pada posisi-posisi ganjil (mawāqi'ul-afrād: urutan ke-1, 3, 5, 7, 9) karena posisi-posisi tersebut adalah tempat-tempat keagungan (mawāqi'u jalāl). Berdasarkan hal itu, maka huruf-huruf yang diambil adalah [ س ي ف ط ه ] [Rajah Huruf — tidak diterjemahkan]. Kemudian kita uraikan huruf-huruf tersebut secara ejaan lafal (basth lafzhī) tanpa mengikutsertakan huruf mad pada huruf yang memiliki mad tengah, disertai penetapan huruf hamzah di dalam uraian tersebut menjadi huruf [ ا ] [Rajah Huruf — tidak diterjemahkan] (sehingga setiap huruf yang berakhir dengan alif dan hamzah dihitung dua [ ا ا ]):
 [ س ن ي ا ا ف ا ا ط ا ا ه ا ا ] [Rajah Huruf — tidak diterjemahkan] = 14 huruf, dan jumlah nilai hisab seluruh hurufnya adalah [ 222 ]. Lalu kita tambahkan kepadanya jumlah bilangan hurufnya (14) seperti ini:
 222 + 14 = 236. Kemudian hasil keluarannya kita kalikan dengan sepuluh (10) seperti ini:
 236 dikalikan 10 maka hasilnya adalah 2360. Lalu kita kurangi hasil tersebut dengan jumlah nilai hisab huruf-huruf yang jatuh pada posisi-posisi genap (mawāqi'ul-azwāj: urutan ke-2, 4, 6, 8), yaitu:
 [ ع د ا م ] [Rajah Huruf — tidak diterjemahkan], yang jumlah nilai hisabnya adalah 115:
 2360 - 115 = 2245.
-Selanjutnya kita beralih kepada Asma Allah [ حَيٌّ قَيُّومٌ ] (Hayyun Qayyūmun); kita uraikan huruf-hurufnya secara ejaan lafal (basth lafzhī) disertai penetapan huruf hamzah menjadi huruf Alif seperti ini:
+Selanjutnya kita beralih kepada Asma Allah [ حَيٌّ قَيُّومٌ ] (Hayyun Qayyūmun); kita uraikan huruf-hurufnya secara ejaan lafal (basth lafzhī) disertai penetapan huruf hamzah menjadi huruf [ ا ] [Rajah Huruf — tidak diterjemahkan] seperti ini:
 [ ح ا ا ي ا ا ق ا ف ي ا ا و ا و م ي م ] [Rajah Huruf — tidak diterjemahkan] = 18 huruf, dan jumlah nilai hisab seluruh hurufnya adalah [ 318 ]. Lalu kita tambahkan kepadanya jumlah bilangan hurufnya (18):
 318 + 18 = 336.
 Kemudian kita jumlahkan kedua bilangan tersebut — yakni bilangan yang telah tetap dari nama penuntut ilmu (2245) dan bilangan dari Asmaul Husna [ حَيٌّ قَيُّومٌ ] (336) — seperti ini:
@@ -62,11 +62,7 @@ Dan limpahkanlah selawat serta salam yang sempurna, ya Allah, kepada junjungan k
 
 ### Syarah dan Penjelasan
 
-1. **Verifikasi 3× vs Scan Asli `hal_52.png` — Pembersihan Total Teks Draf yang Salah Halaman**:
-   - Pada draf kiriman sebelumnya, Halaman 52 ditulis sebagai `[ وَفْقُ الْمُثَلَّثِ الطَّبِيعِيِّ ]` (yang sebenarnya adalah isi Halaman 46). Setelah diverifikasi terhadap scan asli `hal_52.png`, isi asli Halaman 52 adalah Pelajaran Kelima: **`قَاعِدَةُ اسْتِخْرَاجِ عَدَدِ التِّلَاوَةِ لِكُلِّ طَالِبٍ`** (Kaidah Menghitung Jumlah Bacaan Wirid bagi Setiap Penuntut Ilmu).
-   - Seluruh deret huruf Hijaiyah terpisah (`[ س ع ي د ف ا ط م ه ]`, `[ س ي ف ط ه ]`, `[ س ن ي ا ا ف ا ا ط ا ا ه ا ا ]`, `[ ع د ا م ]`, `[ ح ا ا ي ا ا ق ا ف ي ا ا و ا و م ي م ]`) dipertahankan dalam huruf Arab aslinya tanpa dilatinkan dan diberi keterangan `[Rajah Huruf — tidak diterjemahkan]`.
-
-2. **Rincian Langkah Demi Langkah Rumus *Istikhrāj 'Adadit-Tilāwah***:
+1. **Rincian Langkah Demi Langkah Rumus *Istikhrāj 'Adadit-Tilāwah***:
    - **Langkah 1 — Pisahkan 9 Huruf Nama Menjadi *Afrād* (Ganjil) & *Azwāj* (Genap)**:
      - Rangkaian 9 huruf: `١(س) ٢(ع) ٣(ي) ٤(د) ٥(ف) ٦(ا) ٧(ط) ٨(م) ٩(ه)`.
      - **5 Huruf *Mawāqi'ul-Afrād* (urutan 1, 3, 5, 7, 9)**: **`[ س ي ف ط ه ]`**.
