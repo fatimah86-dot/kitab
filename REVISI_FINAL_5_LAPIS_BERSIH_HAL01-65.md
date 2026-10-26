@@ -34,7 +34,7 @@ Cahaya al-Qadiriyyah dan Ruh-Ruh ar-Rahmaniyyah.
 
 ### Khususiyah dan Tatacara Praktik
 1. **Adab Membuka Kitab Hikmah**:
-   - Halaman sampul depan merupakan penanda judul dan sanad penerbitan kitab; diawali dengan meluruskan niat semata-mata mencari ridha Allah Ta'ala serta menghadiahkan bacaan Surah al-Fātiḥah kepada मुअल्लिफ (penyusun) sebagaimana diwasiatkan pada Halaman 02.
+   - Halaman sampul depan merupakan penanda judul dan sanad penerbitan kitab; diawali dengan meluruskan niat semata-mata mencari ridha Allah Ta'ala serta menghadiahkan bacaan Surah al-Fātiḥah kepada *muallif* (penyusun) sebagaimana diwasiatkan pada Halaman 02.
 
 ## HALAMAN 02 — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
@@ -112,11 +112,11 @@ Laqad ajaztu kulla man washalat ilaihi fawā'idī wa riyādhātī ijāzatan 'ām
 
 Fīmā yurdhillāha wa rasūlahū wa yaqūmu bihā ba'da
 
-Ash-shalāti 'alal-Habībil-Mushthafā wa qirā'atil-Fātihati wa ihdā'i tsawābihā
+Ash-shalāti 'alal-Ḥabībil-Mushthafā wa qirā'atil-Fātiḥati wa ihdā'i tsawābihā
 
-Lirūhil-Habībi Muhammadin shallallāhu 'alaihi wa sallama wa ilā rūhi
+Lirūḥil-Ḥabībi Muḥammadin shallallāhu 'alaihi wa sallama wa ilā rūḥi
 
-Syaikhī rahmatullāhi 'alaihi wal-Fātihatu lī
+Syaikhī raḥmatullāhi 'alaihi wal-Fātiḥatu lī
 
 Wa ilasy-Syaikhil-Faqīril-Qādiriyyi athālallāhu lanā fī 'umurihī
 
@@ -209,17 +209,17 @@ Syeikh al-Basyir.
 Fihrisu Mujarrabātisy-Syaikhil-Basyīri
 
 1. Tharīqatul-maysarati fī jalbil-arzāqi
-2. Fā'idatun muhriqatun thāridatun lil-jinni wal-maradati bi-idznillāhi
+2. Fā'idatun muḥriqatun thāridatun lil-jinni wal-maradati bi-idznillāhi
 3. Fā'idatun qāthi'atun li-'ilājil-massi
 4. Az-zajrul-qāthi'u li-akhdzil-'ahdi wal-mītsāqi 'alā khādimil-istinzāli
-5. Fā'idatun li-thardi 'Athlūsyin mufsidil-a'mālir-rūhāniyyati
-6. Ad-durratun-nūrāniyyatu fī 'ilājil-a'rādhir-rūhāniyyati
+5. Fā'idatun li-thardi 'Athlūsyin mufsidil-a'mālir-rūḥāniyyati
+6. Ad-durratun-nūrāniyyatu fī 'ilājil-a'rādhir-rūḥāniyyati
 7. Fā'idatun fī tadmīrizh-zhālimi
 8. Fā'idatun mujarrabatun li-qahril-qarīni
 9. As-saiful-battāru li-daf'i Maimūninil-ghaddāri
 10. Fā'idatun qāthi'atun li-raddil-khādimi
 11. Du'ā'ul-khā'ifi
-12. Al-āyātul-'asyrul-mubthilātu lin-naftsi was-sihri
+12. Al-āyātul-'asyrul-mubthilātu lin-naftsi was-siḥri
 13. Fā'idatun fil-kasyfil-manāmiyyi
 
 ### Terjemahan
@@ -285,27 +285,27 @@ Tharīqatul-maysarati fī jalbil-arzāqi.
 
 Ikhwatī fillāhi,
 
-Adha'u baina aidīkum hādzihid-durratan-nāfi'ata fī jalbil-arzāqi, wa rawājit-tijārati, wa hiya tharīqatul-maysarati, warta'aitu an adha'ahā lakum limā fīhā minal-khairi wal-barakati, wa kadzālika lihtiwā'ihā 'alā qawā'ida harfiyyatin tusā'idukum 'alā mā nahnu bishadadihī bi-idznillāhi.
+Adha'u baina aidīkum hādzihid-durratan-nāfi'ata fī jalbil-arzāqi, wa rawājit-tijārati, wa hiya tharīqatul-maysarati, warta'aitu an adha'ahā lakum limā fīhā minal-khairi wal-barakati, wa kadzālika liḥtiwā'ihā 'alā qawā'ida ḥarfiyyatin tusā'idukum 'alā mā naḥnu bishadadihī bi-idznillāhi.
 
 Wa nadha'u fī dzālika mitsālan bismi Murādin wa ummihī Maryama,
 
-‎[ م ر ا د م ر ي م ] = 535 nalfizhul-'adada harfiyyan,
+‎[ م ر ا د م ر ي م ] = 535 nalfizhul-'adada ḥarfiyyan,
 
-‎535 , [ خ م س و ث ل ا ث و ن و خ م س م ا ئ ه ] , tsumma nuzīlut-takrāra minal-hurūfi hākadzā,
+‎535 , [ خ م س و ث ل ا ث و ن و خ م س م ا ئ ه ] , tsumma nuzīlut-takrāra minal-ḥurūfi hākadzā,
 
-‎[ خ م س و ث ل ن ا هـ ] = 9 ahrufin, wa kadzālika naf'alu bismith-thālibi nuzīlu minhul-mukarrara wa hurūfal-maddi hākadzā,
+‎[ خ م س و ث ل ن ا هـ ] = 9 aḥrufin, wa kadzālika naf'alu bismith-thālibi nuzīlu minhul-mukarrara wa ḥurūfal-maddi hākadzā,
 
-‎[ م ر ا د م ر ي م ] , tashīru kat-tālī, [ م ر د ي ] = 4 hurūfin, tsumma nathrahul-aqalla minal-aktsari,
+‎[ م ر ا د م ر ي م ] , tashīru kat-tālī, [ م ر د ي ] = 4 ḥurūfin, tsumma nathraḥul-aqalla minal-aktsari,
 
-‎9 - 4 = 5 fatsabatal-'amalu fī wafqin mukhammasin, wa 'adadu buyūtihī 25 baitan, tsumma ba'da dzālika nuqārinu hurūfa lafzhil-'adadi ma'a hurūfith-thālibi wa nuzīlul-mukarrara minhumā, [ خ م س و ث ل ن ا هـ م ر د ي ] , fatashīrul-hurūfu hākadzā,
+‎9 - 4 = 5 fatsabatal-'amalu fī wafqin mukhammasin, wa 'adadu buyūtihī 25 baitan, tsumma ba'da dzālika nuqārinu ḥurūfa lafzhil-'adadi ma'a ḥurūfith-thālibi wa nuzīlul-mukarrara minhumā, [ خ م س و ث ل ن ا هـ م ر د ي ] , fatashīrul-ḥurūfu hākadzā,
 
-‎[ خ م س و ث ل ن ا هـ م ر د ي ] = 12 harfan nathrahuhā min 'adadi buyūtil-mukhammasi, 25 - 12 = 13,
+‎[ خ م س و ث ل ن ا هـ م ر د ي ] = 12 ḥarfan nathraḥuhā min 'adadi buyūtil-mukhammasi, 25 - 12 = 13,
 
-Wa hādzā huwal-ussul-harfiyyul-mu'addalu, fana'khudzu minal-hurūfi mā kāna 'adaduhū aqalla min 13 tūdha'u fī wafqil-'amali wa mā kāna aktsara min 13 fahiya lir-rūhāniyyi, wal-hurūful-mustakhrajatu hiya kal-ātī,
+Wa hādzā huwal-ussul-ḥarfiyyul-mu'addalu, fana'khudzu minal-ḥurūfi mā kāna 'adaduhū aqalla min 13 tūdha'u fī wafqil-'amali wa mā kāna aktsara min 13 fahiya lir-rūḥāniyyi, wal-ḥurūful-mustakhrajatu hiya kal-ātī,
 
 ‎Aqallu min 13 , [ و ا هـ د ي ]
 
-‎Aktsaru min 13 , [ خ م س ث ل ن ر ] , wajaba 'alainā ta'dīlu harfaini zhulmāniyyaini minar-rūhāniyyi [ خ ث ] lākinna-tta'dīla yakūnu bil-mīzānil-aiqaghiyyi bidūni nisabin tafādhuliyyatin, wa 'alaihi nastabdilu harfa [ خ ] biharfi [ س ] wa [ ث ] biharfi [ ن ] fatashīrul-hurūfu kat-tālī [ س م س ن ل ن ر ] tsumma nukassiruhā 3 marrātin hākadzā,
+‎Aktsaru min 13 , [ خ م س ث ل ن ر ] , wajaba 'alainā ta'dīlu ḥarfaini zhulmāniyyaini minar-rūḥāniyyi [ خ ث ] lākinna-tta'dīla yakūnu bil-mīzānil-aiqaghiyyi bidūni nisabin tafādhuliyyatin, wa 'alaihi nastabdilu ḥarfa [ خ ] biḥarfi [ س ] wa [ ث ] biḥarfi [ ن ] fatashīrul-ḥurūfu kat-tālī [ س م س ن ل ن ر ] tsumma nukassiruhā 3 marrātin hākadzā,
 
 ‎[ س م س ن ل ن ر ]
 ‎[ ر س ن م ل س ن ]
@@ -404,19 +404,19 @@ Dan angka 13 inilah yang disebut pokok huruf yang telah diseimbangkan (al-ussul-
 ### latin
 Tharīqatul-maysarati fī jalbil-arzāqi.
 
-Tsumma nalquthu minas-sathrits-tsānī ismar-rūhāniyyi mubtadi'īna minal-harfits-tsānī wa nasīru bit-tatslītsi hākadzā,
+Tsumma nalquthu minas-sathrits-tsānī ismar-rūḥāniyyi mubtadi'īna minal-ḥarfits-tsānī wa nasīru bit-tatslītsi hākadzā,
 
-‎[ س م س ] wa 'alaihi yakūnur-rūhāniyyu huwa [ Samsā'īlu ] tsumma nalquthu minas-sathrits-tsālitsi kadzālika bit-tatslītsi
+‎[ س م س ] wa 'alaihi yakūnur-rūḥāniyyu huwa [ Samsā'īlu ] tsumma nalquthu minas-sathrits-tsālitsi kadzālika bit-tatslītsi
 
-‎mubtadi'īna minal-harfil-awwali listikhrājir-rūhāniyyil-hākimi fatakūnu hurūfuhū hiya [ ن س ل م ] wa 'alaihi
+‎mubtadi'īna minal-ḥarfil-awwali listikhrājir-rūḥāniyyil-ḥākimi fatakūnu ḥurūfuhū hiya [ ن س ل م ] wa 'alaihi
 
-yakūnur-rūhāniyyu ba'da tartībi hurūfihī huwa [ Nalsamā'īlu ] tsumma na'khudzu hurūfal-'amali war-rūhāniyyil-hākimi
+yakūnur-rūḥāniyyu ba'da tartībi ḥurūfihī huwa [ Nalsamā'īlu ] tsumma na'khudzu ḥurūfal-'amali war-rūḥāniyyil-ḥākimi
 
-mabsūthatan bidūni takrārin wa bidūni hurūfin zhulmāniyyatin wa nastakhriju minhā mā tarakkaba fīhā min asmā'illāhi
+mabsūthatan bidūni takrārin wa bidūni ḥurūfin zhulmāniyyatin wa nastakhriju minhā mā tarakkaba fīhā min asmā'illāhi
 
-‎al-husnan-nūrāniyyati hākadzā, [ ن ل ا م س ي هـ ] wa 'alaihi takūnul-asmā'ul-mustakhrajatu hiya [ Lā ilāha illallāhul-Muhaiminu ] wa hiyal-latī tutlā 'alal-'amali,
+‎al-ḥusnan-nūrāniyyati hākadzā, [ ن ل ا م س ي هـ ] wa 'alaihi takūnul-asmā'ul-mustakhrajatu hiya [ Lā ilāha illallāhul-Muhaiminu ] wa hiyal-latī tutlā 'alal-'amali,
 
-Ammā tharīqatul-'amali, na'khudzul-hurūfal-khamsatal-latī lil-'amali wa naqsimuhā 'alā 7 listikhrāji sā'atil-'amali
+Ammā tharīqatul-'amali, na'khudzul-ḥurūfal-khamsatal-latī lil-'amali wa naqsimuhā 'alā 7 listikhrāji sā'atil-'amali
 
 hākadzā,
 
@@ -424,17 +424,17 @@ hākadzā,
 
 takūnul-kitābatu wat-tilāwatu sā'ataz-Zuharati fī ayyi yaumin syi'nā,
 
-Fana'khudzu hurūfal-'amali murattabatan wa nanzilu bihā fī wafqin mukhammasin wa nuhawwithuhū bil-āyati [ Qauluhul-haqqu wa lahul-mulku ]
+Fana'khudzu ḥurūfal-'amali murattabatan wa nanzilu bihā fī wafqin mukhammasin wa nuḥawwithuhū bil-āyati [ Qauluhul-ḥaqqu wa lahul-mulku ]
 
-‎wa naktubu 'alal-arkānil-arba'ati ismar-rūhāniyyi [ Samsā'īla ] wa nudawwiru 'alaihil-āyatainil-karīmataini, ﴿ Allāhu
+‎wa naktubu 'alal-arkānil-arba'ati ismar-rūḥāniyyi [ Samsā'īla ] wa nudawwiru 'alaihil-āyatainil-karīmataini, ﴿ Allāhu
 
 ‎lathīfun bi'ibādihī yarzuqu man yasyā'u wa Huwal-Qawiyyul-'Azīzu ﴾ , wal-āyata, ﴿ Alladzīna yatlūna kitāballāhi ... ilā lan
 
 ‎tabūra ﴾ .
 
-Wa fī nafsil-waraqati min warā'il-wafqil-mukhammasi tarsumu wafqan biqadri hurūfir-rūhāniyyil-hākimi wa nanzilu bihī
+Wa fī nafsil-waraqati min warā'il-wafqil-mukhammasi tarsumu wafqan biqadri ḥurūfir-rūḥāniyyil-ḥākimi wa nanzilu bihī
 
-kamā fa'alnā bihurūfil-'amali fī mitsālinā hādzā yakūnu wafqan murabba'an wa tuhawwithuhū bismihī, wal-kitābatu takūnu
+kamā fa'alnā biḥurūfil-'amali fī mitsālinā hādzā yakūnu wafqan murabba'an wa tuḥawwithuhū bismihī, wal-kitābatu takūnu
 
 bimā'i wardin wa za'farānin wa miskin ma'a bakhūrin thayyibin
 
@@ -459,7 +459,7 @@ Adapun tata cara pengerjaan amalannya: kita ambil kelima huruf amalan tadi, lalu
 
 seperti ini:
 
-‎[ و ا هـ د ي ] [Rajah Huruf — tidak diterjemahkan] = 27 (6 + 1 + 5 + 4 + 10 = 26/27), dibagi 7 hasilnya 3 dan sisanya 6; dengan demikian jam pengerjaan amalannya adalah jam ke-6 yaitu jam planet Zuhrah (Venus). Berdasarkan hal itu,
+‎[ و ا هـ د ي ] [Rajah Huruf — tidak diterjemahkan] = 27, dibagi 7 hasilnya 3 dan sisanya 6; dengan demikian jam pengerjaan amalannya adalah jam ke-6 yaitu jam planet Zuhrah (Venus). Berdasarkan hal itu,
 
 penulisan wafaq dan pembacaan wiridnya dikerjakan pada jam Zuhrah di hari apa saja yang kita kehendaki.
 
@@ -476,10 +476,12 @@ dengan tinta air mawar, za'faran, dan misik, disertai pengasapan bukhur yang har
 seperti lubān (kemenyan Arab) dan kayu 'ūd ash-shalīb.
 
 ### Syarah dan Penjelasan
-1. **Metode Pemungutan *Bit-Tatslīts* & Ekstraksi Dzikir Asmā'ul-Husnā**:
-‎   - Dari baris ke-2 *taksīr* (`ر س ن م ل س ن`), dimulai dari huruf ke-2 (`س`) dengan loncat 3 huruf diperoleh **`[ س م س ]`** → **`[ سَمْسَائِيلُ ]`** (*Samsā'īl*, khadim pelaksana pada 4 sudut Wafaq 5×5).
-‎   - Dari baris ke-3 *taksīr* (`ن ر س س ل ن م`), dimulai dari huruf ke-1 (`ن`) dengan loncat 3 huruf diperoleh **`[ ن س ل م ]`** → setelah ditertibkan menjadi **`[ نَلْسَمَائِيلُ ]`** (*Nalsamā'īl*, khadim penguasa pada Wafaq 4×4 di balik kertas).
-‎   - Gabungan huruf amalan (`و ا هـ د ي`) dan huruf khadim penguasa (`ن س ل م`) setelah dibuang pengulangan dan huruf *zhulmānī* (`د`) menyisakan **`[ ن ل ا م س ي هـ ]`**, yang membentuk kalimat tauhid dan Asmā'ul-Husnā **`[ لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ ]`**.
+1. **Metode Pemungutan *Bit-Tatslīts* & Ekstraksi Dzikir Asmā'ul-Ḥusnā**:
+   - Dari baris ke-2 *taksīr* (`ر س ن م ل س ن`), dimulai dari huruf ke-2 (`س`) dengan loncat 3 huruf diperoleh **`[ س م س ]`** → **`[ سَمْسَائِيلُ ]`** (*Samsā'īl*, khadim pelaksana pada 4 sudut Wafaq 5×5).
+   - Dari baris ke-3 *taksīr* (`ن ر س س ل ن م`), dimulai dari huruf ke-1 (`ن`) dengan loncat 3 huruf diperoleh **`[ ن س ل م ]`** → setelah ditertibkan menjadi **`[ نَلْسَمَائِيلُ ]`** (*Nalsamā'īl*, khadim penguasa pada Wafaq 4×4 di balik kertas).
+   - Gabungan huruf amalan (`و ا هـ د ي`) dan huruf khadim penguasa (`ن س ل م`) setelah dibuang pengulangan dan huruf *zhulmānī* (`د`) menyisakan **`[ ن ل ا م س ي هـ ]`**, yang membentuk kalimat tauhid dan Asmā'ul-Ḥusnā **`[ لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ ]`**.
+2. **Penentuan Jam Amalan (*Sā'atul-'Amal*)**:
+   - Dalam matan ditetapkan jumlah nilai kelima huruf amalan **`[ و ا هـ د ي ]`** sebesar **`27`**, yang dibagi `7` menghasilkan `3` dengan sisa **`6`** (*bāqī 6*), sehingga waktu penulisan dan pembacaannya jatuh pada **jam Zuhrah (Venus)** di hari apa saja yang dikehendaki. Catatan penyunting: penjumlahan biasa `6 + 1 + 5 + 4 + 10` menghasilkan `26`, bukan `27`. Angka `27` dan sisa `6` dipertahankan sebagai bacaan matan; alasan perbedaan ini belum dapat dipastikan.
 
 ### Khususiyah dan Tatacara Praktik
 1. **Waktu, Media Tulis, dan Bukhur**:
@@ -516,62 +518,34 @@ Tharīqatul-maysarati fī jalbil-arzāqi.
 
 Wa hādzā wafqul-'amali:
 
-| ا | هـ | ي | د | و |
-|---|---|---|---|---|
-| و | ا | د | هـ | ي |
-| ي | و | هـ | ا | د |
-| د | ي | ا | و | هـ |
-| هـ | د | و | ي | ا |
-
 [Wafaq Mukhammas 5×5 Huruf 'Amal — Asror Huruf Arab, tidak dilatinkan]
 
-Wa hādzal-wafqul-murabba'ul-ladzī nazalnā fīhir-rūhāniyya:
+Wa hādzal-wafqul-murabba'ul-ladzī nazalnā fīhir-rūḥāniyya:
 
-| ن | ل | س | م |
-|---|---|---|---|
-| م | ن | ل | س |
-| س | م | ن | ل |
-| ل | س | م | ن |
-
-[Wafaq Murabba' 4×4 Huruf Rūhānī Hākim — Asror Huruf Arab, tidak dilatinkan]
+[Wafaq Murabba' 4×4 Huruf Rūḥānī Ḥākim — Asror Huruf Arab, tidak dilatinkan]
 
 Wa 'adadul-'azīmati 196 marratan ma'at-tawajjuhi ilallāhi 'Azza wa Jalla bithalabika,
 
 As'alullāha 'Azza wa Jalla an yanfa'akum bihādzihidz-dzakhīratil-mubārakati innahū Waliyyu dzālika wal-Qādiru 'alaihi was-salāmu.
-
 ### Terjemahan
 Metode al-Maysarah (kemudahan) dalam menarik rezeki.
 
 Dan inilah wafaq amalannya (Wafaq Mukhammas 5×5):
 
-| ا | هـ | ي | د | و |
-|---|---|---|---|---|
-| و | ا | د | هـ | ي |
-| ي | و | هـ | ا | د |
-| د | ي | ا | و | هـ |
-| هـ | د | و | ي | ا |
-
 [Wafaq Mukhammas 5×5 Huruf 'Amal — Asror Huruf Arab, tidak diterjemahkan]
 
 Dan inilah Wafaq Murabba' (4×4) yang kita turunkan di dalamnya huruf-huruf khadim rūhānī penguasanya:
-
-| ن | ل | س | م |
-|---|---|---|---|
-| م | ن | ل | س |
-| س | م | ن | ل |
-| ل | س | م | ن |
 
 [Wafaq Murabba' 4×4 Huruf Rūhānī Hākim — Asror Huruf Arab, tidak diterjemahkan]
 
 Adapun jumlah bacaan 'azīmah (wirid Lā ilāha illallāhul-Muhaimin)-nya adalah 196 kali disertai menghadapkan hati sepenuhnya (tawajjuh) kepada Allah 'Azza wa Jalla dengan menyebutkan hajat permohonanmu.
 
 Aku memohon kepada Allah 'Azza wa Jalla semoga Dia memberikan manfaat kepada kalian melalui simpanan berharga yang diberkahi ini; sesungguhnya Dialah Pelindung dalam hal itu dan Yang Maha Kuasa atasnya. Wassalam.
-
 ### Syarah dan Penjelasan
 1. **Struktur Matriks Kedua Wafaq Halaman 08**:
 ‎   - **Wafaq Pertama (Mukhammas 5×5 — *Wafqul-'Amal*)**: Memuat 5 huruf amalan `[ ا ، هـ ، ي ، د ، و ]` yang diputar secara siklik (*tadwīr*) pada 25 sel dari kanan ke kiri, sehingga setiap baris dan kolom memuat kelima huruf tersebut secara utuh tanpa pengulangan.
 ‎   - **Wafaq Kedua (Murabba' 4×4 — *Wafqur-Rūhāniyyil-Hākim*)**: Memuat 4 huruf dasar khadim rūhānī penguasa `[ ن ، ل ، س ، م ]` (`نَلْسَمَائِيلُ`) yang diputar secara siklik pada 16 sel dari kanan ke kiri di halaman belakang kertas.
-‎   - **Rahasia Bilangan 196**: Angka wirid **196** merupakan hasil kuadrat dari angka 14 (`14 × 14 = 196`, jumlah huruf Nūrāniyyah) sekaligus selaras dengan nilai hisab Asmā'ul-Husnā **`الْمُهَيْمِنُ`** (`1 + 30 + 40 + 5 + 10 + 40 + 50 = 176 / 196`).
+‎   - **Rahasia Bilangan 196**: Angka wirid **196** merupakan jumlah nilai *Hisab Jumal Kabīr* dari ketujuh huruf *nūrāniyyah* hasil ekstraksi pada Halaman 07 **`[ ن ل ا م س ي هـ ]`**: `ن (50) + ل (30) + ا (1) + م (40) + س (60) + ي (10) + هـ (5) = 196` (sekaligus tepat bernilai `14 × 14 = 196`, yaitu kuadrat dari 14 huruf *nūrāniyyah*).
 
 ### Khususiyah dan Tatacara Praktik
 1. **Tata Cara Pengamalan Lengkap**:
@@ -608,7 +582,7 @@ Fā'idatun muḥriqatun thāridatun lil-jinni wal-maradati bi'idznillāhi
 
 As-Salāmu 'alaikum wa raḥmatullāhi wa barakātuhū
 
-Ikhwatī fillāhi, adhaʿu lakum hādzihil-fā'idatal-khāshshata bi'ihrāqil-jinni wa thardihī min jasadil-insāni bi'idznillāhi, wa hiya kat-tālī:
+Ikhwatī fillāhi, adha'u lakum hādzihil-fā'idatal-khāshshata bi'iḥrāqil-jinni wa thardihī min jasadil-insāni bi'idznillāhi, wa hiya kat-tālī:
 
 Na'khudzu ismas-syakhshi wa ummihī wa nuzīlu minhul-ḥurūfal-mukarrarata in kāna fil-ismi, wa illā yabqal-ismu kamā huwa bidūni ḥadzfin idzā lam tatakarrar fīhil-ḥurūfu.
 
@@ -616,17 +590,17 @@ Na'khudzu ismas-syakhshi wa ummihī wa nuzīlu minhul-ḥurūfal-mukarrarata in 
 
 Ḥaitsu yakūnu awwalu ḥarfin minhā wa ākhiru ḥarfin minhā kadzālika.
 
-Tsumma naksirus-sathral-mamzūja ilal-makhraji maʿa tarkihī, ay na'khudzus-suthūral-latī qablahū faqath, wa nanzhuru ilā ʿadadi suthūrit-taksīri ahī zaujun am fardun, fa'in kānat zaujiyyatan na'khudzur-rūḥāniyya minas-sathrit-tsānī, wa in kānat fardiyyatan na'khudzuhū minas-sathrit-tsālitsi.
+Tsumma naksirus-sathral-mamzūja ilal-makhraji ma'a tarkihī, ay na'khudzus-suthūral-latī qablahū faqath, wa nanzhuru ilā 'adadi suthūrit-taksīri ahī zaujun am fardun, fa'in kānat zaujiyyatan na'khudzur-rūḥāniyya minas-sathrit-tsānī, wa in kānat fardiyyatan na'khudzuhū minas-sathrit-tsālitsi.
 
 Wa kadzālika ḥurūfuhū, in kānat-taksīru zaujan takūnu ḥurūfur-rūḥāniyya zaujiyyatan, wa in kāna fardan takūnu ḥurūfuhū fardiyyatan.
 
 Wal-akhdzu minas-sathri bitarki ḥarfaini min awwalis-sathri wa ḥarfaini min ākhirihī ḥattā yabqā lanā ḥurūfur-rūḥāniyya fil-wasathi, hādzā idzā kānat-taksīru zaujan. Ammā in kāna fardan natruku ḥarfan minal-awwali wa ḥarfan minal-ākhiri ḥattā tabqā ḥurūfur-rūḥāniyya fil-wasathi.
 
-Tsumma najmaʿu ʿadada ḥurūfir-rūḥāniyya wa nastanthiquhā wa nudzayyiluhā bi-Āyīla, wa narsumu jadwalan biʿadadi ḥurūfit-taksīri wa naktubu ʿalā arkānihis-mar-rūḥāniyyil-mustakharaji, wa nudawwiru ʿalal-jamīʿil-qasamal-ātīyā dzikruhū.
+Tsumma najma'u 'adada ḥurūfir-rūḥāniyya wa nastanthiquhā wa nudzayyiluhā bi-Āyīla, wa narsumu jadwalan bi'adadi ḥurūfit-taksīri wa naktubu 'alā arkānihis-mar-rūḥāniyyil-mustakharaji, wa nudawwiru 'alal-jamī'il-qasamal-ātīyā dzikruhū.
 
-Naʿmalu tsalātsa waraqātin minal-ʿamalil-madzkūri, wa naktubuhū aidhan fī shaḥnin naqiyyin wa yumḥā bimā'in thāhirin. Yubakharul-marīdhu tsalātsa layālin mutatāliyatin, fī kulli lailatin waraqatun, wa yudhanu kadzālika jismuhū kulluhū kulla lailatin baʿdal-bakhūri, wa yanāmu fī firāsyihī munʿazilan.
+Na'malu tsalātsa waraqātin minal-'amalil-madzkūri, wa naktubuhū aidhan fī shaḥnin naqiyyin wa yumḥā bimā'in thāhirin. Yubakharul-marīdhu tsalātsa layālin mutatāliyatin, fī kulli lailatin waraqatun, wa yudhanu kadzālika jismuhū kulluhū kulla lailatin ba'dal-bakhūri, wa yanāmu fī firāsyihī mun'azilan.
 
-Wal-bakhūrul-ladzī yudhaʿu maʿa kulli waraqatin huwa: 7 waraqāti sidrin, 7 ḥabbāti qaranfulin, qalīlun minal-masthakā.
+Wal-bakhūrul-ladzī yudha'u ma'a kulli waraqatin huwa: 7 waraqāti sidrin, 7 ḥabbāti qaranfulin, qalīlun minal-masthakā.
 
 Wa hādzā mitsālul-lilqiyāsi, faradnās-mal-marīdhi wa ummihī huwa: Ḥasan Ruqayyah,
 
@@ -641,7 +615,7 @@ Kita ambil nama orang dan ibunya, lalu buang huruf yang berulang jika ada dalam 
 
 ‎Kemudian kita campur nama tersebut dengan Huruf-Huruf Api dan Udara Nurani: [ ا ه ط م ك س ق ] — di mana huruf pertama dan huruf terakhir dari rangkaian tersebut diapit oleh huruf itu — Ha ditulis ه.
 
-Kemudian kita lakukan taksir (pemecahan baris) pada baris campuran tersebut sampai kembali ke ma-khraj dengan meninggalkan baris terakhir, yakni hanya mengambil baris-baris sebelumnya saja. Kita lihat jumlah baris taksir, apakah genap atau ganjil: jika genap kita ambil Ruhani dari baris kedua, jika ganjil kita ambil dari baris ketiga.
+Kemudian kita lakukan taksir (pemecahan baris) pada baris campuran tersebut sampai kembali ke makhraj dengan meninggalkan baris terakhir, yakni hanya mengambil baris-baris sebelumnya saja. Kita lihat jumlah baris taksir, apakah genap atau ganjil: jika genap kita ambil Ruhani dari baris kedua, jika ganjil kita ambil dari baris ketiga.
 
 Begitu pula hurufnya: jika taksir genap maka huruf Ruhani genap, jika ganjil maka hurufnya ganjil. Cara mengambil dari baris: jika taksir genap, buang 2 huruf dari awal dan 2 huruf dari akhir baris sehingga sisa huruf Ruhani di tengah — ini jika taksir genap; adapun jika ganjil, buang 1 huruf dari awal dan 1 dari akhir sampai tersisa huruf Ruhani di tengah.
 
@@ -654,10 +628,22 @@ Adapun bakhur yang diletakkan bersama setiap lembar adalah: 7 lembar daun Sidr (
 Dan ini contoh untuk qiyas: kita andaikan nama pasien dan ibunya adalah: Hasan Ruqayyah.
 
 ### Syarah dan Penjelasan
-‎Halaman ini adalah Faedah Muhriqah Tharidah — kaidah hisab nama + ibunya tanpa takrir, kemudian di-mix dengan 7 huruf Nariyah-Hawaiyah Nurani [ ا ه ط م ك س ق ] dengan Ha = ه . Taksir dilakukan ilal-makhraj dengan tark baris terakhir, lalu dilihat genap/ganjil untuk menentukan baris sumber Ruhani (baris 2 jika genap, baris 3 jika ganjil) dan jumlah huruf Ruhani mengikuti genap/ganjil. Pengambilan Ruhani dengan membuang 2 huruf depan-belakang (jika genap) atau 1 huruf (jika ganjil) agar tersisa di wasath. Nilai huruf Ruhani dijumlah (hisab jumal), di-istinthaq menjadi nama, diakhiri -Āyīl (mis. ...āyīl). Wafaq digambar sejumlah huruf taksir, 4 sudut diisi nama Ruhani, sekeliling diputar qasam (akan disebut Hal10).
+1. **Kaidah *Mazj* dengan 7 Huruf *Nāriyyah–Hawā'iyyah Nūrāniyyah* (`[ ا ه ط م ك س ق ]`)**:
+   - Nama pasien beserta nama ibunya disaring terlebih dahulu dari huruf yang berulang (apabila tidak ada pengulangan, dibiarkan utuh sebagaimana contoh **`حَسَن رُقَيَّة`** dimana *tā' marbūthah* ditulis sebagai `ه`), kemudian dipadukan selang-seling (*mazj*) dengan 7 huruf berunsur Api dan Udara *nūrāniyyah* **`[ ا ه ط م ك س ق ]`** sehingga huruf awal dan akhir baris pembauran berasal dari ketujuh huruf unsur tersebut.
+2. **Kaidah *Taksīr ilal-Makhraj* & Ekstraksi *Khadim Rūḥānī***:
+   - Baris hasil *mazj* di-*taksīr* hingga kembali ke baris asal (*makhraj*), lalu baris *makhraj* ditinggalkan dan dihitung jumlah baris *taksīr* sebelumnya:
+     - Jika jumlah baris **genap (*zauj*)**: huruf *rūḥānī* diambil dari **baris ke-2** (berjumlah genap) dengan menyisihkan 2 huruf di awal dan 2 huruf di akhir baris hingga tersisa huruf tengah (*wasath*).
+     - Jika jumlah baris **ganjil (*fard*)**: huruf *rūḥānī* diambil dari **baris ke-3** (berjumlah ganjil) dengan menyisihkan 1 huruf di awal dan 1 huruf di akhir baris hingga tersisa huruf tengah (*wasath*).
+   - Jumlah nilai *Jumal Kabīr* huruf-huruf tengah tersebut di-*istinthāq* menjadi huruf dan diberi akhiran **`آيِيل`** (*-āyīl*), lalu dituliskan pada keempat sudut tabel *taksīr* dan dikelilingi dengan bacaan *qasam* pada Halaman 10.
 
 ### Khususiyah dan Tatacara Praktik
-‎Khasiat: membakar/mengusir jin & maradah dari jasad dengan izin Allah. Tatacara: tulis 3 waraqah amalan + tulis di shahn naqiy (piring bersih) → hapus dengan mā' thāhir (air suci). Bakhur 3 malam mutataliyah: tiap malam bakar 1 waraqah bersama 7 waraqāt Sidr + 7 habbāt Qaranful + qalīl Masthakā, lalu oleskan air hapusan piring ke seluruh jasad setelah bakhur, tidur mun'azilan (menyendiri). Rajah huruf [ ا ه ط م ك س ق ] tidak diterjemahkan — tetap arab dengan Ha = ه.
+1. **Khasiat Utama**:
+   - Membakar dan mengusir jin pembangkang (*maradah*) dari tubuh pasien dengan izin Allah Ta'ala.
+2. **Media Tulis & Ramuan Bukhur**:
+   - Buatlah **3 lembar kertas** bertuliskan jadwal *taksīr*, nama khadim di empat sudut, dan lingkaran *qasam*, serta tuliskan pula 1 kali pada piring putih bersih (*shaḥn naqī*) lalu lebur dengan air suci (*mā' thāhir*).
+   - Takaran bukhur pendamping untuk setiap lembar kertas: **7 lembar daun bidara (*sidr*)**, **7 butir cengkeh (*qaranful*)**, dan **sedikit kemenyan *masthakā***.
+3. **Tata Cara Terapi 3 Malam Berturut-turut**:
+   - Selama **3 malam berturut-turut**, setiap malam pasien diasapi dengan 1 lembar kertas amalan bersama ramuan bukhur di atas, kemudian seluruh jasadnya dibalur/diolesi dengan air leburan piring setelah pengasapan, lalu tidur menyendiri (*mun'azilan*) di tempat tidurnya.
 
 ## HALAMAN 10 — فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ (٢)
 
@@ -682,25 +668,17 @@ Dan ini contoh untuk qiyas: kita andaikan nama pasien dan ibunya adalah: Hasan R
 ‏[الأَرْكَانُ الأَرْبَعَةُ حَوْلَ الجَدْوَلِ]: حَنَقَايِيلُ
 
 ### latin
-Fā'idatun muhriqatun thāridatun lil-jinni wal-maradati bi-idznillāhi.
+Fā'idatun muḥriqatun thāridatun lil-jinni wal-maradati bi-idznillāhi.
 
-‎Akhadznā hurūfar-rūhāniyyi minas-sathrits-tsālitsi wa hiya [ ن ح ق ] , 'adaduhā 158, nuthquhā [ Ḥinqāyīlu / Ḥanaqāyīlu ] huwar-rūhāniyyu, naktubuhū 'alal-arkāni wa nudawwiru bihil-qasamal-ātiya:
+‎Akhadznā ḥurūfar-rūḥāniyyi minas-sathrits-tsālitsi wa hiya [ ن ح ق ] , 'adaduhā 158, nuthquhā [ Ḥinqāyīlu / Ḥanaqāyīlu ] huwar-rūḥāniyyu, naktubuhū 'alal-arkāni wa nudawwiru bihil-qasamal-ātiya:
 
-‎[ Bismillāhir-rahmānir-rahīmi, aqsamtu 'alaikum ayyatuhal-arwāhur-rūhāniyyatu Thaktāyīlu wa anta yā 'Autsāyīlu bihaqqil-malikil-hākimi 'alaikum Qahghāyīlu wa bihaqqi Ahyā Syarāhiyā Adūnāya Ashbā'ūta Āli Syaddāya wa bihaqqi ﴿ In kānat illā shaihatan wāhidatan fa-idzā hum jamī'un ladainā muhdharūna ﴾, an tahdhurus-sā'ata wa tanzilū 'alā hādzal-māridil-mutajabbiri wal-mu'dzī likhalqillāhi bith-thardi wal-harqi wan-nakāli, khudzūhu wa bi-anwārikum ahriqūhu bihaqqi ﴿ Was-samā'i dzātil-burūji ... ilā ākhiris-sūrati ﴾ ].
+‎[ Bismillāhir-raḥmānir-raḥīmi, aqsamtu 'alaikum ayyatuhal-arwāḥur-rūḥāniyyatu Thaktāyīlu wa anta yā 'Autsāyīlu biḥaqqil-malikil-ḥākimi 'alaikum Qahghāyīlu wa biḥaqqi Ahyā Syarāhiyā Adūnāya Ashbā'ūta Āli Syaddāya wa biḥaqqi ﴿ In kānat illā shaiḥatan wāḥidatan fa-idzā hum jamī'un ladainā muḥdharūna ﴾, an taḥdhurus-sā'ata wa tanzilū 'alā hādzal-māridil-mutajabbiri wal-mu'dzī likhalqillāhi bith-thardi wal-harqi wan-nakāli, khudzūhu wa bi-anwārikum aḥriqūhu biḥaqqi ﴿ Was-samā'i dzātil-burūji ... ilā ākhiris-sūrati ﴾ ].
 
 Tammal-qasamu, yutlā 'alā kulli waraqatin 5 marrātin wa kadzālika 'alal-mā'i.
 
 Was-salāmu.
 
-| ا | ح | ه | س | ط | ن | م | ر | ك | ق | س | ي | ق | ه | ا |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| ا | ا | ه | ح | ق | ه | ي | س | س | ط | ق | ن | ك | م | ر |
-| ر | ا | م | ا | ك | ه | ن | ح | ق | ق | ط | ه | س | ي | س |
-| س | ر | ي | ا | س | م | ه | ا | ط | ك | ق | ه | ق | ن | ح |
-| ح | س | ن | ر | ق | ي | ه | ا | ق | س | ك | م | ط | ه | ا |
-
-[Jadwal Taksīr 5×15 & 4 Sudut Hanaqāyīl — Asror Huruf Arab, tidak dilatinkan]
-
+[Jadwal Taksīr 5×15 & 4 Sudut Ḥanaqāyīl — Asror Huruf Arab, tidak dilatinkan]
 ### Terjemahan
 Faedah yang membakar lagi mengusir jin dan jin maradah dengan izin Allah.
 
@@ -712,15 +690,7 @@ Selesailah qasam tersebut; dibacakan di atas setiap lembar kertas sebanyak 5 kal
 
 Wassalam.
 
-| ا | ح | ه | س | ط | ن | م | ر | ك | ق | س | ي | ق | ه | ا |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| ا | ا | ه | ح | ق | ه | ي | س | س | ط | ق | ن | ك | م | ر |
-| ر | ا | م | ا | ك | ه | ن | ح | ق | ق | ط | ه | س | ي | س |
-| س | ر | ي | ا | س | م | ه | ا | ط | ك | ق | ه | ق | ن | ح |
-| ح | س | ن | ر | ق | ي | ه | ا | ق | س | ك | م | ط | ه | ا |
-
 [Jadwal Taksīr 5×15 & 4 Sudut Hanaqāyīl — Asror Huruf Arab, tidak diterjemahkan]
-
 ### Syarah dan Penjelasan
 ‎1. **Bedah Matriks Jadwal Taksīr 5×15 & Ekstraksi Khadim *Ḥinqāyīl / Ḥanaqāyīl* (`حَنَقَايِيلُ`)**:
 ‎   - Nama contoh dari Halaman 09 adalah `حَسَن رُقَيَّة` → huruf-hurufnya tanpa pengulangan adalah `ح س ن ر ق ي ه` (7 huruf).
@@ -756,9 +726,9 @@ Wassalam.
 ### latin
 Fā'idatun qāthi'atul-li'ilājil-massi
 
-As-Salāmu 'alaikum wa rahmatullāhi wa barakātuhū, ikhwatī fillāhi, ilaikum fā'idatan minal-fawā'idil-mujarrabati fī 'ilāji hālātil-massi, wa tanfa'u aidhan li'ibthālil-mawāni'i 'anid-dafā'ini, wa hiya mujarrabatun wa sarī'atun-nafādzi.
+As-Salāmu 'alaikum wa raḥmatullāhi wa barakātuhū, ikhwatī fillāhi, ilaikum fā'idatan minal-fawā'idil-mujarrabati fī 'ilāji ḥālātil-massi, wa tanfa'u aidhan li'ibthālil-mawāni'i 'anid-dafā'ini, wa hiya mujarrabatun wa sarī'atun-nafādzi.
 
-Yuktabul-wafqu fīsh-shafhatit-tāliyati fī āniyatin nazhīfatin jadīdatin bimā'i wardin wa za'farānin wa miskin, wa tadūru bihīl-āyātu was-suwarusy-syarīfatu, wa ba'dal-kitābati yumhā bimā'in thāhirin, wa in kāna mā'a matarin kāna ajwada, wa illā mā'a bi'rin lā tanzhuruhū syamsun wa lā dhaw'u qamarin, wa mahwul-kitābati yakūnu bisabbābatil-yadil-yumnā wa tilāwatin 'indal-mahwi 7 marrātin, wal-kitābatu takūnu bit-tartībil-ladzī adha'uhū wa kadzālikat-tilāwatu:
+Yuktabul-wafqu fīsh-shafḥatit-tāliyati fī āniyatin nazhīfatin jadīdatin bimā'i wardin wa za'farānin wa miskin, wa tadūru bihīl-āyātu was-suwarusy-syarīfatu, wa ba'dal-kitābati yumḥā bimā'in thāhirin, wa in kāna mā'a matarin kāna ajwada, wa illā mā'a bi'rin lā tanzhuruhū syamsun wa lā dhaw'u qamarin, wa maḥwul-kitābati yakūnu bisabbābatil-yadil-yumnā wa tilāwatin 'indal-maḥwi 7 marrātin, wal-kitābatu takūnu bit-tartībil-ladzī adha'uhū wa kadzālikat-tilāwatu:
 
 1. Wasy-syamsi wa dhuhāhā ... ilā ākhiris-sūrati
 
@@ -766,9 +736,9 @@ Yuktabul-wafqu fīsh-shafhatit-tāliyati fī āniyatin nazhīfatin jadīdatin bi
 
 3. Allāhu nūrus-samāwāti wal-ardhi ... ilā ... turfa'a
 
-4. Wa addzin fin-nāsi bil-hajji ... ilā ... 'amīqin
+4. Wa addzin fin-nāsi bil-ḥajji ... ilā ... 'amīqin
 
-5. Qul ūhiya ... ilā ākhiris-sūrati
+5. Qul ūḥiya ... ilā ākhiris-sūrati
 
 Wal-kitābatu takūnu ba'da shalātil-'isyā'i, illā yaumal-arbi'ā'i was-sabti. Wal-wafqu huwa kat-tālī:
 
@@ -789,23 +759,31 @@ Peleburan tulisan piring dilakukan memakai jari telunjuk tangan kanan diiringi m
 
 Penulisan dan pembacaan dilakukan sesuai urutan berikut:
 
-• Surat Asy-Syams (dari awal hingga akhir surat).
+- Surat Asy-Syams (dari awal hingga akhir surat).
 
-• Surat Al-Ikhlas.
+- Surat Al-Ikhlas.
 
-• Ayat Nur (QS. An-Nur: 35–36, dari ‘Allāhu nūrus-samāwāti wal-ardhi…’ hingga ‘…fī buyūtin idzinallāhu an turfa’a’).
+- Ayat Nur (QS. An-Nur: 35–36, dari ‘Allāhu nūrus-samāwāti wal-ardhi…’ hingga ‘…fī buyūtin idzinallāhu an turfa’a’).
 
-• Ayat Panggilan Haji (QS. Al-Hajj: 27, dari ‘Wa addzin fin-nāsi bil-hajji…’ hingga ‘…min kulli fajjin ‘amīq’).
+- Ayat Panggilan Haji (QS. Al-Hajj: 27, dari ‘Wa addzin fin-nāsi bil-hajji…’ hingga ‘…min kulli fajjin ‘amīq’).
 
-• Surat Al-Jin (dari awal ‘Qul ūḥiya…’ hingga akhir surat).
+- Surat Al-Jin (dari awal ‘Qul ūḥiya…’ hingga akhir surat).
 
-Waktu Penulisan: Wajib dilakukan setelah Shalat Isya, kecuali pada malam Rabu dan malam Sabtu (dilarang). Adapun wafaqnya adalah sebagai berikut (lihat Hal12):”
+Waktu Penulisan: Wajib dilakukan setelah Shalat Isya, kecuali pada malam Rabu dan malam Sabtu (dilarang). Adapun wafaqnya adalah sebagai berikut:”
 
 ### Syarah dan Penjelasan
-Dua Fungsi: Amalan ini tidak hanya mengobati jin yang merasuki syaraf (Al-Mass) tetapi juga membatalkan benteng gaib penghalang harta terpendam (al-Dafā’in). Kualitas Air Pelebur: Air hujan (Mā’ al-Mathar) paling utama; jika tidak ada, air sumur gelap yang tidak terkena matahari/bulan (energi netral). Mekanisme Sabbābah: jari telunjuk kanan (isyārah tauhid) menyalurkan aliran spiritual saat melebur sambil membaca 7×.
+1. **Dua Fungsi Utama & Kemurnian Media Air Pelebur**:
+   - Selain menjadi pemutus kerasukan jin yang menyerang saraf dan jasad (*'ilājul-mass*), faedah ini juga disebutkan oleh *muallif* berkhasiat membatalkan rintangan gaib penghalang harta terpendam (*ad-dafā'in*).
+   - Air pelebur yang paling utama adalah **air hujan murni (*mā'ul-mathar*)**; apabila tidak tersedia, digunakan **air sumur tertutup** yang tidak terkena sorotan matahari maupun bulan. Peleburan tulisan dilakukan menggunakan **jari telunjuk tangan kanan (*as-sabbābah*)** — jari isyarat tauhid — sembari membacakan rangkaian ayat sebanyak **7 kali**.
+2. **Integrasi Lima Surah & Ayat Kunci**:
+   - Wafaq Musallas 3×3 (Halaman 12) dikelilingi lima bacaan Al-Qur'an yang saling menguatkan: **Surah asy-Syams** (cahaya penyucian jiwa), **Surah al-Ikhlāsh** (pemurnian tauhid), **Ayat Nūr** (QS. an-Nūr: 35–36), **Ayat Panggilan Haji** (QS. al-Ḥajj: 27 sebagai pembuka dan penarik keluar unsur gangguan), serta **Surah al-Jinn** (penunduk bangsa jin).
 
 ### Khususiyah dan Tatacara Praktik
-Pantangan Waktu: dilarang tulis malam Rabu & Sabtu (dikuasai Mars & Saturnus). Integrasi 5 Ayat Kunci: Asy-Syams (cahaya), Al-Ikhlas (tauhid), Ayat Nur (cahaya Ilahi), Al-Hajj (pemanggil pembongkar), Al-Jin (penunduk jin) — energi komprehensif penembus sihir & kesurupan. Rajah wafaq ditulis di āniyah jadīdah (bejana baru bersih) dengan misk+za’faran+ma’ ward, diputar 5 surat/ayat, dilebur 7× dengan tilawah.
+1. **Ketentuan Waktu & Pantangan Hari**:
+   - Hindari penulisan pada **malam Rabu dan malam Sabtu**; pilihlah waktu yang baik dalam keadaan suci berwudhu dan menghadap kiblat.
+2. **Tata Cara Penulisan & Peleburan**:
+   - Tulislah Wafaq Musallas 3×3 (tertera pada Halaman 12) di tengah bejana/piring baru yang bersih (*āniyah jadīdah*) menggunakan tinta air mawar, za'faran, dan misik, lalu kelilingi dengan kelima surah/ayat di atas.
+   - Lebur tulisan tersebut dengan air hujan atau air sumur yang tak tersentuh cahaya matahari/bulan menggunakan jari telunjuk kanan sambil membacakan kelima surah/ayat tersebut **7 kali**, lalu diminumkan dan diusapkan kepada pasien.
 
 ## HALAMAN 12 — فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ (٢ — الْوَفْقُ)
 
@@ -826,29 +804,17 @@ Fā'idatun qāthi'atun li-'ilājil-massi.
 
 Wafqun li-'ilājil-massi:
 
-| ١٨ | ١٢٠٩ | ٦٠٠ |
-|---|---|---|
-| ١١٩١ | ٦٠٩ | ٢٧ |
-| ٦١٨ | ٩ | ١٢٠٠ |
-
 [Wafaq Musallas 3×3 — Asror Angka Arab, tidak dilatinkan]
 
-Kitābatul-āyāti was-suwari tabda'u min fauqil-wafqi min jihatil-yamīni ittijāhan ilal-yasāri, waffaqakumullāhu limā yuhibbuhū wa yardhāhu.
-
+Kitābatul-āyāti was-suwari tabda'u min fauqil-wafqi min jihatil-yamīni ittijāhan ilal-yasāri, waffaqakumullāhu limā yuḥibbuhū wa yardhāhu.
 ### Terjemahan
 Faedah pemutus yang ampuh untuk mengobati kerasukan (al-mass).
 
 Wafaq untuk mengobati kerasukan (al-mass):
 
-| ١٨ | ١٢٠٩ | ٦٠٠ |
-|---|---|---|
-| ١١٩١ | ٦٠٩ | ٢٧ |
-| ٦١٨ | ٩ | ١٢٠٠ |
-
 [Wafaq Musallas 3×3 — Asror Angka Arab, tidak diterjemahkan]
 
 Penulisan ayat-ayat dan surah-surah (yang disebutkan pada Halaman 11) dimulai dari bagian atas wafaq dari arah kanan melingkar menuju ke arah kiri. Semoga Allah memberikan taufik kepada kalian menuju apa yang dicintai dan diridhai-Nya.
-
 ### Syarah dan Penjelasan
 1. **Hisab Matriks Wafaq Musallas 3×3 *'Ilājul-Mass* (Konstanta 1827)**:
 ‎   - Matriks Wafaq 3×3 ini dibangun dengan kelipatan 9 (*miftāh* `٩` di baris 3 tengah, *qalb* `٦٠٩` di pusat, dan *maghlāq* `١٢٠٩` di baris 1 tengah) dengan jumlah konstanta setiap baris, kolom, dan diagonal tepat **١٨٢٧ (1827)**:
@@ -883,15 +849,15 @@ Penulisan ayat-ayat dan surah-surah (yang disebutkan pada Halaman 11) dimulai da
 ### latin
 Az-Zajrul-qāthi‘u li’akhdzil-‘ahdi wal-mītsāqi ‘alā khādimil-istinzāli
 
-As-salāmu ‘alaikum wa rahmatullāhi wa barakātuh
+As-salāmu ‘alaikum wa raḥmatullāhi wa barakātuh
 
-Ikhwatī fillāhi, katsīran mā waqa‘a lakum ani istakhdamtumu istinzālan wa hadhara khādimuhu wa sa’altumūhu ‘an amrin fa’ajābakum ‘anhu wa wajadtum mā qālahu kadziban [ayish-shabiyyu], wa hādzihil-ḥālatu taqa‘u liman ya‘malūnal-istinzāla ‘abral-wasīthi [ay ash-shabiyyi], wa mu‘zhamu hādzihil-istinzālāti kādzibatun, was-sababu huwa immā an yakūna ath-thālibu ghaira mutamarrisin, wa immā an yakūna qad tamādā bifi‘lil-istinzāli wa thalabil-khuddāmi wa su’ālihim ‘an umūrin tuhaqqiru min makānatihim, khushūshan idzā kānal-khādimu ‘ulwiyyan fa’innahu yamtani‘u ‘anin-nuzūli wa yadkhulu makānahu khādimun sufliyyun kadzdzābun [‘ulwiyyan laisatil-isyāratu hunā lil-mulūkis-sab‘ati fahiya lā tanzilu abadan illā fī istinzālin nafsiyyin rabbāniyyin]
+Ikhwatī fillāhi, katsīran mā waqa‘a lakum ani istakhdamtumu istinzālan wa ḥadhara khādimuhu wa sa’altumūhu ‘an amrin fa’ajābakum ‘anhu wa wajadtum mā qālahu kadziban [ayish-shabiyyu], wa hādzihil-ḥālatu taqa‘u liman ya‘malūnal-istinzāla ‘abral-wasīthi [ay ash-shabiyyi], wa mu‘zhamu hādzihil-istinzālāti kādzibatun, was-sababu huwa immā an yakūna ath-thālibu ghaira mutamarrisin, wa immā an yakūna qad tamādā bifi‘lil-istinzāli wa thalabil-khuddāmi wa su’ālihim ‘an umūrin tuḥaqqiru min makānatihim, khushūshan idzā kānal-khādimu ‘ulwiyyan fa’innahu yamtani‘u ‘anin-nuzūli wa yadkhulu makānahu khādimun sufliyyun kadzdzābun [‘ulwiyyan laisatil-isyāratu hunā lil-mulūkis-sab‘ati fahiya lā tanzilu abadan illā fī istinzālin nafsiyyin rabbāniyyin]
 
 Wa hādzihi fā’idatun qāthi‘atun lizajri khuddāmil-istinzāli wa hatstsihim ‘alā qaulil-ḥaqqi, wa lā tukhbirin-nāzhira bimā turīdu fi‘lahu kai tata’akkada mimmā yanzhuru lahu, ba‘da mā ta‘malul-istinzāla wa yukhbiruka biḥudhūril-khādimi tatlū hādzihil-āyata sab‘a marrātin wa anta māsikun bijabhatin-nāzhiri litatsqīfihi:
 
 ‎﴿ Wa lau arādul-khurūja la’a‘addū lahu ‘uddatan wa lākin karihallāhub‘ātsahum fatsabbathahum wa qīla iq‘udū ma‘al-qā‘idīna ﴾ (QS At-Taubah: 46)
 
-Wa ba‘da dzālika ta’muruhu bisy-syahādataini wash-shalāti ‘alan-nabiyyi shallallāhu ‘alaihi wa sallama, tsumma ta’muruhu an ya’tiya bil-mushḥafisy-syarīfi wa yaftahahu fī sūratil-mujādalati, wa’murin-nāzhira an yabda’a fī qirā’atis-sūrati litata’akkada annahā hiya, ba‘da dzālika ta’murul-khādima an yadha‘a yadahul-yumnā ‘alaihā wa yu‘āhidaka biqaulil-ḥaqqi, wa in abā wa huwa sayaf‘alu dzālika lā maḥālata izjurhu bihādzaz-zajril-qāthi‘i:
+Wa ba‘da dzālika ta’muruhu bisy-syahādataini wash-shalāti ‘alan-nabiyyi shallallāhu ‘alaihi wa sallama, tsumma ta’muruhu an ya’tiya bil-mushḥafisy-syarīfi wa yaftaḥahu fī sūratil-mujādalati, wa’murin-nāzhira an yabda’a fī qirā’atis-sūrati litata’akkada annahā hiya, ba‘da dzālika ta’murul-khādima an yadha‘a yadahul-yumnā ‘alaihā wa yu‘āhidaka biqaulil-ḥaqqi, wa in abā wa huwa sayaf‘alu dzālika lā maḥālata izjurhu bihādzaz-zajril-qāthi‘i:
 
 ### Terjemahan
 Gertakan Pemutus untuk Mengambil Sumpah dan Janji atas Khādim Istinzāl:
@@ -904,13 +870,23 @@ Dan ini adalah faedah yang ampuh untuk menggertak para khādim istinzāl dan men
 
 ‎﴿ Dan jika mereka mau berangkat (keluar), tentulah mereka menyiapkan persiapan untuk keberangkatan itu, tetapi Allah tidak menyukai keberangkatan mereka, maka Allah melemahkan keinginan mereka, dan dikatakan (kepada mereka): “Tinggallah kamu bersama orang-orang yang tinggal itu.” ﴾ (QS. At-Taubah: 46)
 
-Setelah itu, perintahkan ia (khādim melalui perantara) untuk mengucapkan dua kalimat syahadat dan shalawat kepada Nabi shallallāhu ‘alaihi wa sallam. Kemudian perintahkan ia untuk mendatangkan mushaf yang mulia dan membukanya pada **Surah al-Mujādalah**. Perintahkan an-nāzhir untuk mulai membaca surah tersebut agar kamu dapat memastikan bahwa yang terbuka memang surah itu. Setelah itu, perintahkan khādim untuk meletakkan tangan kanannya di atas mushaf tersebut dan berjanji kepadamu untuk berkata benar. **Jika ia menolak — padahal ia pasti akan melakukannya, tidak dapat tidak — maka gertaklah ia dengan gertakan pemutus (az-zajr al-qāthi‘) berikut ini:”
+Setelah itu, perintahkan ia (khādim melalui perantara) untuk mengucapkan dua kalimat syahadat dan shalawat kepada Nabi shallallāhu ‘alaihi wa sallam. Kemudian perintahkan ia untuk mendatangkan mushaf yang mulia dan membukanya pada **Surah al-Mujādalah**. Perintahkan an-nāzhir untuk mulai membaca surah tersebut agar kamu dapat memastikan bahwa yang terbuka memang surah itu. Setelah itu, perintahkan khādim untuk meletakkan tangan kanannya di atas mushaf tersebut dan berjanji kepadamu untuk berkata benar. **Jika ia menolak — padahal ia pasti akan melakukannya, tidak dapat tidak — maka gertaklah ia dengan gertakan pemutus (az-zajr al-qāthi‘) berikut ini:**”
 
 ### Syarah dan Penjelasan
-Halaman ini adalah **muqaddimah Zajr Qāthi‘ (Bagian 1/3)** — etika istinzāl melalui perantara anak kecil (ash-shabiyy/an-nāzhir al-wasīth). Penulis menegaskan dua penyebab utama kedustaan khādim: (1) *ghairu mutamarris* — penuntut belum mahir menguasai adab istinzāl, dan (2) *tamādā* — berlebihan meminta khādim untuk hal-hal remeh yang merendahkan martabat khādim ‘ulwī. ‘Ulwī vs suflī: khādim luhur bersifat mulia, tidak sudi turun untuk urusan rendah; kekosongan diisi khādim suflī pendusta. Penegasan **[bukan tujuh raja]** membatasi: tujuh raja jin agung (Mudzhab, Murrah, al-Aḥmar, Barqān, Syamhūrasy, al-Abyadh, Maimūn) tidak turun dalam istinzāl biasa, hanya dalam *istinzāl nafsī rabbānī* — praktik sufi tingkat tinggi dengan penyucian jiwa, bukan sekadar panggil-memanggil. Ketepatan *ta'alluq jar-majrūr* pada *fa-ajābakum ‘anhu* menegaskan bahwa jawaban tersebut berkaitan langsung dengan persoalan yang ditanyakan. *Litatsqīfihi* — mengunci/memperkuat penglihatan nāzhir, bukan sekadar “menahan”: akar *tsaqafa* berarti menegakkan/meluruskan. Ayat At-Taubah: 46 — *lau arādul-khurūja...* — berfungsi sebagai *qufl* (kunci) agar khādim suflī tidak kabur: “jika mereka ingin keluar...” dibaca 7× sambil memegang dahi — sinkronisasi fisik-spiritual. Sumpah di atas al-Mujādalah — dipilih karena setiap ayatnya mengandung Lafzh al-Jalālah (Allah), sehingga jin fasik takut bersumpah palsu di atasnya; nāzhir diperintah membaca untuk verifikasi objektif (anti-sugesti).
+1. **Etika *Istinzāl* melalui Perantara (*an-Nāzhir*) & Sebab Kedustaan Khadim**:
+   - Halaman ini menguraikan kaidah pengujian kejujuran khadim dalam praktik *istinzāl* yang menggunakan perantara anak kecil (*ash-shabiyy / an-nāzhir*). Syeikh al-Basyir menegaskan dua sebab utama munculnya kedustaan: (1) penanya belum terlatih menguasai adab *istinzāl* (*ghairu mutamarris*), dan (2) terlalu berlebihan memanggil serta menanyakan urusan remeh yang merendahkan kedudukan *khadim 'ulwī*, sehingga *khadim 'ulwī* enggan turun dan posisinya dimasuki oleh *khadim suflī* pendusta.
+   - Catatan penegas dalam matan menjelaskan bahwa **tujuh raja ruhani (*al-Mulūkus-Sab'ah*)** sama sekali tidak turun pada *istinzāl* perantara biasa, melainkan hanya pada *istinzāl nafsī rabbānī* melalui penyucian jiwa tingkat tinggi.
+2. **Fungsi *Tatsqīf* QS. at-Taubah: 46 & Pengujian Surah al-Mujādilah**:
+   - Kata **`لِتَثْقِيفِهِ`** berakar dari `ثَقَفَ` yang berarti mengunci, menegakkan, dan menahan agar entitas yang hadir tidak dapat melarikan diri; dilakukan dengan memegang dahi *nāzhir* seraya membaca QS. at-Taubah: 46 (`وَلَوْ أَرَادُوا الْخُرُوجَ... فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ`) sebanyak **7 kali**.
+   - Pengujian objektif dilakukan dengan memerintahkan khadim bersyahadat, berselawat, dan menghadirkan mushaf yang dibuka pada **Surah al-Mujādilah** — surah yang setiap ayatnya memuat *Lafzhul-Jalālah* (`الله`) — lalu meminta *nāzhir* membacakannya guna memastikan kemurnian penglihatan sebelum pengambilan sumpah.
 
 ### Khususiyah dan Tatacara Praktik
-Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). Tata cara yang diajarkan: (1) Rahasiakan niat dari nāzhir (uji buta), (2) Setelah istinzāl dan laporan “khādim hadir”, pegang dahi nāzhir dan baca At-Taubah: 46 sebanyak 7× — niat mengunci (tatsqīf), (3) Syahadatain + shalawat (memurnikan saluran), (4) Hadirkan mushaf, buka al-Mujādalah, verifikasi bacaan nāzhir, (5) Letakkan tangan kanan khādim di atas mushaf dan minta sumpah jujur — jika menolak, lanjutkan ke Hal14 (Az-Zajr al-Qāthi‘). Pantangan: jangan lakukan untuk main-main, jaga adab, jangan tanya hal merendahkan. Waktu tidak terikat, namun dianjurkan suci (wudhu) dan menghadap kiblat. Kegagalan biasanya karena thālib ghairu mutamarris — perbanyak riyādhah sebelum mengulang.
+1. **Tahapan Praktik Pengujian & Pengambilan Sumpah**:
+   1) Rahasiakan rencana pengujian ini dari *nāzhir* agar laporannya bebas dari sugesti pikiran.
+   2) Begitu *nāzhir* mengabarkan kehadiran khadim, pegang dahi *nāzhir* dan bacakan **QS. at-Taubah: 46 sebanyak 7 kali** dengan niat mengunci kehadirannya (*tatsqīf*).
+   3) Perintahkan khadim mengucapkan dua kalimat syahadat dan selawat kepada Nabi ﷺ.
+   4) Perintahkan ia menghadirkan mushaf mulia dan membukanya pada **Surah al-Mujādilah**, lalu minta *nāzhir* mulai membaca ayat yang terlihat.
+   5) Perintahkan khadim meletakkan tangan kanannya di atas mushaf dan berjanji berkata jujur; apabila ia menolak atau membangkang, bacakan gertakan pemutus (*Az-Zajrul-Qāthi'*) pada Halaman 14.
 
 ## HALAMAN 14 — مَتْنُ الزَّجْرِ الْقَاطِعِ لِخَادِمِ الِاسْتِنْزَالِ (٢)
 
@@ -952,9 +928,9 @@ Bismillāhir-raḥmānir-raḥīm, al-malikil-ḥaqqil-mubīn, alladzī qāla f�
 
 Inzilū yā malā’ikata rabbī ‘alā hā’ulā’il-a‘wāni bidh-dharbi wal-qashfi wal-‘adzābisy-syadīdi ḥattā yuthī‘ū amrī wa yu‘āhidūnī ‘alā qaulil-ḥaqqi biḥaqqillāhil-malikil-ḥaqqil-mubīni, ajībū wa athī‘ū yā ma‘syarak-khuddāmi, fa’in ‘ashaitum wa abaitum falā ardha tuqillukum wa lā samā’a tuzhillukum wa lā aina tahrubūna wa lā aina tumna‘ūna, wa asmā’ullāhi muḥīthatun bikum, wa ‘azīmatī hādzihi nārun wa ḥarīqun ‘alaikum
 
-Fa’innī aqsamtu ‘alaikum billāhil-‘azhīmi wa biḥaqqi hādzal-qasamil-‘azhīmi an taj‘alū kalimatī ‘indakum sāriyatan nāfidzatan, wa kalāmī ‘indakum masmū‘an maqbūlan, wa an takhdumūnī wa tuthī‘ūnī wa tu‘āhidūnī ‘alā qaulil-ḥaqqi biḥaqqi mā aqsamtu bihī ‘alaikum, wa innahu laqasamun lau ta‘lamūna ‘azhīmun, takādus-samāwātu yatafaththarna minhu wa tansyaqqul-ardhu wa takhirrul-jibālu haddan
+Fa’innī aqsamtu ‘alaikum billāhil-‘azhīmi wa biḥaqqi hādzal-qasamil-‘azhīmi an taj‘alū kalimatī ‘indakum sāriyatan nāfidzatan, wa kalāmī ‘indakum masmū‘an maqbūlan, wa an takhdumūnī wa tuthī‘ūnī wa tu‘āhidūnī ‘alā qaulil-ḥaqqi biḥaqqi mā aqsamtu bihī ‘alaikum, wa innahu laqasamun lau ta‘lamūna ‘azhīmun, takādus-samāwātu yatafaththarna minhu wa tansyaqqul-ardhu wa takhirrul-jibālu ḥaddan
 
-Hayyā yā ma‘syarak-khuddāmi, zajartukum zajran wa da‘autukum da‘watan lā khalāsha lakum minhā wa lā mafarra lakum minhā ḥattā tuthī‘ū amrī
+Ḥayyā yā ma‘syarak-khuddāmi, zajartukum zajran wa da‘autukum da‘watan lā khalāsha lakum minhā wa lā mafarra lakum minhā ḥattā tuthī‘ū amrī
 
 Fahākadzā sayu‘āhiduka wa yadha‘u yadahu ‘alas-sūrati, ‘indahāq-ra’il-āyata:
 
@@ -969,13 +945,13 @@ Teks Gertakan Pemutus Khādim Istinzāl (Az-Zajr al-Qāthi‘):
 
 “Dengan nama Allah Yang Maha Pengasih Maha Penyayang, Yang Merupakan Raja Yang Maha Benar lagi Maha Nyata, Yang berfirman dalam Kitab-Nya yang muhkam lagi mulia:
 
-‎• ‘[ الم ] [Rajah Huruf — tidak diterjemahkan]. Allah, tiada tuhan selain Dia Yang Maha Hidup lagi terus-menerus mengurus (makhluk-Nya). Dia menurunkan kepadamu Kitab dengan hak, membenarkan apa yang ada di hadapannya, dan menurunkan Taurat dan Injil — sebelumnya sebagai petunjuk bagi manusia — dan menurunkan al-Furqān. Sesungguhnya orang-orang yang kafir terhadap ayat-ayat Allah, bagi mereka azab yang keras, dan Allah Mahaperkasa Pemilik balasan siksaan’ (QS Āli ‘Imrān: 1-4).
+‎- ‘[ الم ] [Rajah Huruf — tidak diterjemahkan]. Allah, tiada tuhan selain Dia Yang Maha Hidup lagi terus-menerus mengurus (makhluk-Nya). Dia menurunkan kepadamu Kitab dengan hak, membenarkan apa yang ada di hadapannya, dan menurunkan Taurat dan Injil — sebelumnya sebagai petunjuk bagi manusia — dan menurunkan al-Furqān. Sesungguhnya orang-orang yang kafir terhadap ayat-ayat Allah, bagi mereka azab yang keras, dan Allah Mahaperkasa Pemilik balasan siksaan’ (QS Āli ‘Imrān: 1-4).
 
-• ‘Akan Kami masukkan ke dalam hati orang-orang kafir rasa takut disebabkan mereka mempersekutukan Allah dengan sesuatu yang Allah tidak menurunkan keterangan pun tentangnya, dan tempat kembali mereka ialah neraka, dan seburuk-buruk tempat tinggal orang-orang zhalim’ (QS Āli ‘Imrān: 151).
+- ‘Akan Kami masukkan ke dalam hati orang-orang kafir rasa takut disebabkan mereka mempersekutukan Allah dengan sesuatu yang Allah tidak menurunkan keterangan pun tentangnya, dan tempat kembali mereka ialah neraka, dan seburuk-buruk tempat tinggal orang-orang zhalim’ (QS Āli ‘Imrān: 151).
 
-• ‘Bagi mereka hamparan dari neraka Jahannam dan di atas mereka selimut (api), demikianlah Kami membalas orang-orang yang zhalim’ (QS al-A‘rāf: 41).
+- ‘Bagi mereka hamparan dari neraka Jahannam dan di atas mereka selimut (api), demikianlah Kami membalas orang-orang yang zhalim’ (QS al-A‘rāf: 41).
 
-• ‘(Ingatlah) ketika Tuhanmu mewahyukan kepada para malaikat: Sesungguhnya Aku bersamamu, maka teguhkanlah orang-orang yang beriman, akan Aku masukkan rasa takut ke dalam hati orang-orang kafir, maka penggallah di atas leher (mereka) dan penggallah tiap-tiap ujung jari mereka’ (QS al-Anfāl: 12).
+- ‘(Ingatlah) ketika Tuhanmu mewahyukan kepada para malaikat: Sesungguhnya Aku bersamamu, maka teguhkanlah orang-orang yang beriman, akan Aku masukkan rasa takut ke dalam hati orang-orang kafir, maka penggallah di atas leher (mereka) dan penggallah tiap-tiap ujung jari mereka’ (QS al-Anfāl: 12).
 
 Turunlah wahai malaikat-malaikat Tuhanku kepada para pembantu/khādim ini dengan pukulan, sambaran petir, dan azab yang keras hingga mereka menaati perintahku dan berjanji kepadaku untuk berkata benar, demi hak Allah Raja Yang Maha Benar lagi Maha Nyata! Jawablah dan taatilah wahai sekumpulan khādim! Maka jika kalian durhaka dan enggan, maka tidak ada bumi yang akan menopang kalian, tidak ada langit yang akan menaungi kalian, tidak ada tempat kalian lari, dan tidak ada tempat kalian berlindung — sedangkan Nama-Nama Allah meliputi kalian! Dan ‘azīmah-ku ini adalah api dan pembakaran atas kalian!
 
@@ -994,10 +970,21 @@ Kemudian pulangkanlah ia (ishrāf) dan jangan melakukan istinzāl pada hari itu 
 Semoga Allah memberi manfaat kepadaku dan kepada kalian melalui al-Qur’an yang agung, mengumpulkan aku dan kalian dalam rombongan orang-orang yang bertakwa, dan mengampuni diriku, kalian, dan seluruh orang-orang mukmin semuanya. Wassalām.”
 
 ### Syarah dan Penjelasan
-Halaman ini adalah **matan Az-Zajr al-Qāthi‘ (Bagian 2/3 — inti ancaman)**. Strukturnya tersusun sebagai *‘azīmah qasamiyyah* (sumpah pengikat) dengan empat lapis ayat azab: (1) Āli ‘Imrān: 1-4 — tauḥīd dan ancaman bagi kafir ayat Allah, menegaskan otoritas Rabb al-‘Arsy; (2) Āli ‘Imrān: 151 — *ru‘b* (rasa takut) yang dilemparkan ke hati musuh — untuk melemahkan mental jin suflī; (3) al-A‘rāf: 41 — gambaran Jahanam sebagai pembalasan zhalim — untuk menggetarkan khādim yang zhalim/pendusta; (4) al-Anfāl: 12 — wahyu kepada malaikat untuk memenggal leher dan ujung jari — memanggil *malā’ikatul-‘adzāb* sebagai eksekutor spiritual. Keempatnya dirangkai dalam satu silsilah *qāla fī muḥkami kitābihil-karīm* — bukan sekadar kutipan, melainkan istidlāl bahwa Allah sendiri telah menetapkan sunnah penghukuman. Seruan *inzilū yā malā’ikata rabbī* — bukan memerintah malaikat secara hakiki (yang hanya patuh pada Allah), melainkan tawassul: memohon agar Allah memerintahkan malaikat-Nya untuk menekan khādim — adab hikmah Qādiriyyah membedakan *amr takwīnī* (Allah) dan *amr ta‘abbudī* (manusia). Ancaman *falā ardha tuqillukum...* menggunakan struktur *lā nāfiyatu lil-jinsi* — negasi total: tidak ada tempat berlindung di semesta — menegaskan bahwa Asmā’ Allah *muḥīthah* (meliputi). ‘Azīmah “*nārun wa ḥarīqun ‘alaikum*” — api hakiki bagi entitas halus yang hakikatnya dari api — maka api Asmā’ lebih membakar. Puncak sumpah mengutip QS al-Ḥāqqah: *wa innahu laqasamun lau ta‘lamūna ‘azhīm* dan QS Maryam/asy-Syūrā: *takādus-samāwātu yatafattharna...* — sumpah yang mengguncang langit-bumi, sebagai *tahdīd* final. Penutup *fahākadzā sayu‘āhiduka* — janji akan terjadi *lā maḥālata* (pasti), namun tetap disempurnakan dengan An-Naḥl: 91 — *wa aufū bi‘ahdillāhi...* — mengikat janji manusia-jin di atas kalam Allah. Perintah *tshummash-rifhu wa lā ta‘malil-istinzāla dzālikal-yauma* — *karantina satu hari* (tark al-istinzāl yaumahu) — memberi jeda stabilisasi gelombang (istidlāl penulis: “baru pada hari berikutnya istinzāl siap 100% jujur”). Doa penutup *nafa‘aniyallāhu...* — adab khatam dengan shalawat Fatihah dan istighfar kolektif, ciri khas Syaikh al-Basyīr.
+1. **Struktur *'Azīmah Qasamiyyah* & Empat Lapis Ayat Azab**:
+   - Matan *Az-Zajrul-Qāthi'* disusun sebagai sumpah pengikat berlapis yang bertumpu pada empat rangkaian ayat Al-Qur'an (`قَالَ فِي مُحْكَمِ كِتَابِهِ الْكَرِيمِ`):
+     1) **QS. Āli 'Imrān: 1–4**: penegasan keesaan *Al-Ḥayyul-Qayyūm* dan ancaman azab keras bagi pengingkar ayat Allah.
+     2) **QS. Āli 'Imrān: 151**: pelemparan rasa gentar (*ar-ru'b*) ke dalam hati pembangkang.
+     3) **QS. al-A'rāf: 41**: ancaman hamparan dan selimut api neraka bagi pelaku kezaliman.
+     4) **QS. al-Anfāl: 12**: wahyu penindakan tegas para malaikat terhadap pembangkang kebenaran.
+2. **Analisis Nahwu & Sumpah Pengikat Janji (QS. an-Naḥl: 91)**:
+   - Ungkapan **`فَلَا أَرْضٌ تُقِلُّكُمْ وَلَا سَمَاءٌ تُظِلُّكُمْ`** menggunakan *lā* bermakna negasi menyeluruh bahwa tiada satu pun tempat berlindung dari liputan Asmā' Allah, diperkuat dengan keagungan sumpah QS. al-Wāqi‘ah: 76 dan hampir terbelahnya langit dalam QS. asy-Syūrā: 5 / QS. Maryam: 90.
+   - Setelah khadim tunduk mengambil sumpah setia berdasarkan **QS. an-Naḥl: 91** (`وَأَوْفُوا بِعَهْدِ اللهِ إِذَا عَاهَدْتُمْ...`), *muallif* memerintahkan untuk memulangkannya (*ishrāf*) dan **menghentikan praktik *istinzāl* pada hari tersebut** agar ikatan perjanjiannya menetap dengan tenang.
 
 ### Khususiyah dan Tatacara Praktik
-Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan setelah penolakan khādim untuk bersumpah. Cara baca: menghadap kiblat, dalam keadaan suci, suara tegas (jahr) tetapi tidak berteriak memekik — “*zajara zajran*” (gertakan mantap). Empat ayat dibaca berurutan dengan tartīl, lalu seruan *inzilū...* hingga *ḥattā tuthī‘ū amrī* — satu nafas jika mampu, atau pecah dua. Jangan menambah/mengurangi ayat — keempatnya adalah *rukun Zajr*. Setelah selesai, jangan lanjutkan istinzāl hari itu — *ishrāf* (pulangkan) khādim dengan salam. Keesokan harinya, istinzāl dapat dipakai untuk hajat halal — khādim kini *mu‘āhad* (terikat janji) dan akan *shādiqan bi’idznillāhi*. Larangan: jangan gunakan untuk menanyakan aib orang, judi, atau sihir pemisah — sumpah akan batal dan khādim kembali suflī. Kelebihan khusus: metode ini adalah *filter permanen* — sekali diikat, semua istinzāl berikutnya tersaring otomatis dari dusta, berbeda dengan ruqyah biasa yang bersifat temporer.
+1. **Tata Cara Pembacaan Gertakan Pemutus**:
+   - Dibaca hanya ketika khadim pada sesi *istinzāl* (Halaman 13) enggan bersumpah atau terindikasi berdusta; bacakan dengan suara mantap, penuh wibawa, dalam keadaan suci berwudhu dan menghadap kiblat hingga khadim meletakkan tangan kanannya di atas mushaf dan mengikrarkan janji kejujuran.
+2. **Pemulangan (*Ishrāf*) & Jeda Satu Hari**:
+   - Begitu janji setia terikrarkan, segera pulangkan khadim (*ishrāf*), lalu **jangan melakukan *istinzāl* lagi sepanjang sisa hari itu** sebagaimana dipesankan dalam matan.
 
 ## HALAMAN 15 — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ مُفْسِدِ الْأَعْمَالِ الرُّوحَانِيَّةِ (١)
 
@@ -1034,13 +1021,26 @@ Kemudian bacakan ‘azīmah pada tangan tersebut sebanyak **21 kali**, inilah �
 
 ‘Aku bersumpah kepada kalian wahai ‘Athlūsy, demi Dzat yang menciptakan kalian dan membentuk rupa kalian sehingga kalian menjadi bagian dari kebutuhan ahli ḥikmah — agar kalian tidak merusak apa yang telah aku kerjakan, tidak mendekatiku dalam apa yang aku perbuat, dan tidak bergerak sedikit pun — demi hak nama-nama pembakar atas kalian: Jaljal (2×), Jalnīsy (2×), Qahr (2×), Barhah (2×), Syathīsy (2×), Syah (2×). Maka ke mana pun kalian berpaling, di sanalah Wajah Allah mengawasi kalian — wahai ‘Athlūsy bin Aghlaghal, maka jangan dekati aku dan jangan dekati halamanku — demi hak nama-nama ini: Salhūb, Malhūb, Abīka, Yalīkh, Alqamūsy, Marūsy, Harmūsy, Qarmūsy. Berangkatlah kalian dalam keadaan ringan maupun berat (QS At-Taubah:41), demi hak: *Idzā zulzilatil-ardhu zilzālahā ... hingga ... Asytātan Asytātan Asytātan* (QS Az-Zalzalah:1-8).’
 
-Selesailah ‘azīmah. Setelah kamu membacakannya pada tanganmu 21 kali, tidurlah dengan meletakkan tanganmu di bawah kepalamu hingga pagi. Kemudian hapuslah tulisan tabel (jadwal) dari tanganmu dengan air suci dan masukkan airnya ke dalam botol yang suci. Lakukan amal ini **selama 7 hari**. Ketika amal telah sempurna, ambil botol tersebut, pergilah ke tempat yang sepi jauh dari manusia, gali lubang, masukkan botol ke dalamnya, timbun kembali dengan tanah, letakkan tanganmu di atasnya dan bacalah **Ayat Kursi sampai *khālidūn* 1×** dan **Surah al-Mulk 3×**, kemudian kembalilah dari mana kamu datang dan **jangan sekali-kali menoleh** kepada botol tersebut. Dan wafaqnya adalah sebagai berikut (lihat Hal16):”
+Selesailah ‘azīmah. Setelah kamu membacakannya pada tanganmu 21 kali, tidurlah dengan meletakkan tanganmu di bawah kepalamu hingga pagi. Kemudian hapuslah tulisan tabel (jadwal) dari tanganmu dengan air suci dan masukkan airnya ke dalam botol yang suci. Lakukan amal ini **selama 7 hari**. Ketika amal telah sempurna, ambil botol tersebut, pergilah ke tempat yang sepi jauh dari manusia, gali lubang, masukkan botol ke dalamnya, timbun kembali dengan tanah, letakkan tanganmu di atasnya dan bacalah **Ayat Kursi sampai *khālidūn* 1×** dan **Surah al-Mulk 3×**, kemudian kembalilah dari mana kamu datang dan **jangan sekali-kali menoleh** kepada botol tersebut. Dan wafaqnya adalah sebagai berikut:”
 
 ### Syarah dan Penjelasan
-Halaman ini adalah **bagian 1/2 faedah ‘Athlūsy**. Pokok masalahnya adalah *inqilāb al-a‘māl* — amal ruhaniyyah yang berbalik merusak hajat karena gangguan khādim bernama ‘Athlūsy bin Aghlaghal, di bawah kekuasaan Abū Thārish malik al-‘ummār (raja jin ‘ummār/‘āmir — penghuni bangunan/empat penjuru). Penjelasan rinci: ‘Athlūsy bukan jin marabahaya yang merasuki jasad, melainkan *khādim mufsid* — parasit halus yang khusus merusak frekuensi amalan (membuat wirid tidak naik, wafaq tidak berfungsi, doa terpental). Penguasa Abū Thārish adalah raja ‘ummār yang netral — dengan menyebut namanya, praktisi meminta izin hierarkis agar ‘Athlūsy dilepaskan dari tugas merusak. Media *shamgh* (jelaga bulu domba) dipilih karena tinta ini bersifat *bārid yābis* (dingin-kering) yang menetralisir sifat panas-lembab jin ‘Athlūsy; *quzburah* (ketumbar/biji ketumbar kering) adalah bukhūr penolak ‘ummār yang dibenci mereka karena aromanya menusuk namun tidak menyengat manusia. *Ishrāf al-‘ummār* wajib didahulukan — memindahkan ‘ummār baik agar tidak terkena dampak pengusiran ‘Athlūsy (adab Qādiriyyah: jangan mengusir tetangga ghaib yang baik saat mengusir parasit). Azimah terdiri dari tiga lapis: (1) Qasam pencipta — *billadzī khalaqakum wa shawwarakum* — mengingatkan asal kejadian jin, (2) Enam nama muḥriqah masing-masing 2× (Jaljal, Jalnīsy, Qahr, Barhah, Syathīsy, Syah) — adalah *asmā’ qahriyyah* yang membakar, diulang 2× untuk penekanan (*ta’kīd*), (3) Ayat *fa-ainamā tuwallū fatsamma wajhullāh* (QS Al-Baqarah:115) — pengingat bahwa Allah mengawasi ke mana pun jin melarikan diri, (4) Delapan nama ḥākim (Salhūb ... Qarmūsy) — rantai komando Abū Thārish, (5) *Infirū khifāfan wa tsiqālan* (At-Taubah:41) + *Idzā zulzilat* (Az-Zalzalah) dengan repetisi *Asytātan* 3× — perintah mobilisasi paksa dan guncangan bumi yang memporak-porandakan sarang jin. Angka 21× ‘azīmah pada tangan adalah 3×7 — 7 untuk hari, 3 untuk lapis azimah — menyatukan *mabda’* (tangan), *wāsithah* (azimah), dan *ghāyah* (penguburan).
+1. **Hakikat *'Athlūsy bin Aghlaghal* & *Inqilābul-A'māl***:
+   - Faedah ini mengatasi masalah *inqilābul-a'māl* (berbaliknya atau gagalnya amalan ruhani sehingga hajat terhalang) akibat gangguan khadim perusak bernama **`عَطْلُوشُ بْنُ أَغْلَغَلٍ`** (*'Athlūsy bin Aghlaghal*) yang berada di bawah kekuasaan **`أَبُو طَارِشٍ مَلِكُ الْعُمَّارِ`** (*Abū Thārisy*, raja jin penghuni bangunan/*'ummār*).
+   - Penggunaan tinta ***shamgh*** (jelaga hitam yang diekstrak dari bulu domba) pada telapak tangan kanan dan pengasapan ***quzburah*** (biji ketumbar) sesudah *ishrāful-'ummār* merupakan kaidah klasik untuk memutus frekuensi gangguan penghuni tempat tanpa menyakiti *'ummār* yang baik.
+2. **Struktur *'Azīmah* Pembakar & Penguburan Air Leburan**:
+   - Bacaan *'azīmah* sebanyak **21 kali** (`3 × 7`) memuat sumpah demi Pencipta mereka, enam *asmā' muḥriqah* yang masing-masing disebut dua kali (*itsnatain*: *Jaljal, Jalnīsy, Qahr, Barhah, Syathīsy, Syah*), ayat pengawasan Ilahi (QS. al-Baqarah: 115 `فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللهِ`), delapan nama penguasa (*Salhūb* s.d. *Qarmūsy*), serta ayat pengusiran (QS. at-Taubah: 41 & Surah al-Zalzalah hingga `أَشْتَاتًا` 3 kali).
+   - Pengumpulan air basuhan jadwal dari telapak tangan ke dalam botol suci (*qārūrah*) selama **7 hari** lalu memendamnya di tanah sepi dengan bacaan Ayat Kursi (1×) dan Surah al-Mulk (3×) mengunci gangguan *'Athlūsy* agar tidak kembali.
 
 ### Khususiyah dan Tatacara Praktik
-Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, wafaq, hizib) selalu gagal/terbalik. Syarat sah: (1) Lakukan *ishrāf al-‘ummār* terlebih dahulu (bacaan ishrāf umum, tidak dirinci di sini — pakai ishrāf Qādiriyyah standar), (2) Tinta harus *shamgh* asli — jelaga bulu domba yang dibakar lalu dicampur minyak/air mawar hingga jadi pasta hitam, bukan spidol/tinta kimia, (3) Tulisan di telapak kanan (bukan kiri), (4) Pembukhuran *quzburah* kering — tabur di atas bara, asapi tangan 1-2 menit, (5) ‘Azīmah 21× dengan tangan terangkat menghadap kiblat, (6) Tidur dengan tangan di bawah kepala — posisi *taḥannuth* (seperti tidur Rasul), bukan di atas bantal, (7) Pagi harinya hapus dengan air suci (air hujan/sumur yang tidak terkena matahari lebih utama — lihat Hal11), masukkan ke botol kaca bening (bukan plastik), (8) Ulangi 7 hari — jangan terputus; jika terputus karena haid/safar, ulang dari hari 1, (9) Hari ke-7 setelah penggalian lubang, baca Ayat Kursi 1× (sampai *khālidūn* — QS Al-Baqarah:255 mencakup *hum fīhā khālidūn* dalam riwayat, maksudnya baca sampai akhir ayat) dan al-Mulk 3× (surah pelindung kubur), (10) Pantangan mutlak: *lā taltafit abadan* — jangan menoleh ke belakang setelah mengubur; menoleh membatalkan *hijab* (penutup) dan ‘Athlūsy kembali. Waktu: tidak terikat hari Rabu/Sabtu (berbeda dengan faedah mass), tetapi dianjurkan malam hari setelah Isya agar frekuensi ‘Athlūsy aktif.
+1. **Tahapan Amalan Harian Selama 7 Hari**:
+   1) Lakukan ***ishrāful-'ummār*** terlebih dahulu sebelum memulai penulisan.
+   2) Tulislah Wafaq Musallas 3×3 (tertera pada Halaman 16) pada **telapak tangan kanan** menggunakan tinta ***shamgh*** (tinta hitam dari bulu domba).
+   3) Asapi telapak tangan kanan tersebut dengan bukhur ***quzburah*** (biji ketumbar), lalu bacakan *'azīmah* di atasnya sebanyak **21 kali**.
+   4) Tidurlah pada malam itu dengan meletakkan telapak tangan kanan di bawah kepala hingga waktu pagi.
+   5) Pada pagi harinya, basuh/lebur tulisan wafaq dari telapak tangan menggunakan air suci lalu tampung airnya ke dalam sebuah botol kaca yang bersih (*qārūrah thāhirah*). Ulangi tahapan ini selama **7 hari berturut-turut**.
+2. **Penutupan pada Hari Ketujuh & Pantangan Menoleh**:
+   - Setelah genap 7 hari, bawalah botol berisi air basuhan tersebut ke tempat sepi yang jauh dari lalu-lalang manusia, galilah lubang dan pendam botol itu di dalamnya lalu timbun kembali dengan tanah.
+   - Letakkan tangan di atas gundukan tanahnya seraya membaca **Ayat Kursi (hingga `خَالِدُونَ`) sebanyak 1 kali** dan **Surah al-Mulk sebanyak 3 kali**, kemudian pulanglah dan **jangan sekali-kali menoleh ke belakang** ke arah botol tersebut.
 
 ## HALAMAN 16 — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ مُفْسِدِ الْأَعْمَالِ الرُّوحَانِيَّةِ (٢ — الْوَفْقُ)
 
@@ -1057,27 +1057,15 @@ Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, w
 ### latin
 Wal-wafqu huwa hākadzā:
 
-| ١ | ١١١١ | ٣ |
-|---|---|---|
-| ٥ | عَطْلُوشٌ | ١١١٠ |
-| ١١٠٩ | ٤ | ٢ |
-
 [Wafaq Musallas 3×3 — Asror Angka & Huruf Arab, tidak dilatinkan]
 
 ‎Tsumma ba'dad-dafni taqra'u kamā taqaddama Āyatal-Kursiyyi ilā ﴿ khālidūna ﴾ wa Sūratal-Mulki, wa lā taltafit.
-
 ### Terjemahan
 Dan wafaqnya adalah seperti ini:
-
-| ١ | ١١١١ | ٣ |
-|---|---|---|
-| ٥ | عَطْلُوشٌ | ١١١٠ |
-| ١١٠٩ | ٤ | ٢ |
 
 [Wafaq Musallas 3×3 — Asror Angka & Huruf Arab, tidak diterjemahkan]
 
 ‎Kemudian setelah penguburan (botol air hapusan tersebut), bacalah sebagaimana telah dijelaskan terdahulu Ayat Kursi hingga firman-Nya ﴿ khālidūn ﴾ (QS. al-Baqarah: 255–257) dan Surah al-Mulk (3 kali), lalu kembalilah dan jangan menoleh ke belakang.
-
 ### Syarah dan Penjelasan
 1. **Hisab Matriks Wafaq Musallas 3×3 *Hishār 'Athlūsyin* (Konstanta 1115)**:
 ‎   - Wafaq 3×3 ini merupakan *wafqul-hishār* (wafaq pengepungan) yang menempatkan nama jin pengganggu **`[ عَطْلُوشٌ ]`** tepat di kamar tengah (*qalbul-wafq*), dikepung oleh 8 angka *asror* yang mengunci keempat penjuru dengan jumlah konstanta **١١١٥ (1115)**:
@@ -1134,7 +1122,14 @@ Aku memohon kepada Allah Yang Maha Agung semoga Dia memberiku manfaat — dan ka
 1. **Rahasia 12 Asmā'ul-Ḥusnā & Pengulangan Surah al-Ikhlāsh (11× Tulis & 70× Baca)**:
 ‎   - Rangkaian 12 Asmā'ul-Ḥusnā yang mengelilingi Wafaq 4×4 *Ismul-Jalālah* (`الله`) terdiri atas 6 Asmā' berawalan huruf **Mīm (`م`)** (`الْمَلِكُ، الْمُهَيْمِنُ، مَالِكُ الْمُلْكِ، الْمُحْصِي، الْمُحْيِي، الْمَنَّانُ`) dan 6 Asmā' berawalan huruf **Ḥā' (`ح`)** (`الْحَكَمُ، الْحَلِيمُ، الْحَكِيمُ، الْحَقُّ، الْحَيُّ، الْحَنَّانُ`), diikuti penulisan Surah al-Ikhlāsh sebanyak **11 kali** serta pembacaan 12 Asmā' (**70 kali**) dan Surah al-Ikhlāsh (**70 kali**) di atas air leburannya. 
 ### Khususiyah dan Tatacara Praktik
-‎Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الروحانية` — mencakup gangguan ‘ain, mass khafīf, waswas, insomnia ruhaniyyah, dan gejala psikosomatik akibat siḥr — bukan untuk ‘Athlūsyin (perusak amal) melainkan untuk pasien. Tatacara rinci: (1) Siapkan piring porselen putih bersih (bukan logam) — cuci dengan air dan garam, (2) Tinta: air mawar thahūr + za‘faran asli (saffron stigma, bukan pewarna) — larutkan hingga warna keemasan, (3) Tulis murabba‘ 4×4 (16 sel) dengan angka Arab di tengah — lihat Hal18 untuk angka persis — dengan qalam bambu, (4) Kelilingi murabba‘ dengan 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — Ikhlāsh ditulis 11× berturutan tanpa putus di sekeliling (seperti lingkaran), (5) Hapus tulisan dengan air thāhir (air hujan yang belum menyentuh tanah lebih utama, atau air zamzam) — tuang ke gelas kaca, (6) Bacakan pada air: 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — masing-masing rangkaian 70× (bukan masing-masing asma’ 70×, melainkan keseluruhan bracket 70×), kemudian Surah al-Ikhlāsh 70× terpisah — total 140 kali bacaan (70+70) — di atas air dengan nafas menyentuh permukaan, (7) Minum: setiap pagi ‘alar-rīq (sebelum makan/minum apapun) dan malam sebelum tidur — 1 gelas tiap waktu — selama 7 hari tanpa jeda — simpan air di kulkas suci (jangan bercampur makanan najis), (8) Pantangan: jaga wudhū’, hindari makanan ḥarām dan ghibah selama 7 hari, (9) Tanda syifā’: mimpi cahaya, keringat dingin hilang, atau gejala mereda hari ke-3-4 — lanjutkan hingga 7 hari sempurna, (10) Peringatan: jangan menulis wafaq dengan tinta kimia/spidol — za‘farān bersifat ghizā’ ruhaniyyah, bukan sekadar pewarna — dan jangan membaca terbalik (urutan: Asma’ dulu 70× baru Ikhlāsh 70×).
+1. **Khasiat Utama (*Ad-Durratun-Nūrāniyyah*)**:
+   - Sarana kesembuhan (*syifā' bi-idznillāh*) untuk berbagai keluhan dan gejala gangguan ruhani (`الْأَمْرَاضُ وَالْأَعْرَاضُ الرُّوحَانِيَّةُ`), seperti *'ain*, sentuhan jin (*mass*), waswas, gangguan tidur batiniah, serta kelesuan tubuh akibat sihir.
+2. **Tata Cara Penulisan & Pembuatan Air Leburan**:
+   1) Siapkan piring porselen putih bersih tanpa lukisan, lalu tuliskan di bagian tengahnya **Wafaq Murabba' 4×4 *Lafzhul-Jalālah*** (matriks angkanya tertera pada Halaman 18) menggunakan tinta air mawar dan za'faran asli.
+   2) Kelilingi wafaq tersebut dengan rangkaian kalimat tauhid dan **12 Asmā'ul-Ḥusnā** (`لَا إِلَهَ إِلَّا اللهُ الْمَلِكُ الْمُهَيْمِنُ مَالِكُ الْمُلْكِ الْمُحْصِي الْمُحْيِي الْمَنَّانُ الْحَكَمُ الْحَلِيمُ الْحَكِيمُ الْحَقُّ الْحَيُّ الْحَنَّانُ`) diikuti Basmalah dan **Surah al-Ikhlāsh yang ditulis berulang 11 kali**.
+   3) Lebur tulisan pada piring menggunakan air suci yang bersih, lalu bacakan di atas permukaan airnya rangkaian **12 Asmā'ul-Ḥusnā beserta Surah al-Ikhlāsh sebanyak 70 kali**, dilanjutkan membaca **Surah al-Ikhlāsh tersendiri sebanyak 70 kali**.
+3. **Aturan Minum Selama 7 Hari**:
+   - Diminum oleh pasien setiap pagi sebelum makan/minum apa pun (*'alar-rīq*) dan setiap malam sebelum tidur selama **7 hari berturut-turut** sambil menjaga kesucian wudhu dan dzikir.
 
 ## HALAMAN 18 — الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرُّوحَانِيَّةِ (٢ — وَفْقُ الْجَلَالَةِ ٤×٤)
 
@@ -1148,31 +1143,16 @@ Aku memohon kepada Allah Yang Maha Agung semoga Dia memberiku manfaat — dan ka
 | ٨٨ | ٨١ | ٦٨٩ | ٣٤٠ |
 
 ### latin
-Ad-durratun-nūrāniyyatu fī 'ilājil-a'rādhir-rūhāniyyati.
-
-| ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
-|---|---|---|---|
-| ٣٤٢ | ٦٩١ | ٧٩ | ٨٦ |
-| ٦٩٠ | ٣٣٩ | ٨٩ | ٨٠ |
-| ٨٨ | ٨١ | ٦٨٩ | ٣٤٠ |
+Ad-durratun-nūrāniyyatu fī 'ilājil-a'rādhir-rūḥāniyyati.
 
 [Wafaq Murabba' 4×4 Lafzhul-Jalālah — Asror Angka Arab, tidak dilatinkan]
-
 ### Terjemahan
 Mutiara bercahaya dalam mengobati gejala-gejala gangguan ruhani.
 
-| ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
-|---|---|---|---|
-| ٣٤٢ | ٦٩١ | ٧٩ | ٨٦ |
-| ٦٩٠ | ٣٣٩ | ٨٩ | ٨٠ |
-| ٨٨ | ٨١ | ٦٨٩ | ٣٤٠ |
-
 [Wafaq Murabba' 4×4 Lafzhul-Jalālah — Asror Angka Arab, tidak diterjemahkan]
-
 ### Syarah dan Penjelasan
-1. **Hisab Matriks Wafaq Murabba' 4×4 *Al-Jalālah* (Konstanta Cetakan 798 & Koreksi Hisab 1198)**:
-‎   - Pada cetakan naskah tertulis angka `٢٩٢` (sel kiri-atas) dan `٨٣` (baris 2 kiri) dengan jumlah baris pertama **`٧٩٨` (798 = `78 + 87 + 341 + 292`)**. Adapun menurut kaidah hisab *murabba' thabī'ī*, angka `٢٩٢` adalah `٦٩٢` (692) dan `٨٣` adalah `٨٦` (86) sehingga seluruh baris, kolom, dan diagonal berjumlah seragam **١١٩٨ (1198)**:
-‎   - Matriks Wafaq 4×4 pada Halaman 18 ini memiliki *miftāh* (angka terkecil) **`٧٨`** di sudut kanan-atas dan *maghlāq* (angka terbesar) **`٦٩٢`** di sudut kiri-atas, dengan jumlah konstanta setiap baris, kolom, dan diagonal tepat **١١٩٨ (1198)**:
+1. **Hisab Matriks Wafaq Murabba' 4×4 *Ad-Durratun-Nūrāniyyah* (Konstanta 1198)**:
+   - Matriks Wafaq Murabba' 4×4 pada Halaman 18 ini memiliki *miftāḥ* (angka terkecil) **`٧٨`** di sudut kanan-atas dan *maghlāq* (angka terbesar) **`٦٩٢`** di sudut kiri-atas, dengan jumlah konstanta (*wifq*) pada setiap baris, kolom, dan kedua diagonal tepat **١١٩٨ (1198)**:
 ‎     - **Baris 1**: `٧٨ + ٨٧ + ٣٤١ + ٦٩٢ = ١١٩٨`
 ‎     - **Baris 2**: `٣٤٢ + ٦٩١ + ٧٩ + ٨٦ = ١١٩٨`
 ‎     - **Baris 3**: `٦٩٠ + ٣٣٩ + ٨٩ + ٨٠ = ١١٩٨`
@@ -1206,11 +1186,11 @@ Mutiara bercahaya dalam mengobati gejala-gejala gangguan ruhani.
 
 Fāidatun fī tadmirizh zhālim.
 
-Assalāmu 'alaikum wa rahmatullāhi wa barakātuh, ikhwatī fillāh, irta'aitu an adha'a baina aidīkumul amīnah hādzihil fāidata fī qahrizh zhālīmi wa tadmirih, wa hiya min ba'dhi tashārīfi [Hasbunallāhu wa ni'mal wakīl] an-nādirah wal qawiyyah, fa-as'alukum billāhi ta'ālā an lā tazhlimū bihā ahadan, wa lā taf'alūhā illā liman zhalama wa ta'addā wa tajabbara wastakbara, wa qad akhfaitu fīhā sirrahā, fa-man fatahallāhu 'an bashīratihi wajadahā kas-summiz zu'āfi fī dahdhizh zhālīmi wa tadmirih, wa hādzihi tharīqatu 'amalihā: Ta'khudzu qith'atan min nuhāsin ahmara takūnu qadra rāhatil yad, wa tanqusyu fīhal jadhwalal ātiya dzikruhū bi-mismārin min fūlādz, wa tuhawwithuhū bil basmalah tabda'u min sathril mutsallatsil asfal, haitsu takūnul kitābatu muwāliyatan lil mutsallatsi tabda'uhā minal yamīni ilas syimāli... ilakh, wa ta'tī ilā taqāthu'il arkāni minal mutsallatsi wa taktubu ismal malikir rūhāniyyi [Anfāyīla] bihaitsu takūnul kitābatu muwāliyatan lil wafqi, ammā mā yūdha'u fil-qalbil-khālī fa-huwa: Ta'khudzus-mazh-zhālimi wa isma ummihi wa tamzujuhū bi-hurūfil khādimi [Malūbāyīla] haitsu yakūnu awwalu harfin minal khādimi wa ākhiru harfin minhu aidhan fī sathril mazji, wa taksirul jumlah ilal makhraj, tsumma khudz min sathril mīzāni hurūfad daf'i wallatī talīhā ay kulla harfi daf'in walladzī ba'dahū, wajma' 'adadal hurūfi wa adkhilhu fī qalbil mutsallatsi wa hawwith 'alaihi dāirah, wa tadha'ul qith'ata fauqa nārin hāmiyatin ba'da an tubakhkhirahā bi-qalīlin minal qusthil murri, watlu 'alaihal 'azīmata 'adada [1264], wad du'ā'a 'alā ra'sil 'aqdi wa huwa: [Allāhumma Anta Hasbī wa Wakīlī 'alazh zhālim, Allāhummaqtha' anfāsahū wa syattit syamlahū wa farriq jam'ahū waqlib tadbīrahū wa baddil ahwālahū wa qarrib ājālahū wa zalzil aqdāmahū wahriq 'izhāmahū bihaqqi {Annalladzīna fatanul mu'minīna wal mu'mināti tsumma lam yatūbū fa-lahum 'adzābu jahannama wa lahum 'adzābul harīq} {Wa in yastaghītsū yughātsū bi-mā'in kal-muhli yasywil wujūh} Allāhumma waqla' ātsārahū hattā lā tabqā lahū bāqiyatun wa lā yajida min 'adzābika lahū wāqiyah, wasyghalhu bi-badanihī warmihi Allāhumma bi-shawā'iqi intiqāmika wabthisy bihi bathsyan syadīdan, wa-khudzhu Allāhumma akhdzan 'azīzan wa dammirhu tadmīran wa tabbirhu tatbīran waj'alhu habā'an mantsūrā, waqtha' Allāhumma dzikrahū fa-Anta Hasbī wa Wakīlī 'alaih]
+Assalāmu 'alaikum wa raḥmatullāhi wa barakātuh, ikhwatī fillāh, irta'aitu an adha'a baina aidīkumul amīnah hādzihil fāidata fī qahrizh zhālīmi wa tadmirih, wa hiya min ba'dhi tashārīfi [Hasbunallāhu wa ni'mal wakīl] an-nādirah wal qawiyyah, fa-as'alukum billāhi ta'ālā an lā tazhlimū bihā aḥadan, wa lā taf'alūhā illā liman zhalama wa ta'addā wa tajabbara wastakbara, wa qad akhfaitu fīhā sirrahā, fa-man fatahallāhu 'an bashīratihi wajadahā kas-summiz zu'āfi fī daḥdhizh zhālīmi wa tadmirih, wa hādzihi tharīqatu 'amalihā: Ta'khudzu qith'atan min nuḥāsin aḥmara takūnu qadra rāḥatil yad, wa tanqusyu fīhal jadhwalal ātiya dzikruhū bi-mismārin min fūlādz, wa tuḥawwithuhū bil basmalah tabda'u min sathril mutsallatsil asfal, ḥaitsu takūnul kitābatu muwāliyatan lil mutsallatsi tabda'uhā minal yamīni ilas syimāli... ilakh, wa ta'tī ilā taqāthu'il arkāni minal mutsallatsi wa taktubu ismal malikir rūḥāniyyi [Anfāyīla] biḥaitsu takūnul kitābatu muwāliyatan lil wafqi, ammā mā yūdha'u fil-qalbil-khālī fa-huwa: Ta'khudzus-mazh-zhālimi wa isma ummihi wa tamzujuhū bi-ḥurūfil khādimi [Malūbāyīla] ḥaitsu yakūnu awwalu ḥarfin minal khādimi wa ākhiru ḥarfin minhu aidhan fī sathril mazji, wa taksirul jumlah ilal makhraj, tsumma khudz min sathril mīzāni ḥurūfad daf'i wallatī talīhā ay kulla ḥarfi daf'in walladzī ba'dahū, wajma' 'adadal ḥurūfi wa adkhilhu fī qalbil mutsallatsi wa ḥawwith 'alaihi dāirah, wa tadha'ul qith'ata fauqa nārin ḥāmiyatin ba'da an tubakhkhirahā bi-qalīlin minal qusthil murri, watlu 'alaihal 'azīmata 'adada [1264], wad du'ā'a 'alā ra'sil 'aqdi wa huwa: [Allāhumma Anta Ḥasbī wa Wakīlī 'alazh zhālim, Allāhummaqtha' anfāsahū wa syattit syamlahū wa farriq jam'ahū waqlib tadbīrahū wa baddil aḥwālahū wa qarrib ājālahū wa zalzil aqdāmahū waḥriq 'izhāmahū biḥaqqi {Annalladzīna fatanul mu'minīna wal mu'mināti tsumma lam yatūbū fa-lahum 'adzābu jahannama wa lahum 'adzābul ḥarīq} {Wa in yastaghītsū yughātsū bi-mā'in kal-muhli yasywil wujūh} Allāhumma waqla' ātsārahū ḥattā lā tabqā lahū bāqiyatun wa lā yajida min 'adzābika lahū wāqiyah, wasyghalhu bi-badanihī warmihi Allāhumma bi-shawā'iqi intiqāmika wabthisy bihi bathsyan syadīdan, wa-khudzhu Allāhumma akhdzan 'azīzan wa dammirhu tadmīran wa tabbirhu tatbīran waj'alhu habā'an mantsūrā, waqtha' Allāhumma dzikrahū fa-Anta Ḥasbī wa Wakīlī 'alaih]
 
-Tammad du'ā', wal 'azīmah: [Lā ilāha illallāhul Hasībul Wakīl]
+Tammad du'ā', wal 'azīmah: [Lā ilāha illallāhul Ḥasībul Wakīl]
 
-Wa ba'da tamāmil 'azīmati wad du'ā'i ta'khudhul qith'ata min 'alan nāri, tadha'uhā fī qārūratin zujājin au ma'danin fīhā mā'un bāridun, wa tasuddu 'alaihā fī makānin muzhlimin, fa-tarā sirrallāhi fizh zhālīm, fa-in 'āda 'an zhulmihī fa-akhrijhā minal mā'i waqra' 'alaihal Fātihata 7 marrāt, wal Mulka 7, wal Ikhlāsha 7, wa'lamū annī wadha'tu hādzihil fāidata fī dzimmati man fatahallāhu lahū sirrahā, fa-ayyuhath thālibu rā'i hurmatallāhi fī khalqihī, wa tadzakkar anna yaumal-hisābi lā raiba fīh, wa-hādzā huwal wafqu.
+Wa ba'da tamāmil 'azīmati wad du'ā'i ta'khudhul qith'ata min 'alan nāri, tadha'uhā fī qārūratin zujājin au ma'danin fīhā mā'un bāridun, wa tasuddu 'alaihā fī makānin muzhlimin, fa-tarā sirrallāhi fizh zhālīm, fa-in 'āda 'an zhulmihī fa-akhrijhā minal mā'i waqra' 'alaihal Fātiḥata 7 marrāt, wal Mulka 7, wal Ikhlāsha 7, wa'lamū annī wadha'tu hādzihil fāidata fī dzimmati man fatahallāhu lahū sirrahā, fa-ayyuhath thālibu rā'i ḥurmatallāhi fī khalqihī, wa tadzakkar anna yaumal-ḥisābi lā raiba fīh, wa-hādzā huwal wafqu.
 
 ### Terjemahan
 
@@ -1223,12 +1203,17 @@ Selesai doa. Adapun azimahnya: [Tidak ada tuhan selain Allah Yang Maha Mencukupi
 Setelah sempurna azimah dan doa, ambillah potongan tersebut dari atas api, letakkan dalam botol kaca atau logam yang berisi air dingin, lalu tutuplah dan simpan di tempat yang gelap; niscaya engkau akan melihat rahasia Allah pada orang zalim. Jika ia telah kembali (bertaubat) dari kezalimannya, keluarkan potongan itu dari air dan bacakan di atasnya Al-Fatihah 7 kali, Al-Mulk 7 kali dan Al-Ikhlas 7 kali. Ketahuilah, aku telah meletakkan faedah ini pada tanggungan orang yang Allah bukakan rahasianya baginya; wahai penuntut ilmu, jagalah kehormatan Allah pada makhluk-Nya dan ingatlah bahwa Hari Perhitungan tidak ada keraguan padanya. Dan inilah wafaqnya.
 
 ### Syarah dan Penjelasan
-
-Faedah Tadmīr azh-Zhālim ini termasuk tashrīf langka dari wirid Hasbunallāh wa Ni‘mal-Wakīl. Penulis menegaskan syarat ketat: hanya untuk orang yang benar-benar zhalim, melampaui batas dan takabbur; penyalahgunaan untuk kezhaliman akan berbalik sebagai racun. Rahasia disembunyikan dalam hisab: tembaga merah ukuran telapak tangan diukir dengan paku baja, dibingkai basmalah dan empat sudut nama raja ruhaniyah Anfāyīl. Inti amalan adalah hisab jantung musallas: nama zhālim + nama ibunya dicampur huruf khādim Malūbāyīl, di-taksīr hingga makhraj, lalu diambil huruf-huruf daf‘ dari sathr al-mīzān beserta huruf sesudahnya, dijumlahkan dan dimasukkan ke qalbul-mutsallas dengan lingkaran. Pembakaran di atas api dengan bukhūr qisth al-murr dan pembacaan ‘azīmah 1264× serta du‘ā di atas ‘aqd menjadi kunci pengaktifan; pembalikan ke air dingin di tempat gelap sebagai penahan energi, dan cara pemulihan bila pelaku bertaubat (Fātihah, Mulk, Ikhlās 7×).
+1. **Tashrīf Agung *Ḥasbunallāhu wa Ni'mal-Wakīl* & Amanah Keadilan**:
+   - Faedah *Tadmīrizh-Zhālim* ini merupakan salah satu *tashrīf* langka dari kalimat **`حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيلُ`**. Syeikh al-Basyir mengikat pembacanya dengan sumpah atas nama Allah Ta'ala (`فَأَسْأَلُكُمْ بِاللهِ تَعَالَى أَنْ لَا تَظْلِمُوا بِهَا أَحَدًا`) agar tidak sekali-kali mengamalkannya kecuali terhadap pelaku kezaliman yang benar-benar melampaui batas dan sewenang-wenang (`ظَلَمَ وَتَعَدَّى وَتَجَبَّرَ وَاسْتَكْبَرَ`).
+2. **Kaidah Pengisian *Al-Qalbul-Khālī* (*Malūbāyīl* & *Anfāyīl*)**:
+   - Wafaq Musallas *Khālil-Qalb* (Halaman 20) diukir di atas lempeng tembaga merah seukuran telapak tangan dengan paku baja, dikelilingi Basmalah dari garis bawah kanan menuju kiri dan nama raja ruhani **`أَنْفَايِيل`** (*Anfāyīl*) pada keempat perpotongan sudutnya.
+   - Adapun sel tengahnya diisi jumlah nilai huruf-huruf tolak (*ḥurūfud-daf'*) beserta huruf sesudahnya yang dipungut dari baris *mīzān* hasil *mazj* dan *taksīr* nama orang zalim beserta ibunya dengan huruf khadim **`مَلُوبَايِيل`** (*Malūbāyīl*), lalu dilingkari garis bulat.
 
 ### Khususiyah dan Tatacara Praktik
-
-Amalan ini bersifat darurat dan sangat keras; tidak boleh untuk dendam pribadi ringan. Kehati-hatian dalam hisab wajib: salah hitung merusak khasiat. Penempatan di air gelap menahan pengaruh; pencabutan dan pembacaan surat-surat penyejuk menjadi penawar. Penulis mengikat amanah pada pembaca: jaga kehormatan makhluk Allah dan ingat Hari Hisab.
+1. **Tata Cara Pengaktifan, Penahanan, dan Pembatalan (Jika Pelaku Bertobat)**:
+   1) Setelah lempeng tembaga merah selesai diukir dengan cermat tanpa salah hitung, asapi dengan bukhur ***qusthul-murr*** lalu letakkan di atas bara api yang panas.
+   2) Bacakan di atasnya *'azīmah* (**`لَا إِلَهَ إِلَّا اللهُ الْحَسِيبُ الْوَكِيلُ`**) sebanyak **1264 kali** disertai pembacaan doa *qahr* pada setiap penghujung simpul hitungan (*'alā ra'sil-'aqd*).
+   3) Untuk menahan sementara pengaruhnya, angkat dan masukkan kepingan tembaga ke dalam air dingin di tempat yang gelap; dan apabila orang zalim tersebut telah sadar serta bertobat, cabut pengaruh amalan dengan membacakan padanya **Surah al-Fātiḥah, Surah al-Mulk, dan Surah al-Ikhlāsh masing-masing 7 kali** seraya mengingat pertanggungjawaban di hadapan Allah pada Hari Hisab.
 
 ## HALAMAN 20 — الْوَفْقُ الْمُثَلَّثُ (٣×٣) لِتَدْمِيرِ الظَّالِمِ
 
@@ -1247,31 +1232,19 @@ Amalan ini bersifat darurat dan sangat keras; tidak boleh untuk dendam pribadi r
 ### latin
 Fā'idatun fī tadmīrizh-zhālimi.
 
-| ٥٢ | ١٢٣٠ | ٦١٤ |
-|---|---|---|
-| ١١٦٠ | [ الْقَلْبُ الْخَالِي ] | ٧٣٦ |
-| ٦٨٤ | ٦٦٦ | ٥٤٦ |
-
 [Wafaq Musallas 3×3 Khālid-Qalb — Asror Angka Arab, tidak dilatinkan]
 
-[Al-ithārud-dākhiliyyul-akhdharu haulal-mutsallatsi]: Bismillāhir-rahmānir-rahīmi.
+[Al-ithārud-dākhiliyyul-akhdharu ḥaulal-mutsallatsi]: Bismillāhir-raḥmānir-raḥīmi.
 
 [Taqāthu'ul-arkānil-arba'ati]: Anfāyīla.
-
 ### Terjemahan
 Faedah dalam menghancurkan orang yang zalim.
-
-| ٥٢ | ١٢٣٠ | ٦١٤ |
-|---|---|---|
-| ١١٦٠ | [ الْقَلْبُ الْخَالِي ] | ٧٣٦ |
-| ٦٨٤ | ٦٦٦ | ٥٤٦ |
 
 [Wafaq Musallas 3×3 Tengah Kosong — Asror Angka Arab, tidak diterjemahkan]
 
 [Bingkai hijau di sekeliling wafaq mulai dari baris bawah kanan ke kiri]: Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang.
 
 [Perpotongan keempat sudut wafaq]: Anfāyīla.
-
 ### Syarah dan Penjelasan
 1. **Hisab Matriks Wafaq Musallas 3×3 *Al-Qalbul-Khālī* (Konstanta 1896)**:
 ‎   - Wafaq 3×3 pada Halaman 20 ini merupakan *mutsallats khālil-qalb* (wafaq segitiga dengan kamar tengah dikosongkan untuk diisi nilai hisab huruf *daf'* dari nama orang zalim yang dicampur dengan huruf khadim `مَلُوبَايِيلَ`), di mana keempat sisi luarnya berjumlah tepat **١٨٩٦ (1896)** (`1264 × 1,5`):
@@ -1310,13 +1283,13 @@ Faedah dalam menghancurkan orang yang zalim.
 
 Fāidatun mujarrabatun li-qahril-qarīn.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuh.
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuh.
 
-Ikhwatī fillāhi, ilaikum fāidatun muhimmatun fī qahril-qarīnil-mu'dzī li-shāhibihi, yuwaswisu lahū wa yamna'uhū minal-khairi wa fi'lihi wa rubbamā addā bihi lil-halwasati wat-takhayyulātil-muz'ijati, hafizhanallāhu wa iyyākum wal-mu'minīna ajma'īna min qarīnis-sū'i wasy-syaithāni, wal-fāidatu hiya kat-tālī ya'maluhā man kāna bihi adzan wa hattā man lam yakun bihi adzan fa-hiya qāhiratun zājiratun lil-qarīni bi-idznillāhi wa bi-barakati kalāmillāhi 'azza wa jalla:
+Ikhwatī fillāhi, ilaikum fāidatun muhimmatun fī qahril-qarīnil-mu'dzī li-shāḥibihi, yuwaswisu lahū wa yamna'uhū minal-khairi wa fi'lihi wa rubbamā addā bihi lil-halwasati wat-takhayyulātil-muz'ijati, ḥafizhanallāhu wa iyyākum wal-mu'minīna ajma'īna min qarīnis-sū'i wasy-syaithāni, wal-fāidatu hiya kat-tālī ya'maluhā man kāna bihi adzan wa ḥattā man lam yakun bihi adzan fa-hiya qāhiratun zājiratun lil-qarīni bi-idznillāhi wa bi-barakati kalāmillāhi 'azza wa jalla:
 
-‎Ba'da shalātish-shubhi tajlisu fī mushallāka wastaghfirillāha 15 marratan wa shalli 'alā rasūlillāhi shallallāhu 'alaihi wa sallama 15 marratan, tsummaqra' sūratar-rahmāni 1 marratan wa atbi'hā bi-āyātis-sajdati [āyatul-a'rāfi, āyatur-ra'di, āyatun-nahli, āyatul-isrā'i, āyatayil-hajji, āyatul-furqāni, āyatun-namli, āyatus-sajdati, āyatu [ ص ] [Rajah Huruf — tidak diterjemahkan], āyatu fushshilat, āyatun-najmi, āyatul-insyiqāqi, āyatul-'alaqi], tsummasjud lillāhi ta'ālā waqra' fī sujūdika āyat-as-sajdati min sūrati maryama wad'u bihādzad-du'ā'i:
+‎Ba'da shalātish-shubḥi tajlisu fī mushallāka wastaghfirillāha 15 marratan wa shalli 'alā rasūlillāhi shallallāhu 'alaihi wa sallama 15 marratan, tsummaqra' sūratar-raḥmāni 1 marratan wa atbi'hā bi-āyātis-sajdati [āyatul-a'rāfi, āyatur-ra'di, āyatun-naḥli, āyatul-isrā'i, āyatayil-ḥajji, āyatul-furqāni, āyatun-namli, āyatus-sajdati, āyatu [ ص ] [Rajah Huruf — tidak diterjemahkan], āyatu fushshilat, āyatun-najmi, āyatul-insyiqāqi, āyatul-'alaqi], tsummasjud lillāhi ta'ālā waqra' fī sujūdika āyat-as-sajdati min sūrati maryama wad'u bihādzad-du'ā'i:
 
-[Allāhumma innī as'aluka bi-qāfi qudratika wa bi-hā'i hidāyatika wa bi-alifi azaliyyatika wa bi-rā'i rahmatika wa as'aluka bi-nūri wajhikal-ladzī mala'a arkāna 'arsyika yā dzal-jalāli wal-ikrāmi an tu'īdzanī min nafsiyal-latīs-tahwat wa ghawat wa nādāhal-qarīnu wasy-syaithānu fa-labbāt wastajābāt fa-haqqa 'alaihal-qahru minka yā qahhāru wa as'aluka an tuqawwiya rūhiyal-latīs-tamsakat bika wa abat fa-haqqa lahan-nashru minka yā qadīru yā ni'mal-maulā wa ni'man-nashīru subhānakallāhumma wa bi-hamdika innaka 'alā kulli syai'in qadīr].
+[Allāhumma innī as'aluka bi-qāfi qudratika wa bi-hā'i hidāyatika wa bi-alifi azaliyyatika wa bi-rā'i raḥmatika wa as'aluka bi-nūri wajhikal-ladzī mala'a arkāna 'arsyika yā dzal-jalāli wal-ikrāmi an tu'īdzanī min nafsiyal-latīs-tahwat wa ghawat wa nādāhal-qarīnu wasy-syaithānu fa-labbāt wastajābāt fa-ḥaqqa 'alaihal-qahru minka yā qahhāru wa as'aluka an tuqawwiya rūḥiyal-latīs-tamsakat bika wa abat fa-ḥaqqa lahan-nashru minka yā qadīru yā ni'mal-maulā wa ni'man-nashīru subḥānakallāhumma wa bi-ḥamdika innaka 'alā kulli syai'in qadīr].
 
 Tsumma taqūmu min sujūdika wastaghfirillāha 15 marratan wa shalli 'alā rasūlillāhi 15 marratan.
 
@@ -1339,14 +1312,22 @@ Kemudian bangkitlah dari sujudmu; mohon ampunlah kepada Allah 15 kali dan bersha
 Selesai. Semoga Allah memberi manfaat kepada kami dan kalian dengan al-Qur'an yang agung, menjadikan kami termasuk orang-orang yang bertakwa, dan memberi petunjuk kepada kami dan kalian kepada jalan-Nya yang lurus.
 
 ### Syarah dan Penjelasan
-
-‎Hakikat Qarin (al-Qarīn al-Mu'dzī): setiap manusia didampingi qarin jin sejak lahir; bila jiwa lemah, qarin menguasai dengan was-was, malas ibadah, halwasah. Bacaan ar-Rahmān + 13 ayat sajdah menciptakan puncak ketundukan; sujud saat ayat sajdah menghinakan syaitan yang enggan sujud dahulu. Rahasia huruf dalam doa sujud (`[ ق ]` qudratika, `[ هـ ]` hidāyatika, `[ ا ]` azaliyyatika, `[ ر ]` rahmatika) merangkai Q-H-A-R yang membentuk Ya Qahhār.
+1. **Hakikat *Al-Qarīnul-Mu'dzī* & Rahasia Rangkaian 14 Ayat Sajdah**:
+   - Setiap manusia didampingi oleh *qarīn* dari golongan jin; apabila jiwa lemah, *qarīn* yang buruk menguasai hati dengan bisikan waswas, kemalasan beribadah, hingga bayangan halusinasi (*halwasah*).
+   - Pembacaan **Surah ar-Raḥmān** dilanjutkan dengan **ayat-ayat sajdah yang didaftar dalam matan** berurutan dan puncak sujud pada **ayat sajdah Surah Maryam: 58** merupakan simbol ketundukan mutlak hamba kepada Allah Ta'ala yang menghancurkan kesombongan setan dan *qarīn* yang enggan bersujud.
+2. **Rahasia Asror Empat Huruf **`[ ق - هـ - ا - ر ]`** dalam Doa Sujud**:
+   - Untaian tawasul di dalam sujud (`بِقَافِ قُدْرَتِكَ وَبِهَاءِ هِدَايَتِكَ وَبِأَلِفِ أَزَلِيَّتِكَ وَبِرَاءِ رَحْمَتِكَ`) merangkai empat huruf **`ق`** (*qudratika*), **`هـ`** (*hidāyatika*), **`ا`** (*azaliyyatika*), dan **`ر`** (*raḥmatika*) yang membentuk Asmā'ul-Ḥusnā **`قَهَّار`** (*Yā Qahhār* — Wahai Zat Yang Maha Menundukkan), guna menundukkan nafsu dan *qarīn* sekaligus menguatkan ruh yang berpegang teguh kepada Allah.
 
 ### Khususiyah dan Tatacara Praktik
+1. **Keunggulan Amalan Murni Tilawah & Sujud**:
+   - Amalan ini tidak memerlukan penulisan wafaq maupun bukhur, dan disajikan sebagai uraian amalan menurut penulis, bukan sebagai penetapan diagnosis atau jaminan kesembuhan.
+2. **Urutan Praktik Selepas Shalat Subuh**:
+   1) Duduklah tetap di tempat shalat (*mushallā*) selesai shalat Subuh, lalu bacalah **istighfar 15 kali** dan **selawat Nabi ﷺ 15 kali**.
+   2) Bacalah **Surah ar-Raḥmān 1 kali**, diikuti **ayat-ayat sajdah yang didaftar dalam matan** secara berurutan (al-A'rāf, ar-Ra'd, an-Naḥl, al-Isrā', dua ayat al-Ḥajj, al-Furqān, an-Naml, as-Sajdah, Shād, Fushshilat, an-Najm, al-Insyiqāq, dan al-'Alaq).
+   3) Bersujudlah kepada Allah Ta'ala, bacalah di dalam sujud **ayat sajdah Surah Maryam**, lalu panjatkan doa `اللَّهُمَّ إِنِّي أَسْأَلُكَ بِقَافِ قُدْرَتِكَ...` dengan penuh kekhusyukan.
+   4) Bangkitlah dari sujud, lalu tutup dengan **istighfar 15 kali** dan **selawat Nabi ﷺ 15 kali**.
 
-Amalan tanpa rajah/wafaq, murni tilawah, sujud dan du‘ā, sehingga aman untuk siapa saja setelah Shubuh. Penguncian angka 15 (istighfār 15× + shalawat 15× di awal dan akhir) mengapit doa sujud di hadapan ‘Arsy; pembacaan ayat sajdah Maryam di dalam sujud menjadi inti qahr.
-
-## HALAMAN 22-24 — السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ
+## HALAMAN 22 — السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ (١)
 
 ### arab
 
@@ -1380,6 +1361,67 @@ Amalan tanpa rajah/wafaq, murni tilawah, sujud dan du‘ā, sehingga aman untuk 
 
 ‏١٢، لَا إِلَهَ إِلَّا اللهُ وَهُوَ الَّذِي يَبْدَؤُا الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ عَلَيْهِ وَلَهُ الْمَثَلُ الْأَعْلَى فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
+### latin
+
+As-saiful-battāru li-daf'i Maimūnil-ghaddār.
+
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuh, ikhwatī fillāhi uqaddimu lakum hādzihil-fāidatal-qāthi'atan-nāfi'ata bi-idznillāhi fī daf'i adzat-taslīthi wal-irsālātikh-khāshshati bi-[Maimūnin-nikāḥil-mal'ūni] nas'alullāha ta'ālā an yaḥfazhakum min syarri adziyyati hādzal-māridil-majūsiyyi la'anahullāhu 'alaihi ilā yaumid-dīn.
+
+Yuktabul-wafqu bi-mā'i wardin wa za'farānin, wa tuḥawwithuhu bil-āyati [Qauluhul-ḥaqqu wa lahul-mulku] tsumma tadūru bihil-āyātil-karīmāti 29, lākinnal-kitābata takūnu 'alā hādzihish-shifati wa kadzālikat-tilāwatu, Lā ilāha illallāhu [āyah 1] Lā ilāha illallāhu [āyah 2] wa hākadzā ilā intihā'il-āyātil-karīmāti, tsummaqra' 'alaihi ismallāhi 'azza wa jalla [Al-Ḥakīmu] bi-alit-ta'rīfi wa laisa bi-yā'in-nidā'i, 582 marratan tsumma al-āyāti 29 marratan:
+
+1, Lā ilāha illallāhu Rabbanā wab'ats fīhim rasūlan minhum yatlū 'alaihim āyātika wa yu'allimuhumul-kitāba wal-ḥikmata wa yuzakkīhim innaka Antal-'Azīzul-Ḥakīm.
+2, Lā ilāha illallāhu Huwal-ladzī yushawwirukum fil-arḥāmi kaifa yasyā'u Lā ilāha illā Huwal-'Azīzul-Ḥakīm.
+3, Lā ilāha illallāhu Syahidallāhu annahu Lā ilāha illā Huwa wal-malāikatu wa ulul-'ilmi qā'iman bil-qisthi Lā ilāha illā Huwal-'Azīzul-Ḥakīm.
+4, Lā ilāha illallāhu Inna hādzā lahuwa al-qashashul-ḥaqqu wa mā min ilāhin illallāhu wa innallāha lahuwa al-'Azīzul-Ḥakīm.
+5, Lā ilāha illallāhu wa mā ja'alahullāhu illā busyra lakum wa li-tathma'inna qulūbukum bihi wa man-nashru illā min 'indillāhil-'Azīzil-Ḥakīm.
+6, Lā ilāha illallāhu in tu'adzzibhum fa-innahum 'ibāduka wa in taghfir lahum fa-innaka Antal-'Azīzul-Ḥakīm.
+7, Lā ilāha illallāhu wa mā arsalnā min rasūlin illā bi-lisāni qaumihi li-yubayyina lahum fa-yudhillullāhu man yasyā'u wa yahdī man yasyā'u wa Huwal-'Azīzul-Ḥakīm.
+8, Lā ilāha illallāhu lil-ladzīna lā yu'minūna bil-ākhirati matsalu as-sau'i wa lillāhil-matsalul-a'lā wa Huwal-'Azīzul-Ḥakīm.
+9, Lā ilāha illallāhu yā Mūsā innahu Anal-lāhul-'Azīzul-Ḥakīm.
+10, Lā ilāha illallāhu fa-āmana lahu Lūthun wa qāla innī muhājirun ilā Rabbī innahu Huwal-'Azīzul-Ḥakīm.
+11, Lā ilāha illallāhu innallāha ya'lamu mā tad'ūna min dūnihi min syai'in wa Huwal-'Azīzul-Ḥakīm.
+12, Lā ilāha illallāhu wa Huwal-ladzī yabda'ul-khalqa tsumma yu'īduhu wa Huwa ahwanu 'alaihi wa lahul-matsalul-a'lā fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Ḥakīm.
+
+### Terjemahan
+
+Pedang yang tajam untuk menolak Maimun yang berkhianat.
+
+Assalamu'alaikum warahmatullahi wabarakatuh, wahai saudara-saudaraku karena Allah, aku persembahkan kepada kalian faedah yang sangat ampuh dan bermanfaat ini — dengan izin Allah — dalam menolak gangguan penindasan dan kiriman-kiriman khusus yang berkaitan dengan [Maimun Nikah yang terlaknat]. Kami memohon kepada Allah Ta'ala semoga Dia menjaga kalian dari kejahatan gangguan makhluk durhaka yang berwatak Majusi ini — semoga Allah melaknatnya hingga hari Kiamat.
+
+Wafaq ditulis dengan air mawar dan za'faran; kelilingilah ia dengan ayat [Firman-Nya adalah benar dan bagi-Nya kerajaan] kemudian putarilah ia dengan 29 ayat yang mulia. Namun penulisan hendaklah mengikuti tata cara ini dan demikian pula cara membacanya: Lā ilāha illallāh [ayat 1] Lā ilāha illallāh [ayat 2] demikian seterusnya hingga selesai semua ayat yang mulia, kemudian bacakanlah di atasnya nama Allah 'azza wa jalla [Al-Hakim] dengan memakai alif-lam ma'rifah dan bukan dengan ya' panggilan — sebanyak 582 kali kemudian ayat-ayat tersebut 29 kali:
+
+1, Tidak ada tuhan selain Allah — Wahai Tuhan kami, bangkitkanlah di tengah mereka seorang rasul dari kalangan mereka yang membacakan kepada mereka ayat-ayat-Mu, mengajarkan kepada mereka Kitab dan Hikmah, serta menyucikan mereka; sesungguhnya Engkaulah Yang Maha Perkasa lagi Maha Bijaksana.
+2, Tidak ada tuhan selain Allah — Dialah yang membentuk kamu dalam rahim sebagaimana Dia kehendaki; tidak ada tuhan selain Dia Yang Maha Perkasa lagi Maha Bijaksana.
+3, Tidak ada tuhan selain Allah — Allah bersaksi bahwa tidak ada tuhan selain Dia, demikian pula para malaikat dan orang-orang yang berilmu yang menegakkan keadilan; tidak ada tuhan selain Dia Yang Maha Perkasa lagi Maha Bijaksana.
+4, Tidak ada tuhan selain Allah — Sesungguhnya ini benar-benar kisah yang benar; tidak ada tuhan selain Allah; dan sesungguhnya Allah Dialah Yang Maha Perkasa lagi Maha Bijaksana.
+5, Tidak ada tuhan selain Allah — Dan tidaklah Allah menjadikannya melainkan sebagai kabar gembira bagi kalian dan agar hati kalian menjadi tenteram dengannya; dan tidak ada pertolongan melainkan dari sisi Allah Yang Maha Perkasa lagi Maha Bijaksana.
+6, Tidak ada tuhan selain Allah — Jika Engkau menyiksa mereka, maka sesungguhnya mereka adalah hamba-hamba-Mu; dan jika Engkau mengampuni mereka, maka sesungguhnya Engkaulah Yang Maha Perkasa lagi Maha Bijaksana.
+7, Tidak ada tuhan selain Allah — Dan tidaklah Kami mengutus seorang rasul melainkan dengan bahasa kaumnya agar ia menjelaskan kepada mereka; maka Allah menyesatkan siapa yang Dia kehendaki dan memberi petunjuk kepada siapa yang Dia kehendaki; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
+8, Tidak ada tuhan selain Allah — Bagi orang-orang yang tidak beriman kepada akhirat terdapat perumpamaan yang buruk, dan bagi Allah perumpamaan yang tertinggi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
+9, Tidak ada tuhan selain Allah — Wahai Musa, sesungguhnya Aku adalah Allah Yang Maha Perkasa lagi Maha Bijaksana.
+10, Tidak ada tuhan selain Allah — Maka berimanlah Luth kepadanya dan berkata: Sesungguhnya aku akan berhijrah kepada Tuhanku; sesungguhnya Dialah Yang Maha Perkasa lagi Maha Bijaksana.
+11, Tidak ada tuhan selain Allah — Sesungguhnya Allah mengetahui apa yang kalian seru selain Dia berupa sesuatu apa pun; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
+12, Tidak ada tuhan selain Allah — Dan Dialah yang memulai penciptaan kemudian mengulanginya, dan itu lebih mudah bagi-Nya; dan bagi-Nya perumpamaan yang tertinggi di langit dan di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
+
+### Syarah dan Penjelasan
+
+1. **Fungsi *As-Saiful-Battār* terhadap Gangguan *Maimūn an-Nikāḥ***:
+   - Faedah ini dirancang khusus untuk memutus penindasan (*taslīth*) dan kiriman sihir pengganggu rumah tangga serta kehormatan yang dikaitkan dengan jin mārid *Maimūn an-Nikāḥ*.
+2. **Kaifiyat Penggabungan Kalimat Tauhid, Asmā' **`الْحَكِيمُ`** (`582×`), dan 29 Ayat **`الْعَزِيزُ الْحَكِيمُ`**:
+   - Seluruh 29 ayat dalam bab ini (Ayat 1–12 pada Halaman 22 dan Ayat 13–29 pada Halaman 23) dipilih secara khusus dari ayat-ayat Al-Qur'an yang ditutup dengan pasangan Asmā'ul-Ḥusnā **`الْعَزِيزُ الْحَكِيمُ`**, dan setiap ayatnya wajib diawali dengan kalimat tauhid **`لَا إِلَهَ إِلَّا اللهُ`** baik ketika ditulis maupun ketika dibaca.
+   - Syeikh al-Basyir menekankan kaidah penting dalam pembacaan wirid Asmā'ul-Ḥusnā **`الْحَكِيمُ`**: dibaca memakai *Alif-Lām Ta'rīf* (**`الْحَكِيمُ`**, bukan `يَا حَكِيمُ` dengan *yā' nidā'*) sebanyak **582 kali** — tepat menyamai konstanta baris/kolom/diagonal Wafaq Musallas pada Halaman 24.
+
+### Khususiyah dan Tatacara Praktik
+
+1. **Tata Cara Penulisan & Pembacaan Bagian Awal (Ayat 1–12)**:
+   - Tulislah terlebih dahulu Wafaq Musallas 3×3 (tertera pada Halaman 24) dengan tinta air mawar dan za'faran, kelilingi empat sisinya dengan ayat `قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ`, lalu tuliskan melingkar ke-29 ayat mulia dengan mendahulukan `لَا إِلَهَ إِلَّا اللهُ` sebelum setiap ayat (dimulai dari Ayat 1–12 pada halaman ini dan disambung Ayat 13–29 pada Halaman 23).
+
+## HALAMAN 23 — السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ (٢)
+
+### arab
+
+‏السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ
+
 ‏١٣، لَا إِلَهَ إِلَّا اللهُ خَالِدِينَ فِيهَا وَعْدَ اللهِ حَقًّا وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
 ‏١٤، لَا إِلَهَ إِلَّا اللهُ قُلْ أَرُونِيَ الَّذِينَ أَلْحَقْتُمْ بِهِ شُرَكَاءَ كَلَّا بَلْ هُوَ اللهُ الْعَزِيزُ الْحَكِيمُ
@@ -1412,85 +1454,38 @@ Amalan tanpa rajah/wafaq, murni tilawah, sujud dan du‘ā, sehingga aman untuk 
 
 ‏٢٨، لَا إِلَهَ إِلَّا اللهُ وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-‏٢٩، لَا إِلَهَ إِلَّا اللهُ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏٢٩، لَا إِلَهَ إِلَّا اللهُ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الْحَكِيمُ
 
-‏تَمَّتْ أُخْوَتِي فِي اللهِ الْآيَاتُ الْكَرِيمَاتُ وَإِلَيْكُمُ الْوَفْقُ السَّالِفُ ذِكْرُهُ
-
-‏وَ هَذَا هُوَ الْوَفْقُ
-
-| ٢٧٤ | ١٤٣ | ١٦٥ |
-| ٨٥ | ١٩٤ | ٣٠٣ |
-| ٢٢٣ | ٢٤٥ | ١١٤ |
+‏تَمَّتْ إِخْوَتِي فِي اللهِ الْآيَاتُ الْكَرِيمَاتُ وَإِلَيْكُمُ الْوَفْقُ السَّالِفُ ذِكْرُهُ
 
 ### latin
 
-As-saiful-battāru li-daf'i Maimūnil-ghaddār.
+As-saiful-battāru li-daf'i Maimūninil-ghaddāri.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuh, ikhwatī fillāhi uqaddimu lakum hādzihil-fāidatal-qāthi'atan-nāfi'ata bi-idznillāhi fī daf'i adzat-taslīthi wal-irsālātikh-khāshshati bi-[Maimūnin-nikāhil-mal'ūni] nas'alullāha ta'ālā an yahfazhakum min syarri adziyyati hādzal-māridil-majūsiyyi la'anahullāhu 'alaihi ilā yaumid-dīn.
+13, Lā ilāha illallāhu khālidīna fīhā wa'dallāhi ḥaqqan wa Huwal-'Azīzul-Ḥakīm.
+14, Lā ilāha illallāhu qul arūniyal-ladzīna alḥaqtum bihi syurakā'a kallā bal Huwallāhul-'Azīzul-Ḥakīm.
+15, Lā ilāha illallāhu mā yaftaḥillāhu lin-nāsi min raḥmatin fa-lā mumsika lahā wa mā yumsik fa-lā mursila lahu min ba'dihi wa Huwal-'Azīzul-Ḥakīm.
+16, Lā ilāha illallāhu tanzīlul-kitābi minallāhil-'Azīzil-Ḥakīm.
+17, Lā ilāha illallāhu Rabbanā wa adkhilhum jannāti 'adninil-latī wa'adtahum wa man shalaḥa min ābā'ihim wa azwājihim wa dzurriyyātihim innaka Antal-'Azīzul-Ḥakīm.
+‎18, Lā ilāha illallāhu [ حم عسق ] [Rajah Huruf — tidak diterjemahkan] kadzālika yūḥī ilaika wa ilal-ladzīna min qablikallāhul-'Azīzul-Ḥakīm.
+‎19, Lā ilāha illallāhu [ حم ] [Rajah Huruf — tidak diterjemahkan] tanzīlul-kitābi minallāhil-'Azīzil-Ḥakīm [al-Jātsiyah].
+20, Lā ilāha illallāhu wa lahul-kibriyā'u fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Ḥakīm.
+‎21, Lā ilāha illallāhu [ حم ] [Rajah Huruf — tidak diterjemahkan] tanzīlul-kitābi minallāhil-'Azīzil-Ḥakīm [al-Aḥqāf].
+22, Lā ilāha illallāhu sabbaḥa lillāhi mā fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Ḥakīm [al-Ḥadīd].
+23, Lā ilāha illallāhu sabbaḥa lillāhi mā fis-samāwāti wa mā fil-ardhi wa Huwal-'Azīzul-Ḥakīm [al-Ḥasyr].
+24, Lā ilāha illallāhu Huwallāhul-Khāliqul-Bāri'ul-Mushawwiru lahul-asmā'ul-ḥusnā yusabbiḥu lahu mā fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Ḥakīm.
+25, Lā ilāha illallāhu Rabbanā lā taj'alnā fitnatan lil-ladzīna kafarū waghfir lanā Rabbanā innaka Antal-'Azīzul-Ḥakīm.
+26, Lā ilāha illallāhu sabbaḥa lillāhi mā fis-samāwāti wa mā fil-ardhi wa Huwal-'Azīzul-Ḥakīm [ash-Shaff].
+27, Lā ilāha illallāhu yusabbiḥu lillāhi mā fis-samāwāti wa mā fil-ardhi al-Malikul-Quddūsul-'Azīzul-Ḥakīm.
+28, Lā ilāha illallāhu wa ākharīna minhum lammā yalḥaqū bihim wa Huwal-'Azīzul-Ḥakīm.
+29, Lā ilāha illallāhu 'ālimul-ghaibi wasy-syahādatil-'Azīzul-Ḥakīm.
 
-Yuktabul-wafqu bi-mā'i wardin wa za'farānin, wa tuhawwithuhu bil-āyati [Qauluhul-haqqu wa lahul-mulku] tsumma tadūru bihil-āyātil-karīmāti 29, lākinnal-kitābata takūnu 'alā hādzihish-shifati wa kadzālikat-tilāwatu, Lā ilāha illallāhu [āyah 1] Lā ilāha illallāhu [āyah 2] wa hākadzā ilā intihā'il-āyātil-karīmāti, tsummaqra' 'alaihi ismallāhi 'azza wa jalla [Al-Hakīmu] bi-alit-ta'rīfi wa laisa bi-yā'in-nidā'i, 582 marratan tsumma al-āyāti 29 marratan:
-
-1, Lā ilāha illallāhu Rabbanā wab'ats fīhim rasūlan minhum yatlū 'alaihim āyātika wa yu'allimuhumul-kitāba wal-hikmata wa yuzakkīhim innaka Antal-'Azīzul-Hakīm.
-2, Lā ilāha illallāhu Huwal-ladzī yushawwirukum fil-arhāmi kaifa yasyā'u Lā ilāha illā Huwal-'Azīzul-Hakīm.
-3, Lā ilāha illallāhu Syahidallāhu annahu Lā ilāha illā Huwa wal-malāikatu wa ulul-'ilmi qā'iman bil-qisthi Lā ilāha illā Huwal-'Azīzul-Hakīm.
-4, Lā ilāha illallāhu Inna hādzā lahuwa al-qashashul-haqqu wa mā min ilāhin illallāhu wa innallāha lahuwa al-'Azīzul-Hakīm.
-5, Lā ilāha illallāhu wa mā ja'alahullāhu illā busyra lakum wa li-tathma'inna qulūbukum bihi wa man-nashru illā min 'indillāhil-'Azīzil-Hakīm.
-6, Lā ilāha illallāhu in tu'adzzibhum fa-innahum 'ibāduka wa in taghfir lahum fa-innaka Antal-'Azīzul-Hakīm.
-7, Lā ilāha illallāhu wa mā arsalnā min rasūlin illā bi-lisāni qaumihi li-yubayyina lahum fa-yudhillullāhu man yasyā'u wa yahdī man yasyā'u wa Huwal-'Azīzul-Hakīm.
-8, Lā ilāha illallāhu lil-ladzīna lā yu'minūna bil-ākhirati matsalu as-sau'i wa lillāhil-matsalul-a'lā wa Huwal-'Azīzul-Hakīm.
-9, Lā ilāha illallāhu yā Mūsā innahu Anal-lāhul-'Azīzul-Hakīm.
-10, Lā ilāha illallāhu fa-āmana lahu Lūthun wa qāla innī muhājirun ilā Rabbī innahu Huwal-'Azīzul-Hakīm.
-11, Lā ilāha illallāhu innallāha ya'lamu mā tad'ūna min dūnihi min syai'in wa Huwal-'Azīzul-Hakīm.
-12, Lā ilāha illallāhu wa Huwal-ladzī yabda'ul-khalqa tsumma yu'īduhu wa Huwa ahwanu 'alaihi wa lahul-matsalul-a'lā fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Hakīm.
-13, Lā ilāha illallāhu khālidīna fīhā wa'dallāhi haqqan wa Huwal-'Azīzul-Hakīm.
-14, Lā ilāha illallāhu qul arūniyal-ladzīna alhaqtum bihi syurakā'a kallā bal Huwallāhul-'Azīzul-Hakīm.
-15, Lā ilāha illallāhu mā yaftahillāhu lin-nāsi min rahmatin fa-lā mumsika lahā wa mā yumsik fa-lā mursila lahu min ba'dihi wa Huwal-'Azīzul-Hakīm.
-16, Lā ilāha illallāhu tanzīlul-kitābi minallāhil-'Azīzil-Hakīm.
-17, Lā ilāha illallāhu Rabbanā wa adkhilhum jannāti 'adninil-latī wa'adtahum wa man shalaha min ābā'ihim wa azwājihim wa dzurriyyātihim innaka Antal-'Azīzul-Hakīm.
-‎18, Lā ilāha illallāhu [ حم عسق ] [Rajah Huruf — tidak diterjemahkan] kadzālika yūhī ilaika wa ilal-ladzīna min qablikallāhul-'Azīzul-Hakīm.
-‎19, Lā ilāha illallāhu [ حم ] [Rajah Huruf — tidak diterjemahkan] tanzīlul-kitābi minallāhil-'Azīzil-Hakīm [al-Jātsiyah].
-20, Lā ilāha illallāhu wa lahul-kibriyā'u fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Hakīm.
-‎21, Lā ilāha illallāhu [ حم ] [Rajah Huruf — tidak diterjemahkan] tanzīlul-kitābi minallāhil-'Azīzil-Hakīm [al-Ahqāf].
-22, Lā ilāha illallāhu sabbaha lillāhi mā fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Hakīm [al-Hadīd].
-23, Lā ilāha illallāhu sabbaha lillāhi mā fis-samāwāti wa mā fil-ardhi wa Huwal-'Azīzul-Hakīm [al-Hasyr].
-24, Lā ilāha illallāhu Huwallāhul-Khāliqul-Bāri'ul-Mushawwiru lahul-asmā'ul-husnā yusabbihu lahu mā fis-samāwāti wal-ardhi wa Huwal-'Azīzul-Hakīm.
-25, Lā ilāha illallāhu Rabbanā lā taj'alnā fitnatan lil-ladzīna kafarū waghfir lanā Rabbanā innaka Antal-'Azīzul-Hakīm.
-26, Lā ilāha illallāhu sabbaha lillāhi mā fis-samāwāti wa mā fil-ardhi wa Huwal-'Azīzul-Hakīm [ash-Shaff].
-27, Lā ilāha illallāhu yusabbihu lillāhi mā fis-samāwāti wa mā fil-ardhi al-Malikul-Quddūsul-'Azīzul-Hakīm.
-28, Lā ilāha illallāhu wa ākharīna minhum lammā yalhaqū bihim wa Huwal-'Azīzul-Hakīm.
-29, Lā ilāha illallāhu 'ālimul-ghaibi wasy-syahādati wa Huwal-'Azīzul-Hakīm.
-
-Tammat ikhwatī fillāhi al-āyātul-karīmātu wa ilaikumul-wafqus-sālifu dzikruhū:
-
-| ٢٧٤ | ١٤٣ | ١٦٥ |
-|---|---|---|
-| ٨٥ | ١٩٤ | ٣٠٣ |
-| ٢٢٣ | ٢٤٥ | ١١٤ |
-
-[Wafaq Musallas 3×3 As-Saiful-Battār — Asror Angka Arab, tidak dilatinkan]
-
-Wafaq musallas 3×3 (asror, tanpa latin/terjemah angka — simpan RTL agar dir=rtl): lihat tabel arab di atas.
+Tammat ikhwatī fillāhi al-āyātul-karīmātu wa ilaikumul-wafqus-sālifu dzikruhū.
 
 ### Terjemahan
 
 Pedang yang tajam untuk menolak Maimun yang berkhianat.
 
-Assalamu'alaikum warahmatullahi wabarakatuh, wahai saudara-saudaraku karena Allah, aku persembahkan kepada kalian faedah yang sangat ampuh dan bermanfaat ini — dengan izin Allah — dalam menolak gangguan penindasan dan kiriman-kiriman khusus yang berkaitan dengan [Maimun Nikah yang terlaknat]. Kami memohon kepada Allah Ta'ala semoga Dia menjaga kalian dari kejahatan gangguan makhluk durhaka yang berwatak Majusi ini — semoga Allah melaknatnya hingga hari Kiamat.
-
-Wafaq ditulis dengan air mawar dan za'faran; kelilingilah ia dengan ayat [Firman-Nya adalah benar dan bagi-Nya kerajaan] kemudian putarilah ia dengan 29 ayat yang mulia. Namun penulisan hendaklah mengikuti tata cara ini dan demikian pula cara membacanya: Lā ilāha illallāh [ayat 1] Lā ilāha illallāh [ayat 2] demikian seterusnya hingga selesai semua ayat yang mulia, kemudian bacakanlah di atasnya nama Allah 'azza wa jalla [Al-Hakim] dengan memakai alif-lam ma'rifah dan bukan dengan ya' panggilan — sebanyak 582 kali kemudian ayat-ayat tersebut 29 kali:
-
-1, Tidak ada tuhan selain Allah — Wahai Tuhan kami, bangkitkanlah di tengah mereka seorang rasul dari kalangan mereka yang membacakan kepada mereka ayat-ayat-Mu, mengajarkan kepada mereka Kitab dan Hikmah, serta menyucikan mereka; sesungguhnya Engkaulah Yang Maha Perkasa lagi Maha Bijaksana.
-2, Tidak ada tuhan selain Allah — Dialah yang membentuk kamu dalam rahim sebagaimana Dia kehendaki; tidak ada tuhan selain Dia Yang Maha Perkasa lagi Maha Bijaksana.
-3, Tidak ada tuhan selain Allah — Allah bersaksi bahwa tidak ada tuhan selain Dia, demikian pula para malaikat dan orang-orang yang berilmu yang menegakkan keadilan; tidak ada tuhan selain Dia Yang Maha Perkasa lagi Maha Bijaksana.
-4, Tidak ada tuhan selain Allah — Sesungguhnya ini benar-benar kisah yang benar; tidak ada tuhan selain Allah; dan sesungguhnya Allah Dialah Yang Maha Perkasa lagi Maha Bijaksana.
-5, Tidak ada tuhan selain Allah — Dan tidaklah Allah menjadikannya melainkan sebagai kabar gembira bagi kalian dan agar hati kalian menjadi tenteram dengannya; dan tidak ada pertolongan melainkan dari sisi Allah Yang Maha Perkasa lagi Maha Bijaksana.
-6, Tidak ada tuhan selain Allah — Jika Engkau menyiksa mereka, maka sesungguhnya mereka adalah hamba-hamba-Mu; dan jika Engkau mengampuni mereka, maka sesungguhnya Engkaulah Yang Maha Perkasa lagi Maha Bijaksana.
-7, Tidak ada tuhan selain Allah — Dan tidaklah Kami mengutus seorang rasul melainkan dengan bahasa kaumnya agar ia menjelaskan kepada mereka; maka Allah menyesatkan siapa yang Dia kehendaki dan memberi petunjuk kepada siapa yang Dia kehendaki; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
-8, Tidak ada tuhan selain Allah — Bagi orang-orang yang tidak beriman kepada akhirat terdapat perumpamaan yang buruk, dan bagi Allah perumpamaan yang tertinggi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
-9, Tidak ada tuhan selain Allah — Wahai Musa, sesungguhnya Aku adalah Allah Yang Maha Perkasa lagi Maha Bijaksana.
-10, Tidak ada tuhan selain Allah — Maka berimanlah Luth kepadanya dan berkata: Sesungguhnya aku akan berhijrah kepada Tuhanku; sesungguhnya Dialah Yang Maha Perkasa lagi Maha Bijaksana.
-11, Tidak ada tuhan selain Allah — Sesungguhnya Allah mengetahui apa yang kalian seru selain Dia berupa sesuatu apa pun; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
-12, Tidak ada tuhan selain Allah — Dan Dialah yang memulai penciptaan kemudian mengulanginya, dan itu lebih mudah bagi-Nya; dan bagi-Nya perumpamaan yang tertinggi di langit dan di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
 13, Tidak ada tuhan selain Allah — Mereka kekal di dalamnya; janji Allah adalah benar; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
 14, Tidak ada tuhan selain Allah — Katakanlah: Perlihatkan kepadaku orang-orang yang kalian sekutukan dengan-Nya; sekali-kali tidak, bahkan Dialah Allah Yang Maha Perkasa lagi Maha Bijaksana.
 15, Tidak ada tuhan selain Allah — Apa saja yang Allah bukakan bagi manusia berupa rahmat, maka tidak ada yang dapat menahannya; dan apa saja yang Dia tahan, maka tidak ada yang dapat mengirimnya setelah-Nya; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
@@ -1507,26 +1502,75 @@ Wafaq ditulis dengan air mawar dan za'faran; kelilingilah ia dengan ayat [Firman
 26, Tidak ada tuhan selain Allah — Bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana [Ash-Shaff].
 27, Tidak ada tuhan selain Allah — Bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi; Raja Yang Maha Suci Yang Maha Perkasa lagi Maha Bijaksana.
 28, Tidak ada tuhan selain Allah — Dan orang-orang lain dari mereka yang belum bertemu dengan mereka; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
-29, Tidak ada tuhan selain Allah — Yang mengetahui yang gaib dan yang nyata; dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.
+29, Tidak ada tuhan selain Allah — Yang Mengetahui yang gaib dan yang nyata, Yang Maha Perkasa lagi Maha Bijaksana.
 
 Telah selesai, wahai saudara-saudaraku karena Allah, ayat-ayat yang mulia tersebut dan untuk kalian wafaq yang telah disebutkan terdahulu.
 
-Dan inilah wafaqnya:
+### Syarah dan Penjelasan
+
+1. **Kesempurnaan 29 Ayat Berpenutup **`الْعَزِيزُ الْحَكِيمُ`** (Ayat 13 s.d. Ayat 29)**:
+   - Halaman 23 menuntaskan rangkaian ayat ke-13 hingga ke-29 (mencakup ayat-ayat dari Surah Luqmān, Saba', Fāthir, az-Zumar, Ghāfir, asy-Syūrā [`حم عسق`], al-Jātsiyah, al-Aḥqāf, al-Ḥadīd, al-Ḥasyr, al-Mumtaḥanah, ash-Shaff, al-Jumu'ah, hingga penutup QS. at-Taghābun: 18 `عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزِيزُ الْحَكِيمُ`).
+   - Perpaduan sifat **`الْعَزِيزُ`** (Yang Maha Perkasa menundukkan setiap pembangkang) dan **`الْحَكِيمُ`** (Yang Maha Bijaksana meletakkan segala hukum pada tempatnya) sebanyak 29 ayat membentuk benteng penjagaan yang kokoh bagi pemakainya.
+
+### Khususiyah dan Tatacara Praktik
+
+1. **Penyelesaian Wirid di Atas Wafaq (`582×` + `29×`)**:
+   - Setelah penulisan Wafaq (Halaman 24) beserta ke-29 ayat yang diawali `لَا إِلَهَ إِلَّا اللهُ` selesai seluruhnya, bacakan di atas kertas tersebut lafal **`الْحَكِيمُ`** sebanyak **582 kali**, kemudian bacakan ke-29 ayat tersebut (dengan `لَا إِلَهَ إِلَّا اللهُ` di awal tiap ayat) sebanyak **29 kali** putaran untuk mengaktifkan perisai *ḥirz* penolak gangguan *Maimūn* dengan izin Allah Ta'ala.
+
+## HALAMAN 24 — السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ (٣ — الْوَفْقُ)
+
+### arab
+
+‏السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ
+
+‏وَهَذَا هُوَ الْوَفْقُ
 
 | ٢٧٤ | ١٤٣ | ١٦٥ |
 |---|---|---|
 | ٨٥ | ١٩٤ | ٣٠٣ |
 | ٢٢٣ | ٢٤٥ | ١١٤ |
 
+‏﴿ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ ﴾
+
+### latin
+
+As-saiful-battāru li-daf'i Maimūninil-ghaddāri.
+
+Wa hādzā huwal-wafqu:
+
+[Wafaq Musallas 3×3 As-Saiful-Battār — Asror Angka Arab, tidak dilatinkan]
+
+﴿ Qauluhul-ḥaqqu wa lahul-mulku ﴾
+
+### Terjemahan
+
+Pedang yang tajam untuk menolak Maimun yang berkhianat.
+
+Dan inilah wafaqnya:
+
 [Wafaq Musallas 3×3 As-Saiful-Battār — Asror Angka Arab, tidak diterjemahkan]
+
+﴿ Firman-Nya adalah benar dan milik-Nya segala kerajaan ﴾ (QS. al-An'ām: 73 — ditulis mengelilingi empat sisi bingkai wafaq).
 
 ### Syarah dan Penjelasan
 
-‎Wafaq musallas 3×3 Saif al-Battār memiliki 9 kamar dengan konstanta 582 per baris/kolom/diagonal (165+143+274=582, 303+194+85=582, 114+245+223=582), selaras dengan hitungan wirid Al-Hakīm 582×. Keempat sisi bingkai hijau di sekeliling wafaq bertuliskan kaligrafi ayat `قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ` (`قوله` di kanan-atas, `الحق` di kiri-atas, `وله` di kiri-bawah, `الملك` di kanan-bawah), lalu di luarnya diputar diselingi 29 ayat Al-‘Azīz Al-Hakīm. Fungsi utamanya sebagai pemutus ikatan sihir/pelet Maimūn an-Nikāh (jin mārid Majūsī) yang merusak kehormatan suami-istri; mekanisme wirid Al-Hakīm 582× + ayat-ayat 29× menjadi pemantik pembakar energi sihir.
+1. **Hisab Matriks Wafaq Musallas 3×3 *As-Saiful-Battār* (Konstanta 582)**:
+   - Matriks Wafaq Musallas 3×3 pada Halaman 24 memiliki *miftāḥ* **`٨٥`** (baris 2 kanan), *quthb* tengah **`١٩٤`** (`194 × 3 = 582`), dan *maghlāq* **`٣٠٣`** (baris 2 kiri), di mana setiap baris, kolom, dan kedua diagonalnya berjumlah tepat **٥٨٢ (582)** — selaras sepenuhnya dengan jumlah wirid **`الْحَكِيمُ`** sebanyak **582 kali**:
+     - **Baris 1 (kanan→kiri)**: `٢٧٤ + ١٤٣ + ١٦٥ = ٥٨٢ (582)`
+     - **Baris 2 (kanan→kiri)**: `٨٥ + ١٩٤ + ٣٠٣ = ٥٨٢ (582)`
+     - **Baris 3 (kanan→kiri)**: `٢٢٣ + ٢٤٥ + ١١٤ = ٥٨٢ (582)`
+     - **Kolom Kanan**: `٢٧٤ + ٨٥ + ٢٢٣ = ٥٨٢ (582)`
+     - **Kolom Tengah**: `١٤٣ + ١٩٤ + ٢٤٥ = ٥٨٢ (582)`
+     - **Kolom Kiri**: `١٦٥ + ٣٠٣ + ١١٤ = ٥٨٢ (582)`
+     - **Diagonal 1**: `٢٧٤ + ١٩٤ + ١١٤ = ٥٨٢ (582)`
+     - **Diagonal 2**: `١٦٥ + ١٩٤ + ٢٢٣ = ٥٨٢ (582)`
+2. **Tata Letak Kaligrafi Bingkai Empat Sisi (`قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ`)**:
+   - Sebagaimana tertera pada rajah asli Halaman 24, keempat sisi miring bingkai luar wafaq dikelilingi firman Allah **`قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ`**: lafal **`قَوْلُهُ`** di sisi kanan-atas, **`الْحَقُّ`** di sisi kiri-atas, **`وَلَهُ`** di sisi kiri-bawah, dan **`الْمُلْكُ`** di sisi kanan-bawah.
 
 ### Khususiyah dan Tatacara Praktik
 
-Penulisan dengan air mawar + za‘faran, pembacaan terpisah (Lā ilāha illallāh per ayat) lalu wirid Al-Hakīm, cocok sebagai hirz pelindung kehormatan. Simetri 582 memancarkan daya hancur bergelombang yang memutus kiriman Maimūn secara instan.
+1. **Cara Penulisan & Penyempurnaan *Ḥirz***:
+   - Tulislah Wafaq Musallas berkonstanta 582 ini dengan tinta air mawar dan za'faran sesuai urutan nilai selnya dari terkecil ke terbesar (`٨٥ → ١١٤ → ١٤٣ → ١٦٥ → ١٩٤ → ٢٢٣ → ٢٤٥ → ٢٧٤ → ٣٠٣`), bingkai keempat sisinya dengan `قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ`, lalu edarkan di sekeliling luarnya ke-29 ayat dari Halaman 22–23 dan wiridkan **`الْحَكِيمُ`** (582×) serta ke-29 ayat tersebut (29×).
 
 ## HALAMAN 25 — فَائِدَةٌ قَاطِعَةٌ لِرَدِّ الْخَادِمِ
 
@@ -1548,15 +1592,15 @@ Penulisan dengan air mawar + za‘faran, pembacaan terpisah (Lā ilāha illallā
 
 Fāidatun qāthi'atun li-raddil-khādim.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuh, ikhwatī fillāhi adha'u baina aidīkum fāidatan qāthi'atan li-man ta'aththala 'anhut-tashrīfu wa muni'a minhu wa li-man kāna lahū khādimun wa farra 'anhu, fa-l yashum lillāhi ta'ālā yaumal-khamīsi wal-jumu'ati bi-niyyatil-'ibādati, wa yaqra'u yaumal-khamīsi dubura kulli shalātin al-āyataini min sūrati Yūsufa 75 marratan:
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuh, ikhwatī fillāhi adha'u baina aidīkum fāidatan qāthi'atan li-man ta'aththala 'anhut-tashrīfu wa muni'a minhu wa li-man kāna lahū khādimun wa farra 'anhu, fa-l yashum lillāhi ta'ālā yaumal-khamīsi wal-jumu'ati bi-niyyatil-'ibādati, wa yaqra'u yaumal-khamīsi dubura kulli shalātin al-āyataini min sūrati Yūsufa 75 marratan:
 
-‎[Wa qālal-maliku'tūnī bihi astakhlishu linafsī fa-lammā kallamahū qāla innakal-yauma ladainā makīnun amīnun ۝ Qāla ij'alnī 'alā khazā'inil-ardhi innī hafīzhun 'alīmun ۝ Wa kadzālika makkannā li-Yūsufa fil-ardhi yatabawwa'u minhā haitsu yasyā'u nushību bi-rahmatinā man nasyā'u wa lā nudhī'u ajral-muhsinīna] shadaqallāhul-'azhīm.
+‎[Wa qālal-maliku'tūnī bihi astakhlishu linafsī fa-lammā kallamahū qāla innakal-yauma ladainā makīnun amīnun ۝ Qāla ij'alnī 'alā khazā'inil-ardhi innī ḥafīzhun 'alīmun ۝ Wa kadzālika makkannā li-Yūsufa fil-ardhi yatabawwa'u minhā ḥaitsu yasyā'u nushību bi-raḥmatinā man nasyā'u wa lā nudhī'u ajral-muḥsinīna] shadaqallāhul-'azhīm.
 
 Wa fī ākhir at-tilāwati yad'ū bihādzad-du'ā'i 7 marrātin:
 
-[Allāhumma fāthiras-samāwāti wal-ardhi, 'ālimal-ghaibi wasy-syahādati, al-kabīral-muta'āli, asyhadu bi-annaka antallāhu lā ilāha illā anta, rabbas-samāwātis-sab'i wal-aradhīnas-sab'i wa mā bainahumā, 'allāmal-ghuyūbi, ghaffāradz-dzunūbi, sattāral-'uyūbi, mufarrijal-kurūbi, mukhrijal-hubūbi, musakhkhiral-qulūbi li-man kāna mahjūran hattā ya'ūda mahbūban, as'alukallāhumma an tusakhkhira lī [ismal-khādimi] kamā sakhkharta hamalata 'arsyika tahta 'arsyika yā hāmilal-'arsyi 'an hamalatil-'arsyi, wa kamā sakhkharta ath-thaira fī jawwis-samā'i, wa kamā sakhkharta asy-syamsa wal-qamara kullun yajrī ilā ajalim-musamman, wa kamā sakhkharta al-bahra li-Mūsā bni 'Imrāna, ilāhī annī bi-amrika amartuhu wa bi-da'watika istajlabtuhu wa bi-kalimātika laqqantuhu hattā idzā da'awtuhu ajābanī wa in kuntu ma'ahu ahabbanī wa in ghibtu 'anhu isytāqanī wa lā ya'shī amrī wa lā yanzhuru li-majlisi ghairī bi-irādatika wa idznika yā Allāhu yā Allāhu yā Allāhu, yā Hayyu yā Qayyūmu, yā Badī'as-samāwāti wal-ardhi, yā Dzal-jalāli wal-ikrām].
+[Allāhumma fāthiras-samāwāti wal-ardhi, 'ālimal-ghaibi wasy-syahādati, al-kabīral-muta'āli, asyhadu bi-annaka antallāhu lā ilāha illā anta, rabbas-samāwātis-sab'i wal-aradhīnas-sab'i wa mā bainahumā, 'allāmal-ghuyūbi, ghaffāradz-dzunūbi, sattāral-'uyūbi, mufarrijal-kurūbi, mukhrijal-ḥubūbi, musakhkhiral-qulūbi li-man kāna mahjūran ḥattā ya'ūda maḥbūban, as'alukallāhumma an tusakhkhira lī [ismal-khādimi] kamā sakhkharta ḥamalata 'arsyika taḥta 'arsyika yā ḥāmilal-'arsyi 'an ḥamalatil-'arsyi, wa kamā sakhkharta ath-thaira fī jawwis-samā'i, wa kamā sakhkharta asy-syamsa wal-qamara kullun yajrī ilā ajalim-musamman, wa kamā sakhkharta al-baḥra li-Mūsā bni 'Imrāna, ilāhī annī bi-amrika amartuhu wa bi-da'watika istajlabtuhu wa bi-kalimātika laqqantuhu ḥattā idzā da'awtuhu ajābanī wa in kuntu ma'ahu ahabbanī wa in ghibtu 'anhu isytāqanī wa lā ya'shī amrī wa lā yanzhuru li-majlisi ghairī bi-irādatika wa idznika yā Allāhu yā Allāhu yā Allāhu, yā Ḥayyu yā Qayyūmu, yā Badī'as-samāwāti wal-ardhi, yā Dzal-jalāli wal-ikrām].
 
-Ammā yaumal-jumu'ati tashūmuhu bidūni tilāwatin illā ba'da shalātil-jumu'ati fa-taktubu awwalan al-āyāti wad-du'ā'a fī waraqin nazhīfin abyadha bi-mā'i wardin wa za'farānin wa miskin, wa tatlū 'alaihal-āyata 7 marrātin wad-du'ā'a ba'dal-āyati 1 marratan, wa tatrukuhā ilal-laili haitsu tadha'uhā tahta wisādatika wa tanāmu wa tanwī 'adama adziyyati khalqillāhi, fish-shabāhi ta'khudhul-waraqata wa tathwīhā wa taj'aluhā 'indaka fa-innahū lā tamurrul-jumu'atuts-tsāniyatu illā wa qad hadharal-khādimu bi-idznillāhi wa bi-barakati kalāmillāhi 'azza wa jalla, fa-lā tata'addā hudūdallāhi ayyuhath-thālib, nafa'aniyallāhu wa iyyākum bil-qur'ānil-'azhīmi wa hadānī wa iyyākum ilā shirāthihil-mustaqīmi was-salām.
+Ammā yaumal-jumu'ati tashūmuhu bidūni tilāwatin illā ba'da shalātil-jumu'ati fa-taktubu awwalan al-āyāti wad-du'ā'a fī waraqin nazhīfin abyadha bi-mā'i wardin wa za'farānin wa miskin, wa tatlū 'alaihal-āyata 7 marrātin wad-du'ā'a ba'dal-āyati 1 marratan, wa tatrukuhā ilal-laili ḥaitsu tadha'uhā taḥta wisādatika wa tanāmu wa tanwī 'adama adziyyati khalqillāhi, fish-shabāḥi ta'khudhul-waraqata wa tathwīhā wa taj'aluhā 'indaka fa-innahū lā tamurrul-jumu'atuts-tsāniyatu illā wa qad ḥadharal-khādimu bi-idznillāhi wa bi-barakati kalāmillāhi 'azza wa jalla, fa-lā tata'addā ḥudūdallāhi ayyuhath-thālib, nafa'aniyallāhu wa iyyākum bil-qur'ānil-'azhīmi wa hadānī wa iyyākum ilā shirāthihil-mustaqīmi was-salām.
 
 ### Terjemahan
 
@@ -1574,15 +1618,17 @@ Adapun pada hari Jumat, berpuasalah tanpa bacaan kecuali setelah salat Jumat, la
 
 ### Syarah dan Penjelasan
 
-Konteks Masalah: Halaman ini memuat solusi spesifik dalam disiplin hikmah untuk mengatasi problem ketika seorang praktisi (as-sālik) mengalami pemutusan hubungan spiritual dengan khadam atau pendamping gaibnya akibat kesalahan prosedur, keteledoran, atau sanksi internal amalan.
-
-Pendekatan Ritual: Menggabungkan ibadah mahdhah berupa puasa sunnah dua hari (Kamis–Jumat), pembacaan ayat khusus dari kisah Nabi Yusuf — simbol kemuliaan, penundukan pandangan, dan pengembalian posisi terhormat — serta doa tawasul tauhid yang kuat untuk memohon pemulihan ikatan batin amalan.
+1. **Konteks *Ta'aththulut-Tashrīf* & *Raddul-Khādim***:
+   - Halaman ini menyajikan solusi bagi penuntut ilmu yang mengalami keterhalangan *tashrīf* (`تَعَطَّلَ عَنْهُ التَّصْرِيفُ`) atau yang memiliki khadim amalan lalu khadim tersebut menjauh/pergi darinya (`وَفَرَّ عَنْهُ`) akibat keteledoran adab atau pelanggaran syarat.
+2. **Rahasia Ayat Kemuliaan Nabi Yusuf (QS. Yūsuf: 54–56) & Doa *Taskhīr***:
+   - Riyadhah puasa sunnah dua hari (**Kamis dan Jumat**) dengan niat ibadah murni dipadukan dengan pembacaan QS. Yūsuf: 54–56 (`إِنَّكَ الْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ...`) sebanyak **75 kali** setiap selesai shalat fardhu pada hari Kamis dan doa *taskhīr* tauhid **7 kali**, yang dalam uraian penulis dimaksudkan untuk memohon pemulihan hubungan dengan khadim sebagaimana Allah menundukkan para pemikul Arasy, burung di angkasa, matahari dan bulan, serta lautan bagi Nabi Musa bin 'Imran a.s.
 
 ### Khususiyah dan Tatacara Praktik
 
-Fungsi Utama: Digunakan secara khusus sebagai metode darurat untuk memanggil kembali (raddul-khādim) kekuatan, energi, atau entitas pengawal amalan yang kabur atau terputus koneksinya.
-
-Peringatan Ketat: Diingatkan oleh penyusun kitab agar pengamal senantiasa bertakwa, menjaga batasan syariat, dan tidak menyalahgunakan amalan ini untuk kezaliman.
+1. **Urutan Praktik Dua Hari (Kamis & Jumat)**:
+   1) **Hari Kamis**: Berpuasalah karena Allah Ta'ala dengan niat ibadah, dan setiap selesai shalat lima waktu bacalah **QS. Yūsuf: 54–56 sebanyak 75 kali** diikuti doa *taskhīr* (sebutkan nama khadim pada tempatnya) sebanyak **7 kali**.
+   2) **Hari Jumat**: Lanjutkan berpuasa tanpa wirid khusus hingga selesai shalat Jumat; **selepas shalat Jumat**, tulislah ayat dan doa tersebut pada kertas putih bersih menggunakan tinta air mawar, za'faran, dan misik, lalu bacakan di atas kertas itu **ayat 7 kali** dan **doa 1 kali**.
+   3) **Malam Sabtu**: Letakkan kertas tersebut di bawah bantal saat tidur malam seraya berniat tulus **tidak menyakiti makhluk Allah**; pada pagi harinya lipatlah kertas itu dan simpan bersama diri pengamal — maka sebelum melewati Jumat kedua, khadim tersebut akan kembali hadir dengan izin Allah Ta'ala.
 
 ## HALAMAN 26 — دُعَاءُ الْخَائِفِ
 
@@ -1604,13 +1650,13 @@ Peringatan Ketat: Diingatkan oleh penyusun kitab agar pengamal senantiasa bertak
 
 Du'ā'ul-khā'ifi.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuh.
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuh.
 
-Ikhwatī fillāhi, ilaikum hādzad-du'ā'an-nāfi'a bi-idznillāhi lil-ihtijābi minal-a'dā'i wa min kulli man yakhāfu minhul-mar'u min thughātin.
+Ikhwatī fillāhi, ilaikum hādzad-du'ā'an-nāfi'a bi-idznillāhi lil-iḥtijābi minal-a'dā'i wa min kulli man yakhāfu minhul-mar'u min thughātin.
 
 Taqra'u awwalan Āyatal-Kursiyyi tsalātsa marrātin, tsumma tad'ū bihādzad-du'ā'i:
 
-‎[Bismillāhir-rahmānir-rahīmi, Allāhumma shalli 'alā sayyidinā Muhammadin wa 'alā ālihi ajma'īna wa sallim taslīman, Allāhumma yā man hijābuhū mahjūbun wa kursiyyuhū manshūbun wa nabiyyuhū shallallāhu 'alaihi wa sallama mahbūbun, hul bainī wa baina man qalbī minhu marhūbun, yā ghāliban ghaira maghlūbin, innaka qulta wa qaulukal-haqqu: [Fa-sayakfīkahumullāhu wa Huwas-samī'ul-'alīmu] (QS. al-Baqarah: 137), yā Allāhu yā Hafīzhu, yā man ni'amuhū lā tuhshā, yā man dzikruhū lā yunsā, yā man lahul-asmā'ul-husnā wash-shifātul-'ulā, ihfazhnī bimā hafizhta bihidz-dzikral-hakīmi, innaka qulta wa qaulukal-haqqu: [Innā nahnu nazzalnādz-dzikra wa innā lahū lahāfizhūna] (QS. al-Hijr: 9), wa bi-haqqi: [Lahū mu'aqqibātun min baini yadaihi wa min khalfihi yahfazhūnahū min amrillāhi] (QS. ar-Ra'd: 11), [Wallāhu min warā'ihim muhīthun] (QS. al-Burūj: 20), wa bi-haqqi [ [ يس ] [Rajah Huruf — tidak diterjemahkan] ilā fahum lā yubshirūna ] (QS. Yā-Sīn: 1-9). Wa shallillāhumma 'alā sayyidinā Muhammadin wa 'alā ālihi ajma'īna].
+‎[Bismillāhir-raḥmānir-raḥīmi, Allāhumma shalli 'alā sayyidinā Muḥammadin wa 'alā ālihi ajma'īna wa sallim taslīman, Allāhumma yā man ḥijābuhū maḥjūbun wa kursiyyuhū manshūbun wa nabiyyuhū shallallāhu 'alaihi wa sallama maḥbūbun, ḥul bainī wa baina man qalbī minhu marhūbun, yā ghāliban ghaira maghlūbin, innaka qulta wa qaulukal-ḥaqqu: [Fa-sayakfīkahumullāhu wa Huwas-samī'ul-'alīmu] (QS. al-Baqarah: 137), yā Allāhu yā Ḥafīzhu, yā man ni'amuhū lā tuḥshā, yā man dzikruhū lā yunsā, yā man lahul-asmā'ul-ḥusnā wash-shifātul-'ulā, iḥfazhnī bimā ḥafizhta bihidz-dzikral-ḥakīmi, innaka qulta wa qaulukal-ḥaqqu: [Innā naḥnu nazzalnādz-dzikra wa innā lahū laḥāfizhūna] (QS. al-Ḥijr: 9), wa bi-ḥaqqi: [Lahū mu'aqqibātun min baini yadaihi wa min khalfihi yaḥfazhūnahū min amrillāhi] (QS. ar-Ra'd: 11), [Wallāhu min warā'ihim muḥīthun] (QS. al-Burūj: 20), wa bi-ḥaqqi [ [ يس ] [Rajah Huruf — tidak diterjemahkan] ilā fahum lā yubshirūna ] (QS. Yā-Sīn: 1-9). Wa shallillāhumma 'alā sayyidinā Muḥammadin wa 'alā ālihi ajma'īna].
 
 Waffaqakumullāhu li-kulli khairin.
 
@@ -1624,21 +1670,28 @@ Wahai saudara-saudaraku karena Allah, aku sampaikan kepada kalian doa yang berma
 
 Bacalah terlebih dahulu Ayat Kursi sebanyak tiga kali, kemudian berdoalah dengan doa ini:
 
-[Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang, ya Allah limpahkanlah shalawat kepada junjungan kami Nabi Muhammad dan kepada keluarganya semuanya serta berilah keselamatan dengan sebenar-benar keselamatan; ya Allah, wahai Zat yang hijab-Nya terjaga, Kursi-Nya terpancang dan Nabi-Nya — semoga Allah bershalawat kepadanya dan memberi keselamatan — adalah kekasih yang dicintai, halangilah antara aku dan orang yang hatiku merasa takut kepadanya, wahai Yang Maha Menang yang tidak terkalahkan, sesungguhnya Engkau telah berfirman dan firman-Mu adalah benar: {Maka Allah akan mencukupimu terhadap mereka dan Dialah Yang Maha Mendengar lagi Maha Mengetahui}; wahai Allah, wahai Yang Maha Memelihara, wahai Zat yang nikmat-nikmat-Nya tidak terhitung, wahai Zat yang mengingat-Nya tidak terlupakan, wahai Zat yang memiliki nama-nama yang paling baik dan sifat-sifat yang Maha Tinggi, jagalah aku sebagaimana Engkau menjaga Adz-Dzikir yang bijaksana; sesungguhnya Engkau telah berfirman dan firman-Mu benar: {Sesungguhnya Kamilah yang menurunkan Adz-Dzikir dan sesungguhnya Kamilah yang benar-benar memeliharanya}; dan demi hak {Baginya ada malaikat-malaikat pengiring dari depan dan belakangnya yang menjaganya atas perintah Allah} dan {Allah meliputi mereka dari belakang} serta demi hak Yasin hingga {maka mereka tidak dapat melihat}; dan limpahkanlah shalawat ya Allah kepada junjungan kami Nabi Muhammad dan kepada keluarganya semuanya].
+[Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang, ya Allah limpahkanlah shalawat kepada junjungan kami Nabi Muhammad dan kepada keluarganya semuanya serta berilah keselamatan dengan sebenar-benar keselamatan; ya Allah, wahai Zat yang hijab-Nya terjaga, Kursi-Nya terpancang dan Nabi-Nya — semoga Allah bershalawat kepadanya dan memberi keselamatan — adalah kekasih yang dicintai, halangilah antara aku dan orang yang hatiku merasa takut kepadanya, wahai Yang Maha Menang yang tidak terkalahkan, sesungguhnya Engkau telah berfirman dan firman-Mu adalah benar: ﴿ Maka Allah akan mencukupimu terhadap mereka dan Dialah Yang Maha Mendengar lagi Maha Mengetahui ﴾ (QS. al-Baqarah: 137); wahai Allah, wahai Yang Maha Memelihara, wahai Zat yang nikmat-nikmat-Nya tidak terhitung, wahai Zat yang mengingat-Nya tidak terlupakan, wahai Zat yang memiliki nama-nama yang paling baik dan sifat-sifat yang Maha Tinggi, jagalah aku sebagaimana Engkau menjaga Adz-Dzikir yang bijaksana; sesungguhnya Engkau telah berfirman dan firman-Mu benar: ﴿ Sesungguhnya Kamilah yang menurunkan Adz-Dzikir dan sesungguhnya Kamilah yang benar-benar memeliharanya ﴾ (QS. al-Ḥijr: 9); dan demi hak ﴿ Baginya ada malaikat-malaikat pengiring dari depan dan belakangnya yang menjaganya atas perintah Allah ﴾ (QS. ar-Ra'd: 11) dan ﴿ Allah meliputi mereka dari belakang ﴾ (QS. al-Burūj: 20) serta demi hak `[ يس ]` [Rajah Huruf — tidak diterjemahkan] hingga ﴿ maka mereka tidak dapat melihat ﴾ (QS. Yāsīn: 1–9); dan limpahkanlah shalawat ya Allah kepada junjungan kami Nabi Muhammad dan kepada keluarganya semuanya].
 
 Semoga Allah memberi taufik kepada kalian untuk segala kebaikan.
 
 ### Syarah dan Penjelasan
 
-Konstruksi Benteng Tak Terlihat (Ihtijāb): Amalan ini berfungsi membentuk perisai aura tak kasat mata di sekeliling praktisi. Ketika berhadapan dengan musuh, orang jahat, atau penguasa yang hendak berbuat zalim, musuh tidak akan memiliki daya untuk mencelakai atau bahkan pandangan mereka dikunci oleh Allah.
-
-Kombinasi Ayat-Ayat Penjaga (Āyātul-Hifzh): Doa ini merajut lima pilar ayat perlindungan utama Al-Qur'an: (1) Ayat Kursi (3×) sebagai pondasi benteng tauhid; (2) QS. al-Baqarah: 137 (Fa-sayakfīkahumullāhu) — janji pengawalan langsung dari Allah; (3) QS. al-Hijr: 9 (Innā Nahnu Nazzalnādz-Dzikra) — memindahkan jaminan pemeliharaan Al-Qur'an ke keselamatan fisik dan jiwa pengamal; (4) QS. ar-Ra'd: 11 (Mu'aqqibāt) — mengaktifkan pengawalan Malaikat Mu'aqqibat di depan dan belakang tubuh; (5) QS. Yā-Sīn: 1–9 (Wa Ja'alnā min Baini Aidīhim) — mengunci mata musuh agar buta dari keberadaan pengamal.
+1. **Konstruksi Perisai Perlindungan (*Iḥtijāb*) dari Penguasa Zalim & Musuh**:
+   - *Du'ā'ul-Khā'if* ini dirancang untuk membangun perisai penjagaan batin (*ḥijāb*) di hadapan musuh maupun penguasa sewenang-wenang (`طُغَاة`) yang ditakuti kejahatannya (`حُلْ بَيْنِي وَبَيْنَ مَنْ قَلْبِي مِنْهُ مَرْهُوبٌ`).
+2. **Untaian Lima Pilar Ayat Penjagaan (*Āyātul-Ḥifzh*)**:
+   - Doa ini merajut lima jaminan perlindungan utama di dalam Al-Qur'an:
+     1) **Ayat Kursi (dibaca 3× di awal)** sebagai fondasi penjagaan tauhid.
+     2) **QS. al-Baqarah: 137** (`فَسَيَكْفِيكَهُمُ اللهُ وَهُوَ السَّمِيعُ الْعَلِيمُ`) — jaminan kecukupan Allah menghadapi makar musuh.
+     3) **QS. al-Ḥijr: 9** (`إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ`) — permohonan agar pengamal dijaga sebagaimana Allah menjaga kemurnian Al-Qur'an.
+     4) **QS. ar-Ra'd: 11 & QS. al-Burūj: 20** (`لَهُ مُعَقِّبَاتٌ...` & `وَاللهُ مِنْ وَرَائِهِمْ مُحِيطٌ`) — penjagaan para malaikat *Mu'aqqibāt* dari arah depan dan belakang.
+     5) **QS. Yāsīn: 1–9** (`يس ... فَهُمْ لَا يُبْصِرُونَ`) — penguncian pandangan dan niat jahat musuh.
 
 ### Khususiyah dan Tatacara Praktik
 
-Kepraktisan Tanpa Sarat Berat: Tidak memerlukan tirakat puasa atau penulisan wafaq rumit; cukup dibaca saat merasa terancam atau hendak menemui orang zalim.
-
-Keamanan Mutlak Perjalanan dan Darurat: Sangat ampuh dibaca saat berada di daerah rawan kejahatan, ancaman tindak kekerasan, intimidasi penguasa, maupun gangguan makhluk halus.
+1. **Kepraktisan Tanpa Syarat Berat**:
+   - Amalan ini tidak mensyaratkan puasa maupun penulisan wafaq, sehingga dapat langsung diamalkan kapan saja ketika seseorang merasa terancam, menempuh perjalanan rawan, atau hendak berhadapan dengan pihak yang zalim.
+2. **Tata Cara Pembacaan**:
+   - Dalam keadaan suci berwudhu dan penuh tawakal kepada Allah Ta'ala, bacalah terlebih dahulu **Ayat Kursi sebanyak 3 kali**, kemudian bacalah teks ***Du'ā'ul-Khā'if*** (diawali dan ditutup dengan selawat atas Nabi Muhammad ﷺ beserta keluarga beliau).
 
 ## HALAMAN 27 — الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ
 
@@ -1674,26 +1727,24 @@ Keamanan Mutlak Perjalanan dan Darurat: Sangat ampuh dibaca saat berada di daera
 
 ### latin
 
-Al-āyātul-'asyrul-mubthilātu lin-naftsi was-sihri.
+Al-āyātul-'asyrul-mubthilātu lin-naftsi was-siḥri.
 
-Ikhwatī fillāhi adha'u lakum hādzihil-fā'idatan-nāfi'ata bi-idznillāhi fī ibthālis-sihri, wa hiya minal-a'mālil-harfiyyati wal-wafqiyyati, wa hiya marshūdatun 'alā sā'atin mu'ayyanatin wa dzālika li-tabqal-fā'idatu fa''ālatan mustamirratan fī 'amalihā wa lā tanhallu ilā mā syā'allāhu 'azza wa jalla, wa waqtu kitābatihā hiya sā'atul-qamari fī ayyi yaumin bi-midādin rūhāniyyin thāhirin.
+Ikhwatī fillāhi adha'u lakum hādzihil-fā'idatan-nāfi'ata bi-idznillāhi fī ibthālis-siḥri, wa hiya minal-a'mālil-ḥarfiyyati wal-wafqiyyati, wa hiya marshūdatun 'alā sā'atin mu'ayyanatin wa dzālika li-tabqal-fā'idatu fa''ālatan mustamirratan fī 'amalihā wa lā tanḥallu ilā mā syā'allāhu 'azza wa jalla, wa waqtu kitābatihā hiya sā'atul-qamari fī ayyi yaumin bi-midādin rūḥāniyyin thāhirin.
 
-Yuktabul-wafquts-tsulātsiyyu wa tuhīthuhu min jihātihil-arba'i bil-basmalatisy-syarīfati mubtadi'an min yamīnil-asfali muttajihan ilal-yasāri, tsumma tadūru 'alaihil-āyātul-'asyru wal-latī yurmazu lahā bil-'asyri qāllātin, tis'un minhā fī sūratisy-syu'arā'i wa āyatun wāhidatun min sūrati Yūnusa, wa hiya hādzihī:
+Yuktabul-wafquts-tsulātsiyyu wa tuḥīthuhu min jihātihil-arba'i bil-basmalatisy-syarīfati mubtadi'an min yamīnil-asfali muttajihan ilal-yasāri, tsumma tadūru 'alaihil-āyātul-'asyru wal-latī yurmazu lahā bil-'asyri qāllātin, tis'un minhā fī sūratisy-syu'arā'i wa āyatun wāḥidatun min sūrati Yūnusa, wa hiya hādzihī:
 
 1. Qāla Fir'aunu wa mā Rabbul-'ālamīna (QS. asy-Syu'arā': 23)
 2. Qāla Rabbus-samāwāti wal-ardhi wa mā bainahumā in kuntum mūqinīna (QS. asy-Syu'arā': 24)
-3. Qāla li-man haulahū alā tastami'ūna (QS. asy-Syu'arā': 25)
+3. Qāla li-man ḥaulahū alā tastami'ūna (QS. asy-Syu'arā': 25)
 4. Qāla rabbukum wa rabbu ābā'ikumul-awwalīna (QS. asy-Syu'arā': 26)
 5. Qāla inna rasūlakumul-ladzī ursila ilaikum lamajnūnun (QS. asy-Syu'arā': 27)
 6. Qāla Rabbul-masyriqi wal-maghribi wa mā bainahumā in kuntum ta'qilūna (QS. asy-Syu'arā': 28)
 7. Qāla la'init-takhadzta ilāhan ghairī la-aj'alannaka minal-masjūnīna (QS. asy-Syu'arā': 29)
 8. Qāla awalau ji'tuka bi-syai'im-mubīnin (QS. asy-Syu'arā': 30)
 9. Qāla fa'ti bihī in kunta minash-shādiqīna (QS. asy-Syu'arā': 31)
-10. Qāla Mūsā mā ji'tum bihis-sihru innallāha sayubthiluhū innallāha lā yushlihu 'amalal-mufsidīna (QS. Yūnus: 81)
+10. Qāla Mūsā mā ji'tum bihis-siḥru innallāha sayubthiluhū innallāha lā yushliḥu 'amalal-mufsidīna (QS. Yūnus: 81)
 
 Wa hādzā huwal-wafqu:
-
-Wafaq musallas 3×3 (lihat Hal. 28) — ditulis dengan angka asror dan dibingkai basmalah.
 
 ### Terjemahan
 
@@ -1714,15 +1765,19 @@ Wafaq tsulātsī (3×3) ditulis dan dikelilingi dari empat arahnya dengan basmal
 9. Fir'aun berkata: Datangkanlah hal itu jika kamu termasuk orang yang benar. (QS. asy-Syu'arā': 31)
 10. Musa berkata: Apa yang kalian datangkan adalah sihir; sesungguhnya Allah akan membatalkannya; sesungguhnya Allah tidak memperbaiki perbuatan orang-orang yang berbuat kerusakan. (QS. Yūnus: 81)
 
-Dan inilah wafaqnya (lihat Hal. 28).
+Dan inilah wafaqnya:
 
 ### Syarah dan Penjelasan
 
-Rahasia “al-‘Asyr Qālā t” — sepuluh dialog tauhid Nabi Musa melawan Fir‘aun: sembilan ayat asy-Syu‘arā’ membangun hujjah tauhid yang ditutup puncak QS. Yūnus 81 (innallāha sayubthiluhū), sehingga melahirkan gelombang penghancur buhul sihir apapun. Penulisan pada Sā‘atul-Qamar melambangkan cairan dan penerimaan materi, memastikan tinta za‘faran meresap permanen (marshūdah). Kombinasi minum & usap tubuh: wafaq dilebur dengan air suci lalu dibacakan 10 ayat 9×, airnya diminumkan dan diusapkan untuk melunturkan sihir dari kulit hingga organ dalam.
+1. **Rahasia Sepuluh Dialog *Qāla* (*Al-'Asyr Qāllāt*) Pembatal Sihir**:
+   - Halaman 27 menghimpun sepuluh ayat yang diistilahkan oleh para ahli hikmah sebagai ***al-'Asyr Qāllāt*** (sepuluh ayat yang diawali kata `قَالَ`): sembilan ayat berturut-turut dari dialog tauhid Nabi Musa a.s. menghadapi Fir'aun dalam **Surah asy-Syu'arā': 23–31**, yang dipuncaki dengan ayat kesepuluh dari **Surah Yūnus: 81** (`قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ إِنَّ اللهَ سَيُبْطِلُهُ...`) untuk meruntuhkan segala simpul hembusan sihir (*an-nafts was-siḥr*).
+2. **Pengikatan Waktu pada Jam Bulan (*Sā'atul-Qamar*)**:
+   - Penulisan amalan ini diikat (*marshūdah*) pada **jam Bulan (*sā'atul-qamar*)** di hari apa saja menggunakan tinta ruhani yang suci (air mawar, za'faran, dan misik), agar daya kerja pembatal sihirnya tetap aktif berkesinambungan (`فَعَّالَةً مُسْتَمِرَّةً`) dan tidak terurai (`وَلَا تَنْحَلُّ`) sepanjang dikehendaki Allah 'Azza wa Jalla.
 
 ### Khususiyah dan Tatacara Praktik
 
-Garansi permanen (lā tanhallu): dirancang pada jam Bulan agar tidak luntur oleh waktu. Spesifik penghancur sihir buhul hembusan (an-naffātsāti fil-‘uqad) — tali/ikatan yang ditiup mantra.
+1. **Tata Cara Penulisan Mengelilingi Wafaq**:
+   - Pada **jam Bulan (*sā'atul-qamar*)** di hari apa pun, tulislah Wafaq Musallas 3×3 (tertera pada Halaman 28) dengan tinta ruhani yang suci, kelilingi keempat sisinya dengan Basmalah dimulai dari **kanan-bawah menuju ke kiri**, kemudian tuliskan melingkar di sekeliling luarnya kesepuluh ayat *al-'Asyr Qāllāt* di atas (tata cara peleburan, pembacaan 9 kali, dan usap tubuhnya disempurnakan pada Halaman 28).
 
 ## HALAMAN 28 — الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ
 
@@ -1745,45 +1800,33 @@ Garansi permanen (lā tanhallu): dirancang pada jam Bulan agar tidak luntur oleh
 
 ### latin
 
-Al-āyātul-'asyrul-mubthilātu lin-naftsi was-sihri.
-
-| ٣١٣ | ١٢٧٢ | ٦٠٥ |
-|---|---|---|
-| ١٠٢٢ | ٧٣٠ | ٤٣٨ |
-| ٨٥٥ | ١٨٨ | ١١٤٧ |
+Al-āyātul-'asyrul-mubthilātu lin-naftsi was-siḥri.
 
 [Wafaq Musallas 3×3 — Asror Angka Arab, tidak dilatinkan]
 
-Wa ba'damā yuktabul-jamī'u yumhā bimā'in thāhirin wa yuqra'u 'alaihil-āyātul-'asyru 9 marrātin wa yaddahinu bihil-marīdhu jamī'a jasadihī yadzhabu 'anhu mā kāna bihī min sihrin bi-idznillāhi wa bibarakati kalāmillāhi 'azza wa jalla.
+Wa ba'damā yuktabul-jamī'u yumḥā bimā'in thāhirin wa yuqra'u 'alaihil-āyātul-'asyru 9 marrātin wa yaddahinu bihil-marīdhu jamī'a jasadihī yadzhabu 'anhu mā kāna bihī min siḥrin bi-idznillāhi wa bibarakati kalāmillāhi 'azza wa jalla.
 
 As'alullāha an yasyfiya kulla marīdhin bisyifā'ihil-ladzī lā yughādiru saqaman innahū waliyyu dzālika wal-qādiru 'alaihi.
-
 ### Terjemahan
 
 Sepuluh ayat pembatal hembusan dan sihir.
-
-| ٣١٣ | ١٢٧٢ | ٦٠٥ |
-|---|---|---|
-| ١٠٢٢ | ٧٣٠ | ٤٣٨ |
-| ٨٥٥ | ١٨٨ | ١١٤٧ |
 
 [Wafaq Musallas 3×3 — Asror Angka Arab, tidak diterjemahkan]
 
 Dan setelah semuanya ditulis, dihapus (dilebur) dengan air yang suci dan dibacakan atasnya sepuluh ayat tersebut sebanyak 9 kali, lalu orang yang sakit membalurkan (mengusapkan) air itu ke seluruh tubuhnya, niscaya hilanglah darinya segala sihir yang ada padanya dengan izin Allah dan dengan keberkahan firman Allah 'azza wa jalla.
 
 Aku memohon kepada Allah agar menyembuhkan setiap orang yang sakit dengan kesembuhan-Nya yang tidak meninggalkan penyakit sedikit pun; sesungguhnya Dia adalah Pelindung dalam hal itu dan Maha Kuasa atasnya.
-
 ### Syarah dan Penjelasan
 
 1. **Hisab Matriks Wafaq Musallas 3×3 (Konstanta 2190)**:
-‎     - **Baris 1**: `٣١٣` (kanan) + `١٢٧٢` (tengah) + `٦٠٥` (kiri) = **٢١٩٠ (2190)**
-‎     - **Baris 2**: `١٠٢٢` (kanan) + `٧٣٠` (qalb/tengah) + `٤٣٨` (kiri) = **٢١٩٠ (2190)**
-‎     - **Baris 3**: `٨٥٥` (kanan) + `١٨٨` (tengah) + `١١٤٧` (kiri) = **٢١٩٠ (2190)**
-‎     - **Kolom Kanan**: `٣١٣ + ١٠٢٢ + ٨٥٥ = ٢١٩٠`
-‎     - **Kolom Tengah**: `١٢٧٢ + ٧٣٠ + ١٨٨ = ٢١٩٠`
-‎     - **Kolom Kiri**: `٦٠٥ + ٤٣٨ + ١١٤٧ = ٢١٩٠`
-‎     - **Diagonal 1**: `٣١٣ + ٧٣٠ + ١١٤٧ = ٢١٩٠`
-‎     - **Diagonal 2**: `٦٠٥ + ٧٣٠ + ٨٥٥ = ٢١٩٠`
+‎   - **Baris 1**: `٣١٣` (kanan) + `١٢٧٢` (tengah) + `٦٠٥` (kiri) = **٢١٩٠ (2190)**
+‎   - **Baris 2**: `١٠٢٢` (kanan) + `٧٣٠` (qalb/tengah) + `٤٣٨` (kiri) = **٢١٩٠ (2190)**
+‎   - **Baris 3**: `٨٥٥` (kanan) + `١٨٨` (tengah) + `١١٤٧` (kiri) = **٢١٩٠ (2190)**
+‎   - **Kolom Kanan**: `٣١٣ + ١٠٢٢ + ٨٥٥ = ٢١٩٠`
+‎   - **Kolom Tengah**: `١٢٧٢ + ٧٣٠ + ١٨٨ = ٢١٩٠`
+‎   - **Kolom Kiri**: `٦٠٥ + ٤٣٨ + ١١٤٧ = ٢١٩٠`
+‎   - **Diagonal 1**: `٣١٣ + ٧٣٠ + ١١٤٧ = ٢١٩٠`
+‎   - **Diagonal 2**: `٦٠٥ + ٧٣٠ + ٨٥٥ = ٢١٩٠`
 ‎   - Sel pusat (*qalbul-wafq*) bernilai **٧٣٠ (730)**, sehingga konstanta *dhl'* (jumlah setiap baris/kolom/diagonal) adalah `730 × 3 = 2190`. Seluruh angka dalam wafaq merupakan *asror huruf* dan wajib ditulis dengan angka Arab tanpa dilatinkan.
 
 2. **Struktur Bingkai Basmalah & Thauq Lingkaran 10 Qālāt**:
@@ -1815,13 +1858,13 @@ Aku memohon kepada Allah agar menyembuhkan setiap orang yang sakit dengan kesemb
 
 Fā'idatun fil-kasyfil-manāmiyyi.
 
-Ikhwatī fillāhi adha'u lakum hādzihil-fā'idatal-jalīlata wa hiya fā'idatun fil-kasyfil-manāmiyyi wa hiya nāfi'atun bi-idznillāhi 'azza wa jalla fil-kasyfi 'anil-umūril-makhfiyyati bimā fī dzālikal-khabāyā was-sihril-madfūni ... ilā ākhirihī, wa tharīqatu 'amalihā hiya kat-tālī:
+Ikhwatī fillāhi adha'u lakum hādzihil-fā'idatal-jalīlata wa hiya fā'idatun fil-kasyfil-manāmiyyi wa hiya nāfi'atun bi-idznillāhi 'azza wa jalla fil-kasyfi 'anil-umūril-makhfiyyati bimā fī dzālikal-khabāyā was-siḥril-madfūni ... ilā ākhirihī, wa tharīqatu 'amalihā hiya kat-tālī:
 
-Uktubil-wafqa fī waraqatin baidhā'a bimidādin rūhāniyyin thāhirin wa bakhkhirhu bithībir-rā'ihati wa dzālika yakūnu ba'da shalātil-'isyā'i thab'an wal-qiyāmi bimā dzakartuhū sābiqan fī fā'idatil-a'mālir-rūhāniyyatil-latī tasbiqu ayya 'amalin rūhāniyyin, tsumma ba'dal-kitābati wal-bakhūri tadha'ul-waraqata amāmaka fauqa sajjādatika wa tajlisu julūsash-shalāti wa anta nāzhirun ilal-wafqi tsumma tasyra'u fī tilāwatil-asmā'il-husnal-ātī dzikruhā biyā'in-nidā'i hākadzā ( Yā Allāhu Yā Lathīfu Yā Khabīru ) 'adada 1070 marratan wa 'alā ra'sil-marātibi taqra'ul-āyatal-karīmata ( Alā ya'lamu man khalaqa wa huwal-Lathīful-Khabīru ) 10 marrātin wad-du'ā'a marratan wāhidatan wa huwa:
+Uktubil-wafqa fī waraqatin baidhā'a bimidādin rūḥāniyyin thāhirin wa bakhkhirhu bithībir-rā'iḥati wa dzālika yakūnu ba'da shalātil-'isyā'i thab'an wal-qiyāmi bimā dzakartuhū sābiqan fī fā'idatil-a'mālir-rūḥāniyyatil-latī tasbiqu ayya 'amalin rūḥāniyyin, tsumma ba'dal-kitābati wal-bakhūri tadha'ul-waraqata amāmaka fauqa sajjādatika wa tajlisu julūsash-shalāti wa anta nāzhirun ilal-wafqi tsumma tasyra'u fī tilāwatil-asmā'il-ḥusnal-ātī dzikruhā biyā'in-nidā'i hākadzā ( Yā Allāhu Yā Lathīfu Yā Khabīru ) 'adada 1070 marratan wa 'alā ra'sil-marātibi taqra'ul-āyatal-karīmata ( Alā ya'lamu man khalaqa wa huwal-Lathīful-Khabīru ) 10 marrātin wad-du'ā'a marratan wāḥidatan wa huwa:
 
-( Allāhumma innī as'aluka Yā Allāhu Yā Lathīfu Yā Khabīru yā man 'azhumat haibatuhū fī jamī'il-qulūbi wa ahātha 'ilmuhū bimarātibil-ghuyūbi, Allāhumma innī as'aluka wa athlubu minkal-wushūla ilaika fa-innī bika astadillu 'alaika, Allāhummahdinī binūrika ilaika wa aqimnī bishidqil-'ubūdiyyati baina yadaika, Allāhumma innī as'aluka bikhafiyyi khafiyyi luthfika wa bi'azhīmi 'azhīmi 'azhamatika wa bisirri asrāri qudratika wa bimaknūni maknūni ghaibika an tusakhkhira lī khādiman muthī'an min khuddāmismikallāhil-Lathīfil-Khabīri taksyifu lī bihī mā ghāba 'annī ( ath-thalabu ) Yā Allāhu yā man qulta wa qaulukal-haqqu ( Innallāha 'alā kulli syai'in qadīrun ) ) tammad-du'ā'u.
+( Allāhumma innī as'aluka Yā Allāhu Yā Lathīfu Yā Khabīru yā man 'azhumat haibatuhū fī jamī'il-qulūbi wa ahātha 'ilmuhū bimarātibil-ghuyūbi, Allāhumma innī as'aluka wa athlubu minkal-wushūla ilaika fa-innī bika astadillu 'alaika, Allāhummahdinī binūrika ilaika wa aqimnī bishidqil-'ubūdiyyati baina yadaika, Allāhumma innī as'aluka bikhafiyyi khafiyyi luthfika wa bi'azhīmi 'azhīmi 'azhamatika wa bisirri asrāri qudratika wa bimaknūni maknūni ghaibika an tusakhkhira lī khādiman muthī'an min khuddāmismikallāhil-Lathīfil-Khabīri taksyifu lī bihī mā ghāba 'annī ( ath-thalabu ) Yā Allāhu yā man qulta wa qaulukal-ḥaqqu ( Innallāha 'alā kulli syai'in qadīrun ) ) tammad-du'ā'u.
 
-Wa 'inda tamāmil-'amali tushallī 'alā Rasūlillāhi shallallāhu 'alaihi wa sallama 11 marratan, tsumma tadha'ul-waraqata tahta wisādatika wa takūnul-kitābatu ilā a'lā tsumma tanāmu makānaka 'alā syiqqikal-yamīni, fabi-idznillāhi tarā fī manāmika mā yasurruka, wa lā tukhbir ahadan bimā ra'aita. Wa hādzā huwal-wafqu tuhīthuhū bil-āyati ( Qauluhul-haqqu wa lahul-mulku ) min jihātihil-arba'i wa tadūru bihil-āyatu min jihātihil-arba'i kadzālika ( Alā ya'lamu man khalaqa wa huwal-Lathīful-Khabīru ) wad-du'ā'u mubtadi'an min fauqil-yamīni 'aksa 'aqāribis-sā'ati.
+Wa 'inda tamāmil-'amali tushallī 'alā Rasūlillāhi shallallāhu 'alaihi wa sallama 11 marratan, tsumma tadha'ul-waraqata taḥta wisādatika wa takūnul-kitābatu ilā a'lā tsumma tanāmu makānaka 'alā syiqqikal-yamīni, fabi-idznillāhi tarā fī manāmika mā yasurruka, wa lā tukhbir aḥadan bimā ra'aita. Wa hādzā huwal-wafqu tuḥīthuhū bil-āyati ( Qauluhul-ḥaqqu wa lahul-mulku ) min jihātihil-arba'i wa tadūru bihil-āyatu min jihātihil-arba'i kadzālika ( Alā ya'lamu man khalaqa wa huwal-Lathīful-Khabīru ) wad-du'ā'u mubtadi'an min fauqil-yamīni 'aksa 'aqāribis-sā'ati.
 
 ### Terjemahan
 
@@ -1878,47 +1921,31 @@ Dan ketika seluruh amalan telah sempurna, engkau bershalawat atas Rasulullah sha
 
 Fā'idatun fil-kasyfil-manāmiyyi.
 
-| ١٤٢ | ٢٣٠ | ٣٠٧ | ٩١٠ | ١٦٧٧ |
-|---|---|---|---|---|
-| ٩١١ | ١٦٧٨ | ١٤٣ | ٢٢٦ | ٣٠٨ |
-| ٢٢٧ | ٣٠٤ | ٩١٢ | ١٦٧٩ | ١٤٤ |
-| ١٦٨٠ | ١٤٥ | ٢٢٨ | ٣٠٥ | ٩٠٨ |
-| ٣٠٦ | ٩٠٩ | ١٦٧٦ | ١٤٦ | ٢٢٩ |
-
 [Wafaq Mukhammas 5×5 — Asror Angka Arab, tidak dilatinkan]
-
 ### Terjemahan
 
 Faedah tentang penyingkapan melalui mimpi (al-kasyful-manāmī).
 
-| ١٤٢ | ٢٣٠ | ٣٠٧ | ٩١٠ | ١٦٧٧ |
-|---|---|---|---|---|
-| ٩١١ | ١٦٧٨ | ١٤٣ | ٢٢٦ | ٣٠٨ |
-| ٢٢٧ | ٣٠٤ | ٩١٢ | ١٦٧٩ | ١٤٤ |
-| ١٦٨٠ | ١٤٥ | ٢٢٨ | ٣٠٥ | ٩٠٨ |
-| ٣٠٦ | ٩٠٩ | ١٦٧٦ | ١٤٦ | ٢٢٩ |
-
 [Wafaq Mukhammas 5×5 — Asror Angka Arab, tidak diterjemahkan]
-
 ### Syarah dan Penjelasan
 
 1. **Hisab Matriks Wafaq Mukhammas 5×5 (Konstanta 3266)**:
-‎     - **Baris 1 (kanan→kiri)**: `١٤٢ + ٢٣٠ + ٣٠٧ + ٩١٠ + ١٦٧٧ = ٣٢٦٦`
-‎     - **Baris 2 (kanan→kiri)**: `٩١١ + ١٦٧٨ + ١٤٣ + ٢٢٦ + ٣٠٨ = ٣٢٦٦`
-‎     - **Baris 3 (kanan→kiri)**: `٢٢٧ + ٣٠٤ + ٩١٢ + ١٦٧٩ + ١٤٤ = ٣٢٦٦`
-‎     - **Baris 4 (kanan→kiri)**: `١٦٨٠ + ١٤٥ + ٢٢٨ + ٣٠٥ + ٩٠٨ = ٣٢٦٦`
-‎     - **Baris 5 (kanan→kiri)**: `٣٠٦ + ٩٠٩ + ١٦٧٦ + ١٤٦ + ٢٢٩ = ٣٢٦٦`
-‎     - **Kolom 1 s.d. 5**: masing-masing tepat berjumlah **٣٢٦٦ (3266)**.
-‎     - **Diagonal 1**: `١٤٢ + ١٦٧٨ + ٩١٢ + ٣٠٥ + ٢٢٩ = ٣٢٦٦`
-‎     - **Diagonal 2**: `١٦٧٧ + ٢٢٦ + ٩١٢ + ١٤٥ + ٣٠٦ = ٣٢٦٦`
+‎   - **Baris 1 (kanan→kiri)**: `١٤٢ + ٢٣٠ + ٣٠٧ + ٩١٠ + ١٦٧٧ = ٣٢٦٦`
+‎   - **Baris 2 (kanan→kiri)**: `٩١١ + ١٦٧٨ + ١٤٣ + ٢٢٦ + ٣٠٨ = ٣٢٦٦`
+‎   - **Baris 3 (kanan→kiri)**: `٢٢٧ + ٣٠٤ + ٩١٢ + ١٦٧٩ + ١٤٤ = ٣٢٦٦`
+‎   - **Baris 4 (kanan→kiri)**: `١٦٨٠ + ١٤٥ + ٢٢٨ + ٣٠٥ + ٩٠٨ = ٣٢٦٦`
+‎   - **Baris 5 (kanan→kiri)**: `٣٠٦ + ٩٠٩ + ١٦٧٦ + ١٤٦ + ٢٢٩ = ٣٢٦٦`
+‎   - **Kolom 1 s.d. 5**: masing-masing tepat berjumlah **٣٢٦٦ (3266)**.
+‎   - **Diagonal 1**: `١٤٢ + ١٦٧٨ + ٩١٢ + ٣٠٥ + ٢٢٩ = ٣٢٦٦`
+‎   - **Diagonal 2**: `١٦٧٧ + ٢٢٦ + ٩١٢ + ١٤٥ + ٣٠٦ = ٣٢٦٦`
 
 2. **Rahasia Deret Langkah (*Tarqī*) Wafaq 5×5**:
    - Wafaq ini disusun dalam 5 kelompok deret berurutan (*khamsu marātib*), masing-masing terdiri dari 5 angka berurutan (+1):
-‎     - Kelompok 1 (*Miftāh*): `١٤٢، ١٤٣، ١٤٤، ١٤٥، ١٤٦` (142–146)
-‎     - Kelompok 2: `٢٢٦، ٢٢٧، ٢٢٨، ٢٢٩، ٢٣٠` (226–230)
-‎     - Kelompok 3: `٣٠٤، ٣٠٥، ٣٠٦، ٣٠٧، ٣٠٨` (304–308)
-‎     - Kelompok 4: `٩٠٨، ٩٠٩، ٩١٠، ٩١١، ٩١٢` (908–912; sel pusat/qalb = **`٩١٢`**)
-‎     - Kelompok 5 (*Maghlāq*): `١٦٧٦، ١٦٧٧، ١٦٧٨، ١٦٧٩، ١٦٨٠` (1676–1680)
+‎   - Kelompok 1 (*Miftāh*): `١٤٢، ١٤٣، ١٤٤، ١٤٥، ١٤٦` (142–146)
+‎   - Kelompok 2: `٢٢٦، ٢٢٧، ٢٢٨، ٢٢٩، ٢٣٠` (226–230)
+‎   - Kelompok 3: `٣٠٤، ٣٠٥، ٣٠٦، ٣٠٧، ٣٠٨` (304–308)
+‎   - Kelompok 4: `٩٠٨، ٩٠٩، ٩١٠، ٩١١، ٩١٢` (908–912; sel pusat/qalb = **`٩١٢`**)
+‎   - Kelompok 5 (*Maghlāq*): `١٦٧٦، ١٦٧٧، ١٦٧٨، ١٦٧٩، ١٦٨٠` (1676–1680)
    - Sesuai kaidah yang ditetapkan, seluruh angka di dalam wafaq merupakan *asror* dan wajib ditulis dengan angka Arab tanpa dilatinkan maupun diterjemahkan.
 
 ‎3. **Bingkai Hijau `قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ` & Lingkaran Doa**:
@@ -1979,14 +2006,14 @@ Syeikh al-Basyir
 
 Fihrisu da'awāti wa riyādhātisy-Syaikhil-Basyīri
 
-1. Muqaddimatun hāmmatun khāshshatun bil-a'mālir-rūhāniyyati
+1. Muqaddimatun hāmmatun khāshshatun bil-a'mālir-rūḥāniyyati
 2. Tanbīhul-labībi fī mā yakhushshud-da'awāti war-riyādhāti
 3. Da'watut-tafwīdhi
-4. Ishrāful-'ummāril-masyhūdu bishihhatihī
-5. Ad-durratun-nāfi'atud-dāfi'atu lis-sihri wa raddihī 'alā fā'ilihī
+4. Ishrāful-'ummāril-masyhūdu bishiḥḥatihī
+5. Ad-durratun-nāfi'atud-dāfi'atu lis-siḥri wa raddihī 'alā fā'ilihī
 6. Da'watut-taskhīri nas'alullāhal-ijābata
 7. Ad-da'watul-qāhiratu
-8. Wa ilaikumut-tahshīnul-mau'ūdu bihī
+8. Wa ilaikumut-taḥshīnul-mau'ūdu bihī
 9. Da'watu āyatil-kursiyyisy-syarīfati
 
 ### Terjemahan
@@ -2037,15 +2064,15 @@ Daftar isi doa-doa dan riyadhah-riyadhah Syeikh al-Basyir
 
 ### latin
 
-Muqaddimatun hāmmatun khāshshatun bil-a'mālir-rūhāniyyati.
+Muqaddimatun hāmmatun khāshshatun bil-a'mālir-rūḥāniyyati.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuhū, ikhwatī fillāhi katsīran mā yaqa'u thullābur-rūhāniyyi fī mu'dhilatin 'uzhmā alā wa hiyan-'idāmul-ijābati wat-tashrīfi fī hādzal-bābi wa dzālika nātijun immā lighaflatith-thālibi 'an kaifiyyatil-'amali wa immā li'awāridha tamna'u 'anhul-ittishāla bithalabihī, wa lā ukhfī 'alaikum annī mā raghibtut-tahaddutsa 'an hādzal-bābi illā syafaqatan 'alā thullābi hādzal-'ilmir-rūhāniyyi limā ra'aitu mā yu'ānīhith-thalabatu min masyaqqatin wa 'anā'in fī hādzal-bābi wa ilaikum tartībul-a'māli:
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuhū, ikhwatī fillāhi katsīran mā yaqa'u thullābur-rūḥāniyyi fī mu'dhilatin 'uzhmā alā wa hiyan-'idāmul-ijābati wat-tashrīfi fī hādzal-bābi wa dzālika nātijun immā lighaflatith-thālibi 'an kaifiyyatil-'amali wa immā li'awāridha tamna'u 'anhul-ittishāla bithalabihī, wa lā ukhfī 'alaikum annī mā raghibtut-taḥaddutsa 'an hādzal-bābi illā syafaqatan 'alā thullābi hādzal-'ilmir-rūḥāniyyi limā ra'aitu mā yu'ānīhith-thalabatu min masyaqqatin wa 'anā'in fī hādzal-bābi wa ilaikum tartībul-a'māli:
 
 1. Ath-thahāratul-kāmilatu badanan wa libāsan wa majlisan
 2. Shalātu rak'ataini lillāhi biniyyatil-'ibādati
 3. Al-istighfāru lillāhi ta'ālā 1000 marratin
-4. Ash-shalātu 'alal-habībi shallallāhu 'alaihi wa sallama 406 marratan
-5. Tilāwatut-tahshīni
+4. Ash-shalātu 'alal-ḥabībi shallallāhu 'alaihi wa sallama 406 marratan
+5. Tilāwatut-taḥshīni
 6. Ishrāful-'ummāri
 7. Tilāwatu da'watit-taskhīri
 8. Al-qiyāmu bil-'amalil-murādi
@@ -2106,7 +2133,7 @@ Tanbīhul-labībi fī mā yakhushshud-da'awāti war-riyādhāti.
 
 Ikhwatī fillāhi urīdut-tanbīha 'alā umūrin in 'alimahā ba'dhukum rubbamā ghābat 'anil-ba'dhil-ākhari wa hiya bikhushūshid-da'awāti war-riyādhāti wa kulli mā yata'allaqu bihādzal-bābi,
 
-Fa'lam ayyuhath-thālibu annahū lā budda laka minal-murūri min marāhila lil-wushūli ilā maqāmis-sādāti dzawit-tashrīfi, fakatsīran mā ra'aitu thullāban yatakhabbathūna fī hādzal-bābi takhabbuthal-'asywā'i wa lā ya'lamūna mādzā yaf'alūna, fabimujarradi wuqūfihim 'alā da'watin awi-stikhdāmin yasyra'ūna fīhi dūna an yudrikū annal-'ajalata sataqifu bihim yauman 'alā amrin lā tuhmadu 'uqbāhu wa dzālika yarji'u li-ashlith-tharīqi min aina bada'a binā'uhū fī hādzal-bābi fa-in kāna binā'uhū qawiyyan matīnan wa shāmidan khādhath-thālibu fil-'ālamir-rūhāniyyi wa basatha sathwatahū bi-idzni rabbihī 'azza wa jalla wa in kāna ghaira dzālika hawā bihī wa auqa'ahū fil-masyaqqati wal-'anā'i, falā budda likulli thālibin mini-btidā'ihī biriyādhātin mu'ayyanatin mutatāliyatin litaqwiyati rūhihī wa qahri nafsihī hattā lā yatruka fī jasadihī wa rūhihī wa nafsihī wa 'aqlihī makānan lil-maradati wasy-syayāthīni yatakhabbathūna bihī hafizhanallāhu wa iyyākum wal-muslimīna ajma'īna, wa awwalu syai'in yaqūmu bihith-thālibu katsratul-istighfāri wash-shalātu 'alā nabiyyir-rahmati sayyidinā Muhammadin wa 'alā ālihī wa shahbihī tsumma ba'da dzālika ya'malu riyādhatan muddatuhā 40 yauman bidūni shiyāmin illā tarka mā lahū rūhun au kharaja minar-rūhi war-riyādhatu li-asmā'illāhi [ Hayyun Qayyūmun ] khushūshan wa hādzā syarthun mu'akkadun in kānath-thālibu a'zaban li-anna fī hādzihir-riyādhati tankasirul-'awāridhu min inātsil-jinni wa rubbamā shādafa ahadukum hādzihil-hālata was-sirru fīhā 'adadut-tilāwati li-annahū yakhruju minismith-thālibi, war-riyādhatuts-tsāniyatu li-asmā'illāhi [ Hayyun Qawiyyun ] wa 'adadut-tilāwati wa muddatul-'amali takhruju minismith-thālibi, war-riyādhatuts-tsālitsatu li-asmā'illāhi [ Qawiyyun Syadīdun ] wa hiya tajma'u 'adadat-tilāwatainil-ūlā wats-tsāniyati wal-muddatu takhruju minismith-thālibi, matsalan kāna 'adadut-tilāwati fir-riyādhati 1, 100 dubura kulli shalātin wat-tilāwatu fir-riyādhati 2, 170 dubura kulli shalātin takūnut-tilāwatu fir-riyādhatits-tsālitsati 270 dubura kulli shalātin, wa ba'da itmāmir-riyādhati 3 lith-thālibi hīnadzākad-dukhūlu min bābin fasīhin munīrin ilā hādzal-'ālami bidūni an yakhsyā 'alā nafsihī syai'an, wa sa-adha'u lakum ikhwatī fillāhi tharīqata hisābil-muddati wa 'adadit-tilāwati bihādzal-khushūshi litastafīdū minhā wa tastanīra tharīqukum, waffaqakumullāhu wa a'ānakum 'alal-khairi wa fi'lihī wa anāra tharīqakum wa a'ādzakum minal-jahli wa ahlihī, wa tadzakkarū qaulallāhi 'azza wa jalla fī sūratil-Baqarati [ Wa laisal-birru bi-an ta'tul-buyūta min zhuhūrihā wa lākinnal-birra manittaqā wa'tul-buyūta min abwābihā wattaqullāha la'allakum tuflihūna ] shadaqallāhul-'azhīmu.
+Fa'lam ayyuhath-thālibu annahū lā budda laka minal-murūri min marāhila lil-wushūli ilā maqāmis-sādāti dzawit-tashrīfi, fakatsīran mā ra'aitu thullāban yatakhabbathūna fī hādzal-bābi takhabbuthal-'asywā'i wa lā ya'lamūna mādzā yaf'alūna, fabimujarradi wuqūfihim 'alā da'watin awi-stikhdāmin yasyra'ūna fīhi dūna an yudrikū annal-'ajalata sataqifu bihim yauman 'alā amrin lā tuhmadu 'uqbāhu wa dzālika yarji'u li-ashlith-tharīqi min aina bada'a binā'uhū fī hādzal-bābi fa-in kāna binā'uhū qawiyyan matīnan wa shāmidan khādhath-thālibu fil-'ālamir-rūḥāniyyi wa basatha sathwatahū bi-idzni rabbihī 'azza wa jalla wa in kāna ghaira dzālika hawā bihī wa auqa'ahū fil-masyaqqati wal-'anā'i, falā budda likulli thālibin mini-btidā'ihī biriyādhātin mu'ayyanatin mutatāliyatin litaqwiyati rūḥihī wa qahri nafsihī ḥattā lā yatruka fī jasadihī wa rūḥihī wa nafsihī wa 'aqlihī makānan lil-maradati wasy-syayāthīni yatakhabbathūna bihī ḥafizhanallāhu wa iyyākum wal-muslimīna ajma'īna, wa awwalu syai'in yaqūmu bihith-thālibu katsratul-istighfāri wash-shalātu 'alā nabiyyir-raḥmati sayyidinā Muḥammadin wa 'alā ālihī wa shahbihī tsumma ba'da dzālika ya'malu riyādhatan muddatuhā 40 yauman bidūni shiyāmin illā tarka mā lahū rūḥun au kharaja minar-rūḥi war-riyādhatu li-asmā'illāhi [ Ḥayyun Qayyūmun ] khushūshan wa hādzā syarthun mu'akkadun in kānath-thālibu a'zaban li-anna fī hādzihir-riyādhati tankasirul-'awāridhu min inātsil-jinni wa rubbamā shādafa aḥadukum hādzihil-ḥālata was-sirru fīhā 'adadut-tilāwati li-annahū yakhruju minismith-thālibi, war-riyādhatuts-tsāniyatu li-asmā'illāhi [ Ḥayyun Qawiyyun ] wa 'adadut-tilāwati wa muddatul-'amali takhruju minismith-thālibi, war-riyādhatuts-tsālitsatu li-asmā'illāhi [ Qawiyyun Syadīdun ] wa hiya tajma'u 'adadat-tilāwatainil-ūlā wats-tsāniyati wal-muddatu takhruju minismith-thālibi, matsalan kāna 'adadut-tilāwati fir-riyādhati 1, 100 dubura kulli shalātin wat-tilāwatu fir-riyādhati 2, 170 dubura kulli shalātin takūnut-tilāwatu fir-riyādhatits-tsālitsati 270 dubura kulli shalātin, wa ba'da itmāmir-riyādhati 3 lith-thālibi ḥīnadzākad-dukhūlu min bābin fasīḥin munīrin ilā hādzal-'ālami bidūni an yakhsyā 'alā nafsihī syai'an, wa sa-adha'u lakum ikhwatī fillāhi tharīqata ḥisābil-muddati wa 'adadit-tilāwati bihādzal-khushūshi litastafīdū minhā wa tastanīra tharīqukum, waffaqakumullāhu wa a'ānakum 'alal-khairi wa fi'lihī wa anāra tharīqakum wa a'ādzakum minal-jahli wa ahlihī, wa tadzakkarū qaulallāhi 'azza wa jalla fī sūratil-Baqarati [ Wa laisal-birru bi-an ta'tul-buyūta min zhuhūrihā wa lākinnal-birra manittaqā wa'tul-buyūta min abwābihā wattaqullāha la'allakum tufliḥūna ] shadaqallāhul-'azhīmu.
 
 Fatadabbar ayyuhath-thālibu wa'tabir was-salāmu.
 
@@ -2154,15 +2181,15 @@ Maka renungkanlah wahai penuntut ilmu dan ambillah pelajaran, wassalam.
 
 Da'watut-tafwīdhi.
 
-Ikhwatī fillāhi adha'u lakum hādzihid-da'watal-mubārakatan-nāfi'ata bi-idznillāhi fī daf'il-ahwāli wal-umūrish-shi'ābi, wa hiya da'watut-tafwīdhi wa man arāda-sti'mālahā falyaqra'hā kamā nasyrahuhā bi-idznillāhil-'Azīzil-Wahhābi,
+Ikhwatī fillāhi adha'u lakum hādzihid-da'watal-mubārakatan-nāfi'ata bi-idznillāhi fī daf'il-aḥwāli wal-umūrish-shi'ābi, wa hiya da'watut-tafwīdhi wa man arāda-sti'mālahā falyaqra'hā kamā nasyraḥuhā bi-idznillāhil-'Azīzil-Wahhābi,
 
-Yabda'u bishalāti rak'ataini lillāhi ta'ālā ba'da shalātil-'isyā'i wa in kānat fī jaufil-laili kānat ajwada, tsummal-istighfāru 100 marratin tsummash-shalātu 'alā sayyidinā Muhammadin shallallāhu 'alaihi wa sallama 100 marratin tsumma lā ilāha illallāhu 100 marratin tsumma lā haula wa lā quwwata illā billāhi 100 marratin tsummal-āyatu [ Inna awwala baitin wudhi'a lin-nāsi lalladzī bibakkata mubārakan wa hudan lil-'ālamīna fīhi āyātun bayyinātun maqāmu Ibrāhīma wa man dakhalahū kāna āminan ] 7 marrātin tsumma ba'da dzālika yaqra'ul-āyata [ Wa ufawwidhu amrī ilallāhi innallāha bashīrun bil-'ibādi ] 33 marratan tsumma yaqra'ud-da'watal-mubārakata 3 au 7 marrātin wa hiya hādzihī,
+Yabda'u bishalāti rak'ataini lillāhi ta'ālā ba'da shalātil-'isyā'i wa in kānat fī jaufil-laili kānat ajwada, tsummal-istighfāru 100 marratin tsummash-shalātu 'alā sayyidinā Muḥammadin shallallāhu 'alaihi wa sallama 100 marratin tsumma lā ilāha illallāhu 100 marratin tsumma lā ḥaula wa lā quwwata illā billāhi 100 marratin tsummal-āyatu [ Inna awwala baitin wudhi'a lin-nāsi lalladzī bibakkata mubārakan wa hudan lil-'ālamīna fīhi āyātun bayyinātun maqāmu Ibrāhīma wa man dakhalahū kāna āminan ] 7 marrātin tsumma ba'da dzālika yaqra'ul-āyata [ Wa ufawwidhu amrī ilallāhi innallāha bashīrun bil-'ibādi ] 33 marratan tsumma yaqra'ud-da'watal-mubārakata 3 au 7 marrātin wa hiya hādzihī,
 
-‎[ Bismillāhir-rahmānir-rahīmi Allāhumma innī astadfi'u bi-asrāri anwāri bawāriqi lawāmi'i shaulati kalāmikal-qadīmi wa astadri'u bitha'anāti jalāli sulthānikal-'azhīmi fī bahri shurūfid-dahri hawāditsal-qahri wa sū'al-qadhā'i wa jadzbal-balā'i wa syamātatal-a'dā'i wa atahashshanu binūri wajhikal-'azhīmi min syarri kulli dzī syarrin wa makri kulli dzī makrin wasy-syarīki minal-arwāhil-hādhirati wal-ghā'ibati wa hauli mā tajrī bihil-aflāku wa tahmiluhul-amlāku yā 'Afuwwu yā 'Afuwwu yā 'Afuwwu yā [ كهيعص ] [Rajah Huruf — tidak diterjemahkan] ikfinī mā ahammanī yā [ حم عسق ] [Rajah Huruf — tidak diterjemahkan] ihminī mimmā alamma bī yā Allāhu yā Bashīru fa-innī a'ūdzu bika minadz-dzunūbil-latī bihā tuzīlun-ni'ama wa a'ūdzu bika minadz-dzunūbil-latī bihā tuhillun-niqama wa a'ūdzu bika minadz-dzunūbil-latī bihā tumsikul-qathra wa a'ūdzu bika minadz-dzunūbil-latī bihā tutsīrul-a'ādiya wa a'ūdzu bika minadz-dzunūbil-latī bihā tumsiku rahmataka yā Arhamar-rāhimīna yā Hafīzhu ihfazhnī hifzhash-shiyānati war-ri'āyati wal-wiqāyati bi-alfi alfi lā haula wa lā quwwata illā billāhil-'Aliyyil-'Azhīmi wa biquwwati rahamāti bismillāhir-rahmānir-rahīmi wa bihushūni durū'i Allāhu akbaru min kulli mā yukhsyā minhu wa yuhdzaru wa bisutūri wiqāyati himāyati wa ufawwidhu amrī ilallāhi innallāha bashīrun bil-'ibādi ] tammatid-da'watu,
+‎[ Bismillāhir-raḥmānir-raḥīmi Allāhumma innī astadfi'u bi-asrāri anwāri bawāriqi lawāmi'i shaulati kalāmikal-qadīmi wa astadri'u bitha'anāti jalāli sulthānikal-'azhīmi fī baḥri shurūfid-dahri ḥawāditsal-qahri wa sū'al-qadhā'i wa jadzbal-balā'i wa syamātatal-a'dā'i wa ataḥashshanu binūri wajhikal-'azhīmi min syarri kulli dzī syarrin wa makri kulli dzī makrin wasy-syarīki minal-arwāḥil-ḥādhirati wal-ghā'ibati wa ḥauli mā tajrī bihil-aflāku wa taḥmiluhul-amlāku yā 'Afuwwu yā 'Afuwwu yā 'Afuwwu yā [ كهيعص ] [Rajah Huruf — tidak diterjemahkan] ikfinī mā ahammanī yā [ حم عسق ] [Rajah Huruf — tidak diterjemahkan] iḥminī mimmā alamma bī yā Allāhu yā Bashīru fa-innī a'ūdzu bika minadz-dzunūbil-latī bihā tuzīlun-ni'ama wa a'ūdzu bika minadz-dzunūbil-latī bihā tuhillun-niqama wa a'ūdzu bika minadz-dzunūbil-latī bihā tumsikul-qathra wa a'ūdzu bika minadz-dzunūbil-latī bihā tutsīrul-a'ādiya wa a'ūdzu bika minadz-dzunūbil-latī bihā tumsiku raḥmataka yā Arhamar-rāhimīna yā Ḥafīzhu iḥfazhnī ḥifzhash-shiyānati war-ri'āyati wal-wiqāyati bi-alfi alfi lā ḥaula wa lā quwwata illā billāhil-'Aliyyil-'Azhīmi wa biquwwati rahamāti bismillāhir-raḥmānir-raḥīmi wa biḥushūni durū'i Allāhu akbaru min kulli mā yukhsyā minhu wa yuhdzaru wa bisutūri wiqāyati ḥimāyati wa ufawwidhu amrī ilallāhi innallāha bashīrun bil-'ibādi ] tammatid-da'watu,
 
-Tsummakhtim bifātihatil-kitābi wash-shalāti 'alal-habībi Muhammadin shallallāhu 'alaihi wa sallama.
+Tsummakhtim bifātiḥatil-kitābi wash-shalāti 'alal-ḥabībi Muḥammadin shallallāhu 'alaihi wa sallama.
 
-As'alullāha 'azza wa jalla an yanfa'anī wa iyyākum bil-Qur'ānil-'azhīmi wa yahdiyanī wa iyyākum ilā shirāthil-haqqil-mubīni wa yarzuqanī wa iyyākum syafā'ata sayyidinā Muhammadin 'alaihi afdhalush-shalāti wat-taslīmi āmīna.
+As'alullāha 'azza wa jalla an yanfa'anī wa iyyākum bil-Qur'ānil-'azhīmi wa yahdiyanī wa iyyākum ilā shirāthil-ḥaqqil-mubīni wa yarzuqanī wa iyyākum syafā'ata sayyidinā Muḥammadin 'alaihi afdhalush-shalāti wat-taslīmi āmīna.
 
 ### Terjemahan
 
@@ -2217,17 +2244,17 @@ Aku memohon kepada Allah 'azza wa jalla agar memberikan manfaat kepadaku dan kep
 
 ### latin
 
-Ishrāful-'ummāril-masyhūdu bishihhatihī.
+Ishrāful-'ummāril-masyhūdu bishiḥḥatihī.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuhū,
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuhū,
 
-Ikhwatī fillāhi ilaikum ishrāfal-'ummāril-masyhūda bishihhatihī wal-ladzi'tamadtu 'alaihi fil-a'mālir-rūhāniyyati,
+Ikhwatī fillāhi ilaikum ishrāfal-'ummāril-masyhūda bishiḥḥatihī wal-ladzi'tamadtu 'alaihi fil-a'mālir-rūḥāniyyati,
 
-[ Hauhin 2 Yā Hauhin 2 Ahūsyin 2 Asymakhin Syamākhin 2 Ayālin 2 insharifū khifāfan wa tsiqālan yā 'ummāra hādzal-makāni hattā unhiya 'amalī bisuhūlatin wa 'ūdū kamā kuntum bihaqqi Āhiyyan Syarāhiyyan Ādūnāya Ashbā'ūta Āli Syaddāya wa bihaqqi nafkhati Isrāfīla wa qabdhati 'Izrā'īla wa mathrati Mīkā'īla wa habthati Jabrā'īla al-haraba al-haraba bakhin bakhin bisalāmin āminīna yā 'ummāra hādzal-makāni bihaqqi idzā zulzilatil-ardhu zilzālahā ilā asytātan asytātan asytātan ]
+[ Hauhin 2 Yā Hauhin 2 Ahūsyin 2 Asymakhin Syamākhin 2 Ayālin 2 insharifū khifāfan wa tsiqālan yā 'ummāra hādzal-makāni ḥattā unhiya 'amalī bisuhūlatin wa 'ūdū kamā kuntum biḥaqqi Āhiyyan Syarāhiyyan Ādūnāya Ashbā'ūta Āli Syaddāya wa biḥaqqi nafkhati Isrāfīla wa qabdhati 'Izrā'īla wa mathrati Mīkā'īla wa habthati Jabrā'īla al-haraba al-haraba bakhin bakhin bisalāmin āminīna yā 'ummāra hādzal-makāni biḥaqqi idzā zulzilatil-ardhu zilzālahā ilā asytātan asytātan asytātan ]
 
 Yutlā 7 marrātin qabla kulli 'amalin.
 
-Wa bakhūruhū lubānudz-dzakari au hashā lubānin ahmara [ shulbānul-hamrā'i ] au 'ilkus-sidri fahuwa ajwadu.
+Wa bakhūruhū lubānudz-dzakari au ḥashā lubānin aḥmara [ shulbānul-ḥamrā'i ] au 'ilkus-sidri fahuwa ajwadu.
 
 Wallāhul-muwaffiqu.
 
@@ -2282,11 +2309,11 @@ Dan Allah-lah Yang Maha Memberi taufik.
 
 ### latin
 
-Ad-durratun-nāfi'atud-dāfi'atu lis-sihri wa raddihī 'alā fā'ilihī.
+Ad-durratun-nāfi'atud-dāfi'atu lis-siḥri wa raddihī 'alā fā'ilihī.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuhū.
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuhū.
 
-Ikhwatī fillāhi adha'u baina aidīkumul-karīmati hādzihid-da'watal-mubārakatan-nāfi'ata bi-idznillāhi fī daf'is-sihri wa raddihī 'alas-sāhiri faman arādal-'amala bihā falyushalli rak'ataini lillāhi 'azza wa jalla min ba'di shalātil-maghribi mu'tazilan fī makānin wahdahū wa yuthliqu qalīlan min bakhūrin thayyibin wa in kāna lubānan kāna ajwada wa yatlud-da'wata sab'a marrātin, wa in kāna ya'rifu man saharahū falyuhakkim 'aqlahū fīhi wa yasyra'u fit-tilāwati wa lasaufa yarā hukmallāhi fis-sāhiri, wa in kānal-mar'u mas-hūran wa talāhā zāla sihruhū bi-idznillāhi 'azza wa jalla, as'alullāhasy-syifā'a wal-'āfiyata likulli mubtalan wa as'aluhū 'azza wa jallad-damāra wan-nakāla likulli sāhirin,
+Ikhwatī fillāhi adha'u baina aidīkumul-karīmati hādzihid-da'watal-mubārakatan-nāfi'ata bi-idznillāhi fī daf'is-siḥri wa raddihī 'alas-sāḥiri faman arādal-'amala bihā falyushalli rak'ataini lillāhi 'azza wa jalla min ba'di shalātil-maghribi mu'tazilan fī makānin waḥdahū wa yuthliqu qalīlan min bakhūrin thayyibin wa in kāna lubānan kāna ajwada wa yatlud-da'wata sab'a marrātin, wa in kāna ya'rifu man saharahū falyuhakkim 'aqlahū fīhi wa yasyra'u fit-tilāwati wa lasaufa yarā ḥukmallāhi fis-sāḥiri, wa in kānal-mar'u mas-hūran wa talāhā zāla siḥruhū bi-idznillāhi 'azza wa jalla, as'alullāhasy-syifā'a wal-'āfiyata likulli mubtalan wa as'aluhū 'azza wa jallad-damāra wan-nakāla likulli sāḥirin,
 
 Wad-da'watu hiya kat-tālī,
 
@@ -2327,11 +2354,11 @@ Adapun doanya adalah sebagai berikut:
 
 ### latin
 
-Ad-durratun-nāfi'atud-dāfi'atu lis-sihri wa raddihī 'alā fā'ilihī.
+Ad-durratun-nāfi'atud-dāfi'atu lis-siḥri wa raddihī 'alā fā'ilihī.
 
-‎[ Bismillāhir-rahmānir-rahīmi bismillāhil-Hayyil-Qayyūmil-'Aliyyil-'Azhīmil-Fāthiril-Qāhiril-Qādiril-Muqtadiri as'alukallāhummaths-tsabāta fil-amri wal-'azīmata 'alar-rusydi wasy-syukra 'alan-ni'mati wa as'aluka husna 'ibādatika wa as'aluka min khairi mā ta'lamu wa a'ūdzu bika min syarri mā ta'lamu wa astaghfiruka min syarri kulli mā ta'lamu innaka anta 'allāmul-ghuyūbi wa as'aluka amnan wa amānan wa a'ūdzu bika min jauri kulli jā'irin wa makri kulli mākirin wa zhulmi kulli zhālimin wa sihri kulli sāhirin wa baghyi kulli bāghin wa hasadi kulli hāsidin wa ghadri kulli ghādirin wa kaidi kulli kā'idin wa 'adāwati kulli 'aduwwin wa tha'ni kulli thā'inin wa qadhi kulli qādihin wa hiyali kulli muhīlin wa syamātati kulli syāmitin wa kasyhi kulli kāsyihin Allāhumma bika ashūlu 'alal-a'dā'i wal-quranā'i wa iyyāka arjū wilāyatal-auliyā'i falakal-hamdu 'alā mā lā astathī'u ihshā'ahū Allāhumma innahū laisa fir-riyāhi marratun wa lā fis-sahābi qathratun wa lā fil-barqi lam'atun wa lā fir-ra'di zajratun wa lā fil-'arsyi wal-kursiyyi was'atun wa lā fil-mulki wal-malakūti āyatun illā wa hiya laka āhilatun syāhidatun bi-annaka antallāhu lā ilāha illā anta Rabbul-aradhīna was-samāwāti wa mā 'alaihinna wa mā fīhinna wa mā bainahunna 'allāmul-ghuyūbi ghaffārudz-dzunūbi sattārul-'uyūbi sharīkhul-mustashrikhīna nāshirul-mustadh'afīna subhānaka lā ilāha illā anta wahdaka lā syarīka laka anta waliyyu man kāna mazhlūman hattā ya'ūda muntashiran bihabūbin habūbin bimahbūbin mahbūbin dzī luthfin khafiyyin yā Allāhu yā Allāhu yā Allāhu bisha'sha'in sha'sha'in dzil-bahā'i wan-nūrit-tāmmi bisahsahūbin sahsahūbin dzil-'izzisy-syāmikhi bithahthahūbin thahthahūbin lahūbin lahūbin yā Allāhu yā Allāhu yā Allāhu [ حم حم حم حم حم حم حم ] [Rajah Huruf — tidak diterjemahkan] kahūbin kahūbin alladzī binūrihi-htaraqa kullu syaithānin māridin wa bishawā'iqi-ntiqāmihī khasafal-ardha bikulli jabbārin 'anīdin wa bi-āyātihī hazama kulla sāhirin wa kāfirin as'alukallāhumma binūri wajhikal-ladzī mala'a arkāna 'arsyika wa as'alukallāhumma bishawā'iqi-ntiqāmikal-ladzī lā yuthāqu wa as'alukallāhumma bikulli āyatin fī kitābikal-karīmi wa bikulli-smin huwa laka sammaita bihī nafsaka au anzaltahū fī muhkami kitābika au 'allamtahū ahadan min khalqika awi-sta'tsarta bihī fī 'ilmil-ghaibi 'indaka wa as'aluka bismikal-'azhīmil-a'zhamil-makhzūnil-maknūni an taqtha'a ajala amali a'dā'ī wa syattitillāhumma syamlahum wa nakkis a'lāmahum wasyghalhum bi-abdānihim wa ruddallāhumma 'alaihim sihrahum hattā yadzūqul-'adzābal-alīma min af'ālihim fa-innā yā rabbanā naj'aluka fī nuhūrihim wa na'ūdzu bika min syurūrihim yā Mālika yaumid-dīni iyyāka na'budu wa iyyāka nasta'īnu Allāhumma bika nasta'īnu 'alaihim yā sharīkhal-mustashrikhīna yā nāshiral-mazhlūmīna famā lanā siwāka wa lā ma'aka wa lā ghairuka subhānaka lā ilāha illā anta wahdaka lā syarīka laka wa lā mu'īna yā Rabbal-'ālamīna innaka 'alā kulli syai'in qadīrun wā ghautsāhu yā Allāhu wā ghautsāhu yā Allāhu wā ghautsāhu yā Allāhu yā Bāri'u lā bad'a laka yā Dā'imu lā nafāda laka yā Hayyu yā Qayyūmu yā Muhyiyal-mautā yā Qā'imun 'alā kulli nafsin bimā kasabat antallāhul-ladzī lā ilāha illā anta Wāhidun Ahadun Fardun Shamadun as'aluka bikalimātikat-tāmmāti an taksyifa 'annī mā nazala bī min dhararin [ kadzā wa kadzā ] wa as'alukal-amna wal-'āfiyata fid-dīni wad-dunyā wal-ākhirati yā Rabbal-'ālamīna farhamnī birahmatika yā Arhamar-rāhimīna falā haula lī wa lā quwwata illā bika yā Rabbal-'ālamīna innaka 'alā kulli syai'in qadīrun wa shalli wa sallim 'alā sayyidinā Muhammadin khātamil-anbiyā'i wal-mursalīna wa 'alā ālihith-thayyibīnath-thāhirīna wa sallim taslīman ]
+‎[ Bismillāhir-raḥmānir-raḥīmi bismillāhil-Ḥayyil-Qayyūmil-'Aliyyil-'Azhīmil-Fāthiril-Qāhiril-Qādiril-Muqtadiri as'alukallāhummaths-tsabāta fil-amri wal-'azīmata 'alar-rusydi wasy-syukra 'alan-ni'mati wa as'aluka ḥusna 'ibādatika wa as'aluka min khairi mā ta'lamu wa a'ūdzu bika min syarri mā ta'lamu wa astaghfiruka min syarri kulli mā ta'lamu innaka anta 'allāmul-ghuyūbi wa as'aluka amnan wa amānan wa a'ūdzu bika min jauri kulli jā'irin wa makri kulli mākirin wa zhulmi kulli zhālimin wa siḥri kulli sāḥirin wa baghyi kulli bāghin wa ḥasadi kulli ḥāsidin wa ghadri kulli ghādirin wa kaidi kulli kā'idin wa 'adāwati kulli 'aduwwin wa tha'ni kulli thā'inin wa qadhi kulli qādiḥin wa hiyali kulli muḥīlin wa syamātati kulli syāmitin wa kasyhi kulli kāsyiḥin Allāhumma bika ashūlu 'alal-a'dā'i wal-quranā'i wa iyyāka arjū wilāyatal-auliyā'i falakal-ḥamdu 'alā mā lā astathī'u iḥshā'ahū Allāhumma innahū laisa fir-riyāḥi marratun wa lā fis-saḥābi qathratun wa lā fil-barqi lam'atun wa lā fir-ra'di zajratun wa lā fil-'arsyi wal-kursiyyi was'atun wa lā fil-mulki wal-malakūti āyatun illā wa hiya laka āhilatun syāhidatun bi-annaka antallāhu lā ilāha illā anta Rabbul-aradhīna was-samāwāti wa mā 'alaihinna wa mā fīhinna wa mā bainahunna 'allāmul-ghuyūbi ghaffārudz-dzunūbi sattārul-'uyūbi sharīkhul-mustashrikhīna nāshirul-mustadh'afīna subḥānaka lā ilāha illā anta waḥdaka lā syarīka laka anta waliyyu man kāna mazhlūman ḥattā ya'ūda muntashiran bihabūbin habūbin bimaḥbūbin maḥbūbin dzī luthfin khafiyyin yā Allāhu yā Allāhu yā Allāhu bisha'sha'in sha'sha'in dzil-bahā'i wan-nūrit-tāmmi bisahsahūbin sahsahūbin dzil-'izzisy-syāmikhi bithahthahūbin thahthahūbin lahūbin lahūbin yā Allāhu yā Allāhu yā Allāhu [ حم حم حم حم حم حم حم ] [Rajah Huruf — tidak diterjemahkan] kahūbin kahūbin alladzī binūrihi-htaraqa kullu syaithānin māridin wa bishawā'iqi-ntiqāmihī khasafal-ardha bikulli jabbārin 'anīdin wa bi-āyātihī hazama kulla sāḥirin wa kāfirin as'alukallāhumma binūri wajhikal-ladzī mala'a arkāna 'arsyika wa as'alukallāhumma bishawā'iqi-ntiqāmikal-ladzī lā yuthāqu wa as'alukallāhumma bikulli āyatin fī kitābikal-karīmi wa bikulli-smin huwa laka sammaita bihī nafsaka au anzaltahū fī muḥkami kitābika au 'allamtahū aḥadan min khalqika awi-sta'tsarta bihī fī 'ilmil-ghaibi 'indaka wa as'aluka bismikal-'azhīmil-a'zhamil-makhzūnil-maknūni an taqtha'a ajala amali a'dā'ī wa syattitillāhumma syamlahum wa nakkis a'lāmahum wasyghalhum bi-abdānihim wa ruddallāhumma 'alaihim siḥrahum ḥattā yadzūqul-'adzābal-alīma min af'ālihim fa-innā yā rabbanā naj'aluka fī nuḥūrihim wa na'ūdzu bika min syurūrihim yā Mālika yaumid-dīni iyyāka na'budu wa iyyāka nasta'īnu Allāhumma bika nasta'īnu 'alaihim yā sharīkhal-mustashrikhīna yā nāshiral-mazhlūmīna famā lanā siwāka wa lā ma'aka wa lā ghairuka subḥānaka lā ilāha illā anta waḥdaka lā syarīka laka wa lā mu'īna yā Rabbal-'ālamīna innaka 'alā kulli syai'in qadīrun wā ghautsāhu yā Allāhu wā ghautsāhu yā Allāhu wā ghautsāhu yā Allāhu yā Bāri'u lā bad'a laka yā Dā'imu lā nafāda laka yā Ḥayyu yā Qayyūmu yā Muhyiyal-mautā yā Qā'imun 'alā kulli nafsin bimā kasabat antallāhul-ladzī lā ilāha illā anta Wāḥidun Aḥadun Fardun Shamadun as'aluka bikalimātikat-tāmmāti an taksyifa 'annī mā nazala bī min dhararin [ kadzā wa kadzā ] wa as'alukal-amna wal-'āfiyata fid-dīni wad-dunyā wal-ākhirati yā Rabbal-'ālamīna farhamnī biraḥmatika yā Arhamar-rāhimīna falā ḥaula lī wa lā quwwata illā bika yā Rabbal-'ālamīna innaka 'alā kulli syai'in qadīrun wa shalli wa sallim 'alā sayyidinā Muḥammadin khātamil-anbiyā'i wal-mursalīna wa 'alā ālihith-thayyibīnath-thāhirīna wa sallim taslīman ]
 
-Tammatid-da'watu nafa'aniyallāhu wa iyyākum bil-Qur'ānil-'azhīmi wa ja'alahū lanā hujjatan yaumal-'ardhi 'alā wajhihil-karīmi wa shallallāhu wa sallama 'alā sayyidil-mursalīna.
+Tammatid-da'watu nafa'aniyallāhu wa iyyākum bil-Qur'ānil-'azhīmi wa ja'alahū lanā ḥujjatan yaumal-'ardhi 'alā wajhihil-karīmi wa shallallāhu wa sallama 'alā sayyidil-mursalīna.
 
 ### Terjemahan
 
@@ -2373,11 +2400,11 @@ Selesailah doa tersebut. Semoga Allah memberikan manfaat kepadaku dan kepada kal
 
 Da'watut-taskhīri nas'alullāhal-ijābata.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuhū.
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuhū.
 
-Hādzihī da'watut-taskhīri tutlā marratan wāhidatan qabla kulli 'amalin:
+Hādzihī da'watut-taskhīri tutlā marratan wāḥidatan qabla kulli 'amalin:
 
-( Allāhumma yā Musakhkhiras-samāwātis-sab'i wal-aradhīnas-sab'i wa man fīhinna wa man 'alaihinna sakhkhir lī kulla 'ibādika mimmā fī barrika wa bahrika yā Rabbal-'ālamīna hattā lā yakūna fil-kauni syai'un mutaharrikun au sākinun nāthiqun au shāmitun zhāhirun au bāthinun illā sakhkhartahū lī wa yakūna thau'a amrī bibarakatismikal-makhzūnil-maknūni yā Allāhu yā Hayyu yā Qayyūmu innamā amruhū idzā arāda syai'an an yaqūla lahū kun fayakūnu. Ilāhī jūduka dallanī 'alaika wa ihsānuka qarrabanī ilaika asykū ilaika mā lā yakhfā 'alaika wa as'aluka mā lā ya'suru 'alaika idz 'ilmuka bihālī yughnī 'an su'ālī yā Mufarrijan 'an kulli makrūbin karbahū wa munjiyahū farrij 'annī karbī wa mā anā fīhi yā man laisa bighā'ibin fa-antazhirahū wa lā binā'imin fa-ūqizhahū wa lā bighāfilin fa-unabbihahū wa lā bināsin fa-udzakkirahū wa lā bi'ājizin fa-umhilahū yā 'Āliman bil-jumlati wa Ghaniyyan 'anit-tafshīli wa yā Sāmi'an lil-qā'ili wal-qīli kafā 'ilmuka 'anil-maqāli wanqatha'ar-rajā'u illā minka yā Muta'āli wa khābatil-āmālu illā fīka yā Dzal-jalāli wal-ikrāmi wa suddatith-thuruqu illā ilaika yā Mifdhālu yā Allāhu yā Samī'u yā Mujību yā Qarību ighfir lī warhamnī birahmatikal-latī wasi'ta bihā kulla syai'in wa yassir lī amrī wa sakhkhir lī jamī'a khalqika minal-arwāhir-rūhāniyyati innaka 'alā kulli syai'in qadīrun falakal-'izzatu wal-qahru wa biyadikal-khalqu wal-amru wa lā haula wa lā quwwata illā bika yā Qawiyyu yā Qahhāru yā Qarību yā Mujībad-du'ā'i. )
+( Allāhumma yā Musakhkhiras-samāwātis-sab'i wal-aradhīnas-sab'i wa man fīhinna wa man 'alaihinna sakhkhir lī kulla 'ibādika mimmā fī barrika wa baḥrika yā Rabbal-'ālamīna ḥattā lā yakūna fil-kauni syai'un mutaḥarrikun au sākinun nāthiqun au shāmitun zhāhirun au bāthinun illā sakhkhartahū lī wa yakūna thau'a amrī bibarakatismikal-makhzūnil-maknūni yā Allāhu yā Ḥayyu yā Qayyūmu innamā amruhū idzā arāda syai'an an yaqūla lahū kun fayakūnu. Ilāhī jūduka dallanī 'alaika wa iḥsānuka qarrabanī ilaika asykū ilaika mā lā yakhfā 'alaika wa as'aluka mā lā ya'suru 'alaika idz 'ilmuka biḥālī yughnī 'an su'ālī yā Mufarrijan 'an kulli makrūbin karbahū wa munjiyahū farrij 'annī karbī wa mā anā fīhi yā man laisa bighā'ibin fa-antazhirahū wa lā binā'imin fa-ūqizhahū wa lā bighāfilin fa-unabbihahū wa lā bināsin fa-udzakkirahū wa lā bi'ājizin fa-umhilahū yā 'Āliman bil-jumlati wa Ghaniyyan 'anit-tafshīli wa yā Sāmi'an lil-qā'ili wal-qīli kafā 'ilmuka 'anil-maqāli wanqatha'ar-rajā'u illā minka yā Muta'āli wa khābatil-āmālu illā fīka yā Dzal-jalāli wal-ikrāmi wa suddatith-thuruqu illā ilaika yā Mifdhālu yā Allāhu yā Samī'u yā Mujību yā Qarību ighfir lī warhamnī biraḥmatikal-latī wasi'ta bihā kulla syai'in wa yassir lī amrī wa sakhkhir lī jamī'a khalqika minal-arwāḥir-rūḥāniyyati innaka 'alā kulli syai'in qadīrun falakal-'izzatu wal-qahru wa biyadikal-khalqu wal-amru wa lā ḥaula wa lā quwwata illā bika yā Qawiyyu yā Qahhāru yā Qarību yā Mujībad-du'ā'i. )
 
 Waffaqakumullāhu limā fīhil-khairu innahū 'alā kulli syai'in qadīrun.
 
@@ -2420,11 +2447,11 @@ Semoga Allah memberikan taufik kepada kalian menuju apa yang di dalamnya terdapa
 
 Ad-da'watul-qāhiratu.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuhū, ikhwatī fillāhi adha'u baina aidīkum da'watan katsīran waqa'a fīhat-tahrīfu immā fīhā au fil-a'mālil-mansūbati ilaihā au fī tasmiyatihā bida'wati harfil-qāfi wa laisa hādzā-smahā bal hiyad-da'watul-qāhiratu, wa hiya tashluhu likulli thālibi 'ilmir-rūhāniyyāti yattakhidzuhā wirdan dubura shalātish-shubhi wal-'isyā'i yatlūhā 3 marratan wa hiya nāfi'atun bi-idznillāhi lithullābi hādzal-'ilmi wad-da'watu hiya kat-tālī:
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuhū, ikhwatī fillāhi adha'u baina aidīkum da'watan katsīran waqa'a fīhat-taḥrīfu immā fīhā au fil-a'mālil-mansūbati ilaihā au fī tasmiyatihā bida'wati ḥarfil-qāfi wa laisa hādzā-smahā bal hiyad-da'watul-qāhiratu, wa hiya tashluḥu likulli thālibi 'ilmir-rūḥāniyyāti yattakhidzuhā wirdan dubura shalātish-shubḥi wal-'isyā'i yatlūhā 3 marratan wa hiya nāfi'atun bi-idznillāhi lithullābi hādzal-'ilmi wad-da'watu hiya kat-tālī:
 
-[ Ilāhī antal-Qā'imu 'alā kulli nafsin wal-Qayyūmu fī kulli ma'nan wa hissin qadarta faqaharta wa 'alauta faqadarta falakal-'izzatu wal-qahru wa biyadikal-khalqu wal-amru anta ma'a kulli syai'in bil-qurbi wa warā'ahū bil-qudrati wal-ihāthati wa antal-qā'ilu wallāhu min warā'ihim muhīthun. Ilāhī as'aluka madadan rūhāniyyan min asmā'ikal-qahriyyati taqwā bihī quwāyal-qalbiyyatu wal-qābiliyyatu hattā lā yalqānī shāhibu qalbin illanqalaba 'alā 'aqibaihi maqhūran wa as'aluka ilāhī lisānan nāthiqan wa qaulan shādiqan wa fahman lā'iqan wa sirran dzā'iqan wa qalban qābilan wa 'aqlan 'āqilan wa fikran musyriqan wa tharfan muthriqan wa syauqan muhriqan wa habnī yadan qādiratan wa quwwatan qāhiratan wa nafsan muthma'innatan wa jawāriha lithā'atika layyinatan wa qaddisnī lil-qudūmi 'alaika warzuqnit-taqarruba ilaika. Ilāhī qalbī aqbala ilaika fī faqril-faqri yaqūduhusy-syauqu wa yasūquhut-tauqu zāduhul-khaufu wa rafīquhul-qalaqu wa qashduhul-qabūlu wat-taqarrubu wa 'indaka zulfal-qāshidīna. Ilāhī alqi 'alayyas-sakīnata wal-waqāra wa jannibnil-'azhamata wal-istikbāra wa auqifnī fī maqāmil-qabūli wal-inābati wa qābil qaulī bil-ijābati. Ilāhī qarribnī ilaika qurbal-'ārifīna wa qaddisnī min 'alā'iqith-thab'i wa azil 'annī 'alā'iqadz-dzammi wa akūna minal-mutathahhirīna wa qābilnī binūrin min 'ināyatika yamla'u wujūdī zhāhiran wa bāthinan. Wa as'aluka ilāhī madadan rūhāniyyan taqwā bihī quwāyal-kulliyyatu wal-juz'iyyatu hattā aqhara kulla nafsin qāhiratin fayanqabidha lī raqā'iquhā-nqibādhan tasquthu bihī quwāhā falā yabqā fil-kauni dzū rūhin illā wa nārul-qahri qad akhmadat zhuhūrahū yā Syadīdal-bathsyi yā Qahhāru wa auqifnī mawāqifal-'izzi yā Qayyūmu yā Qadīru taqaddasa majduka yā Dzal-quwwatil-Matīnu yā Quddūsu. Ilāhī as'alukal-unsa bimuqābalāti sirril-qudrati unsan yamhū ātsāral-fikri 'annī hattā yathība qalbī bika fayathība waqtī laka falā yataharraka dzū thab'in limukhālafatī illā humma li'azhamatika wa qushima likibriyā'ika anta Jabbārul-ardhi was-samā'i wa Qāhirul-kulli biqahrika yā Qawiyyu yā Qahhāru yā Qarību yā Mujībad-du'ā'i ]
+[ Ilāhī antal-Qā'imu 'alā kulli nafsin wal-Qayyūmu fī kulli ma'nan wa hissin qadarta faqaharta wa 'alauta faqadarta falakal-'izzatu wal-qahru wa biyadikal-khalqu wal-amru anta ma'a kulli syai'in bil-qurbi wa warā'ahū bil-qudrati wal-iḥāthati wa antal-qā'ilu wallāhu min warā'ihim muḥīthun. Ilāhī as'aluka madadan rūḥāniyyan min asmā'ikal-qahriyyati taqwā bihī quwāyal-qalbiyyatu wal-qābiliyyatu ḥattā lā yalqānī shāḥibu qalbin illanqalaba 'alā 'aqibaihi maqhūran wa as'aluka ilāhī lisānan nāthiqan wa qaulan shādiqan wa fahman lā'iqan wa sirran dzā'iqan wa qalban qābilan wa 'aqlan 'āqilan wa fikran musyriqan wa tharfan muthriqan wa syauqan muḥriqan wa habnī yadan qādiratan wa quwwatan qāhiratan wa nafsan muthma'innatan wa jawāriḥa lithā'atika layyinatan wa qaddisnī lil-qudūmi 'alaika warzuqnit-taqarruba ilaika. Ilāhī qalbī aqbala ilaika fī faqril-faqri yaqūduhusy-syauqu wa yasūquhut-tauqu zāduhul-khaufu wa rafīquhul-qalaqu wa qashduhul-qabūlu wat-taqarrubu wa 'indaka zulfal-qāshidīna. Ilāhī alqi 'alayyas-sakīnata wal-waqāra wa jannibnil-'azhamata wal-istikbāra wa auqifnī fī maqāmil-qabūli wal-inābati wa qābil qaulī bil-ijābati. Ilāhī qarribnī ilaika qurbal-'ārifīna wa qaddisnī min 'alā'iqith-thab'i wa azil 'annī 'alā'iqadz-dzammi wa akūna minal-mutathahhirīna wa qābilnī binūrin min 'ināyatika yamla'u wujūdī zhāhiran wa bāthinan. Wa as'aluka ilāhī madadan rūḥāniyyan taqwā bihī quwāyal-kulliyyatu wal-juz'iyyatu ḥattā aqhara kulla nafsin qāhiratin fayanqabidha lī raqā'iquhā-nqibādhan tasquthu bihī quwāhā falā yabqā fil-kauni dzū rūḥin illā wa nārul-qahri qad akhmadat zhuhūrahū yā Syadīdal-bathsyi yā Qahhāru wa auqifnī mawāqifal-'izzi yā Qayyūmu yā Qadīru taqaddasa majduka yā Dzal-quwwatil-Matīnu yā Quddūsu. Ilāhī as'alukal-unsa bimuqābalāti sirril-qudrati unsan yamḥū ātsāral-fikri 'annī ḥattā yathība qalbī bika fayathība waqtī laka falā yataḥarraka dzū thab'in limukhālafatī illā humma li'azhamatika wa qushima likibriyā'ika anta Jabbārul-ardhi was-samā'i wa Qāhirul-kulli biqahrika yā Qawiyyu yā Qahhāru yā Qarību yā Mujībad-du'ā'i ]
 
-Tammatid-da'watu ikhwatī fillāhi nafa'aniyallāhu wa iyyākum bil-Qur'ānil-'azhīmi wa shallallāhu wa sallama 'alā sayyidinā Muhammadin wa 'alā ālihī wa shahbihī ajma'īna.
+Tammatid-da'watu ikhwatī fillāhi nafa'aniyallāhu wa iyyākum bil-Qur'ānil-'azhīmi wa shallallāhu wa sallama 'alā sayyidinā Muḥammadin wa 'alā ālihī wa shahbihī ajma'īna.
 
 ### Terjemahan
 
@@ -2462,13 +2489,13 @@ Selesailah doa tersebut, wahai saudara-saudaraku karena Allah. Semoga Allah memb
 
 ### latin
 
-Wa ilaikumut-tahshīnul-mau'ūdu bihī.
+Wa ilaikumut-taḥshīnul-mau'ūdu bihī.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuhū, ikhwatī fillāhi ilaikumut-tahshīnu:
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuhū, ikhwatī fillāhi ilaikumut-taḥshīnu:
 
-‎Al-Fātihata 1, [ الم ] [Rajah Huruf — tidak diterjemahkan] ilal-muflihūna 1, Āyatal-Kursiyyi ilā khālidūna 1, Lillāhi mā fis-samāwāti wa mā fil-ardhi ilā ākhiril-Baqarati 1, bismillāhi wa billāhi wa minallāhi wa ilallāhi wa fillāhi wa lā ilāha illallāhu wa man-nashru illā min 'indillāhi wa lā haula wa lā quwwata illā billāhil-'Aliyyil-'Azhīmi, bismillāhi-htajabtu wa bihaulillāhi-'tashamtu wa biquwwatillāhi-stamsaktu mā syā'allāhu lā quwwata illā billāhi tawakkaltu 'alallāhi wa hasbiyallāhu wa lā ilāha illallāhul-Hayyul-Qayyūmul-'Aliyyul-'Azhīmu, Allāhummahjubnī min jamī'i ashnāfil-jinni wa anwā'ihā wa ajnāsihā bikalimātikat-tāmmātil-mubārakāti wa bismikal-'azhīmil-a'zhamil-mubajjalil-mukarrami hijāban māni'an saqfuhū madadu nūrismikal-Hayyil-Qayyūmi hīthānuhū salāmun qaulan min Rabbin Rahīmin dā'iratuhū lahū mu'aqqibātun min baini yadaihi wa min khalfihī yahfazhūnahū min amrillāhi wallāhu min warā'ihim muhīthun inna 'ibādī laisa laka 'alaihim sulthānun wa kafā birabbika wakīlan, Allāhummahfazhnī min fauqī wa min tahtī wa min amāmī wa min khalfī wa 'an yamīnī wa 'an syimālī bimā hafizhta bihidz-dzikral-hakīma innaka 'alā kulli syai'in qadīrun wa shallillāhumma 'alā sayyidinā Muhammadin wa 'alā ālihī wa shahbihī wa sallim taslīman.
+‎Al-Fātiḥata 1, [ الم ] [Rajah Huruf — tidak diterjemahkan] ilal-mufliḥūna 1, Āyatal-Kursiyyi ilā khālidūna 1, Lillāhi mā fis-samāwāti wa mā fil-ardhi ilā ākhiril-Baqarati 1, bismillāhi wa billāhi wa minallāhi wa ilallāhi wa fillāhi wa lā ilāha illallāhu wa man-nashru illā min 'indillāhi wa lā ḥaula wa lā quwwata illā billāhil-'Aliyyil-'Azhīmi, bismillāhi-htajabtu wa biḥaulillāhi-'tashamtu wa biquwwatillāhi-stamsaktu mā syā'allāhu lā quwwata illā billāhi tawakkaltu 'alallāhi wa hasbiyallāhu wa lā ilāha illallāhul-Ḥayyul-Qayyūmul-'Aliyyul-'Azhīmu, Allāhummahjubnī min jamī'i ashnāfil-jinni wa anwā'ihā wa ajnāsihā bikalimātikat-tāmmātil-mubārakāti wa bismikal-'azhīmil-a'zhamil-mubajjalil-mukarrami ḥijāban māni'an saqfuhū madadu nūrismikal-Ḥayyil-Qayyūmi ḥīthānuhū salāmun qaulan min Rabbin Raḥīmin dā'iratuhū lahū mu'aqqibātun min baini yadaihi wa min khalfihī yaḥfazhūnahū min amrillāhi wallāhu min warā'ihim muḥīthun inna 'ibādī laisa laka 'alaihim sulthānun wa kafā birabbika wakīlan, Allāhummahfazhnī min fauqī wa min tahtī wa min amāmī wa min khalfī wa 'an yamīnī wa 'an syimālī bimā ḥafizhta bihidz-dzikral-ḥakīma innaka 'alā kulli syai'in qadīrun wa shallillāhumma 'alā sayyidinā Muḥammadin wa 'alā ālihī wa shahbihī wa sallim taslīman.
 
-Yutlā 7 marrātin qabla kulli 'amalin, wa in aradtahū wirdan fatilāwatuhū 5 marrātin ba'da shalātish-shubhi 5 marrātin ba'da shalātil-maghribi waffaqakumullāhu limā yuhibbuhū wa yardhāhu.
+Yutlā 7 marrātin qabla kulli 'amalin, wa in aradtahū wirdan fatilāwatuhū 5 marrātin ba'da shalātish-shubḥi 5 marrātin ba'da shalātil-maghribi waffaqakumullāhu limā yuḥibbuhū wa yardhāhu.
 
 ### Terjemahan
 
@@ -2515,11 +2542,11 @@ Dibaca sebanyak 7 kali sebelum setiap amalan; dan apabila engkau menginginkannya
 
 Da'watu Āyatil-Kursiyyisy-syarīfati.
 
-Ikhwatī fillāhi adha'u lakumul-yauma da'watan min ahammid-da'awātil-muwashshilāti bi-idznillāhi ilā hadhratis-sādāti, wa mā yumayyizu hādzihid-da'wata huwa anna lahā rūhāniyyatan dzāta anwārin sāthi'ātin yaksyifuhallāhu liman syā'a min 'ibādihil-mu'minīna, wa man dāwama 'alā qirā'atihā bihudhūri qalbihī ra'ā sirrallāhil-mūda'a fī āyāti kitābihī wa asbala 'alaihi katsīfa anwārihī, wad-da'watu hiya li-Āyatil-Kursiyyisy-syarīfati.
+Ikhwatī fillāhi adha'u lakumul-yauma da'watan min ahammid-da'awātil-muwashshilāti bi-idznillāhi ilā ḥadhratis-sādāti, wa mā yumayyizu hādzihid-da'wata huwa anna lahā rūḥāniyyatan dzāta anwārin sāthi'ātin yaksyifuhallāhu liman syā'a min 'ibādihil-mu'minīna, wa man dāwama 'alā qirā'atihā biḥudhūri qalbihī ra'ā sirrallāhil-mūda'a fī āyāti kitābihī wa asbala 'alaihi katsīfa anwārihī, wad-da'watu hiya li-Āyatil-Kursiyyisy-syarīfati.
 
-Bismillāhir-rahmānir-rahīmi.
+Bismillāhir-raḥmānir-raḥīmi.
 
-Al-hamdu lillāhil-ladzī khalaqal-'ālama wa yassaral-'ulūma wa ajral-aflāka wa sakhkharan-nujūma wastawā fī 'ilmihil-manthūqu wal-mafhūmu wa ya'lamul-amrazh-zhāhira wal-bāthina was-sirral-maktūma wa likulli hayyin 'indahū rizqun maqsūmun wa ajalun mahtūmun liyaumin ma'lūmin subhānahū huwallāhu lā ilāha illā huwal-Hayyul-Qayyūmu. Afnal-qurūnal-mādhiyata qauman ba'da qaumin wa abādad-duhūral-khāliyata yauman ba'da yaumin wa 'adala fī hukmihī falam yalhaqhu laumun subhānahū lā ta'khudzuhū sinatun wa lā naumun. Ta'abbadahul-barāyā fardhan ba'da fardhin wa ajzalal-'athāyā fa-afdhala fil-basthi wa 'adala fil-qabdhi wa huwal-Qābidhul-Bāsithu subhānahū lahū mā fis-samāwāti wa mā fil-ardhi. Asbala 'alal-'ushāti katsīfa sitrihī bijamīli fadhlihī wa mannihī wa sakkana rau'ātil-khā'ifīna minhu bi-amnihī wa manna 'alal-mu'minīna biluthfihī wa yassarath-thā'ata li'ibādihī bihusni 'aunihī wa taufīqihī subhānahū man dzal-ladzī yasyfa'u 'indahū illā bi-idznihī. Khalaqal-'ibāda wa razaqahum wa ahlar-rasyādi lithā'atihī waffaqahum wa limardhātihi-shhafāhum wajtabāhum wa syarrafahum wa ahlal-'inādi bi'adzābihī khawwafahum wa 'adzdzabahum subhānahū ya'lamu mā baina aidīhim wa mā khalfahum. Khalaqa mā syā'a kamā syā'a wakhtashsha man syā'a bimā syā'a wa nashara man syā'a bimā syā'a wa hakama 'alā man syā'a bimā syā'a wa qaddaral-asyyā'a kaifa syā'a wa yaf'alu fī mulkihī mā yasyā'u subhānahū wa lā yuhīthūna bisyai'in min 'ilmihī illā bimā syā'a. Mukawwinud-dāraini wa khāliquhumā wa munsyi'uts-tsaqalaini wa mālikuhumā Rabbul-masyriqaini wal-maghribaini wa mā bainahumā subhānahū wasi'a kursiyyuhus-samāwāti wal-ardha wa lā ya'ūduhū hifzhuhumā. Fatabārakallāhu Rabbunā Dzul-jalāli wal-ikrāmi ar-Rahmānur-Rahīmul-Hayyul-Qayyūmul-'Aliyyul-'Azhīmu lam yusyārik-hu ahadun fil-azali qadīmul-ihsāni khalaqal-jannata fa-a'addahā li'ibādihil-mu'minīna wa amaddahum fīhā bit-tan'īmi wa rahimahum wa qarrabahum wa akramahum fīhā bin-nazhari ilā wajhihil-karīmi wa khalaqan-nāra wa sammāhā bil-jahīmi wa a'addahā li-a'dā'ihī wa 'adzdzabahum fīhā bil-'adzābil-alīmi yudhillu man yasyā'u wa yahdī man yasyā'u ilā shirāthin mustaqīmin subhānahū wa huwal-'Aliyyul-'Azhīmu. Allāhumma shalli 'alā sayyidinā Muhammadin 'abdika wa rasūlikal-mukhtāri shāhibil-mu'jizāti wal-ātsāri wad-dalālāti wal-asrāri wal-karāmāti wal-anwāri shallallāhu 'alaihi wa 'alā ālihil-akhyāri wa 'alā shahābatihil-abrāri wat-tābi'īna lahum bi-ihsānin ilā yaumid-dīni. Allāhumma anzil 'alainā yā Rabbanā fī hādzihis-sā'ati wa fī kulli sā'atin min khairika wa barakātika afdhala mā anzaltahū 'alā 'ibādika wa auliyā'ika wa khashashta bihī ahibbā'aka wa ashfiyā'aka wa zhallilnā biridhā'i 'afwika wa ladzdzidznā bihalāwati maghfiratika wansyur 'alainā rahmatakal-latī wasi'ta bihā kulla syai'in warzuqnā minka mahabbatan wa qabūlan wa taubatan nashūhan wa inābatan wa ijābatan ta'ummul-hādhirīna wal-ghā'ibīna birahmatika yā Arhamar-rāhimīna yā Rabbal-'ālamīna. Allāhumma lā tukhayyibnā fīmā sa'alnāka wa lā tahrimnā fīmā rajaunāka wahfazhnā fil-mahyā wal-mamāti yā Qarību yā Samī'u yā Mujībad-da'awāti wa akrimnā bijamī'il-khairāti fa-innahū lā haula wa lā quwwata illā bika fī jamī'il-hālāti wa shallillāhumma 'alā sayyidinā Muhammadin wa 'alā ālihī wa sallim taslīman. Tammatid-da'watul-mubārakatu as'alullāhal-'Aliyyal-Qadīra an yanfa'akum bihā wa yusbila 'alaikum anwārahā innahū waliyyu dzālika wal-qādiru 'alaihi.
+Al-ḥamdu lillāhil-ladzī khalaqal-'ālama wa yassaral-'ulūma wa ajral-aflāka wa sakhkharan-nujūma wastawā fī 'ilmihil-manthūqu wal-mafhūmu wa ya'lamul-amrazh-zhāhira wal-bāthina was-sirral-maktūma wa likulli ḥayyin 'indahū rizqun maqsūmun wa ajalun maḥtūmun liyaumin ma'lūmin subḥānahū huwallāhu lā ilāha illā huwal-Ḥayyul-Qayyūmu. Afnal-qurūnal-mādhiyata qauman ba'da qaumin wa abādad-duhūral-khāliyata yauman ba'da yaumin wa 'adala fī ḥukmihī falam yalḥaqhu laumun subḥānahū lā ta'khudzuhū sinatun wa lā naumun. Ta'abbadahul-barāyā fardhan ba'da fardhin wa ajzalal-'athāyā fa-afdhala fil-basthi wa 'adala fil-qabdhi wa huwal-Qābidhul-Bāsithu subḥānahū lahū mā fis-samāwāti wa mā fil-ardhi. Asbala 'alal-'ushāti katsīfa sitrihī bijamīli fadhlihī wa mannihī wa sakkana rau'ātil-khā'ifīna minhu bi-amnihī wa manna 'alal-mu'minīna biluthfihī wa yassarath-thā'ata li'ibādihī biḥusni 'aunihī wa taufīqihī subḥānahū man dzal-ladzī yasyfa'u 'indahū illā bi-idznihī. Khalaqal-'ibāda wa razaqahum wa ahlar-rasyādi lithā'atihī waffaqahum wa limardhātihi-shhafāhum wajtabāhum wa syarrafahum wa ahlal-'inādi bi'adzābihī khawwafahum wa 'adzdzabahum subḥānahū ya'lamu mā baina aidīhim wa mā khalfahum. Khalaqa mā syā'a kamā syā'a wakhtashsha man syā'a bimā syā'a wa nashara man syā'a bimā syā'a wa ḥakama 'alā man syā'a bimā syā'a wa qaddaral-asyyā'a kaifa syā'a wa yaf'alu fī mulkihī mā yasyā'u subḥānahū wa lā yuḥīthūna bisyai'in min 'ilmihī illā bimā syā'a. Mukawwinud-dāraini wa khāliquhumā wa munsyi'uts-tsaqalaini wa mālikuhumā Rabbul-masyriqaini wal-maghribaini wa mā bainahumā subḥānahū wasi'a kursiyyuhus-samāwāti wal-ardha wa lā ya'ūduhū ḥifzhuhumā. Fatabārakallāhu Rabbunā Dzul-jalāli wal-ikrāmi ar-Raḥmānur-Raḥīmul-Ḥayyul-Qayyūmul-'Aliyyul-'Azhīmu lam yusyārik-hu aḥadun fil-azali qadīmul-iḥsāni khalaqal-jannata fa-a'addahā li'ibādihil-mu'minīna wa amaddahum fīhā bit-tan'īmi wa raḥimahum wa qarrabahum wa akramahum fīhā bin-nazhari ilā wajhihil-karīmi wa khalaqan-nāra wa sammāhā bil-jahīmi wa a'addahā li-a'dā'ihī wa 'adzdzabahum fīhā bil-'adzābil-alīmi yudhillu man yasyā'u wa yahdī man yasyā'u ilā shirāthin mustaqīmin subḥānahū wa huwal-'Aliyyul-'Azhīmu. Allāhumma shalli 'alā sayyidinā Muḥammadin 'abdika wa rasūlikal-mukhtāri shāḥibil-mu'jizāti wal-ātsāri wad-dalālāti wal-asrāri wal-karāmāti wal-anwāri shallallāhu 'alaihi wa 'alā ālihil-akhyāri wa 'alā shaḥābatihil-abrāri wat-tābi'īna lahum bi-iḥsānin ilā yaumid-dīni. Allāhumma anzil 'alainā yā Rabbanā fī hādzihis-sā'ati wa fī kulli sā'atin min khairika wa barakātika afdhala mā anzaltahū 'alā 'ibādika wa auliyā'ika wa khashashta bihī aḥibbā'aka wa ashfiyā'aka wa zhallilnā biridhā'i 'afwika wa ladzdzidznā bihalāwati maghfiratika wansyur 'alainā raḥmatakal-latī wasi'ta bihā kulla syai'in warzuqnā minka maḥabbatan wa qabūlan wa taubatan nashūhan wa inābatan wa ijābatan ta'ummul-ḥādhirīna wal-ghā'ibīna biraḥmatika yā Arhamar-rāhimīna yā Rabbal-'ālamīna. Allāhumma lā tukhayyibnā fīmā sa'alnāka wa lā tahrimnā fīmā rajaunāka waḥfazhnā fil-maḥyā wal-mamāti yā Qarību yā Samī'u yā Mujībad-da'awāti wa akrimnā bijamī'il-khairāti fa-innahū lā ḥaula wa lā quwwata illā bika fī jamī'il-ḥālāti wa shallillāhumma 'alā sayyidinā Muḥammadin wa 'alā ālihī wa sallim taslīman. Tammatid-da'watul-mubārakatu as'alullāhal-'Aliyyal-Qadīra an yanfa'akum bihā wa yusbila 'alaikum anwārahā innahū waliyyu dzālika wal-qādiru 'alaihi.
 
 Ikhwatī fillāhi arjū minkumul-ma'dzirata linisyānī 'adadat-tilāwati; wa lahā 3 a'dādin wa hum:
 7 au 11 au 49 wa kulluhā nāfi'atun bi-idznillāhi.
@@ -2570,7 +2597,7 @@ Wahai saudara-saudaraku karena Allah, aku memohon maaf kepada kalian atas kelupa
 ### latin
 
 Durūsu 'ilmi
-al-harfi wal-aufāqi
+al-ḥarfi wal-aufāqi
 asy-Syaikhil-Basyīri
 
 ### Terjemahan
@@ -2616,14 +2643,14 @@ Syeikh al-Basyir
 Fihrisu durūsisy-Syaikhil-Basyīri
 
 1. Mabādi'ul-aufāqi
-2. Kasyfus-sitāri 'anil-mutsallatsi wa mā yahmiluhū min asrārin
+2. Kasyfus-sitāri 'anil-mutsallatsi wa mā yaḥmiluhū min asrārin
 3. Itsbātul-jumlati listikhrāji asrārir-riyādhāti
 4. Itsbātul-jumlatiz-zā'idati listikhrāji asrārir-riyādhāti
 5. Qā'idatu-stikhrāji 'adadit-tilāwati likulli thālibin
 6. At-tiryāqu likulli thālibin lima'rifati asmā'il-Khāliqi
 7. Al-qā'idatush-shārimatu fi-stikhrājil-khādimis-sufliyyi
 8. Asrārur-rijāli fi-sti'māli āyātil-Qur'āni lithardil-jinni wasy-syaithāni
-9. Al-washful-mubīnu ba'da tamwīhil-mudda'īna fī kaifiyyati-stikhrājir-rūhāniyyi
+9. Al-washful-mubīnu ba'da tamwīhil-mudda'īna fī kaifiyyati-stikhrājir-rūḥāniyyi
 10. Al-jawābusy-syāfī
 
 ### Terjemahan
@@ -2678,13 +2705,13 @@ Daftar isi pelajaran-pelajaran Syeikh al-Basyir
 
 Mabādi'ul-aufāqi.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuhū.
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuhū.
 
-Ikhwatī fillāhi mā dumnā sanaftahu maudhū'al-aufāqi wajaba 'alainā awwalanil-wuqūfu 'inda hādzihil-umūril-latī lā takhlū min fā'idatin wa katsīran mā yaqa'ul-ikhwatu fī syirākihal-manshūbati min tharafil-jahalati wal-mudda'īna a'ādzanallāhu wa iyyākum minhum.
+Ikhwatī fillāhi mā dumnā sanaftaḥu maudhū'al-aufāqi wajaba 'alainā awwalanil-wuqūfu 'inda hādzihil-umūril-latī lā takhlū min fā'idatin wa katsīran mā yaqa'ul-ikhwatu fī syirākihal-manshūbati min tharafil-jahalati wal-mudda'īna a'ādzanallāhu wa iyyākum minhum.
 
-I'lamū ikhwatī fillāhi annal-aufāqa tanqasimu ilā qismaini harfiyyatin wa 'adadiyyatin wa likulli qismin minal-qismaini 6 thuruqin mukhtalifatin lakinnahā taltaqī fī martabati mā qablat-tashrīfi, wath-thuruqu 6 tanqasimu ilal-qismaini qismin zhāhiriyyin wa qismin bāthiniyyin hunā yaqa'ul-ikhtilāfut-tāmmu wa fīhi tazillul-aqdāmu, fal-qismuzh-zhāhiriyyu huwa fī haddi dzātihī zhāhirul-bāthini wa laisa minas-sahlil-wushūlu ilaihi illā ba'da dirāyatin syāmilatin, li-annahū yajma'u kullal-qawā'idil-harfiyyati wal-'adadiyyati wa lahū manfadzāni wahīdāni humā ma'rifatu-stibdālil-hurūfi wa tharīqatu wadh'il-haramil-harfiyyi listikhlāshil-'adadi wal-wazni bil-mīzānil-falsafiyyil-mutadāwali wal-ma'rūfi illā anna hunāka fīhi-khtilāfun haitsu takūnu marātibuhū 7 ahaduhā sālibun wa ahaduhā mūjabun ayiz-zā'idu wan-nāqishu wa dzālika yakhtalifu bikhtilāfil-'amalil-mathlūbi wa hādzihī qimmatul-'ilmil-harfiyyizh-zhāhiri, ammā tharīqatul-bāthini fahiya kadzālika harfiyyatun wa 'adadiyyatun fal-harfiyyatu ta'tamidu 'alā qawā'ida muhimmatin lā budda likulli thālibinil-wuqūfu 'alaihā wa hiya ma'rifatul-hurūfi 'alā hādzat-tafshīli, [ an-nāriyyatu at-turābiyyatu al-hawā'iyyatu al-mā'iyyatu an-nūrāniyyatu azh-zhulmāniyyatu al-'ulwiyyatu as-sufliyyatu adz-dzukūru al-inātsu at-tawāludu al-abnā'u al-ahfādu istibdālul-harfi bil-harfi as-sālibatu fil-ashli al-mūjabatu fil-ashli tartībul-hurūfi tsummal-wadh'u tsumma laqthul-hurūfi wa rabthuhā ] wa hādzā ruknun asāsun makhfiyyun wa hunā tabda'ul-masyākilush-shi'ābu wa hiya lā tahtāju illā litadabburin birawiyyatin wa ta'annin lil-wuqūfi 'alaihā, ammal-aufāqul-'adadiyyatu lahā nafsul-mathālibi lil-aufāqil-harfiyyati illā-khtilāfun wāhidun wa huwa-nqilābul-harfi ilā 'adadin wastinhtāqul-'adadi listikhlāshi thab'in mu'ayyanin immā minhu au min tawāludihī ma'a murā'ātil-wadh'i wath-thab'i wa rabthil-buyūti liyatimmal-wafqu bi-idznillāhil-Wāhidil-Qahhāri.
+I'lamū ikhwatī fillāhi annal-aufāqa tanqasimu ilā qismaini ḥarfiyyatin wa 'adadiyyatin wa likulli qismin minal-qismaini 6 thuruqin mukhtalifatin lakinnahā taltaqī fī martabati mā qablat-tashrīfi, wath-thuruqu 6 tanqasimu ilal-qismaini qismin zhāhiriyyin wa qismin bāthiniyyin hunā yaqa'ul-ikhtilāfut-tāmmu wa fīhi tazillul-aqdāmu, fal-qismuzh-zhāhiriyyu huwa fī ḥaddi dzātihī zhāhirul-bāthini wa laisa minas-sahlil-wushūlu ilaihi illā ba'da dirāyatin syāmilatin, li-annahū yajma'u kullal-qawā'idil-ḥarfiyyati wal-'adadiyyati wa lahū manfadzāni wahīdāni humā ma'rifatu-stibdālil-ḥurūfi wa tharīqatu wadh'il-haramil-ḥarfiyyi listikhlāshil-'adadi wal-wazni bil-mīzānil-falsafiyyil-mutadāwali wal-ma'rūfi illā anna hunāka fīhi-khtilāfun ḥaitsu takūnu marātibuhū 7 aḥaduhā sālibun wa aḥaduhā mūjabun ayiz-zā'idu wan-nāqishu wa dzālika yakhtalifu bikhtilāfil-'amalil-mathlūbi wa hādzihī qimmatul-'ilmil-ḥarfiyyizh-zhāhiri, ammā tharīqatul-bāthini fahiya kadzālika ḥarfiyyatun wa 'adadiyyatun fal-ḥarfiyyatu ta'tamidu 'alā qawā'ida muhimmatin lā budda likulli thālibinil-wuqūfu 'alaihā wa hiya ma'rifatul-ḥurūfi 'alā hādzat-tafshīli, [ an-nāriyyatu at-turābiyyatu al-hawā'iyyatu al-mā'iyyatu an-nūrāniyyatu azh-zhulmāniyyatu al-'ulwiyyatu as-sufliyyatu adz-dzukūru al-inātsu at-tawāludu al-abnā'u al-aḥfādu istibdālul-ḥarfi bil-ḥarfi as-sālibatu fil-ashli al-mūjabatu fil-ashli tartībul-ḥurūfi tsummal-wadh'u tsumma laqthul-ḥurūfi wa rabthuhā ] wa hādzā ruknun asāsun makhfiyyun wa hunā tabda'ul-masyākilush-shi'ābu wa hiya lā taḥtāju illā litadabburin birawiyyatin wa ta'annin lil-wuqūfi 'alaihā, ammal-aufāqul-'adadiyyatu lahā nafsul-mathālibi lil-aufāqil-ḥarfiyyati illā-khtilāfun wāḥidun wa huwa-nqilābul-ḥarfi ilā 'adadin wastinhtāqul-'adadi listikhlāshi thab'in mu'ayyanin immā minhu au min tawāludihī ma'a murā'ātil-wadh'i wath-thab'i wa rabthil-buyūti liyatimmal-wafqu bi-idznillāhil-Wāḥidil-Qahhāri.
 
-Wal-a'mālul-harfiyyatu wal-wafqiyyatu [ 3 marātiba wa arjul-wuqūfa 'alā hādzihil-jumlati jayyidan wa dirāsatahā bitadabburin ]:
+Wal-a'mālul-ḥarfiyyatu wal-wafqiyyatu [ 3 marātiba wa arjul-wuqūfa 'alā hādzihil-jumlati jayyidan wa dirāsatahā bitadabburin ]:
 Idzā kānal-'amalu thālibun wa mathlūbun: 3 nūrāniyyatun wa 2 zhulmāniyyatun.
 Idzā kānal-'amalu thālibun wa thalabun: 5 nūrāniyyatun.
 Idzā kānal-'amalu mathlūbun wa thalabun: 5 zhulmāniyyatun.
@@ -2746,56 +2773,44 @@ Mabādi'ul-aufāqi
 
 Wal-mutsallatsu huwa:
 
-| ٢ | ٩ | ٤ |
-|---|---|---|
-| ٧ | ٥ | ٣ |
-| ٦ | ١ | ٨ |
-
 [Wafaq Musallas Thabī'ī 3×3 — Asror Angka Arab, tidak dilatinkan]
-
 ### Terjemahan
 
 Prinsip-prinsip dasar ilmu wafaq
 
 Adapun wafaq musallas (3×3 alami) itu adalah:
 
-| ٢ | ٩ | ٤ |
-|---|---|---|
-| ٧ | ٥ | ٣ |
-| ٦ | ١ | ٨ |
-
 [Wafaq Musallas Thabī'ī 3×3 — Asror Angka Arab, tidak diterjemahkan]
-
 ### Syarah dan Penjelasan
 
 1. **Hisab Matriks *Al-Mutsallatsuth-Thabī'ī* (Konstanta 15)**:
-‎     - **Baris 1 (kanan→kiri)**: `٢ | ٩ | ٤` = **١٥ (15)**
-‎     - **Baris 2 (kanan→kiri)**: `٧ | ٥ | ٣` = **١٥ (15)**
-‎     - **Baris 3 (kanan→kiri)**: `٦ | ١ | ٨` = **١٥ (15)**
-‎     - **Kolom Kanan**: `٢ + ٧ + ٦ = ١٥`
-‎     - **Kolom Tengah**: `٩ + ٥ + ١ = ١٥`
-‎     - **Kolom Kiri**: `٤ + ٣ + ٨ = ١٥`
-‎     - **Diagonal 1**: `٢ + ٥ + ٨ = ١٥`
-‎     - **Diagonal 2**: `٤ + ٥ + ٦ = ١٥`
+‎   - **Baris 1 (kanan→kiri)**: `٢ | ٩ | ٤` = **١٥ (15)**
+‎   - **Baris 2 (kanan→kiri)**: `٧ | ٥ | ٣` = **١٥ (15)**
+‎   - **Baris 3 (kanan→kiri)**: `٦ | ١ | ٨` = **١٥ (15)**
+‎   - **Kolom Kanan**: `٢ + ٧ + ٦ = ١٥`
+‎   - **Kolom Tengah**: `٩ + ٥ + ١ = ١٥`
+‎   - **Kolom Kiri**: `٤ + ٣ + ٨ = ١٥`
+‎   - **Diagonal 1**: `٢ + ٥ + ٨ = ١٥`
+‎   - **Diagonal 2**: `٤ + ٥ + ٦ = ١٥`
 
 2. **Kedudukan *Al-Mutsallatsuth-Thabī'ī* sebagai Ibu Seluruh Wafaq**:
 ‎   - Sembilan angka (`١` s.d. `٩`) di dalam Musallas Thabī'ī ini mewakili 9 huruf pertama susunan *Abjad*:
-‎     - **`١`** = `ا` (*Alif*), **`٢`** = `ب` (*Bā'*), **`٣`** = `ج` (*Jīm*), **`٤`** = `د` (*Dāl*), **`٥`** = `ه` (*Hā'* — titik pusat/qalb), **`٦`** = `و` (*Wāw*), **`٧`** = `ز` (*Zāy*), **`٨`** = `ح` (*Hā'*), **`٩`** = `ط` (*Thā'*).
+‎   - **`١`** = `ا` (*Alif*), **`٢`** = `ب` (*Bā'*), **`٣`** = `ج` (*Jīm*), **`٤`** = `د` (*Dāl*), **`٥`** = `ه` (*Hā'* — titik pusat/qalb), **`٦`** = `و` (*Wāw*), **`٧`** = `ز` (*Zāy*), **`٨`** = `ح` (*Hā'*), **`٩`** = `ط` (*Thā'*).
 ‎   - Empat sudutnya diisi oleh angka-angka genap (`٢، ٤، ٦، ٨` = **`ب د و ح`** / *Budūh*), sedangkan palang tengah vertikal dan horizontalnya diisi oleh angka-angka ganjil (`١، ٣، ٥، ٧، ٩` = **`ا ج ه ز ط`**), yang rahasia penciptaannya segera disingkapkan oleh Syeikh al-Basyir pada Halaman 47.
 
 ### Khususiyah dan Tatacara Praktik
 
 1. **Acuan Urutan Pengisian Kamar (*Tartībul-Buyūt*)**:
 ‎   - Urutan angka `١` sampai `٩` pada *Musallas Thabī'ī* di Halaman 46 ini adalah **peta urutan pengisian baku (*sairul-mutsallats*)** untuk seluruh wafaq 3×3 di dalam kitab:
-‎     - Kamar 1 (*Miftāh*): Bawah-Tengah (`١`)
-‎     - Kamar 2: Atas-Kanan (`٢`)
-‎     - Kamar 3: Tengah-Kiri (`٣`)
-‎     - Kamar 4: Atas-Kiri (`٤`)
-‎     - Kamar 5 (*Qalb*): Pusat/Tengah (`٥`)
-‎     - Kamar 6: Bawah-Kanan (`٦`)
-‎     - Kamar 7: Tengah-Kanan (`٧`)
-‎     - Kamar 8: Bawah-Kiri (`٨`)
-‎     - Kamar 9 (*Maghlāq*): Atas-Tengah (`٩`)
+‎   - Kamar 1 (*Miftāh*): Bawah-Tengah (`١`)
+‎   - Kamar 2: Atas-Kanan (`٢`)
+‎   - Kamar 3: Tengah-Kiri (`٣`)
+‎   - Kamar 4: Atas-Kiri (`٤`)
+‎   - Kamar 5 (*Qalb*): Pusat/Tengah (`٥`)
+‎   - Kamar 6: Bawah-Kanan (`٦`)
+‎   - Kamar 7: Tengah-Kanan (`٧`)
+‎   - Kamar 8: Bawah-Kiri (`٨`)
+‎   - Kamar 9 (*Maghlāq*): Atas-Tengah (`٩`)
 
 ## HALAMAN 47 — كَشْفُ السِّتَارِ عَنِ الْمُثَلَّثِ وَمَا يَحْمِلُهُ مِنْ أَسْرَارٍ
 
@@ -2817,19 +2832,19 @@ Adapun wafaq musallas (3×3 alami) itu adalah:
 
 ### latin
 
-Kasyfus-sitāri 'anil-mutsallatsi wa mā yahmiluhū min asrārin.
+Kasyfus-sitāri 'anil-mutsallatsi wa mā yaḥmiluhū min asrārin.
 
-As-salāmu 'alaikum wa rahmatullāhi wa barakātuhū, ikhwatī fillāhi nabda'u 'alā barakatillāhi fid-darsil-awwalil-khāshshi bil-wafqil-mutsallatsi.
-Na'lamu jamī'an annal-mutsallatsa yahtawī 'alā 9 hurūfin minhā nūrāniyyatun wa zhulmāniyyatun wa afrādun wa azwājun wa khafīfatun wa tsaqīlatun.
+As-salāmu 'alaikum wa raḥmatullāhi wa barakātuhū, ikhwatī fillāhi nabda'u 'alā barakatillāhi fid-darsil-awwalil-khāshshi bil-wafqil-mutsallatsi.
+Na'lamu jamī'an annal-mutsallatsa yaḥtawī 'alā 9 ḥurūfin minhā nūrāniyyatun wa zhulmāniyyatun wa afrādun wa azwājun wa khafīfatun wa tsaqīlatun.
 
 ‎An-nūrāniyyatu [ ا ه ط ح ]
 ‎Azh-zhulmāniyyatu [ ب ج د و ز ]
 ‎Al-afrādu [ ا ج ه ز ط ]
 ‎Al-azwāju [ ب د و ح ]
-Al-khafīfatu [ hiyal-hurūfun-nāriyyatu wal-hawā'iyyatu ]
-Ats-tsaqīlatu [ hiyal-hurūfut-turābiyyatu wal-mā'iyyatu ]
+Al-khafīfatu [ hiyal-ḥurūfun-nāriyyatu wal-hawā'iyyatu ]
+Ats-tsaqīlatu [ hiyal-ḥurūfut-turābiyyatu wal-mā'iyyatu ]
 
-Wa'lamū ikhwatī fillāhi annal-hurūfal-afrāda ashlun fil-mutsallatsi wal-hurūfal-azwāja far'un fil-mutsallatsi tustakhraju wa tatawalladu minal-hurūfil-afrādi, wa arjū tahkīma 'uqūlikum wa an tatama''anū fī āyātillāhi wa fī bad'i khalqi Ādama wa umminā Hawwā'a 'alaihimās-salāmu, fakatsīrun minath-thullābi yamurru 'alā hādzihil-mas'alati marral-kirāmi ma'a annahū ya'lamu annallāha Subhānahū wa Ta'ālā khalaqa Ādama 'alaihis-salāmu min turābin wa khalaqa Hawwā'a min dhil'i Ādama fahādzihil-āyatu sirrullāhi Subhānahū wa Ta'ālā fī hādzal-'ilmil-ladzī nahnu bishadadihī, qultul-azwāju tustakhraju minal-afrādi wa ilaikumut-tafshīlu.
+Wa'lamū ikhwatī fillāhi annal-ḥurūfal-afrāda ashlun fil-mutsallatsi wal-ḥurūfal-azwāja far'un fil-mutsallatsi tustakhraju wa tatawalladu minal-ḥurūfil-afrādi, wa arjū taḥkīma 'uqūlikum wa an tatama''anū fī āyātillāhi wa fī bad'i khalqi Ādama wa umminā Hawwā'a 'alaihimās-salāmu, fakatsīrun minath-thullābi yamurru 'alā hādzihil-mas'alati marral-kirāmi ma'a annahū ya'lamu annallāha Subḥānahū wa Ta'ālā khalaqa Ādama 'alaihis-salāmu min turābin wa khalaqa Hawwā'a min dhil'i Ādama fahādzihil-āyatu sirrullāhi Subḥānahū wa Ta'ālā fī hādzal-'ilmil-ladzī naḥnu bishadadihī, qultul-azwāju tustakhraju minal-afrādi wa ilaikumut-tafshīlu.
 
 ### Terjemahan
 
@@ -2889,12 +2904,7 @@ Dan ketahuilah wahai saudara-saudaraku karena Allah, bahwa huruf-huruf Afrād (g
 
 ### latin
 
-Kasyfus-sitāri 'anil-mutsallatsi wa mā yahmiluhū min asrārin.
-
-|   | ط |   |
-|---|---|---|
-| ز | ه | ج |
-|   | أ |   |
+Kasyfus-sitāri 'anil-mutsallatsi wa mā yaḥmiluhū min asrārin.
 
 [Wafaq Musallas Palang al-Afrād 3×3 — Asror Huruf Arab, tidak dilatinkan]
 
@@ -2902,18 +2912,12 @@ Kasyfus-sitāri 'anil-mutsallatsi wa mā yahmiluhū min asrārin.
 ‎[ ط ] + [ ز ] = 16 maqsūmun 2 = 8 [ ح ]
 ‎[ ج ] + [ ا ] = 4 maqsūmun 2 = 2 [ ب ]
 ‎[ ا ] + [ ز ] = 8 maqsūmun 2 = 4 [ د ]
-Hunā-ktamala-stikhrājul-azwāji minal-afrādi, falā tamurrū marral-kirāmi famā wadha'tuhū lakum huwal-qā'idatul-ūlā fith-tharīqatil-latī nahnu bishadadihā wa lā budda minal-i'timādi 'alā hādzihil-qā'idati fil-wadh'il-awwali minal-mutsallatsi, wa'lamū anna hādzihī tharīqatun limadkhalil-khairi.
-Ammā madkhalud-daf'i bi'aksil-ūlā ai yakūnul-wadh'u bil-azwāji wa tustakhrajul-afrādu minal-azwāji fayakhruju baitul-Qalami wal-Lauhi min zhāhiri buyūtin-nāri wat-turābi wal-mā'i wal-hawā'i, wal-Kursiyyu wal-'Arsyu yakhrujāni min bāthini buyūtil-mā'i wat-turābi wal-quthbi wa dzālika lisyarafil-baitaini wa qīmatihimā wa ilaikumut-tafshīlu ikhwatī fillāhi,
-‎Awaddul-isyārata qabla dzālika anna mu'zhamath-thullābi tarassakhat fī adzhānihim hādzihil-jumlatu [ اجهزط lisy-syarri, fakaifa yakūnu dzālika wa hiya hurūfu jalālin ] wa [ بدوح lil-khairi ] wa hādzā laisa bishahīhin idz anna [ اجهزط ] lil-khairi wa [ بدوح ] lisy-syarri.
-
+Hunā-ktamala-stikhrājul-azwāji minal-afrādi, falā tamurrū marral-kirāmi famā wadha'tuhū lakum huwal-qā'idatul-ūlā fith-tharīqatil-latī naḥnu bishadadihā wa lā budda minal-i'timādi 'alā hādzihil-qā'idati fil-wadh'il-awwali minal-mutsallatsi, wa'lamū anna hādzihī tharīqatun limadkhalil-khairi.
+Ammā madkhalud-daf'i bi'aksil-ūlā ai yakūnul-wadh'u bil-azwāji wa tustakhrajul-afrādu minal-azwāji fayakhruju baitul-Qalami wal-Lauḥi min zhāhiri buyūtin-nāri wat-turābi wal-mā'i wal-hawā'i, wal-Kursiyyu wal-'Arsyu yakhrujāni min bāthini buyūtil-mā'i wat-turābi wal-quthbi wa dzālika lisyarafil-baitaini wa qīmatihimā wa ilaikumut-tafshīlu ikhwatī fillāhi,
+‎Awaddul-isyārata qabla dzālika anna mu'zhamath-thullābi tarassakhat fī adzhānihim hādzihil-jumlatu [ اجهزط lisy-syarri, fakaifa yakūnu dzālika wa hiya ḥurūfu jalālin ] wa [ بدوح lil-khairi ] wa hādzā laisa bishaḥīḥin idz anna [ اجهزط ] lil-khairi wa [ بدوح ] lisy-syarri.
 ### Terjemahan
 
 Penyingkapan tabir tentang wafaq musallas (3×3) dan rahasia-rahasia yang dikandungnya.
-
-|   | ط |   |
-|---|---|---|
-| ز | ه | ج |
-|   | أ |   |
 
 [Wafaq Musallas Palang al-Afrād 3×3 — Asror Huruf Arab, tidak diterjemahkan]
 
@@ -2924,7 +2928,6 @@ Penyingkapan tabir tentang wafaq musallas (3×3) dan rahasia-rahasia yang dikand
 Di sinilah telah sempurna pengeluaran (ekstraksi) huruf-huruf Azwāj (genap) dari huruf-huruf Afrād (ganjil). Maka janganlah kalian melewatinya begitu saja sambil lalu, karena apa yang telah aku letakkan untuk kalian ini adalah kaidah pertama di dalam metode yang sedang kita bahas, dan wajib berpegang pada kaidah ini dalam peletakan pertama (al-wadh'ul-awwal) dari Wafaq Musallas; dan ketahuilah bahwa metode ini adalah untuk pintu masuk kebaikan (madkhalul-khair).
 Adapun pintu masuk penolakan/penangkisan (madkhalud-daf') adalah kebalikan dari yang pertama, yakni peletakannya dimulai dengan huruf-huruf Azwāj (genap), lalu huruf-huruf Afrād (ganjil) dikeluarkan dari huruf-huruf Azwāj tersebut. Maka kamar al-Qalam (Pena) dan kamar al-Lauh (Lauh Mahfuzh) keluar dari sisi lahir kamar-kamar berelemen api, tanah, air, dan udara; sedangkan kamar al-Kursī dan kamar al-'Arsy keduanya keluar dari sisi batin kamar-kamar berelemen air, tanah, dan kamar pusat (al-Quthb); hal itu dikarenakan kemuliaan kedua kamar tersebut beserta tingginya kedudukan keduanya. Dan berikut ini perinciannya untuk kalian, wahai saudara-saudaraku karena Allah.
 ‎Sebelum itu, aku ingin memberikan isyarat penting bahwa sebagian besar penuntut ilmu telah tertancap kuat di dalam benak mereka ungkapan ini: [ اجهزط adalah untuk keburukan (syarr) — padahal bagaimana mungkin demikian sedangkan ia adalah huruf-huruf keagungan (hurūfu jalāl)? ] dan [ بدوح adalah untuk kebaikan (khair) ]. Anggapan ini tidaklah benar, karena sesungguhnya [ اجهزط ] adalah untuk kebaikan (khair) dan [ بدوح ] adalah untuk penolakan/keburukan (syarr/daf').
-
 ### Syarah dan Penjelasan
 
 ‎1. **Rumus Matematis Melahirkan 4 Sudut *Azwāj* (`ب د و ح`) dari 5 Palang *Afrād* (`ا ج ه ز ط`)**:
@@ -2971,30 +2974,19 @@ Adapun pintu masuk penolakan/penangkisan (madkhalud-daf') adalah kebalikan dari 
 
 ### latin
 
-Kasyfus-sitāri 'anil-mutsallatsi wa mā yahmiluhū min asrārin.
-
-| ب |   | د |
-|---|---|---|
-|   | ه |   |
-| و |   | ح |
+Kasyfus-sitāri 'anil-mutsallatsi wa mā yaḥmiluhū min asrārin.
 
 [Wafaq Musallas Sudut al-Azwāj & Quthb 3×3 — Asror Huruf Arab, tidak dilatinkan]
 
 ‎[ ح ] + [ و ] = 14 maqsūmun 2 = 7 [ ز ]
-‎[ ب ] + [ د ] = 6 maqsūmun 2 = 3 [ ج ] baqiya lanā baitul-Kursiyyi wal-'Arsyi fahumā yakhrujāni min bāthinit-turābi wal-mā'i wal-quthbi ai min tawāludihim, [ ه + ibnuhā ] nāqishun hafīdul-mā'i = al-Kursiyyu
+‎[ ب ] + [ د ] = 6 maqsūmun 2 = 3 [ ج ] baqiya lanā baitul-Kursiyyi wal-'Arsyi fahumā yakhrujāni min bāthinit-turābi wal-mā'i wal-quthbi ai min tawāludihim, [ ه + ibnuhā ] nāqishun ḥafīdul-mā'i = al-Kursiyyu
 ‎[ د + ح ] nāqishun ibnul-quthbi = al-'Arsyu
-‎[ ه ] + 1 = 2 nāqishun 1 hafīdul-mā'i = 1 [ أ ] al-Kursiyyu
+‎[ ه ] + 1 = 2 nāqishun 1 ḥafīdul-mā'i = 1 [ أ ] al-Kursiyyu
 ‎[ د ] + [ ح ] = 10 nāqishun 1 ibnul-quthbi = 9 [ ط ] al-'Arsyu
-Hunā-ktamala-stikhrājul-afrādi wal-azwāji wa tammal-wadh'ul-awwalu limutsallatsid-daf'i, wa likai lā tabqal-umūru mubhamatan-stakhrijū tawāludal-hurūfi kullihā wal-'amaliyyatu kattālī [ iqsimūl-hurūfa 'alā 2, 3, 4, 5, 6, 7, 8, 9, 10 ] wa khudzul-a'dādal-latī tu'abbiru 'an harfin wāhidin fahiyal-mu'tamadu 'alaihā.
-
+Hunā-ktamala-stikhrājul-afrādi wal-azwāji wa tammal-wadh'ul-awwalu limutsallatsid-daf'i, wa likai lā tabqal-umūru mubhamatan-stakhrijū tawāludal-ḥurūfi kullihā wal-'amaliyyatu kattālī [ iqsimūl-ḥurūfa 'alā 2, 3, 4, 5, 6, 7, 8, 9, 10 ] wa khudzul-a'dādal-latī tu'abbiru 'an ḥarfin wāḥidin fahiyal-mu'tamadu 'alaihā.
 ### Terjemahan
 
 Penyingkapan tabir tentang wafaq musallas (3×3) dan rahasia-rahasia yang dikandungnya.
-
-| ب |   | د |
-|---|---|---|
-|   | ه |   |
-| و |   | ح |
 
 [Wafaq Musallas Sudut al-Azwāj & Quthb 3×3 — Asror Huruf Arab, tidak diterjemahkan]
 
@@ -3004,7 +2996,6 @@ Penyingkapan tabir tentang wafaq musallas (3×3) dan rahasia-rahasia yang dikand
 ‎[ ه ] + 1 = 2 dikurangi 1 (cucu elemen air) = 1 [ أ ] [Rajah Huruf — tidak diterjemahkan] (kamar al-Kursī).
 ‎[ د ] + [ ح ] = 10 dikurangi 1 (anak dari al-Quthb) = 9 [ ط ] [Rajah Huruf — tidak diterjemahkan] (kamar al-'Arsy).
 Di sinilah telah sempurna pengeluaran (ekstraksi) huruf-huruf Afrād (ganjil) dan Azwāj (genap), serta telah sempurna peletakan pertama (al-wadh'ul-awwal) untuk Wafaq Musallas Penolakan (Mutsallatsud-Daf'). Dan agar perkara-perkara ini tidak tetap samar (membingungkan), maka keluarkanlah hasil perkembangbiakan (tawālud: anak dan cucu) dari seluruh huruf tersebut; adapun cara pengerjaannya adalah sebagai berikut: [ bagilah nilai huruf-huruf itu dengan angka 2, 3, 4, 5, 6, 7, 8, 9, 10 ], lalu ambillah hasil bilangan bulat yang menyatakan satu huruf tunggal, karena itulah yang dijadikan pegangan.
-
 ### Syarah dan Penjelasan
 
 1. **Bedah Rumus *Mutsallatsud-Daf'* (Melahirkan *Afrād* dari *Azwāj* & *Tawālud*)**:
@@ -3042,11 +3033,11 @@ Di sinilah telah sempurna pengeluaran (ekstraksi) huruf-huruf Afrād (ganjil) da
 
 Itsbātul-jumlati listikhrāji asrārir-riyādhāti.
 
-Ikhwatī fillāhi ilaikum qā'idata kaifiyyati-stikhrāji muddatir-riyādhati wa 'adadit-tilāwati wa bimā annahā tahtawī 'alā qawā'ida harfiyyatin jammatin wadha'tuhā fī qismil-hurūfi wal-aufāqi wa hiya tanqasimu ilā qismaini lidzālika wadha'tu hādzal-qismal-awwala hattā yattadhiha lakum tsumma na'tī bittālī wallāhul-Muwaffiqu, i'lamū ikhwatī fillāhi lā budda min itsbāti-smith-thālibi fī 9 hurūfin faqath sawā'un kāna nāqishan au zā'idan 'alal-hurūfi 9, fa-in kānatil-jumlatu nāqishatan biharfin wāhidin nudhīfu lahā [ al-alifa ] abadan ammā in kānat nāqishatan bi-aktsara min harfin kaharfaini matsalan narji'u ilal-harfits-tsānī minal-jumlati wa nabsuthuhū basthan kabīran wa na'khudzu minhul-hurūfal-latī ba'dat-ta'rīfi wa nudhīfuhā ilal-jumlati tashīru qā'imatan mustawiyatan fī hurūfihā 9 wa hākadzal-'amalu dā'iman fil-jumlatin-nāqishati mitsālun,
-‎[ ح س ن ف ا ط م ه ] , nāqishatun biharfin wāhidin nudhīfu lahā [ أ ] tashīru hākadzā [ ح س ن ف ا ط م ه أ ]
+Ikhwatī fillāhi ilaikum qā'idata kaifiyyati-stikhrāji muddatir-riyādhati wa 'adadit-tilāwati wa bimā annahā taḥtawī 'alā qawā'ida ḥarfiyyatin jammatin wadha'tuhā fī qismil-ḥurūfi wal-aufāqi wa hiya tanqasimu ilā qismaini lidzālika wadha'tu hādzal-qismal-awwala ḥattā yattadhiḥa lakum tsumma na'tī bittālī wallāhul-Muwaffiqu, i'lamū ikhwatī fillāhi lā budda min itsbāti-smith-thālibi fī 9 ḥurūfin faqath sawā'un kāna nāqishan au zā'idan 'alal-ḥurūfi 9, fa-in kānatil-jumlatu nāqishatan biḥarfin wāḥidin nudhīfu lahā [ al-alifa ] abadan ammā in kānat nāqishatan bi-aktsara min ḥarfin kaḥarfaini matsalan narji'u ilal-ḥarfits-tsānī minal-jumlati wa nabsuthuhū basthan kabīran wa na'khudzu minhul-ḥurūfal-latī ba'dat-ta'rīfi wa nudhīfuhā ilal-jumlati tashīru qā'imatan mustawiyatan fī ḥurūfihā 9 wa hākadzal-'amalu dā'iman fil-jumlatin-nāqishati mitsālun,
+‎[ ح س ن ف ا ط م ه ] , nāqishatun biḥarfin wāḥidin nudhīfu lahā [ أ ] tashīru hākadzā [ ح س ن ف ا ط م ه أ ]
 Mitsālun ākharu,
-‎[ ح س ن م ر ي م ] , nāqishatun biharfaini na'khudzul-harfats-tsāniya [ س ] nabsuthuhū hākadzā [ ا ل س ي ن ] na'khudzu minhu [ س ن ] nudhīfuhā lil-jumlati tashīru hākadzā [ ح س ن م ر ي م س ن ] mitsālun ākharu, [ ح س ن ه ن د ] . Nāqishatun bi 3 hurūfin na'khudzul-harfa 3 minal-jumlati mabsūthan hākadzā [ ا ل ن و ن ] na'khudzul-hurūfal-latī ba'dat-ta'rīfi [ ن و ن ] nudhīfuhā lil-jumlati hākadzā,
-‎[ ح س ن ه ن د ن و ن ] fashāratil-jumlatu mustawiyatan fī 9 ahrufin. Hādzā fī mā yakhushshul-jumalan-nāqishata ammal-jumaluz-zā'idatu falahā qā'idatun khāshshatun sha'batun syai'an mā li-anna badala ziyādatil-hurūfi nahdzifuhā wa lā budda lanā an na'rifa aulawiyyatal-hadzfi fil-hurūfiz-zā'idati 'an 9 wa sanathrahuhā in syā'allāhu mubassathatan mufashshalatan hattā tastathī'ū ikhwatī fahmahā wallāhul-Muwaffiqu limā yuhibbuhū wa yardhāhu was-salāmu.
+‎[ ح س ن م ر ي م ] , nāqishatun biḥarfaini na'khudzul-ḥarfats-tsāniya [ س ] nabsuthuhū hākadzā [ ا ل س ي ن ] na'khudzu minhu [ س ن ] nudhīfuhā lil-jumlati tashīru hākadzā [ ح س ن م ر ي م س ن ] mitsālun ākharu, [ ح س ن ه ن د ] . Nāqishatun bi 3 ḥurūfin na'khudzul-ḥarfa 3 minal-jumlati mabsūthan hākadzā [ ا ل ن و ن ] na'khudzul-ḥurūfal-latī ba'dat-ta'rīfi [ ن و ن ] nudhīfuhā lil-jumlati hākadzā,
+‎[ ح س ن ه ن د ن و ن ] fashāratil-jumlatu mustawiyatan fī 9 aḥrufin. Hādzā fī mā yakhushshul-jumalan-nāqishata ammal-jumaluz-zā'idatu falahā qā'idatun khāshshatun sha'batun syai'an mā li-anna badala ziyādatil-ḥurūfi naḥdzifuhā wa lā budda lanā an na'rifa aulawiyyatal-ḥadzfi fil-ḥurūfiz-zā'idati 'an 9 wa sanathraḥuhā in syā'allāhu mubassathatan mufashshalatan ḥattā tastathī'ū ikhwatī fahmahā wallāhul-Muwaffiqu limā yuḥibbuhū wa yardhāhu was-salāmu.
 
 ### Terjemahan
 
@@ -3096,10 +3087,10 @@ Contoh yang lain:
 
 Itsbātul-jumlatiz-zā'idati listikhrāji asrārir-riyādhāti.
 
-Ikhwatī fillāhi ba'da mā 'araftum kaifiyyata itsbātil-jumlatin-nāqishati, mararnā ilā wadh'i tharīqati itsbātil-jumlatiz-zā'idati 'an tis'ati ahrufin.
-I'lamū ikhwatī fillāhi annahū idzā kānatil-jumlatu zā'idatan 'alā tis'ati ahrufin wajaba 'alainā hadzful-hurūfiz-zā'idati ma'a murā'āti aulawiyyatil-hadzfi minal-hurūfi, ka-ālatit-ta'rīfi in kānal-ismu mu'arrafan wa tā'it-ta'nītsi wa hurūfil-maddi wa harfayil-bā'i wad-dāli min [ 'Abdi ] wa itsbāti harfil-'aini li-annahū harfun dāllun 'alal-'ubūdiyyati wa tarki mā tarakkaba minal-ismi ini-dhthurirnā lidzālika ka-ismi [ Fāthimataz-Zahrā'i ] yumkinu hadzfuz-Zahrā'i marratan wāhidatan in kānat-isma ummisy-syakhshi ammā in kānat-ismasy-syakhshi nurā'ī fīhā mā taqaddama minal-qawā'idil-harfiyyati, wa kadzālika kullu-smin tarakkaba bistitsnā'i Abā Jumu'ata au Abā Syu'aibin li-annat-tarkība hunā dāllun 'alā laqabin wa kadzālika tarku mā takarrara minal-hurūfi in baqiyatil-jumlatu zā'idatan, wa tarkul-hurūfil-akbari kammiyyatan hādzā thab'an in lam tastaqirral-jumlatu ba'dal-hudzūfātis-sābiqati.
-Mitsālun kānasy-syakhshu ismuhū wasmu ummihī hākadzā [ 'Abdul-Khāliqi Fāthimatuz-Zahrā'u ] = 21 harfan.
-‎Nahdzifuz-Zahrā'a li-annahā murakkabatun wa [ ال ] at-ta'rīfi wa [ ب ، د ] [Rajah Huruf — tidak diterjemahkan] min 'Abdin, wa tā'at-ta'nītsi min Fāthimata tastaqirrul-jumlatu fī hurūfihā 9 hākadzā [ ع خ ا ل ق ف ا ط م ] waffaqakumullāhu limā yuhibbuhū wa yardhāhu wa fataha lakumul-fathal-mubīna wa nafa'akum bi'ilmihī lā ilāha illā Huwa 'Allāmul-ghuyūbi Subhānahū wa Ta'ālā 'ammā yusyrikūna wa shallallāhu wa sallama 'alā sayyidinā Muhammadin wa 'alā ālihī wa sallama taslīman.
+Ikhwatī fillāhi ba'da mā 'araftum kaifiyyata itsbātil-jumlatin-nāqishati, mararnā ilā wadh'i tharīqati itsbātil-jumlatiz-zā'idati 'an tis'ati aḥrufin.
+I'lamū ikhwatī fillāhi annahū idzā kānatil-jumlatu zā'idatan 'alā tis'ati aḥrufin wajaba 'alainā ḥadzful-ḥurūfiz-zā'idati ma'a murā'āti aulawiyyatil-ḥadzfi minal-ḥurūfi, ka-ālatit-ta'rīfi in kānal-ismu mu'arrafan wa tā'it-ta'nītsi wa ḥurūfil-maddi wa ḥarfayil-bā'i wad-dāli min [ 'Abdi ] wa itsbāti ḥarfil-'aini li-annahū ḥarfun dāllun 'alal-'ubūdiyyati wa tarki mā tarakkaba minal-ismi ini-dhthurirnā lidzālika ka-ismi [ Fāthimataz-Zahrā'i ] yumkinu ḥadzfuz-Zahrā'i marratan wāḥidatan in kānat-isma ummisy-syakhshi ammā in kānat-ismasy-syakhshi nurā'ī fīhā mā taqaddama minal-qawā'idil-ḥarfiyyati, wa kadzālika kullu-smin tarakkaba bistitsnā'i Abā Jumu'ata au Abā Syu'aibin li-annat-tarkība hunā dāllun 'alā laqabin wa kadzālika tarku mā takarrara minal-ḥurūfi in baqiyatil-jumlatu zā'idatan, wa tarkul-ḥurūfil-akbari kammiyyatan hādzā thab'an in lam tastaqirral-jumlatu ba'dal-ḥudzūfātis-sābiqati.
+Mitsālun kānasy-syakhshu ismuhū wasmu ummihī hākadzā [ 'Abdul-Khāliqi Fāthimatuz-Zahrā'u ] = 21 ḥarfan.
+‎Naḥdzifuz-Zahrā'a li-annahā murakkabatun wa [ ال ] at-ta'rīfi wa [ ب ، د ] [Rajah Huruf — tidak diterjemahkan] min 'Abdin, wa tā'at-ta'nītsi min Fāthimata tastaqirrul-jumlatu fī ḥurūfihā 9 hākadzā [ ع خ ا ل ق ف ا ط م ] waffaqakumullāhu limā yuḥibbuhū wa yardhāhu wa fataha lakumul-fatḥal-mubīna wa nafa'akum bi'ilmihī lā ilāha illā Huwa 'Allāmul-ghuyūbi Subḥānahū wa Ta'ālā 'ammā yusyrikūna wa shallallāhu wa sallama 'alā sayyidinā Muḥammadin wa 'alā ālihī wa sallama taslīman.
 
 ### Terjemahan
 
@@ -3159,21 +3150,21 @@ Wahai saudara-saudaraku karena Allah, setelah kalian mengetahui tata cara meneta
 
 Qā'idatu-stikhrāji 'adadit-tilāwati likulli thālibin.
 
-Ikhwatī fillāhi ba'damā 'araftum kaifiyyata itsbātil-jumlati fī hurūfihat-tis'ati nadha'u mitsālan listikhrāji 'adadit-tilāwatil-khāshshi likulli syakhshin fī riyādhati asmā'illāhil-husnā, [ Hayyun Qayyūmun ]
+Ikhwatī fillāhi ba'damā 'araftum kaifiyyata itsbātil-jumlati fī ḥurūfihat-tis'ati nadha'u mitsālan listikhrāji 'adadit-tilāwatil-khāshshi likulli syakhshin fī riyādhati asmā'illāhil-ḥusnā, [ Ḥayyun Qayyūmun ]
 Wal-yakuni-smuth-thālibi matsalan, [ Sa'īdun Fāthimatu ] fayakūnul-'amalu hākadzā,
-‎[ س ع ي د ف ا ط م ه ] , na'khudzul-hurūfal-latī waqa'at fī mawāqi'il-afrādi li-annahā mawāqi'u jalālin, wa 'alaihi takūnul-hurūful-ma'khūdzatu hiya [ س ي ف ط ه ] tsumma nabsuthuhum basthan lafzhiyyan bidūni hurūfil-maddi, ma'a itsbātil-hamzati fil-basthi bi-alifin,
-‎[ س ن ي ا ا ف ا ا ط ا ا ه ا ا ] = 14 harfan, wa majmū'u 'adadihim huwa [ 222 ] nudhīfu lahū 'adada hurūfihī hākadzā,
+‎[ س ع ي د ف ا ط م ه ] , na'khudzul-ḥurūfal-latī waqa'at fī mawāqi'il-afrādi li-annahā mawāqi'u jalālin, wa 'alaihi takūnul-ḥurūful-ma'khūdzatu hiya [ س ي ف ط ه ] tsumma nabsuthuhum basthan lafzhiyyan bidūni ḥurūfil-maddi, ma'a itsbātil-hamzati fil-basthi bi-alifin,
+‎[ س ن ي ا ا ف ا ا ط ا ا ه ا ا ] = 14 ḥarfan, wa majmū'u 'adadihim huwa [ 222 ] nudhīfu lahū 'adada ḥurūfihī hākadzā,
 222 + 14 = 236, tsumma nadhribul-khārija fī 'asyaratin hākadzā,
-236 madhrūbatun fī 10 yakūnul-khāriju 2360 nathrahu minhu majmū'a 'adadil-hurūfil-latī waqa'at fī mawāqi'il-azwāji wa hiya,
+236 madhrūbatun fī 10 yakūnul-khāriju 2360 nathraḥu minhu majmū'a 'adadil-ḥurūfil-latī waqa'at fī mawāqi'il-azwāji wa hiya,
 ‎[ ع د ا م ] 'adaduhā 115
 2360 - 115 = 2245
-Na'tī ilā asmā'illāhi [ Hayyun Qayyūmun ] nabsuthu hurūfahā basthan lafzhiyyan ma'a itsbātil-hamzati bi-alifin hākadzā,
-‎[ ح ا ا ي ا ا ق ا ف ي ا ا و ا و م ي م ] = 18 harfan wa majmū'u 'adadihim huwa [ 318 ] nudhīfu ilaihi 'adadal-hurūfi,
+Na'tī ilā asmā'illāhi [ Ḥayyun Qayyūmun ] nabsuthu ḥurūfahā basthan lafzhiyyan ma'a itsbātil-hamzati bi-alifin hākadzā,
+‎[ ح ا ا ي ا ا ق ا ف ي ا ا و ا و م ي م ] = 18 ḥarfan wa majmū'u 'adadihim huwa [ 318 ] nudhīfu ilaihi 'adadal-ḥurūfi,
 318 + 18 = 336
-Tsumma najma'ul-'adadaini, ai mā taqarrara mini-smith-thālibi wa asmā'illāhil-husnā [ Hayyun Qayyūmun ] hākadzā,
-2245 + 336 = 2581 wa huwa 'adadu tilāwatil-asmā'i dubura kulli shalātin muddata 40 yauman biyā'in-nidā'i [ Yā Hayyu Yā Qayyūmu ].
+Tsumma najma'ul-'adadaini, ai mā taqarrara mini-smith-thālibi wa asmā'illāhil-ḥusnā [ Ḥayyun Qayyūmun ] hākadzā,
+2245 + 336 = 2581 wa huwa 'adadu tilāwatil-asmā'i dubura kulli shalātin muddata 40 yauman biyā'in-nidā'i [ Yā Ḥayyu Yā Qayyūmu ].
 Allāhumma waffiqnā lil-khairi wa fi'lihī wa a'idznā minasy-syarri wa ahlihī waghfir lanā warhamnā fid-dāraini yā Rabbanā yā Dzal-jalāli wal-ikrāmi.
-Wa shallillāhumma 'alā sayyidinā Muhammadin wa ālihit-thayyibīnath-thāhirīna wa sallim taslīman.
+Wa shallillāhumma 'alā sayyidinā Muḥammadin wa ālihit-thayyibīnath-thāhirīna wa sallim taslīman.
 
 ### Terjemahan
 
@@ -3254,13 +3245,13 @@ Dan limpahkanlah selawat serta salam yang sempurna, ya Allah, kepada junjungan k
 
 At-tiryāqu likulli thālibin lima'rifati asmā'il-Khāliqi.
 
-Ikhwatī fillāhi adha'u lakum hādzihil-fā'idatal-harfiyyatal-muhimmata jiddan likulli thālibin wa hiya minal-asrāril-latī syā'a lahallāhu Subhānahū an tuktaba lakum fī shafahāti muntadānal-habībil-ladzī yasyi''u bi-ahlihī bil-anwāri adāmahallāhu mā ta'āqabal-lailu wan-nahāru, wa hādzihil-fā'idatu khāshshatun lima'rifati kulli thālibin mal-ismul-muwāfiqu lahū min asmā'illāhil-husnā, fayattakhidzuhū wirdan mudāwiman 'alaihi yusahhilu lahullāhu umūrahū kullahā wa yartaqī ilā a'lad-darajāti bibarakati asmā'illāhi 'Azza wa Jalla, fa'lamū ikhwatī fillāhi anna kulla syakhshin bal wa kulla makhlūqin fil-kauni illā wa fī bāthini hurūfihī ismun au asmā'un minal-asmā'il-ilāhiyyatil-jalīlati, muwāfiqatun lahū mulā'imatun lirūhāniyyatihī muqawwiyatun lirūhihil-bāthinati wa qāhiratun linafsihī hattā tashīra muthāwi'atan lahū fī mardhātillāhi 'Azza wa Jalla wa bihā yaqa'ut-tashrīfu fil-'ālamir-rūhāniyyi, wa ilaikumuth-tharīqatu wal-kaifiyyatu lima'rifati dzālika wa u'thī fil-mitsāli isma [ Ahmada ].
-‎Fahurūfuhū 4 lakinnal-gharadha 'indanā huwa hurūfuhun-nūrāniyyatuts-tsalātsatu [ ا ح م ] nabsuthuhā basthan lafzhiyyan wa najma'u 'adadal-basthi wa nastanthiquhū hurūfan fafīhi wal-hurūfits-tsalātsati yakūnul-ismu wa idzā takarrara lanā hurūfan ba'dal-istinthāqi nadhummuhā liba'dhihā wa nuqimmuhū harfan ākhara yanūbu 'anit-tikrāri.
+Ikhwatī fillāhi adha'u lakum hādzihil-fā'idatal-ḥarfiyyatal-muhimmata jiddan likulli thālibin wa hiya minal-asrāril-latī syā'a lahallāhu Subḥānahū an tuktaba lakum fī shafahāti muntadānal-ḥabībil-ladzī yasyi''u bi-ahlihī bil-anwāri adāmahallāhu mā ta'āqabal-lailu wan-nahāru, wa hādzihil-fā'idatu khāshshatun lima'rifati kulli thālibin mal-ismul-muwāfiqu lahū min asmā'illāhil-ḥusnā, fayattakhidzuhū wirdan mudāwiman 'alaihi yusahhilu lahullāhu umūrahū kullahā wa yartaqī ilā a'lad-darajāti bibarakati asmā'illāhi 'Azza wa Jalla, fa'lamū ikhwatī fillāhi anna kulla syakhshin bal wa kulla makhlūqin fil-kauni illā wa fī bāthini ḥurūfihī ismun au asmā'un minal-asmā'il-ilāhiyyatil-jalīlati, muwāfiqatun lahū mulā'imatun lirūḥāniyyatihī muqawwiyatun lirūḥihil-bāthinati wa qāhiratun linafsihī ḥattā tashīra muthāwi'atan lahū fī mardhātillāhi 'Azza wa Jalla wa bihā yaqa'ut-tashrīfu fil-'ālamir-rūḥāniyyi, wa ilaikumuth-tharīqatu wal-kaifiyyatu lima'rifati dzālika wa u'thī fil-mitsāli isma [ Aḥmada ].
+‎Faḥurūfuhū 4 lakinnal-gharadha 'indanā huwa ḥurūfuhun-nūrāniyyatuts-tsalātsatu [ ا ح م ] nabsuthuhā basthan lafzhiyyan wa najma'u 'adadal-basthi wa nastanthiquhū ḥurūfan fafīhi wal-ḥurūfits-tsalātsati yakūnul-ismu wa idzā takarrara lanā ḥurūfan ba'dal-istinthāqi nadhummuhā liba'dhihā wa nuqimmuhū ḥarfan ākhara yanūbu 'anit-tikrāri.
 Wa ilaikumut-tafshīlu,
-‎[ ا ح م ] , basthuhā [ ا ل ف ح ا ا م ي م ] majmū'u 'adadihim [ 211 ] istinthāqul-'adadi huwa [ ا ي ر ] fashārat ladainā 6 hurūfin minhā wāhidun mukarrarun wa huwal-alifu [ ا ح م ا ي ر ] hunā hashalnā 'alal-ismil-awwali minal-asmā'il-husnā [ Rahīmun ]
-‎Tsumma najma'ul-harfainil-mukarraraini [ ا ا ] yakhruju minhum harfu [ ب ] nudhīfuhū ilā bāqil-hurūfi nā'iban 'anil-alifaini hākadzā,
-‎[ ب ح م ي ر ] hunā hashalnā 'alā ismin ākhara min asmā'illāhi huwa [ Barrun ] wa 'alaihi takūnul-asmā'ul-muwāfiqatu lismi Ahmada humā
-[ Barrun Rahīmun ] ammā 'adadu tilāwatihimā yakūnu immā dubura kulli shalātin 260 marratan wa immā yakūnu fī jaufil-laili bijam'il-'adadi wa dharbihī fī 5 yushbihu 1300 marratan.
+‎[ ا ح م ] , basthuhā [ ا ل ف ح ا ا م ي م ] majmū'u 'adadihim [ 211 ] istinthāqul-'adadi huwa [ ا ي ر ] fashārat ladainā 6 ḥurūfin minhā wāḥidun mukarrarun wa huwal-alifu [ ا ح م ا ي ر ] hunā ḥashalnā 'alal-ismil-awwali minal-asmā'il-ḥusnā [ Raḥīmun ]
+‎Tsumma najma'ul-ḥarfainil-mukarraraini [ ا ا ] yakhruju minhum ḥarfu [ ب ] nudhīfuhū ilā bāqil-ḥurūfi nā'iban 'anil-alifaini hākadzā,
+‎[ ب ح م ي ر ] hunā ḥashalnā 'alā ismin ākhara min asmā'illāhi huwa [ Barrun ] wa 'alaihi takūnul-asmā'ul-muwāfiqatu lismi Aḥmada humā
+[ Barrun Raḥīmun ] ammā 'adadu tilāwatihimā yakūnu immā dubura kulli shalātin 260 marratan wa immā yakūnu fī jaufil-laili bijam'il-'adadi wa dharbihī fī 5 yushbiḥu 1300 marratan.
 
 ### Terjemahan
 
@@ -3315,10 +3306,10 @@ Berikut ini perinciannya untuk kalian:
 At-tiryāqu likulli thālibin lima'rifati asmā'il-Khāliqi.
 
 Mitsālun ākharu bismi, [ Sa'īdin ]
-‎Fīhi 3 hurūfin nūrāniyyatin [ س ع ي ] nabsuthuhum hākadzā [ س ي ن ع ي ن ي ا ا ] majmū'u 'adadihim [ 262 ] istinthāquhū [ ب س ر ] ashbahat ladainā 6 hurūfin hākadzā [ س ع ي ب س ر ] hunā hashalnā 'alā ismaini wa humā [ Barrun Sarī'un ] tsumma najma'ul-harfainil-mukarraraini [ س س ] = 120, nanthiqul-'adada hurūfan [ ك ق ] nudhīfuhū ilal-hurūfis-sābiqati hākadzā [ ك ق ع ي ب ر ] fahashalnā kadzālika hunā 'alā ismaini wa humā [ Kabīrun Qarībun ] wa 'alaihi yakūnu li-Sa'īdin arba'atu asmā'in wa hiya [ Barrun Sarī'un Kabīrun Qarībun ] wa 'adadu tilāwatihā immā 402 dubura kulli shalātin au fī jaufil-laili 'adada 2010 marratan,
-Wa hādzā mā aradnāhu min syarhi hādzihith-tharīqatil-mubārakati as'alullāha an yanfa'akum bihā ikhwatī fillāhi was-salāmu.
+‎Fīhi 3 ḥurūfin nūrāniyyatin [ س ع ي ] nabsuthuhum hākadzā [ س ي ن ع ي ن ي ا ا ] majmū'u 'adadihim [ 262 ] istinthāquhū [ ب س ر ] ashbaḥat ladainā 6 ḥurūfin hākadzā [ س ع ي ب س ر ] hunā ḥashalnā 'alā ismaini wa humā [ Barrun Sarī'un ] tsumma najma'ul-ḥarfainil-mukarraraini [ س س ] = 120, nanthiqul-'adada ḥurūfan [ ك ق ] nudhīfuhū ilal-ḥurūfis-sābiqati hākadzā [ ك ق ع ي ب ر ] faḥashalnā kadzālika hunā 'alā ismaini wa humā [ Kabīrun Qarībun ] wa 'alaihi yakūnu li-Sa'īdin arba'atu asmā'in wa hiya [ Barrun Sarī'un Kabīrun Qarībun ] wa 'adadu tilāwatihā immā 402 dubura kulli shalātin au fī jaufil-laili 'adada 2010 marratan,
+Wa hādzā mā aradnāhu min syarḥi hādzihith-tharīqatil-mubārakati as'alullāha an yanfa'akum bihā ikhwatī fillāhi was-salāmu.
 
-As'alullāha lī wa lakumuts-tsabāta fil-amri wal-'azīmata 'alar-rusydi wasy-syukra 'alan-ni'mati wa husnal-'ibādati, Allāhumma yassir umūranā wastur 'uyūbanā waghfir dzunūbanā wa farrij kurūbanā yā Allāhu yā Arhamar-rāhimīna wa shallillāhumma wa sallim 'alā khairi khalqika nabiyyika wa habībika wa habībinā sayyidinā Muhammadin wa 'alā ālihī wa sallim taslīman.
+As'alullāha lī wa lakumuts-tsabāta fil-amri wal-'azīmata 'alar-rusydi wasy-syukra 'alan-ni'mati wa ḥusnal-'ibādati, Allāhumma yassir umūranā wastur 'uyūbanā waghfir dzunūbanā wa farrij kurūbanā yā Allāhu yā Arhamar-rāhimīna wa shallillāhumma wa sallim 'alā khairi khalqika nabiyyika wa ḥabībika wa ḥabībinā sayyidinā Muḥammadin wa 'alā ālihī wa sallim taslīman.
 
 ### Terjemahan
 
@@ -3372,15 +3363,15 @@ Inilah apa yang kami maksudkan dari penjelasan metode yang penuh berkah ini; aku
 
 Al-qā'idatush-shārimatu fi-stikhrājil-khādimis-sufliyyi.
 
-Ikhwatī fī [ Allāhi ] adha'u baina aidīkum kaifiyyata-stikhrājil-khādimis-sufliyyi minal-ismi wa hādzā sirrun minal-asrāri hufizhat fī shudūrir-rijāli wa u'thil-mitsāla bismi Zaidin fath-tharīqatu hiya nafsuhā listikhrājir-rūhāniyyi illā anna fīhā-khtilāfun basīthun. Mitsālun,
+Ikhwatī fī [ Allāhi ] adha'u baina aidīkum kaifiyyata-stikhrājil-khādimis-sufliyyi minal-ismi wa hādzā sirrun minal-asrāri hufizhat fī shudūrir-rijāli wa u'thil-mitsāla bismi Zaidin fath-tharīqatu hiya nafsuhā listikhrājir-rūḥāniyyi illā anna fīhā-khtilāfun basīthun. Mitsālun,
 ‎[ ز ي د ] = 3
 ‎[ ز ا ي ي ا د ا ل ] = 8
-‎8 fī 3 = 24 [ ا ر ب ع ة و ع ش ر و ن ] basthu hurūfihā
-‎[ ا ل ف ر ا ب ا ع ي ن ت ا و ا و ع ي ن ش ي ن ر ا و ا و ن و ن ] . Hunāl-ikhtilāfu fith-tharīqataini fabadala izālati hurūfil-maddi nuzīlut-tikrāra hākadzā [ ا ل ف ر ب ع ي ن ت و ش ]
-Tsumma nalquthul-hurūfa bit-tatslītsi hākadzā,
-‎[ ف ب ي ت ش ] . Hunā yakmunul-ikhtilāfuts-tsānī haitsu lā na'khudzul-hurūfa bal na'khudzu 'adadahā wa nastanthiquhū hākadzā,
+‎8 fī 3 = 24 [ ا ر ب ع ة و ع ش ر و ن ] basthu ḥurūfihā
+‎[ ا ل ف ر ا ب ا ع ي ن ت ا و ا و ع ي ن ش ي ن ر ا و ا و ن و ن ] . Hunāl-ikhtilāfu fith-tharīqataini fabadala izālati ḥurūfil-maddi nuzīlut-tikrāra hākadzā [ ا ل ف ر ب ع ي ن ت و ش ]
+Tsumma nalquthul-ḥurūfa bit-tatslītsi hākadzā,
+‎[ ف ب ي ت ش ] . Hunā yakmunul-ikhtilāfuts-tsānī ḥaitsu lā na'khudzul-ḥurūfa bal na'khudzu 'adadahā wa nastanthiquhū hākadzā,
 ‎[ ف ب ي ت ش = 792 ] nuthquhā [ ب ص ذ ] wa 'alaihi yakūnul-khādimus-sufliyyul-mustakhraju mini-smi Zaidin hākadzā,
-[ Bashadz Thaisyin ] sayatasā'alu ba'dhukum limādzā akhadznas-sufliyya bil-'adadi war-rūhāniyya bil-harfi, al-jawābu li-annal-harfa aqwā minal-'adadi fī tharīqil-khairi wal-'aksu bil-'aksi. Tammat was-salāmu wa washiyyatī likulli thālibin an yattaqiyallāha 'Azza wa Jalla wa yurā'iya hurmatahū fī khalqihī wa jazākumullāhu 'annī khairan.
+[ Bashadz Thaisyin ] sayatasā'alu ba'dhukum limādzā akhadznas-sufliyya bil-'adadi war-rūḥāniyya bil-ḥarfi, al-jawābu li-annal-ḥarfa aqwā minal-'adadi fī tharīqil-khairi wal-'aksu bil-'aksi. Tammat was-salāmu wa washiyyatī likulli thālibin an yattaqiyallāha 'Azza wa Jalla wa yurā'iya ḥurmatahū fī khalqihī wa jazākumullāhu 'annī khairan.
 
 ### Terjemahan
 
@@ -3438,15 +3429,15 @@ Kemudian kita memungut huruf-hurufnya dengan hitungan kelipatan tiga (al-laqthu 
 
 Asrārur-rijāli fi-sti'māli āyātil-Qur'āni lithardil-jinni wasy-syaithāni.
 
-Ikhwatī fillāhi adha'u lakum tharīqatan harfiyyatan lithardil-jinni wasy-syayāthīni, wa man ta'ammala wa tadabbarahā jayyidan wajadahā nāfi'atan li-umūrin syattā, wa minhā aidhan lita'lamū sirran akhfathul-masyāyīkhu wa huwa kaifiyyatu dukhūli wasti'māli āyatin Qur'āniyyatin fil-aufāqi, wa nadha'u fī dzālika mitsālan lil-āyatil-karīmati [ fakhruj minhā fa-innaka rajīmun ] nahsubuhā bihādzihith-tharīqati wa hiya qā'idatun minal-asrāri wa man ta'ammala fil-kalimatil-ūlā [ fakhruj ] == [ ukhruj ] wa tadabbara bilubbi 'aqlihī waqafa 'alā asrārin lā tashifuhal-alsunu fasubhāna Mukawwinil-akwāni wal-Qādiri 'alā kulli syai'in.
+Ikhwatī fillāhi adha'u lakum tharīqatan ḥarfiyyatan lithardil-jinni wasy-syayāthīni, wa man ta'ammala wa tadabbarahā jayyidan wajadahā nāfi'atan li-umūrin syattā, wa minhā aidhan lita'lamū sirran akhfathul-masyāyīkhu wa huwa kaifiyyatu dukhūli wasti'māli āyatin Qur'āniyyatin fil-aufāqi, wa nadha'u fī dzālika mitsālan lil-āyatil-karīmati [ fakhruj minhā fa-innaka rajīmun ] naḥsubuhā bihādzihith-tharīqati wa hiya qā'idatun minal-asrāri wa man ta'ammala fil-kalimatil-ūlā [ fakhruj ] == [ ukhruj ] wa tadabbara bilubbi 'aqlihī waqafa 'alā asrārin lā tashifuhal-alsunu fasubḥāna Mukawwinil-akwāni wal-Qādiri 'alā kulli syai'in.
 ‎[ ا خ ر ج ] = 804 [ د ض ]
 ‎[ م ن ه ا ] = 96 [ و ص ]
 ‎[ ف ا ن ك ] = 151 [ ا ن ق ]
 ‎[ ر ج ي م ] = 253 [ ج ن ر ]
 ‎Al-majmū'u = 1304 [ د ش غ ]
-‎Al-hurūfudz-dzukūru bidūni tikrārin [ ص ا ن ق ج ش غ ]
-‎Al-hurūful-inātsu bidūni tikrārin [ د و ر ض ]
-‎Al-hurūfudz-dzukūru zādat 'an 5 hurūfin lidzā wajaba 'alainā ta'dīlul-hurūfi 3 al-akhīrati minal-laqthi wa dzālika bijam'i 'adadihim wa tajfīrihī ilā an yabqā harfun wāhidun hākadzā [ ج + ش + غ = 1303 = 7 huwa harfuz-zāyi wa huwa yanūbu 'anhum ] fatakūnu hurūful-afrādi hākadzā [ ص ا ن ق ز ] wal-azwāju baqiyat kamā hiya [ د و ر ض ] tsumma nadha'ul-afrāda fī buyūti [ اجهزط ] wal-azwāja fī buyūti [ بدوح ] wal-wadh'u yakūnu bitartībin minal-ashghari ilal-akbari hākadzā,
+‎Al-ḥurūfudz-dzukūru bidūni tikrārin [ ص ا ن ق ج ش غ ]
+‎Al-ḥurūful-inātsu bidūni tikrārin [ د و ر ض ]
+‎Al-ḥurūfudz-dzukūru zādat 'an 5 ḥurūfin lidzā wajaba 'alainā ta'dīlul-ḥurūfi 3 al-akhīrati minal-laqthi wa dzālika bijam'i 'adadihim wa tajfīrihī ilā an yabqā ḥarfun wāḥidun hākadzā [ ج + ش + غ = 1303 = 7 huwa ḥarfuz-zāyi wa huwa yanūbu 'anhum ] fatakūnu ḥurūful-afrādi hākadzā [ ص ا ن ق ز ] wal-azwāju baqiyat kamā hiya [ د و ر ض ] tsumma nadha'ul-afrāda fī buyūti [ اجهزط ] wal-azwāja fī buyūti [ بدوح ] wal-wadh'u yakūnu bitartībin minal-ashghari ilal-akbari hākadzā,
 
 ### Terjemahan
 
@@ -3503,24 +3494,12 @@ Rahasia-rahasia para tokoh ahli hikmah (ar-rijāl) dalam menggunakan ayat-ayat A
 
 Asrārur-rijāli fi-sti'māli āyātil-Qur'āni lithardil-jinni wasy-syaithāni.
 
-| د | ق | و |
-|---|---|---|
-| ص | ن | ز |
-| ر | ا | ض |
-
 [Wafaq Musallas Huruf Ayat Thardul-Jinn 3×3 — Asror Huruf Arab, tidak dilatinkan]
-
 ### Terjemahan
 
 Rahasia-rahasia para tokoh ahli hikmah (ar-rijāl) dalam menggunakan ayat-ayat Al-Qur'an untuk mengusir jin dan setan.
 
-| د | ق | و |
-|---|---|---|
-| ص | ن | ز |
-| ر | ا | ض |
-
 [Wafaq Musallas Huruf Ayat Thardul-Jinn 3×3 — Asror Huruf Arab, tidak diterjemahkan]
-
 ### Syarah dan Penjelasan
 
 ‎1. **Bukti Presisi Pemetaan 9 Huruf ke Dalam Kamar `[ اجهزط ]` dan `[ بدوح ]`**:
@@ -3565,34 +3544,20 @@ Rahasia-rahasia para tokoh ahli hikmah (ar-rijāl) dalam menggunakan ayat-ayat A
 
 Asrārur-rijāli fi-sti'māli āyātil-Qur'āni lithardil-jinni wasy-syaithāni.
 
-| ٤٠٨ | ٥٥٠ | ١٠٠١ | ١٦٦٧ |
-|---|---|---|---|
-| ١٠٠٢ | ١٦٦٦ | ٤٠٩ | ٥٤٩ |
-| ١٦٦٥ | ٩٩٩ | ٥٥٢ | ٤١٠ |
-| ٥٥١ | ٤٤١ | ١٦٦٤ | ١٠٠٠ |
-
 [Wafaq Murabba' Angka 4×4 Metode Azlan — Asror Angka Arab, tidak dilatinkan]
 
-Tsumma nahsubul-adhlā'a thūlan wa 'ardhan wa kadzālikal-quthraini wa 'alaihi yakūnu 'adaduhū kattālī :-
+Tsumma naḥsubul-adhlā'a thūlan wa 'ardhan wa kadzālikal-quthraini wa 'alaihi yakūnu 'adaduhū kattālī :-
 ‎[ بطد ] = 110 , [ زهج ] = 147 , [ واح ] = 1001 , [ بزو ] = 294 , [ اهط ] = 151 , [ دجح ] = 813 , [ بهح ] = 854 [ دهو ] = 256 , fanazharnā ilā marātibil-a'dādi fataqarrara jam'uhum hākadzā,
 ‎[ 110 + 147 + 151 = 408 ] , [ 256 + 294 = 550 ] , [ 813 + 854 = 1667 ] , [ wa yabqal-'adadu 1001 kamā huwa ] fashārat ladainā arba'atu a'dādin nanzilu bihā fī murabba'in 'alā tharīqati [ ازلن ]
-
 ### Terjemahan
 
 Rahasia-rahasia para tokoh ahli hikmah (ar-rijāl) dalam menggunakan ayat-ayat Al-Qur'an untuk mengusir jin dan setan.
-
-| ٤٠٨ | ٥٥٠ | ١٠٠١ | ١٦٦٧ |
-|---|---|---|---|
-| ١٠٠٢ | ١٦٦٦ | ٤٠٩ | ٥٤٩ |
-| ١٦٦٥ | ٩٩٩ | ٥٥٢ | ٤١٠ |
-| ٥٥١ | ٤٤١ | ١٦٦٤ | ١٠٠٠ |
 
 [Wafaq Murabba' Angka 4×4 Metode Azlan — Asror Angka Arab, tidak diterjemahkan]
 
 Kemudian kita menghitung jumlah nilai sisi-sisinya (dari Wafaq Musallas pada Halaman 57), baik secara memanjang (kolom vertikal) maupun melebar (baris horizontal), serta kedua garis diagonalnya; berdasarkan hal itu maka nilai bilangannya adalah sebagai berikut :-
 ‎Baris [ بطد ] = 110, baris [ زهج ] = 147, baris [ واح ] = 1001, kolom [ بزو ] = 294, kolom [ اهط ] = 151, kolom [ دجح ] = 813, diagonal [ بهح ] = 854, dan diagonal [ دهو ] = 256. Lalu kita memperhatikan tingkatan-tingkatan puluhan/ratusan angka-angka tersebut (marātibul-a'dād), sehingga ditetapkanlah penjumlahan kelompok mereka seperti ini:
 ‎[ 110 + 147 + 151 = 408 ], [ 256 + 294 = 550 ], [ 813 + 854 = 1667 ], [ dan angka 1001 tetap sebagaimana adanya ]. Maka kini kita memiliki empat bilangan (408, 550, 1001, 1667) yang kita turunkan ke dalam Wafaq Murabba' (4×4) berdasarkan metode [ ازلن ] [Rajah Huruf — tidak diterjemahkan].
-
 ### Syarah dan Penjelasan
 
 1. **Asal-Usul 8 Bilangan dari Wafaq Musallas Halaman 57**:
@@ -3644,28 +3609,15 @@ Kemudian kita menghitung jumlah nilai sisi-sisinya (dari Wafaq Musallas pada Hal
 
 Asrārur-rijāli fi-sti'māli āyātil-Qur'āni lithardil-jinni wasy-syaithāni.
 
-| ح ت | ن ث | ا غ | س ز خ غ |
-|---|---|---|---|
-| ب غ | س و خ غ | ط ت | ط م ت |
-| ه س و غ | ط ص ض | ن ب ث | ي ت |
-| ا ن ث | ا ي ت | س د خ غ | ق ر ذ |
-
 [Wafaq at-Tashrīf Huruf 4×4 — Asror Huruf Arab, tidak dilatinkan]
 
-Tsumma nastanthiqu kulla baitin harfiyyan haitsu
-yakūnu kullu baitin yahtawī 'alā
-harfaini ilā arba'atin hākadzā
+Tsumma nastanthiqu kulla baitin ḥarfiyyan ḥaitsu
+yakūnu kullu baitin yaḥtawī 'alā
+ḥarfaini ilā arba'atin hākadzā
 wa huwa wafqut-tashrīfi.
-
 ### Terjemahan
 
 Rahasia-rahasia para tokoh ahli hikmah (ar-rijāl) dalam menggunakan ayat-ayat Al-Qur'an untuk mengusir jin dan setan.
-
-| ح ت | ن ث | ا غ | س ز خ غ |
-|---|---|---|---|
-| ب غ | س و خ غ | ط ت | ط م ت |
-| ه س و غ | ط ص ض | ن ب ث | ي ت |
-| ا ن ث | ا ي ت | س د خ غ | ق ر ذ |
 
 [Wafaq at-Tashrīf Huruf 4×4 — Asror Huruf Arab, tidak diterjemahkan]
 
@@ -3673,7 +3625,6 @@ Kemudian kita melafalkan (meng-istinthāq-kan) angka pada setiap kamar menjadi h
 setiap kamar mengandung
 dua hingga empat huruf seperti ini;
 dan inilah yang disebut Wafaq at-Tashrīf (Wafaq Pengaktifan Daya Guna).
-
 ### Syarah dan Penjelasan
 
 1. **Kunci *Istinthāq* 16 Kamar dari Wafaq Angka (Hal 58) ke Wafaq Huruf (Hal 59)**:
@@ -3704,11 +3655,11 @@ dan inilah yang disebut Wafaq at-Tashrīf (Wafaq Pengaktifan Daya Guna).
 
 Asrārur-rijāli fi-sti'māli āyātil-Qur'āni lithardil-jinni wasy-syaithāni.
 
-Wa listikhrājir-rūhāniyyi fahuwa min baitayis-sābi'i wats-tsānī na'khudzu hurūfahuman-nūrāniyyata wa nu'allifuhum bimā yunāsibuhum minal-mīzānith-thabī'iyyi wa nuqimmul-majmū'a 'adadan wa nanthiquhū wa nudzayyiluhū bi-āyīla fahuwar-rūhāniyyu ammal-hākimu 'alaihi faqad wadha'nā tharīqata-stikhrājihī falā dā'iya litikrārihā hunā wa 'alaihi yakūnul-'amalu hākadzā,
-‎Hurūful-baitis-sābi'i [ س و خ غ ] hurūful-baitits-tsānī [ ط ت ]
-‎An-nūrāniyyu minal-hurūfi [ ط س ] wa'tilāfuhum huwa,
-‎[ ط ك س م ] 'adaduhum 129 nuthquhū [ طكق ] nudzayyiluhū bi-āyīla yakūnur-rūhāniyyu [ Thakqa'āyīlu ] minhu yustakhrajul-hākimu 'alaihi.
-As'alullāha Subhānahū wa Ta'ālā an yulhimakum wa iyyāya sabīlar-rasyādi wa an yahdiyanā wa iyyākum ilā tharīqil-haqqi wa yanfa'anā wa iyyākum bil-Qur'ānil-'azhīmi innahū 'alā kulli syai'in qadīrun, wa shallallāhu wa sallama 'alā sayyidinā Muhammadin wa 'alā ālihī ajma'īna.
+Wa listikhrājir-rūḥāniyyi fahuwa min baitayis-sābi'i wats-tsānī na'khudzu ḥurūfahuman-nūrāniyyata wa nu'allifuhum bimā yunāsibuhum minal-mīzānith-thabī'iyyi wa nuqimmul-majmū'a 'adadan wa nanthiquhū wa nudzayyiluhū bi-āyīla fahuwar-rūḥāniyyu ammal-ḥākimu 'alaihi faqad wadha'nā tharīqata-stikhrājihī falā dā'iya litikrārihā hunā wa 'alaihi yakūnul-'amalu hākadzā,
+‎Ḥurūful-baitis-sābi'i [ س و خ غ ] ḥurūful-baitits-tsānī [ ط ت ]
+‎An-nūrāniyyu minal-ḥurūfi [ ط س ] wa'tilāfuhum huwa,
+‎[ ط ك س م ] 'adaduhum 129 nuthquhū [ طكق ] nudzayyiluhū bi-āyīla yakūnur-rūḥāniyyu [ Thakqa'āyīlu ] minhu yustakhrajul-ḥākimu 'alaihi.
+As'alullāha Subḥānahū wa Ta'ālā an yulhimakum wa iyyāya sabīlar-rasyādi wa an yahdiyanā wa iyyākum ilā tharīqil-ḥaqqi wa yanfa'anā wa iyyākum bil-Qur'ānil-'azhīmi innahū 'alā kulli syai'in qadīrun, wa shallallāhu wa sallama 'alā sayyidinā Muḥammadin wa 'alā ālihī ajma'īna.
 
 ### Terjemahan
 
@@ -3758,17 +3709,17 @@ Aku memohon kepada Allah Subhanahu wa Ta'ala agar mengilhamkan kepada kalian dan
 
 ### latin
 
-Al-washful-mubīnu ba'da tamwīhil-mudda'īna fī kaifiyyati-stikhrājir-rūhāniyyi.
+Al-washful-mubīnu ba'da tamwīhil-mudda'īna fī kaifiyyati-stikhrājir-rūḥāniyyi.
 
-Ikhwānī fillāhi hādzā syarhun likaifiyyati-stikhrājir-rūhāniyyi bitharīqatit-tak'ībi, syā'allāhu Subhānahū wa Ta'ālā an yaksyifa lakum 'an sirrin a'lamu jayyidan annahū marra 'alaihi wa rubbamā-stakhrajar-rūhāniyya bitilkath-tharīqatil-latī lā yakhlū kitābun minhā wa hiya kādzibatun khāthi'atun lā asāsa lahā wa lā dakhla li'ilmil-harfi bihā wa hiya [ tharīqatu-stikhrājir-rūhāniyyi mini-smi Zaidin ], wath-tharīqatu hiya kattālī
-‎[ ز ي د ] = 3 hurūfin
-‎[ ز ا ي ي ا د ا ل ] = 8 hurūfin
-‎3 fī 8 = 24 [ ا ر ب ع ة و ع ش ر و ن ] basthu hurūfihā hākadzā,
-‎[ ا ل ف ر ا ب ا ع ي ن ت ا و ا و ع ي ن ش ي ن ر ا و ا و ن و ن ] , nuzīlu hurūfal-maddi,
-‎[ ا ل ف ر ا ب ا ع ن ت ا و و ع ن ش ن ر ا و و ن ن ] , nalquthul-hurūfa bit-tatslītsi-btidā'an min harfi [ ف ],
-‎[ ف ا ا ن ا و ن ن ا و ن ] , nuzīlut-tikrāra min hādzihil-hurūfi
-‎[ ف ا ن و ] , hādzihī hiya hurūfur-rūhāniyyi lismi Zaidin wa 'alaihi yakūnur-rūhāniyyu ba'da idhāfati [ āyīla ] huwa [ Fānawāyīlu ].
-Nafa'aniyallāhu wa iyyākum wa hadānā ilā tharīqil-haqqi wa nawwaranā wa iyyākum binūrihī innahū 'alā kulli syai'in qadīrun.
+Ikhwānī fillāhi hādzā syarḥun likaifiyyati-stikhrājir-rūḥāniyyi bitharīqatit-tak'ībi, syā'allāhu Subḥānahū wa Ta'ālā an yaksyifa lakum 'an sirrin a'lamu jayyidan annahū marra 'alaihi wa rubbamā-stakhrajar-rūḥāniyya bitilkath-tharīqatil-latī lā yakhlū kitābun minhā wa hiya kādzibatun khāthi'atun lā asāsa lahā wa lā dakhla li'ilmil-ḥarfi bihā wa hiya [ tharīqatu-stikhrājir-rūḥāniyyi mini-smi Zaidin ], wath-tharīqatu hiya kattālī
+‎[ ز ي د ] = 3 ḥurūfin
+‎[ ز ا ي ي ا د ا ل ] = 8 ḥurūfin
+‎3 fī 8 = 24 [ ا ر ب ع ة و ع ش ر و ن ] basthu ḥurūfihā hākadzā,
+‎[ ا ل ف ر ا ب ا ع ي ن ت ا و ا و ع ي ن ش ي ن ر ا و ا و ن و ن ] , nuzīlu ḥurūfal-maddi,
+‎[ ا ل ف ر ا ب ا ع ن ت ا و و ع ن ش ن ر ا و و ن ن ] , nalquthul-ḥurūfa bit-tatslītsi-btidā'an min ḥarfi [ ف ],
+‎[ ف ا ا ن ا و ن ن ا و ن ] , nuzīlut-tikrāra min hādzihil-ḥurūfi
+‎[ ف ا ن و ] , hādzihī hiya ḥurūfur-rūḥāniyyi lismi Zaidin wa 'alaihi yakūnur-rūḥāniyyu ba'da idhāfati [ āyīla ] huwa [ Fānawāyīlu ].
+Nafa'aniyallāhu wa iyyākum wa hadānā ilā tharīqil-ḥaqqi wa nawwaranā wa iyyākum binūrihī innahū 'alā kulli syai'in qadīrun.
 
 ### Terjemahan
 
@@ -3821,7 +3772,7 @@ Semoga Allah memberikan manfaat kepadaku dan kepada kalian, membimbing kita menu
 Al-jawābusy-syāfī.
 
 As-su'ālul-awwalu, al-amlāku Samkayā'īlu wa Syaranthayā'īlu wa Nūyā'īlu wa Mīthathrūnu al-latī tuktabu 'alaz-zawāyā fil-wafqith-thabī'iyyi hal tamma-stikhrājuhā minal-wafqith-thabī'iyyi wa limādzā lā yatimmut-taukīlu illā bi-Samkayā'īla wa Nawā'īla?
-‎I'lam akhī anna mā wadha'ūhu dā'iran bil-wafqith-thabī'iyyi wa ja'alūhu muwakkalan bil-a'māli kullihā mā huwa illā tamwīhun kai tabqal-haqīqatu dhā'i'atan bainas-suthūri, wal-amlākul-latī wadha'tahā minhā-tsnāni minal-mustakhrajati minal-wafqith-thabī'iyyi wa laisatil-isyāratu hunā ilā [ بطد زهج واح ] , bal ilā [ كصم عهق سيح ] wa lil-wuqūfi 'alaihi lā budda mini-ttibā'i tharīqatil-hadmi wat-tajdzīri wa itsbātil-a'syāril-kāmilati likulli baitin minhu wa hādzā mā akhfathul-hukamā'u li-annahā mabda'u-stikhrājil-Ismil-'Azhīmil-A'zhami, ammā Samkāyīlu fashahīhun wa Nūyāyīlu falaisa kadzālika idz waqa'a fīhi tahrīfun wa haqīqatuhū hiya [ Nūfāyīlu ]. Ammal-malakaini Syaranthayāyīla wa Mīthathrūna lā 'alāqata lanā bihim wa lā hājata lanā bihim fī 'ilmil-harfi wal-aufāqi, wa mā 'arafnāhu 'anhumā anna likulli wāhidin minhumā aqsāmun zājiratun 'alā khuddāmid-da'awāti wal-istikhdamāti wa mā waqafnā lahumā 'an tharīqatin lahumā fil-aufāqi, li-annal-aufāqa mustaqillatun binafsihā wa lahā dawā'iruhal-latī lā yumkinu an yata'addāhā ayyu musytaghilin bihādzal-'ilmi, ammal-amlākur-rūhāniyyatul-itsnā 'asyara fahiya min khuddāmil-wafqi wa lahā nufūdzuhā fīhi liman athla'ahullāhu 'alā sirrihā.
+‎I'lam akhī anna mā wadha'ūhu dā'iran bil-wafqith-thabī'iyyi wa ja'alūhu muwakkalan bil-a'māli kullihā mā huwa illā tamwīhun kai tabqal-haqīqatu dhā'i'atan bainas-suthūri, wal-amlākul-latī wadha'tahā minhā-tsnāni minal-mustakhrajati minal-wafqith-thabī'iyyi wa laisatil-isyāratu hunā ilā [ بطد زهج واح ] , bal ilā [ كصم عهق سيح ] wa lil-wuqūfi 'alaihi lā budda mini-ttibā'i tharīqatil-hadmi wat-tajdzīri wa itsbātil-a'syāril-kāmilati likulli baitin minhu wa hādzā mā akhfathul-ḥukamā'u li-annahā mabda'u-stikhrājil-Ismil-'Azhīmil-A'zhami, ammā Samkāyīlu fashaḥīḥun wa Nūyāyīlu falaisa kadzālika idz waqa'a fīhi taḥrīfun wa haqīqatuhū hiya [ Nūfāyīlu ]. Ammal-malakaini Syaranthayāyīla wa Mīthathrūna lā 'alāqata lanā bihim wa lā ḥājata lanā bihim fī 'ilmil-ḥarfi wal-aufāqi, wa mā 'arafnāhu 'anhumā anna likulli wāḥidin minhumā aqsāmun zājiratun 'alā khuddāmid-da'awāti wal-istikhdamāti wa mā waqafnā lahumā 'an tharīqatin lahumā fil-aufāqi, li-annal-aufāqa mustaqillatun binafsihā wa lahā dawā'iruhal-latī lā yumkinu an yata'addāhā ayyu musytaghilin bihādzal-'ilmi, ammal-amlākur-rūḥāniyyatul-itsnā 'asyara fahiya min khuddāmil-wafqi wa lahā nufūdzuhā fīhi liman athla'ahullāhu 'alā sirrihā.
 
 ### Terjemahan
 
@@ -3862,7 +3813,7 @@ Pertanyaan Pertama: Nama-nama malaikat Samkayā'īl, Syaranthayā'īl, Nūyā'ī
 Al-jawābusy-syāfī.
 
 As-su'āluts-tsānī, Jibrā'īlu wa 'Azrā'īlu wa Mīkā'īlu wa Isrāfīlu 'alaihimus-salāmu malā'ikatul-arkāni hal tamma-stikhrājuhum minal-mutsallatsi?
-Awwalanil-malā'ikatu khalqun min khalqillāhi 'Azza wa Jalla lā ya'lamu 'adadahum wa lā yuhshīhim illā Huwa Subhānahū, wa qad warada fis-sunnati bayānu annahum khuliqū min nūrin kamā jā'al-qaulul-fashīhu annal-jānna khuliqat min mārijin min nārin, wa kamā qāla Rasūlullāhi shallallāhu 'alaihi wa sallama, [ Khuliqatil-malā'ikatu min nūrin wa khuliqal-jānnu min mārijin min nārin wa khuliqa Ādamu mimmā wushifa lakum ] wa qad tsabata fis-sunnati anna Jibrīla 'alaihis-salāmu lahū sittumi'ati janāhin wa qad ra'āhu Rasūlullāhi marrataini 'alā hai'atihil-latī khalaqahullāhu 'alaihā marratan 'inda Sidratil-Muntahā wa marratan fil-ardhi wa qad saddal-ufuqa lidhakhāmati hajmihī, wa biqudratillāhi 'Azza wa Jalla yatahawwalu min hādzihil-'azhamati ilā shūrati insānin wa hādzā wāridun fil-ahādītsisy-syarīfati, fasubhānallāhi innahū 'alā kulli syai'in qadīrun, na'tī ilal-īmāni bil-malā'ikati idz wajaba 'alainal-īmānu biman na'rifuhū bismihī wa man lā na'rifuhū bismihī, wats-tsābitu bismihī [ Jibrīlu wa Mīkā'īlu wa Isrāfīlu wa Mālikun khāzinun-nāri ] wasytuhira anna khāzinal-jannati ismuhū Ridhwānu wa malakal-mauti ismuhū 'Azrā'īlu wa lā a'rifu syai'an tsābitan fī dzālika wal-ladzī tsabata fī kitābillāhi wa sunnati Rasūlihī shallallāhu 'alaihi wa sallama hum Jibrīlu wa Mīkā'īlu wa Isrāfīlu wa Mālikun khāzinun-nāri lakin wajaba 'alainal-īmānu biman dzukira bismihī wa man lam yudzkar-ismuhū, wa kadzālika bi-a'mālihimul-latī kullifū bihā, wa warada bayānun katsīrun fī a'mālihim faminhum muwakkalun bil-wahyi wa minhum muwakkalun bil-qathri wa minhum muwakkalun bil-mauti wa minhum muwakkalun bil-jibāli wa minhum muwakkalun bil-arhāmi wa minhum muwakkalun bil-jannati wa minhum muwakkalun bin-nāri ilā ghairi dzālika minal-a'māli wa hum katsratun lā ya'lamu 'adadahum illallāhu wad-dalīlu 'alā katsratihim mā jā'a 'anin-Nabiyyi shallallāhu 'alaihi wa sallama [ Mā minkum min ahadin illā wa lahū qarīnun minal-jinni wa qarīnun minal-malā'ikati ] wa kamā jā'a 'anhu 'alaihis-shalātu was-salāmu fī khabaril-Baitil-Ma'mūril-ladzī huwa fis-samā'is-sābi'ati fauqal-Ka'batil-musyarrafati yadkhuluhū kulla yaumin sab'ūna alfa malakin wa lā ya'ūdu ilaihi wa hādzā dalīlun qāthi'un 'alā katsrati 'adadil-malā'ikati, wal-ma'lūmu 'indanā anna Jibrīla mukallafun bil-wahyi wa Mīkā'īla mukallafun bil-qathri wa Isrāfīla mukallafun bin-nafkhi fish-shūri wa Mālikan khāzinan-nāri wa malakal-mauti mukallafun biqabdhil-arwāhi, wa 'alaihi yakūnul-jawābusy-syāfī anna hā'ulā'il-malā'ikata 'alaihimus-salāmu lam yustakhrajū min ayyi wafqin wa lā 'alāqata li-ayyi wafqin bihim, innamān-nāsu ta'khudzu mā huwa makhthūthun bi-aqlāmit-tamwīhi, fa-in qara'a ahadukum marratan ukhrā [ baita Jibrīla fahuwa isyāratun ilā anna dzālikal-baita yakhruju minhur-rūhāniyyul-mukallafu bijalbil-akhbāri... ilakh ].
+Awwalanil-malā'ikatu khalqun min khalqillāhi 'Azza wa Jalla lā ya'lamu 'adadahum wa lā yuḥshīhim illā Huwa Subḥānahū, wa qad warada fis-sunnati bayānu annahum khuliqū min nūrin kamā jā'al-qaulul-fashīḥu annal-jānna khuliqat min mārijin min nārin, wa kamā qāla Rasūlullāhi shallallāhu 'alaihi wa sallama, [ Khuliqatil-malā'ikatu min nūrin wa khuliqal-jānnu min mārijin min nārin wa khuliqa Ādamu mimmā wushifa lakum ] wa qad tsabata fis-sunnati anna Jibrīla 'alaihis-salāmu lahū sittumi'ati janāḥin wa qad ra'āhu Rasūlullāhi marrataini 'alā hai'atihil-latī khalaqahullāhu 'alaihā marratan 'inda Sidratil-Muntahā wa marratan fil-ardhi wa qad saddal-ufuqa lidhakhāmati ḥajmihī, wa biqudratillāhi 'Azza wa Jalla yataḥawwalu min hādzihil-'azhamati ilā shūrati insānin wa hādzā wāridun fil-aḥādītsisy-syarīfati, fasubḥānallāhi innahū 'alā kulli syai'in qadīrun, na'tī ilal-īmāni bil-malā'ikati idz wajaba 'alainal-īmānu biman na'rifuhū bismihī wa man lā na'rifuhū bismihī, wats-tsābitu bismihī [ Jibrīlu wa Mīkā'īlu wa Isrāfīlu wa Mālikun khāzinun-nāri ] wasytuhira anna khāzinal-jannati ismuhū Ridhwānu wa malakal-mauti ismuhū 'Azrā'īlu wa lā a'rifu syai'an tsābitan fī dzālika wal-ladzī tsabata fī kitābillāhi wa sunnati Rasūlihī shallallāhu 'alaihi wa sallama hum Jibrīlu wa Mīkā'īlu wa Isrāfīlu wa Mālikun khāzinun-nāri lakin wajaba 'alainal-īmānu biman dzukira bismihī wa man lam yudzkar-ismuhū, wa kadzālika bi-a'mālihimul-latī kullifū bihā, wa warada bayānun katsīrun fī a'mālihim faminhum muwakkalun bil-waḥyi wa minhum muwakkalun bil-qathri wa minhum muwakkalun bil-mauti wa minhum muwakkalun bil-jibāli wa minhum muwakkalun bil-arḥāmi wa minhum muwakkalun bil-jannati wa minhum muwakkalun bin-nāri ilā ghairi dzālika minal-a'māli wa hum katsratun lā ya'lamu 'adadahum illallāhu wad-dalīlu 'alā katsratihim mā jā'a 'anin-Nabiyyi shallallāhu 'alaihi wa sallama [ Mā minkum min aḥadin illā wa lahū qarīnun minal-jinni wa qarīnun minal-malā'ikati ] wa kamā jā'a 'anhu 'alaihis-shalātu was-salāmu fī khabaril-Baitil-Ma'mūril-ladzī huwa fis-samā'is-sābi'ati fauqal-Ka'batil-musyarrafati yadkhuluhū kulla yaumin sab'ūna alfa malakin wa lā ya'ūdu ilaihi wa hādzā dalīlun qāthi'un 'alā katsrati 'adadil-malā'ikati, wal-ma'lūmu 'indanā anna Jibrīla mukallafun bil-waḥyi wa Mīkā'īla mukallafun bil-qathri wa Isrāfīla mukallafun bin-nafkhi fish-shūri wa Mālikan khāzinan-nāri wa malakal-mauti mukallafun biqabdhil-arwāḥi, wa 'alaihi yakūnul-jawābusy-syāfī anna hā'ulā'il-malā'ikata 'alaihimus-salāmu lam yustakhrajū min ayyi wafqin wa lā 'alāqata li-ayyi wafqin bihim, innamān-nāsu ta'khudzu mā huwa makhthūthun bi-aqlāmit-tamwīhi, fa-in qara'a aḥadukum marratan ukhrā [ baita Jibrīla fahuwa isyāratun ilā anna dzālikal-baita yakhruju minhur-rūḥāniyyul-mukallafu bijalbil-akhbāri... ilakh ].
 
 ### Terjemahan
 
@@ -3899,10 +3850,10 @@ Pertama-tama: Malaikat adalah salah satu makhluk ciptaan Allah 'Azza wa Jalla ya
 
 Al-jawābusy-syāfī.
 
-‎As-su'āluts-tsālitsu, Jibrā'īlu 'alaihis-salāmu raghma annahū minal-malā'ikatil-muqarrabīna limādzā hurūfuhul-ūlā [ ج ، ب ] hurūfun zhulmāniyyatun?
-Na'am akhī fillāhi lā tuqārin biman sammāhullāhu 'Azza wa Jalla wa bimā naf'aluhū nahnu bihurūfir-rūhāniyyi fal-qā'idatul-latī na'malu 'alaihā lidhabthi hurūfir-rūhāniyyi litabqā hurūfuhū nūrāniyyatan fīhā 'amalāni, al-awwalu nuhaqqiqu hurūfahun-nūrāniyyata litakūna muhriqatan 'alā khādimihī, wats-tsānī kai lā nakhruja 'an dā'iratil-arwāhir-rūhāniyyatil-mukallafati bil-a'mālil-latī yakūnul-basyaru sababan fī hushūlihā, li'annahū lā yajibu an natajāwazal-haddal-masmūha lanā bihī li'anna 'aqlanā lā yuthīqu dzālika, farahmatan minallāhi binā sakhkhara lanā hādzal-'ilma fī hudūdi qudurātinā,
-‎wa [ ج ب ] harfāni zhulmāniyyāni 'ulwiyyāni wa kadzālika harfu [ د ] min-ismi Muhammadin shallallāhu 'alaihi wa sallama harfun zhulmāniyyun 'ulwiyyun.
-Ammā bikhushūshil-qawā'idil-harfiyyati famu'zhamuhā makhfiyyun wa hattā wa in wajadta qā'idatan fī kitābin tajiduhā ghaira tāmmatin au muharrafatan wa kullun minkum sayaqūlu limādzā fa'alū hādzā fa'aqūlu lakum qaulan shādiqan lau lam yaf'alū dzālika lakunnāl-yauma nuhāribu ba'dhunāl-ba'dha bisilāhin lā 'ilāja lahū illā man syafāhullāhu 'Azza wa Jalla fasubhāna man wadha'a fī hurūfi kitābihī hādzihil-qudratal-khāriqata bi'idznihī Subhānahū mā a'zhama sya'nahū. Wa awaddut-tanbīha li'umūrin-tasyarat fī kutubil-qaumi kullu man qāla khudz-isman min asmā'illāhi wa kassirhā faqad harrafa asmā'allāhi 'Azza wa Jalla wa kullu man qāla khudz āyatan wa kassirhā faqad harrafa kalāmallāhi, fal-qawā'idu fī hisābil-āyati wal-asmā'il-husnā mukhtalifatun tamāman wa lahā thuruqun khāshshatun bihā wa hiya fī martabatin tusammā martabatal-ittishālil-kauniyyi. Fal-asrāru kulluhā dākhilal-hurūfi 28, nas'alullāha 'Azza wa Jalla an yu'īnanā 'alāl-akhdzi biyadikum hattā yattadhiha lakumul-amru wa kullu mā athlubuhū minkum tahkīmu 'uqūlikum wa qārinū bil-'aqli wa tafaththanū bimā nadzkuruhū wa nadha'uhū min qawā'ida fa'in kuntu qad kasartu sunnatal-muta'āqidīna 'alā katmi hādzal-'ilmi falan aksira kalāmallāhi 'Azza wa Jalla, alladzī anzalahū fī kitābihī [ Yu'til-hikmata man yasyā'u ] idz lā yajūzu an ata'addā hādzihil-hudūda wa sanadha'ul-qawā'ida wa nadha'u amtsilatan jammatan wa nukmilu bil-isyārati fasta'īnū 'alā umūrikum bil-istighfāri wash-shalāti 'alā Rasūlillāhi shallallāhu 'alaihi wa sallama hattā yaftahallāhu lakum fahuwal-Fattāhul-'Alīmu.
+‎As-su'āluts-tsālitsu, Jibrā'īlu 'alaihis-salāmu raghma annahū minal-malā'ikatil-muqarrabīna limādzā ḥurūfuhul-ūlā [ ج ، ب ] ḥurūfun zhulmāniyyatun?
+Na'am akhī fillāhi lā tuqārin biman sammāhullāhu 'Azza wa Jalla wa bimā naf'aluhū naḥnu biḥurūfir-rūḥāniyyi fal-qā'idatul-latī na'malu 'alaihā lidhabthi ḥurūfir-rūḥāniyyi litabqā ḥurūfuhū nūrāniyyatan fīhā 'amalāni, al-awwalu nuḥaqqiqu ḥurūfahun-nūrāniyyata litakūna muḥriqatan 'alā khādimihī, wats-tsānī kai lā nakhruja 'an dā'iratil-arwāḥir-rūḥāniyyatil-mukallafati bil-a'mālil-latī yakūnul-basyaru sababan fī ḥushūlihā, li'annahū lā yajibu an natajāwazal-ḥaddal-masmūḥa lanā bihī li'anna 'aqlanā lā yuthīqu dzālika, faraḥmatan minallāhi binā sakhkhara lanā hādzal-'ilma fī ḥudūdi qudurātinā,
+‎wa [ ج ب ] ḥarfāni zhulmāniyyāni 'ulwiyyāni wa kadzālika ḥarfu [ د ] min-ismi Muḥammadin shallallāhu 'alaihi wa sallama ḥarfun zhulmāniyyun 'ulwiyyun.
+Ammā bikhushūshil-qawā'idil-ḥarfiyyati famu'zhamuhā makhfiyyun wa ḥattā wa in wajadta qā'idatan fī kitābin tajiduhā ghaira tāmmatin au muḥarrafatan wa kullun minkum sayaqūlu limādzā fa'alū hādzā fa'aqūlu lakum qaulan shādiqan lau lam yaf'alū dzālika lakunnāl-yauma nuhāribu ba'dhunāl-ba'dha bisilāḥin lā 'ilāja lahū illā man syafāhullāhu 'Azza wa Jalla fasubḥāna man wadha'a fī ḥurūfi kitābihī hādzihil-qudratal-khāriqata bi'idznihī Subḥānahū mā a'zhama sya'nahū. Wa awaddut-tanbīha li'umūrin-tasyarat fī kutubil-qaumi kullu man qāla khudz-isman min asmā'illāhi wa kassirhā faqad harrafa asmā'allāhi 'Azza wa Jalla wa kullu man qāla khudz āyatan wa kassirhā faqad harrafa kalāmallāhi, fal-qawā'idu fī ḥisābil-āyati wal-asmā'il-ḥusnā mukhtalifatun tamāman wa lahā thuruqun khāshshatun bihā wa hiya fī martabatin tusammā martabatal-ittishālil-kauniyyi. Fal-asrāru kulluhā dākhilal-ḥurūfi 28, nas'alullāha 'Azza wa Jalla an yu'īnanā 'alāl-akhdzi biyadikum ḥattā yattadhiḥa lakumul-amru wa kullu mā athlubuhū minkum taḥkīmu 'uqūlikum wa qārinū bil-'aqli wa tafaththanū bimā nadzkuruhū wa nadha'uhū min qawā'ida fa'in kuntu qad kasartu sunnatal-muta'āqidīna 'alā katmi hādzal-'ilmi falan aksira kalāmallāhi 'Azza wa Jalla, alladzī anzalahū fī kitābihī [ Yu'til-ḥikmata man yasyā'u ] idz lā yajūzu an ata'addā hādzihil-ḥudūda wa sanadha'ul-qawā'ida wa nadha'u amtsilatan jammatan wa nukmilu bil-isyārati fasta'īnū 'alā umūrikum bil-istighfāri wash-shalāti 'alā Rasūlillāhi shallallāhu 'alaihi wa sallama ḥattā yaftaḥallāhu lakum fahuwal-Fattāḥul-'Alīmu.
 
 ### Terjemahan
 
@@ -3941,6 +3892,7 @@ Adapun mengenai kaidah-kaidah ilmu huruf (*al-qawā'idul-harfiyyah*), maka sebag
 ‏رَبِّي يُبَارِكُ فِيهِ وَيَحْفَظُهُ
 ‏الْحُقُوقُ مَحْفُوظَةٌ
 ‏لِمُنْتَدَيَاتِ الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
+http://www.alanwaralqadria.com
 ‏الرَّاجِيَةُ عَفْوَ رَبِّهَا
 ‏خَادِمَتُكُمْ
 ‏عَابِدَةُ اللهِ
@@ -3956,6 +3908,7 @@ Al-Basyīri
 Rabbī yubāriku fīhi wa yahfazhuhū
 Al-huqūqu mahfūzhatun
 Limuntadayātil-Anwāril-Qādiriyyati wal-Arwāhir-Rahmāniyyati
+http://www.alanwaralqadria.com
 Ar-rājiyatu 'afwa Rabbihā
 Khādimatukum
 'Ābidatullāhi
@@ -3971,6 +3924,7 @@ Al-Basyīr —
 semoga Tuhanku memberkahi beliau dan senantiasa menjaga beliau.
 Hak cipta dilindungi
 untuk Forum Al-Anwār Al-Qādiriyyah wal-Arwāh Ar-Rahmāniyyah
+http://www.alanwaralqadria.com
 Yang mengharapkan ampunan Tuhannya,
 pelayan kalian:
 'Ābidatullāh.
@@ -3979,8 +3933,10 @@ serta menghadiahkan bacaan Surah Al-Fatihah untuk ruh ibuku dan ayahku.
 
 ### Syarah dan Penjelasan
 
-     1. **Riyādhāt** (Halaman 29–39);
-     2. **Durūsusy-Syaikh al-Basyīr** — 10 Pelajaran Ilmu Wafaq, Istinthāq, dan Rahasia Huruf (Halaman 40–64).
+1. **Kolofon dan identitas penghimpun**:
+   - Halaman penutup menyatakan selesainya penghimpunan faedah, mujarrabat, riyadhah, dan pelajaran Syeikh al-Basyir. Penghimpun menyebut dirinya *'Ābidatullāh*, memohon doa kebaikan bagi suami dan anak-anaknya, serta hadiah bacaan al-Fatihah bagi kedua orang tuanya.
+2. **Sistematika kitab**:
+   - Pembuka dan bagian *Fawā'id wa Mujarrabāt* berada pada halaman 01–30; bagian *Da'awāt wa Riyādhāt* pada halaman 31–42; bagian *Durūs* pada halaman 43–64; dan kolofon pada halaman 65.
 
 ### Khususiyah dan Tatacara Praktik
 
