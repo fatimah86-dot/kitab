@@ -2,13 +2,13 @@
 
 ### arab
 
-الدُّرَّةُ النَّافِعَةُ الدَّافِعَةُ لِلسِّحْرِ وَرَدِّهِ عَلَى فَاعِلِهِ
+‏الدُّرَّةُ النَّافِعَةُ الدَّافِعَةُ لِلسِّحْرِ وَرَدِّهِ عَلَى فَاعِلِهِ
 
-السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+‏السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-إِخْوَتِي فِي اللهِ أَضَعُ بَيْنَ أَيْدِيكُمُ الْكَرِيمَةِ هَذِهِ الدَّعْوَةَ الْمُبَارَكَةَ النَّافِعَةَ بِإِذْنِ اللهِ فِي دَفْعِ السِّحْرِ وَرَدِّهِ عَلَى السَّاحِرِ فَمَنْ أَرَادَ الْعَمَلَ بِهَا فَلْيُصَلِّ رَكْعَتَيْنِ لِلَّهِ عَزَّ وَجَلَّ مِنْ بَعْدِ صَلَاةِ الْمَغْرِبِ مُعْتَزِلًا فِي مَكَانٍ وَحْدَهُ وَيُطْلِقُ قَلِيلًا مِنْ بَخُورٍ طَيِّبٍ وَإِنْ كَانَ لُبَانًا كَانَ أَجْوَدَ وَيَتْلُو الدَّعْوَةَ سَبْعَ مَرَّاتٍ ، وَإِنْ كَانَ يَعْرِفُ مَنْ سَحَرَهُ فَلْيُحَكِّمْ عَقْلَهُ فِيهِ وَيَشْرَعُ فِي التِّلَاوَةِ وَلَسَوْفَ يَرَى حُكْمَ اللهِ فِي السَّاحِرِ ، وَإِنْ كَانَ الْمَرْءُ مَسْحُورًا وَتَلَاهَا زَالَ سِحْرُهُ بِإِذْنِ اللهِ عَزَّ وَجَلَّ ، أَسْأَلُ اللهَ الشِّفَاءَ وَالْعَافِيَةَ لِكُلِّ مُبْتَلًى وَأَسْأَلُهُ عَزَّ وَجَلَّ الدَّمَارَ وَالنَّكَالَ لِكُلِّ سَاحِرٍ ،
+‏إِخْوَتِي فِي اللهِ أَضَعُ بَيْنَ أَيْدِيكُمُ الْكَرِيمَةِ هَذِهِ الدَّعْوَةَ الْمُبَارَكَةَ النَّافِعَةَ بِإِذْنِ اللهِ فِي دَفْعِ السِّحْرِ وَرَدِّهِ عَلَى السَّاحِرِ فَمَنْ أَرَادَ الْعَمَلَ بِهَا فَلْيُصَلِّ رَكْعَتَيْنِ لِلَّهِ عَزَّ وَجَلَّ مِنْ بَعْدِ صَلَاةِ الْمَغْرِبِ مُعْتَزِلًا فِي مَكَانٍ وَحْدَهُ وَيُطْلِقُ قَلِيلًا مِنْ بَخُورٍ طَيِّبٍ وَإِنْ كَانَ لُبَانًا كَانَ أَجْوَدَ وَيَتْلُو الدَّعْوَةَ سَبْعَ مَرَّاتٍ ، وَإِنْ كَانَ يَعْرِفُ مَنْ سَحَرَهُ فَلْيُحَكِّمْ عَقْلَهُ فِيهِ وَيَشْرَعُ فِي التِّلَاوَةِ وَلَسَوْفَ يَرَى حُكْمَ اللهِ فِي السَّاحِرِ ، وَإِنْ كَانَ الْمَرْءُ مَسْحُورًا وَتَلَاهَا زَالَ سِحْرُهُ بِإِذْنِ اللهِ عَزَّ وَجَلَّ ، أَسْأَلُ اللهَ الشِّفَاءَ وَالْعَافِيَةَ لِكُلِّ مُبْتَلًى وَأَسْأَلُهُ عَزَّ وَجَلَّ الدَّمَارَ وَالنَّكَالَ لِكُلِّ سَاحِرٍ ،
 
-وَالدَّعْوَةُ هِيَ كَالتَّالِي ،
+‏وَالدَّعْوَةُ هِيَ كَالتَّالِي ،
 
 ### latin
 
@@ -32,14 +32,14 @@ Adapun doanya adalah sebagai berikut:
 
 ### Syarah dan Penjelasan
 
-1. **Makna `فَلْيُحَكِّمْ عَقْلَهُ فِيهِ` (Memfokuskan Akal/Batin pada Pelaku)**:
-   - Ungkapan Syeikh al-Basyir `وَإِنْ كَانَ يَعْرِفُ مَنْ سَحَرَهُ فَلْيُحَكِّمْ عَقْلَهُ فِيهِ` bermakna: apabila korban telah mengetahui secara yakin (misalnya melalui *kasyf manāmī* pada Halaman 29–30 atau bukti nyata) siapa pelaku sihirnya, maka saat membaca *Da'wah* ini sebanyak 7 kali, ia mengikat fokus pikirannya (*tahkīmul-'aql* / *tawajjuh*) pada sosok penyihir tersebut agar pantulan *raddus-sihr* tepat mengarah kepada sumber pengirimnya. Namun jika tidak mengetahui pelakunya, cukup membaca doa ini dengan niat kesembuhan dan pengembalian sihir kepada siapa pun pembuatnya dalam ilmu Allah.
+‎1. **Makna `فَلْيُحَكِّمْ عَقْلَهُ فِيهِ` (Memfokuskan Akal/Batin pada Pelaku)**:
+‎   - Ungkapan Syeikh al-Basyir `وَإِنْ كَانَ يَعْرِفُ مَنْ سَحَرَهُ فَلْيُحَكِّمْ عَقْلَهُ فِيهِ` bermakna: apabila korban telah mengetahui secara yakin (misalnya melalui *kasyf manāmī* pada Halaman 29–30 atau bukti nyata) siapa pelaku sihirnya, maka saat membaca *Da'wah* ini sebanyak 7 kali, ia mengikat fokus pikirannya (*tahkīmul-'aql* / *tawajjuh*) pada sosok penyihir tersebut agar pantulan *raddus-sihr* tepat mengarah kepada sumber pengirimnya. Namun jika tidak mengetahui pelakunya, cukup membaca doa ini dengan niat kesembuhan dan pengembalian sihir kepada siapa pun pembuatnya dalam ilmu Allah.
 
 ### Khususiyah dan Tatacara Praktik
 
-1. **Waktu Khusus: Ba'da Shalat Maghrib (`مِنْ بَعْدِ صَلَاةِ الْمَغْرِبِ`)**:
+‎1. **Waktu Khusus: Ba'da Shalat Maghrib (`مِنْ بَعْدِ صَلَاةِ الْمَغْرِبِ`)**:
    - Berbeda dengan *Kasyf Manāmī* (Hal. 29) dan *Da'watut-Tafwīdh* (Hal. 35) yang diamalkan setelah shalat Isya, *Ad-Durratun-Nāfi'ah* ini secara khusus diamalkan **setelah shalat Maghrib**, yaitu saat pergantian waktu siang menuju malam ketika gelombang kiriman sihir lazim bergerak.
-2. **Syarat Khalwat Ringan (`مُعْتَزِلًا فِي مَكَانٍ وَحْدَهُ`)**:
+‎2. **Syarat Khalwat Ringan (`مُعْتَزِلًا فِي مَكَانٍ وَحْدَهُ`)**:
    - Pengamal mengerjakan shalat sunnah 2 rakaat dan membaca doa ini **7 kali** (teks doanya termuat pada Halaman 38) di dalam kamar atau ruangan yang tenang seorang diri (*mu'tazilan wahdahū*) sambil menyalakan bukhur yang harum, terutama *lubān dzakar* (kemenyan Arab).
 3. **Dua Khasiat Sekaligus**:
    - **Syifā' (Penyembuhan)**: Melunturkan buhul dan pengaruh sihir dari tubuh orang yang tersihir (*mas-hūr*).

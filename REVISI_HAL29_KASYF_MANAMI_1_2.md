@@ -2,15 +2,15 @@
 
 ### arab
 
-فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ
+‏فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ
 
-إِخْوَتِي فِي اللهِ أَضَعُ لَكُمْ هَذِهِ الْفَائِدَةَ الْجَلِيلَةَ وَهِيَ فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ وَهِيَ نَافِعَةٌ بِإِذْنِ اللهِ عَزَّ وَجَلَّ فِي الْكَشْفِ عَنِ الْأُمُورِ الْمَخْفِيَّةِ بِمَا فِي ذَلِكَ الْخَبَايَا وَالسِّحْرِ الْمَدْفُونِ ،،،،، إلخ وَطَرِيقَةُ عَمَلِهَا هِيَ كَالتَّالِي ،
+‏إِخْوَتِي فِي اللهِ أَضَعُ لَكُمْ هَذِهِ الْفَائِدَةَ الْجَلِيلَةَ وَهِيَ فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ وَهِيَ نَافِعَةٌ بِإِذْنِ اللهِ عَزَّ وَجَلَّ فِي الْكَشْفِ عَنِ الْأُمُورِ الْمَخْفِيَّةِ بِمَا فِي ذَلِكَ الْخَبَايَا وَالسِّحْرِ الْمَدْفُونِ ،،،،، إلخ وَطَرِيقَةُ عَمَلِهَا هِيَ كَالتَّالِي ،
 
-اُكْتُبِ الْوَفْقَ فِي وَرَقَةٍ بَيْضَاءَ بِمِدَادٍ رُوحَانِيٍّ طَاهِرٍ وَبَخِّرْهُ بِطِيبِ الرَّائِحَةِ وَذَلِكَ يَكُونُ بَعْدَ صَلَاةِ الْعِشَاءِ طَبْعًا وَالْقِيَامِ بِمَا ذَكَرْتُهُ سَابِقًا فِي فَائِدَةِ الْأَعْمَالِ الرُّوحَانِيَّةِ الَّتِي تَسْبِقُ أَيَّ عَمَلٍ رُوحَانِيٍّ ، ثُمَّ بَعْدَ الْكِتَابَةِ وَالْبَخُورِ تَضَعُ الْوَرَقَةَ أَمَامَكَ فَوْقَ سَجَّادَتِكَ وَتَجْلِسُ جُلُوسَ الصَّلَاةِ وَأَنْتَ نَاظِرٌ إِلَى الْوَفْقِ ثُمَّ تَشْرَعُ فِي تِلَاوَةِ الْأَسْمَاءِ الْحُسْنَى الْآتِي ذِكْرُهَا بِيَاءِ النِّدَاءِ هَكَذَا ( يَا اللهُ يَا لَطِيفُ يَا خَبِيرُ ) عَدَدَ ١٠٧٠ مَرَّةً وَعَلَى رَأْسِ الْمَرَاتِبِ تَقْرَأُ الْآيَةَ الْكَرِيمَةَ ﴿ أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ ﴾ ١٠ مَرَّاتٍ وَالدُّعَاءَ مَرَّةً وَاحِدَةً وَهُوَ
+‏اُكْتُبِ الْوَفْقَ فِي وَرَقَةٍ بَيْضَاءَ بِمِدَادٍ رُوحَانِيٍّ طَاهِرٍ وَبَخِّرْهُ بِطِيبِ الرَّائِحَةِ وَذَلِكَ يَكُونُ بَعْدَ صَلَاةِ الْعِشَاءِ طَبْعًا وَالْقِيَامِ بِمَا ذَكَرْتُهُ سَابِقًا فِي فَائِدَةِ الْأَعْمَالِ الرُّوحَانِيَّةِ الَّتِي تَسْبِقُ أَيَّ عَمَلٍ رُوحَانِيٍّ ، ثُمَّ بَعْدَ الْكِتَابَةِ وَالْبَخُورِ تَضَعُ الْوَرَقَةَ أَمَامَكَ فَوْقَ سَجَّادَتِكَ وَتَجْلِسُ جُلُوسَ الصَّلَاةِ وَأَنْتَ نَاظِرٌ إِلَى الْوَفْقِ ثُمَّ تَشْرَعُ فِي تِلَاوَةِ الْأَسْمَاءِ الْحُسْنَى الْآتِي ذِكْرُهَا بِيَاءِ النِّدَاءِ هَكَذَا ( يَا اللهُ يَا لَطِيفُ يَا خَبِيرُ ) عَدَدَ ١٠٧٠ مَرَّةً وَعَلَى رَأْسِ الْمَرَاتِبِ تَقْرَأُ الْآيَةَ الْكَرِيمَةَ ﴿ أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ ﴾ ١٠ مَرَّاتٍ وَالدُّعَاءَ مَرَّةً وَاحِدَةً وَهُوَ
 
-( اللَّهُمَّ إِنِّي أَسْأَلُكَ يَا اللهُ يَا لَطِيفُ يَا خَبِيرُ يَا مَنْ عَظُمَتْ هَيْبَتُهُ فِي جَمِيعِ الْقُلُوبِ وَأَحَاطَ عِلْمُهُ بِمَرَاتِبِ الْغُيُوبِ اللَّهُمَّ إِنِّي أَسْأَلُكَ وَأَطْلُبُ مِنْكَ الْوُصُولَ إِلَيْكَ فَإِنِّي بِكَ أَسْتَدِلُّ عَلَيْكَ اللَّهُمَّ اهْدِنِي بِنُورِكَ إِلَيْكَ وَأَقِمْنِي بِصِدْقِ الْعُبُودِيَّةِ بَيْنَ يَدَيْكَ اللَّهُمَّ إِنِّي أَسْأَلُكَ بِخَفِيِّ خَفِيِّ لُطْفِكَ وَبِعَظِيمِ عَظِيمِ عَظَمَتِكَ وَبِسِرِّ أَسْرَارِ قُدْرَتِكَ وَبِمَكْنُونِ مَكْنُونِ غَيْبِكَ أَنْ تُسَخِّرَ لِي خَادِمًا مُطِيعًا مِنْ خُدَّامِ اسْمِكَ اللهِ اللَّطِيفِ الْخَبِيرِ تَكْشِفُ لِي بِهِ مَا غَابَ عَنِّي ( الطَّلَبُ ) يَا اللهُ يَا مَنْ قُلْتَ وَقَوْلُكَ الْحَقُّ ﴿ إِنَّ اللهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ ﴾ ) تَمَّ الدُّعَاءُ .
+‏( اللَّهُمَّ إِنِّي أَسْأَلُكَ يَا اللهُ يَا لَطِيفُ يَا خَبِيرُ يَا مَنْ عَظُمَتْ هَيْبَتُهُ فِي جَمِيعِ الْقُلُوبِ وَأَحَاطَ عِلْمُهُ بِمَرَاتِبِ الْغُيُوبِ اللَّهُمَّ إِنِّي أَسْأَلُكَ وَأَطْلُبُ مِنْكَ الْوُصُولَ إِلَيْكَ فَإِنِّي بِكَ أَسْتَدِلُّ عَلَيْكَ اللَّهُمَّ اهْدِنِي بِنُورِكَ إِلَيْكَ وَأَقِمْنِي بِصِدْقِ الْعُبُودِيَّةِ بَيْنَ يَدَيْكَ اللَّهُمَّ إِنِّي أَسْأَلُكَ بِخَفِيِّ خَفِيِّ لُطْفِكَ وَبِعَظِيمِ عَظِيمِ عَظَمَتِكَ وَبِسِرِّ أَسْرَارِ قُدْرَتِكَ وَبِمَكْنُونِ مَكْنُونِ غَيْبِكَ أَنْ تُسَخِّرَ لِي خَادِمًا مُطِيعًا مِنْ خُدَّامِ اسْمِكَ اللهِ اللَّطِيفِ الْخَبِيرِ تَكْشِفُ لِي بِهِ مَا غَابَ عَنِّي ( الطَّلَبُ ) يَا اللهُ يَا مَنْ قُلْتَ وَقَوْلُكَ الْحَقُّ ﴿ إِنَّ اللهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ ﴾ ) تَمَّ الدُّعَاءُ .
 
-وَعِنْدَ تَمَامِ الْعَمَلِ تُصَلِّي عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ١١ مَرَّةً ، ثُمَّ تَضَعُ الْوَرَقَةَ تَحْتَ وِسَادَتِكَ وَتَكُونُ الْكِتَابَةُ إِلَى أَعْلَى ثُمَّ تَنَامُ مَكَانَكَ عَلَى شِقِّكَ الْيَمِينِ ، فَبِإِذْنِ اللهِ تَرَى فِي مَنَامِكَ مَا يَسُرُّكَ ، وَلَا تُخْبِرْ أَحَدًا بِمَا رَأَيْتَ . وَهَذَا هُوَ الْوَفْقُ تُحِيطُهُ بِالْآيَةِ ﴿ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ ﴾ مِنْ جِهَاتِهِ الْأَرْبَعِ وَتَدُورُ بِهِ الْآيَةُ مِنْ جِهَاتِهِ الْأَرْبَعِ كَذَلِكَ ﴿ أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ ﴾ وَالدُّعَاءُ مُبْتَدِئًا مِنْ فَوْقِ الْيَمِينِ عَكْسَ عَقَارِبِ السَّاعَةِ
+‏وَعِنْدَ تَمَامِ الْعَمَلِ تُصَلِّي عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ١١ مَرَّةً ، ثُمَّ تَضَعُ الْوَرَقَةَ تَحْتَ وِسَادَتِكَ وَتَكُونُ الْكِتَابَةُ إِلَى أَعْلَى ثُمَّ تَنَامُ مَكَانَكَ عَلَى شِقِّكَ الْيَمِينِ ، فَبِإِذْنِ اللهِ تَرَى فِي مَنَامِكَ مَا يَسُرُّكَ ، وَلَا تُخْبِرْ أَحَدًا بِمَا رَأَيْتَ . وَهَذَا هُوَ الْوَفْقُ تُحِيطُهُ بِالْآيَةِ ﴿ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ ﴾ مِنْ جِهَاتِهِ الْأَرْبَعِ وَتَدُورُ بِهِ الْآيَةُ مِنْ جِهَاتِهِ الْأَرْبَعِ كَذَلِكَ ﴿ أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ ﴾ وَالدُّعَاءُ مُبْتَدِئًا مِنْ فَوْقِ الْيَمِينِ عَكْسَ عَقَارِبِ السَّاعَةِ
 
 ### latin
 
@@ -38,16 +38,16 @@ Dan ketika seluruh amalan telah sempurna, engkau bershalawat atas Rasulullah sha
 
 ### Syarah dan Penjelasan
 
-1. **Rahasia Bilangan 1070 (`عَدَدَ ١٠٧٠ مَرَّةً`) & `رَأْسُ الْمَرَاتِبِ`**:
-   - Tiga Asmaul Husna yang dipanggil dengan huruf seruan (`يَا اللهُ يَا لَطِيفُ يَا خَبِيرُ`) memiliki nilai hisab Jumal Kabir:
-     - `الله` = **66**
-     - `لطيف` = **129**
-     - `خبير` = **812**
+‎1. **Rahasia Bilangan 1070 (`عَدَدَ ١٠٧٠ مَرَّةً`) & `رَأْسُ الْمَرَاتِبِ`**:
+‎   - Tiga Asmaul Husna yang dipanggil dengan huruf seruan (`يَا اللهُ يَا لَطِيفُ يَا خَبِيرُ`) memiliki nilai hisab Jumal Kabir:
+‎     - `الله` = **66**
+‎     - `لطيف` = **129**
+‎     - `خبير` = **812**
      - Jumlah ketiganya = `66 + 129 + 812 = 1007`, dan apabila dihitung bersama huruf seruan / penggenapan thabaqāt mukhammas menjadi **1070**.
-   - Istilah **`عَلَى رَأْسِ الْمَرَاتِبِ`** (*di setiap kepala tingkatan bilangan*) dalam disiplin ilmu hikmah berarti: ketika membaca 1070 kali, bacaan dijeda pada kepala satuan/puluhan pertama (**70**), lalu setiap genap ratusan (**100, 200, 300, 400, 500, 600, 700, 800, 900, 1000** — total 11 jeda) untuk membaca QS. al-Mulk: 14 sebanyak 10× dan Doa Kasyf 1×.
+‎   - Istilah **`عَلَى رَأْسِ الْمَرَاتِبِ`** (*di setiap kepala tingkatan bilangan*) dalam disiplin ilmu hikmah berarti: ketika membaca 1070 kali, bacaan dijeda pada kepala satuan/puluhan pertama (**70**), lalu setiap genap ratusan (**100, 200, 300, 400, 500, 600, 700, 800, 900, 1000** — total 11 jeda) untuk membaca QS. al-Mulk: 14 sebanyak 10× dan Doa Kasyf 1×.
 2. **Kesesuaian Ayat Kunci QS. al-Mulk: 14 & QS. al-An'ām: 73**:
-   - QS. al-Mulk: 14 (`أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ`) adalah ayat kunci *kasyf* (penyingkapan) paling masyhur di kalangan ulama hikmah karena memadukan sifat *al-Lathīf* (Yang menembus perkara paling halus/tersembunyi) dan *al-Khabīr* (Yang mengetahui hakikat batin).
-   - Adapun bingkai dalam wafaq menggunakan potongan QS. al-An'ām: 73 (`قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ` — 4 kata untuk 4 sisi bingkai wafaq), yang huruf-huruf awalnya (atau nilai hisabnya) menjadi fondasi pengunci kebenaran penglihatan mimpi (*ru'yā shādiqah*).
+‎   - QS. al-Mulk: 14 (`أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ`) adalah ayat kunci *kasyf* (penyingkapan) paling masyhur di kalangan ulama hikmah karena memadukan sifat *al-Lathīf* (Yang menembus perkara paling halus/tersembunyi) dan *al-Khabīr* (Yang mengetahui hakikat batin).
+‎   - Adapun bingkai dalam wafaq menggunakan potongan QS. al-An'ām: 73 (`قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ` — 4 kata untuk 4 sisi bingkai wafaq), yang huruf-huruf awalnya (atau nilai hisabnya) menjadi fondasi pengunci kebenaran penglihatan mimpi (*ru'yā shādiqah*).
 
 ### Khususiyah dan Tatacara Praktik
 
@@ -55,5 +55,5 @@ Dan ketika seluruh amalan telah sempurna, engkau bershalawat atas Rasulullah sha
 2. **Syarat Pendahuluan**: Wajib dikerjakan setelah shalat Isya dalam keadaan suci lahir batin, serta terlebih dahulu melakukan *tahshīn* (benteng diri) dan *ishrāful-'ummār* sebagaimana kaidah umum amalan ruhani yang telah dijelaskan Syeikh al-Basyir pada halaman-halaman awal kitab.
 3. **Adab Fokus Pandangan (`Nāzhirun ilal-wafqi`)**: Selama berzikir 1070×, kertas wafaq yang telah diasapi bukhur wangi diletakkan di atas sajadah di depan pengamal, dan mata memandang tenang ke arah pusat wafaq agar bentuk geometris angka asror terekam dalam batin sebelum tidur.
 4. **Adab Tidur & Pantangan Membocorkan Rahasia (`Wa lā tukhbir ahadan bimā ra'aita`)**:
-   - Setelah menutup wirid dengan shalawat 11×, letakkan kertas wafaq di bawah bantal dengan permukaan tulisan menghadap ke atas (`الْكِتَابَةُ إِلَى أَعْلَى`), lalu langsung tidur di tempat shalat tersebut dengan posisi miring ke lambung kanan (`عَلَى شِقِّكَ الْيَمِينِ`) tanpa berbicara urusan duniawi lagi.
+‎   - Setelah menutup wirid dengan shalawat 11×, letakkan kertas wafaq di bawah bantal dengan permukaan tulisan menghadap ke atas (`الْكِتَابَةُ إِلَى أَعْلَى`), lalu langsung tidur di tempat shalat tersebut dengan posisi miring ke lambung kanan (`عَلَى شِقِّكَ الْيَمِينِ`) tanpa berbicara urusan duniawi lagi.
    - **Syarat mutlak**: Apa yang tampak di dalam mimpi tidak boleh diceritakan kepada siapa pun agar pintu *kasyf* tidak tertutup.

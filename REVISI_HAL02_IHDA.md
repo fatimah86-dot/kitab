@@ -1,17 +1,17 @@
 ## HALAMAN 02 — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
-إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
+‏إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
-أُهْدِي هَذَا الْعَمَلَ إِلَى سَيِّدِي رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ
+‏أُهْدِي هَذَا الْعَمَلَ إِلَى سَيِّدِي رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ
 
-وَإِلَى آلِ بَيْتِهِ الطَّيِّبِينَ الْأَخْيَارِ
+‏وَإِلَى آلِ بَيْتِهِ الطَّيِّبِينَ الْأَخْيَارِ
 
-وَلِلشَّيْخِ الْفَقِيرِ الْقَادِرِيِّ
+‏وَلِلشَّيْخِ الْفَقِيرِ الْقَادِرِيِّ
 
-وَلِلدُّكْتُورِ بِيهُونِي
+‏وَلِلدُّكْتُورِ بِيهُونِي
 
-وَإِلَى جَمِيعِ الْفُقَرَاءِ
+‏وَإِلَى جَمِيعِ الْفُقَرَاءِ
 
 ### latin
 Ihdā'usy-Syaikhil-Basyīri
@@ -41,8 +41,8 @@ dan kepada seluruh kaum fuqara (para penempuh jalan ruhani).
 
 ### Syarah dan Penjelasan
 1. **Adab Sanad & Persembahan (*Ihdā'*)**:
-   - Halaman ini memuat persembahan (*ihdā'*) karya dari Syeikh al-Basyir kepada junjungan utama Rasulullah ﷺ beserta Ahlulbait beliau (`آلِ بَيْتِهِ الطَّيِّبِينَ الْأَخْيَارِ`), yang menegaskan kemurnian adab bertawasul dalam tradisi thariqah.
-   - Penyebutan **Syeikh al-Faqir al-Qadiri** dan **Dr. Bihuni** serta seluruh *fuqarā'* (`الْفُقَرَاء` — istilah sufi Qadiriyah bagi para murid yang merasa fakir/butuh hanya kepada Allah Ta'ala) menunjukkan pertautan sanad keilmuan kitab ini di lingkungan *Muntadā al-Anwār al-Qādiriyyah wal-Arwāh ar-Rahmāniyyah*.
+‎   - Halaman ini memuat persembahan (*ihdā'*) karya dari Syeikh al-Basyir kepada junjungan utama Rasulullah ﷺ beserta Ahlulbait beliau (`آلِ بَيْتِهِ الطَّيِّبِينَ الْأَخْيَارِ`), yang menegaskan kemurnian adab bertawasul dalam tradisi thariqah.
+‎   - Penyebutan **Syeikh al-Faqir al-Qadiri** dan **Dr. Bihuni** serta seluruh *fuqarā'* (`الْفُقَرَاء` — istilah sufi Qadiriyah bagi para murid yang merasa fakir/butuh hanya kepada Allah Ta'ala) menunjukkan pertautan sanad keilmuan kitab ini di lingkungan *Muntadā al-Anwār al-Qādiriyyah wal-Arwāh ar-Rahmāniyyah*.
 
 ### Khususiyah dan Tatacara Praktik
 1. **Niat & Tawasul Pembuka**:

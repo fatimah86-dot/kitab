@@ -1,17 +1,17 @@
 ## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
 
 ### arab
-الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
+‏الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
 
-السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+‏السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-إِخْوَتِي فِي اللهِ، كَثِيرًا مَا وَقَعَ لَكُمْ أَنِ اسْتَخْدَمْتُمُ اسْتِنْزَالًا وَحَضَرَ خَادِمُهُ وَسَأَلْتُمُوهُ عَنْ أَمْرٍ فَأَجَابَكُمْ عَنْهُ وَوَجَدْتُمْ مَا قَالَهُ كَذِبًا [أَيِ الصَّبِيُّ]، وَهَذِهِ الْحَالَةُ تَقَعُ لِمَنْ يَعْمَلُونَ الِاسْتِنْزَالَ عَبْرَ الْوَسِيطِ [أَيْ الصَّبِيِّ]، وَمُعْظَمُ هَذِهِ الِاسْتِنْزَالَاتِ كَاذِبَةٌ، وَالسَّبَبُ هُوَ إِمَّا أَنْ يَكُونَ الطَّالِبُ غَيْرَ مُتَمَرِّسٍ، وَإِمَّا أَنْ يَكُونَ قَدْ تَمَادَى بِفِعْلِ الِاسْتِنْزَالِ وَطَلَبِ الْخُدَّامِ وَسُؤَالِهِمْ عَنْ أُمُورٍ تُحَقِّرُ مِنْ مَكَانَتِهِمْ، خُصُوصًا إِذَا كَانَ الْخَادِمُ عُلْوِيًّا فَإِنَّهُ يَمْتَنِعُ عَنِ النُّزُولِ وَيَدْخُلُ مَكَانَهُ خَادِمٌ سُفْلِيٌّ كَذَّابٌ [عُلْوِيًّا لَيْسَتِ الْإِشَارَةُ هُنَا لِلْمُلُوكِ السَّبْعَةِ فَهِيَ لَا تَنْزِلُ أَبَدًا إِلَّا فِي اسْتِنْزَالٍ نَفْسِيٍّ رَبَّانِيٍّ]
+‏إِخْوَتِي فِي اللهِ، كَثِيرًا مَا وَقَعَ لَكُمْ أَنِ اسْتَخْدَمْتُمُ اسْتِنْزَالًا وَحَضَرَ خَادِمُهُ وَسَأَلْتُمُوهُ عَنْ أَمْرٍ فَأَجَابَكُمْ عَنْهُ وَوَجَدْتُمْ مَا قَالَهُ كَذِبًا [أَيِ الصَّبِيُّ]، وَهَذِهِ الْحَالَةُ تَقَعُ لِمَنْ يَعْمَلُونَ الِاسْتِنْزَالَ عَبْرَ الْوَسِيطِ [أَيْ الصَّبِيِّ]، وَمُعْظَمُ هَذِهِ الِاسْتِنْزَالَاتِ كَاذِبَةٌ، وَالسَّبَبُ هُوَ إِمَّا أَنْ يَكُونَ الطَّالِبُ غَيْرَ مُتَمَرِّسٍ، وَإِمَّا أَنْ يَكُونَ قَدْ تَمَادَى بِفِعْلِ الِاسْتِنْزَالِ وَطَلَبِ الْخُدَّامِ وَسُؤَالِهِمْ عَنْ أُمُورٍ تُحَقِّرُ مِنْ مَكَانَتِهِمْ، خُصُوصًا إِذَا كَانَ الْخَادِمُ عُلْوِيًّا فَإِنَّهُ يَمْتَنِعُ عَنِ النُّزُولِ وَيَدْخُلُ مَكَانَهُ خَادِمٌ سُفْلِيٌّ كَذَّابٌ [عُلْوِيًّا لَيْسَتِ الْإِشَارَةُ هُنَا لِلْمُلُوكِ السَّبْعَةِ فَهِيَ لَا تَنْزِلُ أَبَدًا إِلَّا فِي اسْتِنْزَالٍ نَفْسِيٍّ رَبَّانِيٍّ]
 
-وَهَذِهِ فَائِدَةٌ قَاطِعَةٌ لِزَجْرِ خُدَّامِ الِاسْتِنْزَالِ وَحَثِّهِمْ عَلَى قَوْلِ الْحَقِّ، وَلَا تُخْبِرِ النَّاظِرَ بِمَا تُرِيدُ فِعْلَهُ كَيْ تَتَأَكَّدَ مِمَّا يَنْظُرُ لَهُ، بَعْدَ مَا تَعْمَلُ الِاسْتِنْزَالَ وَيُخْبِرُكَ بِحُضُورِ الْخَادِمِ تَتْلُو هَذِهِ الْآيَةَ سَبْعَ مَرَّاتٍ وَأَنْتَ مَاسِكٌ بِجَبْهَةِ النَّاظِرِ لِتَثْقِيفِهِ:
+‏وَهَذِهِ فَائِدَةٌ قَاطِعَةٌ لِزَجْرِ خُدَّامِ الِاسْتِنْزَالِ وَحَثِّهِمْ عَلَى قَوْلِ الْحَقِّ، وَلَا تُخْبِرِ النَّاظِرَ بِمَا تُرِيدُ فِعْلَهُ كَيْ تَتَأَكَّدَ مِمَّا يَنْظُرُ لَهُ، بَعْدَ مَا تَعْمَلُ الِاسْتِنْزَالَ وَيُخْبِرُكَ بِحُضُورِ الْخَادِمِ تَتْلُو هَذِهِ الْآيَةَ سَبْعَ مَرَّاتٍ وَأَنْتَ مَاسِكٌ بِجَبْهَةِ النَّاظِرِ لِتَثْقِيفِهِ:
 
-﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَكِنْ كَرِهَ اللهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾
+‏﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَكِنْ كَرِهَ اللهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾
 
-وَبَعْدَ ذَلِكَ تَأْمُرُهُ بِالشَّهَادَتَيْنِ وَالصَّلَاةِ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ تَأْمُرُهُ أَنْ يَأْتِيَ بِالْمُصْحَفِ الشَّرِيفِ وَيَفْتَحَهُ فِي سُورَةِ الْمُجَادَلَةِ، وَأْمُرِ النَّاظِرَ أَنْ يَبْدَأَ فِي قِرَاءَةِ السُّورَةِ لِتَتَأَكَّدَ أَنَّهَا هِيَ، بَعْدَ ذَلِكَ تَأْمُرُ الْخَادِمَ أَنْ يَضَعَ يَدَهُ الْيُمْنَى عَلَيْهَا وَيُعَاهِدَكَ بِقَوْلِ الْحَقِّ، وَإِنْ أَبَى وَهُوَ سَيَفْعَلُ ذَلِكَ لَا مَحَالَةَ ازْجُرْهُ بِهَذَا الزَّجْرِ الْقَاطِعِ:
+‏وَبَعْدَ ذَلِكَ تَأْمُرُهُ بِالشَّهَادَتَيْنِ وَالصَّلَاةِ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ تَأْمُرُهُ أَنْ يَأْتِيَ بِالْمُصْحَفِ الشَّرِيفِ وَيَفْتَحَهُ فِي سُورَةِ الْمُجَادَلَةِ، وَأْمُرِ النَّاظِرَ أَنْ يَبْدَأَ فِي قِرَاءَةِ السُّورَةِ لِتَتَأَكَّدَ أَنَّهَا هِيَ، بَعْدَ ذَلِكَ تَأْمُرُ الْخَادِمَ أَنْ يَضَعَ يَدَهُ الْيُمْنَى عَلَيْهَا وَيُعَاهِدَكَ بِقَوْلِ الْحَقِّ، وَإِنْ أَبَى وَهُوَ سَيَفْعَلُ ذَلِكَ لَا مَحَالَةَ ازْجُرْهُ بِهَذَا الزَّجْرِ الْقَاطِعِ:
 
 ### latin
 Az-Zajrul-qāthi‘u li’akhdzil-‘ahdi wal-mītsāqi ‘alā khādimil-istinzāli
@@ -22,7 +22,7 @@ Ikhwatī fillāhi, katsīran mā waqa‘a lakum ani istakhdamtumu istinzālan wa
 
 Wa hādzihi fā’idatun qāthi‘atun lizajri khuddāmil-istinzāli wa hatstsihim ‘alā qaulil-ḥaqqi, wa lā tukhbirin-nāzhira bimā turīdu fi‘lahu kai tata’akkada mimmā yanzhuru lahu, ba‘da mā ta‘malul-istinzāla wa yukhbiruka biḥudhūril-khādimi tatlū hādzihil-āyata sab‘a marrātin wa anta māsikun bijabhatin-nāzhiri litatsqīfihi:
 
-﴿ Wa lau arādul-khurūja la’a‘addū lahu ‘uddatan wa lākin karihallāhub‘ātsahum fatsabbathahum wa qīla iq‘udū ma‘al-qā‘idīna ﴾ (QS At-Taubah: 46)
+‎﴿ Wa lau arādul-khurūja la’a‘addū lahu ‘uddatan wa lākin karihallāhub‘ātsahum fatsabbathahum wa qīla iq‘udū ma‘al-qā‘idīna ﴾ (QS At-Taubah: 46)
 
 Wa ba‘da dzālika ta’muruhu bisy-syahādataini wash-shalāti ‘alan-nabiyyi shallallāhu ‘alaihi wa sallama, tsumma ta’muruhu an ya’tiya bil-mushḥafisy-syarīfi wa yaftahahu fī sūratil-mujādalati, wa’murin-nāzhira an yabda’a fī qirā’atis-sūrati litata’akkada annahā hiya, ba‘da dzālika ta’murul-khādima an yadha‘a yadahul-yumnā ‘alaihā wa yu‘āhidaka biqaulil-ḥaqqi, wa in abā wa huwa saya‘alu dzālika lā maḥālata izjurhu bihādzaz-zajril-qāthi‘i:
 
@@ -35,7 +35,7 @@ Wahai saudara-saudaraku karena Allah, sering terjadi pada kalian bahwa kalian te
 
 Dan ini adalah faedah yang ampuh untuk menggertak para khādim istinzāl dan mendorong mereka agar berkata benar: Jangan beritahu sang penglihat (an-nāzhir) tentang apa yang hendak kamu lakukan agar kamu dapat memastikan kebenaran apa yang ia lihat. Setelah kamu melakukan istinzāl dan ia memberitahumu tentang kehadiran khādim, bacalah ayat berikut sebanyak **tujuh kali** dalam keadaan kamu **memegang dahi an-nāzhir untuk mengunci/menguatkannya (li-tatsqīfihi)**:
 
-﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَٰكِن كَرِهَ اللَّهُ انبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾ (QS At-Taubah: 46)
+‎﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَٰكِن كَرِهَ اللَّهُ انبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾ (QS At-Taubah: 46)
 
 Setelah itu, perintahkan ia (khādim melalui perantara) untuk mengucapkan dua kalimat syahadat dan shalawat kepada Nabi shallallāhu ‘alaihi wa sallam. Kemudian perintahkan ia untuk mendatangkan mushaf yang mulia dan membukanya pada **Surah al-Mujādalah**. Perintahkan an-nāzhir untuk mulai membaca surah tersebut agar kamu dapat memastikan bahwa yang terbuka memang surah itu. Setelah itu, perintahkan khādim untuk meletakkan tangan kanannya di atas mushaf tersebut dan berjanji kepadamu untuk berkata benar. **Jika ia menolak — padahal ia pasti akan melakukannya, tidak dapat tidak — maka gertaklah ia dengan gertakan pemutus (az-zajr al-qāthi‘) berikut ini:”
 

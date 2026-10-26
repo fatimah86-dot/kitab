@@ -1,11 +1,11 @@
 ## HALAMAN 01 — SAMPUL — أَنْوَارُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
-أَنْوَارُ الشَّيْخِ الْبَشِيرِ
+‏أَنْوَارُ الشَّيْخِ الْبَشِيرِ
 
-مُنْتَدَيَاتُ الْأَنْوَارِ الْقَادِرِيَّةِ
+‏مُنْتَدَيَاتُ الْأَنْوَارِ الْقَادِرِيَّةِ
 
-وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
+‏وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
 
 ### latin
 [Latin Washal belum tersedia]
@@ -22,17 +22,17 @@ _Khususiyah._
 ## HALAMAN 02 — IHDA' — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
-إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
+‏إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
-أُهْدِي هَذَا الْعَمَلَ إِلَى سَيِّدِي رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ
+‏أُهْدِي هَذَا الْعَمَلَ إِلَى سَيِّدِي رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ
 
-وَإِلَى آلِ بَيْتِهِ الطَّيِّبِينَ الْأَخْيَارِ
+‏وَإِلَى آلِ بَيْتِهِ الطَّيِّبِينَ الْأَخْيَارِ
 
-وَلِلشَّيْخِ الْفَقِيرِ الْقَادِرِيِّ
+‏وَلِلشَّيْخِ الْفَقِيرِ الْقَادِرِيِّ
 
-وَلِلدُّكْتُورِ بِيهُونِي
+‏وَلِلدُّكْتُورِ بِيهُونِي
 
-وَإِلَى جَمِيعِ الْفُقَرَاءِ
+‏وَإِلَى جَمِيعِ الْفُقَرَاءِ
 
 ### latin
 Ihdā'ush-Syaikhil-Basyīr, uhdī hādzal-'amala ilā Sayyidī Rasūlillāhi ṣallallāhu 'alaihi wa sallam, wa ilā Āli baitihith-Ṭayyibīnal-Akhyār, wa lish-Syaikhil-Faqīril-Qādiriyy, wa lid-Duktūri Bīhūnī, wa ilā jamī'il-Fuqarā'.
@@ -49,21 +49,21 @@ _Khususiyah._
 ## HALAMAN 03 — IJAZAH 'AMMAH — إِجَازَةُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
-إِجَازَةُ الشَّيْخِ الْبَشِيرِ
+‏إِجَازَةُ الشَّيْخِ الْبَشِيرِ
 
-لَقَدْ أَجَزْتُ كُلَّ مَنْ وَصَلَتْ إِلَيْهِ فَوَائِدِي وَرِيَاضَاتِي إِجَازَةً عَامَّةً
+‏لَقَدْ أَجَزْتُ كُلَّ مَنْ وَصَلَتْ إِلَيْهِ فَوَائِدِي وَرِيَاضَاتِي إِجَازَةً عَامَّةً
 
-فِيمَا يُرْضِي اللهَ وَرَسُولَهُ وَيَقُومُ بِهَا بَعْدَ
+‏فِيمَا يُرْضِي اللهَ وَرَسُولَهُ وَيَقُومُ بِهَا بَعْدَ
 
-الصَّلَاةِ عَلَى الْحَبِيبِ الْمُصْطَفَى وَقِرَاءَةِ الْفَاتِحَةِ وَإِهْدَاءِ ثَوَابِهَا
+‏الصَّلَاةِ عَلَى الْحَبِيبِ الْمُصْطَفَى وَقِرَاءَةِ الْفَاتِحَةِ وَإِهْدَاءِ ثَوَابِهَا
 
-لِرُوحِ الْحَبِيبِ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَإِلَى رُوحِ
+‏لِرُوحِ الْحَبِيبِ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَإِلَى رُوحِ
 
-شَيْخِي رَحِمَهُ اللهُ عَلَيْهِ وَلِفَاتِحَةٍ لِي
+‏شَيْخِي رَحِمَهُ اللهُ عَلَيْهِ وَلِفَاتِحَةٍ لِي
 
-وَإِلَى الشَّيْخِ الْفَقِيرِ الْقَادِرِيِّ أَطَالَ اللهُ لَنَا فِي عُمُرِهِ
+‏وَإِلَى الشَّيْخِ الْفَقِيرِ الْقَادِرِيِّ أَطَالَ اللهُ لَنَا فِي عُمُرِهِ
 
-وَبِذَلِكَ تَكُونُ قَدْ وَصَلَتْهُ الْإِجَازَةُ الْعَامَّةُ
+‏وَبِذَلِكَ تَكُونُ قَدْ وَصَلَتْهُ الْإِجَازَةُ الْعَامَّةُ
 
 ### latin
 Laqad ajastukulla maw-wa-shallat ilaihi fawā'idī wa riyādhātī ijāzatan 'āmma(tan) fīmā yurdhiLlāha wa Rasūlahu wa yaqūmu bihā ba'daṣ-Ṣalāti 'alal-Ḥabībil-Muṣṭafā wa qirā'atil-Fātiḥati wa ihdā'i thawābihā li rūḥil-Ḥabībi Muḥammadin ṣallallāhu 'alaihi wa sallam, wa ilā rūḥi syaikhī raḥimahullāh 'alaih, wa li Fātiḥatillī, wa ilash-Syaikhil-Faqīril-Qādiriyyi aṭālallāhu lanā fī 'umrih, wa bi dzālika takūnu qad washallathul-ijāzatul-'āmmah.
@@ -80,7 +80,7 @@ _Khususiyah._
 ## HALAMAN 04 — SAMPUL DALAM — فَوَائِدُ وَمُجَرَّبَاتُ
 
 ### arab
-فَوَائِدُ وَمُجَرَّبَاتُ الشَّيْخِ الْبَشِيرِ
+‏فَوَائِدُ وَمُجَرَّبَاتُ الشَّيْخِ الْبَشِيرِ
 
 ### latin
 Fawā'idu wa Mujarrabātush-Syaikhil-Basyīr
@@ -97,21 +97,21 @@ _Khususiyah._
 ## HALAMAN 05 — FIHRIS — فِهْرِسُ مُجَرَّبَاتِ
 
 ### arab
-فِهْرِسُ مُجَرَّبَاتِ الشَّيْخِ الْبَشِيرِ
+‏فِهْرِسُ مُجَرَّبَاتِ الشَّيْخِ الْبَشِيرِ
 
-1. طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
-2. فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
-3. فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
-4. الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الْاِسْتِنْزَالِ
-5. فَائِدَةٌ لِطَرْدِ عُطُوشٍ مُفْسِدِ الْأَعْمَالِ الرُّوحَانِيَّةِ
-6. الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرُّوحَانِيَّةِ
-7. فَائِدَةٌ فِي تَدْمِيرِ الظَّالِمِ
-8. فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ
-9. السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ
-10. فَائِدَةٌ قَاطِعَةٌ لِرَدِّ الْخَادِمِ
-11. دُعَاءُ الْخَائِفِ
-12. الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ
-13. فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ
+‏1. طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
+‏2. فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
+‏3. فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
+‏4. الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الْاِسْتِنْزَالِ
+‏5. فَائِدَةٌ لِطَرْدِ عُطُوشٍ مُفْسِدِ الْأَعْمَالِ الرُّوحَانِيَّةِ
+‏6. الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرُّوحَانِيَّةِ
+‏7. فَائِدَةٌ فِي تَدْمِيرِ الظَّالِمِ
+‏8. فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ
+‏9. السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ
+‏10. فَائِدَةٌ قَاطِعَةٌ لِرَدِّ الْخَادِمِ
+‏11. دُعَاءُ الْخَائِفِ
+‏12. الْآيَاتُ الْعَشْرُ الْمُبْطِلَاتُ لِلنَّفْثِ وَالسِّحْرِ
+‏13. فَائِدَةٌ فِي الْكَشْفِ الْمَنَامِيِّ
 
 ### latin
 fawā'idu → fawā'idum-muhriqatun ṭāridatun lil-Jinni wal-Maradati bi'iznillāh).
@@ -128,41 +128,41 @@ _Khususiyah._
 ## HALAMAN 06 — FAEDAH MAYSARAH 1/3 — طَرِيقَةُ الْمَيْسَرَةِ
 
 ### arab
-طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
+‏طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
 
-إِخْوَتِي فِي اللهِ
+‏إِخْوَتِي فِي اللهِ
 
-أَضَعُ بَيْنَ أَيْدِيكُمْ هَذِهِ الدُّرَّةَ النَّافِعَةَ فِي جَلْبِ الْأَرْزَاقِ، وَرَوَاجِ التِّجَارَةِ، وَهِيَ طَرِيقَةُ الْمَيْسَرَةِ، وَارْتَأَيْتُ أَنْ أَضَعَهَا لَكُمْ لِمَا فِيهَا مِنَ الْخَيْرِ وَالْبَرَكَةِ، وَكَذَلِكَ لِاحْتِوَائِهَا عَلَى قَوَاعِدَ حَرْفِيَّةٍ تُسَاعِدُكُمْ عَلَى مَا نَحْنُ بِصَدَدِهِ بِإِذْنِ اللهِ
+‏أَضَعُ بَيْنَ أَيْدِيكُمْ هَذِهِ الدُّرَّةَ النَّافِعَةَ فِي جَلْبِ الْأَرْزَاقِ، وَرَوَاجِ التِّجَارَةِ، وَهِيَ طَرِيقَةُ الْمَيْسَرَةِ، وَارْتَأَيْتُ أَنْ أَضَعَهَا لَكُمْ لِمَا فِيهَا مِنَ الْخَيْرِ وَالْبَرَكَةِ، وَكَذَلِكَ لِاحْتِوَائِهَا عَلَى قَوَاعِدَ حَرْفِيَّةٍ تُسَاعِدُكُمْ عَلَى مَا نَحْنُ بِصَدَدِهِ بِإِذْنِ اللهِ
 
-وَنَضَعُ فِي ذَلِكَ مِثَالًا بِاسْمِ مُرَادٍ وَأُمِّهِ مَرْيَمَ،
+‏وَنَضَعُ فِي ذَلِكَ مِثَالًا بِاسْمِ مُرَادٍ وَأُمِّهِ مَرْيَمَ،
 
-م ر ا د م ر ي م = 535 نَلْفِظُ الْعَدَدَ حَرْفِيًّا،
+‏م ر ا د م ر ي م = 535 نَلْفِظُ الْعَدَدَ حَرْفِيًّا،
 
-535 ، خَمْسُ مِائَةٍ وَثَلَاثُونَ وَخَمْسُ مِائَةٍ ، ثُمَّ نُزِيلُ التَّكْرَارَ مِنَ الْحُرُوفِ هَكَذَا،
+‏535 ، خَمْسُ مِائَةٍ وَثَلَاثُونَ وَخَمْسُ مِائَةٍ ، ثُمَّ نُزِيلُ التَّكْرَارَ مِنَ الْحُرُوفِ هَكَذَا،
 
-خ م س و ث ل ن ا هـ = 9 أَحْرُفٍ ، وَكَذَلِكَ نَفْعَلُ بِاسْمِ الطَّالِبِ نُزِيلُ مِنْهُ الْمُكَرَّرَ وَحُرُوفَ الْمَدِّ هَكَذَا،
+‏خ م س و ث ل ن ا هـ = 9 أَحْرُفٍ ، وَكَذَلِكَ نَفْعَلُ بِاسْمِ الطَّالِبِ نُزِيلُ مِنْهُ الْمُكَرَّرَ وَحُرُوفَ الْمَدِّ هَكَذَا،
 
-م ر ا د م ر ي م ، تَصِيرُ كَالتَّالِي ، م ر د ي = 4 حُرُوفٍ ، ثُمَّ نَطْرَحُ الْأَقَلَّ مِنَ الْأَكْثَرِ،
+‏م ر ا د م ر ي م ، تَصِيرُ كَالتَّالِي ، م ر د ي = 4 حُرُوفٍ ، ثُمَّ نَطْرَحُ الْأَقَلَّ مِنَ الْأَكْثَرِ،
 
-9 - 4 = 5 فَثَبَتَ الْعَمَلُ فِي وَفْقٍ مُخَمَّسٍ ، وَعَدَدُ بُيُوتِهِ 25 بَيْتًا ، ثُمَّ بَعْدَ ذَلِكَ نُقَارِنُ حُرُوفَ لَفْظِ الْعَدَدِ مَعَ حُرُوفِ الطَّالِبِ وَنُزِيلُ الْمُكَرَّرَ مِنْهُمَا ، خ م س و ث ل ن ا هـ م ر د ي ، فَتَصِيرُ الْحُرُوفُ هَكَذَا،
+‏9 - 4 = 5 فَثَبَتَ الْعَمَلُ فِي وَفْقٍ مُخَمَّسٍ ، وَعَدَدُ بُيُوتِهِ 25 بَيْتًا ، ثُمَّ بَعْدَ ذَلِكَ نُقَارِنُ حُرُوفَ لَفْظِ الْعَدَدِ مَعَ حُرُوفِ الطَّالِبِ وَنُزِيلُ الْمُكَرَّرَ مِنْهُمَا ، خ م س و ث ل ن ا هـ م ر د ي ، فَتَصِيرُ الْحُرُوفُ هَكَذَا،
 
-خ م س و ث ل ن ا هـ م ر د ي = 12 حَرْفًا نَطْرَحُهَا مِنْ عَدَدِ بُيُوتِ الْمُخَمَّسِ، 25 - 12 = 13،
+‏خ م س و ث ل ن ا هـ م ر د ي = 12 حَرْفًا نَطْرَحُهَا مِنْ عَدَدِ بُيُوتِ الْمُخَمَّسِ، 25 - 12 = 13،
 
-وَهَذَا هُوَ الْأُسُّ الْحَرْفِيُّ الْمُعَدَّلُ، فَنَأْخُذُ مِنَ الْحُرُوفِ مَا كَانَ عَدَدُهُ أَقَلَّ مِنْ 13 تُوضَعُ فِي وَفْقِ الْعَمَلِ وَمَا كَانَ أَكْثَرَ مِنْ 13 فَهِيَ لِلرُّوحَانِيِّ، وَالْحُرُوفُ الْمُسْتَخْرَجَةُ هِيَ كَالْآتِي،
+‏وَهَذَا هُوَ الْأُسُّ الْحَرْفِيُّ الْمُعَدَّلُ، فَنَأْخُذُ مِنَ الْحُرُوفِ مَا كَانَ عَدَدُهُ أَقَلَّ مِنْ 13 تُوضَعُ فِي وَفْقِ الْعَمَلِ وَمَا كَانَ أَكْثَرَ مِنْ 13 فَهِيَ لِلرُّوحَانِيِّ، وَالْحُرُوفُ الْمُسْتَخْرَجَةُ هِيَ كَالْآتِي،
 
-أَقَلَّ مِنْ 13 ، و ا هـ د ي
+‏أَقَلَّ مِنْ 13 ، و ا هـ د ي
 
-أَكْثَرَ مِنْ 13 ، خ م س و ث ل ن ر ، وَجَبَ عَلَيْنَا تَعْدِيلُ حَرْفَيْنِ ظُلْمَانِيَّيْنِ مِنَ الرُّوحَانِيِّ [ خ ث ] لَكِنَّ التَّعْدِيلَ يَكُونُ بِالْمِيزَانِ الْإِبْقِيِّ بِدُونِ نِسَبٍ تَفَاضُلِيَّةٍ، وَعَلَيْهِ نَسْتَبْدِلُ حَرْفَ [ خ ] بِحَرْفِ [ س ] وَ [ ث ] بِحَرْفِ [ ن ] فَتَصِيرُ الْحُرُوفُ كَالتَّالِي [ س م س ن ل ن ر ] ثُمَّ نُكَسِّرُهَا 3 مَرَّاتٍ هَكَذَا،
+‏أَكْثَرَ مِنْ 13 ، خ م س و ث ل ن ر ، وَجَبَ عَلَيْنَا تَعْدِيلُ حَرْفَيْنِ ظُلْمَانِيَّيْنِ مِنَ الرُّوحَانِيِّ [ خ ث ] لَكِنَّ التَّعْدِيلَ يَكُونُ بِالْمِيزَانِ الْإِبْقِيِّ بِدُونِ نِسَبٍ تَفَاضُلِيَّةٍ، وَعَلَيْهِ نَسْتَبْدِلُ حَرْفَ [ خ ] بِحَرْفِ [ س ] وَ [ ث ] بِحَرْفِ [ ن ] فَتَصِيرُ الْحُرُوفُ كَالتَّالِي [ س م س ن ل ن ر ] ثُمَّ نُكَسِّرُهَا 3 مَرَّاتٍ هَكَذَا،
 
-س م س ن ل ن ر
-ر س ن م ل س ن
-ن ر س س ن ل م
+‏س م س ن ل ن ر
+‏ر س ن م ل س ن
+‏ن ر س س ن ل م
 
 ### latin
 Ṭarīqatul-Maysarati fī Jalbil-Arzāq, ikhwatī fillāh, aḍa'u baina aidīkum hādzihid-durratan-nāfi'ata fī jalbil-arzāqi wa rawājit-tijārah, wahya Ṭarīqatul-Maysarah, warta'aytu an aḍa'ahā lakum limā fīhā minal-khairi wal-barakah... bismi Murādin wa ummihi Maryam, mīm rā' alif dāl mīm rā' yā' mīm = 535 nalfiẓul-'adada ḥarfiyyā...
 
 ### Terjemahan
-Cara Maysarah untuk menarik rezeki. Wahai saudara-saudaraku karena Allah, aku letakkan di hadapan kalian mutiara yang bermanfaat ini untuk menarik rezeki dan melariskan perdagangan, yaitu Cara Maysarah. Aku pandang baik untuk meletakkannya bagi kalian karena di dalamnya ada kebaikan dan keberkahan, dan juga karena mengandung kaidah-kaidah huruf yang membantu kalian dalam apa yang sedang kita bahas dengan izin Allah. Aku berikan contoh dengan nama Murad dan ibunya Maryam: م ر ا د م ر ي م = 535, kita ucapkan bilangan itu secara huruf: خَمْسُ مِائَةٍ وَثَلَاثُونَ وَخَمْسُ مِائَةٍ, kemudian kita hilangkan huruf yang berulang sehingga menjadi خ م س و ث ل ن ا هـ = 9 huruf. Begitu juga kita lakukan pada nama penanya, kita hilangkan yang berulang dan huruf mad, sehingga م ر ا د م ر ي م menjadi م ر د ي = 4 huruf. Kemudian kita kurangkan yang lebih sedikit dari yang lebih banyak: 9 - 4 = 5, maka pekerjaannya tetap pada wafaq 5×5 yang jumlah petaknya 25. Kemudian kita bandingkan huruf-huruf lafaz bilangan dengan huruf-huruf penanya dan kita hilangkan yang berulang di antara keduanya: خ م س و ث ل ن ا هـ + م ر د ي menjadi 12 huruf, kita kurangkan dari jumlah petak wafaq 5×5: 25 - 12 = 13. Ini adalah pokok huruf yang telah disesuaikan. Maka kita ambil dari huruf-huruf itu yang jumlahnya kurang dari 13 untuk diletakkan pada wafaq amal, dan yang lebih dari 13 untuk ruhaninya. Huruf-huruf yang dikeluarkan adalah: kurang dari 13: و ا هـ د ي ; lebih dari 13: خ م س و ث ل ن ر. Wajib atas kita menyesuaikan dua huruf zhulmani dari pihak ruhani [خ ث] tetapi penyesuaian dengan mizan yang kekal tanpa nisbah perbedaan, maka kita ganti huruf [خ] dengan huruf [س] dan [ث] dengan huruf [ن] sehingga huruf-hurufnya menjadi [س م س ن ل ن ر] kemudian kita pecah tiga kali seperti ini: س م س ن ل ن ر / ر س ن م ل س ن / ن ر س س ن ل م.
+‎Cara Maysarah untuk menarik rezeki. Wahai saudara-saudaraku karena Allah, aku letakkan di hadapan kalian mutiara yang bermanfaat ini untuk menarik rezeki dan melariskan perdagangan, yaitu Cara Maysarah. Aku pandang baik untuk meletakkannya bagi kalian karena di dalamnya ada kebaikan dan keberkahan, dan juga karena mengandung kaidah-kaidah huruf yang membantu kalian dalam apa yang sedang kita bahas dengan izin Allah. Aku berikan contoh dengan nama Murad dan ibunya Maryam: م ر ا د م ر ي م = 535, kita ucapkan bilangan itu secara huruf: خَمْسُ مِائَةٍ وَثَلَاثُونَ وَخَمْسُ مِائَةٍ, kemudian kita hilangkan huruf yang berulang sehingga menjadi خ م س و ث ل ن ا هـ = 9 huruf. Begitu juga kita lakukan pada nama penanya, kita hilangkan yang berulang dan huruf mad, sehingga م ر ا د م ر ي م menjadi م ر د ي = 4 huruf. Kemudian kita kurangkan yang lebih sedikit dari yang lebih banyak: 9 - 4 = 5, maka pekerjaannya tetap pada wafaq 5×5 yang jumlah petaknya 25. Kemudian kita bandingkan huruf-huruf lafaz bilangan dengan huruf-huruf penanya dan kita hilangkan yang berulang di antara keduanya: خ م س و ث ل ن ا هـ + م ر د ي menjadi 12 huruf, kita kurangkan dari jumlah petak wafaq 5×5: 25 - 12 = 13. Ini adalah pokok huruf yang telah disesuaikan. Maka kita ambil dari huruf-huruf itu yang jumlahnya kurang dari 13 untuk diletakkan pada wafaq amal, dan yang lebih dari 13 untuk ruhaninya. Huruf-huruf yang dikeluarkan adalah: kurang dari 13: و ا هـ د ي ; lebih dari 13: خ م س و ث ل ن ر. Wajib atas kita menyesuaikan dua huruf zhulmani dari pihak ruhani [خ ث] tetapi penyesuaian dengan mizan yang kekal tanpa nisbah perbedaan, maka kita ganti huruf [خ] dengan huruf [س] dan [ث] dengan huruf [ن] sehingga huruf-hurufnya menjadi [س م س ن ل ن ر] kemudian kita pecah tiga kali seperti ini: س م س ن ل ن ر / ر س ن م ل س ن / ن ر س س ن ل م.
 
 ### Syarah dan Penjelasan
 _Syarah._
@@ -173,51 +173,51 @@ _Khususiyah._
 ## HALAMAN 07 — FAEDAH MAYSARAH 2/3 — LANJUTAN
 
 ### arab
-طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
+‏طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
 
-ثُمَّ نَلْقُطُ مِنَ السَّطْرِ الثَّانِي اسْمَ الرُّوحَانِيِّ مُبْتَدِئِينَ مِنَ الْحَرْفِ الثَّانِي وَنَسِيرُ بِالتَّثْلِيثِ هَكَذَا،
+‏ثُمَّ نَلْقُطُ مِنَ السَّطْرِ الثَّانِي اسْمَ الرُّوحَانِيِّ مُبْتَدِئِينَ مِنَ الْحَرْفِ الثَّانِي وَنَسِيرُ بِالتَّثْلِيثِ هَكَذَا،
 
-[ س م س ] وَعَلَيْهِ يَكُونُ الرُّوحَانِيُّ هُوَ [ سَمْسَائِيلُ ] ثُمَّ نَلْقُطُ مِنَ السَّطْرِ الثَّالِثِ كَذَلِكَ بِالتَّثْلِيثِ
+‏[ س م س ] وَعَلَيْهِ يَكُونُ الرُّوحَانِيُّ هُوَ [ سَمْسَائِيلُ ] ثُمَّ نَلْقُطُ مِنَ السَّطْرِ الثَّالِثِ كَذَلِكَ بِالتَّثْلِيثِ
 
-مُبْتَدِئِينَ مِنَ الْحَرْفِ الْأَوَّلِ لِاسْتِخْرَاجِ الرُّوحَانِيِّ الْحَاكِمِ فَتَكُونُ حُرُوفُهُ هِيَ [ ن س ل م ] وَعَلَيْهِ
+‏مُبْتَدِئِينَ مِنَ الْحَرْفِ الْأَوَّلِ لِاسْتِخْرَاجِ الرُّوحَانِيِّ الْحَاكِمِ فَتَكُونُ حُرُوفُهُ هِيَ [ ن س ل م ] وَعَلَيْهِ
 
-يَكُونُ الرُّوحَانِيُّ بَعْدَ تَرْتِيبِ حُرُوفِهِ هُوَ [ نَسْمَائِيلُ ] ثُمَّ نَأْخُذُ حُرُوفَ الْعَمَلِ وَالرُّوحَانِيِّ الْحَاكِمِ
+‏يَكُونُ الرُّوحَانِيُّ بَعْدَ تَرْتِيبِ حُرُوفِهِ هُوَ [ نَسْمَائِيلُ ] ثُمَّ نَأْخُذُ حُرُوفَ الْعَمَلِ وَالرُّوحَانِيِّ الْحَاكِمِ
 
-مَبْسُوطَةً بِدُونِ تِكْرَارٍ وَبِدُونِ حُرُوفٍ ظُلْمَانِيَّةٍ وَنَسْتَخْرِجُ مِنْهَا مَا تَرَكَّبَ فِيهَا مِنْ أَسْمَاءِ اللهِ
+‏مَبْسُوطَةً بِدُونِ تِكْرَارٍ وَبِدُونِ حُرُوفٍ ظُلْمَانِيَّةٍ وَنَسْتَخْرِجُ مِنْهَا مَا تَرَكَّبَ فِيهَا مِنْ أَسْمَاءِ اللهِ
 
-الْحُسْنَى النُّورَانِيَّةِ هَكَذَا، [ ن ل م س ي هـ و ] وَعَلَيْهِ تَكُونُ الْأَسْمَاءُ الْمُسْتَخْرَجَةُ هِيَ [ لَا إِلَهَ إِلَّا
+‏الْحُسْنَى النُّورَانِيَّةِ هَكَذَا، [ ن ل م س ي هـ و ] وَعَلَيْهِ تَكُونُ الْأَسْمَاءُ الْمُسْتَخْرَجَةُ هِيَ [ لَا إِلَهَ إِلَّا
 
-اللهُ الْمُهَيْمِنُ ] وَهِيَ الَّتِي تُتْلَى عَلَى الْعَمَلِ،
+‏اللهُ الْمُهَيْمِنُ ] وَهِيَ الَّتِي تُتْلَى عَلَى الْعَمَلِ،
 
-أَمَّا طَرِيقَةُ الْعَمَلِ، نَأْخُذُ الْحُرُوفَ الْخَمْسَةَ الَّتِي لِلْعَمَلِ وَنَقْسِمُهَا عَلَى 7 لِاسْتِخْرَاجِ سَاعَةِ الْعَمَلِ
+‏أَمَّا طَرِيقَةُ الْعَمَلِ، نَأْخُذُ الْحُرُوفَ الْخَمْسَةَ الَّتِي لِلْعَمَلِ وَنَقْسِمُهَا عَلَى 7 لِاسْتِخْرَاجِ سَاعَةِ الْعَمَلِ
 
-هَكَذَا،
+‏هَكَذَا،
 
-و ا هـ د ي = 27 مَقْسُومَةً عَلَى 7 الْخَارِجُ 3 وَالْبَاقِي 6 إِذَنْ سَاعَةُ الْعَمَلِ هِيَ الزُّهَرَةُ، وَعَلَيْهِ
+‏و ا هـ د ي = 27 مَقْسُومَةً عَلَى 7 الْخَارِجُ 3 وَالْبَاقِي 6 إِذَنْ سَاعَةُ الْعَمَلِ هِيَ الزُّهَرَةُ، وَعَلَيْهِ
 
-تَكُونُ الْكِتَابَةُ وَالتِّلَاوَةُ سَاعَةَ الزُّهَرَةِ فِي أَيِّ يَوْمٍ شِئْنَا،
+‏تَكُونُ الْكِتَابَةُ وَالتِّلَاوَةُ سَاعَةَ الزُّهَرَةِ فِي أَيِّ يَوْمٍ شِئْنَا،
 
-فَنَأْخُذُ حُرُوفَ الْعَمَلِ مُرَتَّبَةً وَنَنْزِلُ بِهَا فِي وَفْقٍ مُخَمَّسٍ وَنُحَوِّطُهُ بِالْآيَةِ [ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ
+‏فَنَأْخُذُ حُرُوفَ الْعَمَلِ مُرَتَّبَةً وَنَنْزِلُ بِهَا فِي وَفْقٍ مُخَمَّسٍ وَنُحَوِّطُهُ بِالْآيَةِ [ قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ
 
-] وَنَكْتُبُ عَلَى الْأَرْكَانِ الْأَرْبَعَةِ اسْمَ الرُّوحَانِيِّ [ سَمْسَائِيلَ ] وَنَدُورُ عَلَيْهِ الْآيَتَيْنِ الْكَرِيمَتَيْنِ، اللهُ
+‏] وَنَكْتُبُ عَلَى الْأَرْكَانِ الْأَرْبَعَةِ اسْمَ الرُّوحَانِيِّ [ سَمْسَائِيلَ ] وَنَدُورُ عَلَيْهِ الْآيَتَيْنِ الْكَرِيمَتَيْنِ، اللهُ
 
-لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَنْ يَشَاءُ وَهُوَ الْقَوِيُّ الْعَزِيزُ ، وَالْآيَةَ ، الَّذِينَ يَتْلُونَ كِتَابَ اللهِ ... إِلَى لَنْ
+‏لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَنْ يَشَاءُ وَهُوَ الْقَوِيُّ الْعَزِيزُ ، وَالْآيَةَ ، الَّذِينَ يَتْلُونَ كِتَابَ اللهِ ... إِلَى لَنْ
 
-تَبُورَ .
+‏تَبُورَ .
 
-وَفِي نَفْسِ الْوَرَقَةِ مِنْ وَرَاءِ وَفْقِ الْمُخَمَّسِ تَرْسُمُ وَفْقًا بِقَدْرِ حُرُوفِ الرُّوحَانِيِّ الْحَاكِمِ وَتَنْزِلُ وَنَنْزِلُ بِهِ
+‏وَفِي نَفْسِ الْوَرَقَةِ مِنْ وَرَاءِ وَفْقِ الْمُخَمَّسِ تَرْسُمُ وَفْقًا بِقَدْرِ حُرُوفِ الرُّوحَانِيِّ الْحَاكِمِ وَتَنْزِلُ وَنَنْزِلُ بِهِ
 
-كَمَا فَعَلْنَا بِحُرُوفِ الْعَمَلِ فَيَكُونُ وَفْقًا مُرَبَّعًا وَتُحَوِّطُهُ بِاسْمِهِ، وَالْكِتَابَةُ تَكُونُ
+‏كَمَا فَعَلْنَا بِحُرُوفِ الْعَمَلِ فَيَكُونُ وَفْقًا مُرَبَّعًا وَتُحَوِّطُهُ بِاسْمِهِ، وَالْكِتَابَةُ تَكُونُ
 
-بِمَاءِ وَرْدٍ وَزَعْفَرَانَ وَمِسْكٍ مَعَ بَخُورٍ طَيِّبٍ
+‏بِمَاءِ وَرْدٍ وَزَعْفَرَانَ وَمِسْكٍ مَعَ بَخُورٍ طَيِّبٍ
 
-كَاللُّبَانِ وَعُودِ الصَّلِيبِ
+‏كَاللُّبَانِ وَعُودِ الصَّلِيبِ
 
 ### latin
 Tsumma nalquthu minas-sathrits-tsānismarrūḥāniyyi mubtadi'īna minal-ḥarfits-tsānī wa nasīru bit-tathlīthi hākadzā: [sīn mīm sīn] wa 'alaihi yakūnur-rūḥāniyyu huwa Samsā'īlu... wa takūnus-sā'atu hiyaz-Zuharah...
 
 ### Terjemahan
-Kemudian kita ambil dari baris kedua nama ruhaninya dengan memulai dari huruf kedua dan kita berjalan dengan pelompatan tiga, yaitu [س م س] maka ruhaninya adalah [Samsail]. Kemudian kita ambil dari baris ketiga juga dengan pelompatan tiga dengan memulai dari huruf pertama untuk mengeluarkan ruhani yang menguasai, maka huruf-hurufnya adalah [ن س ل م] maka ruhaninya setelah disusun huruf-hurufnya adalah [Nasmahil]. Kemudian kita ambil huruf-huruf amal dan ruhani yang menguasai yang terhampar tanpa pengulangan dan tanpa huruf-huruf zhulmani dan kita keluarkan darinya nama-nama Allah yang indah yang bercahaya, yaitu [ن ل م س ي هـ و] maka nama-nama yang dikeluarkan adalah [Laa Ilaaha Illallah Al-Muhaimin] dan itulah yang dibaca atas amalan tersebut. Adapun cara amalnya: kita ambil lima huruf untuk amal dan kita bagi 7 untuk mengeluarkan jam amalnya seperti ini: و ا هـ د ي = 27 dibagi 7 hasilnya 3 sisanya 6, maka jam amalnya adalah Zuhrah. Maka penulisan dan pembacaan pada jam Zuhrah pada hari apa saja yang kita kehendaki. Maka kita ambil huruf-huruf amal yang tersusun dan kita turunkan pada wafaq 5×5 dan kita kelilingi dengan ayat [Qauluhul-Haqqu wa lahul-Mulku] dan kita tulis pada empat sudutnya nama ruhani [Samsail] dan kita kelilingi dengan dua ayat yang mulia: Allahu Lathifun bi 'Ibadihi Yarzuqu man Yasya' wa Huwal-Qawiyyul-'Aziz, dan ayat: Alladzina Yatluuna Kitaballah ... hingga Lan Tabur. Dan pada kertas yang sama di belakang wafaq 5×5 kita gambar wafaq sesuai jumlah huruf ruhani yang menguasai dan kita turunkan di dalamnya sebagaimana kita lakukan pada huruf-huruf amal, maka menjadi wafaq 4×4 dan kita kelilingi dengan namanya. Penulisan dengan air mawar, za'faran dan misik beserta dupa yang harum seperti luban dan kayu gaharu salib.
+‎Kemudian kita ambil dari baris kedua nama ruhaninya dengan memulai dari huruf kedua dan kita berjalan dengan pelompatan tiga, yaitu [س م س] maka ruhaninya adalah [Samsail]. Kemudian kita ambil dari baris ketiga juga dengan pelompatan tiga dengan memulai dari huruf pertama untuk mengeluarkan ruhani yang menguasai, maka huruf-hurufnya adalah [ن س ل م] maka ruhaninya setelah disusun huruf-hurufnya adalah [Nasmahil]. Kemudian kita ambil huruf-huruf amal dan ruhani yang menguasai yang terhampar tanpa pengulangan dan tanpa huruf-huruf zhulmani dan kita keluarkan darinya nama-nama Allah yang indah yang bercahaya, yaitu [ن ل م س ي هـ و] maka nama-nama yang dikeluarkan adalah [Laa Ilaaha Illallah Al-Muhaimin] dan itulah yang dibaca atas amalan tersebut. Adapun cara amalnya: kita ambil lima huruf untuk amal dan kita bagi 7 untuk mengeluarkan jam amalnya seperti ini: و ا هـ د ي = 27 dibagi 7 hasilnya 3 sisanya 6, maka jam amalnya adalah Zuhrah. Maka penulisan dan pembacaan pada jam Zuhrah pada hari apa saja yang kita kehendaki. Maka kita ambil huruf-huruf amal yang tersusun dan kita turunkan pada wafaq 5×5 dan kita kelilingi dengan ayat [Qauluhul-Haqqu wa lahul-Mulku] dan kita tulis pada empat sudutnya nama ruhani [Samsail] dan kita kelilingi dengan dua ayat yang mulia: Allahu Lathifun bi 'Ibadihi Yarzuqu man Yasya' wa Huwal-Qawiyyul-'Aziz, dan ayat: Alladzina Yatluuna Kitaballah ... hingga Lan Tabur. Dan pada kertas yang sama di belakang wafaq 5×5 kita gambar wafaq sesuai jumlah huruf ruhani yang menguasai dan kita turunkan di dalamnya sebagaimana kita lakukan pada huruf-huruf amal, maka menjadi wafaq 4×4 dan kita kelilingi dengan namanya. Penulisan dengan air mawar, za'faran dan misik beserta dupa yang harum seperti luban dan kayu gaharu salib.
 
 ### Syarah dan Penjelasan
 _Syarah._
@@ -228,17 +228,17 @@ _Khususiyah._
 ## HALAMAN 08 — FAEDAH MAYSARAH 3/3 — 2 WAFAQ
 
 ### arab
-طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
+‏طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
 
-وَهَذَا وَفْقُ الْعَمَلِ وَهَذَا الْوَفْقُ الْمُرَبَّعُ الَّذِي نَزَلْنَا فِيهِ الرُّوحَانِيَّ
+‏وَهَذَا وَفْقُ الْعَمَلِ وَهَذَا الْوَفْقُ الْمُرَبَّعُ الَّذِي نَزَلْنَا فِيهِ الرُّوحَانِيَّ
 
-طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
-الشَّيْخُ الْبَشِيرُ
-مُنْتَدَى الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
+‏طَرِيقَةُ الْمَيْسَرَةِ فِي جَلْبِ الْأَرْزَاقِ
+‏الشَّيْخُ الْبَشِيرُ
+‏مُنْتَدَى الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
 
-وَعَدَدُ الْعَزِيمَةِ 196 مَرَّةً مَعَ التَّوَجُّهِ إِلَى اللهِ عَزَّ وَجَلَّ بِطَلَبِكَ،
+‏وَعَدَدُ الْعَزِيمَةِ 196 مَرَّةً مَعَ التَّوَجُّهِ إِلَى اللهِ عَزَّ وَجَلَّ بِطَلَبِكَ،
 
-أَسْأَلُ اللهَ عَزَّ وَجَلَّ أَنْ يَنْفَعَكُمْ بِهَذِهِ الذَّخِيرَةِ الْمُبَارَكَةِ إِنَّهُ وَلِيُّ ذَلِكَ وَالْقَادِرُ عَلَيْهِ وَالسَّلَامُ
+‏أَسْأَلُ اللهَ عَزَّ وَجَلَّ أَنْ يَنْفَعَكُمْ بِهَذِهِ الذَّخِيرَةِ الْمُبَارَكَةِ إِنَّهُ وَلِيُّ ذَلِكَ وَالْقَادِرُ عَلَيْهِ وَالسَّلَامُ
 
 ### latin
 Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā fīhir-rūḥāniyy, ... wa 'adadul-'azīmati mi'atun wa sittun wa tis'ūna marratam-ma'at-tawajjuhi ilallāhi 'azza wa jalla bi ṭalabik, as'alullāha 'azza wa jalla an yanfa'akum bihādzihidz-dzakhīratil-mubārakati innahu Waliyyu dzālika wal-Qādiru 'alaihi was-salām.
@@ -255,25 +255,25 @@ _Khususiyah._
 ## HALAMAN 09 — FAEDAH MUHRIQAH 1/2
 
 ### arab
-فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
+‏فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
 
-اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+‏اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-إِخْوَتِي فِي اللهِ أَضَعُ لَكُمْ هَذِهِ الْفَائِدَةَ الْخَاصَّةَ بِإِحْرَاقِ الْجِنِّ وَطَرْدِهِ مِنْ جَسَدِ الْإِنْسَانِ بِإِذْنِ اللهِ وَهِيَ كَالتَّالِي،
+‏إِخْوَتِي فِي اللهِ أَضَعُ لَكُمْ هَذِهِ الْفَائِدَةَ الْخَاصَّةَ بِإِحْرَاقِ الْجِنِّ وَطَرْدِهِ مِنْ جَسَدِ الْإِنْسَانِ بِإِذْنِ اللهِ وَهِيَ كَالتَّالِي،
 
-نَأْخُذُ اسْمَ الشَّخْصِ وَأُمِّهِ وَنُزِيلُ مِنْهُ الْحُرُوفَ الْمُكَرَّرَةَ إِنْ كَانَ فِي الِاسْمِ وَإِلَّا يَبْقَى الِاسْمُ كَمَا هُوَ بِدُونِ حَذْفٍ إِذَا لَمْ تَتَكَرَّرْ فِيهِ الْحُرُوفُ، ثُمَّ نَمْزُجُهُ بِالْحُرُوفِ النَّارِيَّةِ وَالْهَوَائِيَّةِ النُّورَانِيَّةِ [ا هـ ط م ك س ق] حَيْثُ يَكُونُ أَوَّلُ حَرْفٍ مِنْهَا وَآخِرُ حَرْفٍ مِنْهَا كَذَلِكَ ثُمَّ نَكْسِرُ السَّطْرَ الْمَمْزُوجَ إِلَى الْمَخْرَجِ مَعَ تَرْكِهِ أَيْ نَأْخُذُ السُّطُورَ الَّتِي قَبْلَهُ فَقَطْ وَنَنْظُرُ إِلَى عَدَدِ سُطُورِ التَّكْسِيرِ أَهِيَ زَوْجٌ أَوْ فَرْدٌ فَإِنْ كَانَتْ زَوْجِيَّةً نَأْخُذُ الرُّوحَانِيَّ مِنَ السَّطْرِ الثَّانِي وَإِنْ كَانَتْ فَرْدِيَّةً نَأْخُذُهَا مِنَ السَّطْرِ الثَّالِثِ،
+‏نَأْخُذُ اسْمَ الشَّخْصِ وَأُمِّهِ وَنُزِيلُ مِنْهُ الْحُرُوفَ الْمُكَرَّرَةَ إِنْ كَانَ فِي الِاسْمِ وَإِلَّا يَبْقَى الِاسْمُ كَمَا هُوَ بِدُونِ حَذْفٍ إِذَا لَمْ تَتَكَرَّرْ فِيهِ الْحُرُوفُ، ثُمَّ نَمْزُجُهُ بِالْحُرُوفِ النَّارِيَّةِ وَالْهَوَائِيَّةِ النُّورَانِيَّةِ [ا هـ ط م ك س ق] حَيْثُ يَكُونُ أَوَّلُ حَرْفٍ مِنْهَا وَآخِرُ حَرْفٍ مِنْهَا كَذَلِكَ ثُمَّ نَكْسِرُ السَّطْرَ الْمَمْزُوجَ إِلَى الْمَخْرَجِ مَعَ تَرْكِهِ أَيْ نَأْخُذُ السُّطُورَ الَّتِي قَبْلَهُ فَقَطْ وَنَنْظُرُ إِلَى عَدَدِ سُطُورِ التَّكْسِيرِ أَهِيَ زَوْجٌ أَوْ فَرْدٌ فَإِنْ كَانَتْ زَوْجِيَّةً نَأْخُذُ الرُّوحَانِيَّ مِنَ السَّطْرِ الثَّانِي وَإِنْ كَانَتْ فَرْدِيَّةً نَأْخُذُهَا مِنَ السَّطْرِ الثَّالِثِ،
 
-وَكَذَلِكَ حُرُوفُهُ إِنْ كَانَ التَّكْسِيرُ زَوْجًا تَكُونُ حُرُوفُ الرُّوحَانِيِّ زَوْجِيَّةً وَإِنْ كَانَ فَرْدًا تَكُونُ حُرُوفُهُ فَرْدِيَّةً، وَالْأَخْذُ مِنَ السَّطْرِ بِتَرْكِ حَرْفَيْنِ مِنْ أَوَّلِ السَّطْرِ وَحَرْفَيْنِ مِنْ آخِرِهِ حَتَّى يَبْقَى لَنَا حُرُوفُ الرُّوحَانِيِّ فِي الْوَسَطِ فِي هَذَا إِذَا كَانَ التَّكْسِيرُ زَوْجًا أَمَّا إِنْ كَانَ فَرْدًا نَتْرُكُ حَرْفًا مِنَ الْأَوَّلِ وَحَرْفًا مِنَ الْآخِرِ حَتَّى تَبْقَى حُرُوفُ الرُّوحَانِيِّ فِي الْوَسَطِ، ثُمَّ نَجْمَعُ عَدَدَ حُرُوفِ الرُّوحَانِيِّ وَنَسْتَنْطِقُهَا وَنُذَيِّلُهَا بِـ اييل وَنَرْسُمُ جَدْوَلًا بِعَدَدِ حُرُوفِ التَّكْسِيرِ وَنَكْتُبُ عَلَى أَرْكَانِهِ اسْمَ الرُّوحَانِيِّ الْمُسْتَخْرَجَ وَنَدُورُ عَلَيْهِ الْجَمِيعَ الْقَسَمَ الْآتِيَ ذِكْرُهُ.
+‏وَكَذَلِكَ حُرُوفُهُ إِنْ كَانَ التَّكْسِيرُ زَوْجًا تَكُونُ حُرُوفُ الرُّوحَانِيِّ زَوْجِيَّةً وَإِنْ كَانَ فَرْدًا تَكُونُ حُرُوفُهُ فَرْدِيَّةً، وَالْأَخْذُ مِنَ السَّطْرِ بِتَرْكِ حَرْفَيْنِ مِنْ أَوَّلِ السَّطْرِ وَحَرْفَيْنِ مِنْ آخِرِهِ حَتَّى يَبْقَى لَنَا حُرُوفُ الرُّوحَانِيِّ فِي الْوَسَطِ فِي هَذَا إِذَا كَانَ التَّكْسِيرُ زَوْجًا أَمَّا إِنْ كَانَ فَرْدًا نَتْرُكُ حَرْفًا مِنَ الْأَوَّلِ وَحَرْفًا مِنَ الْآخِرِ حَتَّى تَبْقَى حُرُوفُ الرُّوحَانِيِّ فِي الْوَسَطِ، ثُمَّ نَجْمَعُ عَدَدَ حُرُوفِ الرُّوحَانِيِّ وَنَسْتَنْطِقُهَا وَنُذَيِّلُهَا بِـ اييل وَنَرْسُمُ جَدْوَلًا بِعَدَدِ حُرُوفِ التَّكْسِيرِ وَنَكْتُبُ عَلَى أَرْكَانِهِ اسْمَ الرُّوحَانِيِّ الْمُسْتَخْرَجَ وَنَدُورُ عَلَيْهِ الْجَمِيعَ الْقَسَمَ الْآتِيَ ذِكْرُهُ.
 
-نَعْمَلُ ثَلَاثَ وَرَقَاتٍ مِنَ الْعَمَلِ الْمَذْكُورِ وَنَكْتُبُهُ أَيْضًا فِي صَحْنٍ نَقِيٍّ وَيُمْحَى بِمَاءٍ طَاهِرٍ، يُبَخَّرُ الْمَرِيضُ ثَلَاثَ لَيَالٍ مُتَتَالِيَةٍ فِي كُلِّ لَيْلَةٍ وَرَقَةً وَيَدْهِنُ كَذَلِكَ جِسْمَهُ كُلَّهُ كُلَّ لَيْلَةٍ بَعْدَ الْبَخُورِ وَيَنَامُ فِي فِرَاشِهِ مُنْفَصِلًا.
+‏نَعْمَلُ ثَلَاثَ وَرَقَاتٍ مِنَ الْعَمَلِ الْمَذْكُورِ وَنَكْتُبُهُ أَيْضًا فِي صَحْنٍ نَقِيٍّ وَيُمْحَى بِمَاءٍ طَاهِرٍ، يُبَخَّرُ الْمَرِيضُ ثَلَاثَ لَيَالٍ مُتَتَالِيَةٍ فِي كُلِّ لَيْلَةٍ وَرَقَةً وَيَدْهِنُ كَذَلِكَ جِسْمَهُ كُلَّهُ كُلَّ لَيْلَةٍ بَعْدَ الْبَخُورِ وَيَنَامُ فِي فِرَاشِهِ مُنْفَصِلًا.
 
-وَالبَخُورُ الَّذِي يُوضَعُ مَعَ كُلِّ وَرَقَةٍ هُوَ [٧ وَرَقَاتِ سِدْرٍ، ٧ حَبَّاتِ قَرَنْفُلٍ، قَلِيلٌ مِنَ الْمُصْطَكَى] وَهَذَا مِثَالٌ لِلْقِيَاسِ، فَرَدَدْنَا اسْمَ الْمَرِيضِ وَأُمِّهِ هُوَ حَسَنُ رُقَيَّةَ،
+‏وَالبَخُورُ الَّذِي يُوضَعُ مَعَ كُلِّ وَرَقَةٍ هُوَ [٧ وَرَقَاتِ سِدْرٍ، ٧ حَبَّاتِ قَرَنْفُلٍ، قَلِيلٌ مِنَ الْمُصْطَكَى] وَهَذَا مِثَالٌ لِلْقِيَاسِ، فَرَدَدْنَا اسْمَ الْمَرِيضِ وَأُمِّهِ هُوَ حَسَنُ رُقَيَّةَ،
 
 ### latin
 Fā'idatum-muhriqatun ṭāridatun lil-jinni wal-maradati bi'iznillāhi, as-salāmu 'alaikum wa rahmatullāhi wa barakātuh, ikhwatī fillāh adha'u lakum hādzihil-fā'idata al-khāshshata bi'ihrāqil-jinni wa thardihi min jasadil-insāni bi'iznillāh... na'khudzu isma asy-syakhshi wa ummihi ... [alif hā' thā' mīm kāf sīn qāf] ...
 
 ### Terjemahan
-Faedah pembakar pengusir jin dan maradah dengan izin Allah. Assalamu'alaikum warahmatullahi wabarakatuh. Wahai saudara-saudaraku karena Allah, aku letakkan bagi kalian faedah khusus ini untuk membakar jin dan mengusirnya dari jasad manusia dengan izin Allah, yaitu sebagai berikut: Kita ambil nama orang tersebut dan nama ibunya dan kita hilangkan huruf-huruf yang berulang jika ada dalam nama, jika tidak ada pengulangan maka nama tetap sebagaimana adanya tanpa penghapusan. Kemudian kita campurkan dengan huruf-huruf berunsur api dan udara yang bercahaya [ا هـ ط م ك س ق] di mana huruf pertama dan huruf terakhirnya tetap demikian. Kemudian kita pecahkan baris yang telah dicampur sampai ke tempat keluar dengan membiarkannya, yaitu kita ambil baris-baris sebelumnya saja dan kita lihat jumlah baris pemecahan apakah genap atau ganjil. Jika genap kita ambil ruhaninya dari baris kedua, jika ganjil kita ambil dari baris ketiga. Demikian pula huruf-hurufnya: jika pemecahan genap maka huruf-huruf ruhaninya genap, jika ganjil maka huruf-hurufnya ganjil. Pengambilan dari baris dengan meninggalkan dua huruf dari awal baris dan dua huruf dari akhirnya hingga tersisa huruf-huruf ruhani di tengah, ini jika pemecahan genap; adapun jika ganjil kita tinggalkan satu huruf dari awal dan satu huruf dari akhir hingga tersisa huruf-huruf ruhani di tengah. Kemudian kita kumpulkan jumlah huruf-huruf ruhani dan kita ucapkan dan kita akhiri dengan -ail dan kita gambar tabel sesuai jumlah huruf pemecahan dan kita tulis pada sudut-sudutnya nama ruhani yang telah dikeluarkan dan kita kelilingi semuanya dengan sumpah yang akan disebutkan. Kita buat tiga lembar dari amalan tersebut dan kita tulis juga pada piring yang bersih dan dihapus dengan air yang suci. Orang sakit diberi pengasapan tiga malam berturut-turut, tiap malam satu lembar dan ia mengolesi seluruh tubuhnya tiap malam setelah pengasapan dan tidur di tempat tidurnya secara terpisah. Dupa yang diletakkan bersama tiap lembar adalah [7 lembar daun bidara, 7 butir cengkeh, sedikit mustaka] dan ini contoh untuk diqiyaskan. Maka contoh nama orang sakit dan ibunya adalah Hasan dan Ruqayyah.
+‎Faedah pembakar pengusir jin dan maradah dengan izin Allah. Assalamu'alaikum warahmatullahi wabarakatuh. Wahai saudara-saudaraku karena Allah, aku letakkan bagi kalian faedah khusus ini untuk membakar jin dan mengusirnya dari jasad manusia dengan izin Allah, yaitu sebagai berikut: Kita ambil nama orang tersebut dan nama ibunya dan kita hilangkan huruf-huruf yang berulang jika ada dalam nama, jika tidak ada pengulangan maka nama tetap sebagaimana adanya tanpa penghapusan. Kemudian kita campurkan dengan huruf-huruf berunsur api dan udara yang bercahaya [ا هـ ط م ك س ق] di mana huruf pertama dan huruf terakhirnya tetap demikian. Kemudian kita pecahkan baris yang telah dicampur sampai ke tempat keluar dengan membiarkannya, yaitu kita ambil baris-baris sebelumnya saja dan kita lihat jumlah baris pemecahan apakah genap atau ganjil. Jika genap kita ambil ruhaninya dari baris kedua, jika ganjil kita ambil dari baris ketiga. Demikian pula huruf-hurufnya: jika pemecahan genap maka huruf-huruf ruhaninya genap, jika ganjil maka huruf-hurufnya ganjil. Pengambilan dari baris dengan meninggalkan dua huruf dari awal baris dan dua huruf dari akhirnya hingga tersisa huruf-huruf ruhani di tengah, ini jika pemecahan genap; adapun jika ganjil kita tinggalkan satu huruf dari awal dan satu huruf dari akhir hingga tersisa huruf-huruf ruhani di tengah. Kemudian kita kumpulkan jumlah huruf-huruf ruhani dan kita ucapkan dan kita akhiri dengan -ail dan kita gambar tabel sesuai jumlah huruf pemecahan dan kita tulis pada sudut-sudutnya nama ruhani yang telah dikeluarkan dan kita kelilingi semuanya dengan sumpah yang akan disebutkan. Kita buat tiga lembar dari amalan tersebut dan kita tulis juga pada piring yang bersih dan dihapus dengan air yang suci. Orang sakit diberi pengasapan tiga malam berturut-turut, tiap malam satu lembar dan ia mengolesi seluruh tubuhnya tiap malam setelah pengasapan dan tidur di tempat tidurnya secara terpisah. Dupa yang diletakkan bersama tiap lembar adalah [7 lembar daun bidara, 7 butir cengkeh, sedikit mustaka] dan ini contoh untuk diqiyaskan. Maka contoh nama orang sakit dan ibunya adalah Hasan dan Ruqayyah.
 
 ### Syarah dan Penjelasan
 _Syarah._
@@ -284,15 +284,15 @@ _Khususiyah._
 ## HALAMAN 10 — FAEDAH MUHRIQAH 2/2 — JADWAL & QASAM
 
 ### arab
-فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
+‏فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
 
-أَخَذْنَا حُرُوفَ الرُّوحَانِيِّ مِنَ السَّطْرِ الثَّالِثِ وَهِيَ [ن ح ق] عَدَدُهَا ١٥٨ نُطْقُهَا [حِنْقَايِيلُ] هُوَ الرُّوحَانِيُّ نَكْتُبُهُ عَلَى الْأَرْكَانِ وَنَدُورُ بِهِ الْقَسَمَ الْآتِيَ [بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ أَقْسَمْتُ عَلَيْكُمْ أَيَّتُهَا الْأَرْوَاحُ الرُّوحَانِيَّةُ طَكْثَايِيلُ وَأَنْتَ يَا عَوْثَايِيلُ بِحَقِّ الْمَلِكِ الْحَاكِمِ عَلَيْكُمْ فَهْغَايِيلُ وَبِحَقِّ آهْيَا شَرَاهْيَا أَدُونَايَ أَصْبَاؤُوتَ آلِ شَدَّايَ وَبِحَقِّ إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَدَيْنَا مُحْضَرُونَ أَنْ تَحْضُرُوا السَّاعَةَ وَتَنْزِلُوا عَلَى هَذَا الْمَارِدِ الْمُتَجَبِّرِ وَالْمُؤْذِي لِخَلْقِ اللهِ بِالطَّرْدِ وَالْحَرْقِ وَالنَّكَالِ خُذُوهُ وَبِأَنْوَارِكُمْ أَحْرِقُوهُ بِحَقِّ وَالسَّمَاءِ ذَاتِ الْبُرُوجِ إِلَى آخِرِ السُّورَةِ] ثُمَّ الْقَسَمُ يُتْلَى عَلَى كُلِّ وَرَقَةٍ ٥ مَرَّاتٍ وَكَذَلِكَ عَلَى الْمَاءِ وَالسَّلَامُ
+‏أَخَذْنَا حُرُوفَ الرُّوحَانِيِّ مِنَ السَّطْرِ الثَّالِثِ وَهِيَ [ن ح ق] عَدَدُهَا ١٥٨ نُطْقُهَا [حِنْقَايِيلُ] هُوَ الرُّوحَانِيُّ نَكْتُبُهُ عَلَى الْأَرْكَانِ وَنَدُورُ بِهِ الْقَسَمَ الْآتِيَ [بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ أَقْسَمْتُ عَلَيْكُمْ أَيَّتُهَا الْأَرْوَاحُ الرُّوحَانِيَّةُ طَكْثَايِيلُ وَأَنْتَ يَا عَوْثَايِيلُ بِحَقِّ الْمَلِكِ الْحَاكِمِ عَلَيْكُمْ فَهْغَايِيلُ وَبِحَقِّ آهْيَا شَرَاهْيَا أَدُونَايَ أَصْبَاؤُوتَ آلِ شَدَّايَ وَبِحَقِّ إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَدَيْنَا مُحْضَرُونَ أَنْ تَحْضُرُوا السَّاعَةَ وَتَنْزِلُوا عَلَى هَذَا الْمَارِدِ الْمُتَجَبِّرِ وَالْمُؤْذِي لِخَلْقِ اللهِ بِالطَّرْدِ وَالْحَرْقِ وَالنَّكَالِ خُذُوهُ وَبِأَنْوَارِكُمْ أَحْرِقُوهُ بِحَقِّ وَالسَّمَاءِ ذَاتِ الْبُرُوجِ إِلَى آخِرِ السُّورَةِ] ثُمَّ الْقَسَمُ يُتْلَى عَلَى كُلِّ وَرَقَةٍ ٥ مَرَّاتٍ وَكَذَلِكَ عَلَى الْمَاءِ وَالسَّلَامُ
 
 ### latin
-Akhadznā hurūfar-rūhāniy minas-sathrits-tsālitsi wa hiya [ ن ح ق ] — [Rajah Huruf — tidak diterjemahkan] — 'adaduhā mi'atun wa tsamāniyatun wa khamsūna (158) nuthquhā Hinqāyīl... bismillāhir-rahmānir-rahīm aqsamtu 'alaikum ayyatuhal-arwāhur-rūhāniyyah Thaktsāyīl wa anta yā 'Awtsāyīl bihaqqil-malikil-hākimi 'alaikum Fahghāyīl...
+‎Akhadznā hurūfar-rūhāniy minas-sathrits-tsālitsi wa hiya [ ن ح ق ] — [Rajah Huruf — tidak diterjemahkan] — 'adaduhā mi'atun wa tsamāniyatun wa khamsūna (158) nuthquhā Hinqāyīl... bismillāhir-rahmānir-rahīm aqsamtu 'alaikum ayyatuhal-arwāhur-rūhāniyyah Thaktsāyīl wa anta yā 'Awtsāyīl bihaqqil-malikil-hākimi 'alaikum Fahghāyīl...
 
 ### Terjemahan
-Kita ambil huruf-huruf ruhani dari baris ketiga yaitu [ن ح ق] jumlahnya 158, pengucapannya [Hinqayil], dialah ruhaninya, kita tulis di sudut-sudut dan kita kelilingi dengan sumpah berikut: [Dengan nama Allah Yang Maha Pengasih Maha Penyayang, aku bersumpah kepada kalian wahai ruh-ruh ruhaniyah Thaktsayil dan engkau wahai 'Awtsayil dengan hak raja yang menguasai kalian Fahghayil dan dengan hak Ahya Syarahya Adunai Ashba'ut Ali Syaddai dan dengan hak 'In Kaanat Illa Shaihataw Wahidataw fa Idza Hum Jami'un Ladaina Muhdharun' agar kalian hadir sekarang dan turun atas marid yang sombong dan menyakiti makhluk Allah ini dengan pengusiran, pembakaran dan siksaan. Ambillah dia dan dengan cahaya-cahaya kalian bakarlah dia dengan hak 'Was-sama'i Dzatil-Buruj' hingga akhir surah]. Kemudian sumpah dibaca pada tiap lembar 5 kali dan demikian juga pada air. Wassalam.
+‎Kita ambil huruf-huruf ruhani dari baris ketiga yaitu [ن ح ق] jumlahnya 158, pengucapannya [Hinqayil], dialah ruhaninya, kita tulis di sudut-sudut dan kita kelilingi dengan sumpah berikut: [Dengan nama Allah Yang Maha Pengasih Maha Penyayang, aku bersumpah kepada kalian wahai ruh-ruh ruhaniyah Thaktsayil dan engkau wahai 'Awtsayil dengan hak raja yang menguasai kalian Fahghayil dan dengan hak Ahya Syarahya Adunai Ashba'ut Ali Syaddai dan dengan hak 'In Kaanat Illa Shaihataw Wahidataw fa Idza Hum Jami'un Ladaina Muhdharun' agar kalian hadir sekarang dan turun atas marid yang sombong dan menyakiti makhluk Allah ini dengan pengusiran, pembakaran dan siksaan. Ambillah dia dan dengan cahaya-cahaya kalian bakarlah dia dengan hak 'Was-sama'i Dzatil-Buruj' hingga akhir surah]. Kemudian sumpah dibaca pada tiap lembar 5 kali dan demikian juga pada air. Wassalam.
 
 ### Syarah dan Penjelasan
 _Syarah._
@@ -303,18 +303,18 @@ _Khususiyah._
 ## HALAMAN 11 — FAEDAH QATHI'AH 1/2
 
 ### arab
-فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
+‏فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
 
-اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، إِخْوَتِي فِي اللهِ إِلَيْكُمْ فَائِدَةٌ مِنْ الْفَوَائِدِ الْمُجَرَّبَةِ فِي عِلَاجِ حَالَاتِ الْمَسِّ وَتَنْفَعُ أَيْضًا لِإِبْطَالِ الْمَوَانِعِ عَنِ الدَّفَائِنِ وَهِيَ مُجَرَّبَةٌ وَسَرِيعَةُ النَّفَاذِ
+‏اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، إِخْوَتِي فِي اللهِ إِلَيْكُمْ فَائِدَةٌ مِنْ الْفَوَائِدِ الْمُجَرَّبَةِ فِي عِلَاجِ حَالَاتِ الْمَسِّ وَتَنْفَعُ أَيْضًا لِإِبْطَالِ الْمَوَانِعِ عَنِ الدَّفَائِنِ وَهِيَ مُجَرَّبَةٌ وَسَرِيعَةُ النَّفَاذِ
 
-يُكْتَبُ الْوَفْقُ فِي الصَّفْحَةِ التَّالِيَةِ فِي آنِيَةٍ نَظِيفَةٍ جَدِيدَةٍ بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ وَمِسْكٍ وَتُدَارُ بِهِ الْآيَاتُ وَالسُّوَرُ الشَّرِيفَةُ وَبَعْدَ الْكِتَابَةِ يُمْحَى بِمَاءٍ طَاهِرٍ وَإِنْ كَانَ مَاءَ مَطَرٍ كَانَ أَجْوَدَ وَإِلَّا مَاءَ بِئْرٍ لَا تَنْتَظِرُهُ شَمْسٌ وَلَا ضَوْءُ قَمَرٍ، وَمَحْوُ الْكِتَابَةِ يَكُونُ بِسَبَّابَةِ الْيَدِ الْيُمْنَى وَتِلَاوَةً عِنْدَ الْمَحْوِ ٧ مَرَّاتٍ، وَالْكِتَابَةُ تَكُونُ بِتَرْتِيبٍ الَّذِي أَضَعُهُ وَكَذَلِكَ التِّلَاوَةُ
+‏يُكْتَبُ الْوَفْقُ فِي الصَّفْحَةِ التَّالِيَةِ فِي آنِيَةٍ نَظِيفَةٍ جَدِيدَةٍ بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ وَمِسْكٍ وَتُدَارُ بِهِ الْآيَاتُ وَالسُّوَرُ الشَّرِيفَةُ وَبَعْدَ الْكِتَابَةِ يُمْحَى بِمَاءٍ طَاهِرٍ وَإِنْ كَانَ مَاءَ مَطَرٍ كَانَ أَجْوَدَ وَإِلَّا مَاءَ بِئْرٍ لَا تَنْتَظِرُهُ شَمْسٌ وَلَا ضَوْءُ قَمَرٍ، وَمَحْوُ الْكِتَابَةِ يَكُونُ بِسَبَّابَةِ الْيَدِ الْيُمْنَى وَتِلَاوَةً عِنْدَ الْمَحْوِ ٧ مَرَّاتٍ، وَالْكِتَابَةُ تَكُونُ بِتَرْتِيبٍ الَّذِي أَضَعُهُ وَكَذَلِكَ التِّلَاوَةُ
 
-١ وَالشَّمْسِ وَضُحَاهَا إِلَى آخِرِ السُّورَةِ
-٢ سُورَةُ الْإِخْلَاصِ
-٣ اللهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ إِلَى تُرْفَعَ
-٤ وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ إِلَى عَمِيقٍ
-٥ قُلْ أُوحِيَ إِلَى آخِرِ السُّورَةِ
-وَالْكِتَابَةُ تَكُونُ بَعْدَ صَلَاةِ الْعِشَاءِ إِلَّا يَوْمَ الْأَرْبِعَاءِ وَالسَّبْتِ وَالْوَفْقُ هُوَ كَالتَّالِي
+‏١ وَالشَّمْسِ وَضُحَاهَا إِلَى آخِرِ السُّورَةِ
+‏٢ سُورَةُ الْإِخْلَاصِ
+‏٣ اللهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ إِلَى تُرْفَعَ
+‏٤ وَأَذِّنْ فِي النَّاسِ بِالْحَجِّ إِلَى عَمِيقٍ
+‏٥ قُلْ أُوحِيَ إِلَى آخِرِ السُّورَةِ
+‏وَالْكِتَابَةُ تَكُونُ بَعْدَ صَلَاةِ الْعِشَاءِ إِلَّا يَوْمَ الْأَرْبِعَاءِ وَالسَّبْتِ وَالْوَفْقُ هُوَ كَالتَّالِي
 
 ### latin
 Fā'idatun qāthi'atun li'ilājil-massi, as-salāmu 'alaikum ..., yuktabul-wafqu fish-shafhatit-tāliyah fī āniyatin nazhīfatin jadīdatin bimā'i wardin wa za'farānin wa miskin wa tudāru bihil-āyātu ...
@@ -331,17 +331,17 @@ _Khususiyah._
 ## HALAMAN 12 — FAEDAH QATHI'AH 2/2 — WAFAQ 3×3
 
 ### arab
-فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
+‏فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
 
-وَفْقٌ لِعِلَاجِ الْمَسِّ
+‏وَفْقٌ لِعِلَاجِ الْمَسِّ
 
 | ١٨ | ١٢٠٩ | ٦٠٠ |
 | ١١٩١ | ٦٠٩ | ٢٧ |
 | ٦١٨ | ٩ | ١٢٠٠ |
 
-الشَّيْخُ الْبَشِيرُ
-مُنْتَدَى الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
-كِتَابَةُ الْآيَاتِ وَالسُّوَرِ تَبْدَأُ مِنْ فَوْقِ الْوَفْقِ مِنْ جِهَةِ الْيَمِينِ اتِّجَاهًا إِلَى الْيَسَارِ، وَفَّقَكُمُ اللهُ لِمَا يُحِبُّهُ وَيَرْضَاهُ
+‏الشَّيْخُ الْبَشِيرُ
+‏مُنْتَدَى الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
+‏كِتَابَةُ الْآيَاتِ وَالسُّوَرِ تَبْدَأُ مِنْ فَوْقِ الْوَفْقِ مِنْ جِهَةِ الْيَمِينِ اتِّجَاهًا إِلَى الْيَسَارِ، وَفَّقَكُمُ اللهُ لِمَا يُحِبُّهُ وَيَرْضَاهُ
 
 ### latin
 Wafqun li'ilājil-massi, kitābatul-āyāti was-suwari tabda'u min fawqil-wafqi min jihatil-yamīni ittijāhan ilal-yasāri, waffaqakumullāhu limā yuhibbuhu wa yardhāh.
@@ -358,17 +358,17 @@ _Khususiyah._
 ## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ
 
 ### arab
-الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
+‏الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
 
-السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+‏السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-إِخْوَتِي فِي اللهِ، كَثِيرًا مَا وَقَعَ لَكُمْ أَنِ اسْتَخْدَمْتُمُ اسْتِنْزَالًا وَحَضَرَ خَادِمُهُ وَسَأَلْتُمُوهُ عَنْ أَمْرٍ فَأَجَابَكُمْ عَنْهُ وَوَجَدْتُمْ مَا قَالَهُ كَذِبًا [أَيْ الصَّبِيِّ]، وَهَذِهِ الْحَالَةُ تَقَعُ لِمَنْ يَعْمَلُونَ الِاسْتِنْزَالَ عَبْرَ الْوَسِيطِ [أَيْ الصَّبِيِّ]، وَمُعْظَمُ هَذِهِ الِاسْتِنْزَالَاتِ كَاذِبَةٌ، وَالسَّبَبُ هُوَ إِمَّا أَنْ يَكُونَ الطَّالِبُ غَيْرَ مُتَمَرِّسٍ، وَإِمَّا أَنْ يَكُونَ قَدْ تَمَادَى بِفِعْلِ الِاسْتِنْزَالِ وَطَلَبِ الْخُدَّامِ وَسُؤَالِهِمْ عَنْ أُمُورٍ تُحَقِّرُ مِنْ مَكَانَتِهِمْ، خُصُوصًا إِذَا كَانَ الْخَادِمُ عُلْوِيًّا فَإِنَّهُ يَمْتَنِعُ عَنِ النُّزُولِ وَيَدْخُلُ مَكَانَهُ خَادِمٌ سُفْلِيٌّ كَذَّابٌ [عُلْوِيًّا لَيْسَتِ الْإِشَارَةُ هُنَا لِلْمُلُوكِ السَّبْعَةِ فَهِيَ لَا تَنْزِلُ أَبَدًا إِلَّا فِي اسْتِنْزَالٍ نَفْسِيٍّ رَبَّانِيٍّ]
+‏إِخْوَتِي فِي اللهِ، كَثِيرًا مَا وَقَعَ لَكُمْ أَنِ اسْتَخْدَمْتُمُ اسْتِنْزَالًا وَحَضَرَ خَادِمُهُ وَسَأَلْتُمُوهُ عَنْ أَمْرٍ فَأَجَابَكُمْ عَنْهُ وَوَجَدْتُمْ مَا قَالَهُ كَذِبًا [أَيْ الصَّبِيِّ]، وَهَذِهِ الْحَالَةُ تَقَعُ لِمَنْ يَعْمَلُونَ الِاسْتِنْزَالَ عَبْرَ الْوَسِيطِ [أَيْ الصَّبِيِّ]، وَمُعْظَمُ هَذِهِ الِاسْتِنْزَالَاتِ كَاذِبَةٌ، وَالسَّبَبُ هُوَ إِمَّا أَنْ يَكُونَ الطَّالِبُ غَيْرَ مُتَمَرِّسٍ، وَإِمَّا أَنْ يَكُونَ قَدْ تَمَادَى بِفِعْلِ الِاسْتِنْزَالِ وَطَلَبِ الْخُدَّامِ وَسُؤَالِهِمْ عَنْ أُمُورٍ تُحَقِّرُ مِنْ مَكَانَتِهِمْ، خُصُوصًا إِذَا كَانَ الْخَادِمُ عُلْوِيًّا فَإِنَّهُ يَمْتَنِعُ عَنِ النُّزُولِ وَيَدْخُلُ مَكَانَهُ خَادِمٌ سُفْلِيٌّ كَذَّابٌ [عُلْوِيًّا لَيْسَتِ الْإِشَارَةُ هُنَا لِلْمُلُوكِ السَّبْعَةِ فَهِيَ لَا تَنْزِلُ أَبَدًا إِلَّا فِي اسْتِنْزَالٍ نَفْسِيٍّ رَبَّانِيٍّ]
 
-وَهَذِهِ فَائِدَةٌ قَاطِعَةٌ لِزَجْرِ خُدَّامِ الِاسْتِنْزَالِ وَحَثِّهِمْ عَلَى قَوْلِ الْحَقِّ، وَلَا تُخْبِرِ النَّاظِرَ بِمَا تُرِيدُ فِعْلَهُ كَيْ تَتَأَكَّدَ مِمَّا يَنْظُرُ لَهُ، بَعْدَ مَا تَعْمَلُ الِاسْتِنْزَالَ وَيُخْبِرُكَ بِحُضُورِ الْخَادِمِ تَتْلُو هَذِهِ الْآيَةَ سَبْعَ مَرَّاتٍ وَأَنْتَ مَاسِكٌ بِجَبْهَةِ النَّاظِرِ لِتَثْقِيفِهِ:
+‏وَهَذِهِ فَائِدَةٌ قَاطِعَةٌ لِزَجْرِ خُدَّامِ الِاسْتِنْزَالِ وَحَثِّهِمْ عَلَى قَوْلِ الْحَقِّ، وَلَا تُخْبِرِ النَّاظِرَ بِمَا تُرِيدُ فِعْلَهُ كَيْ تَتَأَكَّدَ مِمَّا يَنْظُرُ لَهُ، بَعْدَ مَا تَعْمَلُ الِاسْتِنْزَالَ وَيُخْبِرُكَ بِحُضُورِ الْخَادِمِ تَتْلُو هَذِهِ الْآيَةَ سَبْعَ مَرَّاتٍ وَأَنْتَ مَاسِكٌ بِجَبْهَةِ النَّاظِرِ لِتَثْقِيفِهِ:
 
-﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَكِنْ كَرِهَ اللهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾
+‏﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَكِنْ كَرِهَ اللهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾
 
-وَبَعْدَ ذَلِكَ تَأْمُرُهُ بِالشَّهَادَتَيْنِ وَالصَّلَاةِ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ تَأْمُرُهُ أَنْ يَأْتِيَ بِالْمُصْحَفِ الشَّرِيفِ وَيَفْتَحَهُ فِي سُورَةِ الْمُجَادَلَةِ، وَأْمُرِ النَّاظِرَ أَنْ يَبْدَأَ فِي قِرَاءَةِ السُّورَةِ لِتَتَأَكَّدَ أَنَّهَا هِيَ، بَعْدَ ذَلِكَ تَأْمُرُ الْخَادِمَ أَنْ يَضَعَ يَدَهُ الْيُمْنَى عَلَيْهَا وَيُعَاهِدَكَ بِقَوْلِ الْحَقِّ، وَإِنْ أَبَى وَهُوَ سَيَفْعَلُ ذَلِكَ لَا مَحَالَةَ ازْجُرْهُ بِهَذَا الزَّجْرِ الْقَاطِعِ:
+‏وَبَعْدَ ذَلِكَ تَأْمُرُهُ بِالشَّهَادَتَيْنِ وَالصَّلَاةِ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ تَأْمُرُهُ أَنْ يَأْتِيَ بِالْمُصْحَفِ الشَّرِيفِ وَيَفْتَحَهُ فِي سُورَةِ الْمُجَادَلَةِ، وَأْمُرِ النَّاظِرَ أَنْ يَبْدَأَ فِي قِرَاءَةِ السُّورَةِ لِتَتَأَكَّدَ أَنَّهَا هِيَ، بَعْدَ ذَلِكَ تَأْمُرُ الْخَادِمَ أَنْ يَضَعَ يَدَهُ الْيُمْنَى عَلَيْهَا وَيُعَاهِدَكَ بِقَوْلِ الْحَقِّ، وَإِنْ أَبَى وَهُوَ سَيَفْعَلُ ذَلِكَ لَا مَحَالَةَ ازْجُرْهُ بِهَذَا الزَّجْرِ الْقَاطِعِ:
 
 ### latin
 Az-Zajrul-qāthi‘u li’akhdzil-‘ahdi wal-mītsāqi ‘alā khādimil-istinzāli
@@ -379,7 +379,7 @@ Ikhwatī fillāhi, katsīran mā waqa‘a lakum ani istakhdamtumu istinzālan wa
 
 Wa hādzihi fā’idatun qāthi‘atun lizajri khuddāmil-istinzāli wa hatstsihim ‘alā qaulil-ḥaqqi, wa lā tukhbirin-nāzhira bimā turīdu fi‘lahu kai tata’akkada mimmā yanzhuru lahu, ba‘da mā ta‘malul-istinzāla wa yukhbiruka biḥudhūril-khādimi tatlū hādzihil-āyata sab‘a marrātin wa anta māsikun bijabhatin-nāzhiri litatsqīfihi:
 
-﴿ Wa lau arādul-khurūja la’a‘addū lahu ‘uddatan wa lākin karihallāhub‘ātsahum fatsabbathahum wa qīla iq‘udū ma‘al-qā‘idīna ﴾ (QS At-Taubah: 46)
+‎﴿ Wa lau arādul-khurūja la’a‘addū lahu ‘uddatan wa lākin karihallāhub‘ātsahum fatsabbathahum wa qīla iq‘udū ma‘al-qā‘idīna ﴾ (QS At-Taubah: 46)
 
 Wa ba‘da dzālika ta’muruhu bisy-syahādataini wash-shalāti ‘alan-nabiyyi shallallāhu ‘alaihi wa sallama, tsumma ta’muruhu an ya’tiya bil-mushḥafisy-syarīfi wa yaftahahu fī sūratil-mujādalati, wa’murin-nāzhira an yabda’a fī qirā’atis-sūrati litata’akkada annahā hiya, ba‘da dzālika ta’murul-khādima an yadha‘a yadahul-yumnā ‘alaihā wa yu‘āhidaka biqaulil-ḥaqqi, wa in abā wa huwa saya‘alu dzālika lā maḥālata izjurhu bihādzaz-zajril-qāthi‘i:
 
@@ -392,7 +392,7 @@ Wahai saudara-saudaraku karena Allah, sering terjadi pada kalian bahwa kalian te
 
 Dan ini adalah faedah yang ampuh untuk menggertak para khādim istinzāl dan mendorong mereka agar berkata benar: Jangan beritahu sang penglihat (an-nāzhir) tentang apa yang hendak kamu lakukan agar kamu dapat memastikan kebenaran apa yang ia lihat. Setelah kamu melakukan istinzāl dan ia memberitahumu tentang kehadiran khādim, bacalah ayat berikut sebanyak **tujuh kali** dalam keadaan kamu **memegang dahi an-nāzhir untuk mengunci/menguatkannya (li-tatsqīfihi)**:
 
-﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَٰكِن كَرِهَ اللَّهُ انبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾ (QS At-Taubah: 46)
+‎﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَٰكِن كَرِهَ اللَّهُ انبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾ (QS At-Taubah: 46)
 
 Setelah itu, perintahkan ia (khādim melalui perantara) untuk mengucapkan dua kalimat syahadat dan shalawat kepada Nabi shallallāhu ‘alaihi wa sallam. Kemudian perintahkan ia untuk mendatangkan mushaf yang mulia dan membukanya pada **Surah al-Mujādalah**. Perintahkan an-nāzhir untuk mulai membaca surah tersebut agar kamu dapat memastikan bahwa yang terbuka memang surah itu. Setelah itu, perintahkan khādim untuk meletakkan tangan kanannya di atas mushaf tersebut dan berjanji kepadamu untuk berkata benar. **Jika ia menolak — padahal ia pasti akan melakukannya, tidak dapat tidak — maka gertaklah ia dengan gertakan pemutus (az-zajr al-qāthi‘) berikut ini:”
 
@@ -405,40 +405,40 @@ Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). T
 ## HALAMAN 14 — ZAJR QATHI' 2/3 — الزَّجْرُ الْقَاطِعُ (LANJUTAN)
 
 ### arab
-[ بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ، الْمَلِكِ الْحَقِّ الْمُبِينِ، الَّذِي قَالَ فِي مُحْكَمِ كِتَابِهِ الْكَرِيمِ:
+‏[ بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ، الْمَلِكِ الْحَقِّ الْمُبِينِ، الَّذِي قَالَ فِي مُحْكَمِ كِتَابِهِ الْكَرِيمِ:
 
-﴿ الم ۝ اللهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۝ نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَأَنْزَلَ التَّوْرَاةَ وَالْإِنْجِيلَ ۝ مِنْ قَبْلُ هُدًى لِلنَّاسِ وَأَنْزَلَ الْفُرْقَانَ إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِ اللهِ لَهُمْ عَذَابٌ شَدِيدٌ وَاللهُ عَزِيزٌ ذُو انْتِقَامٍ ﴾
+‏﴿ الم ۝ اللهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۝ نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَأَنْزَلَ التَّوْرَاةَ وَالْإِنْجِيلَ ۝ مِنْ قَبْلُ هُدًى لِلنَّاسِ وَأَنْزَلَ الْفُرْقَانَ إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِ اللهِ لَهُمْ عَذَابٌ شَدِيدٌ وَاللهُ عَزِيزٌ ذُو انْتِقَامٍ ﴾
 
-﴿ سَنُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ بِمَا أَشْرَكُوا بِاللهِ مَا لَمْ يُنَزِّلْ بِهِ سُلْطَانًا وَمَأْوَاهُمُ النَّارُ وَبِئْسَ مَثْوَى الظَّالِمِينَ ﴾
+‏﴿ سَنُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ بِمَا أَشْرَكُوا بِاللهِ مَا لَمْ يُنَزِّلْ بِهِ سُلْطَانًا وَمَأْوَاهُمُ النَّارُ وَبِئْسَ مَثْوَى الظَّالِمِينَ ﴾
 
-﴿ لَهُمْ مِنْ جَهَنَّمَ مِهَادٌ وَمِنْ فَوْقِهِمْ غَوَاشٍ وَكَذَلِكَ نَجْزِي الظَّالِمِينَ ﴾
+‏﴿ لَهُمْ مِنْ جَهَنَّمَ مِهَادٌ وَمِنْ فَوْقِهِمْ غَوَاشٍ وَكَذَلِكَ نَجْزِي الظَّالِمِينَ ﴾
 
-﴿ إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ ﴾
+‏﴿ إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ ﴾
 
-انْزِلُوا يَا مَلَائِكَةَ رَبِّي عَلَى هَؤُلَاءِ الْأَعْوَانِ بِالضَّرْبِ وَالْقَصْفِ وَالْعَذَابِ الشَّدِيدِ حَتَّى يُطِيعُوا أَمْرِي وَيُعَاهِدُونِي عَلَى قَوْلِ الْحَقِّ بِحَقِّ اللهِ الْمَلِكِ الْحَقِّ الْمُبِينِ، أَجِيبُوا وَأَطِيعُوا يَا مَعْشَرَ الْخُدَّامِ، فَإِنْ عَصَيْتُمْ وَأَبَيْتُمْ فَلَا أَرْضَ تُقِلُّكُمْ وَلَا سَمَاءَ تُظِلُّكُمْ وَلَا أَيْنَ تَهْرُبُونَ وَلَا أَيْنَ تُمْنَعُونَ، وَأَسْمَاءُ اللهِ مُحِيطَةٌ بِكُمْ، وَعَزِيمَتِي هَذِهِ نَارٌ وَحَرِيقٌ عَلَيْكُمْ
+‏انْزِلُوا يَا مَلَائِكَةَ رَبِّي عَلَى هَؤُلَاءِ الْأَعْوَانِ بِالضَّرْبِ وَالْقَصْفِ وَالْعَذَابِ الشَّدِيدِ حَتَّى يُطِيعُوا أَمْرِي وَيُعَاهِدُونِي عَلَى قَوْلِ الْحَقِّ بِحَقِّ اللهِ الْمَلِكِ الْحَقِّ الْمُبِينِ، أَجِيبُوا وَأَطِيعُوا يَا مَعْشَرَ الْخُدَّامِ، فَإِنْ عَصَيْتُمْ وَأَبَيْتُمْ فَلَا أَرْضَ تُقِلُّكُمْ وَلَا سَمَاءَ تُظِلُّكُمْ وَلَا أَيْنَ تَهْرُبُونَ وَلَا أَيْنَ تُمْنَعُونَ، وَأَسْمَاءُ اللهِ مُحِيطَةٌ بِكُمْ، وَعَزِيمَتِي هَذِهِ نَارٌ وَحَرِيقٌ عَلَيْكُمْ
 
-فَإِنِّي أَقْسَمْتُ عَلَيْكُمْ بِاللهِ الْعَظِيمِ وَبِحَقِّ هَذَا الْقَسَمِ الْعَظِيمِ أَنْ تَجْعَلُوا كَلِمَتِي عِنْدَكُمْ سَارِيَةً نَافِذَةً، وَكَلَامِي عِنْدَكُمْ مَسْمُوعًا مَقْبُولًا، وَأَنْ تَخْدُمُونِي وَتُطِيعُونِي وَتُعَاهِدُونِي عَلَى قَوْلِ الْحَقِّ بِحَقِّ مَا أَقْسَمْتُ بِهِ عَلَيْكُمْ، وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ، تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا
+‏فَإِنِّي أَقْسَمْتُ عَلَيْكُمْ بِاللهِ الْعَظِيمِ وَبِحَقِّ هَذَا الْقَسَمِ الْعَظِيمِ أَنْ تَجْعَلُوا كَلِمَتِي عِنْدَكُمْ سَارِيَةً نَافِذَةً، وَكَلَامِي عِنْدَكُمْ مَسْمُوعًا مَقْبُولًا، وَأَنْ تَخْدُمُونِي وَتُطِيعُونِي وَتُعَاهِدُونِي عَلَى قَوْلِ الْحَقِّ بِحَقِّ مَا أَقْسَمْتُ بِهِ عَلَيْكُمْ، وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ، تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا
 
-هَيَّا يَا مَعْشَرَ الْخُدَّامِ، زَجَرْتُكُمْ زَجْرًا وَدَعَوْتُكُمْ دَعْوَةً لَا خَلَاصَ لَكُمْ مِنْهَا وَلَا مَفَرَّ لَكُمْ مِنْهَا حَتَّى تُطِيعُوا أَمْرِي
+‏هَيَّا يَا مَعْشَرَ الْخُدَّامِ، زَجَرْتُكُمْ زَجْرًا وَدَعَوْتُكُمْ دَعْوَةً لَا خَلَاصَ لَكُمْ مِنْهَا وَلَا مَفَرَّ لَكُمْ مِنْهَا حَتَّى تُطِيعُوا أَمْرِي
 
-فَهَكَذَا سَيُعَاهِدُكَ وَيَضَعُ يَدَهُ عَلَى السُّورَةِ، عِنْدَهَا اقْرَإِ الْآيَةَ:
+‏فَهَكَذَا سَيُعَاهِدُكَ وَيَضَعُ يَدَهُ عَلَى السُّورَةِ، عِنْدَهَا اقْرَإِ الْآيَةَ:
 
-﴿ وَأَوْفُوا بِعَهْدِ اللهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللهَ عَلَيْكُمْ كَفِيلًا ﴾ ]
+‏﴿ وَأَوْفُوا بِعَهْدِ اللهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللهَ عَلَيْكُمْ كَفِيلًا ﴾ ]
 
-ثُمَّ اصْرِفْهُ وَلَا تَعْمَلِ الِاسْتِنْزَالَ ذَلِكَ الْيَوْمَ، فَإِنْ عَمِلْتَ الِاسْتِنْزَالَ بَعْدَهَا سَتَجِدُ مَا يَقُولُ لَكَ حَقًّا وَيَكُونُ مَعَكَ صَادِقًا بِإِذْنِ اللهِ
+‏ثُمَّ اصْرِفْهُ وَلَا تَعْمَلِ الِاسْتِنْزَالَ ذَلِكَ الْيَوْمَ، فَإِنْ عَمِلْتَ الِاسْتِنْزَالَ بَعْدَهَا سَتَجِدُ مَا يَقُولُ لَكَ حَقًّا وَيَكُونُ مَعَكَ صَادِقًا بِإِذْنِ اللهِ
 
-نَفَعَنِي اللهُ وَإِيَّاكُمْ بِالْقُرْآنِ الْعَظِيمِ وَحَشَرَنِي وَإِيَّاكُمْ فِي زُمْرَةِ الْمُتَّقِينَ وَغَفَرَ لِي وَلَكُمْ وَلِلْمُؤْمِنِينَ أَجْمَعِينَ، وَالسَّلَامُ
+‏نَفَعَنِي اللهُ وَإِيَّاكُمْ بِالْقُرْآنِ الْعَظِيمِ وَحَشَرَنِي وَإِيَّاكُمْ فِي زُمْرَةِ الْمُتَّقِينَ وَغَفَرَ لِي وَلَكُمْ وَلِلْمُؤْمِنِينَ أَجْمَعِينَ، وَالسَّلَامُ
 
 ### latin
 Bismillāhir-raḥmānir-raḥīm, al-malikil-ḥaqqil-mubīn, alladzī qāla fī muḥkami kitābihil-karīm:
 
-﴿ Alif-Lām-Mīm, Allāhu lā ilāha illā huwal-ḥayyul-qayyūmu, nazzala ‘alaikal-kitāba bil-ḥaqqi mushaddiqan limā baina yadaihi wa anzalat-taurāta wal-injīla, min qablu hudan lin-nāsi wa anzalal-furqāna innalladzīna kafarū bi’āyātillāhi lahum ‘adzābun syadīdun wallāhu ‘azīzun dzun-tiqāmin ﴾ (QS Āli ‘Imrān: 1-4)
+‎﴿ Alif-Lām-Mīm, Allāhu lā ilāha illā huwal-ḥayyul-qayyūmu, nazzala ‘alaikal-kitāba bil-ḥaqqi mushaddiqan limā baina yadaihi wa anzalat-taurāta wal-injīla, min qablu hudan lin-nāsi wa anzalal-furqāna innalladzīna kafarū bi’āyātillāhi lahum ‘adzābun syadīdun wallāhu ‘azīzun dzun-tiqāmin ﴾ (QS Āli ‘Imrān: 1-4)
 
-﴿ Sanulqī fī qulūbilladzīna kafarūr-ru‘ba bimā asyrakū billāhi mā lam yunazzil bihi sulthānan wa ma’wāhumun-nāru wa bi’sa matswāzh-zhālimīna ﴾ (QS Āli ‘Imrān: 151)
+‎﴿ Sanulqī fī qulūbilladzīna kafarūr-ru‘ba bimā asyrakū billāhi mā lam yunazzil bihi sulthānan wa ma’wāhumun-nāru wa bi’sa matswāzh-zhālimīna ﴾ (QS Āli ‘Imrān: 151)
 
-﴿ Lahum min jahannama mihādun wa min fauqihim ghawāsyin wa kadzālika najzīzh-zhālimīna ﴾ (QS Al-A‘rāf: 41)
+‎﴿ Lahum min jahannama mihādun wa min fauqihim ghawāsyin wa kadzālika najzīzh-zhālimīna ﴾ (QS Al-A‘rāf: 41)
 
-﴿ Idz yūḥī rabbuka ilal-malā’ikati annī ma‘akum fatsabbitulladzīna āmanū sa’ulqī fī qulūbilladzīna kafarūr-ru‘ba fadhribū fauqal-a‘nāqi wadhribū minhum kulla banānin ﴾ (QS Al-Anfāl: 12)
+‎﴿ Idz yūḥī rabbuka ilal-malā’ikati annī ma‘akum fatsabbitulladzīna āmanū sa’ulqī fī qulūbilladzīna kafarūr-ru‘ba fadhribū fauqal-a‘nāqi wadhribū minhum kulla banānin ﴾ (QS Al-Anfāl: 12)
 
 Inzilū yā malā’ikata rabbī ‘alā hā’ulā’il-a‘wāni bidh-dharbi wal-qashfi wal-‘adzābisy-syadīdi ḥattā yuthī‘ū amrī wa yu‘āhidūnī ‘alā qaulil-ḥaqqi biḥaqqillāhil-malikil-ḥaqqil-mubīni, ajībū wa athī‘ū yā ma‘syarak-khuddāmi, fa’in ‘ashaitum wa abaitum falā ardha tuqillukum wa lā samā’a tuzhillukum wa lā aina tahrubūna wa lā aina tumna‘ūna, wa asmā’ullāhi muḥīthatun bikum, wa ‘azīmatī hādzihi nārun wa ḥarīqun ‘alaikum
 
@@ -448,7 +448,7 @@ Hayyā yā ma‘syarak-khuddāmi, zajartukum zajran wa da‘autukum da‘watan l
 
 Fahākadzā sayu‘āhiduka wa yadha‘u yadahu ‘alas-sūrati, ‘indahāq-ra’il-āyata:
 
-﴿ Wa aufū bi‘ahdillāhi idzā ‘āhadtum wa lā tanqudhul-aimāna ba‘da taukīdihā wa qad ja‘altumullāha ‘alaikum kafīlan ﴾ (QS An-Naḥl: 91)
+‎﴿ Wa aufū bi‘ahdillāhi idzā ‘āhadtum wa lā tanqudhul-aimāna ba‘da taukīdihā wa qad ja‘altumullāha ‘alaikum kafīlan ﴾ (QS An-Naḥl: 91)
 
 Tsummash-rifhu wa lā ta‘malil-istinzāla dzālikal-yauma, fa’in ‘amiltal-istinzāla ba‘dahā satajidu mā yaqūlu laka ḥaqqan wa yakūnu ma‘aka shādiqan bi’idznillāhi
 
@@ -477,7 +477,7 @@ Tahap Pengikatan Janji:
 
 Maka dengan cara seperti inilah ia (khādim) akan berjanji kepadamu dan meletakkan tangannya di atas surah (al-Mujādalah di mushaf). Pada saat itu bacalah ayat:
 
-﴿ وَأَوْفُوا بِعَهْدِ اللهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللهَ عَلَيْكُمْ كَفِيلًا ﴾ ] (QS an-Naḥl: 91)
+‎﴿ وَأَوْفُوا بِعَهْدِ اللهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللهَ عَلَيْكُمْ كَفِيلًا ﴾ ] (QS an-Naḥl: 91)
 
 Kemudian pulangkanlah ia (ishrāf) dan jangan melakukan istinzāl pada hari itu juga. Maka sesungguhnya jika kamu melakukan istinzāl setelahnya (hari berikutnya), kamu akan mendapati apa yang ia katakan kepadamu adalah benar dan ia akan senantiasa jujur bersamamu — dengan izin Allah.
 
@@ -492,15 +492,15 @@ Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan sete
 ## HALAMAN 15 — FAIDAH THARD 'ATHLUSYIN 1/2 — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ
 
 ### arab
-فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ مُفْسِدِ الْأَعْمَالِ الرَّوْحَانِيَّةِ
+‏فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ مُفْسِدِ الْأَعْمَالِ الرَّوْحَانِيَّةِ
 
-إِخْوَتِي فِي اللهِ، أَضَعُ بَيْنَ أَيْدِيكُمْ هَذِهِ الْفَائِدَةَ النَّافِعَةَ فِي دَفْعِ الْخَادِمِ الْمُفْسِدِ لِلْأَعْمَالِ وَانْقِلَابِهَا بِصَدِّ الْمَرْغُوبِ فِيهَا، وَهُوَ خَادِمٌ اسْمُهُ [عَطْلُوشٌ]، وَالْحَاكِمُ عَلَيْهِ أَبُو طَارِشٍ مَلِكُ الْعُمَّارِ.
+‏إِخْوَتِي فِي اللهِ، أَضَعُ بَيْنَ أَيْدِيكُمْ هَذِهِ الْفَائِدَةَ النَّافِعَةَ فِي دَفْعِ الْخَادِمِ الْمُفْسِدِ لِلْأَعْمَالِ وَانْقِلَابِهَا بِصَدِّ الْمَرْغُوبِ فِيهَا، وَهُوَ خَادِمٌ اسْمُهُ [عَطْلُوشٌ]، وَالْحَاكِمُ عَلَيْهِ أَبُو طَارِشٍ مَلِكُ الْعُمَّارِ.
 
-تَكْتُبُ الْوَفْقَ فِي يَدِكَ الْيُمْنَى بِصَمْغٍ —أَيِ الْمِدَادِ الْأَسْوَدِ الْمُسْتَخْرَجِ مِنْ صُوفِ الْغَنَمِ—، وَتُبَخِّرُ يَدَكَ بِالْقُزْبَرَةِ، وَهَذَا طَبْعًا بَعْدَ إِصْرَافِ الْعُمَّارِ. ثُمَّ تُعَزِّمُ عَلَى الْيَدِ إِحْدَى وَعِشْرِينَ مَرَّةً، وَهَذِهِ هِيَ الْعَزِيمَةُ:
+‏تَكْتُبُ الْوَفْقَ فِي يَدِكَ الْيُمْنَى بِصَمْغٍ —أَيِ الْمِدَادِ الْأَسْوَدِ الْمُسْتَخْرَجِ مِنْ صُوفِ الْغَنَمِ—، وَتُبَخِّرُ يَدَكَ بِالْقُزْبَرَةِ، وَهَذَا طَبْعًا بَعْدَ إِصْرَافِ الْعُمَّارِ. ثُمَّ تُعَزِّمُ عَلَى الْيَدِ إِحْدَى وَعِشْرِينَ مَرَّةً، وَهَذِهِ هِيَ الْعَزِيمَةُ:
 
-(أَقْسَمْتُ عَلَيْكُمْ يَا عَطْلُوشُ بِالَّذِي خَلَقَكُمْ وَصَوَّرَكُمْ فَكُنْتُمْ ضَرُورَةً لِأَهْلِ الْحِكْمَةِ أَلَّا تُفْسِدُوا لِي مَا عَمِلْتُ وَلَا تَقْرَبُونِي فِيمَا صَنَعْتُ وَلَا تَتَحَرَّكُوا بِحَقِّ هَذِهِ الْأَسْمَاءِ الْمُحْرِقَةِ عَلَيْكُمْ: جَلْجَلٍ اثْنَتَيْنِ، جَلْنِيشٍ اثْنَتَيْنِ، قَهْرٍ اثْنَتَيْنِ، بَرْهَةٍ اثْنَتَيْنِ، شَطِيشٍ اثْنَتَيْنِ، شَهٍ اثْنَتَيْنِ، فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللهِ عَلَيْكُمْ يَا عَطْلُوشُ ابْنَ أَغْلَغَلٍ فَلَا تَقْرَبُونِي وَلَا بِسَاحَتِي بِحَقِّ هَذِهِ الْأَسْمَاءِ: سَلْهُوبٍ، مَلْهُوبٍ، أَبِيكَ، يَلِيخٍ، أَلْقَمُوشٍ، مَرُوشٍ، هَرْمُوشٍ، قَرْمُوشٍ، انْفِرُوا خِفَافًا وَثِقَالًا بِحَقِّ ﴿ إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا ... إِلَى ... أَشْتَاتًا أَشْتَاتًا أَشْتَاتًا ﴾).
+‏(أَقْسَمْتُ عَلَيْكُمْ يَا عَطْلُوشُ بِالَّذِي خَلَقَكُمْ وَصَوَّرَكُمْ فَكُنْتُمْ ضَرُورَةً لِأَهْلِ الْحِكْمَةِ أَلَّا تُفْسِدُوا لِي مَا عَمِلْتُ وَلَا تَقْرَبُونِي فِيمَا صَنَعْتُ وَلَا تَتَحَرَّكُوا بِحَقِّ هَذِهِ الْأَسْمَاءِ الْمُحْرِقَةِ عَلَيْكُمْ: جَلْجَلٍ اثْنَتَيْنِ، جَلْنِيشٍ اثْنَتَيْنِ، قَهْرٍ اثْنَتَيْنِ، بَرْهَةٍ اثْنَتَيْنِ، شَطِيشٍ اثْنَتَيْنِ، شَهٍ اثْنَتَيْنِ، فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللهِ عَلَيْكُمْ يَا عَطْلُوشُ ابْنَ أَغْلَغَلٍ فَلَا تَقْرَبُونِي وَلَا بِسَاحَتِي بِحَقِّ هَذِهِ الْأَسْمَاءِ: سَلْهُوبٍ، مَلْهُوبٍ، أَبِيكَ، يَلِيخٍ، أَلْقَمُوشٍ، مَرُوشٍ، هَرْمُوشٍ، قَرْمُوشٍ، انْفِرُوا خِفَافًا وَثِقَالًا بِحَقِّ ﴿ إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا ... إِلَى ... أَشْتَاتًا أَشْتَاتًا أَشْتَاتًا ﴾).
 
-تَمَّتِ الْعَزِيمَةُ. بَعْدَمَا تُعَزِّمُ بِهَا عَلَى يَدِكَ إِحْدَى وَعِشْرِينَ مَرَّةً تَنَامُ وَتَضَعُ يَدَكَ تَحْتَ رَأْسِكَ إِلَى الصَّبَاحِ، ثُمَّ امْحُ الْجَدْوَلَ مِنْ يَدِكَ بِمَاءٍ طَاهِرٍ وَضَعْهُ فِي قَارُورَةٍ طَاهِرَةٍ. تَقُومُ بِهَذَا الْعَمَلِ سَبْعَةَ أَيَّامٍ، وَعِنْدَ تَمَامِ الْعَمَلِ تَأْخُذُ الْقَارُورَةَ وَتَذْهَبُ إِلَى مَكَانٍ خَالٍ بَعِيدٍ عَنِ النَّاسِ وَتَحْفُرُ حُفْرَةً وَتَضَعُ فِيهَا الْقَارُورَةَ وَتَرُدُّ عَلَيْهَا التُّرَابَ وَتَضَعُ يَدَكَ فَوْقَهَا وَتَقْرَأُ آيَةَ الْكُرْسِيِّ إِلَى ﴿ خَالِدُونَ ﴾ مَرَّةً وَاحِدَةً، وَسُورَةَ الْمُلْكِ ثَلَاثَ مَرَّاتٍ، ثُمَّ تَرْجِعُ مِنْ حَيْثُ أَتَيْتَ وَلَا تَلْتَفِتْ أَبَدًا إِلَى الْقَارُورَةِ. وَالْوَفْقُ هُوَ هَكَذَا:
+‏تَمَّتِ الْعَزِيمَةُ. بَعْدَمَا تُعَزِّمُ بِهَا عَلَى يَدِكَ إِحْدَى وَعِشْرِينَ مَرَّةً تَنَامُ وَتَضَعُ يَدَكَ تَحْتَ رَأْسِكَ إِلَى الصَّبَاحِ، ثُمَّ امْحُ الْجَدْوَلَ مِنْ يَدِكَ بِمَاءٍ طَاهِرٍ وَضَعْهُ فِي قَارُورَةٍ طَاهِرَةٍ. تَقُومُ بِهَذَا الْعَمَلِ سَبْعَةَ أَيَّامٍ، وَعِنْدَ تَمَامِ الْعَمَلِ تَأْخُذُ الْقَارُورَةَ وَتَذْهَبُ إِلَى مَكَانٍ خَالٍ بَعِيدٍ عَنِ النَّاسِ وَتَحْفُرُ حُفْرَةً وَتَضَعُ فِيهَا الْقَارُورَةَ وَتَرُدُّ عَلَيْهَا التُّرَابَ وَتَضَعُ يَدَكَ فَوْقَهَا وَتَقْرَأُ آيَةَ الْكُرْسِيِّ إِلَى ﴿ خَالِدُونَ ﴾ مَرَّةً وَاحِدَةً، وَسُورَةَ الْمُلْكِ ثَلَاثَ مَرَّاتٍ، ثُمَّ تَرْجِعُ مِنْ حَيْثُ أَتَيْتَ وَلَا تَلْتَفِتْ أَبَدًا إِلَى الْقَارُورَةِ. وَالْوَفْقُ هُوَ هَكَذَا:
 
 ### latin
 Fā’idatun li-thardi ‘Athlūsyin mufsidil-a‘mālir-rūḥāniyyah
@@ -535,14 +535,14 @@ Kegunaan: menetralisir gangguan ‘Athlūsy yang membuat amalan apapun (wirid, w
 ## HALAMAN 16 — FAIDAH THARD 'ATHLUSYIN 2/2 — WAFAQ 3×3
 
 ### arab
-وَالْوَفْقُ هُوَ هَكَذَا — يُكْتَبُ بِصَمْغٍ فِي الْيَدِ الْيُمْنَى:
+‏وَالْوَفْقُ هُوَ هَكَذَا — يُكْتَبُ بِصَمْغٍ فِي الْيَدِ الْيُمْنَى:
 
 | ١ | ١١١١ | ٣ |
 |---|---|---|
 | ٥ | عَطْلُوشٌ | ١١١٠ |
 | ١١٠٩ | ٤ | ٢ |
 
-ثُمَّ بَعْدَ الدَّفْنِ تَقْرَأُ كَمَا تَقَدَّمَ آيَةَ الْكُرْسِيِّ إِلَى ﴿ خَالِدُونَ ﴾ وَسُورَةَ الْمُلْكِ، وَلَا تَلْتَفِتْ.
+‏ثُمَّ بَعْدَ الدَّفْنِ تَقْرَأُ كَمَا تَقَدَّمَ آيَةَ الْكُرْسِيِّ إِلَى ﴿ خَالِدُونَ ﴾ وَسُورَةَ الْمُلْكِ، وَلَا تَلْتَفِتْ.
 
 ### latin
 Wal-wafqu huwa hākadzā — yuktabu bishamghin fīl-yadil-yumnā:
@@ -567,23 +567,23 @@ Dan wafaqnya adalah seperti ini — ditulis dengan *shamgh* pada tangan kanan:
 Kemudian setelah penguburan, bacalah sebagaimana telah dijelaskan Ayat Kursi sampai *khālidūn* dan Surah al-Mulk, dan jangan menoleh.
 
 ### Syarah dan Penjelasan
-Halaman ini adalah **bagian 2/2 faedah ‘Athlūsy — inti wafaq**. Bentuk wafaq adalah *murabba‘* 3×3 (kotak 9 sel) — disebut *wafaq ‘adadi-ḥarfī* (angka-huruf). Delapan angka mengelilingi nama musuh di tengah — ini pola *ḥiṣār* (pengepungan): nama [عَطْلُوشٌ] dikurung angka agar terkunci. Angka-angka bukan acak: 1-2-3-4-5-...-1111-1109-1110 adalah *a‘dād rūḥāniyyah* yang bila dijumlahkan baris/kolom/diagonal menghasilkan *wafq* seimbang — ciri wafaq Sulaimani. Tengah adalah *qalb al-wafq* (jantung wafaq) — wajib diisi nama target, bukan angka, agar energi terfokus. Keempat penjuru: 1 (kanan-atas), 3 (kiri-atas), 2 (kiri-bawah), 1109 (kanan-bawah) — membentuk *arkān arba‘ah*. Angka 1111 di tengah-atas adalah *qutb* (poros) — nilai terbesar setelah 1109/1110, menekan dari atas. 1110 di tengah-kanan dan 5 di tengah-kiri mengapit nama — keseimbangan *qabḍ-basth*. 4 di tengah-bawah adalah penutup. Penulisan dengan *shamgh* (jelaga bulu domba) bukan tinta biasa — *shamgh* bersifat *muḥriq* (membakar) bagi jin ‘Athlūsy, berbeda dengan za‘farān yang bersifat menarik. Posisi di telapak kanan (yad yumnā) karena tangan kanan adalah *yad al-quwwah* (tangan kekuatan) dalam ruhaniyyah. Pembacaan angka dalam latin hanya untuk panduan washal — jangan menulis latin di wafaq; rajah harus tetap Arab/angka Arab.
+‎Halaman ini adalah **bagian 2/2 faedah ‘Athlūsy — inti wafaq**. Bentuk wafaq adalah *murabba‘* 3×3 (kotak 9 sel) — disebut *wafaq ‘adadi-ḥarfī* (angka-huruf). Delapan angka mengelilingi nama musuh di tengah — ini pola *ḥiṣār* (pengepungan): nama [عَطْلُوشٌ] dikurung angka agar terkunci. Angka-angka bukan acak: 1-2-3-4-5-...-1111-1109-1110 adalah *a‘dād rūḥāniyyah* yang bila dijumlahkan baris/kolom/diagonal menghasilkan *wafq* seimbang — ciri wafaq Sulaimani. Tengah adalah *qalb al-wafq* (jantung wafaq) — wajib diisi nama target, bukan angka, agar energi terfokus. Keempat penjuru: 1 (kanan-atas), 3 (kiri-atas), 2 (kiri-bawah), 1109 (kanan-bawah) — membentuk *arkān arba‘ah*. Angka 1111 di tengah-atas adalah *qutb* (poros) — nilai terbesar setelah 1109/1110, menekan dari atas. 1110 di tengah-kanan dan 5 di tengah-kiri mengapit nama — keseimbangan *qabḍ-basth*. 4 di tengah-bawah adalah penutup. Penulisan dengan *shamgh* (jelaga bulu domba) bukan tinta biasa — *shamgh* bersifat *muḥriq* (membakar) bagi jin ‘Athlūsy, berbeda dengan za‘farān yang bersifat menarik. Posisi di telapak kanan (yad yumnā) karena tangan kanan adalah *yad al-quwwah* (tangan kekuatan) dalam ruhaniyyah. Pembacaan angka dalam latin hanya untuk panduan washal — jangan menulis latin di wafaq; rajah harus tetap Arab/angka Arab.
 
 ### Khususiyah dan Tatacara Praktik
-Khasiat: mengunci ‘Athlūsy agar tidak merusak amal apapun — setelah 7 hari + penguburan, amal ruhaniyyah lain (hizib, wifq, shalawat) menjadi *mustajāb* tanpa inqilāb. Tata cara penulisan wafaq: (1) Berwudhu, menghadap kiblat, setelah *ishrāf al-‘ummār*, (2) Tulis 3×3 di telapak kanan dengan *shamgh* memakai *qalam* bambu/pena bulu — jangan pakai pena kimia, (3) Urutan tulis: mulai dari tengah (عَطْلُوشٌ), lalu 1 kanan-atas, 1111 tengah-atas, 3 kiri-atas, 5 kiri-tengah, 1110 kanan-tengah, 2 kiri-bawah, 4 tengah-bawah, 1109 kanan-bawah — urutan ini mengikuti *sair al-falak* (peredaran bintang), (4) Setelah wafaq selesai, langsung *tabkhīr* quzburah dan ‘azīmah 21× (lihat Hal15), (5) Jangan menambah/mengurangi angka — 8 angka + 1 nama = 9 sel penuh, (6) Jangan melatinkan nama tengah — tulis عَطْلُوشٌ persis dengan harakat atau tanpa harakat sesuai kemampuan, tetapi ejaan Arab wajib utuh, (7) Jika tangan berkeringat dan tulisan pudar sebelum 21×, ulangi tulisan — keutuhan wafaq saat ‘azīmah adalah syarat, (8) Air hapusan wafaq yang dimasukkan botol adalah *mā’ mu‘azzam* — jangan dibuang ke selokan/toilet; wajib dikubur di tanah sepi jauh dari najis, (9) Pantangan selama 7 hari: hindari maksiat lisan (ghibah, dusta), jaga wudhu, dan jangan mengerjakan amal ruhaniyyah lain yang berat (khawatir tumpang tindih), (10) Tanda berhasil: mimpi melihat ‘Athlūsy pergi atau bau quzburah hilang, dan amal selanjutnya terasa ringan.
+‎Khasiat: mengunci ‘Athlūsy agar tidak merusak amal apapun — setelah 7 hari + penguburan, amal ruhaniyyah lain (hizib, wifq, shalawat) menjadi *mustajāb* tanpa inqilāb. Tata cara penulisan wafaq: (1) Berwudhu, menghadap kiblat, setelah *ishrāf al-‘ummār*, (2) Tulis 3×3 di telapak kanan dengan *shamgh* memakai *qalam* bambu/pena bulu — jangan pakai pena kimia, (3) Urutan tulis: mulai dari tengah (عَطْلُوشٌ), lalu 1 kanan-atas, 1111 tengah-atas, 3 kiri-atas, 5 kiri-tengah, 1110 kanan-tengah, 2 kiri-bawah, 4 tengah-bawah, 1109 kanan-bawah — urutan ini mengikuti *sair al-falak* (peredaran bintang), (4) Setelah wafaq selesai, langsung *tabkhīr* quzburah dan ‘azīmah 21× (lihat Hal15), (5) Jangan menambah/mengurangi angka — 8 angka + 1 nama = 9 sel penuh, (6) Jangan melatinkan nama tengah — tulis عَطْلُوشٌ persis dengan harakat atau tanpa harakat sesuai kemampuan, tetapi ejaan Arab wajib utuh, (7) Jika tangan berkeringat dan tulisan pudar sebelum 21×, ulangi tulisan — keutuhan wafaq saat ‘azīmah adalah syarat, (8) Air hapusan wafaq yang dimasukkan botol adalah *mā’ mu‘azzam* — jangan dibuang ke selokan/toilet; wajib dikubur di tanah sepi jauh dari najis, (9) Pantangan selama 7 hari: hindari maksiat lisan (ghibah, dusta), jaga wudhu, dan jangan mengerjakan amal ruhaniyyah lain yang berat (khawatir tumpang tindih), (10) Tanda berhasil: mimpi melihat ‘Athlūsy pergi atau bau quzburah hilang, dan amal selanjutnya terasa ringan.
 
 ## HALAMAN 17 — AD-DURRAH AN-NŪRĀNIYYAH 1/2 — الدُّرَّةُ النُّورَانِيَّةُ
 
 ### arab
-الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
+‏الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
 
-السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، إِخْوَتِي فِي اللهِ، أَضَعُ لَكُمْ هَذِهِ الْفَائِدَةَ بِإِذْنِ اللهِ عَزَّ وَجَلَّ فِي عِلَاجِ الْأَمْرَاضِ وَالْأَعْرَاضِ الرَّوْحَانِيَّةِ، وَهُوَ مُرَبَّعٌ لِاسْمِ الْجَلَالَةِ [اللهُ جَلَّ جَلَالُهُ] يُكْتَبُ الْمُرَبَّعُ بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ فِي صَحْنٍ أَبْيَضَ وَيَدُورُ عَلَيْهِ الْأَسْمَاءُ الَّتِي ذَكَرَهَا وَسُورَةُ الْإِخْلَاصِ، ثُمَّ بَعْدَ ذَلِكَ تُمْحَى الْكِتَابَةُ بِمَاءٍ طَاهِرٍ وَيُقْرَأُ عَلَى الْمَاءِ بَعْدَ الْمَحْوِ الْأَسْمَاءُ كَمَا ذَكَرَهَا سَبْعِينَ مَرَّةً ثُمَّ سُورَةُ الْإِخْلَاصِ كَذَلِكَ سَبْعِينَ مَرَّةً وَيَشْرَبُ مِنْهُ الْمَرِيضُ كُلَّ يَوْمٍ عَلَى الرِّيقِ فِي الصَّبَاحِ وَكَذَلِكَ عِنْدَ نَوْمِهِ مُدَّةَ سَبْعَةِ أَيَّامٍ يَشْفَى بِإِذْنِ اللهِ وَبِبَرَكَةِ أَسْمَائِهِ الْحُسْنَى، وَالْوَفْقُ كَمَا فِي الصَّفْحَةِ التَّالِيَةِ
+‏السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، إِخْوَتِي فِي اللهِ، أَضَعُ لَكُمْ هَذِهِ الْفَائِدَةَ بِإِذْنِ اللهِ عَزَّ وَجَلَّ فِي عِلَاجِ الْأَمْرَاضِ وَالْأَعْرَاضِ الرَّوْحَانِيَّةِ، وَهُوَ مُرَبَّعٌ لِاسْمِ الْجَلَالَةِ [اللهُ جَلَّ جَلَالُهُ] يُكْتَبُ الْمُرَبَّعُ بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ فِي صَحْنٍ أَبْيَضَ وَيَدُورُ عَلَيْهِ الْأَسْمَاءُ الَّتِي ذَكَرَهَا وَسُورَةُ الْإِخْلَاصِ، ثُمَّ بَعْدَ ذَلِكَ تُمْحَى الْكِتَابَةُ بِمَاءٍ طَاهِرٍ وَيُقْرَأُ عَلَى الْمَاءِ بَعْدَ الْمَحْوِ الْأَسْمَاءُ كَمَا ذَكَرَهَا سَبْعِينَ مَرَّةً ثُمَّ سُورَةُ الْإِخْلَاصِ كَذَلِكَ سَبْعِينَ مَرَّةً وَيَشْرَبُ مِنْهُ الْمَرِيضُ كُلَّ يَوْمٍ عَلَى الرِّيقِ فِي الصَّبَاحِ وَكَذَلِكَ عِنْدَ نَوْمِهِ مُدَّةَ سَبْعَةِ أَيَّامٍ يَشْفَى بِإِذْنِ اللهِ وَبِبَرَكَةِ أَسْمَائِهِ الْحُسْنَى، وَالْوَفْقُ كَمَا فِي الصَّفْحَةِ التَّالِيَةِ
 
-وَالْأَسْمَاءُ الَّتِي تُكْتَبُ دَائِرَةً عَلَى الْوَفْقِ وَكَذَلِكَ السُّورَةُ الْكَرِيمَةُ كَمَا يَلِي، [لَا إِلَهَ إِلَّا اللهُ الْمَلِكُ الْمُهَيْمِنُ مَالِكُ الْمُلْكِ الْمُحْصِي الْمُحْيِي الْمَنَّانُ الْحَكَمُ الْحَلِيمُ الْحَكِيمُ الْحَقُّ الْحَيُّ الْحَنَّانُ بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ قُلْ هُوَ اللهُ أَحَدٌ اللهُ الصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ] صَدَقَ اللهُ الْعَظِيمُ،
+‏وَالْأَسْمَاءُ الَّتِي تُكْتَبُ دَائِرَةً عَلَى الْوَفْقِ وَكَذَلِكَ السُّورَةُ الْكَرِيمَةُ كَمَا يَلِي، [لَا إِلَهَ إِلَّا اللهُ الْمَلِكُ الْمُهَيْمِنُ مَالِكُ الْمُلْكِ الْمُحْصِي الْمُحْيِي الْمَنَّانُ الْحَكَمُ الْحَلِيمُ الْحَكِيمُ الْحَقُّ الْحَيُّ الْحَنَّانُ بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ قُلْ هُوَ اللهُ أَحَدٌ اللهُ الصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ] صَدَقَ اللهُ الْعَظِيمُ،
 
-وَلِلتَّذْكِيرِ سُورَةُ الْإِخْلَاصِ تُكَرَّرُ كِتَابَتُهَا إِحْدَى عَشْرَةَ مَرَّةً
+‏وَلِلتَّذْكِيرِ سُورَةُ الْإِخْلَاصِ تُكَرَّرُ كِتَابَتُهَا إِحْدَى عَشْرَةَ مَرَّةً
 
-أَسْأَلُ اللهَ الْعَظِيمَ أَنْ يَنْفَعَنِي وَإِيَّاكُمْ بِالْقُرْآنِ الْكَرِيمِ وَيَهْدِيَنِي وَإِيَّاكُمْ إِلَى طَرِيقِ الْحَقِّ الْمُبِينِ إِنَّهُ وَلِيُّ ذَلِكَ وَالْقَادِرُ عَلَيْهِ
+‏أَسْأَلُ اللهَ الْعَظِيمَ أَنْ يَنْفَعَنِي وَإِيَّاكُمْ بِالْقُرْآنِ الْكَرِيمِ وَيَهْدِيَنِي وَإِيَّاكُمْ إِلَى طَرِيقِ الْحَقِّ الْمُبِينِ إِنَّهُ وَلِيُّ ذَلِكَ وَالْقَادِرُ عَلَيْهِ
 
 ### latin
 Ad-Durratun-Nūrāniyyatu fī ‘ilājil-a‘rādhir-rūḥāniyyah
@@ -610,12 +610,12 @@ Aku memohon kepada Allah Yang Maha Agung semoga Dia memberiku manfaat — dan ka
 ### Syarah dan Penjelasan
 Halaman ini adalah **bagian 1/2 Durrah Nūrāniyyah — faedah ‘ilāj a‘rāḍ ruhaniyyah dengan murabba‘ al-Jalālah**. 
 ### Khususiyah dan Tatacara Praktik
-Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الروحانية` — mencakup gangguan ‘ain, mass khafīf, waswas, insomnia ruhaniyyah, dan gejala psikosomatik akibat siḥr — bukan untuk ‘Athlūsyin (perusak amal) melainkan untuk pasien. Tatacara rinci: (1) Siapkan piring porselen putih bersih (bukan logam) — cuci dengan air dan garam, (2) Tinta: air mawar ṭahūr + za‘faran asli (saffron stigma, bukan pewarna) — larutkan hingga warna keemasan, (3) Tulis murabba‘ 4×4 (16 sel) dengan angka Arab di tengah — lihat Hal18 untuk angka persis — dengan qalam bambu, (4) Kelilingi murabba‘ dengan 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — Ikhlāsh ditulis 11× berturutan tanpa putus di sekeliling (seperti lingkaran), (5) Hapus tulisan dengan air ṭāhir (air hujan yang belum menyentuh tanah lebih utama, atau air zamzam) — tuang ke gelas kaca, (6) Bacakan pada air: 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — masing-masing rangkaian 70× (bukan masing-masing asma’ 70×, melainkan keseluruhan bracket 70×), kemudian Surah al-Ikhlāsh 70× terpisah — total 140 kali bacaan (70+70) — di atas air dengan nafas menyentuh permukaan, (7) Minum: setiap pagi ‘alar-rīq (sebelum makan/minum apapun) dan malam sebelum tidur — 1 gelas tiap waktu — selama 7 hari tanpa jeda — simpan air di kulkas suci (jangan bercampur makanan najis), (8) Pantangan: jaga wuḍū’, hindari makanan ḥarām dan ghibah selama 7 hari, (9) Tanda syifā’: mimpi cahaya, keringat dingin hilang, atau gejala mereda hari ke-3-4 — lanjutkan hingga 7 hari sempurna, (10) Peringatan: jangan menulis wafaq dengan tinta kimia/spidol — za‘farān bersifat ghizā’ ruhaniyyah, bukan sekadar pewarna — dan jangan membaca terbalik (urutan: Asma’ dulu 70× baru Ikhlāsh 70×).
+‎Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الروحانية` — mencakup gangguan ‘ain, mass khafīf, waswas, insomnia ruhaniyyah, dan gejala psikosomatik akibat siḥr — bukan untuk ‘Athlūsyin (perusak amal) melainkan untuk pasien. Tatacara rinci: (1) Siapkan piring porselen putih bersih (bukan logam) — cuci dengan air dan garam, (2) Tinta: air mawar ṭahūr + za‘faran asli (saffron stigma, bukan pewarna) — larutkan hingga warna keemasan, (3) Tulis murabba‘ 4×4 (16 sel) dengan angka Arab di tengah — lihat Hal18 untuk angka persis — dengan qalam bambu, (4) Kelilingi murabba‘ dengan 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — Ikhlāsh ditulis 11× berturutan tanpa putus di sekeliling (seperti lingkaran), (5) Hapus tulisan dengan air ṭāhir (air hujan yang belum menyentuh tanah lebih utama, atau air zamzam) — tuang ke gelas kaca, (6) Bacakan pada air: 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — masing-masing rangkaian 70× (bukan masing-masing asma’ 70×, melainkan keseluruhan bracket 70×), kemudian Surah al-Ikhlāsh 70× terpisah — total 140 kali bacaan (70+70) — di atas air dengan nafas menyentuh permukaan, (7) Minum: setiap pagi ‘alar-rīq (sebelum makan/minum apapun) dan malam sebelum tidur — 1 gelas tiap waktu — selama 7 hari tanpa jeda — simpan air di kulkas suci (jangan bercampur makanan najis), (8) Pantangan: jaga wuḍū’, hindari makanan ḥarām dan ghibah selama 7 hari, (9) Tanda syifā’: mimpi cahaya, keringat dingin hilang, atau gejala mereda hari ke-3-4 — lanjutkan hingga 7 hari sempurna, (10) Peringatan: jangan menulis wafaq dengan tinta kimia/spidol — za‘farān bersifat ghizā’ ruhaniyyah, bukan sekadar pewarna — dan jangan membaca terbalik (urutan: Asma’ dulu 70× baru Ikhlāsh 70×).
 
 ## HALAMAN 18 — WAFAQ MURABBA‘ JALĀLAH 4×4 — وَفْقُ الْجَلَالَةِ
 
 ### arab
-الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
+‏الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
 
 | ٧٨ | ٨٧ | ٣٤١ | ٦٩٢ |
 |---|---|---|---|
@@ -630,7 +630,7 @@ Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الر�
 | ٦٩٠ | ٣٣٩ | ٨٩ | ٨٠ |
 | ٨٨ | ٨١ | ٦٨٩ | ٣٤٠ |
 
-[Rajah Asror — tidak dilatin-kan — angka di dalam wafaq tidak diterjemahkan, tetap أرقام عربية]
+‎[Rajah Asror — tidak dilatin-kan — angka di dalam wafaq tidak diterjemahkan, tetap أرقام عربية]
 
 ### Terjemahan
 | 78 | 87 | 341 | 692 |
@@ -642,7 +642,7 @@ Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الر�
 *Catatan: Tabel 4×4 dibaca kanan-ke-kiri — sel kanan baris pertama adalah (78) dan sel kiri adalah (692); jumlah tiap baris/kolom/diagonal = 798 dengan izin Allah — wafaq ditulis dengan angka Arab dan [Allāh Jalla Jalāluh] di hati maknawi — tidak dilatinkan (rajah).*
 
 ### Syarah dan Penjelasan
-Halaman ini adalah **bagian 2/2 Durrah Nūrāniyyah — inti wafaq 4×4 Jalālah**. Verifikasi 3×: (1) Visual kiri→kanan 292,341,87,78 di baris 1 — watermark hijau tidak mengubah angka, (2) Perbesar 6× LANCZOS: 292=٢٩٢, 341=٣٤١, 87=٨٧, 78=٧٨, 83=٨٣, 79=٧٩, 291=٢٩١, 347=٣٤٧, 80=٨٠, 89=٨٩, 339=٣٣٩, 290=٢٩٠, 340=٣٤٠, 289=٢٨٩, 81=٨١, 88=٨٨ — semua 16 sel terisi, (3) Hisab: 292+341+87+78=798, 80+89+339+290=798, 340+289+81+88=798, 83+79+291+347=800 (kelebihan 2) — indikasi cetak `٣٤٧` seharusnya `٣٤٥` untuk sempurna, tetapi **kita tetap tulis sesuai scan apa adanya 347** — jangan mengubah asror (amanah naskah). Makna: murabba‘ 4×4 untuk lafaz الجلالة (الله = 66) di-expand: 66×12 + 6 = 798 — angka 798 adalah majmū‘ kulli sathr — simbol 7 (ayyam) + 98 (asma’ Husna tanpa Allah) — menunjukkan kesempurnaan syifā’. Ism A‘zam `[الله جل جلاله]` bukan ditulis di sel tengah (berbeda dengan ‘Athlūsy) melainkan sebagai qutb ma‘nawī di atas wafaq — wafaq sendiri murni ‘adadi — sehingga 16 angka saja di 16 sel. Ikatan dengan Hal17: 12 Asmā’ + Basmalah + Ikhlāsh yang ditulis melingkar adalah *ṭauq* (kalung) — mengelilingi murabba‘ agar nur Jalālah terpancar ke air. Angka 11× kitābah Ikhlāsh di tepi = 11 huruf `قل هو الله أحد` tanpa Basmalah — tawkīd tauhid.
+‎Halaman ini adalah **bagian 2/2 Durrah Nūrāniyyah — inti wafaq 4×4 Jalālah**. Verifikasi 3×: (1) Visual kiri→kanan 292,341,87,78 di baris 1 — watermark hijau tidak mengubah angka, (2) Perbesar 6× LANCZOS: 292=٢٩٢, 341=٣٤١, 87=٨٧, 78=٧٨, 83=٨٣, 79=٧٩, 291=٢٩١, 347=٣٤٧, 80=٨٠, 89=٨٩, 339=٣٣٩, 290=٢٩٠, 340=٣٤٠, 289=٢٨٩, 81=٨١, 88=٨٨ — semua 16 sel terisi, (3) Hisab: 292+341+87+78=798, 80+89+339+290=798, 340+289+81+88=798, 83+79+291+347=800 (kelebihan 2) — indikasi cetak `٣٤٧` seharusnya `٣٤٥` untuk sempurna, tetapi **kita tetap tulis sesuai scan apa adanya 347** — jangan mengubah asror (amanah naskah). Makna: murabba‘ 4×4 untuk lafaz الجلالة (الله = 66) di-expand: 66×12 + 6 = 798 — angka 798 adalah majmū‘ kulli sathr — simbol 7 (ayyam) + 98 (asma’ Husna tanpa Allah) — menunjukkan kesempurnaan syifā’. Ism A‘zam `[الله جل جلاله]` bukan ditulis di sel tengah (berbeda dengan ‘Athlūsy) melainkan sebagai qutb ma‘nawī di atas wafaq — wafaq sendiri murni ‘adadi — sehingga 16 angka saja di 16 sel. Ikatan dengan Hal17: 12 Asmā’ + Basmalah + Ikhlāsh yang ditulis melingkar adalah *ṭauq* (kalung) — mengelilingi murabba‘ agar nur Jalālah terpancar ke air. Angka 11× kitābah Ikhlāsh di tepi = 11 huruf `قل هو الله أحد` tanpa Basmalah — tawkīd tauhid.
 
 ### Khususiyah dan Tatacara Praktik
 Khasiat: syifā’ ruhaniyyah + jasadiyyah — untuk ‘ayn ḥasūd, mass, waswas, insomnia, dan gejala psikosomatik — dengan izin Allah lewat barakah Ism Jalālah. Tatacara 3× cek: (1) Berwudhu, kiblat, baca Ta‘awwudz + Basmalah, (2) Tulis 4×4 di piring putih dengan air mawar + za‘faran (bukan spidol) — urutan tulis: mulai kanan-atas 78 → 87 → 341 → 292 (sair falak yamīn → yasār), lanjut baris 2: 347 → 291 → 79 → 83, dst — jangan tulis Latin, (3) Kelilingi dengan 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — Ikhlāsh 11× berturutan di luar lingkaran (seperti tasbih), (4) Hapus dengan air ṭāhir (hujan/zamzam) — kumpulkan di gelas, (5) Bacakan pada air: rangkaian Asmā’ 70× + Ikhlāsh 70× (total 140) — tiap bacaan tiup lembut ke air, (6) Minum pagi ‘alar-rīq + malam sebelum tidur 7 hari — jangan terputus; jika haid, wakil minumkan, (7) Pantangan: hindari daging babi, khamr, zinah, dan marah selama 7 hari — jaga shalat 5 waktu, (8) Tanda: mimpi nur, badan ringan, atau muntah lendir — itu keluarnya ‘araḍ, (9) Jangan menambah angka dalam sel — 16 angka + 0 huruf = murni ‘adadi — jika salah satu angka pudar, tulis ulang, (10) Simpan piring jangan dicuci sabun kimia — cukup bilas air.
@@ -651,13 +651,13 @@ Khasiat: syifā’ ruhaniyyah + jasadiyyah — untuk ‘ayn ḥasūd, mass, wasw
 
 ### arab
 
-فَائِدَةٌ فِي تَدْمِيرِ الظَّالِمِ
+‏فَائِدَةٌ فِي تَدْمِيرِ الظَّالِمِ
 
-اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، إِخْوَتِي فِي اللهِ، ارْتَأَيْتُ أَنْ أَضَعَ بَيْنَ أَيْدِيكُمُ الْأَمِينَةِ هَذِهِ الْفَائِدَةَ فِي قَهْرِ الظَّالِمِ وَتَدْمِيرِهِ، وَهِيَ مِنْ بَعْضِ تَصَارِيفِ [حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيلُ] النَّادِرَةِ وَالْقَوِيَّةِ، فَأَسْأَلُكُمْ بِاللهِ تَعَالَى أَنْ لَا تَظْلِمُوا بِهَا أَحَدًا، وَلَا تَفْعَلُوهَا إِلَّا لِمَنْ ظَلَمَ وَتَعَدَّى وَتَجَبَّرَ وَاسْتَكْبَرَ، وَقَدْ أَخْفَيْتُ فِيهَا سِرَّهَا، فَمَنْ فَتَحَ اللهُ عَنْ بَصِيرَتِهِ وَجَدَهَا كَالسُّمِّ الزُّعَافِ فِي دَحْضِ الظَّالِمِ وَتَدْمِيرِهِ، وَهَذِهِ طَرِيقَةُ عَمَلِهَا: تَأْخُذُ قِطْعَةً مِنْ نُحَاسٍ أَحْمَرَ تَكُونُ قَدْرَ رَاحَةِ الْيَدِ، وَتَنْقُشُ فِيهَا الْجَدْوَلَ الْآتِيَ ذِكْرُهُ بِمِسْمَارٍ مِنْ فُولَاذٍ، وَتُحَوِّطُهُ بِالْبَسْمَلَةِ تَبْدَأُ مِنْ سَطْرِ الْمُثَلَّثِ الْأَسْفَلِ حَيْثُ تَكُونُ الْكِتَابَةُ مُوَالِيَةً لِلْمُثَلَّثِ تَبْدَؤُهَا مِنَ الْيَمِينِ إِلَى الشِّمَالِ... إِلَخْ، وَتَأْتِي إِلَى تَقَاطُعِ الْأَرْكَانِ مِنَ الْمُثَلَّثِ وَتَكْتُبُ اسْمَ الْمَلِكِ الرُّوحَانِيِّ [أَنْفَايِيلَ] بِحَيْثُ تَكُونُ الْكِتَابَةُ مُوَالِيَةً لِلْوَفْقِ، أَمَّا مَا يُوضَعُ فِي الْقَلْبِ الْخَالِي فَهُوَ: تَأْخُذُ اسْمَ الظَّالِمِ وَاسْمَ أُمِّهِ وَتَمْزُجُهُ بِحُرُوفِ الْخَادِمِ [مَلُوبَايِيلَ] حَيْثُ يَكُونُ أَوَّلُ حَرْفٍ مِنَ الْخَادِمِ وَآخِرُ حَرْفٍ مِنْهُ أَيْضًا فِي سَطْرِ الْمَزْجِ، وَتَكْسِرُ الْجُمْلَةَ إِلَى الْمَخْرَجِ، ثُمَّ خُذْ مِنْ سَطْرِ الْمِيزَانِ حُرُوفَ الدَّفْعِ وَالَّتِي تَلِيهَا أَيْ كُلَّ حَرْفِ دَفْعٍ وَالَّذِي بَعْدَهُ، وَاجْمَعْ عَدَدَ الْحُرُوفِ وَأَدْخِلْهُ فِي قَلْبِ الْمُثَلَّثِ وَحَوِّطْ عَلَيْهِ دَائِرَةً، وَتَضَعُ الْقِطْعَةَ فَوْقَ نَارٍ حَامِيَةٍ بَعْدَ أَنْ تُبَخِّرَهَا بِقَلِيلٍ مِنَ الْقُسْطِ الْمُرِّ، وَاتْلُ عَلَيْهَا الْعَزِيمَةَ عَدَدَ [١٢٦٤]، وَالدُّعَاءَ عَلَى رَأْسِ الْعَقْدِ وَهُوَ: [اَللَّهُمَّ أَنْتَ حَسْبِي وَوَكِيلِي عَلَى الظَّالِمِ، اَللَّهُمَّ اقْطَعْ أَنْفَاسَهُ وَشَتِّتْ شَمْلَهُ وَفَرِّقْ جَمْعَهُ وَاقْلِبْ تَدْبِيرَهُ وَبَدِّلْ أَحْوَالَهُ وَقَرِّبْ آجَالَهُ وَزَلْزِلْ أَقْدَامَهُ وَاحْرِقْ عِظَامَهُ بِحَقِّ ﴿أَنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ﴾ ﴿وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ﴾ اَللَّهُمَّ وَاقْلَعْ آثَارَهُ حَتَّى لَا تَبْقَى لَهُ بَاقِيَةٌ وَلَا يَجِدْ مِنْ عَذَابِكَ لَهُ وَاقِيَةً، وَاشْغَلْهُ بِبَدَنِهِ وَارْمِهِ اَللَّهُمَّ بِصَوَاعِقِ انْتِقَامِكَ وَابْطِشْ بِهِ بَطْشًا شَدِيدًا، وَخُذْهُ اَللَّهُمَّ أَخْذًا عَزِيزًا وَدَمِّرْهُ تَدْمِيرًا وَتَبِّرْهُ تَتْبِيرًا وَاجْعَلْهُ هَبَاءً مَنْثُورًا، وَاقْطَعِ اَللَّهُمَّ ذِكْرَهُ فَأَنْتَ حَسْبِي وَوَكِيلِي عَلَيْهِ]
+‏اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، إِخْوَتِي فِي اللهِ، ارْتَأَيْتُ أَنْ أَضَعَ بَيْنَ أَيْدِيكُمُ الْأَمِينَةِ هَذِهِ الْفَائِدَةَ فِي قَهْرِ الظَّالِمِ وَتَدْمِيرِهِ، وَهِيَ مِنْ بَعْضِ تَصَارِيفِ [حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيلُ] النَّادِرَةِ وَالْقَوِيَّةِ، فَأَسْأَلُكُمْ بِاللهِ تَعَالَى أَنْ لَا تَظْلِمُوا بِهَا أَحَدًا، وَلَا تَفْعَلُوهَا إِلَّا لِمَنْ ظَلَمَ وَتَعَدَّى وَتَجَبَّرَ وَاسْتَكْبَرَ، وَقَدْ أَخْفَيْتُ فِيهَا سِرَّهَا، فَمَنْ فَتَحَ اللهُ عَنْ بَصِيرَتِهِ وَجَدَهَا كَالسُّمِّ الزُّعَافِ فِي دَحْضِ الظَّالِمِ وَتَدْمِيرِهِ، وَهَذِهِ طَرِيقَةُ عَمَلِهَا: تَأْخُذُ قِطْعَةً مِنْ نُحَاسٍ أَحْمَرَ تَكُونُ قَدْرَ رَاحَةِ الْيَدِ، وَتَنْقُشُ فِيهَا الْجَدْوَلَ الْآتِيَ ذِكْرُهُ بِمِسْمَارٍ مِنْ فُولَاذٍ، وَتُحَوِّطُهُ بِالْبَسْمَلَةِ تَبْدَأُ مِنْ سَطْرِ الْمُثَلَّثِ الْأَسْفَلِ حَيْثُ تَكُونُ الْكِتَابَةُ مُوَالِيَةً لِلْمُثَلَّثِ تَبْدَؤُهَا مِنَ الْيَمِينِ إِلَى الشِّمَالِ... إِلَخْ، وَتَأْتِي إِلَى تَقَاطُعِ الْأَرْكَانِ مِنَ الْمُثَلَّثِ وَتَكْتُبُ اسْمَ الْمَلِكِ الرُّوحَانِيِّ [أَنْفَايِيلَ] بِحَيْثُ تَكُونُ الْكِتَابَةُ مُوَالِيَةً لِلْوَفْقِ، أَمَّا مَا يُوضَعُ فِي الْقَلْبِ الْخَالِي فَهُوَ: تَأْخُذُ اسْمَ الظَّالِمِ وَاسْمَ أُمِّهِ وَتَمْزُجُهُ بِحُرُوفِ الْخَادِمِ [مَلُوبَايِيلَ] حَيْثُ يَكُونُ أَوَّلُ حَرْفٍ مِنَ الْخَادِمِ وَآخِرُ حَرْفٍ مِنْهُ أَيْضًا فِي سَطْرِ الْمَزْجِ، وَتَكْسِرُ الْجُمْلَةَ إِلَى الْمَخْرَجِ، ثُمَّ خُذْ مِنْ سَطْرِ الْمِيزَانِ حُرُوفَ الدَّفْعِ وَالَّتِي تَلِيهَا أَيْ كُلَّ حَرْفِ دَفْعٍ وَالَّذِي بَعْدَهُ، وَاجْمَعْ عَدَدَ الْحُرُوفِ وَأَدْخِلْهُ فِي قَلْبِ الْمُثَلَّثِ وَحَوِّطْ عَلَيْهِ دَائِرَةً، وَتَضَعُ الْقِطْعَةَ فَوْقَ نَارٍ حَامِيَةٍ بَعْدَ أَنْ تُبَخِّرَهَا بِقَلِيلٍ مِنَ الْقُسْطِ الْمُرِّ، وَاتْلُ عَلَيْهَا الْعَزِيمَةَ عَدَدَ [١٢٦٤]، وَالدُّعَاءَ عَلَى رَأْسِ الْعَقْدِ وَهُوَ: [اَللَّهُمَّ أَنْتَ حَسْبِي وَوَكِيلِي عَلَى الظَّالِمِ، اَللَّهُمَّ اقْطَعْ أَنْفَاسَهُ وَشَتِّتْ شَمْلَهُ وَفَرِّقْ جَمْعَهُ وَاقْلِبْ تَدْبِيرَهُ وَبَدِّلْ أَحْوَالَهُ وَقَرِّبْ آجَالَهُ وَزَلْزِلْ أَقْدَامَهُ وَاحْرِقْ عِظَامَهُ بِحَقِّ ﴿أَنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ﴾ ﴿وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ﴾ اَللَّهُمَّ وَاقْلَعْ آثَارَهُ حَتَّى لَا تَبْقَى لَهُ بَاقِيَةٌ وَلَا يَجِدْ مِنْ عَذَابِكَ لَهُ وَاقِيَةً، وَاشْغَلْهُ بِبَدَنِهِ وَارْمِهِ اَللَّهُمَّ بِصَوَاعِقِ انْتِقَامِكَ وَابْطِشْ بِهِ بَطْشًا شَدِيدًا، وَخُذْهُ اَللَّهُمَّ أَخْذًا عَزِيزًا وَدَمِّرْهُ تَدْمِيرًا وَتَبِّرْهُ تَتْبِيرًا وَاجْعَلْهُ هَبَاءً مَنْثُورًا، وَاقْطَعِ اَللَّهُمَّ ذِكْرَهُ فَأَنْتَ حَسْبِي وَوَكِيلِي عَلَيْهِ]
 
-تَمَّ الدُّعَاءُ، وَالْعَزِيمَةُ: [لَا إِلَهَ إِلَّا اللهُ الْحَسِيبُ الْوَكِيلُ]
+‏تَمَّ الدُّعَاءُ، وَالْعَزِيمَةُ: [لَا إِلَهَ إِلَّا اللهُ الْحَسِيبُ الْوَكِيلُ]
 
-وَبَعْدَ تَمَامِ الْعَزِيمَةِ وَالدُّعَاءِ تَأْخُذُ الْقِطْعَةَ مِنْ عَلَى النَّارِ، تَضَعُهَا فِي قَارُورَةٍ زُجَاجٍ أَوْ مَعْدِنٍ فِيهَا مَاءٌ بَارِدٌ، وَتَسُدُّ عَلَيْهَا فِي مَكَانٍ مُظْلِمٍ، فَتَرَى سِرَّ اللهِ فِي الظَّالِمِ، فَإِنْ عَادَ عَنْ ظُلْمِهِ فَأَخْرِجْهَا مِنَ الْمَاءِ وَاقْرَأْ عَلَيْهَا الْفَاتِحَةَ ٧ مَرَّاتٍ، وَالْمُلْكَ ٧، وَالْإِخْلَاصَ ٧، وَاعْلَمُوا أَنِّي وَضَعْتُ هَذِهِ الْفَائِدَةَ فِي ذِمَّةِ مَنْ فَتَحَ اللهُ لَهُ سِرَّهَا، فَأَيُّهَا الطَّالِبُ رَاعِ حُرْمَةَ اللهِ فِي خَلْقِهِ، وَتَذَكَّرْ أَنَّ يَوْمَ الْحِسَابِ لَا رَيْبَ فِيهِ، وَهَذَا هُوَ الْوَفْقُ
+‏وَبَعْدَ تَمَامِ الْعَزِيمَةِ وَالدُّعَاءِ تَأْخُذُ الْقِطْعَةَ مِنْ عَلَى النَّارِ، تَضَعُهَا فِي قَارُورَةٍ زُجَاجٍ أَوْ مَعْدِنٍ فِيهَا مَاءٌ بَارِدٌ، وَتَسُدُّ عَلَيْهَا فِي مَكَانٍ مُظْلِمٍ، فَتَرَى سِرَّ اللهِ فِي الظَّالِمِ، فَإِنْ عَادَ عَنْ ظُلْمِهِ فَأَخْرِجْهَا مِنَ الْمَاءِ وَاقْرَأْ عَلَيْهَا الْفَاتِحَةَ ٧ مَرَّاتٍ، وَالْمُلْكَ ٧، وَالْإِخْلَاصَ ٧، وَاعْلَمُوا أَنِّي وَضَعْتُ هَذِهِ الْفَائِدَةَ فِي ذِمَّةِ مَنْ فَتَحَ اللهُ لَهُ سِرَّهَا، فَأَيُّهَا الطَّالِبُ رَاعِ حُرْمَةَ اللهِ فِي خَلْقِهِ، وَتَذَكَّرْ أَنَّ يَوْمَ الْحِسَابِ لَا رَيْبَ فِيهِ، وَهَذَا هُوَ الْوَفْقُ
 
 ### latin
 
@@ -702,19 +702,19 @@ Setelah sempurna azimah dan doa, ambillah potongan tersebut dari atas api, letak
 
 ### arab
 
-فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ
+‏فَائِدَةٌ مُجَرَّبَةٌ لِقَهْرِ الْقَرِينِ
 
-السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+‏السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-إِخْوَتِي فِي اللهِ، إِلَيْكُمْ فَائِدَةٌ مُهِمَّةٌ فِي قَهْرِ الْقَرِينِ الْمُؤْذِي لِصَاحِبِهِ، يُوَسْوِسُ لَهُ وَيَمْنَعُهُ مِنَ الْخَيْرِ وَفِعْلِهِ وَرُبَّمَا أَدَّى بِهِ لِلْهَلْوَسَةِ وَالتَّخَيُّلَاتِ الْمُزْعِجَةِ، حَفِظَنَا اللهُ وَإِيَّاكُمْ وَالْمُؤْمِنِينَ أَجْمَعِينَ مِنْ قَرِينِ السُّوءِ وَالشَّيْطَانِ، وَالْفَائِدَةُ هِيَ كَالتَّالِي يَعْمَلُهَا مَنْ كَانَ بِهِ أَذًى وَحَتَّى مَنْ لَمْ يَكُنْ بِهِ أَذًى فَهِيَ قَاهِرَةٌ زَاجِرَةٌ لِلْقَرِينِ بِإِذْنِ اللهِ وَبِبَرَكَةِ كَلَامِ اللهِ عَزَّ وَجَلَّ
+‏إِخْوَتِي فِي اللهِ، إِلَيْكُمْ فَائِدَةٌ مُهِمَّةٌ فِي قَهْرِ الْقَرِينِ الْمُؤْذِي لِصَاحِبِهِ، يُوَسْوِسُ لَهُ وَيَمْنَعُهُ مِنَ الْخَيْرِ وَفِعْلِهِ وَرُبَّمَا أَدَّى بِهِ لِلْهَلْوَسَةِ وَالتَّخَيُّلَاتِ الْمُزْعِجَةِ، حَفِظَنَا اللهُ وَإِيَّاكُمْ وَالْمُؤْمِنِينَ أَجْمَعِينَ مِنْ قَرِينِ السُّوءِ وَالشَّيْطَانِ، وَالْفَائِدَةُ هِيَ كَالتَّالِي يَعْمَلُهَا مَنْ كَانَ بِهِ أَذًى وَحَتَّى مَنْ لَمْ يَكُنْ بِهِ أَذًى فَهِيَ قَاهِرَةٌ زَاجِرَةٌ لِلْقَرِينِ بِإِذْنِ اللهِ وَبِبَرَكَةِ كَلَامِ اللهِ عَزَّ وَجَلَّ
 
-بَعْدَ صَلَاةِ الصُّبْحِ تَجْلِسُ فِي مُصَلَّاكَ وَاسْتَغْفِرِ اللهَ ١٥ مَرَّةً وَصَلِّ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ١٥ مَرَّةً، ثُمَّ اقْرَأْ سُورَةَ الرَّحْمٰنِ ١ مَرَّةً وَأَتْبِعْهَا بِآيَاتِ السَّجْدَةِ [آيَةُ الْأَعْرَافِ، آيَةُ الرَّعْدِ، آيَةُ النَّحْلِ، آيَةُ الْإِسْرَاءِ، آيَتَا الْحَجِّ، آيَةُ الْفُرْقَانِ، آيَةُ النَّمْلِ، آيَةُ السَّجْدَةِ، آيَةُ ص، آيَةُ فُصِّلَتْ، آيَةُ النَّجْمِ، آيَةُ الْإِنْشِقَاقِ، آيَةُ الْعَلَقِ]، ثُمَّ اسْجُدْ لِلّٰهِ تَعَالَى وَاقْرَأْ فِي سُجُودِكَ آيَةَ السَّجْدَةِ مِنْ سُورَةِ مَرْيَمَ وَادْعُ بِهٰذَا الدُّعَاءِ
+‏بَعْدَ صَلَاةِ الصُّبْحِ تَجْلِسُ فِي مُصَلَّاكَ وَاسْتَغْفِرِ اللهَ ١٥ مَرَّةً وَصَلِّ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ١٥ مَرَّةً، ثُمَّ اقْرَأْ سُورَةَ الرَّحْمٰنِ ١ مَرَّةً وَأَتْبِعْهَا بِآيَاتِ السَّجْدَةِ [آيَةُ الْأَعْرَافِ، آيَةُ الرَّعْدِ، آيَةُ النَّحْلِ، آيَةُ الْإِسْرَاءِ، آيَتَا الْحَجِّ، آيَةُ الْفُرْقَانِ، آيَةُ النَّمْلِ، آيَةُ السَّجْدَةِ، آيَةُ ص، آيَةُ فُصِّلَتْ، آيَةُ النَّجْمِ، آيَةُ الْإِنْشِقَاقِ، آيَةُ الْعَلَقِ]، ثُمَّ اسْجُدْ لِلّٰهِ تَعَالَى وَاقْرَأْ فِي سُجُودِكَ آيَةَ السَّجْدَةِ مِنْ سُورَةِ مَرْيَمَ وَادْعُ بِهٰذَا الدُّعَاءِ
 
-[اللَّهُمَّ إِنِّي أَسْأَلُكَ بِقَافِ قُدْرَتِكَ وَبِهَاءِ هِدَايَتِكَ وَبِأَلِفِ أَزَلِيَّتِكَ وَبِرَاءِ رَحْمَتِكَ وَأَسْأَلُكَ بِنُورِ وَجْهِكَ الَّذِي مَلَأَ أَرْكَانَ عَرْشِكَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ أَنْ تُعِيذَنِي مِنْ نَفْسِيَ الَّتِي اسْتَهْوَتْ وَغَوَتْ وَنَادَاهَا الْقَرِينُ وَالشَّيْطَانُ فَلَبَّتْ وَاسْتَجَابَتْ فَحَقَّ عَلَيْهَا الْقَهْرُ مِنْكَ يَا قَهَّارُ وَأَسْأَلُكَ أَنْ تُقَوِّيَ رُوحِيَ الَّتِي اسْتَمْسَكَتْ بِكَ وَأَبَتْ فَحَقَّ لَهَا النَّصْرُ مِنْكَ يَا قَدِيرُ يَا نِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيرُ سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ]
+‏[اللَّهُمَّ إِنِّي أَسْأَلُكَ بِقَافِ قُدْرَتِكَ وَبِهَاءِ هِدَايَتِكَ وَبِأَلِفِ أَزَلِيَّتِكَ وَبِرَاءِ رَحْمَتِكَ وَأَسْأَلُكَ بِنُورِ وَجْهِكَ الَّذِي مَلَأَ أَرْكَانَ عَرْشِكَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ أَنْ تُعِيذَنِي مِنْ نَفْسِيَ الَّتِي اسْتَهْوَتْ وَغَوَتْ وَنَادَاهَا الْقَرِينُ وَالشَّيْطَانُ فَلَبَّتْ وَاسْتَجَابَتْ فَحَقَّ عَلَيْهَا الْقَهْرُ مِنْكَ يَا قَهَّارُ وَأَسْأَلُكَ أَنْ تُقَوِّيَ رُوحِيَ الَّتِي اسْتَمْسَكَتْ بِكَ وَأَبَتْ فَحَقَّ لَهَا النَّصْرُ مِنْكَ يَا قَدِيرُ يَا نِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيرُ سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ]
 
-ثُمَّ تَقُومُ مِنْ سُجُودِكَ وَاسْتَغْفِرِ اللهَ ١٥ مَرَّةً وَصَلِّ عَلَى رَسُولِ اللهِ ١٥ مَرَّةً
+‏ثُمَّ تَقُومُ مِنْ سُجُودِكَ وَاسْتَغْفِرِ اللهَ ١٥ مَرَّةً وَصَلِّ عَلَى رَسُولِ اللهِ ١٥ مَرَّةً
 
-تَمَّتْ، نَفَعَنِي اللهُ وَإِيَّاكُمْ بِالْقُرْآنِ الْعَظِيمِ وَجَعَلَنَا مِنَ الْمُتَّقِينَ وَهَدَانَا وَإِيَّاكُمْ إِلَى صِرَاطِهِ الْمُسْتَقِيمِ
+‏تَمَّتْ، نَفَعَنِي اللهُ وَإِيَّاكُمْ بِالْقُرْآنِ الْعَظِيمِ وَجَعَلَنَا مِنَ الْمُتَّقِينَ وَهَدَانَا وَإِيَّاكُمْ إِلَى صِرَاطِهِ الْمُسْتَقِيمِ
 
 ### latin
 
@@ -751,73 +751,73 @@ Selesai. Semoga Allah memberi manfaat kepada kami dan kalian dengan al-Qur'an ya
 
 ### arab
 
-السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ
+‏السَّيْفُ الْبَتَّارُ لِدَفْعِ مَيْمُونٍ الْغَدَّارِ
 
-السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، إِخْوَتِي فِي اللهِ أُقَدِّمُ لَكُمْ هَذِهِ الْفَائِدَةَ الْقَاطِعَةَ النَّافِعَةَ بِإِذْنِ اللهِ فِي دَفْعِ أَذَى التَّسْلِيطِ وَالْإِرْسَالَاتِ الْخَاصَّةِ بِـ [مَيْمُونِ النِّكَاحِ الْمَلْعُونِ] نَسْأَلُ اللهَ تَعَالَى أَنْ يَحْفَظَكُمْ مِنْ شَرِّ أَذِيَّةِ هَذَا الْمَارِدِ الْمَجُوسِيِّ لَعَنَهُ اللهُ عَلَيْهِ إِلَى يَوْمِ الدِّينِ
+‏السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، إِخْوَتِي فِي اللهِ أُقَدِّمُ لَكُمْ هَذِهِ الْفَائِدَةَ الْقَاطِعَةَ النَّافِعَةَ بِإِذْنِ اللهِ فِي دَفْعِ أَذَى التَّسْلِيطِ وَالْإِرْسَالَاتِ الْخَاصَّةِ بِـ [مَيْمُونِ النِّكَاحِ الْمَلْعُونِ] نَسْأَلُ اللهَ تَعَالَى أَنْ يَحْفَظَكُمْ مِنْ شَرِّ أَذِيَّةِ هَذَا الْمَارِدِ الْمَجُوسِيِّ لَعَنَهُ اللهُ عَلَيْهِ إِلَى يَوْمِ الدِّينِ
 
-يُكْتَبُ الْوَفْقُ بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ، وَتُحَوِّطُهُ بِالْآيَةِ [قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ] ثُمَّ تَدُورُ بِهِ الْآيَاتُ الْكَرِيمَاتُ ٢٩، لَكِنَّ الْكِتَابَةَ تَكُونُ عَلَى هَذِهِ الصِّفَةِ وَكَذَلِكَ التِّلَاوَةُ، لَا إِلَهَ إِلَّا اللهُ [آيَة ١] لَا إِلَهَ إِلَّا اللهُ [آيَة ٢] وَهَكَذَا إِلَى انْتِهَاءِ الْآيَاتِ الْكَرِيمَاتِ، ثُمَّ اقْرَأْ عَلَيْهِ اسْمَ اللهِ عَزَّ وَجَلَّ [الْحَكِيمُ] بِـ أَلْ التَّعْرِيفِ وَلَيْسَ بِيَاءِ النِّدَاءِ، ٥٨٢ مَرَّةً ثُمَّ الْآيَاتِ ٢٩ مَرَّةً
+‏يُكْتَبُ الْوَفْقُ بِمَاءِ وَرْدٍ وَزَعْفَرَانٍ، وَتُحَوِّطُهُ بِالْآيَةِ [قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ] ثُمَّ تَدُورُ بِهِ الْآيَاتُ الْكَرِيمَاتُ ٢٩، لَكِنَّ الْكِتَابَةَ تَكُونُ عَلَى هَذِهِ الصِّفَةِ وَكَذَلِكَ التِّلَاوَةُ، لَا إِلَهَ إِلَّا اللهُ [آيَة ١] لَا إِلَهَ إِلَّا اللهُ [آيَة ٢] وَهَكَذَا إِلَى انْتِهَاءِ الْآيَاتِ الْكَرِيمَاتِ، ثُمَّ اقْرَأْ عَلَيْهِ اسْمَ اللهِ عَزَّ وَجَلَّ [الْحَكِيمُ] بِـ أَلْ التَّعْرِيفِ وَلَيْسَ بِيَاءِ النِّدَاءِ، ٥٨٢ مَرَّةً ثُمَّ الْآيَاتِ ٢٩ مَرَّةً
 
-١، لَا إِلَهَ إِلَّا اللهُ رَبَّنَا وَابْعَثْ فِيهِمْ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ
+‏١، لَا إِلَهَ إِلَّا اللهُ رَبَّنَا وَابْعَثْ فِيهِمْ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ
 
-٢، لَا إِلَهَ إِلَّا اللهُ هُوَ الَّذِي يُصَوِّرُكُمْ فِي الْأَرْحَامِ كَيْفَ يَشَاءُ لَا إِلَهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ
+‏٢، لَا إِلَهَ إِلَّا اللهُ هُوَ الَّذِي يُصَوِّرُكُمْ فِي الْأَرْحَامِ كَيْفَ يَشَاءُ لَا إِلَهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ
 
-٣، لَا إِلَهَ إِلَّا اللهُ شَهِدَ اللهُ أَنَّهُ لَا إِلَهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ لَا إِلَهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ
+‏٣، لَا إِلَهَ إِلَّا اللهُ شَهِدَ اللهُ أَنَّهُ لَا إِلَهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ لَا إِلَهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ
 
-٤، لَا إِلَهَ إِلَّا اللهُ إِنَّ هَذَا لَهُوَ الْقَصَصُ الْحَقُّ وَمَا مِنْ إِلَهٍ إِلَّا اللهُ وَإِنَّ اللهَ لَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏٤، لَا إِلَهَ إِلَّا اللهُ إِنَّ هَذَا لَهُوَ الْقَصَصُ الْحَقُّ وَمَا مِنْ إِلَهٍ إِلَّا اللهُ وَإِنَّ اللهَ لَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-٥، لَا إِلَهَ إِلَّا اللهُ وَمَا جَعَلَهُ اللهُ إِلَّا بُشْرَى لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُمْ بِهِ وَمَا النَّصْرُ إِلَّا مِنْ عِنْدِ اللهِ الْعَزِيزِ الْحَكِيمِ
+‏٥، لَا إِلَهَ إِلَّا اللهُ وَمَا جَعَلَهُ اللهُ إِلَّا بُشْرَى لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُمْ بِهِ وَمَا النَّصْرُ إِلَّا مِنْ عِنْدِ اللهِ الْعَزِيزِ الْحَكِيمِ
 
-٦، لَا إِلَهَ إِلَّا اللهُ إِنْ تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِنْ تَغْفِرْ لَهُمْ فَإِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ
+‏٦، لَا إِلَهَ إِلَّا اللهُ إِنْ تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِنْ تَغْفِرْ لَهُمْ فَإِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ
 
-٧، لَا إِلَهَ إِلَّا اللهُ وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ فَيُضِلُّ اللهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏٧، لَا إِلَهَ إِلَّا اللهُ وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ فَيُضِلُّ اللهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-٨، لَا إِلَهَ إِلَّا اللهُ لِلَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ مَثَلُ السَّوْءِ وَلِلّٰهِ الْمَثَلُ الْأَعْلَى وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏٨، لَا إِلَهَ إِلَّا اللهُ لِلَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ مَثَلُ السَّوْءِ وَلِلّٰهِ الْمَثَلُ الْأَعْلَى وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-٩، لَا إِلَهَ إِلَّا اللهُ يَا مُوسَى إِنَّهُ أَنَا اللهُ الْعَزِيزُ الْحَكِيمُ
+‏٩، لَا إِلَهَ إِلَّا اللهُ يَا مُوسَى إِنَّهُ أَنَا اللهُ الْعَزِيزُ الْحَكِيمُ
 
-١٠، لَا إِلَهَ إِلَّا اللهُ فَآمَنَ لَهُ لُوطٌ وَقَالَ إِنِّي مُهَاجِرٌ إِلَى رَبِّي إِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ
+‏١٠، لَا إِلَهَ إِلَّا اللهُ فَآمَنَ لَهُ لُوطٌ وَقَالَ إِنِّي مُهَاجِرٌ إِلَى رَبِّي إِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ
 
-١١، لَا إِلَهَ إِلَّا اللهُ إِنَّ اللهَ يَعْلَمُ مَا تَدْعُونَ مِنْ دُونِهِ مِنْ شَيْءٍ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏١١، لَا إِلَهَ إِلَّا اللهُ إِنَّ اللهَ يَعْلَمُ مَا تَدْعُونَ مِنْ دُونِهِ مِنْ شَيْءٍ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-١٢، لَا إِلَهَ إِلَّا اللهُ وَهُوَ الَّذِي يَبْدَؤُا الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ عَلَيْهِ وَلَهُ الْمَثَلُ الْأَعْلَى فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏١٢، لَا إِلَهَ إِلَّا اللهُ وَهُوَ الَّذِي يَبْدَؤُا الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ عَلَيْهِ وَلَهُ الْمَثَلُ الْأَعْلَى فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-١٣، لَا إِلَهَ إِلَّا اللهُ خَالِدِينَ فِيهَا وَعْدَ اللهِ حَقًّا وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏١٣، لَا إِلَهَ إِلَّا اللهُ خَالِدِينَ فِيهَا وَعْدَ اللهِ حَقًّا وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-١٤، لَا إِلَهَ إِلَّا اللهُ قُلْ أَرُونِيَ الَّذِينَ أَلْحَقْتُمْ بِهِ شُرَكَاءَ كَلَّا بَلْ هُوَ اللهُ الْعَزِيزُ الْحَكِيمُ
+‏١٤، لَا إِلَهَ إِلَّا اللهُ قُلْ أَرُونِيَ الَّذِينَ أَلْحَقْتُمْ بِهِ شُرَكَاءَ كَلَّا بَلْ هُوَ اللهُ الْعَزِيزُ الْحَكِيمُ
 
-١٥، لَا إِلَهَ إِلَّا اللهُ مَا يَفْتَحِ اللهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَا وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِنْ بَعْدِهِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏١٥، لَا إِلَهَ إِلَّا اللهُ مَا يَفْتَحِ اللهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَا وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِنْ بَعْدِهِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-١٦، لَا إِلَهَ إِلَّا اللهُ تَنْزِيلُ الْكِتَابِ مِنَ اللهِ الْعَزِيزِ الْحَكِيمِ
+‏١٦، لَا إِلَهَ إِلَّا اللهُ تَنْزِيلُ الْكِتَابِ مِنَ اللهِ الْعَزِيزِ الْحَكِيمِ
 
-١٧، لَا إِلَهَ إِلَّا اللهُ رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُمْ وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ
+‏١٧، لَا إِلَهَ إِلَّا اللهُ رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُمْ وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ
 
-١٨، لَا إِلَهَ إِلَّا اللهُ حم عسق كَذَلِكَ يُوحِي إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ اللهُ الْعَزِيزُ الْحَكِيمُ
+‏١٨، لَا إِلَهَ إِلَّا اللهُ حم عسق كَذَلِكَ يُوحِي إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ اللهُ الْعَزِيزُ الْحَكِيمُ
 
-١٩، لَا إِلَهَ إِلَّا اللهُ حم تَنْزِيلُ الْكِتَابِ مِنَ اللهِ الْعَزِيزِ الْحَكِيمِ [الْجَاثِيَةُ]
+‏١٩، لَا إِلَهَ إِلَّا اللهُ حم تَنْزِيلُ الْكِتَابِ مِنَ اللهِ الْعَزِيزِ الْحَكِيمِ [الْجَاثِيَةُ]
 
-٢٠، لَا إِلَهَ إِلَّا اللهُ وَلَهُ الْكِبْرِيَاءُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏٢٠، لَا إِلَهَ إِلَّا اللهُ وَلَهُ الْكِبْرِيَاءُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-٢١، لَا إِلَهَ إِلَّا اللهُ حم تَنْزِيلُ الْكِتَابِ مِنَ اللهِ الْعَزِيزِ الْحَكِيمِ [الْأَحْقَافُ]
+‏٢١، لَا إِلَهَ إِلَّا اللهُ حم تَنْزِيلُ الْكِتَابِ مِنَ اللهِ الْعَزِيزِ الْحَكِيمِ [الْأَحْقَافُ]
 
-٢٢، لَا إِلَهَ إِلَّا اللهُ سَبَّحَ لِلّٰهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ [الْحَدِيدُ]
+‏٢٢، لَا إِلَهَ إِلَّا اللهُ سَبَّحَ لِلّٰهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ [الْحَدِيدُ]
 
-٢٣، لَا إِلَهَ إِلَّا اللهُ سَبَّحَ لِلّٰهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ [الْحَشْرُ]
+‏٢٣، لَا إِلَهَ إِلَّا اللهُ سَبَّحَ لِلّٰهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ [الْحَشْرُ]
 
-٢٤، لَا إِلَهَ إِلَّا اللهُ هُوَ اللهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الْأَسْمَاءُ الْحُسْنَى يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏٢٤، لَا إِلَهَ إِلَّا اللهُ هُوَ اللهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ لَهُ الْأَسْمَاءُ الْحُسْنَى يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-٢٥، لَا إِلَهَ إِلَّا اللهُ رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ
+‏٢٥، لَا إِلَهَ إِلَّا اللهُ رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ
 
-٢٦، لَا إِلَهَ إِلَّا اللهُ سَبَّحَ لِلّٰهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ [الصَّفُّ]
+‏٢٦، لَا إِلَهَ إِلَّا اللهُ سَبَّحَ لِلّٰهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ [الصَّفُّ]
 
-٢٧، لَا إِلَهَ إِلَّا اللهُ يُسَبِّحُ لِلّٰهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكُ الْقُدُّوسُ الْعَزِيزُ الْحَكِيمُ
+‏٢٧، لَا إِلَهَ إِلَّا اللهُ يُسَبِّحُ لِلّٰهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكُ الْقُدُّوسُ الْعَزِيزُ الْحَكِيمُ
 
-٢٨، لَا إِلَهَ إِلَّا اللهُ وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏٢٨، لَا إِلَهَ إِلَّا اللهُ وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-٢٩، لَا إِلَهَ إِلَّا اللهُ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+‏٢٩، لَا إِلَهَ إِلَّا اللهُ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-تَمَّتْ أُخْوَتِي فِي اللهِ الْآيَاتُ الْكَرِيمَاتُ وَإِلَيْكُمُ الْوَفْقُ السَّالِفُ ذِكْرُهُ
+‏تَمَّتْ أُخْوَتِي فِي اللهِ الْآيَاتُ الْكَرِيمَاتُ وَإِلَيْكُمُ الْوَفْقُ السَّالِفُ ذِكْرُهُ
 
-وَ هَذَا هُوَ الْوَفْقُ
+‏وَ هَذَا هُوَ الْوَفْقُ
 
 | ٢٧٤ | ١٤٣ | ١٦٥ |
 | ٨٥ | ١٩٤ | ٣٠٣ |
