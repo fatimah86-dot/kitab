@@ -1,16 +1,16 @@
 ## HALAMAN 12 — فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ (٢ — الْوَفْقُ)
 
 ### arab
-فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
+‏فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
 
-وَفْقٌ لِعِلَاجِ الْمَسِّ
+‏وَفْقٌ لِعِلَاجِ الْمَسِّ
 
 | ١٨ | ١٢٠٩ | ٦٠٠ |
 |---|---|---|
 | ١١٩١ | ٦٠٩ | ٢٧ |
 | ٦١٨ | ٩ | ١٢٠٠ |
 
-كِتَابَةُ الْآيَاتِ وَالسُّوَرِ تَبْدَأُ مِنْ فَوْقِ الْوَفْقِ مِنْ جِهَةِ الْيَمِينِ اتِّجَاهًا إِلَى الْيَسَارِ ، وَفَّقَكُمُ اللهُ لِمَا يُحِبُّهُ وَيَرْضَاهُ
+‏كِتَابَةُ الْآيَاتِ وَالسُّوَرِ تَبْدَأُ مِنْ فَوْقِ الْوَفْقِ مِنْ جِهَةِ الْيَمِينِ اتِّجَاهًا إِلَى الْيَسَارِ ، وَفَّقَكُمُ اللهُ لِمَا يُحِبُّهُ وَيَرْضَاهُ
 
 ### latin
 Fā'idatun qāthi'atun li-'ilājil-massi.
@@ -42,15 +42,15 @@ Penulisan ayat-ayat dan surah-surah (yang disebutkan pada Halaman 11) dimulai da
 
 ### Syarah dan Penjelasan
 1. **Hisab Matriks Wafaq Musallas 3×3 *'Ilājul-Mass* (Konstanta 1827)**:
-   - Matriks Wafaq 3×3 ini dibangun dengan kelipatan 9 (*miftāh* `٩` di baris 3 tengah, *qalb* `٦٠٩` di pusat, dan *maghlāq* `١٢٠٩` di baris 1 tengah) dengan jumlah konstanta setiap baris, kolom, dan diagonal tepat **١٨٢٧ (1827)**:
-     - **Baris 1**: `١٨ + ١٢٠٩ + ٦٠٠ = ١٨٢٧`
-     - **Baris 2**: `١١٩١ + ٦٠٩ + ٢٧ = ١٨٢٧`
-     - **Baris 3**: `٦١٨ + ٩ + ١٢٠٠ = ١٨٢٧`
-     - **Kolom Kanan**: `١٨ + ١١٩١ + ٦١٨ = ١٨٢٧`
-     - **Kolom Tengah**: `١٢٠٩ + ٦٠٩ + ٩ = ١٨٢٧`
-     - **Kolom Kiri**: `٦٠٠ + ٢٧ + ١٢٠٠ = ١٨٢٧`
-     - **Diagonal 1**: `١٨ + ٦٠٩ + ١٢٠٠ = ١٨٢٧`
-     - **Diagonal 2**: `٦٠٠ + ٦٠٩ + ٦١٨ = ١٨٢٧`
+‎   - Matriks Wafaq 3×3 ini dibangun dengan kelipatan 9 (*miftāh* `٩` di baris 3 tengah, *qalb* `٦٠٩` di pusat, dan *maghlāq* `١٢٠٩` di baris 1 tengah) dengan jumlah konstanta setiap baris, kolom, dan diagonal tepat **١٨٢٧ (1827)**:
+‎     - **Baris 1**: `١٨ + ١٢٠٩ + ٦٠٠ = ١٨٢٧`
+‎     - **Baris 2**: `١١٩١ + ٦٠٩ + ٢٧ = ١٨٢٧`
+‎     - **Baris 3**: `٦١٨ + ٩ + ١٢٠٠ = ١٨٢٧`
+‎     - **Kolom Kanan**: `١٨ + ١١٩١ + ٦١٨ = ١٨٢٧`
+‎     - **Kolom Tengah**: `١٢٠٩ + ٦٠٩ + ٩ = ١٨٢٧`
+‎     - **Kolom Kiri**: `٦٠٠ + ٢٧ + ١٢٠٠ = ١٨٢٧`
+‎     - **Diagonal 1**: `١٨ + ٦٠٩ + ١٢٠٠ = ١٨٢٧`
+‎     - **Diagonal 2**: `٦٠٠ + ٦٠٩ + ٦١٨ = ١٨٢٧`
 
 ### Khususiyah dan Tatacara Praktik
 1. **Arah Penulisan *Tadwīr* & Peleburan**:

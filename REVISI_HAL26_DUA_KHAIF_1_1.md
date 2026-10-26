@@ -2,17 +2,17 @@
 
 ### arab
 
-دُعَاءُ الْخَائِفِ
+‏دُعَاءُ الْخَائِفِ
 
-اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+‏اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-إِخْوَتِي فِي اللهِ، إِلَيْكُمْ هَذَا الدُّعَاءَ النَّافِعَ بِإِذْنِ اللهِ لِلِاحْتِجَابِ مِنَ الْأَعْدَاءِ وَمِنْ كُلِّ مَنْ يَخَافُ مِنْهُ الْمَرْءُ مِنْ طُغَاةٍ
+‏إِخْوَتِي فِي اللهِ، إِلَيْكُمْ هَذَا الدُّعَاءَ النَّافِعَ بِإِذْنِ اللهِ لِلِاحْتِجَابِ مِنَ الْأَعْدَاءِ وَمِنْ كُلِّ مَنْ يَخَافُ مِنْهُ الْمَرْءُ مِنْ طُغَاةٍ
 
-تَقْرَأُ أَوَّلًا آيَةَ الْكُرْسِيِّ ثَلَاثَ مَرَّاتٍ، ثُمَّ تَدْعُو بِهَذَا الدُّعَاءِ
+‏تَقْرَأُ أَوَّلًا آيَةَ الْكُرْسِيِّ ثَلَاثَ مَرَّاتٍ، ثُمَّ تَدْعُو بِهَذَا الدُّعَاءِ
 
-[بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ، اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ أَجْمَعِينَ وَسَلِّمْ تَسْلِيمًا، اللَّهُمَّ يَا مَنْ حِجَابُهُ مَحْجُوبٌ وَكُرْسِيُّهُ مَنْصُوبٌ وَنَبِيُّهُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَحْبُوبٌ، حُلْ بَيْنِي وَبَيْنَ مَنْ قَلْبِي مِنْهُ مَرْهُوبٌ يَا غَالِبًا غَيْرَ مَغْلُوبٍ إِنَّكَ قُلْتَ وَقَوْلُكَ الْحَقُّ ﴿فَسَيَكْفِيكَهُمُ اللهُ وَهُوَ السَّمِيعُ الْعَلِيمُ﴾ يَا اللهُ يَا حَفِيظُ يَا مَنْ نِعَمُهُ لَا تُحْصَى يَا مَنْ ذِكْرُهُ لَا يُنْسَى يَا مَنْ لَهُ الْأَسْمَاءُ الْحُسْنَى وَالصِّفَاتُ الْعُلَى احْفَظْنِي بِمَا حَفِظْتَ بِهِ الذِّكْرَ الْحَكِيمَ إِنَّكَ قُلْتَ وَقَوْلُكَ الْحَقُّ ﴿إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ﴾ وَبِحَقِّ ﴿لَهُ مُعَقِّبَاتٌ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ يَحْفَظُونَهُ مِنْ أَمْرِ اللهِ﴾ ﴿وَاللهُ مِنْ وَرَائِهِمْ مُحِيطٌ﴾ وَبِحَقِّ ﴿يس﴾ إِلَى ﴿فَهُمْ لَا يُبْصِرُونَ﴾، وَصَلِّ اللَّهُمَّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ أَجْمَعِينَ]
+‏[بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ، اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ أَجْمَعِينَ وَسَلِّمْ تَسْلِيمًا، اللَّهُمَّ يَا مَنْ حِجَابُهُ مَحْجُوبٌ وَكُرْسِيُّهُ مَنْصُوبٌ وَنَبِيُّهُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَحْبُوبٌ، حُلْ بَيْنِي وَبَيْنَ مَنْ قَلْبِي مِنْهُ مَرْهُوبٌ يَا غَالِبًا غَيْرَ مَغْلُوبٍ إِنَّكَ قُلْتَ وَقَوْلُكَ الْحَقُّ ﴿فَسَيَكْفِيكَهُمُ اللهُ وَهُوَ السَّمِيعُ الْعَلِيمُ﴾ يَا اللهُ يَا حَفِيظُ يَا مَنْ نِعَمُهُ لَا تُحْصَى يَا مَنْ ذِكْرُهُ لَا يُنْسَى يَا مَنْ لَهُ الْأَسْمَاءُ الْحُسْنَى وَالصِّفَاتُ الْعُلَى احْفَظْنِي بِمَا حَفِظْتَ بِهِ الذِّكْرَ الْحَكِيمَ إِنَّكَ قُلْتَ وَقَوْلُكَ الْحَقُّ ﴿إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ﴾ وَبِحَقِّ ﴿لَهُ مُعَقِّبَاتٌ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ يَحْفَظُونَهُ مِنْ أَمْرِ اللهِ﴾ ﴿وَاللهُ مِنْ وَرَائِهِمْ مُحِيطٌ﴾ وَبِحَقِّ ﴿يس﴾ إِلَى ﴿فَهُمْ لَا يُبْصِرُونَ﴾، وَصَلِّ اللَّهُمَّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ أَجْمَعِينَ]
 
-وَفَّقَكُمُ اللهُ لِكُلِّ خَيْرٍ
+‏وَفَّقَكُمُ اللهُ لِكُلِّ خَيْرٍ
 
 ### latin
 
@@ -24,7 +24,7 @@ Ikhwatī fillāhi, ilaikum hādzad-du'ā'an-nāfi'a bi-idznillāhi lil-ihtijābi
 
 Taqra'u awwalan Āyatal-Kursiyyi tsalātsa marrātin, tsumma tad'ū bihādzad-du'ā'i:
 
-[Bismillāhir-rahmānir-rahīmi, Allāhumma shalli 'alā sayyidinā Muhammadin wa 'alā ālihi ajma'īna wa sallim taslīman, Allāhumma yā man hijābuhū mahjūbun wa kursiyyuhū manshūbun wa nabiyyuhū shallallāhu 'alaihi wa sallama mahbūbun, hul bainī wa baina man qalbī minhu marhūbun, yā ghāliban ghaira maghlūbin, innaka qulta wa qaulukal-haqqu: [Fa-sayakfīkahumullāhu wa Huwas-samī'ul-'alīmu] (QS. al-Baqarah: 137), yā Allāhu yā Hafīzhu, yā man ni'amuhū lā tuhshā, yā man dzikruhū lā yunsā, yā man lahul-asmā'ul-husnā wash-shifātul-'ulā, ihfazhnī bimā hafizhta bihidz-dzikral-hakīmi, innaka qulta wa qaulukal-haqqu: [Innā nahnu nazzalnādz-dzikra wa innā lahū lahāfizhūna] (QS. al-Hijr: 9), wa bi-haqqi: [Lahū mu'aqqibātun min baini yadaihi wa min khalfihi yahfazhūnahū min amrillāhi] (QS. ar-Ra'd: 11), [Wallāhu min warā'ihim muhīthun] (QS. al-Burūj: 20), wa bi-haqqi [ [ يس ] [Rajah Huruf — tidak diterjemahkan] ilā fahum lā yubshirūna ] (QS. Yā-Sīn: 1-9). Wa shallillāhumma 'alā sayyidinā Muhammadin wa 'alā ālihi ajma'īna].
+‎[Bismillāhir-rahmānir-rahīmi, Allāhumma shalli 'alā sayyidinā Muhammadin wa 'alā ālihi ajma'īna wa sallim taslīman, Allāhumma yā man hijābuhū mahjūbun wa kursiyyuhū manshūbun wa nabiyyuhū shallallāhu 'alaihi wa sallama mahbūbun, hul bainī wa baina man qalbī minhu marhūbun, yā ghāliban ghaira maghlūbin, innaka qulta wa qaulukal-haqqu: [Fa-sayakfīkahumullāhu wa Huwas-samī'ul-'alīmu] (QS. al-Baqarah: 137), yā Allāhu yā Hafīzhu, yā man ni'amuhū lā tuhshā, yā man dzikruhū lā yunsā, yā man lahul-asmā'ul-husnā wash-shifātul-'ulā, ihfazhnī bimā hafizhta bihidz-dzikral-hakīmi, innaka qulta wa qaulukal-haqqu: [Innā nahnu nazzalnādz-dzikra wa innā lahū lahāfizhūna] (QS. al-Hijr: 9), wa bi-haqqi: [Lahū mu'aqqibātun min baini yadaihi wa min khalfihi yahfazhūnahū min amrillāhi] (QS. ar-Ra'd: 11), [Wallāhu min warā'ihim muhīthun] (QS. al-Burūj: 20), wa bi-haqqi [ [ يس ] [Rajah Huruf — tidak diterjemahkan] ilā fahum lā yubshirūna ] (QS. Yā-Sīn: 1-9). Wa shallillāhumma 'alā sayyidinā Muhammadin wa 'alā ālihi ajma'īna].
 
 Waffaqakumullāhu li-kulli khairin.
 

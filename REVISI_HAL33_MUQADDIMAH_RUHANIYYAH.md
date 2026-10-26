@@ -2,20 +2,20 @@
 
 ### arab
 
-مُقَدِّمَةٌ هَامَّةٌ خَاصَّةٌ بِالْأَعْمَالِ الرُّوحَانِيَّةِ
+‏مُقَدِّمَةٌ هَامَّةٌ خَاصَّةٌ بِالْأَعْمَالِ الرُّوحَانِيَّةِ
 
-السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ ، إِخْوَتِي فِي اللهِ كَثِيرًا مَا يَقَعُ طُلَّابُ الرُّوحَانِيِّ فِي مُعْضِلَةٍ عُظْمَى أَلَا وَهِيَ انْعِدَامُ الْإِجَابَةِ وَالتَّصْرِيفِ فِي هَذَا الْبَابِ وَذَلِكَ نَاتِجٌ إِمَّا لِغَفْلَةِ الطَّالِبِ عَنْ كَيْفِيَّةِ الْعَمَلِ وَإِمَّا لِعَوَارِضَ تَمْنَعُ عَنْهُ الِاتِّصَالَ بِطَلَبِهِ ، وَلَا أُخْفِي عَلَيْكُمْ أَنِّي مَا رَغِبْتُ التَّحَدُّثَ عَنْ هَذَا الْبَابِ إِلَّا شَفَقَةً عَلَى طُلَّابِ هَذَا الْعِلْمِ الرُّوحَانِيِّ لِمَا رَأَيْتُ مَا يُعَانِيهِ الطَّلَبَةُ مِنْ مَشَقَّةٍ وَعَنَاءٍ فِي هَذَا الْبَابِ وَإِلَيْكُمْ تَرْتِيبُ الْأَعْمَالِ
+‏السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ ، إِخْوَتِي فِي اللهِ كَثِيرًا مَا يَقَعُ طُلَّابُ الرُّوحَانِيِّ فِي مُعْضِلَةٍ عُظْمَى أَلَا وَهِيَ انْعِدَامُ الْإِجَابَةِ وَالتَّصْرِيفِ فِي هَذَا الْبَابِ وَذَلِكَ نَاتِجٌ إِمَّا لِغَفْلَةِ الطَّالِبِ عَنْ كَيْفِيَّةِ الْعَمَلِ وَإِمَّا لِعَوَارِضَ تَمْنَعُ عَنْهُ الِاتِّصَالَ بِطَلَبِهِ ، وَلَا أُخْفِي عَلَيْكُمْ أَنِّي مَا رَغِبْتُ التَّحَدُّثَ عَنْ هَذَا الْبَابِ إِلَّا شَفَقَةً عَلَى طُلَّابِ هَذَا الْعِلْمِ الرُّوحَانِيِّ لِمَا رَأَيْتُ مَا يُعَانِيهِ الطَّلَبَةُ مِنْ مَشَقَّةٍ وَعَنَاءٍ فِي هَذَا الْبَابِ وَإِلَيْكُمْ تَرْتِيبُ الْأَعْمَالِ
 
-١ الطَّهَارَةُ الْكَامِلَةُ بَدَنًا وَلِبَاسًا وَمَجْلِسًا
-٢ صَلَاةُ رَكْعَتَيْنِ لِلَّهِ بِنِيَّةِ الْعِبَادَةِ
-٣ الِاسْتِغْفَارُ لِلَّهِ تَعَالَى ١٠٠٠ مَرَّةٍ
-٤ الصَّلَاةُ عَلَى الْحَبِيبِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ٤٠٦ مَرَّةً
-٥ تِلَاوَةُ التَّحْصِينِ
-٦ إِصْرَافُ الْعُمَّارِ
-٧ تِلَاوَةُ دَعْوَةِ التَّسْخِيرِ
-٨ الْقِيَامُ بِالْعَمَلِ الْمُرَادِ
-٩ الِاسْتِغْفَارُ قَدْرَ مُسْتَطَاعِ الطُّلَّابِ
-١٠ الصَّلَاةُ عَلَى سَيِّدِنَا رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ
+‏١ الطَّهَارَةُ الْكَامِلَةُ بَدَنًا وَلِبَاسًا وَمَجْلِسًا
+‏٢ صَلَاةُ رَكْعَتَيْنِ لِلَّهِ بِنِيَّةِ الْعِبَادَةِ
+‏٣ الِاسْتِغْفَارُ لِلَّهِ تَعَالَى ١٠٠٠ مَرَّةٍ
+‏٤ الصَّلَاةُ عَلَى الْحَبِيبِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ٤٠٦ مَرَّةً
+‏٥ تِلَاوَةُ التَّحْصِينِ
+‏٦ إِصْرَافُ الْعُمَّارِ
+‏٧ تِلَاوَةُ دَعْوَةِ التَّسْخِيرِ
+‏٨ الْقِيَامُ بِالْعَمَلِ الْمُرَادِ
+‏٩ الِاسْتِغْفَارُ قَدْرَ مُسْتَطَاعِ الطُّلَّابِ
+‏١٠ الصَّلَاةُ عَلَى سَيِّدِنَا رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ
 
 ### latin
 
@@ -60,7 +60,7 @@ Assalamu'alaikum warahmatullahi wabarakatuh. Wahai saudara-saudaraku karena Alla
 
 2. **Rahasia Bilangan Istighfar 1000× & Shalawat 406×**:
    - **Istighfar 1000×** adalah bilangan *kulliyyah* (kesempurnaan pembersihan) untuk menggugurkan karat dosa yang menghalangi *ijābah*.
-   - **Shalawat 406×**: Dalam disiplin hisab Abjad (*Jumal Kabīr*), angka **406** adalah nilai huruf **`ت`** (*Tā'* = 400) + **`و`** (6) yang mengisyaratkan *Taubah* dan *Tawajjuh*, serta nilai kalimat-kalimat pembuka nurani yang menyambungkan ruh pengamal dengan syafaat Rasulullah ﷺ.
+‎   - **Shalawat 406×**: Dalam disiplin hisab Abjad (*Jumal Kabīr*), angka **406** adalah nilai huruf **`ت`** (*Tā'* = 400) + **`و`** (6) yang mengisyaratkan *Taubah* dan *Tawajjuh*, serta nilai kalimat-kalimat pembuka nurani yang menyambungkan ruh pengamal dengan syafaat Rasulullah ﷺ.
 
 ### Khususiyah dan Tatacara Praktik
 
@@ -68,4 +68,4 @@ Assalamu'alaikum warahmatullahi wabarakatuh. Wahai saudara-saudaraku karena Alla
    - Sepuluh urutan pada Halaman 33 ini merupakan **Fondasi Wajib (SOP Utama)** bagi seluruh amalan di dalam kitab *Anwārul-Mujarrabāt* (baik ketika menulis wafaq pada Bagian Pertama maupun ketika mengamalkan *Da'wah* pada Bagian Kedua).
    - Ketika pada Halaman 29 pengarang menulis *"melaksanakan apa yang telah aku sebutkan pada faedah amalan-amalan ruhani yang mendahului setiap amalan ruhani"*, maka yang dimaksud adalah ke-10 langkah ini.
 2. **Urutan Penjagaan Diri yang Tidak Boleh Terbalik (Poin 5, 6, 7)**:
-   - Perhatikan bahwa **Poin 5 (`تِلَاوَةُ التَّحْصِينِ` — membaca benteng diri)** wajib dilakukan **sebelum** **Poin 6 (`إِصْرَافُ الْعُمَّارِ` — memindahkan jin penghuni tempat)** dan **Poin 7 (`تِلَاوَةُ دَعْوَةِ التَّسْخِيرِ`)**. Membentengi diri terlebih dahulu sebelum melakukan *ishrāf* menjamin pengamal sepenuhnya terlindung saat berinteraksi dengan dimensi ruhani.
+‎   - Perhatikan bahwa **Poin 5 (`تِلَاوَةُ التَّحْصِينِ` — membaca benteng diri)** wajib dilakukan **sebelum** **Poin 6 (`إِصْرَافُ الْعُمَّارِ` — memindahkan jin penghuni tempat)** dan **Poin 7 (`تِلَاوَةُ دَعْوَةِ التَّسْخِيرِ`)**. Membentengi diri terlebih dahulu sebelum melakukan *ishrāf* menjamin pengamal sepenuhnya terlindung saat berinteraksi dengan dimensi ruhani.

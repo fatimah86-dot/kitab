@@ -1,27 +1,27 @@
 ## HALAMAN 09 — FAIDAH MUHRQAH THARIDAH — فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
 
 ### arab
-فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
+‏فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
 
-السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+‏السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
-إِخْوَتِي فِي اللهِ، أَضَعُ لَكُمْ هَذِهِ الْفَائِدَةَ الْخَاصَّةَ بِإِحْرَاقِ الْجِنِّ وَطَرْدِهِ مِنْ جَسَدِ الْإِنْسَانِ بِإِذْنِ اللهِ، وَهِيَ كَالتَّالِي
+‏إِخْوَتِي فِي اللهِ، أَضَعُ لَكُمْ هَذِهِ الْفَائِدَةَ الْخَاصَّةَ بِإِحْرَاقِ الْجِنِّ وَطَرْدِهِ مِنْ جَسَدِ الْإِنْسَانِ بِإِذْنِ اللهِ، وَهِيَ كَالتَّالِي
 
-نَأْخُذُ اسْمَ الشَّخْصِ وَأُمِّهِ وَنُزِيلُ مِنْهُ الْحُرُوفَ الْمُكَرَّرَةَ إِنْ كَانَ فِي الِاسْمِ، وَإِلَّا يَبْقَى الِاسْمُ كَمَا هُوَ بِدُونِ حَذْفٍ إِذَا لَمْ تَتَكَرَّرْ فِيهِ الْحُرُوفُ
+‏نَأْخُذُ اسْمَ الشَّخْصِ وَأُمِّهِ وَنُزِيلُ مِنْهُ الْحُرُوفَ الْمُكَرَّرَةَ إِنْ كَانَ فِي الِاسْمِ، وَإِلَّا يَبْقَى الِاسْمُ كَمَا هُوَ بِدُونِ حَذْفٍ إِذَا لَمْ تَتَكَرَّرْ فِيهِ الْحُرُوفُ
 
-ثُمَّ نَمْزُجُهُ بِالْحُرُوفِ النَّارِيَّةِ وَالْهَوَائِيَّةِ النُّورَانِيَّةِ: [ ا ه ط م ك س ق ] ، حَيْثُ يَكُونُ أَوَّلُ حَرْفٍ مِنْهَا وَآخِرُ حَرْفٍ مِنْهَا كَذَلِكَ
+‏ثُمَّ نَمْزُجُهُ بِالْحُرُوفِ النَّارِيَّةِ وَالْهَوَائِيَّةِ النُّورَانِيَّةِ: [ ا ه ط م ك س ق ] ، حَيْثُ يَكُونُ أَوَّلُ حَرْفٍ مِنْهَا وَآخِرُ حَرْفٍ مِنْهَا كَذَلِكَ
 
-ثُمَّ نَكْسِرُ السَّطْرَ الْمَمْزُوجَ إِلَى الْمَخْرَجِ مَعَ تَرْكِهِ، أَيْ نَأْخُذُ السُّطُورَ الَّتِي قَبْلَهُ فَقَطْ، وَنَنْظُرُ إِلَى عَدَدِ سُطُورِ التَّكْسِيرِ أَهِيَ زَوْجٌ أَمْ فَرْدٌ، فَإِنْ كَانَتْ زَوْجِيَّةً نَأْخُذُ الرَّوْحَانِيَّ مِنَ السَّطْرِ الثَّانِي، وَإِنْ كَانَتْ فَرْدِيَّةً نَأْخُذُهُ مِنَ السَّطْرِ الثَّالِثِ
+‏ثُمَّ نَكْسِرُ السَّطْرَ الْمَمْزُوجَ إِلَى الْمَخْرَجِ مَعَ تَرْكِهِ، أَيْ نَأْخُذُ السُّطُورَ الَّتِي قَبْلَهُ فَقَطْ، وَنَنْظُرُ إِلَى عَدَدِ سُطُورِ التَّكْسِيرِ أَهِيَ زَوْجٌ أَمْ فَرْدٌ، فَإِنْ كَانَتْ زَوْجِيَّةً نَأْخُذُ الرَّوْحَانِيَّ مِنَ السَّطْرِ الثَّانِي، وَإِنْ كَانَتْ فَرْدِيَّةً نَأْخُذُهُ مِنَ السَّطْرِ الثَّالِثِ
 
-وَكَذَلِكَ حُرُوفُهُ، إِنْ كَانَ التَّكْسِيرُ زَوْجًا تَكُونُ حُرُوفُ الرَّوْحَانِيِّ زَوْجِيَّةً، وَإِنْ كَانَ فَرْدًا تَكُونُ حُرُوفُهُ فَرْدِيَّةً، وَالْأَخْذُ مِنَ السَّطْرِ بِتَرْكِ حَرْفَيْنِ مِنْ أَوَّلِ السَّطْرِ وَحَرْفَيْنِ مِنْ آخِرِهِ حَتَّى يَبْقَى لَنَا حُرُوفُ الرَّوْحَانِيِّ فِي الْوَسَطِ، هَذَا إِذَا كَانَ التَّكْسِيرُ زَوْجًا، أَمَّا إِنْ كَانَ فَرْدًا نَتْرُكُ حَرْفًا مِنَ الْأَوَّلِ وَحَرْفًا مِنَ الْآخِرِ حَتَّى تَبْقَى حُرُوفُ الرَّوْحَانِيِّ فِي الْوَسَطِ
+‏وَكَذَلِكَ حُرُوفُهُ، إِنْ كَانَ التَّكْسِيرُ زَوْجًا تَكُونُ حُرُوفُ الرَّوْحَانِيِّ زَوْجِيَّةً، وَإِنْ كَانَ فَرْدًا تَكُونُ حُرُوفُهُ فَرْدِيَّةً، وَالْأَخْذُ مِنَ السَّطْرِ بِتَرْكِ حَرْفَيْنِ مِنْ أَوَّلِ السَّطْرِ وَحَرْفَيْنِ مِنْ آخِرِهِ حَتَّى يَبْقَى لَنَا حُرُوفُ الرَّوْحَانِيِّ فِي الْوَسَطِ، هَذَا إِذَا كَانَ التَّكْسِيرُ زَوْجًا، أَمَّا إِنْ كَانَ فَرْدًا نَتْرُكُ حَرْفًا مِنَ الْأَوَّلِ وَحَرْفًا مِنَ الْآخِرِ حَتَّى تَبْقَى حُرُوفُ الرَّوْحَانِيِّ فِي الْوَسَطِ
 
-ثُمَّ نَجْمَعُ عَدَدَ حُرُوفِ الرَّوْحَانِيِّ وَنَسْتَنْطِقُهَا وَنُذَيِّلُهَا بِـ آيِيلَ، وَنَرْسُمُ جَدْوَلًا بِعَدَدِ حُرُوفِ التَّكْسِيرِ، وَنَكْتُبُ عَلَى أَرْكَانِهِ اسْمَ الرَّوْحَانِيِّ الْمُسْتَخْرَجِ، وَنُدَوِّرُ عَلَى الْجَمِيعِ الْقَسَمَ الْآتِيَ ذِكْرُهُ
+‏ثُمَّ نَجْمَعُ عَدَدَ حُرُوفِ الرَّوْحَانِيِّ وَنَسْتَنْطِقُهَا وَنُذَيِّلُهَا بِـ آيِيلَ، وَنَرْسُمُ جَدْوَلًا بِعَدَدِ حُرُوفِ التَّكْسِيرِ، وَنَكْتُبُ عَلَى أَرْكَانِهِ اسْمَ الرَّوْحَانِيِّ الْمُسْتَخْرَجِ، وَنُدَوِّرُ عَلَى الْجَمِيعِ الْقَسَمَ الْآتِيَ ذِكْرُهُ
 
-نَعْمَلُ ثَلَاثَ وَرَقَاتٍ مِنَ الْعَمَلِ الْمَذْكُورِ، وَنَكْتُبُهُ أَيْضًا فِي صَحْنٍ نَقِيٍّ وَيُمْحَى بِمَاءٍ طَاهِرٍ، يُبَخَّرُ الْمَرِيضُ ثَلَاثَ لَيَالٍ مُتَتَالِيَةٍ، فِي كُلِّ لَيْلَةٍ وَرَقَةٌ، وَيُدْهَنُ كَذَلِكَ جِسْمُهُ كُلُّهُ كُلَّ لَيْلَةٍ بَعْدَ الْبَخُورِ، وَيَنَامُ فِي فِرَاشِهِ مُنْعَزِلًا
+‏نَعْمَلُ ثَلَاثَ وَرَقَاتٍ مِنَ الْعَمَلِ الْمَذْكُورِ، وَنَكْتُبُهُ أَيْضًا فِي صَحْنٍ نَقِيٍّ وَيُمْحَى بِمَاءٍ طَاهِرٍ، يُبَخَّرُ الْمَرِيضُ ثَلَاثَ لَيَالٍ مُتَتَالِيَةٍ، فِي كُلِّ لَيْلَةٍ وَرَقَةٌ، وَيُدْهَنُ كَذَلِكَ جِسْمُهُ كُلُّهُ كُلَّ لَيْلَةٍ بَعْدَ الْبَخُورِ، وَيَنَامُ فِي فِرَاشِهِ مُنْعَزِلًا
 
-وَالْبَخُورُ الَّذِي يُوضَعُ مَعَ كُلِّ وَرَقَةٍ هُوَ: [ 7 وَرَقَاتِ سِدْرٍ، 7 حَبَّاتِ قَرَنْفُلٍ، قَلِيلٌ مِنَ الْمَسْطَكَى ]
+‏وَالْبَخُورُ الَّذِي يُوضَعُ مَعَ كُلِّ وَرَقَةٍ هُوَ: [ 7 وَرَقَاتِ سِدْرٍ، 7 حَبَّاتِ قَرَنْفُلٍ، قَلِيلٌ مِنَ الْمَسْطَكَى ]
 
-وَهَذَا مِثَالٌ لِلْقِيَاسِ، فَرَدْنَا اسْمَ الْمَرِيضِ وَأُمِّهِ هُوَ: حَسَن رُقَيَّة
+‏وَهَذَا مِثَالٌ لِلْقِيَاسِ، فَرَدْنَا اسْمَ الْمَرِيضِ وَأُمِّهِ هُوَ: حَسَن رُقَيَّة
 
 ### latin
 Fā'idatun muḥriqatun thāridatun lil-jinni wal-maradati bi'idznillāhi
@@ -32,7 +32,7 @@ Ikhwatī fillāhi, adhaʿu lakum hādzihil-fā'idatal-khāshshata bi'ihrāqil-ji
 
 Na'khudzu ismas-syakhshi wa ummihī wa nuzīlu minhul-ḥurūfal-mukarrarata in kāna fil-ismi, wa illā yabqal-ismu kamā huwa bidūni ḥadzfin idzā lam tatakarrar fīhil-ḥurūfu.
 
-Tsumma namzujuhū bil-ḥurūfin-nāriyyati wal-hawā'iyyatin-nūrāniyyati: [ ا ه ط م ك س ق ] [Rajah Huruf — tidak diterjemahkan]
+‎Tsumma namzujuhū bil-ḥurūfin-nāriyyati wal-hawā'iyyatin-nūrāniyyati: [ ا ه ط م ك س ق ] [Rajah Huruf — tidak diterjemahkan]
 
 Ḥaitsu yakūnu awwalu ḥarfin minhā wa ākhiru ḥarfin minhā kadzālika.
 
@@ -59,7 +59,7 @@ Wahai saudara-saudaraku karena Allah, aku sajikan untuk kalian faedah khusus unt
 
 Kita ambil nama orang dan ibunya, lalu buang huruf yang berulang jika ada dalam nama. Jika tidak ada huruf berulang, nama tetap utuh tanpa penghapusan.
 
-Kemudian kita campur nama tersebut dengan Huruf-Huruf Api dan Udara Nurani: [ ا ه ط م ك س ق ] — di mana huruf pertama dan huruf terakhir dari rangkaian tersebut diapit oleh huruf itu — Ha ditulis ه.
+‎Kemudian kita campur nama tersebut dengan Huruf-Huruf Api dan Udara Nurani: [ ا ه ط م ك س ق ] — di mana huruf pertama dan huruf terakhir dari rangkaian tersebut diapit oleh huruf itu — Ha ditulis ه.
 
 Kemudian kita lakukan taksir (pemecahan baris) pada baris campuran tersebut sampai kembali ke ma-khraj dengan meninggalkan baris terakhir, yakni hanya mengambil baris-baris sebelumnya saja. Kita lihat jumlah baris taksir, apakah genap atau ganjil: jika genap kita ambil Ruhani dari baris kedua, jika ganjil kita ambil dari baris ketiga.
 
@@ -74,7 +74,7 @@ Adapun bakhur yang diletakkan bersama setiap lembar adalah: 7 lembar daun Sidr (
 Dan ini contoh untuk qiyas: kita andaikan nama pasien dan ibunya adalah: Hasan Ruqayyah.
 
 ### Syarah dan Penjelasan
-Halaman ini adalah Faedah Muhriqah Tharidah — kaidah hisab nama + ibunya tanpa takrir, kemudian di-mix dengan 7 huruf Nariyah-Hawaiyah Nurani [ ا ه ط م ك س ق ] dengan Ha = ه . Taksir dilakukan ilal-makhraj dengan tark baris terakhir, lalu dilihat genap/ganjil untuk menentukan baris sumber Ruhani (baris 2 jika genap, baris 3 jika ganjil) dan jumlah huruf Ruhani mengikuti genap/ganjil. Pengambilan Ruhani dengan membuang 2 huruf depan-belakang (jika genap) atau 1 huruf (jika ganjil) agar tersisa di wasath. Nilai huruf Ruhani dijumlah (hisab jumal), di-istinthaq menjadi nama, diakhiri -Āyīl (mis. ...āyīl). Wafaq digambar sejumlah huruf taksir, 4 sudut diisi nama Ruhani, sekeliling diputar qasam (akan disebut Hal10).
+‎Halaman ini adalah Faedah Muhriqah Tharidah — kaidah hisab nama + ibunya tanpa takrir, kemudian di-mix dengan 7 huruf Nariyah-Hawaiyah Nurani [ ا ه ط م ك س ق ] dengan Ha = ه . Taksir dilakukan ilal-makhraj dengan tark baris terakhir, lalu dilihat genap/ganjil untuk menentukan baris sumber Ruhani (baris 2 jika genap, baris 3 jika ganjil) dan jumlah huruf Ruhani mengikuti genap/ganjil. Pengambilan Ruhani dengan membuang 2 huruf depan-belakang (jika genap) atau 1 huruf (jika ganjil) agar tersisa di wasath. Nilai huruf Ruhani dijumlah (hisab jumal), di-istinthaq menjadi nama, diakhiri -Āyīl (mis. ...āyīl). Wafaq digambar sejumlah huruf taksir, 4 sudut diisi nama Ruhani, sekeliling diputar qasam (akan disebut Hal10).
 
 ### Khususiyah dan Tatacara Praktik
-Khasiat: membakar/mengusir jin & maradah dari jasad dengan izin Allah. Tatacara: tulis 3 waraqah amalan + tulis di shahn naqiy (piring bersih) → hapus dengan mā' thāhir (air suci). Bakhur 3 malam mutataliyah: tiap malam bakar 1 waraqah bersama 7 waraqāt Sidr + 7 habbāt Qaranful + qalīl Masthakā, lalu oleskan air hapusan piring ke seluruh jasad setelah bakhur, tidur mun'azilan (menyendiri). Rajah huruf [ ا ه ط م ك س ق ] tidak diterjemahkan — tetap arab dengan Ha = ه.
+‎Khasiat: membakar/mengusir jin & maradah dari jasad dengan izin Allah. Tatacara: tulis 3 waraqah amalan + tulis di shahn naqiy (piring bersih) → hapus dengan mā' thāhir (air suci). Bakhur 3 malam mutataliyah: tiap malam bakar 1 waraqah bersama 7 waraqāt Sidr + 7 habbāt Qaranful + qalīl Masthakā, lalu oleskan air hapusan piring ke seluruh jasad setelah bakhur, tidur mun'azilan (menyendiri). Rajah huruf [ ا ه ط م ك س ق ] tidak diterjemahkan — tetap arab dengan Ha = ه.
