@@ -1,4 +1,4 @@
-## HALAMAN 01 — SAMPUL — أَنْوَارُ الشَّيْخِ الْبَشِيرِ
+## HALAMAN 01 — أَنْوَارُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
 ‏أَنْوَارُ
@@ -7,25 +7,34 @@
 
 ‏مُنْتَدَيَاتُ
 
-‏الْأَنْوَارِ الْقَادِرِيَّةِ وَ الْأَرْوَاحِ الرَّحْمَانِيَّةِ
+‏الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
 
 ### latin
-Anwāru
-asy-Syaykhi al-Basyīri
-Muntadayātu
-al-Anwāri al-Qādiriyyati wa al-Arwāḥi ar-Raḥmāniyyati
+Anwārusy-
+
+Syaikhil-Basyīri
+
+Muntadayātul-
+
+Anwāril-Qādiriyyati wal-Arwāḥir-Raḥmāniyyati
 
 ### Terjemahan
-Cahaya-cahaya,
-Syeikh Al-Basyir,
-Forum-forum,
-Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah.
+Cahaya-cahaya
+
+Syeikh al-Basyir
+
+Forum-forum
+
+Cahaya al-Qadiriyyah dan Ruh-Ruh ar-Rahmaniyyah.
 
 ### Syarah dan Penjelasan
-Sampul depan kitab: judul cahaya-cahaya Syeikh Al-Basyir, diterbitkan oleh Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. Sampul menegaskan sanad kitab pada thariqah Qadiriyah.
+1. **Analisis Nahwu & Shorof Judul Kitab**:
+‎   - Susunan **`أَنْوَارُ الشَّيْخِ الْبَشِيرِ`** (*Anwārusy-Syaikhil-Basyīri*): kata `أَنْوَارُ` (jamak taksir dari `نُورٌ`) berkedudukan sebagai *khabar* dari *mubtada' mahdzūf* (`هَذِهِ أَنْوَارُ`) sekaligus menjadi *mudhāf*, `الشَّيْخِ` sebagai *mudhāf ilaih majrūr*, dan `الْبَشِيرِ` (wazan *fa'īl* bermakna pembawa kabar gembira) sebagai *badal* atau *'athaf bayān majrūr*.
+‎   - Susunan **`مُنْتَدَيَاتُ الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ`**: menegaskan nisbat keilmuan kitab pada sanad *Tharīqah Qādiriyyah*.
 
 ### Khususiyah dan Tatacara Praktik
-Halaman sampul tidak ada amalan khusus — hanya penanda judul dan penerbit. Baca dengan niat mencari ilmu yang diridhai Allah.
+1. **Adab Membuka Kitab Hikmah**:
+   - Halaman sampul depan merupakan penanda judul dan sanad penerbitan kitab; diawali dengan meluruskan niat semata-mata mencari ridha Allah Ta'ala serta menghadiahkan bacaan Surah al-Fātiḥah kepada मुअल्लिफ (penyusun) sebagaimana diwasiatkan pada Halaman 02.
 
 ## HALAMAN 02 — إِهْدَاءُ الشَّيْخِ الْبَشِيرِ
 
@@ -140,7 +149,7 @@ dan dengan melakukan hal itu, maka sungguh telah sampailah kepadanya ijazah umum
 1. **Tata Cara Mengaktifkan Ijazah Kitab**:
 ‎   - Sebelum mengamalkan faedah apa pun di dalam kitab ini, duduklah menghadap kiblat dalam keadaan suci, bacalah selawat kepada Nabi Muhammad ﷺ, lalu bacalah Surah al-Fatihah dengan niat menghadiahkan pahalanya sesuai urutan di atas. Dengan demikian, ikatan ijazah umum (*al-ijāzatul-'āmmah*) telah tersambung secara sah.
 
-## HALAMAN 04 — SAMPUL DALAM — فَوَائِدُ وَمُجَرَّبَاتُ الشَّيْخِ الْبَشِيرِ
+## HALAMAN 04 — فَوَائِدُ وَمُجَرَّبَاتُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
 ‏فَوَائِدُ وَمُجَرَّبَاتُ
@@ -148,18 +157,22 @@ dan dengan melakukan hal itu, maka sungguh telah sampailah kepadanya ijazah umum
 ‏الشَّيْخِ الْبَشِيرِ
 
 ### latin
-Fawā'idu wa-Mujarrabātu
-asy-Syaykhi al-Basyīri
+Fawā'idu wa Mujarrabātusy-
+
+Syaikhil-Basyīri
 
 ### Terjemahan
-Faedah-faedah dan mujarrabat-mujarrabat,
-Syeikh Al-Basyir.
+Faedah-faedah dan amalan-amalan mujarab
+
+Syeikh al-Basyir.
 
 ### Syarah dan Penjelasan
-Halaman pembatas: menandai masuknya bab utama kitab — kumpulan faedah dan amalan mujarrabat dari Syeikh Al-Basyir.
+1. **Analisis Nahwu & Shorof Judul Bagian Pertama**:
+‎   - Kata **`فَوَائِدُ`** (jamak taksir dari `فَائِدَةٌ`, wazan *fawā'ilu*/*ghairu munsharif*) dan **`مُجَرَّبَاتُ`** (jamak *mu'annats sālim* dari *isim maf'ūl* `مُجَرَّبَةٌ` wazan *fa''ala–yufa''ilu–taf'īlan* yang berarti amalan-amalan yang telah teruji kebenarannya melalui pengalaman berulang) disandarkan (*idhāfah*) kepada **`الشَّيْخِ الْبَشِيرِ`** (*mudhāf ilaih majrūr*).
 
 ### Khususiyah dan Tatacara Praktik
-Halaman sampul dalam tidak ada amalan khusus — hanya penanda judul bab. Tidak ada wirid pada halaman ini.
+1. **Pembuka Bagian Pertama (Halaman 04–30)**:
+   - Halaman sampul dalam ini menandai dimulainya Bagian Pertama kitab yang menghimpun **13 Bab Mujarrabat** pilihan Syeikh al-Basyir.
 
 ## HALAMAN 05 — فِهْرِسُ مُجَرَّبَاتِ الشَّيْخِ الْبَشِيرِ
 
@@ -565,7 +578,7 @@ Aku memohon kepada Allah 'Azza wa Jalla semoga Dia memberikan manfaat kepada kal
 ‎   - Tulislah Wafaq Mukhammas 5×5 di sisi depan kertas (dikelilingi `قَوْلُهُ الْحَقُّ وَلَهُ الْمُلْكُ`, 4 sudut `سَمْسَائِيلُ`, serta lingkaran QS. asy-Syūrā: 19 dan QS. Fāthir: 29) dan Wafaq Murabba' 4×4 di sisi belakang kertas (dikelilingi `نَلْسَمَائِيلُ`) pada jam Zuhrah.
 ‎   - Bacakan di atasnya wirid **`لَا إِلَهَ إِلَّا اللهُ الْمُهَيْمِنُ`** sebanyak **196 kali** sambil menghadap kiblat dan memohon kelapangan rezeki kepada Allah 'Azza wa Jalla, lalu bawalah wafaq tersebut atau gantungkan di tempat perniagaan.
 
-## HALAMAN 09 — FAIDAH MUHRQAH THARIDAH — فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
+## HALAMAN 09 — فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ (١)
 
 ### arab
 ‏فَائِدَةٌ مُحْرِقَةٌ طَارِدَةٌ لِلْجِنِّ وَالْمَرَدَةِ بِإِذْنِ اللهِ
@@ -671,7 +684,7 @@ Dan ini contoh untuk qiyas: kita andaikan nama pasien dan ibunya adalah: Hasan R
 ### latin
 Fā'idatun muhriqatun thāridatun lil-jinni wal-maradati bi-idznillāhi.
 
-‎Akhadznā hurūfar-rūhāniyyi minas-sathrits-tsālitsi wa hiya [ ن ح ق ] , 'adaduhā 158, nuthquhā [ Hanaqāyīlu ] huwar-rūhāniyyu, naktubuhū 'alal-arkāni wa nudawwiru bihil-qasamal-ātiya:
+‎Akhadznā hurūfar-rūhāniyyi minas-sathrits-tsālitsi wa hiya [ ن ح ق ] , 'adaduhā 158, nuthquhā [ Ḥinqāyīlu / Ḥanaqāyīlu ] huwar-rūhāniyyu, naktubuhū 'alal-arkāni wa nudawwiru bihil-qasamal-ātiya:
 
 ‎[ Bismillāhir-rahmānir-rahīmi, aqsamtu 'alaikum ayyatuhal-arwāhur-rūhāniyyatu Thaktāyīlu wa anta yā 'Autsāyīlu bihaqqil-malikil-hākimi 'alaikum Qahghāyīlu wa bihaqqi Ahyā Syarāhiyā Adūnāya Ashbā'ūta Āli Syaddāya wa bihaqqi ﴿ In kānat illā shaihatan wāhidatan fa-idzā hum jamī'un ladainā muhdharūna ﴾, an tahdhurus-sā'ata wa tanzilū 'alā hādzal-māridil-mutajabbiri wal-mu'dzī likhalqillāhi bith-thardi wal-harqi wan-nakāli, khudzūhu wa bi-anwārikum ahriqūhu bihaqqi ﴿ Was-samā'i dzātil-burūji ... ilā ākhiris-sūrati ﴾ ].
 
@@ -691,7 +704,7 @@ Was-salāmu.
 ### Terjemahan
 Faedah yang membakar lagi mengusir jin dan jin maradah dengan izin Allah.
 
-‎Kita ambil huruf-huruf khadim rūhānī dari baris ketiga (tengah-tengah baris ketiga pada jadwal taksīr), yaitu: [ ن ح ق ] [Rajah Huruf — tidak diterjemahkan]; jumlah nilai hisabnya adalah 158, dan pelafalan namanya adalah [ Hanaqāyīlu ], dialah khadim rūhānī-nya. Kita tuliskan namanya pada keempat sudut jadwal, lalu kita tuliskan melingkar di sekelilingnya qasam (sumpah) berikut ini:
+‎Kita ambil huruf-huruf khadim rūhānī dari baris ketiga (tengah-tengah baris ketiga pada jadwal taksīr), yaitu: [ ن ح ق ] [Rajah Huruf — tidak diterjemahkan]; jumlah nilai hisabnya adalah 158, dan pelafalan namanya adalah [ Ḥinqāyīlu / Ḥanaqāyīlu ], dialah khadim rūhānī-nya. Kita tuliskan namanya pada keempat sudut jadwal, lalu kita tuliskan melingkar di sekelilingnya qasam (sumpah) berikut ini:
 
 ‎[ Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Aku bersumpah atas kalian, wahai ruh-ruh rūhāniyyah: Thaktāyīl dan engkau wahai 'Autsāyīl, demi hak Raja yang menguasai kalian yaitu Qahghāyīl, dan demi hak Ahyā Syarāhiyā Adūnāy Ashbā'ūt Āli Syaddāy, serta demi hak firman-Nya: ﴿ Tidaklah teriakan itu melainkan satu teriakan saja, maka seketika itu mereka semua dihadapkan kepada Kami ﴾ (QS. Yāsīn: 53), hendaklah kalian hadir pada saat ini juga dan turun kepada jin mārid yang sombong lagi menyakiti makhluk Allah ini dengan pengusiran, pembakaran, dan siksaan yang berat; tangkaplah ia dan dengan cahaya-cahaya kalian bakarlah ia, demi hak firman-Nya: ﴿ Demi langit yang mempunyai gugusan bintang ... hingga akhir surah ﴾ (QS. al-Burūj: 1–22) ].
 
@@ -709,17 +722,17 @@ Wassalam.
 [Jadwal Taksīr 5×15 & 4 Sudut Hanaqāyīl — Asror Huruf Arab, tidak diterjemahkan]
 
 ### Syarah dan Penjelasan
-‎1. **Bedah Matriks Jadwal Taksīr 5×15 & Ekstraksi Khadim *Hanaqāyīl* (`حَنَقَايِيلُ`)**:
+‎1. **Bedah Matriks Jadwal Taksīr 5×15 & Ekstraksi Khadim *Ḥinqāyīl / Ḥanaqāyīl* (`حَنَقَايِيلُ`)**:
 ‎   - Nama contoh dari Halaman 09 adalah `حَسَن رُقَيَّة` → huruf-hurufnya tanpa pengulangan adalah `ح س ن ر ق ي ه` (7 huruf).
 ‎   - Dicampur (*mamzūj*) secara selang-seling dengan 7 Huruf Nāriyyah-Hawā'iyyah Nūrāniyyah `[ ا ه ط م ك س ق ]` dan ditutup kembali dengan huruf pertamanya (`ا`), menghasilkan **15 kolom huruf** pada Baris 1: `ا ح ه س ط ن م ر ك ق س ي ق ه ا`.
 ‎   - Setelah di-*taksīr* menjadi 5 baris (jumlah ganjil = *fard*), diambil 3 huruf tepat di pusat Baris ke-3 (kolom ke-7, ke-8, dan ke-9 dari kanan, setelah membuang 6 huruf di kanan dan 6 huruf di kiri), yaitu **`[ ن ح ق ]`**.
-‎   - Nilai Hisab Jumal `[ ن ح ق ]` = `50 (ن) + 8 (ح) + 100 (ق) = 158`, yang di-*istinthāq* menjadi **`[ حَنَقَايِيلُ ]`** (*Hanaqāyīl*) dan ditulis secara diagonal pada keempat sudut jadwal.
+‎   - Nilai Hisab Jumal `[ ن ح ق ]` = `50 (ن) + 8 (ح) + 100 (ق) = 158`, yang di-*istinthāq* menjadi **`[ حَنَقَايِيلُ ]`** (*Ḥinqāyīl / Ḥanaqāyīl*) dan ditulis secara diagonal pada keempat sudut jadwal.
 
 ### Khususiyah dan Tatacara Praktik
 1. **Aplikasi Tiga Waraqah & Air Leburan**:
 ‎   - Jadwal 5×15 beserta 4 sudut `حَنَقَايِيلُ` dan lingkaran Qasam ditulis pada 3 lembar kertas (untuk pengasapan 3 malam berturut-turut bersama 7 daun bidara, 7 cengkeh, dan *masthakā*) serta ditulis pada piring putih bersih untuk dilebur dengan air suci (diminum dan dibalurkan ke seluruh tubuh pasien sebelum tidur menyendiri), masing-masing dibacakan Qasam sebanyak 5 kali.
 
-## HALAMAN 11 — FAIDAH QATHI'AH LI'ILAJ AL-MASS — فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
+## HALAMAN 11 — فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ (١)
 
 ### arab
 ‏فَائِدَةٌ قَاطِعَةٌ لِعِلَاجِ الْمَسِّ
@@ -852,7 +865,7 @@ Penulisan ayat-ayat dan surah-surah (yang disebutkan pada Halaman 11) dimulai da
 1. **Arah Penulisan *Tadwīr* & Peleburan**:
    - Tulislah Wafaq 3×3 dengan angka Arab asli di tengah piring baru yang bersih menggunakan tinta air mawar, za'faran, dan misik, lalu kelilingi dengan 5 surah/ayat dari Halaman 11 dimulai dari atas-kanan menuju ke kiri. Lebur dengan air hujan atau air sumur yang tidak terkena sinar matahari/bulan menggunakan jari telunjuk kanan sambil membaca kelima surah/ayat tersebut 7 kali.
 
-## HALAMAN 13 — ZAJR QATHI' 1/3 — الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
+## HALAMAN 13 — الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
 
 ### arab
 ‏الزَّجْرُ الْقَاطِعُ لِأَخْذِ الْعَهْدِ وَالْمِيثَاقِ عَلَى خَادِمِ الِاسْتِنْزَالِ
@@ -878,7 +891,7 @@ Wa hādzihi fā’idatun qāthi‘atun lizajri khuddāmil-istinzāli wa hatstsih
 
 ‎﴿ Wa lau arādul-khurūja la’a‘addū lahu ‘uddatan wa lākin karihallāhub‘ātsahum fatsabbathahum wa qīla iq‘udū ma‘al-qā‘idīna ﴾ (QS At-Taubah: 46)
 
-Wa ba‘da dzālika ta’muruhu bisy-syahādataini wash-shalāti ‘alan-nabiyyi shallallāhu ‘alaihi wa sallama, tsumma ta’muruhu an ya’tiya bil-mushḥafisy-syarīfi wa yaftahahu fī sūratil-mujādalati, wa’murin-nāzhira an yabda’a fī qirā’atis-sūrati litata’akkada annahā hiya, ba‘da dzālika ta’murul-khādima an yadha‘a yadahul-yumnā ‘alaihā wa yu‘āhidaka biqaulil-ḥaqqi, wa in abā wa huwa saya‘alu dzālika lā maḥālata izjurhu bihādzaz-zajril-qāthi‘i:
+Wa ba‘da dzālika ta’muruhu bisy-syahādataini wash-shalāti ‘alan-nabiyyi shallallāhu ‘alaihi wa sallama, tsumma ta’muruhu an ya’tiya bil-mushḥafisy-syarīfi wa yaftahahu fī sūratil-mujādalati, wa’murin-nāzhira an yabda’a fī qirā’atis-sūrati litata’akkada annahā hiya, ba‘da dzālika ta’murul-khādima an yadha‘a yadahul-yumnā ‘alaihā wa yu‘āhidaka biqaulil-ḥaqqi, wa in abā wa huwa sayaf‘alu dzālika lā maḥālata izjurhu bihādzaz-zajril-qāthi‘i:
 
 ### Terjemahan
 Gertakan Pemutus untuk Mengambil Sumpah dan Janji atas Khādim Istinzāl:
@@ -889,17 +902,17 @@ Wahai saudara-saudaraku karena Allah, sering terjadi pada kalian bahwa kalian te
 
 Dan ini adalah faedah yang ampuh untuk menggertak para khādim istinzāl dan mendorong mereka agar berkata benar: Jangan beritahu sang penglihat (an-nāzhir) tentang apa yang hendak kamu lakukan agar kamu dapat memastikan kebenaran apa yang ia lihat. Setelah kamu melakukan istinzāl dan ia memberitahumu tentang kehadiran khādim, bacalah ayat berikut sebanyak **tujuh kali** dalam keadaan kamu **memegang dahi an-nāzhir untuk mengunci/menguatkannya (li-tatsqīfihi)**:
 
-‎﴿ وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَٰكِن كَرِهَ اللَّهُ انبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ ﴾ (QS At-Taubah: 46)
+‎﴿ Dan jika mereka mau berangkat (keluar), tentulah mereka menyiapkan persiapan untuk keberangkatan itu, tetapi Allah tidak menyukai keberangkatan mereka, maka Allah melemahkan keinginan mereka, dan dikatakan (kepada mereka): “Tinggallah kamu bersama orang-orang yang tinggal itu.” ﴾ (QS. At-Taubah: 46)
 
 Setelah itu, perintahkan ia (khādim melalui perantara) untuk mengucapkan dua kalimat syahadat dan shalawat kepada Nabi shallallāhu ‘alaihi wa sallam. Kemudian perintahkan ia untuk mendatangkan mushaf yang mulia dan membukanya pada **Surah al-Mujādalah**. Perintahkan an-nāzhir untuk mulai membaca surah tersebut agar kamu dapat memastikan bahwa yang terbuka memang surah itu. Setelah itu, perintahkan khādim untuk meletakkan tangan kanannya di atas mushaf tersebut dan berjanji kepadamu untuk berkata benar. **Jika ia menolak — padahal ia pasti akan melakukannya, tidak dapat tidak — maka gertaklah ia dengan gertakan pemutus (az-zajr al-qāthi‘) berikut ini:”
 
 ### Syarah dan Penjelasan
-Halaman ini adalah **muqaddimah Zajr Qāthi‘ (Bagian 1/3)** — etika istinzāl melalui perantara anak kecil (ash-shabiyy/an-nāzhir al-wasīth). Penulis menegaskan dua penyebab utama kedustaan khādim: (1) *ghairu mutamarris* — penuntut belum mahir menguasai adab istinzāl, dan (2) *tamādā* — berlebihan meminta khādim untuk hal-hal remeh yang merendahkan martabat khādim ‘ulwī. ‘Ulwī vs suflī: khādim luhur bersifat mulia, tidak sudi turun untuk urusan rendah; kekosongan diisi khādim suflī pendusta. Penegasan **[bukan tujuh raja]** membatasi: tujuh raja jin agung (Mudzhab, Murrah, al-Aḥmar, Barqān, Syamhūrasy, al-Abyadh, Maimūn) tidak turun dalam istinzāl biasa, hanya dalam *istinzāl nafsī rabbānī* — praktik sufi tingkat tinggi dengan penyucian jiwa, bukan sekadar panggil-memanggil. Koreksi penting: *fa-ajābakum ‘anhu* — jawaban **tentang** persoalan yang ditanyakan, bukan jawaban umum; detail “‘anhu” dihilangkan dalam naskah Final lama. *Litatsqīfihi* — mengunci/memperkuat penglihatan nāzhir, bukan sekadar “menahan”: akar *tsaqafa* berarti menegakkan/meluruskan. Ayat At-Taubah: 46 — *lau arādul-khurūja...* — berfungsi sebagai *qufl* (kunci) agar khādim suflī tidak kabur: “jika mereka ingin keluar...” dibaca 7× sambil memegang dahi — sinkronisasi fisik-spiritual. Sumpah di atas al-Mujādalah — dipilih karena setiap ayatnya mengandung Lafzh al-Jalālah (Allah), sehingga jin fasik takut bersumpah palsu di atasnya; nāzhir diperintah membaca untuk verifikasi objektif (anti-sugesti).
+Halaman ini adalah **muqaddimah Zajr Qāthi‘ (Bagian 1/3)** — etika istinzāl melalui perantara anak kecil (ash-shabiyy/an-nāzhir al-wasīth). Penulis menegaskan dua penyebab utama kedustaan khādim: (1) *ghairu mutamarris* — penuntut belum mahir menguasai adab istinzāl, dan (2) *tamādā* — berlebihan meminta khādim untuk hal-hal remeh yang merendahkan martabat khādim ‘ulwī. ‘Ulwī vs suflī: khādim luhur bersifat mulia, tidak sudi turun untuk urusan rendah; kekosongan diisi khādim suflī pendusta. Penegasan **[bukan tujuh raja]** membatasi: tujuh raja jin agung (Mudzhab, Murrah, al-Aḥmar, Barqān, Syamhūrasy, al-Abyadh, Maimūn) tidak turun dalam istinzāl biasa, hanya dalam *istinzāl nafsī rabbānī* — praktik sufi tingkat tinggi dengan penyucian jiwa, bukan sekadar panggil-memanggil. Ketepatan *ta'alluq jar-majrūr* pada *fa-ajābakum ‘anhu* menegaskan bahwa jawaban tersebut berkaitan langsung dengan persoalan yang ditanyakan. *Litatsqīfihi* — mengunci/memperkuat penglihatan nāzhir, bukan sekadar “menahan”: akar *tsaqafa* berarti menegakkan/meluruskan. Ayat At-Taubah: 46 — *lau arādul-khurūja...* — berfungsi sebagai *qufl* (kunci) agar khādim suflī tidak kabur: “jika mereka ingin keluar...” dibaca 7× sambil memegang dahi — sinkronisasi fisik-spiritual. Sumpah di atas al-Mujādalah — dipilih karena setiap ayatnya mengandung Lafzh al-Jalālah (Allah), sehingga jin fasik takut bersumpah palsu di atasnya; nāzhir diperintah membaca untuk verifikasi objektif (anti-sugesti).
 
 ### Khususiyah dan Tatacara Praktik
 Fungsi halaman ini adalah *uji kejujuran* sebelum masuk ke matan Zajr (Hal14). Tata cara yang diajarkan: (1) Rahasiakan niat dari nāzhir (uji buta), (2) Setelah istinzāl dan laporan “khādim hadir”, pegang dahi nāzhir dan baca At-Taubah: 46 sebanyak 7× — niat mengunci (tatsqīf), (3) Syahadatain + shalawat (memurnikan saluran), (4) Hadirkan mushaf, buka al-Mujādalah, verifikasi bacaan nāzhir, (5) Letakkan tangan kanan khādim di atas mushaf dan minta sumpah jujur — jika menolak, lanjutkan ke Hal14 (Az-Zajr al-Qāthi‘). Pantangan: jangan lakukan untuk main-main, jaga adab, jangan tanya hal merendahkan. Waktu tidak terikat, namun dianjurkan suci (wudhu) dan menghadap kiblat. Kegagalan biasanya karena thālib ghairu mutamarris — perbanyak riyādhah sebelum mengulang.
 
-## HALAMAN 14 — ZAJR QATHI' 2/3 — مَتْنُ الزَّجْرِ الْقَاطِعِ لِخَادِمِ الِاسْتِنْزَالِ
+## HALAMAN 14 — مَتْنُ الزَّجْرِ الْقَاطِعِ لِخَادِمِ الِاسْتِنْزَالِ (٢)
 
 ### arab
 ‏[ بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ، الْمَلِكِ الْحَقِّ الْمُبِينِ، الَّذِي قَالَ فِي مُحْكَمِ كِتَابِهِ الْكَرِيمِ:
@@ -986,7 +999,7 @@ Halaman ini adalah **matan Az-Zajr al-Qāthi‘ (Bagian 2/3 — inti ancaman)**.
 ### Khususiyah dan Tatacara Praktik
 Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan setelah penolakan khādim untuk bersumpah. Cara baca: menghadap kiblat, dalam keadaan suci, suara tegas (jahr) tetapi tidak berteriak memekik — “*zajara zajran*” (gertakan mantap). Empat ayat dibaca berurutan dengan tartīl, lalu seruan *inzilū...* hingga *ḥattā tuthī‘ū amrī* — satu nafas jika mampu, atau pecah dua. Jangan menambah/mengurangi ayat — keempatnya adalah *rukun Zajr*. Setelah selesai, jangan lanjutkan istinzāl hari itu — *ishrāf* (pulangkan) khādim dengan salam. Keesokan harinya, istinzāl dapat dipakai untuk hajat halal — khādim kini *mu‘āhad* (terikat janji) dan akan *shādiqan bi’idznillāhi*. Larangan: jangan gunakan untuk menanyakan aib orang, judi, atau sihir pemisah — sumpah akan batal dan khādim kembali suflī. Kelebihan khusus: metode ini adalah *filter permanen* — sekali diikat, semua istinzāl berikutnya tersaring otomatis dari dusta, berbeda dengan ruqyah biasa yang bersifat temporer.
 
-## HALAMAN 15 — FAIDAH THARDI ‘ATHLUSY — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ مُفْسِدِ الْأَعْمَالِ الرَّوْحَانِيَّةِ
+## HALAMAN 15 — فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ مُفْسِدِ الْأَعْمَالِ الرُّوحَانِيَّةِ (١)
 
 ### arab
 ‏فَائِدَةٌ لِطَرْدِ عَطْلُوشٍ مُفْسِدِ الْأَعْمَالِ الرَّوْحَانِيَّةِ
@@ -1002,13 +1015,13 @@ Halaman ini adalah *eksekusi* Zajr: dibaca **setelah** muqaddimah Hal13 dan sete
 ### latin
 Fā’idatun li-thardi ‘Athlūsyin mufsidil-a‘mālir-rūḥāniyyah
 
-Ikhwatī fillāh, aḍa‘u baina aidīkum hādzihil-fā’idatan-nāfi‘ata fī daf‘il-khādimil-mufsidi lil-a‘māli wanqilābihā bishaddil-marghūbi fīhā, wa huwa khādimun ismuhu [‘Athlūsyun], wal-ḥākimu ‘alaihi Abū Thārisyin malikul-‘ummār.
+Ikhwatī fillāh, adha‘u baina aidīkum hādzihil-fā’idatan-nāfi‘ata fī daf‘il-khādimil-mufsidi lil-a‘māli wanqilābihā bishaddil-marghūbi fīhā, wa huwa khādimun ismuhu [‘Athlūsyun], wal-ḥākimu ‘alaihi Abū Thārisyin malikul-‘ummār.
 
 Taktubul-wafqa fī yadikal-yumnā bishamghin —ayil-midādil-aswadil-mustakhraji min shūfil-ghanami—, wa tubakhkhiru yadaka bil-quzburati, wa hādzā thab‘an ba‘da ishrāfil-‘ummār. Tsumma tu‘azzimu ‘alal-yadi iḥdā wa ‘isyrīna marratan, wa hādzihi hiyal-‘azīmatu:
 
-(Aqsamtu ‘alaikum yā ‘Athlūsyu billadzī khalaqakum wa shawwarakum fakuntum ḍarūratan li-ahlil-ḥikmati allā tufsidū lī mā ‘amiltu wa lā taqrabūnī fīmā shana‘tu wa lā tataḥarrakū biḥaqqi hādzihil-asmā’il-muḥriqati ‘alaikum: Jaljalin itsnatain, Jalnīsyin itsnatain, Qahrin itsnatain, Barhatin itsnatain, Syathīsyin itsnatain, Syahin itsnatain, fa-ainamā tuwallū fatsamma wajhullāhi ‘alaikum yā ‘Athlūsyu ibna Aghlaghalin falā taqrabūnī wa lā bisāḥatī biḥaqqi hādzihil-asmā’i: Salhūbin, Malhūbin, Abīka, Yalīkhin, Alqamūsyin, Marūsyin, Harmūsyin, Qarmūsyin, infirū khifāfan wa tsiqālan biḥaqqi: Idzā zulzilatil-arḍu zilzālahā ... ilā ... Asytātan Asytātan Asytātan).
+(Aqsamtu ‘alaikum yā ‘Athlūsyu billadzī khalaqakum wa shawwarakum fakuntum dharūratan li-ahlil-ḥikmati allā tufsidū lī mā ‘amiltu wa lā taqrabūnī fīmā shana‘tu wa lā tataḥarrakū biḥaqqi hādzihil-asmā’il-muḥriqati ‘alaikum: Jaljalin itsnatain, Jalnīsyin itsnatain, Qahrin itsnatain, Barhatin itsnatain, Syathīsyin itsnatain, Syahin itsnatain, fa-ainamā tuwallū fatsamma wajhullāhi ‘alaikum yā ‘Athlūsyu ibna Aghlaghalin falā taqrabūnī wa lā bisāḥatī biḥaqqi hādzihil-asmā’i: Salhūbin, Malhūbin, Abīka, Yalīkhin, Alqamūsyin, Marūsyin, Harmūsyin, Qarmūsyin, infirū khifāfan wa tsiqālan biḥaqqi: Idzā zulzilatil-ardhu zilzālahā ... ilā ... Asytātan Asytātan Asytātan).
 
-Tammatil-‘azīmatu. Ba‘da mā tu‘azzimu bihā ‘alā yadika iḥdā wa ‘isyrīna marratan tanāmu wa taḍa‘u yadaka taḥta ra’sika ilash-shabāḥi, tsumma imḥul-jadwala min yadika bimā’in thāhirin wa ḍa‘hu fī qārūratin thāhiratin. Taqūmu bihādzal-‘amali sab‘ata ayyāmin, wa ‘inda tamāmil-‘amali ta’khudzul-qārūrata wa tadzhabu ilā makānin khālin ba‘īdin ‘anin-nāsi wa taḥfuru ḥufratan wa taḍa‘u fīhal-qārūrata wa taruddu ‘alaihat-turāba wa taḍa‘u yadaka fauqahā wa taqra’u āyatal-kursiyyi ilā ... khālidūna marratan wāḥidatan, wa sūratal-Mulki tsalātsa marrātin, tsumma tarji‘u min ḥaitsu ataita wa lā taltafit abadan ilal-qārūrati. Wal-wafqu huwa hākadzā:
+Tammatil-‘azīmatu. Ba‘da mā tu‘azzimu bihā ‘alā yadika iḥdā wa ‘isyrīna marratan tanāmu wa tadha‘u yadaka taḥta ra’sika ilash-shabāḥi, tsumma imḥul-jadwala min yadika bimā’in thāhirin wa dha‘hu fī qārūratin thāhiratin. Taqūmu bihādzal-‘amali sab‘ata ayyāmin, wa ‘inda tamāmil-‘amali ta’khudzul-qārūrata wa tadzhabu ilā makānin khālin ba‘īdin ‘anin-nāsi wa taḥfuru ḥufratan wa tadha‘u fīhal-qārūrata wa taruddu ‘alaihat-turāba wa tadha‘u yadaka fauqahā wa taqra’u āyatal-kursiyyi ilā ... khālidūna marratan wāḥidatan, wa sūratal-Mulki tsalātsa marrātin, tsumma tarji‘u min ḥaitsu ataita wa lā taltafit abadan ilal-qārūrati. Wal-wafqu huwa hākadzā:
 
 ### Terjemahan
 Faedah untuk mengusir ‘Athlūsy, perusak amal-amal ruhaniyyah:
@@ -1019,7 +1032,7 @@ Tulislah wafaq pada telapak tangan kananmu dengan *shamgh* —yaitu tinta hitam 
 
 Kemudian bacakan ‘azīmah pada tangan tersebut sebanyak **21 kali**, inilah ‘azīmahnya:
 
-‘Aku bersumpah kepada kalian wahai ‘Athlūsy, demi Dzat yang menciptakan kalian dan membentuk rupa kalian sehingga kalian menjadi bagian dari kebutuhan ahli ḥikmah — agar kalian tidak merusak apa yang telah aku kerjakan, tidak mendekatiku dalam apa yang aku perbuat, dan tidak bergerak sedikit pun — demi hak nama-nama pembakar atas kalian: Jaljal (2×), Jalnīsy (2×), Qahr (2×), Barhah (2×), Syathīsy (2×), Syah (2×). Maka ke mana pun kalian berpaling, di sanalah Wajah Allah mengawasi kalian — wahai ‘Athlūsy bin Aghlaghal, maka jangan dekati aku dan jangan dekati halamanku — demi hak nama-nama ini: Salhūb, Malhūb, Abīka, Yalīkh, Alqamūsy, Marūsy, Harmūsy, Qarmūsy. Berangkatlah kalian dalam keadaan ringan maupun berat (QS At-Taubah:41), demi hak: *Idzā zulzilatil-arḍu zilzālahā ... hingga ... Asytātan Asytātan Asytātan* (QS Az-Zalzalah:1-8).’
+‘Aku bersumpah kepada kalian wahai ‘Athlūsy, demi Dzat yang menciptakan kalian dan membentuk rupa kalian sehingga kalian menjadi bagian dari kebutuhan ahli ḥikmah — agar kalian tidak merusak apa yang telah aku kerjakan, tidak mendekatiku dalam apa yang aku perbuat, dan tidak bergerak sedikit pun — demi hak nama-nama pembakar atas kalian: Jaljal (2×), Jalnīsy (2×), Qahr (2×), Barhah (2×), Syathīsy (2×), Syah (2×). Maka ke mana pun kalian berpaling, di sanalah Wajah Allah mengawasi kalian — wahai ‘Athlūsy bin Aghlaghal, maka jangan dekati aku dan jangan dekati halamanku — demi hak nama-nama ini: Salhūb, Malhūb, Abīka, Yalīkh, Alqamūsy, Marūsy, Harmūsy, Qarmūsy. Berangkatlah kalian dalam keadaan ringan maupun berat (QS At-Taubah:41), demi hak: *Idzā zulzilatil-ardhu zilzālahā ... hingga ... Asytātan Asytātan Asytātan* (QS Az-Zalzalah:1-8).’
 
 Selesailah ‘azīmah. Setelah kamu membacakannya pada tanganmu 21 kali, tidurlah dengan meletakkan tanganmu di bawah kepalamu hingga pagi. Kemudian hapuslah tulisan tabel (jadwal) dari tanganmu dengan air suci dan masukkan airnya ke dalam botol yang suci. Lakukan amal ini **selama 7 hari**. Ketika amal telah sempurna, ambil botol tersebut, pergilah ke tempat yang sepi jauh dari manusia, gali lubang, masukkan botol ke dalamnya, timbun kembali dengan tanah, letakkan tanganmu di atasnya dan bacalah **Ayat Kursi sampai *khālidūn* 1×** dan **Surah al-Mulk 3×**, kemudian kembalilah dari mana kamu datang dan **jangan sekali-kali menoleh** kepada botol tersebut. Dan wafaqnya adalah sebagai berikut (lihat Hal16):”
 
@@ -1082,7 +1095,7 @@ Dan wafaqnya adalah seperti ini:
    - Setelah melakukan *ishrāful-'ummār*, tulislah Wafaq 3×3 ini di telapak tangan kanan menggunakan *shamgh* (jelaga/tinta hitam dari bulu domba), asapi dengan ketumbar (*quzburah*), dan bacakan *'azīmah* (pada Halaman 15) sebanyak 21 kali sebelum tidur selama 7 malam.
 ‎   - Setiap pagi, lebur tulisan di telapak tangan dengan air suci dan tampung di dalam botol bersih. Setelah genap 7 hari, kuburlah botol tersebut di tanah yang sepi, letakkan tangan di atas tanah kuburannya sambil membaca Ayat Kursi hingga `خَالِدُونَ` (1×) dan Surah al-Mulk (3×), lalu pulang tanpa menoleh ke belakang.
 
-## HALAMAN 17 — AD-DURRAH AN-NŪRĀNIYYAH 1/2 — الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
+## HALAMAN 17 — الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرُّوحَانِيَّةِ
 
 ### arab
 ‏الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرَّوْحَانِيَّةِ
@@ -1098,29 +1111,30 @@ Dan wafaqnya adalah seperti ini:
 ### latin
 Ad-Durratun-Nūrāniyyatu fī ‘ilājil-a‘rādhir-rūḥāniyyah
 
-As-salāmu ‘alaikum wa raḥmatullāhi wa barakātuh, ikhwatī fillāh, aḍa‘u lakum hādzihil-fā’idata bi-idznillāhi ‘azza wa jalla fī ‘ilājil-amrāḍi wal-a‘rāḍir-rūḥāniyyati, wa huwa murabba‘un li-smil-jalālati [Allāhu jalla jalāluh] yuktabul-murabba‘u bimā’i wardin wa za‘farānin fī ṣaḥnin abyaḍa wa yadūru ‘alaihil-asmā’ul-latī dzakarahā wa sūratul-Ikhlāṣi, tsumma ba‘da dzālika tumḥal-kitābatu bimā’in ṭāhirin wa yuqra’u ‘alal-mā’i ba‘dal-maḥwi al-asmā’u kamā dzakarahā sab‘īna marratan tsumma sūratul-Ikhlāṣi ka-dzālika sab‘īna marratan wa yasyrabu minhul-marīḍu kulla yawmin ‘alar-rīqi fish-shabāḥi wa ka-dzālika ‘inda naumihi muddata sab‘ati ayyāmin yasyfā bi-idznillāhi wa bi-barakati asmā’ihil-ḥusnā, wal-wafqu kamā fish-shafḥatit-tāliyah.
+As-salāmu ‘alaikum wa raḥmatullāhi wa barakātuh, ikhwatī fillāh, adha‘u lakum hādzihil-fā’idata bi-idznillāhi ‘azza wa jalla fī ‘ilājil-amrādhi wal-a‘rādhir-rūḥāniyyati, wa huwa murabba‘un li-smil-jalālati [Allāhu jalla jalāluh] yuktabul-murabba‘u bimā’i wardin wa za‘farānin fī shaḥnin abyadha wa yadūru ‘alaihil-asmā’ul-latī dzakarahā wa sūratul-Ikhlāshi, tsumma ba‘da dzālika tumḥal-kitābatu bimā’in thāhirin wa yuqra’u ‘alal-mā’i ba‘dal-maḥwi al-asmā’u kamā dzakarahā sab‘īna marratan tsumma sūratul-Ikhlāshi ka-dzālika sab‘īna marratan wa yasyrabu minhul-marīdhu kulla yawmin ‘alar-rīqi fish-shabāḥi wa ka-dzālika ‘inda naumihi muddata sab‘ati ayyāmin yasyfā bi-idznillāhi wa bi-barakati asmā’ihil-ḥusnā, wal-wafqu kamā fish-shafḥatit-tāliyah.
 
-Wal-asmā’ul-latī tuktabu dā’iratan ‘alal-wafqi wa ka-dzālikas-sūratul-karīmatu kamā yalī, [Lā ilāha illallāhul-Malikul-Muhaiminu Mālikul-Mulki al-Muḥshī al-Muḥyī al-Mannān al-Ḥakam al-Ḥalīm al-Ḥakīm al-Ḥaqq al-Ḥayy al-Ḥannān bismillāhir-raḥmānir-raḥīmi qul huwallāhu aḥadun Allāhush-shamadu lam yalid wa lam yūlad wa lam yakul-lahū kufuwan aḥad] shadaqallāhul-‘aẓīm,
+Wal-asmā’ul-latī tuktabu dā’iratan ‘alal-wafqi wa ka-dzālikas-sūratul-karīmatu kamā yalī, [Lā ilāha illallāhul-Malikul-Muhaiminu Mālikul-Mulki al-Muḥshī al-Muḥyī al-Mannān al-Ḥakam al-Ḥalīm al-Ḥakīm al-Ḥaqq al-Ḥayy al-Ḥannān bismillāhir-raḥmānir-raḥīmi qul huwallāhu aḥadun Allāhush-shamadu lam yalid wa lam yūlad wa lam yakul-lahū kufuwan aḥad] shadaqallāhul-‘azhīm,
 
-Wa lit-tadzkīri sūratul-Ikhlāṣi tukarraru kitābatuhā iḥdā ‘asyrata marratan.
+Wa lit-tadzkīri sūratul-Ikhlāshi tukarraru kitābatuhā iḥdā ‘asyrata marratan.
 
-As’alullāhal-‘aẓīma an yanfa‘anī wa iyyākum bil-Qur’ānil-karīmi wa yahdiyanī wa iyyākum ilā ṭarīqil-ḥaqqil-mubīni innahū waliyyu dzālika wal-qādiru ‘alaih.
+As’alullāhal-‘azhīma an yanfa‘anī wa iyyākum bil-Qur’ānil-karīmi wa yahdiyanī wa iyyākum ilā tharīqil-ḥaqqil-mubīni innahū waliyyu dzālika wal-qādiru ‘alaih.
 
 ### Terjemahan
 Al-Durrah al-Nūrāniyyah (Mutiara Bercahaya) dalam pengobatan gejala-gejala ruhaniyyah:
 
 “Assalāmu‘alaikum warahmatullāhi wabarakātuh, wahai saudara-saudaraku karena Allah, aku persembahkan kepada kalian faedah ini — dengan izin Allah ‘Azza wa Jalla — untuk mengobati penyakit-penyakit dan gejala-gejala ruhaniyyah. Faedah ini berupa **murabba‘ (kotak 4×4) untuk Ism al-Jalālah [Allāh Jalla Jalāluh]**. Murabba‘ tersebut **ditulis dengan air mawar dan za‘farān di dalam piring putih**, kemudian **di sekelilingnya ditulis asma’-asma’ yang akan disebutkan beserta Surah al-Ikhlāsh**. Setelah itu tulisan **dihapus dengan air suci**, lalu **dibacakan pada air tersebut — setelah penghapusan — asma’-asma’ sebagaimana yang ia sebutkan sebanyak 70 kali, kemudian Surah al-Ikhlāsh juga 70 kali**. Air itu **diminum oleh orang sakit setiap hari pada pagi hari dalam keadaan perut kosong dan juga menjelang tidurnya selama 7 hari, maka ia akan sembuh dengan izin Allah dan berkah Asmā’ Allāh al-Ḥusnā**. Dan wafaqnya sebagaimana pada halaman berikutnya.
 
-Adapun asma’-asma’ yang ditulis **mengelilingi wafaq** dan juga Surah yang mulia tersebut adalah sebagai berikut: **[Lā ilāha illallāh, al-Malik, al-Muhaimin, Mālik al-Mulk, al-Muḥshī, al-Muḥyī, al-Mannān, al-Ḥakam, al-Ḥalīm, al-Ḥakīm, al-Ḥaqq, al-Ḥayy, al-Ḥannān, Bismillāhir-Raḥmānir-Raḥīm, Qul Huwallāhu Aḥad, Allāhush-Shamad, Lam yalid wa lam yūlad, wa lam yakul-lahū kufuwan aḥad]** — *Shadaqallāhul-‘Aẓīm*.
+Adapun asma’-asma’ yang ditulis **mengelilingi wafaq** dan juga Surah yang mulia tersebut adalah sebagai berikut: **[Lā ilāha illallāh, al-Malik, al-Muhaimin, Mālik al-Mulk, al-Muḥshī, al-Muḥyī, al-Mannān, al-Ḥakam, al-Ḥalīm, al-Ḥakīm, al-Ḥaqq, al-Ḥayy, al-Ḥannān, Bismillāhir-Raḥmānir-Raḥīm, Qul Huwallāhu Aḥad, Allāhush-Shamad, Lam yalid wa lam yūlad, wa lam yakul-lahū kufuwan aḥad]** — *Shadaqallāhul-‘Azhīm*.
 
 Dan sebagai pengingat: **Surah al-Ikhlāsh diulang penulisannya sebanyak 11 kali** (mengelilingi wafaq).
 
 Aku memohon kepada Allah Yang Maha Agung semoga Dia memberiku manfaat — dan kalian — dengan al-Qur’ān al-Karīm, serta memberi petunjuk kepadaku dan kepada kalian menuju jalan kebenaran yang nyata. Sesungguhnya Dialah penolongnya dan Yang Maha Kuasa atasnya.”
 
 ### Syarah dan Penjelasan
-Halaman ini adalah **bagian 1/2 Durrah Nūrāniyyah — faedah ‘ilāj a‘rāḍ ruhaniyyah dengan murabba‘ al-Jalālah**. 
+1. **Rahasia 12 Asmā'ul-Ḥusnā & Pengulangan Surah al-Ikhlāsh (11× Tulis & 70× Baca)**:
+‎   - Rangkaian 12 Asmā'ul-Ḥusnā yang mengelilingi Wafaq 4×4 *Ismul-Jalālah* (`الله`) terdiri atas 6 Asmā' berawalan huruf **Mīm (`م`)** (`الْمَلِكُ، الْمُهَيْمِنُ، مَالِكُ الْمُلْكِ، الْمُحْصِي، الْمُحْيِي، الْمَنَّانُ`) dan 6 Asmā' berawalan huruf **Ḥā' (`ح`)** (`الْحَكَمُ، الْحَلِيمُ، الْحَكِيمُ، الْحَقُّ، الْحَيُّ، الْحَنَّانُ`), diikuti penulisan Surah al-Ikhlāsh sebanyak **11 kali** serta pembacaan 12 Asmā' (**70 kali**) dan Surah al-Ikhlāsh (**70 kali**) di atas air leburannya. 
 ### Khususiyah dan Tatacara Praktik
-‎Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الروحانية` — mencakup gangguan ‘ain, mass khafīf, waswas, insomnia ruhaniyyah, dan gejala psikosomatik akibat siḥr — bukan untuk ‘Athlūsyin (perusak amal) melainkan untuk pasien. Tatacara rinci: (1) Siapkan piring porselen putih bersih (bukan logam) — cuci dengan air dan garam, (2) Tinta: air mawar ṭahūr + za‘faran asli (saffron stigma, bukan pewarna) — larutkan hingga warna keemasan, (3) Tulis murabba‘ 4×4 (16 sel) dengan angka Arab di tengah — lihat Hal18 untuk angka persis — dengan qalam bambu, (4) Kelilingi murabba‘ dengan 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — Ikhlāsh ditulis 11× berturutan tanpa putus di sekeliling (seperti lingkaran), (5) Hapus tulisan dengan air ṭāhir (air hujan yang belum menyentuh tanah lebih utama, atau air zamzam) — tuang ke gelas kaca, (6) Bacakan pada air: 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — masing-masing rangkaian 70× (bukan masing-masing asma’ 70×, melainkan keseluruhan bracket 70×), kemudian Surah al-Ikhlāsh 70× terpisah — total 140 kali bacaan (70+70) — di atas air dengan nafas menyentuh permukaan, (7) Minum: setiap pagi ‘alar-rīq (sebelum makan/minum apapun) dan malam sebelum tidur — 1 gelas tiap waktu — selama 7 hari tanpa jeda — simpan air di kulkas suci (jangan bercampur makanan najis), (8) Pantangan: jaga wuḍū’, hindari makanan ḥarām dan ghibah selama 7 hari, (9) Tanda syifā’: mimpi cahaya, keringat dingin hilang, atau gejala mereda hari ke-3-4 — lanjutkan hingga 7 hari sempurna, (10) Peringatan: jangan menulis wafaq dengan tinta kimia/spidol — za‘farān bersifat ghizā’ ruhaniyyah, bukan sekadar pewarna — dan jangan membaca terbalik (urutan: Asma’ dulu 70× baru Ikhlāsh 70×).
+‎Kegunaan: syifā’ bi-idznillāh untuk `الأمراض والأعراض الروحانية` — mencakup gangguan ‘ain, mass khafīf, waswas, insomnia ruhaniyyah, dan gejala psikosomatik akibat siḥr — bukan untuk ‘Athlūsyin (perusak amal) melainkan untuk pasien. Tatacara rinci: (1) Siapkan piring porselen putih bersih (bukan logam) — cuci dengan air dan garam, (2) Tinta: air mawar thahūr + za‘faran asli (saffron stigma, bukan pewarna) — larutkan hingga warna keemasan, (3) Tulis murabba‘ 4×4 (16 sel) dengan angka Arab di tengah — lihat Hal18 untuk angka persis — dengan qalam bambu, (4) Kelilingi murabba‘ dengan 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — Ikhlāsh ditulis 11× berturutan tanpa putus di sekeliling (seperti lingkaran), (5) Hapus tulisan dengan air thāhir (air hujan yang belum menyentuh tanah lebih utama, atau air zamzam) — tuang ke gelas kaca, (6) Bacakan pada air: 12 Asmā’ `[Lā ilāha illallāh ... al-Ḥannān]` + Basmalah + Ikhlāsh — masing-masing rangkaian 70× (bukan masing-masing asma’ 70×, melainkan keseluruhan bracket 70×), kemudian Surah al-Ikhlāsh 70× terpisah — total 140 kali bacaan (70+70) — di atas air dengan nafas menyentuh permukaan, (7) Minum: setiap pagi ‘alar-rīq (sebelum makan/minum apapun) dan malam sebelum tidur — 1 gelas tiap waktu — selama 7 hari tanpa jeda — simpan air di kulkas suci (jangan bercampur makanan najis), (8) Pantangan: jaga wudhū’, hindari makanan ḥarām dan ghibah selama 7 hari, (9) Tanda syifā’: mimpi cahaya, keringat dingin hilang, atau gejala mereda hari ke-3-4 — lanjutkan hingga 7 hari sempurna, (10) Peringatan: jangan menulis wafaq dengan tinta kimia/spidol — za‘farān bersifat ghizā’ ruhaniyyah, bukan sekadar pewarna — dan jangan membaca terbalik (urutan: Asma’ dulu 70× baru Ikhlāsh 70×).
 
 ## HALAMAN 18 — الدُّرَّةُ النُّورَانِيَّةُ فِي عِلَاجِ الْأَعْرَاضِ الرُّوحَانِيَّةِ (٢ — وَفْقُ الْجَلَالَةِ ٤×٤)
 
@@ -1156,7 +1170,8 @@ Mutiara bercahaya dalam mengobati gejala-gejala gangguan ruhani.
 [Wafaq Murabba' 4×4 Lafzhul-Jalālah — Asror Angka Arab, tidak diterjemahkan]
 
 ### Syarah dan Penjelasan
-1. **Hisab Matriks Wafaq Murabba' 4×4 *Al-Jalālah* (Konstanta 1198)**:
+1. **Hisab Matriks Wafaq Murabba' 4×4 *Al-Jalālah* (Konstanta Cetakan 798 & Koreksi Hisab 1198)**:
+‎   - Pada cetakan naskah tertulis angka `٢٩٢` (sel kiri-atas) dan `٨٣` (baris 2 kiri) dengan jumlah baris pertama **`٧٩٨` (798 = `78 + 87 + 341 + 292`)**. Adapun menurut kaidah hisab *murabba' thabī'ī*, angka `٢٩٢` adalah `٦٩٢` (692) dan `٨٣` adalah `٨٦` (86) sehingga seluruh baris, kolom, dan diagonal berjumlah seragam **١١٩٨ (1198)**:
 ‎   - Matriks Wafaq 4×4 pada Halaman 18 ini memiliki *miftāh* (angka terkecil) **`٧٨`** di sudut kanan-atas dan *maghlāq* (angka terbesar) **`٦٩٢`** di sudut kiri-atas, dengan jumlah konstanta setiap baris, kolom, dan diagonal tepat **١١٩٨ (1198)**:
 ‎     - **Baris 1**: `٧٨ + ٨٧ + ٣٤١ + ٦٩٢ = ١١٩٨`
 ‎     - **Baris 2**: `٣٤٢ + ٦٩١ + ٧٩ + ٨٦ = ١١٩٨`

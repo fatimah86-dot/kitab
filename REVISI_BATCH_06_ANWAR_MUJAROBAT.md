@@ -306,7 +306,7 @@ Ketahuilah: **huruf-huruf Afrād adalah asal (pokok) dalam mutsallats, huruf Azw
 
 *Wadh‘ huruf: tengah-atas Thā, tengah Jīm — Hā’ — Zāy, bawah-tengah Alif — membentuk salib mutsallats.*
 
-*Ammā madkhalu al-daf‘ bi-‘aksi al-ūlā ay yakūnu al-wadh‘u bi-al-azwāj wa tastakhraju al-afrād min al-azwāj fa-yakhruju baitu al-Qalam wa al-Lauh min zhāhiri buyūti al-Nār wa al-Turāb wa al-Mā’ wa al-Hawā’ wa al-‘Arsy wa al-Kursī yakhrujāni min bāthini buyūti al-Mā’ wa al-Turāb wa al-Quthb … — wa ūddu al-isyārah qabla dzālika anna mu‘zhama al-thullāb tarasakhat fī adzhānihim hādzihi al-jumlah [Ujhzaṭu lil-syarri] … wa hiya hurūfu Jalāl wa [Budūh lil-khair] — wa [Budūh lil-syarri] — wa hādzā laisa bi-shahīh idz anna Ujhzaṭu lil-khair wa Budūh lil-syarri …*
+*Ammā madkhalu al-daf‘ bi-‘aksi al-ūlā ay yakūnu al-wadh‘u bi-al-azwāj wa tastakhraju al-afrād min al-azwāj fa-yakhruju baitu al-Qalam wa al-Lauh min zhāhiri buyūti al-Nār wa al-Turāb wa al-Mā’ wa al-Hawā’ wa al-‘Arsy wa al-Kursī yakhrujāni min bāthini buyūti al-Mā’ wa al-Turāb wa al-Quthb … — wa ūddu al-isyārah qabla dzālika anna mu‘zhama al-thullāb tarasakhat fī adzhānihim hādzihi al-jumlah [Ujhzathu lil-syarri] … wa hiya hurūfu Jalāl wa [Budūh lil-khair] — wa [Budūh lil-syarri] — wa hādzā laisa bi-shahīh idz anna Ujhzathu lil-khair wa Budūh lil-syarri …*
 
 **[Terjemahan Indonesia]**
 
@@ -331,7 +331,7 @@ Jīm  Hā’  Zāy
 
 *Salib huruf mutsallats — poros Hā’-pusat.*
 
-Lanjutan: *Adapun **pintu penolakan (madkhal al-daf‘) kebalikannya** — peletakan dengan Azwāj dan Afrād diekstrak dari Azwāj — maka **Bait al-Qalam & al-Lauh keluar dari zhahir rumah-rumah Nār-Turāb-Mā’-Hawā’**, sementara **‘Arsy & Kursī keluar dari bathin rumah Mā’-Turāb-Quthb** karena kemuliaan & nilai keduanya — rinciannya menyusul. Sebelum itu, aku ingin mengingatkan: kebanyakan penuntut terlanjur menancap dalam benak kalimat **“Ujhzaṭu untuk keburukan” — padahal itu huruf-huruf Jalāl & “Budūh untuk kebaikan”** — yang benar **sebaliknya: Ujhzaṭu untuk kebaikan & Budūh untuk keburukan** — ini koreksi penting Syaikh.*
+Lanjutan: *Adapun **pintu penolakan (madkhal al-daf‘) kebalikannya** — peletakan dengan Azwāj dan Afrād diekstrak dari Azwāj — maka **Bait al-Qalam & al-Lauh keluar dari zhahir rumah-rumah Nār-Turāb-Mā’-Hawā’**, sementara **‘Arsy & Kursī keluar dari bathin rumah Mā’-Turāb-Quthb** karena kemuliaan & nilai keduanya — rinciannya menyusul. Sebelum itu, aku ingin mengingatkan: kebanyakan penuntut terlanjur menancap dalam benak kalimat **“Ujhzathu untuk keburukan” — padahal itu huruf-huruf Jalāl & “Budūh untuk kebaikan”** — yang benar **sebaliknya: Ujhzathu untuk kebaikan & Budūh untuk keburukan** — ini koreksi penting Syaikh.*
 ## HALAMAN 49 — Kasyf al-Sitār (Bagian 3/3) — Takmilah & Madkhal al-Daf‘
 
 **[Teks Arab Asli — Perhitungan kanan atas]**

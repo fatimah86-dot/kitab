@@ -1,4 +1,4 @@
-## HALAMAN 04 — SAMPUL DALAM — فَوَائِدُ وَمُجَرَّبَاتُ الشَّيْخِ الْبَشِيرِ
+## HALAMAN 04 — فَوَائِدُ وَمُجَرَّبَاتُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
 ‏فَوَائِدُ وَمُجَرَّبَاتُ
@@ -6,15 +6,19 @@
 ‏الشَّيْخِ الْبَشِيرِ
 
 ### latin
-Fawā'idu wa-Mujarrabātu
-asy-Syaykhi al-Basyīri
+Fawā'idu wa Mujarrabātusy-
+
+Syaikhil-Basyīri
 
 ### Terjemahan
-Faedah-faedah dan mujarrabat-mujarrabat,
-Syeikh Al-Basyir.
+Faedah-faedah dan amalan-amalan mujarab
+
+Syeikh al-Basyir.
 
 ### Syarah dan Penjelasan
-Halaman pembatas: menandai masuknya bab utama kitab — kumpulan faedah dan amalan mujarrabat dari Syeikh Al-Basyir.
+1. **Analisis Nahwu & Shorof Judul Bagian Pertama**:
+‎   - Kata **`فَوَائِدُ`** (jamak taksir dari `فَائِدَةٌ`, wazan *fawā'ilu*/*ghairu munsharif*) dan **`مُجَرَّبَاتُ`** (jamak *mu'annats sālim* dari *isim maf'ūl* `مُجَرَّبَةٌ` wazan *fa''ala–yufa''ilu–taf'īlan* yang berarti amalan-amalan yang telah teruji kebenarannya melalui pengalaman berulang) disandarkan (*idhāfah*) kepada **`الشَّيْخِ الْبَشِيرِ`** (*mudhāf ilaih majrūr*).
 
 ### Khususiyah dan Tatacara Praktik
-Halaman sampul dalam tidak ada amalan khusus — hanya penanda judul bab. Tidak ada wirid pada halaman ini.
+1. **Pembuka Bagian Pertama (Halaman 04–30)**:
+   - Halaman sampul dalam ini menandai dimulainya Bagian Pertama kitab yang menghimpun **13 Bab Mujarrabat** pilihan Syeikh al-Basyir.

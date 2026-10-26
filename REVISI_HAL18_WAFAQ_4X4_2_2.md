@@ -32,7 +32,8 @@ Mutiara bercahaya dalam mengobati gejala-gejala gangguan ruhani.
 [Wafaq Murabba' 4×4 Lafzhul-Jalālah — Asror Angka Arab, tidak diterjemahkan]
 
 ### Syarah dan Penjelasan
-1. **Hisab Matriks Wafaq Murabba' 4×4 *Al-Jalālah* (Konstanta 1198)**:
+1. **Hisab Matriks Wafaq Murabba' 4×4 *Al-Jalālah* (Konstanta Cetakan 798 & Koreksi Hisab 1198)**:
+‎   - Pada cetakan naskah tertulis angka `٢٩٢` (sel kiri-atas) dan `٨٣` (baris 2 kiri) dengan jumlah baris pertama **`٧٩٨` (798 = `78 + 87 + 341 + 292`)**. Adapun menurut kaidah hisab *murabba' thabī'ī*, angka `٢٩٢` adalah `٦٩٢` (692) dan `٨٣` adalah `٨٦` (86) sehingga seluruh baris, kolom, dan diagonal berjumlah seragam **١١٩٨ (1198)**:
 ‎   - Matriks Wafaq 4×4 pada Halaman 18 ini memiliki *miftāh* (angka terkecil) **`٧٨`** di sudut kanan-atas dan *maghlāq* (angka terbesar) **`٦٩٢`** di sudut kiri-atas, dengan jumlah konstanta setiap baris, kolom, dan diagonal tepat **١١٩٨ (1198)**:
 ‎     - **Baris 1**: `٧٨ + ٨٧ + ٣٤١ + ٦٩٢ = ١١٩٨`
 ‎     - **Baris 2**: `٣٤٢ + ٦٩١ + ٧٩ + ٨٦ = ١١٩٨`

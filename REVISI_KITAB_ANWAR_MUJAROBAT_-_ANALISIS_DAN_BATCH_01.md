@@ -12,7 +12,7 @@
 ### 1. Sampul & Kolofon
 - **Halaman 1 (Sampul):** Judul **أنوار الشيخ البشير** — *Anwar al-Syaikh al-Basyir*, dengan sub-footer: *Muntadayat al-Anwar al-Qadariyah wa al-Arwah al-Rahmaniyah* (Forum Cahaya Qadiriyah & Ruh-ruh Rahmaniyah) — situs rujukan ``.
 - **Halaman 2 (Ihda’):** Ehdā`ul-Syaikh al-Basyir — persembahan pahala kepada Rasulullah SAW, Ahlul Bait, Syaikh al-Faqir al-Qadiri, Dr. Bihouni, dan seluruh fuqara.
-- **Halaman 3 (Ijāzah ‘Āmmah):** *“Laqad ajaztu kulla man washala ilaihi fawā`idī wa riyādhātī ijāzatan ‘āmmah fīmā yardhallāhu wa rasūluhu wa yaqūmu bihā ba’da ṣalāt ‘alā al-Habīb al-Musthafā wa qirā`at al-Fātihah wa ihdā` thawābihā li-rūh al-Habīb Muhammad SAW wa ilā rūh syaikhī … wa ilā Syaikh al-Faqir al-Qadiri athālallāhu lanā fī ‘umrih…”* — Artinya: Syeikh Basyir memberikan ijazah umum kepada siapa pun yang menerima faedah-faedah dan riyadhah di kitab ini, dengan syarat shalawat, Fatihah, dan hadiah pahala.
+- **Halaman 3 (Ijāzah ‘Āmmah):** *“Laqad ajaztu kulla man washala ilaihi fawā`idī wa riyādhātī ijāzatan ‘āmmah fīmā yardhallāhu wa rasūluhu wa yaqūmu bihā ba’da shalāt ‘alā al-Habīb al-Musthafā wa qirā`at al-Fātihah wa ihdā` thawābihā li-rūh al-Habīb Muhammad SAW wa ilā rūh syaikhī … wa ilā Syaikh al-Faqir al-Qadiri athālallāhu lanā fī ‘umrih…”* — Artinya: Syeikh Basyir memberikan ijazah umum kepada siapa pun yang menerima faedah-faedah dan riyadhah di kitab ini, dengan syarat shalawat, Fatihah, dan hadiah pahala.
 
 > **Catatan Revisi:** Ijāzah ini penting dicantumkan utuh dalam terjemahan — pada terjemahan lama sering dipotong atau salah eja “athāla Allāh” menjadi “athāl Allāh”.
 
@@ -50,7 +50,7 @@ Agar revisi Anwar Mujarobat tidak mengulang kesalahan yang sama, kami audit `TER
 
 | No | Jenis Kesalahan | Contoh Temuan | Dampak | Solusi Revisi |
 |---|---|---|---|---|
-| 1 | **Transliterasi tidak konsisten** | `Zuhal` vs `Zuhala`, `al-Musytari` vs `al-Musytarii`, `wa haadzaa` vs `wa haadzaa daliilun` tanpa panjang-pendek | Pembaca awam salah baca doa/‘azimah | Pakai pedoman transliterasi Kemenag RI + IJMES, konsisten: *Zuhal, Musytarī, Zuḥal, Syams, Qamar, Mirrīkh, ‘Uṭārid, Zuhrah* |
+| 1 | **Transliterasi tidak konsisten** | `Zuhal` vs `Zuhala`, `al-Musytari` vs `al-Musytarii`, `wa haadzaa` vs `wa haadzaa daliilun` tanpa panjang-pendek | Pembaca awam salah baca doa/‘azimah | Pakai pedoman transliterasi Kemenag RI + IJMES, konsisten: *Zuhal, Musytarī, Zuḥal, Syams, Qamar, Mirrīkh, ‘Uthārid, Zuhrah* |
 | 2 | **Catatan Kaidah generik & copy-paste** | Setiap sub-bab diberi label sama “Analisis Kedudukan / Unsur & Elemen / Petunjuk Terapi” bahkan untuk bab hisab angka murni | Mengaburkan makna ilmiah | Revisi: tiap catatan ditulis spesifik — “Kaidah Hisab Jumal Kabir”, “Kaidah Wafaq Mukhammas (5×5)”, “Kaidah Sa‘ah Falakiyah” |
 | 3 | **Tanda […] tidak diberi rujukan** | `من يوم المحشر […] أتصف خلق الله` tanpa keterangan apakah aus cetak atau robek | Pembaca mengira sensor | Revisi: beri footnote `[...] = naskah litograf aus tidak terbaca pada kata “...”, tidak kami tambah-tambahi` |
 | 4 | **Terjemahan harfiah berlebihan** | “rumah ketakutan dan kematiannya” untuk *bayt al-ankīs / bayt al-khauf wa al-maut* — istilah astrologi klasik yang seharusnya dijelaskan | Salah paham aqidah | Revisi: “Rumah ke-8 (Bayt al-Khauf): sektor astrologi yang oleh ahli falak klasik dikaitkan dengan musibah/krisis — wajib diyakini semua terjadi bi-idznillah, bukan kepastian ramalan” |
@@ -152,7 +152,7 @@ dan kepada seluruh faqir (murid-murid spiritual) di mana pun berada.
 
 **Ijazah Umum dari Syeikh al-Basyir**
 
-> “Sungguh aku telah memberikan ijazah umum (*ijāzah ‘āmmah*) kepada siapa pun yang sampai kepadanya faedah-faedah dan riyadhah-riyaẓahku ini, untuk diamalkan pada perkara yang diridhai Allah dan Rasul-Nya. Hendaklah ia mengamalkannya setelah **membaca shalawat kepada al-Habib al-Musthafa ﷺ, membaca Surah al-Fatihah, dan menghadiahkan pahalanya** kepada ruh al-Habib Muhammad ﷺ, kepada ruh guruku (semoga Allah merahmatinya), kepada diriku (al-Fatihah untukku), dan kepada Syeikh al-Faqir al-Qadiri — *semoga Allah memanjangkan usianya untuk kami*. Dengan itu, ijazah umum dianggap telah sampai kepadanya.”
+> “Sungguh aku telah memberikan ijazah umum (*ijāzah ‘āmmah*) kepada siapa pun yang sampai kepadanya faedah-faedah dan riyadhah-riyazhahku ini, untuk diamalkan pada perkara yang diridhai Allah dan Rasul-Nya. Hendaklah ia mengamalkannya setelah **membaca shalawat kepada al-Habib al-Musthafa ﷺ, membaca Surah al-Fatihah, dan menghadiahkan pahalanya** kepada ruh al-Habib Muhammad ﷺ, kepada ruh guruku (semoga Allah merahmatinya), kepada diriku (al-Fatihah untukku), dan kepada Syeikh al-Faqir al-Qadiri — *semoga Allah memanjangkan usianya untuk kami*. Dengan itu, ijazah umum dianggap telah sampai kepadanya.”
 
 **[Tanbih Syar‘i]**
 Ijazah ini adalah adab sanad hikmah, bukan jaminan mutlak qabul. Niatkan lillāh, bukan untuk kemudaratan; bila ragu tanya guru yang tsiqah.
@@ -216,11 +216,11 @@ Ijazah ini adalah adab sanad hikmah, bukan jaminan mutlak qabul. Niatkan lillāh
 *Ikhwānī fillāh*
 *Adha‘u baina aidīkum hādzihi al-durrah al-nāfi‘ah fī jalb al-arzāq, wa rawāj al-tijārah, wa hiya tharīqah al-Maysarah, wa irta`aitu an adha‘ahā lakum li-mā fīhā min al-khair wa al-barakah, wa kadzālika li-ihtiwā`ihā ‘alā qawā‘id harfiyyah tusā‘idukum ‘alā mā nahnu bi-shadadihi bi-idzni Allāh.*
 *Wa nadha‘u fī dzālika mitsālan bi-ismi Murād wa ummihi Maryam,*
-*m-r-ā-d m-r-y-m = 535, nalfiẓ al-‘adad harfiyyā,*
+*m-r-ā-d m-r-y-m = 535, nalfizh al-‘adad harfiyyā,*
 *535, kha-m-sīn wa tsa-lā-tsu wa nūn wa kha-m-sīn mā`ah, tsumma nuzīlu al-takrār min al-hurūf hākadzā,*
 *kha-m-s wa tsa-la-na-ha = 9 ahruf, wa kadzālika naf‘alu bi-ismi al-thālib nuzīlu minhu al-mukarrar wa hurūf al-madd hākadzā,*
 *m-r-ā-d m-r-y-m, tashīru ka-al-tālī, m-r-d-y = 4 hurūf, tsumma nathrahu al-aqall min al-aktsar,*
-*9 - 4 = 5 fa-tsabata al-‘amal fī wafaq mukhammas, wa ‘adad buyūtih 25 baitan, tsumma ba‘da dzālika nuqārinu hurūfa lafẓi al-‘adad ma‘a hurūfi al-thālib wa nuzīlu al-mukarrar minhumā, kha-m-s wa tsa-la-na-ha m-r-d-y, fa-tashīru al-hurūf hākadzā,*
+*9 - 4 = 5 fa-tsabata al-‘amal fī wafaq mukhammas, wa ‘adad buyūtih 25 baitan, tsumma ba‘da dzālika nuqārinu hurūfa lafzhi al-‘adad ma‘a hurūfi al-thālib wa nuzīlu al-mukarrar minhumā, kha-m-s wa tsa-la-na-ha m-r-d-y, fa-tashīru al-hurūf hākadzā,*
 *kha-m-s wa tsa-la-na-ha m-r-d-y = 12 harfan nathrahuhā min ‘adad buyūti al-mukhammas, 25 - 12 = 13,*
 *wa hādzā huwa al-uss al-harfī al-mu‘addal, fa-na`khudzu min al-hurūf mā kāna ‘adaduhu aqall min 13 tūdhi‘u fī wifqi al-‘amal wa mā kāna aktsar min 13 fa-hiya lil-rūhānī, wa al-hurūf al-mustakhrajah hiya ka-al-ātī,*
 *aqall min 13, wāw-alif-hā-dāl-yā`*

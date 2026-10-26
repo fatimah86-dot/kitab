@@ -1,4 +1,4 @@
-## HALAMAN 01 — SAMPUL — أَنْوَارُ الشَّيْخِ الْبَشِيرِ
+## HALAMAN 01 — أَنْوَارُ الشَّيْخِ الْبَشِيرِ
 
 ### arab
 ‏أَنْوَارُ
@@ -7,22 +7,31 @@
 
 ‏مُنْتَدَيَاتُ
 
-‏الْأَنْوَارِ الْقَادِرِيَّةِ وَ الْأَرْوَاحِ الرَّحْمَانِيَّةِ
+‏الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ
 
 ### latin
-Anwāru
-asy-Syaykhi al-Basyīri
-Muntadayātu
-al-Anwāri al-Qādiriyyati wa al-Arwāḥi ar-Raḥmāniyyati
+Anwārusy-
+
+Syaikhil-Basyīri
+
+Muntadayātul-
+
+Anwāril-Qādiriyyati wal-Arwāḥir-Raḥmāniyyati
 
 ### Terjemahan
-Cahaya-cahaya,
-Syeikh Al-Basyir,
-Forum-forum,
-Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah.
+Cahaya-cahaya
+
+Syeikh al-Basyir
+
+Forum-forum
+
+Cahaya al-Qadiriyyah dan Ruh-Ruh ar-Rahmaniyyah.
 
 ### Syarah dan Penjelasan
-Sampul depan kitab: judul cahaya-cahaya Syeikh Al-Basyir, diterbitkan oleh Forum Cahaya Al-Qadiriyah dan Ruh-Ruh Ar-Rahmaniyah. Sampul menegaskan sanad kitab pada thariqah Qadiriyah.
+1. **Analisis Nahwu & Shorof Judul Kitab**:
+‎   - Susunan **`أَنْوَارُ الشَّيْخِ الْبَشِيرِ`** (*Anwārusy-Syaikhil-Basyīri*): kata `أَنْوَارُ` (jamak taksir dari `نُورٌ`) berkedudukan sebagai *khabar* dari *mubtada' mahdzūf* (`هَذِهِ أَنْوَارُ`) sekaligus menjadi *mudhāf*, `الشَّيْخِ` sebagai *mudhāf ilaih majrūr*, dan `الْبَشِيرِ` (wazan *fa'īl* bermakna pembawa kabar gembira) sebagai *badal* atau *'athaf bayān majrūr*.
+‎   - Susunan **`مُنْتَدَيَاتُ الْأَنْوَارِ الْقَادِرِيَّةِ وَالْأَرْوَاحِ الرَّحْمَانِيَّةِ`**: menegaskan nisbat keilmuan kitab pada sanad *Tharīqah Qādiriyyah*.
 
 ### Khususiyah dan Tatacara Praktik
-Halaman sampul tidak ada amalan khusus — hanya penanda judul dan penerbit. Baca dengan niat mencari ilmu yang diridhai Allah.
+1. **Adab Membuka Kitab Hikmah**:
+   - Halaman sampul depan merupakan penanda judul dan sanad penerbitan kitab; diawali dengan meluruskan niat semata-mata mencari ridha Allah Ta'ala serta menghadiahkan bacaan Surah al-Fātiḥah kepada मुअल्लिफ (penyusun) sebagaimana diwasiatkan pada Halaman 02.

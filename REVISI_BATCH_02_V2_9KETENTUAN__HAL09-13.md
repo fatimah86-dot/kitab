@@ -40,9 +40,9 @@
 **C. Ibtida':** Ibtida' di **فَائِدَةٌ** (fa' fathah hamzah qath'), **اَلسَّلَامُ** (hamzah washal → jika ibtida' «as-salāmu», washal dari sebelumnya gugur), **إِخْوَتِي** (hamzah kasrah qath'), **أَضَعُ** (hamzah qath' fathah).
 
 ### 4) Latin Washal Bunyi
-**Harfiah:** Fā'idatun Muhriqatun Ṭāridatun lil-Jinni wal-Maradati bi'iznillāh / As-salāmu 'alaikum wa rahmatullāhi wa barakātuh / Ikhwatī fillāh adha'u lakum hādzihi al-fā'idata al-khāshshata bi'ihrāqi al-jinni wa thardihi ... / Na'khudzu isma asy-syakhshi wa ummihi wa nuzīlu minhu al-hurūfa al-mukarrarata ... [alif hā' thā' mīm kāf sīn qāf] ... / Na'malu tsalātsa awrāqin ... bikhūr 7 waraqāt sidr, 7 habbāt qaranful, qalīlun minal-mustakā ... Hasan Ruqayyah.
+**Harfiah:** Fā'idatun Muhriqatun Thāridatun lil-Jinni wal-Maradati bi'iznillāh / As-salāmu 'alaikum wa rahmatullāhi wa barakātuh / Ikhwatī fillāh adha'u lakum hādzihi al-fā'idata al-khāshshata bi'ihrāqi al-jinni wa thardihi ... / Na'khudzu isma asy-syakhshi wa ummihi wa nuzīlu minhu al-hurūfa al-mukarrarata ... [alif hā' thā' mīm kāf sīn qāf] ... / Na'malu tsalātsa awrāqin ... bikhūr 7 waraqāt sidr, 7 habbāt qaranful, qalīlun minal-mustakā ... Hasan Ruqayyah.
 
-**Washal bunyi:** *Fā'idatum-muhriqatun ṭāridatun lil-jinni wal-maradati bi'iznillāhi, as-salāmu 'alaikum wa rahmatullāhi wa barakātuh, ikhwatī fillāh adha'u lakum hādzihil-fā'idata al-khāshshata bi'ihrāqil-jinni wa thardihi min jasadil-insāni bi'iznillāh... na'khudzu isma asy-syakhshi wa ummihi ... [alif hā' thā' mīm kāf sīn qāf] ...*
+**Washal bunyi:** *Fā'idatum-muhriqatun thāridatun lil-jinni wal-maradati bi'iznillāhi, as-salāmu 'alaikum wa rahmatullāhi wa barakātuh, ikhwatī fillāh adha'u lakum hādzihil-fā'idata al-khāshshata bi'ihrāqil-jinni wa thardihi min jasadil-insāni bi'iznillāh... na'khudzu isma asy-syakhshi wa ummihi ... [alif hā' thā' mīm kāf sīn qāf] ...*
 
 ### 5) Terjemahan
 > **Faedah Pembakar & Pengusir Jin/Maradah dengan izin Allah**

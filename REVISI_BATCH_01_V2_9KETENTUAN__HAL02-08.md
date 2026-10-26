@@ -36,8 +36,8 @@
 **C. Ibtida':** Ibtida' dengan hamzah qath' di إِهْدَاءُ (kasrah hamzah), أُهْدِي (dhammah hamzah), آلِ (madd 4-5 harakat jika ibtida' «آلِ»); hamzah washal di الـ gugur saat washal (أهدي هذا العملَ ilā... — الْعَمَلَ hamzah washal tidak dibaca jika washal dari هَذَا).
 
 ### 4) Latin Washal Bunyi
-**Harfiah:** Ihdā'u al-Syaikhi al-Basyīri / Uhdī hādzā al-'amala ilā Sayyidī Rasūli Allāhi ṣallā Allāhu 'alaihi wa sallama / wa ilā Āli baitihi al-Ṭayyibīna al-Akhyāri / wa lish-Syaikhi al-Faqīri al-Qādiriyyi / wa lid-Duktūri Bīhūnī / wa ilā jamī'i al-Fuqarā'i  
-**Washal bunyi (sambung):** *Ihdā'ush-Syaikhil-Basyīr, uhdī hādzal-'amala ilā Sayyidī Rasūlillāhi ṣallallāhu 'alaihi wa sallam, wa ilā Āli baitihith-Ṭayyibīnal-Akhyār, wa lish-Syaikhil-Faqīril-Qādiriyy, wa lid-Duktūri Bīhūnī, wa ilā jamī'il-Fuqarā'.*
+**Harfiah:** Ihdā'u al-Syaikhi al-Basyīri / Uhdī hādzā al-'amala ilā Sayyidī Rasūli Allāhi shallā Allāhu 'alaihi wa sallama / wa ilā Āli baitihi al-Thayyibīna al-Akhyāri / wa lish-Syaikhi al-Faqīri al-Qādiriyyi / wa lid-Duktūri Bīhūnī / wa ilā jamī'i al-Fuqarā'i  
+**Washal bunyi (sambung):** *Ihdā'ush-Syaikhil-Basyīr, uhdī hādzal-'amala ilā Sayyidī Rasūlillāhi shallallāhu 'alaihi wa sallam, wa ilā Āli baitihith-Thayyibīnal-Akhyār, wa lish-Syaikhil-Faqīril-Qādiriyy, wa lid-Duktūri Bīhūnī, wa ilā jamī'il-Fuqarā'.*
 
 ### 5) Terjemahan
 > **Persembahan Syeikh al-Basyir**
@@ -96,8 +96,8 @@ Warna naskah: hitam (muqaddimah) + merah (shalawat & guru) — dipertahankan tra
 **C. Ibtida':** Ibtida' di لَقَدْ (lam fathah jelas), قَدْ أَجَزْتُ (qaf sukun qalqalah), فِيمَا (kasrah fa' + ya' mad), الصَّلَاةِ (hamzah washal الـ → أَصْ jika ibtida' «ash-Shalāti»). Hamzah qath' di أَجَزْتُ, إِجَازَةً, إِلَيْهِ, أَطَالَ.
 
 ### 4) Latin Washal Bunyi
-**Harfiah:** Laqad ajaztu kulla man washalat ilaihi fawā'idī wa riyādhātī ijāzatan 'āmmatan / fīmā yurdhi Allāha wa Rasūlahu wa yaqūmu bihā ba'da / aṣ-Ṣalāti 'alā al-Ḥabībi al-Muṣṭafā wa qirā'ati al-Fātiḥati wa ihdā'i thawābihā / li rūḥi al-Ḥabībi Muḥammadin ṣallā Allāhu 'alaihi wa sallama wa ilā rūḥi / syaikhī raḥimahullāhu 'alaihi wa li Fātiḥatin lī / wa ilā al-Syaikhi al-Faqīri al-Qādiriyyi aṭāla Allāhu lanā fī 'umrihi / wa bi dzālika takūnu qad washalathu al-ijāzatu al-'āmmah.  
-**Washal bunyi (ijazah dibaca sambung):** *Laqad ajastukulla maw-wa-shallat ilaihi fawā'idī wa riyādhātī ijāzatan 'āmma(tan) fīmā yurdhiLlāha wa Rasūlahu wa yaqūmu bihā ba'daṣ-Ṣalāti 'alal-Ḥabībil-Muṣṭafā wa qirā'atil-Fātiḥati wa ihdā'i thawābihā li rūḥil-Ḥabībi Muḥammadin ṣallallāhu 'alaihi wa sallam, wa ilā rūḥi syaikhī raḥimahullāh 'alaih, wa li Fātiḥatillī, wa ilash-Syaikhil-Faqīril-Qādiriyyi aṭālallāhu lanā fī 'umrih, wa bi dzālika takūnu qad washallathul-ijāzatul-'āmmah.*
+**Harfiah:** Laqad ajaztu kulla man washalat ilaihi fawā'idī wa riyādhātī ijāzatan 'āmmatan / fīmā yurdhi Allāha wa Rasūlahu wa yaqūmu bihā ba'da / ash-Shalāti 'alā al-Ḥabībi al-Mushthafā wa qirā'ati al-Fātiḥati wa ihdā'i thawābihā / li rūḥi al-Ḥabībi Muḥammadin shallā Allāhu 'alaihi wa sallama wa ilā rūḥi / syaikhī raḥimahullāhu 'alaihi wa li Fātiḥatin lī / wa ilā al-Syaikhi al-Faqīri al-Qādiriyyi athāla Allāhu lanā fī 'umrihi / wa bi dzālika takūnu qad washalathu al-ijāzatu al-'āmmah.  
+**Washal bunyi (ijazah dibaca sambung):** *Laqad ajastukulla maw-wa-shallat ilaihi fawā'idī wa riyādhātī ijāzatan 'āmma(tan) fīmā yurdhiLlāha wa Rasūlahu wa yaqūmu bihā ba'dash-Shalāti 'alal-Ḥabībil-Mushthafā wa qirā'atil-Fātiḥati wa ihdā'i thawābihā li rūḥil-Ḥabībi Muḥammadin shallallāhu 'alaihi wa sallam, wa ilā rūḥi syaikhī raḥimahullāh 'alaih, wa li Fātiḥatillī, wa ilash-Syaikhil-Faqīril-Qādiriyyi athālallāhu lanā fī 'umrih, wa bi dzālika takūnu qad washallathul-ijāzatul-'āmmah.*
 
 ### 5) Terjemahan
 > **Ijazah Umum Syaikh al-Basyir**
@@ -188,7 +188,7 @@ Tanpa wafaq. Arsip: `hal04_300dpi.png` 3300×2550 724 KB (judul hijau besar teng
 **C. Ibtida':** Ibtida' di tiap nomor: «1. طَرِيقَةُ...» (tha' fathah), «2. فَائِدَةٌ...» (fa' fathah hamzah), «الزَّجْرُ» jika ibtida' → «az-Zajru» (hamzah washal → a).
 
 ### 4) Latin Washal Bunyi (ringkas)
-Fahrisu Mujarrabātish-Syaikhil-Basyīr / 1. Ṭarīqatul-Maysarati fī Jalbil-Arzāq ... 13. Fā'idatun fil-Kasyfil-Manāmiyy. (Washal: fawā'idu → fawā'idum-muhriqatun ṭāridatun lil-Jinni wal-Maradati bi'iznillāh).
+Fahrisu Mujarrabātish-Syaikhil-Basyīr / 1. Tharīqatul-Maysarati fī Jalbil-Arzāq ... 13. Fā'idatun fil-Kasyfil-Manāmiyy. (Washal: fawā'idu → fawā'idum-muhriqatun thāridatun lil-Jinni wal-Maradati bi'iznillāh).
 
 ### 5) Terjemahan
 > Daftar Isi Mujarrabat Syaikh al-Basyir — 13 Faedah:
@@ -272,8 +272,8 @@ Tanpa wafaq. Arsip: `hal05_300dpi.png` 3300×2550 867 KB (judul merah «فهرس
 **C. Ibtida':** Ibtida' di «إِخْوَتِي» (hamzah kasrah), «أَضَعُ» (hamzah fathah qath'), «ارْتَأَيْتُ» hamzah washal (ارْ → jika ibtida' baca «irtāyatu», jika washal dari وهي gugur «wahy tharīqatul-maysarati warta'aytu»).
 
 ### 4) Latin Washal Bunyi
-Harfiah: Ṭarīqatu al-Maysarati fī Jalbi al-Arzāqi / Ikhwatī fillāhi / Aḍa'u baina aidīkum hādzihi ad-durrata an-nāfi'ata fī jalbi al-arzāqi ... (535 = Khamsu mi'atin wa Thalātsūna wa Khamsu mi'atin ...)  
-Washal bunyi: *Ṭarīqatul-Maysarati fī Jalbil-Arzāq, ikhwatī fillāh, aḍa'u baina aidīkum hādzihid-durratan-nāfi'ata fī jalbil-arzāqi wa rawājit-tijārah, wahya Ṭarīqatul-Maysarah, warta'aytu an aḍa'ahā lakum limā fīhā minal-khairi wal-barakah... bismi Murādin wa ummihi Maryam, mīm rā' alif dāl mīm rā' yā' mīm = 535 nalfiẓul-'adada ḥarfiyyā...*
+Harfiah: Tharīqatu al-Maysarati fī Jalbi al-Arzāqi / Ikhwatī fillāhi / Adha'u baina aidīkum hādzihi ad-durrata an-nāfi'ata fī jalbi al-arzāqi ... (535 = Khamsu mi'atin wa Thalātsūna wa Khamsu mi'atin ...)  
+Washal bunyi: *Tharīqatul-Maysarati fī Jalbil-Arzāq, ikhwatī fillāh, adha'u baina aidīkum hādzihid-durratan-nāfi'ata fī jalbil-arzāqi wa rawājit-tijārah, wahya Tharīqatul-Maysarah, warta'aytu an adha'ahā lakum limā fīhā minal-khairi wal-barakah... bismi Murādin wa ummihi Maryam, mīm rā' alif dāl mīm rā' yā' mīm = 535 nalfizhul-'adada ḥarfiyyā...*
 
 ### 5) Terjemahan
 > **Cara Mudah (Maysarah) Menarik Rezeki**
@@ -358,7 +358,7 @@ Tanpa wafaq (belum). Arsip: `hal06_300dpi.png` 3300×2550 1.5 MB (judul «طري
 **C. Ibtida':** Ibtida' di «ثُمَّ» (tsa' dhammah tasydid), «نَلْقُطُ» (nun fathah qath'), «مُبْتَدِئِينَ» (mim dhammah, hamzah qath' ba' kasrah).
 
 ### 4) Latin Washal Bunyi
-Harfiah: Thumma nalquṭu minas-saṭri ath-thānī ismar-rūḥāniy mubtadi'īna minal-ḥarfi ath-thānī wa nasīru bit-tathlīthi hākadzā [sīn mīm sīn] ...  
+Harfiah: Thumma nalquthu minas-sathri ath-thānī ismar-rūḥāniy mubtadi'īna minal-ḥarfi ath-thānī wa nasīru bit-tathlīthi hākadzā [sīn mīm sīn] ...  
 Washal bunyi: *Tsumma nalquthu minas-sathrits-tsānismarrūḥāniyyi mubtadi'īna minal-ḥarfits-tsānī wa nasīru bit-tathlīthi hākadzā: [sīn mīm sīn] wa 'alaihi yakūnur-rūḥāniyyu huwa Samsā'īlu... wa takūnus-sā'atu hiyaz-Zuharah...*
 
 ### 5) Terjemahan
@@ -427,8 +427,8 @@ Tanpa wafaq visual (teks saja). Arsip: `hal07_300dpi.png` 3300×2550 1.5 MB (jud
 **C. Ibtida':** Ibtida' di «وَهَذَا» (wawu fathah + ha' fathah isyarah), «وَعَدَدُ» (wawu fathah + 'ain fathah 'adad), «أَسْأَلُ» (hamzah qath' fathah).
 
 ### 4) Latin Washal Bunyi
-Harfiah: Wa hādzā wafqu al-'amali wa hādzā al-wafqu al-murabba'u alladzī nazalnā fīhi ar-rūḥāniyya / Ṭarīqat al-Maysarati fī Jalbi al-Arzāqi — al-Syaikhu al-Basyīru — ... / Wa 'adadu al-'azīmati 196 marratan ma'a at-tawajjuhi ilā Allāhi 'azza wa jalla bi ṭalabika...  
-Washal: *Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā fīhir-rūḥāniyy, ... wa 'adadul-'azīmati mi'atun wa sittun wa tis'ūna marratam-ma'at-tawajjuhi ilallāhi 'azza wa jalla bi ṭalabik, as'alullāha 'azza wa jalla an yanfa'akum bihādzihidz-dzakhīratil-mubārakati innahu Waliyyu dzālika wal-Qādiru 'alaihi was-salām.*
+Harfiah: Wa hādzā wafqu al-'amali wa hādzā al-wafqu al-murabba'u alladzī nazalnā fīhi ar-rūḥāniyya / Tharīqat al-Maysarati fī Jalbi al-Arzāqi — al-Syaikhu al-Basyīru — ... / Wa 'adadu al-'azīmati 196 marratan ma'a at-tawajjuhi ilā Allāhi 'azza wa jalla bi thalabika...  
+Washal: *Wa hādzā wafqul-'amali wa hādzal-wafqul-murabba'ulladzī nazalnā fīhir-rūḥāniyy, ... wa 'adadul-'azīmati mi'atun wa sittun wa tis'ūna marratam-ma'at-tawajjuhi ilallāhi 'azza wa jalla bi thalabik, as'alullāha 'azza wa jalla an yanfa'akum bihādzihidz-dzakhīratil-mubārakati innahu Waliyyu dzālika wal-Qādiru 'alaihi was-salām.*
 
 ### 5) Terjemahan
 > Dan inilah **wafaq amal (mukhammas 5×5)** — berisi susunan و ا هـ د ي yang diputar (tadwir). Dan inilah **wafaq murabba' (4×4)** tempat kami turunkan Ruhani — berisi م س ل ن yang diputar.
