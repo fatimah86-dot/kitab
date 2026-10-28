@@ -383,6 +383,27 @@ hasil, dan bukan pengganti penanganan medis.
     `AUDIT_ARAB_PENGGANTI_H81_REVISI_2026-10-28.md`. Validasi:
     discovery 36 test menghasilkan 29 lulus dan 7 test bergantung pada
     work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+27. **Revisi Arab halaman 84 dan 85** (2026-10-28): sesudah menerima
+    daftar halaman yang masih memuat bagian tidak terbaca, pengguna
+    mengirim revisi halaman 84 dan 85 untuk menggantikan versi lama.
+    Teks itu diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h84_85_revised/`
+    (SHA-256 `d9499012…12db06a`) dan diparse menjadi 2 unit/12 paragraf
+    (M84 8, M85 4), menggantikan 11 paragraf lama sehingga total
+    paragraf sumber Arab menjadi **553**. Elipsis pada versi lama M84
+    dan M85 hilang. Kedua unit masing-masing memuat satu
+    `[gambar wafak]`; penanda M84 berdiri sendiri, sedangkan penanda
+    M85 berada di tengah paragraf ketiga. Renderer penanda bersama,
+    renderer riset, dan renderer edisi bersih diperluas agar teks M85
+    sebelum dan sesudah penanda tetap mengelilingi crop pada keluaran
+    tanpa mengubah satu paragraf sumbernya. Crop 84 dan 85 dipindahkan
+    ke penanda Lapis 1 dan lokasi lamanya dihapus, sehingga 26 crop
+    tetap tampil satu kali. Tahap ini dikunci sesudah revisi M81 pada
+    builder terintegrasi dan builder edisi bersih; kedua Markdown,
+    kedua DOCX, dan preview riset dibangun/diperbarui. Audit:
+    `AUDIT_ARAB_PENGGANTI_H84_85_REVISI_2026-10-28.md`. Validasi:
+    discovery 37 test menghasilkan 30 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
 
 ## Yang belum selesai
 
@@ -400,7 +421,7 @@ hasil, dan bukan pengganti penanganan medis.
   bersih item 15 adalah penyajian bersih dari bahan yang ada, bukan tanda
   revisi total terjemahan/syarah gramatikal sudah selesai.
 - Seluruh Lapis 1 kini mengikuti arsip-arsip Arab yang ditunjuk pengguna
-  pada item 16 dan 18–26, tetapi setiap perbedaan bacaan/harakat di
+  pada item 16 dan 18–27, tetapi setiap perbedaan bacaan/harakat di
   dalamnya belum dibuktikan satu-satu terhadap pindaian kitab asli. Teks “full
   khatam” yang diaudit pada item 14 tetap salinan baseline lama dan tidak
   menjadi sumber penggantian.
@@ -443,6 +464,8 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h78_80_revised.py --check
 .venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h81_revised.py
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h81_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h84_85_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h84_85_revised.py --check
 .venv/bin/python scripts/al_qorin_wafaq_markers.py --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \

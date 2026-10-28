@@ -226,17 +226,24 @@ def render_unit_md(u):
     md = [f"## {u['heading']}", "", "### 1. Arab", ""]
     crop_rendered_in_arab = False
     for paragraph in u["arab"]:
-        if paragraph.strip() == WAFAQ_MARKER:
-            if crop_rendered_in_arab:
+        if WAFAQ_MARKER in paragraph:
+            if crop_rendered_in_arab or paragraph.count(WAFAQ_MARKER) != 1:
                 raise ValueError(f"{u['unit_id']}: duplicate {WAFAQ_MARKER} marker")
             if not u["crop_page"]:
                 raise ValueError(f"{u['unit_id']}: {WAFAQ_MARKER} has no user crop")
+            before, after = (
+                part.strip() for part in paragraph.split(WAFAQ_MARKER, 1)
+            )
+            if before:
+                md += [before + "\n"]
             md += [
                 f"![Crop halaman {u['crop_page']}](wafaq_qorin/{u['crop_page']}.jpg)",
                 "",
                 f"[Crop halaman {u['crop_page']} — {u['crop_caption']}]",
                 "",
             ]
+            if after:
+                md += [after + "\n"]
             crop_rendered_in_arab = True
         else:
             md += [paragraph + "\n"]

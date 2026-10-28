@@ -56,6 +56,9 @@ from al_qorin_parse_user_arab_replacement_h78_80_revised import (
 from al_qorin_parse_user_arab_replacement_h81_revised import (
     load_user_arab_replacement_h81_revised,
 )
+from al_qorin_parse_user_arab_replacement_h84_85_revised import (
+    load_user_arab_replacement_h84_85_revised,
+)
 from al_qorin_wafaq_markers import WAFAQ_MARKER
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -513,6 +516,10 @@ def main():
     arab_replacement["M81"] = load_user_arab_replacement_h81_revised(ROOT)[
         "units"
     ]["M81"]
+    # A later two-page revision supersedes only M84 and M85.
+    arab_replacement.update(
+        load_user_arab_replacement_h84_85_revised(ROOT)["units"]
+    )
     if list(arab_replacement) != ORDER:
         raise SystemExit("combined user Arabic replacements do not cover 123 units")
 
@@ -565,8 +572,8 @@ def main():
         lines += [f"## {unit['heading']}", "", "### 1. Arab", ""]
         crop_rendered_in_arab = False
         for paragraph in unit["arab"]:
-            if paragraph.strip() == WAFAQ_MARKER:
-                if crop_rendered_in_arab:
+            if WAFAQ_MARKER in paragraph:
+                if crop_rendered_in_arab or paragraph.count(WAFAQ_MARKER) != 1:
                     raise SystemExit(
                         f"{unit['unit_id']}: duplicate {WAFAQ_MARKER} marker"
                     )
@@ -574,8 +581,15 @@ def main():
                     raise SystemExit(
                         f"{unit['unit_id']}: {WAFAQ_MARKER} has no user crop"
                     )
+                before, after = (
+                    part.strip() for part in paragraph.split(WAFAQ_MARKER, 1)
+                )
+                if before:
+                    lines += [before, ""]
                 page = unit["crop_page"]
                 lines += [f"![Wafaq halaman {page}](wafaq_qorin/{page}.jpg)", ""]
+                if after:
+                    lines += [after, ""]
                 crop_rendered_in_arab = True
             else:
                 lines += [paragraph, ""]

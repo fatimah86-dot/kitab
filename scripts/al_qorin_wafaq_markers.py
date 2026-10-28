@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Move an existing user crop to an exact ``[gambar wafak]`` marker.
+"""Move an existing user crop to a ``[gambar wafak]`` marker.
 
-User-revised Arabic pages use the literal paragraph ``[gambar wafak]`` to
-show where the already supplied precision crop belongs.  In generated
-Markdown that marker is replaced by the same unit's existing image line
-(and, in the research master, its following crop caption).  The legacy
-image location is removed so each crop still appears exactly once.
+User-revised Arabic pages use the literal ``[gambar wafak]`` marker to
+show where the already supplied precision crop belongs.  The marker may
+be a whole paragraph or may occur inside one paragraph; in generated
+Markdown the surrounding text is preserved around the same unit's
+existing image line (and, in the research master, its crop caption).
+The legacy image location is removed so each crop still appears exactly
+once.
 """
 import argparse
 import json
@@ -28,10 +30,11 @@ def _crop_manifest():
 
 
 def render_wafaq_marker_paragraphs(uid, paragraphs, research):
-    """Convert a source marker paragraph to the edition's Markdown crop."""
-    if WAFAQ_MARKER not in paragraphs:
+    """Convert a source marker to the edition's Markdown crop blocks."""
+    marker_count = sum(paragraph.count(WAFAQ_MARKER) for paragraph in paragraphs)
+    if marker_count == 0:
         return list(paragraphs)
-    if paragraphs.count(WAFAQ_MARKER) != 1 or not uid.startswith("M"):
+    if marker_count != 1 or not uid.startswith("M"):
         raise ValueError(f"{uid}: invalid {WAFAQ_MARKER} marker")
     page = int(uid[1:])
     manifest = _crop_manifest()
@@ -40,13 +43,21 @@ def render_wafaq_marker_paragraphs(uid, paragraphs, research):
 
     rendered = []
     for paragraph in paragraphs:
-        if paragraph != WAFAQ_MARKER:
+        if WAFAQ_MARKER not in paragraph:
             rendered.append(paragraph)
-        elif research:
+            continue
+        before, after = (
+            part.strip() for part in paragraph.split(WAFAQ_MARKER, 1)
+        )
+        if before:
+            rendered.append(before)
+        if research:
             rendered.append(f"![Crop halaman {page}](wafaq_qorin/{page}.jpg)")
             rendered.append(f"[Crop halaman {page} — {manifest[page]['caption']}]")
         else:
             rendered.append(f"![Wafaq halaman {page}](wafaq_qorin/{page}.jpg)")
+        if after:
+            rendered.append(after)
     return rendered
 
 
@@ -94,8 +105,12 @@ def _transform_unit(lines):
     marker_positions = [
         idx
         for idx in range(arab_start + 1, arab_end)
-        if lines[idx].strip() == WAFAQ_MARKER
+        if WAFAQ_MARKER in lines[idx]
     ]
+    marker_count = sum(
+        lines[idx].count(WAFAQ_MARKER)
+        for idx in range(arab_start + 1, arab_end)
+    )
     legacy_images = [
         idx
         for idx, line in enumerate(lines)
@@ -127,7 +142,7 @@ def _transform_unit(lines):
         ]
         return _normalize_blank_runs(transformed), uid
 
-    if len(marker_positions) != 1:
+    if len(marker_positions) != 1 or marker_count != 1:
         raise ValueError(f"{uid}: expected exactly one {WAFAQ_MARKER} marker")
     if len(legacy_images) != 1:
         raise ValueError(
@@ -146,9 +161,18 @@ def _transform_unit(lines):
     if caption_idx is not None:
         remove.add(caption_idx)
     marker_idx = marker_positions[0]
-    replacement = [image_line]
+    before, after = (
+        part.strip()
+        for part in lines[marker_idx].strip().split(WAFAQ_MARKER, 1)
+    )
+    replacement = []
+    if before:
+        replacement += [before, ""]
+    replacement.append(image_line)
     if caption_line:
         replacement += ["", caption_line]
+    if after:
+        replacement += ["", after]
 
     transformed = []
     for idx, line in enumerate(lines):
