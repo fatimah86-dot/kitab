@@ -211,13 +211,14 @@ hasil, dan bukan pengganti penanganan medis.
     `SAMPUL` + nomor 1–62 lengkap terurut dan dipetakan ke SAMPUL + M01–M62;
     hasil parse 63 unit/277 paragraf menggantikan 279 paragraf lama pada
     Lapis 1 rentang yang sama (M12 dan M32 masing-masing tergabung satu
-    paragraf). Total Arab 123 unit kini 538 paragraf. Tahap ini dikunci di
+    paragraf). Total Arab 123 unit pada tahap itu menjadi 538 paragraf.
+    Tahap ini dikunci di
     builder terintegrasi dan builder edisi bersih, lalu diterapkan ke
     `REVISI_AL_QORIN_123.md` serta `AL_QORIN_123_BERSIH.md`; kedua DOCX dan
     preview riset dibangun ulang. Verifikasi menunjukkan tidak ada bidang
     selain Arab SAMPUL–M62 yang berubah pada kedua Markdown. Latin,
     Terjemahan, Syarah/catatan, Metode/Khususiyah, tabel, dan 26 crop tetap;
-    Arab M63–M122 tetap dari TXT item 15. Audit:
+    pada tahap itu Arab M63–M122 masih dari TXT item 15. Audit:
     `AUDIT_ARAB_PENGGANTI_H62_2026-10-28.md`. Validasi pada checkout ini:
     parser dan apply-check berhasil; discovery 27 test menghasilkan
     20 lulus dan 7 test bergantung pada work JSON ter-ignore dilewati
@@ -229,9 +230,30 @@ hasil, dan bukan pengganti penanganan medis.
     sebagai teks LTR di tengah kalimat RTL. Builder sekarang memaksa
     `w:rtl` pada seluruh run Lapis 1 (dan sel tabel yang dominan Arab),
     tanpa mengubah satu pun karakter atau urutan logis teks Markdown.
-    DOCX bersih dan DOCX master riset dibangun ulang; test arah kini
-    memeriksa 357 tanda kurung/penjodoh pada edisi bersih dan 373 pada
-    master riset, semuanya harus berada dalam run RTL.
+    DOCX bersih dan DOCX master riset dibangun ulang; sesudah item 18 test
+    arah memeriksa 458 tanda kurung/penjodoh pada edisi bersih dan 468
+    pada master riset, semuanya harus berada dalam run RTL.
+18. **Penggantian Arab halaman 63–122 dari kiriman pengguna**
+    (2026-10-28): pengguna mengirim lanjutan ekstraksi Arab untuk halaman
+    63–122. Pesan memuat salinan awal terduplikasi yang terpotong pada
+    heading 79, lalu satu blok kode lengkap; yang diarsipkan dan diparse
+    ialah blok lengkap itu di
+    `incoming_user_2026-10-28/arab_replacement_h63_122/` (SHA-256
+    `b82ea529…ec189`). Parser
+    `scripts/al_qorin_parse_user_arab_replacement_h63_122.py` memetakan
+    heading `Halaman 63` dan nomor 64–122 ke M63–M122. Hasilnya
+    60 unit/267 paragraf menggantikan 261 paragraf lama; total Arab
+    123 unit kini **544 paragraf**. Tahap ini dikunci di builder
+    terintegrasi dan builder edisi bersih, diterapkan ke kedua Markdown,
+    lalu kedua DOCX dan preview riset dibangun ulang. Verifikasi terhadap
+    HEAD membuktikan hanya Lapis 1 M63–M122 yang berubah. Master riset
+    memakai paragraf arsip persis; edisi bersih tidak menampilkan lima
+    penanda proses berbahasa Indonesia pada M96, M97, dan M107. Latin,
+    Terjemahan, Syarah/catatan, Metode/Khususiyah, tabel, dan 26 crop
+    tetap. Audit: `AUDIT_ARAB_PENGGANTI_H63_122_2026-10-28.md`.
+    Validasi pada checkout ini: parser dan apply-check berhasil; discovery
+    28 test menghasilkan 21 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati karena berkas kerja itu tidak hadir.
 
 ## Yang belum selesai
 
@@ -248,9 +270,11 @@ hasil, dan bukan pengganti penanganan medis.
   kontradiksi yang terbukti pada daftar izin masing-masing batch. Edisi
   bersih item 15 adalah penyajian bersih dari bahan yang ada, bukan tanda
   revisi total terjemahan/syarah gramatikal sudah selesai.
-- Berkas Arab koreksi independen yang benar-benar berbeda dari Lapis 1 saat
-  ini belum diterima; teks Arab yang ditempel pada chat 28-10-2026 terbukti
-  salinan baseline dan tidak menyelesaikan lokus pada audit item 14.
+- Seluruh Lapis 1 kini mengikuti dua arsip Arab yang ditunjuk pengguna
+  pada item 16 dan 18, tetapi setiap perbedaan bacaan/harakat di dalamnya
+  belum dibuktikan satu-satu terhadap pindaian kitab asli. Teks “full
+  khatam” yang diaudit pada item 14 tetap salinan baseline lama dan tidak
+  menjadi sumber penggantian.
 - Render pembuka dari PDF asli memperlihatkan M01–M02 pada halaman cetak 2,
   M03 pada halaman cetak 3, dan M04 pada halaman cetak 4; metadata `page`
   pada data kerja untuk rentang itu belum diubah agar tidak menimbulkan
@@ -272,6 +296,8 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_build_clean_user_edition.py
 .venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h62.py
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h62.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h63_122.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h63_122.py --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \
   --output al_qorin/AL_QORIN_123_BERSIH.docx

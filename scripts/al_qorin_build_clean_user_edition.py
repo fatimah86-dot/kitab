@@ -29,6 +29,9 @@ from al_qorin_parse_user_arab_latin import ORDER, load_user_arab_latin
 from al_qorin_parse_user_arab_replacement_h62 import (
     load_user_arab_replacement_h62,
 )
+from al_qorin_parse_user_arab_replacement_h63_122 import (
+    load_user_arab_replacement_h63_122,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 ALQ = ROOT / "al_qorin"
@@ -52,7 +55,7 @@ def normalize_spaces(text):
 def strip_work_markers(text):
     """Remove only explicit work-process segmentation markers."""
     text = re.sub(
-        r"\s*\[(?:tidak disalin penuh|bersambung ke segmen|lanjutan dari segmen)[^\]]*\]",
+        r"\s*\[(?:tidak disalin penuh|bersambung|lanjutan dari segmen|baris tidak lengkap)[^\]]*\]",
         "",
         text,
         flags=re.I,
@@ -449,16 +452,22 @@ def main():
     if list(integrated) != ORDER:
         raise SystemExit("integrated unit order is not SAMPUL + M01-M122")
     user = load_user_arab_latin(ROOT)
-    arab_replacement_h62 = load_user_arab_replacement_h62(ROOT)["units"]
+    arab_replacement = {
+        **load_user_arab_replacement_h62(ROOT)["units"],
+        **load_user_arab_replacement_h63_122(ROOT)["units"],
+    }
+    if list(arab_replacement) != ORDER:
+        raise SystemExit("combined user Arabic replacements do not cover 123 units")
 
     clean_units = []
     khususiyah_count = 0
     crops = []
     for uid in ORDER:
         base = copy.deepcopy(integrated[uid])
-        # The later user submission supersedes Arabic through M62; the
-        # earlier archived user TXT remains the Arabic source thereafter.
-        arab_source = arab_replacement_h62.get(uid, user["arab"]["units"][uid])
+        # The two later user submissions together supersede Arabic for all
+        # 123 units; the earlier archived user TXT remains only a provenance
+        # record for the preceding Arabic lock.
+        arab_source = arab_replacement[uid]
         arab = [strip_work_markers(x) for x in arab_source]
         latin = [clean_latin(x) for x in user["latin"]["units"][uid]]
         # Presentation cleaning must not become a silent source rewrite: after

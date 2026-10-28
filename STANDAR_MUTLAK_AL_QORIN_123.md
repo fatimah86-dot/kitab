@@ -176,10 +176,14 @@ master riset 611 lapis di §1:
 5. Dua puluh enam crop pengguna tetap menjadi satu-satunya gambar, ditengah
    seperti sebelumnya, sekarang pada Lapis 4 Syarah unit tujuannya.
 
-**Pembaruan Lapis 1 sampai halaman 62 (perintah pengguna berikutnya,
+**Pembaruan Lapis 1 seluruh kitab (perintah pengguna berikutnya,
 2026-10-28):** teks Arab kiriman chat yang diarsipkan di
-`arab_replacement_h62/` menggantikan Lapis 1 SAMPUL dan M01–M62 pada master
-terintegrasi maupun edisi bersih. Kalimat pengantar sebelum `SAMPUL` tidak
-masuk dokumen. Arab M63–M122 tetap dari arsip TXT sebelumnya; Latin,
+`arab_replacement_h62/` menggantikan Lapis 1 SAMPUL dan M01–M62, lalu teks
+di `arab_replacement_h63_122/` menggantikan Lapis 1 M63–M122, pada master
+terintegrasi maupun edisi bersih. Kalimat pengantar/meta sebelum isi tidak
+masuk dokumen; pada edisi bersih penanda proses ekstraksi berbahasa
+Indonesia dalam kiriman halaman 63–122 juga tidak ditampilkan. Latin,
 Terjemahan, Syarah/catatan, Metode/Khususiyah, tabel, dan crop tidak ikut
-diganti. Auditnya: `AUDIT_ARAB_PENGGANTI_H62_2026-10-28.md`.
+diganti oleh kedua tahap ini. Auditnya:
+`AUDIT_ARAB_PENGGANTI_H62_2026-10-28.md` dan
+`AUDIT_ARAB_PENGGANTI_H63_122_2026-10-28.md`.

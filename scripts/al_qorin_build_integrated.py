@@ -44,6 +44,10 @@ from al_qorin_parse_user_arab_replacement_h62 import (
     ORDER_H62,
     load_user_arab_replacement_h62,
 )
+from al_qorin_parse_user_arab_replacement_h63_122 import (
+    ORDER_H63_122,
+    load_user_arab_replacement_h63_122,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 work = ROOT / "al_qorin/work"
@@ -635,8 +639,7 @@ for uid in order:
 # --- User-designated Arabic replacement through page 62 ---------------------
 # A later user submission supersedes Lapis 1 only for SAMPUL and M01-M62.
 # The archived prefatory sentence is excluded by its parser.  Latin and all
-# Indonesian/apparatus fields remain exactly as built above; Arabic for
-# M63-M122 remains the preceding user TXT lock.
+# Indonesian/apparatus fields remain exactly as built above.
 arab_replacement_h62 = load_user_arab_replacement_h62(ROOT)
 pre_arab_replacement = copy.deepcopy(revised)
 for uid in ORDER_H62:
@@ -649,6 +652,26 @@ for uid in order:
         if not allowed and revised[uid][key] != value:
             raise SystemExit(
                 f"user Arabic H62 replacement changed protected field: {uid}:{key}"
+            )
+
+# --- User-designated Arabic replacement for pages 63-122 -------------------
+# The next complete chat submission supersedes Lapis 1 only for M63-M122.
+# Together with the preceding stage, all Arabic now comes from the two
+# archived user chat replacements; Latin remains the archived user TXT and
+# every Indonesian/apparatus field remains exactly as built above.
+arab_replacement_h63_122 = load_user_arab_replacement_h63_122(ROOT)
+pre_arab_replacement_suffix = copy.deepcopy(revised)
+for uid in ORDER_H63_122:
+    changed = dict(pre_arab_replacement_suffix[uid])
+    changed["arab"] = list(arab_replacement_h63_122["units"][uid])
+    revised[uid] = changed
+for uid in order:
+    for key, value in pre_arab_replacement_suffix[uid].items():
+        allowed = uid in ORDER_H63_122 and key == "arab"
+        if not allowed and revised[uid][key] != value:
+            raise SystemExit(
+                "user Arabic H63-122 replacement changed protected field: "
+                f"{uid}:{key}"
             )
 
 units = [revised[uid] for uid in order]
@@ -698,5 +721,8 @@ print(
     f"user_arab_replacement_h62_units={len(arab_replacement_h62['units'])} "
     f"user_arab_replacement_h62_paragraphs="
     f"{sum(len(x) for x in arab_replacement_h62['units'].values())} "
+    f"user_arab_replacement_h63_122_units={len(arab_replacement_h63_122['units'])} "
+    f"user_arab_replacement_h63_122_paragraphs="
+    f"{sum(len(x) for x in arab_replacement_h63_122['units'].values())} "
     f"crops={sum(bool(u['crop_page']) for u in units)}"
 )
