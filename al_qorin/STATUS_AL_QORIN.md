@@ -351,6 +351,24 @@ hasil, dan bukan pengganti penanganan medis.
     `AUDIT_ARAB_PENGGANTI_H76_REVISI_2026-10-28.md`. Validasi:
     discovery 34 test menghasilkan 27 lulus dan 7 test bergantung pada
     work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+25. **Revisi Arab halaman 78 dan 80** (2026-10-28): sesudah menerima
+    daftar halaman yang masih memuat bagian tidak terbaca, pengguna
+    mengirim revisi halaman 78 dan 80 untuk menggantikan versi lama.
+    Teks itu diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h78_80_revised/`
+    (SHA-256 `5ecfb8b6…844845`) dan diparse menjadi 2 unit/8 paragraf
+    (M78 3, M80 5), menggantikan 7 paragraf lama sehingga total
+    paragraf sumber Arab menjadi **551**. Revisi ini menghapus elipsis
+    awal M78 dan elipsis akhir M80 pada versi lama. M78 memuat satu
+    `[gambar wafak]`; crop lama 78 dipindahkan ke posisi penanda pada
+    Lapis 1 dan lokasi lamanya dihapus, sehingga 26 crop tetap tampil
+    satu kali, sedangkan M80 tidak memiliki crop. Tahap ini dikunci
+    sesudah revisi M76 pada builder terintegrasi dan builder edisi
+    bersih; kedua Markdown, kedua DOCX, dan preview riset
+    dibangun/diperbarui. Audit:
+    `AUDIT_ARAB_PENGGANTI_H78_80_REVISI_2026-10-28.md`. Validasi:
+    discovery 35 test menghasilkan 28 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
 
 ## Yang belum selesai
 
@@ -368,7 +386,7 @@ hasil, dan bukan pengganti penanganan medis.
   bersih item 15 adalah penyajian bersih dari bahan yang ada, bukan tanda
   revisi total terjemahan/syarah gramatikal sudah selesai.
 - Seluruh Lapis 1 kini mengikuti arsip-arsip Arab yang ditunjuk pengguna
-  pada item 16 dan 18–24, tetapi setiap perbedaan bacaan/harakat di
+  pada item 16 dan 18–25, tetapi setiap perbedaan bacaan/harakat di
   dalamnya belum dibuktikan satu-satu terhadap pindaian kitab asli. Teks “full
   khatam” yang diaudit pada item 14 tetap salinan baseline lama dan tidak
   menjadi sumber penggantian.
@@ -407,6 +425,8 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h70_74_revised.py --check
 .venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h76_revised.py
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h76_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h78_80_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h78_80_revised.py --check
 .venv/bin/python scripts/al_qorin_wafaq_markers.py --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \
