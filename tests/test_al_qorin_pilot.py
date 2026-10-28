@@ -26,6 +26,7 @@ USER_MANIFEST_JSON = ALQ / "wafaq_user_manifest.json"
 EXPECTED_CROPS = [49, 58, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 76, 77, 78,
                   82, 83, 84, 85, 86, 98, 109, 116, 120, 121]
 NO_CALC = "«tidak ada hitungan di halaman ini»"
+TRANSLATION_B01 = {"SAMPUL", "M01", "M02", "M03", "M04", "M05"}
 LAYERS = [
     "1. Arab",
     "2. Latin",
@@ -126,6 +127,17 @@ class MarkdownStructureTests(unittest.TestCase):
         for uid, _h, block in self.pilot_blocks:
             integrated = integrated_by_id[uid]
             pilot = block.strip()
+            if uid in TRANSLATION_B01:
+                # Total-translation Batch 01 later rewrote only Lapis 3 for
+                # SAMPUL and M01-M05.  Every other rendered part must remain
+                # exactly the historical pilot block.
+                self.assertEqual(
+                    without_layer(integrated, LAYERS[2]),
+                    without_layer(pilot, LAYERS[2]),
+                    uid,
+                )
+                self.assertNotEqual(integrated, pilot, uid)
+                continue
             if uid == "M58":
                 # Batch M16-M64 later refined only M58's Khususiyah layer;
                 # every other part must remain byte-identical to the pilot.
@@ -308,12 +320,27 @@ class MarkdownStructureTests(unittest.TestCase):
         final_batch = {}
         if final_path.exists():
             final_batch = json.loads(final_path.read_text(encoding="utf-8"))["units"]
-        later_units = batch_units | set(batch2) | set(final_batch)
+        translation_path = ALQ / "overrides_terjemahan_total_batch01.json"
+        translation = {}
+        if translation_path.exists():
+            translation = json.loads(
+                translation_path.read_text(encoding="utf-8")
+            )["units"]
+        later_units = batch_units | set(batch2) | set(final_batch) | set(translation)
         for uid in order:
             base = baseline[uid]
             current = integrated[uid]
             if uid not in expected_units:
-                if uid in later_units:
+                if uid in translation:
+                    for key, value in base.items():
+                        if key != "terjemahan":
+                            self.assertEqual(current[key], value, (uid, key))
+                    self.assertEqual(
+                        current["terjemahan"],
+                        translation[uid]["terjemahan"],
+                        uid,
+                    )
+                elif uid in later_units:
                     for key, value in base.items():
                         if key not in change_keys:
                             self.assertEqual(current[key], value, (uid, key))
@@ -586,10 +613,27 @@ class MarkdownStructureTests(unittest.TestCase):
             final_units = set(
                 json.loads(final_path.read_text(encoding="utf-8"))["units"]
             )
+        translation_path = ALQ / "overrides_terjemahan_total_batch01.json"
+        translation = {}
+        if translation_path.exists():
+            translation = json.loads(
+                translation_path.read_text(encoding="utf-8")
+            )["units"]
         change_keys = {"metode", "catatan_penyunting", "khususiyah"}
         for uid in order:
             if uid not in expected_units:
-                if uid in final_units:
+                if uid in translation:
+                    for key, value in baseline[uid].items():
+                        if key != "terjemahan":
+                            self.assertEqual(
+                                integrated[uid][key], value, (uid, key)
+                            )
+                    self.assertEqual(
+                        integrated[uid]["terjemahan"],
+                        translation[uid]["terjemahan"],
+                        uid,
+                    )
+                elif uid in final_units:
                     for key, value in baseline[uid].items():
                         if key not in change_keys:
                             self.assertEqual(
@@ -772,9 +816,27 @@ class MarkdownStructureTests(unittest.TestCase):
         }
         order = ["SAMPUL"] + [f"M{i:02d}" for i in range(1, 123)]
         self.assertEqual(set(integrated), set(order))
+        translation_path = ALQ / "overrides_terjemahan_total_batch01.json"
+        translation = {}
+        if translation_path.exists():
+            translation = json.loads(
+                translation_path.read_text(encoding="utf-8")
+            )["units"]
         for uid in order:
             if uid not in expected_units:
-                self.assertEqual(integrated[uid], baseline[uid], uid)
+                if uid in translation:
+                    for key, value in baseline[uid].items():
+                        if key != "terjemahan":
+                            self.assertEqual(
+                                integrated[uid][key], value, (uid, key)
+                            )
+                    self.assertEqual(
+                        integrated[uid]["terjemahan"],
+                        translation[uid]["terjemahan"],
+                        uid,
+                    )
+                else:
+                    self.assertEqual(integrated[uid], baseline[uid], uid)
 
         change_keys = {"metode", "catatan_penyunting", "khususiyah"}
         for uid in sorted(expected_units):
@@ -838,6 +900,61 @@ class MarkdownStructureTests(unittest.TestCase):
             )
         )
         self.assertIn("delapan posisi ṭā’", integrated["M71"]["khususiyah"]["media"])
+
+    def test_translation_total_batch01_is_terjemahan_only(self):
+        override_path = ALQ / "overrides_terjemahan_total_batch01.json"
+        payload = json.loads(override_path.read_text(encoding="utf-8"))
+        batch = payload["units"]
+        self.assertEqual(set(batch), TRANSLATION_B01)
+        for uid, entry in batch.items():
+            self.assertEqual(set(entry), {"dasar", "terjemahan"}, uid)
+            self.assertGreaterEqual(len(entry["dasar"]), 60, uid)
+
+        pilot_path = ALQ / "work/pilot_units.json"
+        integrated_path = ALQ / "work/integrated_units.json"
+        if not (pilot_path.exists() and integrated_path.exists()):
+            self.skipTest("ignored work JSON not present in this checkout")
+        pilot = {
+            u["unit_id"]: u
+            for u in json.loads(pilot_path.read_text(encoding="utf-8"))
+        }
+        integrated = {
+            u["unit_id"]: u
+            for u in json.loads(integrated_path.read_text(encoding="utf-8"))
+        }
+        # The six Batch-01 units are historical pilot units and no selective or
+        # semantic Lapis-4/5 batch targets them.  Their pre-Batch-01 integrated
+        # records are therefore exactly the pilot records, so this comparison
+        # proves the translation stage changed Lapis 3 and nothing else.
+        for uid in TRANSLATION_B01:
+            base = pilot[uid]
+            current = integrated[uid]
+            self.assertEqual(
+                current["terjemahan"], batch[uid]["terjemahan"], uid
+            )
+            self.assertEqual(
+                len(current["terjemahan"]), len(base["terjemahan"]), uid
+            )
+            self.assertEqual(len(current["arab"]), len(current["latin"]), uid)
+            self.assertEqual(
+                len(current["terjemahan"]), len(current["arab"]), uid
+            )
+            for key, value in base.items():
+                if key != "terjemahan":
+                    self.assertEqual(current[key], value, (uid, key))
+            label = "[CATATAN PENERJEMAH"
+            self.assertEqual(
+                " ".join(current["terjemahan"]).count(label),
+                " ".join(base["terjemahan"]).count(label),
+                uid,
+            )
+        self.assertEqual(integrated["SAMPUL"]["crop_page"], None)
+        self.assertTrue(
+            integrated["M01"]["terjemahan"][3].startswith("yang menerangi relung")
+        )
+        self.assertIn("al-jadīdān", integrated["M03"]["terjemahan"][5])
+        self.assertIn("di dunia dan di akhirat", integrated["M04"]["terjemahan"][7])
+        self.assertIn("intisyāt", integrated["M05"]["terjemahan"][3])
 
 
 class IntegratedDocxTests(unittest.TestCase):

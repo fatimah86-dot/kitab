@@ -1,6 +1,6 @@
 # AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL
 
-> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari paket unggahan 2026-10-28; batch semantik M16–M64, M06–M15/M72–M121, dan batch terakhir M68/M70/M71 telah dikurasi setingkat pilot (catatan dipilih dari catatan lama, Khususiyah tingkat frasa, stub/kontradiksi Metode yang terbukti dikoreksi), sehingga seluruh 123 unit telah masuk pilot atau salah satu batch semantik. Crop wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.
+> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari paket unggahan 2026-10-28; batch semantik M16–M64, M06–M15/M72–M121, dan batch terakhir M68/M70/M71 telah dikurasi setingkat pilot (catatan dipilih dari catatan lama, Khususiyah tingkat frasa, stub/kontradiksi Metode yang terbukti dikoreksi), sehingga seluruh 123 unit telah masuk pilot atau salah satu batch semantik. Revisi total terjemahan bergaya Anwar telah dimulai dengan Batch 01 untuk SAMPUL dan M01–M05 (hanya Lapis 3 yang ditulis ulang; Arab/Latin dipertahankan). Crop wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.
 
 > Dokumen ini adalah revisi terjemahan dokumenter. Metode yang dinisbatkan kepada penulis kitab tidak disajikan sebagai anjuran, terapi, atau jaminan hasil, dan bukan pengganti penanganan medis.
 
@@ -47,19 +47,19 @@ Muhammad Saamii Muhammad Ahmad.
 
 ### 3. Terjemahan
 
-Al-Qarin dan latihan-latihan ruhani.
+Al-Qarin dan Riyadhah-Riyadhah Ruhaniyah.
 
-Karangan guru besar:
+Karya Ustaz Besar:
 
 Muhammad Sami Muhammad Ahmad.
 
-Anggota Persatuan Internasional para ahli falak ruhani.
+Anggota Persatuan Dunia para Ahli Falak Ruhaniyah,
 
-Kantor pusat: Paris.
+yang berkedudukan di Paris.
 
 Penerbit:
 
-Dar al-Fikr wa al-Tsaqafah.
+Dār al-Fikr wa ats-Tsaqāfah (Rumah Pemikiran dan Kebudayaan).
 
 Muhammad Sami Muhammad Ahmad.
 
@@ -125,25 +125,25 @@ Wa taqarraba bimahdhi althaafi 'inaayati rahmatihi bikhudhuu'i khusyuu'il munaaj
 
 Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.
 
-Pendahuluan.
+Muqaddimah (Pendahuluan).
 
-Segala puji bagi Allah yang mengangkat hijab-hijab penutup rahasia dari hakikat-hakikat pandangan batin orang-orang yang didekatkan.
+Segala puji bagi Allah yang menyingkapkan tabir-tabir penutup rahasia dari hakikat mata batin orang-orang yang didekatkan kepada-Nya (al-muqarrabīn);
 
-Dan Dia menerangi relung hati para arif dengan cahaya petunjuk keimanan.
+yang menerangi relung (misykāt) hati para ‘ārif dengan cahaya petunjuk yang berdasar iman;
 
-Dan Dia melapangkan bagian-bagian terdalam dada para ahli tahkik dengan rahasia karunia rabbani.
+yang melapangkan batin dada para muḥaqqiq (ahli tahqiq) dengan rahasia anugerah-anugerah rabbani;
 
-Dan Dia memabukkan inti ruh para pencinta dengan kemurnian cinta-Nya yang murni.
+yang memabukkan permata ruh para pecinta dengan sari murni cinta-Nya;
 
-Dan Dia membimbing perjalanan maqam-maqam orang-orang ikhlas menuju sarana yang paling dekat.
+yang menunjuki perjalanan (sulūk) maqam-maqam orang-orang yang ikhlas kepada perantara yang paling dekat;
 
-Dan Dia meneguhkan kaki-kaki para salik di atas jalan hakikat.
+yang meneguhkan langkah para sālik di atas jalan hakikat;
 
-Dan Dia menaikkan wujud-wujud pikiran orang-orang yang mendapat petunjuk ke mimbar-mimbar hikmah bercahaya.
+yang mengangkat hakikat pikiran orang-orang yang memperoleh petunjuk ke mimbar-mimbar hikmah yang bercahaya;
 
-Dan Dia menyenangkan inti akal orang-orang yang dididik di taman kebun hadirat kesucian keakraban-Nya.
+yang menenangkan inti akal para mutarabbī (orang-orang yang dibina) di taman hadirat kesucian dan keintiman-Nya;
 
-Dan Dia mendekat dengan kemurnian kelembutan pemeliharaan rahmat-Nya, dengan ketundukan kekhusyukan orang-orang yang bermunajat.
+dan yang mendekat—dengan kemurnian kelembutan perhatian rahmat-Nya—kepada ketundukan dan kekhusyukan orang-orang yang bermunajat.
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -185,9 +185,9 @@ Wattashafa bi'izzatillaahish shamadiyyati wa tanazzaha 'an syabahil mulhidiin.
 
 ### 3. Terjemahan
 
-Dialah yang tersendiri dengan rahasia keesaan dan tunggal dengan perwujudan hakikat keesaan.
+Dialah yang tunggal dengan rahasia Keesaan (al-waḥdāniyyah) dan esa dalam mewujudkan hakikat Keesaan (al-aḥadiyyah);
 
-Dan Dia bersifat dengan kemuliaan Allah yang bersifat shamadiyyah serta Mahasuci dari keserupaan dengan orang-orang yang menyimpang.
+yang bersifat dengan kemuliaan Allah Yang Ṣamadiyyah (tempat segala sesuatu bergantung) dan Mahasuci dari segala keserupaan yang dibayangkan oleh orang-orang yang menyimpang (al-mulḥidīn).
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -253,21 +253,21 @@ Fa'ajabtuhum ilaa dzaalika ijaabata man watsiqa bihabli maulaahu fii sirri sirri
 
 ### 3. Terjemahan
 
-Yang—hubungan kata «من» dengan “serambi penciptaan” belum pasti—menurut perbedaan fase-fase maqam orang-orang yang menuju-Nya.
+yang—kata «man/min» sebelum “serambi penciptaan” belum dapat ditetapkan bacaannya—sesuai dengan perbedaan tingkatan maqam para pencari (al-qāṣidīn).
 
-Dan Dia membentangkan medan penetapan hukum dengan kejernihan permata napas ruh-ruh orang yang mantap; Yang Mahakuasa, yang menandai kekuasaan akal dengan «بية» ketidakmampuan [makna penghubung belum pasti], dan membungkam kefasihan lidah-lidah dengan tangan keperkasaan.
+Dia membentangkan arena penetapan (at-taḥkīm) dengan kejernihan permata embusan ruh orang-orang yang telah mantap. Dialah Yang Mahakuasa, yang menandai kekuasaan akal dengan «bīyah» kelemahan [kata penghubung ini belum pasti] dan membungkam kefasihan lidah-lidah dengan tangan keperkasaan-Nya.
 
-Aku memuji-Nya dengan pujian orang-orang yang didekatkan, beriman dengan iman para arif, dan menempuh petunjuk para murid.
+Aku memuji-Nya dengan pujian al-muqarrabīn, beriman dengan iman para ‘ārif, dan mengikuti petunjuk para murid.
 
-Aku bersaksi bahwa tiada tuhan selain Allah semata, tiada sekutu bagi-Nya; suatu kesaksian dariku. Dengan kehambaan kepada-Nya, pengabdianku tertuju kepada-Nya [hubungan frasa belum mantap]. Aku bersandar kepada-Nya dalam perbuatan dan ucapanku.
+Aku bersaksi bahwa tidak ada tuhan selain Allah semata, tanpa sekutu bagi-Nya. Itulah kesaksianku: dengan kehambaan kepada-Nya aku mengabdikan diriku untuk-Nya [susunan frasa kehambaan ini belum mantap], dan kepada-Nya aku bersandar dalam segala perbuatan dan perkataanku.
 
-Aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya yang Dia pilih dari permata para rasul, sari cahaya para siddiq, hakikat segala hakikat para syuhada, serta kelembutan rahasia orang-orang saleh.
+Aku bersaksi bahwa Muhammad adalah hamba dan Rasul-Nya, yang dipilih-Nya dari permata para rasul, intisari cahaya para ṣiddīqīn, hakikat dari segala hakikat para syuhada, dan kelembutan rahasia orang-orang saleh.
 
-Semoga Allah melimpahkan shalawat kepadanya; “para pembawa Al-Qur’an, dan kedua yang selalu baru silih berganti” [susunan penutup doa belum mantap].
+Semoga Allah melimpahkan salawat atas beliau … para pembawa Al-Qur’an … dan silih bergantinya siang dan malam (al-jadīdān) [susunan penutup salawat ini belum mantap].
 
-Selanjutnya, sekelompok pencinta yang tulus dan orang-orang ikhlas yang murni menghendaki agar aku menjelaskan cara riyadhah dan pembinaan rahasianya dalam «اصوال» segala yang ada [makna kata ini belum ditetapkan], serta apa rahasia permulaan dan kesudahannya.
+Wa ba‘du (selanjutnya): sekelompok pecinta yang tulus dan orang-orang mukhlis yang murni meminta agar aku menjelaskan kepada mereka tata cara riyadhah, pembinaan rahasia-rahasianya dalam «aṣwāl» segala maujud [kata ini belum ditetapkan], serta rahasia awal dan akhir riyadhah itu.
 
-Maka kupenuhi permintaan itu sebagaimana orang yang percaya pada tali Tuannya, dalam rahasia terdalamnya, keterbukaannya, dan bisikannya, setelah aku menjadikan penghambaan kerendahan diri sebagai penjelasan istikharah.
+Maka aku memenuhi permintaan mereka seperti orang yang berpegang pada tali Tuannya—dalam rahasia batinnya, keterbukaannya, dan bisikan munajatnya—setelah aku menjadikan penghambaan yang merendah sebagai keterangan istikharahku.
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -359,23 +359,23 @@ Muhammad Saamii Muhammad Ahmad.
 
 ### 3. Terjemahan
 
-Maka Dia melimpahkan kepadaku, dari cahaya-cahaya rahmat-Nya, penerimaan atas permohonan itu, dan menyingkapkan bagiku rahasia pintu-pintu kembali kepada-Nya.
+Lalu Dia melimpahkan kepadaku—dari cahaya rahmat-Nya—diterimanya permohonan itu, dan menyingkapkan bagiku rahasia pintu-pintu inābah (kembali kepada Allah).
 
-“Atas/pada Tuhan para ulama terdahulu, para imam, dan orang-orang yang mendapat petunjuk; semoga Allah meridai mereka.” Hubungan susunan pembuka frasa ini dengan kalimat sebelumnya belum mantap.
+«‘alā rabbi al-‘ulamā’ al-mutaqaddimīn» [susunan frasa ini belum mantap], para imam, dan orang-orang yang mendapat petunjuk—semoga Allah meridai mereka.
 
-Mereka menyebutkan hal itu melalui beragam contoh dan perbedaan tahap bentuk-bentuk susunan, tetapi tidak menempatkan di dalamnya cahaya-cahaya dari zikir-zikir.
+Para ulama terdahulu menyebutkan persoalan itu dalam bermacam-macam contoh dan perbedaan tingkatan susunan (al-abniyah), tetapi tidak menitipkan di dalamnya cahaya-cahaya zikir.
 
-Kemudian mereka menyebutkan pentahapan menurut ukuran-ukuran neraca, tetapi tidak mengingatkan tentang cara berjaga terhadap terganggunya indra-indra.
+Kemudian mereka menyebutkan penahapan (at-tadrīj) menurut timbangan neraca (al-qisṭās), tetapi tidak mengingatkan cara menjaga diri dari terganggunya pancaindra.
 
-Sesungguhnya aku menyajikan latihan-latihan ruhani ini, yang menurut pernyataanku tidak mempunyai tandingan, sebagai pelayanan bagi orang-orang beriman di setiap tempat. Allah-lah pemberi taufik.
+Sesungguhnya aku menyajikan riyadhah-riyadhah ruhaniyah ini—yang tidak ada tandingannya—sebagai khidmah bagi kaum mukmin di mana pun berada. Allah-lah Pemberi taufik.
 
-Aku memohon kepada Allah agar Dia menerima kitab ini beserta isinya dengan penerimaan yang baik.
+Aku memohon kepada Allah agar Dia menerima kitab ini beserta seluruh isinya dengan penerimaan yang baik.
 
-Dan sesungguhnya aku—dan aku memohon kepada Allah—agar Dia menerimaku di sisi-Nya dan menerima amal ini dari seorang hamba yang fakir kepada Sang Tuan Yang Mahaagung.
+Dan sungguh aku—aku memohon kepada Allah—agar Dia menerimaku di sisi-Nya dan menerima karya ini dari hamba yang fakir kepada Maulā Yang Mahaagung.
 
-Siapa yang hendak mencapai tujuan, hendaklah ia memulai dengan membaca Al-Fatihah untuk junjungan kita Muhammad, keluarga beliau, dan pengarang. Segala puji bagi Allah pada kehidupan pertama dan kehidupan akhir.
+Barang siapa ingin sampai kepada maksud yang dituju, hendaklah ia memulai dengan membaca al-Fātiḥah bagi junjungan kita Muhammad, keluarga beliau (Āl al-Bait), dan penulis. Segala puji bagi Allah di awal dan di akhir (di dunia dan di akhirat).
 
-Pengarang:
+Penulis:
 
 Muhammad Sami Muhammad Ahmad.
 
@@ -465,23 +465,23 @@ Alqismul awwalu: immaa an yaqdhiya bihi 'amalahu likhtilaalil hawaassi fa yukhil
 
 Bab Pertama
 
-Riyadhah besar — judul cetak secara harfiah berbunyi ‘ar-riyadhiyyat al-kubra’.
+Riyadhah-Riyadhah Besar [judul cetak: ar-Riyāḍiyyāt al-Kubrā].
 
-Ketahuilah, wahai pencari, bahwa menjalankan syariat-syariat kenabian beserta suatu himpunan hikmah kelembutan rabbani merupakan bala tentaranya di antara bagian-bagian dalammu.
+Ketahuilah, wahai penuntut (aṭ-ṭālib), bahwa menegakkan syariat-syariat Nabi beserta himpunan hikmah dari kelembutan-kelembutan rabbani adalah tentara-Nya yang berada di dalam batinmu.
 
-Dan bahwa alam yang fana tidak mempunyai hubungan dengannya—demikian susunan ‘lahaa bihi’ dalam sumber—dan bukan pula demi ringannya ‘intisyaat’, agar hatinya menjadi tenang dengan angan-angan pencarian. Makna kata ‘intisyaat’ dan kaitan keseluruhan frasa ini belum mantap.
+Dan bahwa alam yang fana ini tidak mempunyai hubungan dengannya [susunan «lahā bihi» dipertahankan dari sumber], dan bukan pula karena ringannya «intisyāt» [istilah ini belum mantap], supaya hatinya tenang oleh bayangan pencarian.
 
-Dan hendaklah ia menenangkan sisi-sisi tekadnya dari kesewenang-wenangan pelarian. Penutupnya berbunyi ‘litakun takuunu al-imaarata amruhu’; secara leksikal memuat ‘agar/hendaklah menjadi’, ‘kepemimpinan’, dan ‘urusannya’, tetapi hubungan gramatikalnya belum dapat ditetapkan.
+Hendaklah ia menenangkan sisi-sisi tekadnya dari kezaliman pelarian (al-harab). Penutup kalimatnya berbunyi «li-takun takūna al-imārata amruhu»; hubungan gramatikalnya belum dapat ditetapkan.
 
-Dan ketekunan menghendakinya bersifat menguasai dan menundukkan. Hal itu disebabkan oleh dua sebab.
+Apabila kehendak itu ditekuni terus-menerus, ia menjadi kuasa yang mengalahkan dan menundukkan. Hal itu terjadi karena dua sebab.
 
-Yang pertama ialah akalnya terhijab oleh syahwat-syahwat. Yang lainnya ialah imannya terhijab di bawah pelanggaran-pelanggaran.
+Pertama, akalnya terhijab oleh syahwat. Kedua, imannya terhijab di bawah pelanggaran-pelanggaran.
 
-Apabila mata batin akal menjadi buta untuk menyaksikan ruh-ruh iman, jiwa tetap terhijab dari kedua cahaya dan kosong dari kedua rahasia.
+Apabila mata batin akal telah buta dari menyaksikan ruh-ruh iman, jiwa tetap terhijab dari dua cahaya dan hampa dari dua rahasia.
 
-Lalu ia memasuki medan riyadhah dengan kesungguhan penuh dan upaya sekuat-kuatnya; kemudian keadaannya terbagi menjadi tiga golongan.
+Lalu ia memasuki gelanggang riyadhah dengan kesungguhan maksimal dan jerih payah tertinggi. Keadaannya kemudian terbagi atas tiga golongan.
 
-Golongan pertama: adakalanya ia menuntaskan amalnya dengannya dalam keadaan indra-indranya terganggu, sehingga ia melalaikan amal-amal syariat dan tugas-tugas rabbani, serta menganggap hal itu lebih utama. Orang demikian, menurut penulis, tidak lagi dibukakan jalan dalam amal-amal lainnya sesudah itu.
+Golongan pertama: adakalanya amalnya ia tuntaskan dalam keadaan pancaindranya terganggu, sampai ia meremehkan amal-amal syariat dan kewajiban-kewajiban rabbani, bahkan menganggap keadaan itu lebih utama. Menurut penulis, orang seperti ini tidak akan dibukakan (jalan) dalam amal-amal lain sesudah itu.
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 

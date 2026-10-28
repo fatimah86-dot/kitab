@@ -549,6 +549,65 @@ for uid in order:
     if current["khususiyah"] != expected_khususiyah:
         fail_final(f"{uid}: Khususiyah differs beyond the declared override")
 
+# --- Total translation revision, Batch 01: SAMPUL, M01-M05 ------------------
+# This user-ordered phase follows the Anwar translation style.  Batch 01 may
+# rewrite only Lapis 3.  It was scan-checked against the cover and printed
+# pages 2-5, but no Arab/Latin correction was sufficiently certain to replace
+# the canonical layers, so both remain byte-identical here.  Paragraph counts
+# and translator labels are hard guards; Lapis 4/5 and all graphic data are
+# protected.
+translation_path = ROOT / "al_qorin/overrides_terjemahan_total_batch01.json"
+translation_data = json.loads(translation_path.read_text(encoding="utf-8"))
+translation_units = translation_data["units"]
+expected_translation_units = ["SAMPUL", "M01", "M02", "M03", "M04", "M05"]
+
+
+def fail_translation(message):
+    raise SystemExit(f"translation batch01 validation: {message}")
+
+
+if list(translation_units) != expected_translation_units:
+    fail_translation("targets must be exactly SAMPUL, M01, M02, M03, M04, M05")
+
+pre_translation = copy.deepcopy(revised)
+for uid, entry in translation_units.items():
+    if set(entry) != {"dasar", "terjemahan"}:
+        fail_translation(f"{uid}: Batch 01 may declare only dasar + terjemahan")
+    if not isinstance(entry["dasar"], str) or len(entry["dasar"]) < 60:
+        fail_translation(f"{uid}: dasar must record the scan/style basis")
+    baseline = pre_translation[uid]
+    replacement = entry["terjemahan"]
+    if (
+        not isinstance(replacement, list)
+        or not replacement
+        or any(not isinstance(x, str) or not x.strip() for x in replacement)
+    ):
+        fail_translation(f"{uid}: terjemahan must be a non-empty string list")
+    if len(replacement) != len(baseline["terjemahan"]):
+        fail_translation(f"{uid}: Terjemahan paragraph count changed")
+    if len(baseline["arab"]) != len(baseline["latin"]) or len(replacement) != len(baseline["arab"]):
+        fail_translation(f"{uid}: Lapis 1-3 paragraph alignment is not 1:1:1")
+    label = "[CATATAN PENERJEMAH"
+    if " ".join(replacement).count(label) != " ".join(baseline["terjemahan"]).count(label):
+        fail_translation(f"{uid}: translator-label count changed")
+    changed = dict(baseline)
+    changed["terjemahan"] = list(replacement)
+    revised[uid] = changed
+
+for uid in order:
+    baseline = pre_translation[uid]
+    current = revised[uid]
+    if uid not in translation_units:
+        if current != baseline:
+            fail_translation(f"{uid}: spill outside Batch 01")
+        continue
+    for key, value in baseline.items():
+        if key == "terjemahan":
+            if current[key] != translation_units[uid]["terjemahan"]:
+                fail_translation(f"{uid}: Terjemahan differs from Batch 01 payload")
+        elif current[key] != value:
+            fail_translation(f"{uid}: protected field changed: {key}")
+
 units = [revised[uid] for uid in order]
 (work / "integrated_units.json").write_text(json.dumps(units, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -571,7 +630,9 @@ md = ["# AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL", "",
       "paket unggahan 2026-10-28; batch semantik M16–M64, M06–M15/M72–M121, dan batch "
       "terakhir M68/M70/M71 telah dikurasi setingkat pilot (catatan dipilih dari catatan "
       "lama, Khususiyah tingkat frasa, stub/kontradiksi Metode yang terbukti dikoreksi), "
-      "sehingga seluruh 123 unit telah masuk pilot atau salah satu batch semantik. Crop "
+      "sehingga seluruh 123 unit telah masuk pilot atau salah satu batch semantik. Revisi "
+      "total terjemahan bergaya Anwar telah dimulai dengan Batch 01 untuk SAMPUL dan "
+      "M01–M05 (hanya Lapis 3 yang ditulis ulang; Arab/Latin dipertahankan). Crop "
       "wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis "
       "kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), "
       "M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.", "",
@@ -589,5 +650,6 @@ print(
     f"batch_m16_m64={len(batch_units)} "
     f"batch_m06_m15_m72_m121={len(batch2_units)} "
     f"batch_final_m68_m70_m71={len(final_units)} "
+    f"terjemahan_total_b01={len(translation_units)} "
     f"crops={sum(bool(u['crop_page']) for u in units)}"
 )

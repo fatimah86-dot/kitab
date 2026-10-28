@@ -99,9 +99,10 @@ hasil, dan bukan pengganti penanganan medis.
    penghapusan, manifest/hash crop pengguna, substitusi pilot, batas sempit
    override selektif pasca-pilot, DOCX terintegrasi, preview,
    arah/alignment XML, tabel, media, dan embedding font. Test lama Anwar
-   tetap dijalankan; seluruh 22 test lulus sesudah integrasi selektif,
+   tetap dijalankan; seluruh 23 test lulus sesudah integrasi selektif,
    amandemen lapis kondisional, batch semantik M16–M64, batch semantik
-   M06–M15/M72–M121, dan batch terakhir M68/M70/M71.
+   M06–M15/M72–M121, batch terakhir M68/M70/M71, serta Batch 01 revisi
+   total terjemahan SAMPUL/M01–M05.
 9. **Amandemen lapis kondisional + arsip unggahan M65** (2026-10-28): sesuai
    keputusan pengguna, SAMPUL kini tampil 3 lapis (empat catatan sampul
    dipindah ke akhir Lapis 3), M01 (Muqodimah) dan M122 (Khatimah) tampil
@@ -150,20 +151,41 @@ hasil, dan bukan pengganti penanganan medis.
     deskripsi transparan rajah sesudahnya dipertahankan byte-identik.
     Dengan batch ini seluruh 123 unit telah masuk pilot atau salah satu
     batch semantik Lapis 4/5. Rincian: `CATATAN_BATCH_TERAKHIR_M68_M70_M71.md`.
+13. **Audit total + Batch 01 revisi total terjemahan bergaya Anwar**
+    (2026-10-28): menindaklanjuti penilaian pengguna bahwa terjemahan masih
+    belum sempurna, seluruh 123 unit diaudit lebih dahulu lewat
+    `scripts/al_qorin_audit_translation.py` menjadi
+    `AUDIT_REVISI_TOTAL_TERJEMAHAN_123.md`. Audit menemukan 45 penanda
+    “tidak disalin penuh” pada 27 unit, 85 elipsis, 25 label penerjemah, dan
+    26 unit crop yang seluruhnya harus dipertahankan. Adaptasi gaya dokumen
+    Anwar yang ditunjuk pengguna dirumuskan di
+    `PANDUAN_REVISI_TOTAL_TERJEMAHAN_AL_QORIN.md` tanpa mengimpor ceramah
+    Syarah atau hitungan yang dilarang standar Al-Qorin. Batch 01
+    (`overrides_terjemahan_total_batch01.json`) menulis ulang hanya Lapis 3
+    SAMPUL dan M01–M05 sesudah render sampul serta halaman cetak 2–5 dari
+    PDF asli diperiksa; Arab/Latin dan Lapis 4/5 tetap byte-identik karena
+    tidak ada koreksi pindaian yang cukup pasti. Rincian:
+    `CATATAN_BATCH_TERJEMAHAN_TOTAL_01.md`.
 
 ## Yang belum selesai
 
 - Tidak ada lagi unit yang menunggu batch semantik Lapis 4/5: seluruh 123
-  unit telah masuk pilot atau salah satu batch semantik. Batas kejujuran
+  unit telah masuk pilot atau salah satu batch semantik. Namun **revisi
+  total terjemahan belum khatam**: baru SAMPUL dan M01–M05 yang selesai pada
+  Batch 01; 117 unit lain menunggu Batch 02–08 sesuai
+  `AUDIT_REVISI_TOTAL_TERJEMAHAN_123.md`, dimulai dari M06–M15. Batas kejujuran
   tetap berlaku: pemeriksaan Penentuan Jam terhadap Arab serta pindai
   halaman bersifat dokumenter dan tidak mengarang hitungan; selisih bacaan
   M104 dan M107 sengaja belum dipakai untuk mengganti Lapis 1–3. Semua
   batch semantik tidak menerjemahkan ulang Lapis 1–3, tidak menggambar
   ulang rajah, dan tidak menulis ulang ringkasan Metode draf selain stub/
   kontradiksi yang terbukti pada daftar izin masing-masing batch.
-- Pemetaan halaman cetak individual M01–M04 belum dibuktikan; tidak ada crop
-  pada rentang itu. Untuk M05–M121 nomor unit sama dengan halaman cetak, dan
-  M122 adalah penutup tanpa nomor terbaca.
+- Render pembuka dari PDF asli memperlihatkan M01–M02 pada halaman cetak 2,
+  M03 pada halaman cetak 3, dan M04 pada halaman cetak 4; metadata `page`
+  pada data kerja untuk rentang itu belum diubah agar tidak menimbulkan
+  perubahan bidang di luar izin batch. Tidak ada crop pada rentang itu.
+  Untuk M05–M121 nomor unit sama dengan halaman cetak, dan M122 adalah
+  penutup tanpa nomor terbaca.
 - Proof visual di Microsoft Word/LibreOffice belum dilakukan di lingkungan
   ini; verifikasi DOCX saat ini berbasis python-docx dan inspeksi XML/paket.
 - Tidak ada berkas hasil yang diunggah kembali ke Google Drive dan tidak ada
