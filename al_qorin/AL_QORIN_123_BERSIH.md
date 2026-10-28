@@ -1,0 +1,4855 @@
+# AL-QORIN WAR RIYADHAH
+
+## SAMPUL
+
+### 1. Arab
+
+الْقَرِينُ وَالرِّيَاضَاتُ الرُّوحَانِيَّةُ
+
+تَأْلِيفُ الْأُسْتَاذِ الْكَبِيرِ
+
+مُحَمَّد سَامِي مُحَمَّد أَحْمَد
+
+عُضْوُ الِاتِّحَادِ الْعَالَمِيِّ لِلْفَلَكِيِّينَ الرُّوحَانِيِّينَ
+
+الْمَقَرُّ بَارِيس
+
+النَّاشِرُ
+
+دَارُ الْفِكْرِ وَالثَّقَافَةِ
+
+مُحَمَّد سَامِي مُحَمَّد أَحْمَد
+
+### 2. Latin
+
+Alqariinu war riyaadhaatur ruuhaaniyyah.
+
+Ta'liiful ustaadzil kabiir.
+
+Muhammad Saamii Muhammad Ahmad.
+
+'Udhwul ittihaadil 'aalamiyyi lil falakiyyinar ruuhaaniyyiin.
+
+Almaqarru Baariis.
+
+Annaasyir.
+
+Daarul fikri wats tsaqaafah.
+
+Muhammad Saamii Muhammad Ahmad.
+
+### 3. Terjemahan
+
+Al-Qarin dan Riyadhah-Riyadhah Ruhaniyah.
+
+Karya Ustaz Besar:
+
+Muhammad Sami Muhammad Ahmad.
+
+Anggota Persatuan Dunia para Ahli Falak Ruhaniyah,
+
+yang berkedudukan di Paris.
+
+Penerbit:
+
+Dār al-Fikr wa ats-Tsaqāfah (Rumah Pemikiran dan Kebudayaan).
+
+Muhammad Sami Muhammad Ahmad.
+
+### 4. Syarah
+
+Judul الرياضيات dalam teks diperbaiki editorial menjadi الرياضات, berdasarkan pemakaian berulang رياضات/الرياضة dan uraian latihan dalam kiriman yang sama; bukan “matematika”. Bentuk asli tetap disimpan pada lapisan sumber.
+
+Gelar adalah teks sampul, bukan verifikasi gelar akademik.
+
+Nama diri tanpa akhiran kasus/tanwin rekaan; سامى/احمد dinormalisasi ejaan menjadi سامي/أحمد.
+
+Organisasi/lokasi belum diverifikasi.
+
+## M01 — PARAGRAF PUJIAN PERTAMA
+
+### 1. Arab
+
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+
+مُقَدِّمَةٌ
+
+الْحَمْدُ لِلَّهِ الَّذِي رَفَعَ حُجُبَ أَسْتَارِ الْأَسْرَارِ عَنْ حَقَائِقِ بَصَائِرِ الْمُقَرَّبِينَ
+
+وَنَوَّرَ بِنُورِ الْهِدَايَةِ الْإِيمَانِيَّةِ مِشْكَاةَ قُلُوبِ الْعَارِفِينَ
+
+وَشَرَحَ بِسِرِّ الْمَوَاهِبِ الرَّبَّانِيَّةِ بَوَاطِنَ صُدُورِ الْمُحَقِّقِينَ
+
+وَأَسْكَرَ مِنْ خَالِصِ صِرْفِ مَحَبَّتِهِ جَوَاهِرَ أَرْوَاحِ الْمُحِبِّينَ
+
+وَهَدَى إِلَى أَقْرَبِ وَسِيلَةٍ سُلُوكَ مَقَامَاتِ الْمُخْلِصِينَ
+
+وَثَبَّتَ عَلَى صِرَاطِ الْحَقِيقَةِ أَقْدَامَ السَّالِكِينَ
+
+وَرَقَّى عَلَى مَنَابِرِ الْحِكَمِ النُّورَانِيَّةِ ذَوَاتِ أَفْكَارِ الْمُهْتَدِينَ
+
+وَنَزَّهَ فِي حَدِيقَةِ رِيَاضِ حَضْرَةِ قُدْسِ أُنْسِهِ لُبَابَ عُقُولِ الْمُتَرَبِّينَ
+
+وَتَقَرَّبَ بِمَحْضِ أَلْطَافِ عِنَايَةِ رَحْمَتِهِ بِخُضُوعِ خُشُوعِ الْمُنَاجِينَ
+
+### 2. Latin
+
+Bismillaahir rahmaanir rahiim.
+
+Muqaddimah.
+
+Alhamdulillahil ladzii rafa'a hujuba astaaril asraari 'an haqaa'iqi bashaa'iril muqarrabiin.
+
+Wa nawwara binuuril hidaayatil iimaaniyyati misykaata quluubil 'aarifiin.
+
+Wa syaraha bisirril mawaahibir rabbaaniyyati bawaathina shuduuril muhaqqiqiin.
+
+Wa askara min khaalishi shirfi mahabbatihi jawaahira arwaahil muhibbiin.
+
+Wa hadaa ilaa aqrabi wasiilatin suluuka maqaamaatil mukhlishiin.
+
+Wa tsabbata 'alaa shiraathil haqiiqati aqdaamas saalikiin.
+
+Wa raqqaa 'alaa manaabiril hikamin nuuraaniyyati dzawaati afkaaril muhtadiin.
+
+Wa nazzaha fii hadiiqati riyaadhi hadhrati qudsi unsihi lubaaba 'uquulil mutarabbiin.
+
+Wa taqarraba bimahdhi althaafi 'inaayati rahmatihi bikhudhuu'i khusyuu'il munaajiin.
+
+### 3. Terjemahan
+
+Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.
+
+Muqaddimah (Pendahuluan).
+
+Segala puji bagi Allah yang menyingkapkan tabir-tabir penutup rahasia dari hakikat mata batin orang-orang yang didekatkan kepada-Nya (al-muqarrabīn);
+
+yang menerangi relung (misykāt) hati para ‘ārif dengan cahaya petunjuk yang berdasar iman;
+
+yang melapangkan batin dada para muḥaqqiq (ahli tahqiq) dengan rahasia anugerah-anugerah rabbani;
+
+yang memabukkan permata ruh para pecinta dengan sari murni cinta-Nya;
+
+yang menunjuki perjalanan (sulūk) maqam-maqam orang-orang yang ikhlas kepada perantara yang paling dekat;
+
+yang meneguhkan langkah para sālik di atas jalan hakikat;
+
+yang mengangkat hakikat pikiran orang-orang yang memperoleh petunjuk ke mimbar-mimbar hikmah yang bercahaya;
+
+yang menenangkan inti akal para mutarabbī (orang-orang yang dibina) di taman hadirat kesucian dan keintiman-Nya;
+
+dan yang mendekat—dengan kemurnian kelembutan perhatian rahmat-Nya—kepada ketundukan dan kekhusyukan orang-orang yang bermunajat.
+
+### 4. Syarah
+
+Teks berbunyi الرحيمة; bentuk الرحيم di sini koreksi bacaan formula basmalah dan kecocokan sifat, bukan klaim bahwa cetakan asli terbaca demikian.
+
+بصاير→بصائر modernisasi hamzah, bukan verifikasi nuqthah cetakan asli.
+
+Koreksi editorial بواطنى→بواطن menghapus ya akhir yang merusak idhafah dengan صدور; bukan menyatakan huruf kiriman tidak terbaca. Ini usulan koreksi, bukan penghapusan kata sumber.
+
+Usulan rangkaian قدسي انسة الباب→قدس أنسه لباب: menghapus ya berlebih, menormalkan hamzah dan dhamir ه, serta membaca لباب sebagai objek نزّه agar عقول menjadi mudhaf ilayh. Rangkaian ini usulan editorial yang lebih besar; tingkat kepastiannya terbatas, bukan fakta ejaan sumber.
+
+Usulan بخض→بمحض berdasarkan ungkapan maḥḍ kemurnian dan idhafah ألطاف; huruf mim dipulihkan dan kha dibaca ha.
+
+المناحين→المناجين usulan ح→ج: مناجين isim fa‘il III ناجى, orang bermunajat. Usulan ini dipilih dari bentuk teks dan qarinah khusyuk; bukan kepastian, bukan mengambil bacaan dari terjemahan lama.
+
+## M02 — LANJUTAN PUJIAN
+
+### 1. Arab
+
+وَهُوَ الَّذِي تَفَرَّدَ بِسِرِّ الْوَحْدَانِيَّةِ وَتَوَحَّدَ بِتَحْقِيقِ الْحَقِيقَةِ الْأَحَدِيَّةِ
+
+وَاتَّصَفَ بِعِزَّةِ اللَّهِ الصَّمَدِيَّةِ وَتَنَزَّهَ عَنْ شَبَهِ الْمُلْحِدِينَ
+
+### 2. Latin
+
+Wa huwal ladzii tafarrada bisirril wahdaaniyyati wa tawahhada bitahqiiqil haqiiqatil ahadiyyah.
+
+Wattashafa bi'izzatillaahish shamadiyyati wa tanazzaha 'an syabahil mulhidiin.
+
+### 3. Terjemahan
+
+Dialah yang tunggal dengan rahasia Keesaan (al-waḥdāniyyah) dan esa dalam mewujudkan hakikat Keesaan (al-aḥadiyyah);
+
+yang bersifat dengan kemuliaan Allah Yang Ṣamadiyyah (tempat segala sesuatu bergantung) dan Mahasuci dari segala keserupaan yang dibayangkan oleh orang-orang yang menyimpang (al-mulḥidīn).
+
+### 4. Syarah
+
+Usulan توجد→توحد (ج→ح) dan يتحقيق→بتحقيق (ي→ب), didukung kesejajaran tafarrada/tawaḥḥada dan kebutuhan ba pada mashdar.
+
+Harakat/arti adalah bacaan editorial yang dinyatakan, bukan menyebut teks tidak terbaca.
+
+الملحدين dipertahankan persis menurut teks, tidak diganti المحدثين atau diterjemahkan “makhluk”.
+
+Catatan tashih: kemunculan «صم» pada kata «الصمدية» bukan kata perintah, jadi tidak dihitung sebagai praktik.
+
+## M03 — SYAHADAT DAN ALASAN PENULISAN
+
+### 1. Arab
+
+الَّذِي من رِوَاقِ التَّكْوِينِ عَلَى اخْتِلَافِ أَطْوَارِ مَقَامَاتِ الْقَاصِدِينَ
+
+وَبَسَطَ سَاحَةَ التَّحْكِيمِ بِصَفَاءِ جَوَاهِرِ أَنْفَاسِ أَرْوَاحِ الْمُتَمَكِّنِينَ الْقَدِيرُ الَّذِي وَسَمَ سُلْطَانَ الْعَقْلِ بية الْعَجْزِ وَأَخْرَسَ فَصِيحَاتِ الْأَلْسُنِ بِيَدِ الْقَهْرِ
+
+أَحْمَدُهُ حَمْدَ الْمُقَرَّبِينَ وَأُؤْمِنُ إِيمَانَ الْعَارِفِينَ وَأَهْتَدِي هِدَايَةَ الْمُرِيدِينَ
+
+وَأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ شَهَادَةً مِنِّي بِرِقِّهِ عُبُودِيَّتِي إِلَيْهِ وَأَعْتَمِدُ فِي أَفْعَالِي وَأَقْوَالِي عَلَيْهِ
+
+وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ الَّذِي اخْتَارَهُ مِنْ جَوَاهِرِ الْمُرْسَلِينَ وَخُلَاصَةِ أَنْوَارِ الصِّدِّيقِينَ وَحَقِيقَةِ حَقَائِقِ الشُّهَدَاءِ وَلَطَائِفِ أَسْرَارِ الصَّالِحِينَ
+
+صَلَّى اللَّهُ عَلَيْهِ حَامِلِي الْقُرْآنِ وَتَعَاقَبَ الْجَدِيدَانِ
+
+وَبَعْدُ فَإِنَّ جَمَاعَةً مِنَ الْمُحِبِّينَ الصَّادِقِينَ وَالْمُخْلِصِينَ الْخَالِصِينَ رَغِبُوا أَنْ أُبَيِّنَ لَهُمْ كَيْفِيَّةَ الرِّيَاضَاتِ وَتَرْبِيَةَ أَسْرَارِهَا فِي اصوال الْمَوْجُودَاتِ وَمَا سِرُّ الْبِدَايَاتِ مِنْهَا وَالنِّهَايَاتِ
+
+فَأَجَبْتُهُمْ إِلَى ذَلِكَ إِجَابَةَ مَنْ وَثِقَ بِحَبْلِ مَوْلَاهُ فِي سِرِّ سِرِّهِ وَعَلَانِيَتِهِ وَنَجْوَاهُ بَعْدَ أَنْ اتَّخَذْتُ عُبُودِيَّةَ الذُّلِّ بَيَانَ الِاسْتِخَارَةِ
+
+### 2. Latin
+
+Alladzii [من: vokalisasi belum ditetapkan] riwaaqit takwiini 'alakhtilaafi athwaari maqaamaatil qaashidiin.
+
+Wa basatha saahatat tahkiimi bishafaa'i jawaahiri anfaasi arwaahil mutamakkininal qadiirul ladzii wasama sulthaanal 'aqli [بية: bacaan belum ditetapkan] al'ajzi wa akhrasa fashiihaatil alsuni biyadil qahr.
+
+Ahmaduhu hamdal muqarrabiina wa u'minu iimaanal 'aarifiina wa ahtadii hidaayatal muriidiin.
+
+Wa asyhadu an laa ilaaha illallaahu wahdahu laa syariika lahu syahaadatan minnii biriqqihi 'ubuudiyyatii ilaihi wa a'tamidu fii af'aalii wa aqwaalii 'alaih.
+
+Wa asyhadu anna Muhammadan 'abduhu wa rasuuluhul ladziikhtaarahu min jawaahiril mursaliina wa khulaashati anwaarish shiddiiqiina wa haqiiqati haqaa'iqisy syuhadaa'i wa lathaa'ifi asraarish shaalihiin.
+
+Shallallaahu 'alaihi haamilil qur'aani wa ta'aaqabal jadiidaan.
+
+Wa ba'du fa'inna jamaa'atan minal muhibbiinash shaadiqiina wal mukhlishiinal khaalishiina raghibuu an ubayyina lahum kaifiyyatar riyaadhaati wa tarbiyata asraarihaa fii [اصوال: bacaan belum ditetapkan] almawjuudaati wa maa sirrul bidaayaati minhaa wan nihaayaat.
+
+Fa'ajabtuhum ilaa dzaalika ijaabata man watsiqa bihabli maulaahu fii sirri sirrihi wa 'alaaniyatihi wa najwaahu ba'da anittakhadztu 'ubuudiyyatadz dzulli bayaanal istikhaarah.
+
+### 3. Terjemahan
+
+yang—kata «man/min» sebelum “serambi penciptaan” belum dapat ditetapkan bacaannya—sesuai dengan perbedaan tingkatan maqam para pencari (al-qāṣidīn).
+
+Dia membentangkan arena penetapan (at-taḥkīm) dengan kejernihan permata embusan ruh orang-orang yang telah mantap. Dialah Yang Mahakuasa, yang menandai kekuasaan akal dengan «bīyah» kelemahan dan membungkam kefasihan lidah-lidah dengan tangan keperkasaan-Nya.
+
+Aku memuji-Nya dengan pujian al-muqarrabīn, beriman dengan iman para ‘ārif, dan mengikuti petunjuk para murid.
+
+Aku bersaksi bahwa tidak ada tuhan selain Allah semata, tanpa sekutu bagi-Nya. Itulah kesaksianku: dengan kehambaan kepada-Nya aku mengabdikan diriku untuk-Nya, dan kepada-Nya aku bersandar dalam segala perbuatan dan perkataanku.
+
+Aku bersaksi bahwa Muhammad adalah hamba dan Rasul-Nya, yang dipilih-Nya dari permata para rasul, intisari cahaya para ṣiddīqīn, hakikat dari segala hakikat para syuhada, dan kelembutan rahasia orang-orang saleh.
+
+Semoga Allah melimpahkan salawat atas beliau … para pembawa Al-Qur’an … dan silih bergantinya siang dan malam (al-jadīdān).
+
+Wa ba‘du (selanjutnya): sekelompok pecinta yang tulus dan orang-orang mukhlis yang murni meminta agar aku menjelaskan kepada mereka tata cara riyadhah, pembinaan rahasia-rahasianya dalam «aṣwāl» segala maujud, serta rahasia awal dan akhir riyadhah itu.
+
+Maka aku memenuhi permintaan mereka seperti orang yang berpegang pada tali Tuannya—dalam rahasia batinnya, keterbukaannya, dan bisikan munajatnya—setelah aku menjadikan penghambaan yang merendah sebagai keterangan istikharahku.
+
+### 4. Syarah
+
+Huruf من jelas dalam teks, tetapi مِنْ sebagai preposisi atau مَنَّ sebagai fi‘il tidak boleh dipilih hanya agar lancar. Karena itu من dipertahankan tanpa vokalisasi final; bukan kata tidak terbaca.
+
+القدير pola فعيل dipertahankan, dibaca pujian tersendiri, kaitan nahwu belum final.
+
+أؤمن IV آمن, إيمان mashdar, usulan أيمان→إيمان sesuai konteks beriman, bukan sumpah.
+
+واهتدية→وأهتدي usulan menghapus ta akhir dan menormalkan hamzah; اهتدى VIII dari هدي, mendapat/menempuh petunjuk.
+
+برقه dibaca usulan بِرِقِّهِ, riqq kehambaan, bukan برق kilat; tanpa menambah kata yang menghilangkan persoalan hubungan عبوديتي.
+
+Usulan ويطائف→ولطائف (ي→ل), jamak لطيفة فعائل, sesuai idhafah أسرار.
+
+جواهر/أنوار/حقائق/أسرار seluruhnya dipertahankan, bukan diringkas menjadi pujian umum.
+
+Kedua bagian tetap menurut teks; tidak diubah menjadi formula shalawat yang lebih lazim, tidak ditambah وسلم yang tidak ada pada baris ini.
+
+Usulan راغبوا→رغبوا (alif berlebih), agar menjadi kerja lampau I yang cocok أن أبين; بيّن II, menjelaskan.
+
+تربيت dibaca usulan تربية, mashdar II ربّى, pembinaan, bukan otomatis ترتيب “susunan” dari terjemahan lama.
+
+اصوال jelas sebagai teks, kandidat أصول/أحوال belum dipilih.
+
+Usulan بحل→بحبل menambahkan ba yang mungkin hilang, berdasarkan ungkapan kepercayaan pada tali/pegangan; tetap editorial, makna حل alternatif belum dipastikan.
+
+Klaim istikharah adalah narasi penulis, bukan verifikasi hasilnya.
+
+## M04 — PENUTUP MUKADIMAH
+
+### 1. Arab
+
+فَأَفَاضَ عَلَيَّ مِنْ أَنْوَارِ رَحْمَتِهِ قَبُولَ الْإِجَابَةِ وَكَشَفَ لِي عَنْ أَسْرَارِ أَبْوَابِ الْإِنَابَةِ
+
+عَلَى رَبِّ الْعُلَمَاءِ الْمُتَقَدِّمِينَ وَالْأَئِمَّةِ وَالْمُهْتَدِينَ رَضِيَ اللَّهُ عَنْهُمْ
+
+ذَكَرُوا ذَلِكَ عَلَى أَنْوَاعٍ مِنَ الْأَمْثِلَةِ وَاخْتِلَافِ أَطْوَارِ الْأَبْنِيَةِ وَلَمْ يُودِعُوهُ مِنَ الْأَذْكَارِ أَنْوَارًا
+
+ثُمَّ إِنَّهُمْ ذَكَرُوا التَّدْرِيجَ عَلَى أَوْزَانِ الْقِسْطَاسِ وَلَمْ يُنَبِّهُوا عَلَى كَيْفِيَّةِ الِاحْتِرَازِ لِاخْتِلَالِ الْحَوَاسِّ
+
+وَإِنَّنِي أُقَدِّمُ هَذِهِ الرِّيَاضَاتِ الرُّوحَانِيَّةَ الَّتِي لَيْسَ لَهَا مَثِيلٌ خِدْمَةً إِلَى الْمُؤْمِنِينَ فِي كُلِّ مَكَانٍ وَاللَّهُ الْمُوَفِّقُ
+
+وَأَرْجُو مِنَ اللَّهِ أَنْ يَتَقَبَّلَ هَذَا الْكِتَابَ وَمَا فِيهِ بِقَبُولٍ حَسَنٍ
+
+وَإِنِّي وَأَرْجُو مِنَ اللَّهِ أَنْ يَتَقَبَّلَنِي عِنْدَهُ وَيَتَقَبَّلَ هَذَا الْعَمَلَ مِنَ الْعَبْدِ الْفَقِيرِ إِلَى الْمَوْلَى الْجَلِيلِ
+
+وَمَنْ يُرِيدُ أَنْ يَصِلَ إِلَى الْمُرَادِ فَلْيَبْدَأْ بِقِرَاءَةِ الْفَاتِحَةِ لِسَيِّدِنَا مُحَمَّدٍ وَآلِ الْبَيْتِ وَالْمُؤَلِّفِ وَلِلَّهِ الْحَمْدُ فِي الْأُولَى وَالْآخِرَةِ
+
+الْمُؤَلِّفُ
+
+مُحَمَّد سَامِي مُحَمَّد أَحْمَد
+
+### 2. Latin
+
+Fa afaadha 'alayya min anwaari rahmatihi qabuulal ijaabati wa kasyafa lii 'an asraari abwaabil inaabah.
+
+'Alaa rabbil 'ulamaa'il mutaqaddimiina wal a'immati wal muhtadiina radhiyallaahu 'anhum.
+
+Dzakaruu dzaalika 'alaa anwaa'in minal amtsilati wakhtilaafi athwaaril abniyati wa lam yuudi'uuhu minal adzkaari anwaaraa.
+
+Tsumma innahum dzakaruut tadriija 'alaa awzaanil qisthaasi wa lam yunabbihuu 'alaa kaifiyyatil ihtiraazi likhtilaalil hawaass.
+
+Wa innanii uqaddimu haadzihir riyaadhaatir ruuhaaniyyatal latii laisa lahaa matsiilun khidmatan ilal mu'miniina fii kulli makaanin wallaahul muwaffiq.
+
+Wa arjuu minallaahi an yataqabbala haadzal kitaaba wa maa fiihi biqabuulin hasan.
+
+Wa innii wa arjuu minallaahi an yataqabbalanii 'indahu wa yataqabbala haadzal 'amala minal 'abdil faqiiri ilal maulal jaliil.
+
+Wa man yuriidu an yashila ilal muraadi falyabda' biqiraa'atil faatihati lisayyidinaa Muhammadin wa aalil baiti wal mu'allifi wa lillaahil hamdu fil uulaa wal aakhirah.
+
+Almu'allif.
+
+Muhammad Saamii Muhammad Ahmad.
+
+### 3. Terjemahan
+
+Lalu Dia melimpahkan kepadaku—dari cahaya rahmat-Nya—diterimanya permohonan itu, dan menyingkapkan bagiku rahasia pintu-pintu inābah (kembali kepada Allah).
+
+«‘alā rabbi al-‘ulamā’ al-mutaqaddimīn», para imam, dan orang-orang yang mendapat petunjuk—semoga Allah meridai mereka.
+
+Para ulama terdahulu menyebutkan persoalan itu dalam bermacam-macam contoh dan perbedaan tingkatan susunan (al-abniyah), tetapi tidak menitipkan di dalamnya cahaya-cahaya zikir.
+
+Kemudian mereka menyebutkan penahapan (at-tadrīj) menurut timbangan neraca (al-qisṭās), tetapi tidak mengingatkan cara menjaga diri dari terganggunya pancaindra.
+
+Sesungguhnya aku menyajikan riyadhah-riyadhah ruhaniyah ini—yang tidak ada tandingannya—sebagai khidmah bagi kaum mukmin di mana pun berada. Allah-lah Pemberi taufik.
+
+Aku memohon kepada Allah agar Dia menerima kitab ini beserta seluruh isinya dengan penerimaan yang baik.
+
+Dan sungguh aku—aku memohon kepada Allah—agar Dia menerimaku di sisi-Nya dan menerima karya ini dari hamba yang fakir kepada Maulā Yang Mahaagung.
+
+Barang siapa ingin sampai kepada maksud yang dituju, hendaklah ia memulai dengan membaca al-Fātiḥah bagi junjungan kita Muhammad, keluarga beliau (Āl al-Bait), dan penulis. Segala puji bagi Allah di awal dan di akhir (di dunia dan di akhirat).
+
+Penulis:
+
+Muhammad Sami Muhammad Ahmad.
+
+### 4. Syarah
+
+Cetakan على dibaca عَلَيَّ berdasarkan dhamir لي sesudahnya; ini penetapan harakat, bukan penggantian huruf.
+
+Cetakan dibaca kerja على رب العلماء; tidak diam-diam diubah menjadi على رتب العلماء atau على يد العلماء. Rangkaian ini tetap problematis secara siyaq. Hubungan frasa jar-majrur dengan verba sebelumnya belum ditetapkan sebagai bacaan final.
+
+Gambar mendukung أطوار, bukan اطوال dalam teks; أبنية dipertahankan sebagai bentuk-bentuk susunan, tidak diganti otomatis dengan أبنية fisik bangunan.
+
+Bacaan kerja gambar ينبهوا memperbaiki teks ينهوا; bentuk رباعي نبّه II sesuai على كيفية. القسطاس dibaca neraca, bukan nama makhluk.
+
+Lِـ pada لاختلال dipertahankan secara lafaz; terjemahan hubungan pencegahan mengikuti konteks احتراز.
+
+الرياضات di sini jelas tanpa ya tambahan الرياضيات.
+
+Tidak ditambah penilaian bahwa kitab sudah diterima Allah.
+
+وإنّي وأرجو dipertahankan; waw kedua tidak diam-diam dihapus walau hubungan إنّ dengan khabarnya tidak lancar. Ini kejanggalan susunan, bukan kata tidak terbaca.
+
+ويمن dalam teks ditashih menjadi ومن sesuai gambar. فليبدء dimodernisasi hamzahnya menjadi فليبدأ, tanpa mengganti isi.
+
+Nama mengikuti baris tanda tangan gambar, bukan dinormalisasi menjadi nama orang lain. المؤلف isim fa‘il II ألّف. Rangkaian nama diberi harakat dasar, tanpa tambahan i‘rab/tanwin nama yang tidak dipastikan dari sumber.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Membaca al-Fatihah yang dihadiahkan kepada Nabi Muhammad, keluarga beliau, dan pengarang sebelum memulai.
+
+## M05 — BAB PERTAMA, HALAMAN 5
+
+### 1. Arab
+
+الْبَابُ الْأَوَّلُ
+
+الرِّيَاضِيَّاتُ الْكُبْرَى
+
+اعْلَمْ أَيُّهَا الطَّالِبُ أَنَّ الْقِيَامَ بِالشَّرَائِعِ النَّبَوِيَّةِ وَمَجْمُوعَةٍ مِنْ حِكْمَةِ اللَّطَائِفِ الرَّبَّانِيَّةِ هُوَ جُنُودُهُ بَيْنَ أَحْشَائِكَ
+
+وَأَنَّ الْعَالَمَ الْفَانِيَ لَيْسَتْ لَهَا بِهِ عَلَاقَةٌ وَلَا لِخِفَّةِ انْتِشَاتٍ لِيَطْمَئِنَّ قَلْبُهُ بِوَهْمِ الطَّلَبِ
+
+وَلِيُسَكِّنْ حَوَاشِيَ هِمَّتِهِ مِنْ جَوْرِ الْهَرَبِ لِتَكُنْ تَكُونُ الْإِمَارَةَ أَمْرُهُ
+
+وَمُوَاظَبَةُ إِرَادَتِهَا غَالِبَةٌ وَقَاهِرَةٌ وَذَلِكَ لِعِلَّتَيْنِ
+
+إِحْدَاهُمَا أَنْ يَكُونَ عَقْلُهُ مَحْجُوبًا بِالشَّهَوَاتِ وَالْأُخْرَى أَنْ يَكُونَ إِيمَانُهُ مَحْجُوبًا تَحْتَ الْمُخَالَفَاتِ
+
+فَإِذَا عَمِيَتْ بَصِيرَةُ الْعَقْلِ عَنْ مُشَاهَدَةِ أَرْوَاحِ الْإِيمَانِ بَقِيَتِ النَّفْسُ مَحْجُوبَةً عَنِ النُّورَيْنِ خَالِيَةً مِنَ السِّرَّيْنِ
+
+فَيَدْخُلُ السَّاحَةَ الرِّيَاضَةَ بِغَايَةِ الْجِدِّ وَنِهَايَةِ الْجَهْدِ فَيَكُونُ عَلَى ثَلَاثَةِ أَقْسَامٍ
+
+الْقِسْمُ الْأَوَّلُ: إِمَّا أَنْ يَقْضِيَ بِهِ عَمَلَهُ لِاخْتِلَالِ الْحَوَاسِّ فَيُخِلَّ بِالْأَعْمَالِ الشَّرْعِيَّةِ وَالْوَظَائِفِ الرَّبَّانِيَّةِ وَبِمَا رَأَى ذَلِكَ أَفْضَلَ وَهَذَا لَا يُفْتَحُ لَهُ فِي سَائِرِ الْأَعْمَالِ بَعْدُ
+
+### 2. Latin
+
+Albaabul awwal.
+
+Arriyaadhiyyaatul kubraa.
+
+I'lam ayyuhath thaalibu annal qiyaama bisy syaraa'i'in nabawiyyati wa majmuu'atin min hikmatil lathaa'ifir rabbaaniyyati huwa junuuduhu baina ahsyaa'ik.
+
+Wa annal 'aalamal faaniya laisat lahaa bihi 'alaaqatun wa laa likhiffati intisyaatin liyathma'inna qalbuhu biwahmith thalab.
+
+Wa liyusakkin hawaasyiya himmatihi min jauril harabi litakun takuunu al'imaarata amruhu.
+
+Wa muwaazhabatu iraadatihaa ghaalibatun wa qaahiratun wa dzaalika li'illatain.
+
+Ihdaahumaa an yakuuna 'aqluhu mahjuuban bisy syahawaati wal ukhraa an yakuuna iimaanuhu mahjuuban tahtal mukhaalafaat.
+
+Fa idzaa 'amiyat bashiiratul 'aqli 'an musyaahadati arwaahil iimaani baqiyatin nafsu mahjuubatan 'anin nuuraini khaaliyatan minas sirrain.
+
+Fa yadkhulus saahata arriyaadhata bighaayatil jiddi wa nihaayatil juhdi fa yakuunu 'alaa tsalaatsati aqsaam.
+
+Alqismul awwalu: immaa an yaqdhiya bihi 'amalahu likhtilaalil hawaassi fa yukhilla bil a'maalisy syar'iyyati wal wazhaa'ifir rabbaaniyyati wa bimaa ra'aa dzaalika afdhala wa haadzaa laa yuftahu lahu fii saa'iril a'maali ba'd.
+
+### 3. Terjemahan
+
+Bab Pertama
+
+Riyadhah-Riyadhah Besar [judul cetak: ar-Riyāḍiyyāt al-Kubrā].
+
+Ketahuilah, wahai penuntut (aṭ-ṭālib), bahwa menegakkan syariat-syariat Nabi beserta himpunan hikmah dari kelembutan-kelembutan rabbani adalah tentara-Nya yang berada di dalam batinmu.
+
+Dan bahwa alam yang fana ini tidak mempunyai hubungan dengannya, dan bukan pula karena ringannya «intisyāt», supaya hatinya tenang oleh bayangan pencarian.
+
+Hendaklah ia menenangkan sisi-sisi tekadnya dari kezaliman pelarian (al-harab). Penutup kalimatnya berbunyi «li-takun takūna al-imārata amruhu»; hubungan gramatikalnya belum dapat ditetapkan.
+
+Apabila kehendak itu ditekuni terus-menerus, ia menjadi kuasa yang mengalahkan dan menundukkan. Hal itu terjadi karena dua sebab.
+
+Pertama, akalnya terhijab oleh syahwat. Kedua, imannya terhijab di bawah pelanggaran-pelanggaran.
+
+Apabila mata batin akal telah buta dari menyaksikan ruh-ruh iman, jiwa tetap terhijab dari dua cahaya dan hampa dari dua rahasia.
+
+Lalu ia memasuki gelanggang riyadhah dengan kesungguhan maksimal dan jerih payah tertinggi. Keadaannya kemudian terbagi atas tiga golongan.
+
+Golongan pertama: adakalanya amalnya ia tuntaskan dalam keadaan pancaindranya terganggu, sampai ia meremehkan amal-amal syariat dan kewajiban-kewajiban rabbani, bahkan menganggap keadaan itu lebih utama. Menurut penulis, orang seperti ini tidak akan dibukakan (jalan) dalam amal-amal lain sesudah itu.
+
+### 4. Syarah
+
+Judul gambar memuat الرياضيات dengan ya; dipertahankan pada lapisan Arab, bukan diam-diam menjadi الرياضات. Makna latihan ditentukan siyaq الرياضة pada isi, bukan pembahasan matematika.
+
+ومجموعة، هو جنوده dipertahankan menurut bacaan gambar; kesesuaian susunannya tidak dibuat seolah-olah tanpa persoalan.
+
+Bacaan kerja انْتِشَاتٍ mengikuti rangkaian انتشات yang tampak, bukan langsung menggantinya dengan انتشاء atau انتعاش. Harakat pada kata itu bersifat sementara, bukan penetapan leksem yang pasti.
+
+Bacaan kerja gambar حواشي، جور الهرب، لتكن تكون الامارة أمره dipertahankan secara transparan; jangan dipulihkan menjadi pepatah yang tidak ada di sumber.
+
+بادراتها pada pembacaan awal dievaluasi sebagai بإرادتها/إرادتها dari gambar; bacaan utama إرادتها adalah usulan editorial, bukan kepastian huruf cetak.
+
+ايمانه dipilih dari gambar; ejaan teks yang berbeda tidak dipertahankan sebagai bunyi pasti.
+
+السيرين pada teks/pembacaan awal dibaca usulan السرّين, sejajar dengan النورين; ini keputusan editorial yang dinyatakan.
+
+Cetakan الساحة الرياضة dipertahankan pada Arab; ungkapan makna ‘medan riyadhah’ tidak berarti mengklaim cetak ساحة الرياضة yang mulus.
+
+يقضي به عمله dan وبما رأى dibaca kerja menurut gambar; hubungan به dan وبما masih perlu audit lebih lanjut, tidak ditutupi dengan kata rekaan.
+
+## M06 — BAB PERTAMA, HALAMAN 6
+
+### 1. Arab
+
+وَالْقِسْمُ الثَّانِي وَهُوَ أَنْ يَخْتَلَّ عَلَيْهِ أَبْنِيَةُ الطَّبَائِعِ الَّتِي جَعَلَهَا اللَّهُ سُبْحَانَهُ وَتَعَالَى لِقِيَامِ الْأَجْسَامِ وَبِهَا سِرُّ الْحَيَاةِ
+
+فَيَغِيبُ الْعَقْلُ وَيَفْسُدُ الْقُوَّةَ الْفِكْرِيَّةَ وَتَقْوَى الْقُوَّةُ الْخَيَالِيَّةُ فَيَرَى صُوَرًا أَوْ خَيَالَاتٍ وَهَذَا لَا يَنْفَعُ بِصِدْقِ الْأَحْوَالِ بَعْدَ الْفَسَادِ الذَّوْقِيِّ
+
+الْقِسْمُ الثَّالِثُ وَهُوَ أَنْ يَتَخَيَّلَ لَهُ مِنَ الشَّيْطَانِ أَنْوَارُ أَرْضٍ رَأَى عَيْنَهُ فِي الظُّلَمِ وَصُوَرٌ مِثْلُ الْمَلَائِكَةِ أَوْ يَعْرِضُ مُخَاطِبًا مِنْ نَفْسِهِ
+
+فَيَقُولُ لَهُ هَذِهِ أَنْوَارُ الْمَلَكُوتِ فَيُحْدِثُ لَهُ فِي بَاطِنِهِ طُمَأْنِينَةً فَتَعْقُبُهُ فَتْرَةٌ إِلَى أَنْ يَتْرُكَ الْعَمَلَ
+
+وَهَذَا لَا يَذُوقُ بَرْءَ التَّجَلِّي بَعْدَ رُكُونِ النَّفْسِ لِأَنْوَارِ النَّارِ فَيَكُونُ كَمَا قَالَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا أَرْضَ قَطَعَ وَلَا ظَهْرًا أَبْقَى
+
+وَإِذَا رَأَى ذَلِكَ خَرَجَ مِنَ الرِّيَاضَةِ وَهَذَا لَا يَقْدِرُ عَلَى الْعَوْدِ إِلَّا عَلَى يَدِ شَيْخٍ أَوْ يَتَّبِعُ هَذَا الْكِتَابَ وَمَا فِيهِ بِالْعُرْفِ
+
+وَقِسْمٌ رَابِعٌ هُوَ لَا يَدْخُلُ تَحْتَ الْعِلْمِ وَهُوَ الَّذِي يُرَقِّيهِ اللَّهُ فِي خَلْوَتِهِ بِسِرِّ عِنَايَةٍ لِخُلُوصِ نِيَّةٍ وَصِدْقِ هِمَّةٍ وَهَذَا سِرُّ اخْتِصَاصٍ لَا يَعْلَمُهُ إِلَّا اللَّهُ تَعَالَى
+
+وَهَذَا إِذَا تَرَكَ الرِّيَاضَةَ انْحَلَّ لَهُ الْعِلْمُ وَإِذَا انْحَلَّ الرِّيَاضَةَ جَلَى لَهُ الْكَشْفَ فَهُوَ
+
+### 2. Latin
+
+Walqismuts tsaanii wa huwa an yakhtalla 'alaihi abniyatuth thabaa'i'il latii ja'alahallaahu subhaanahu wa ta'aalaa liqiyaamil ajsaami wa bihaa sirrul hayaah.
+
+Fa yaghiibul 'aqlu wa yafsudul quwwatal fikriyyata wa taqwal quwwatul khayaaliyyatu fa yaraa shuwaran au khayaalaatin wa haadzaa laa yanfa'u bishidqil ahwaali ba'dal fasaadidz dzauqii.
+
+Alqismuts tsaalitsu wa huwa an yatakhayyala lahu minasy syaithaani anwaaru ardhin ra'aa 'ainahu fizh zhulami wa shuwarun mitslul malaa'ikati au ya'ridhu mukhaathiban min nafsih.
+
+Fa yaquulu lahu haadzihi anwaarul malakuuti fa yuhditsu lahu fii baathinihi thuma'niinatan fa ta'qubuhu fatratun ilaa an yatrukal 'amal.
+
+Wa haadzaa laa yadzuuqu bar'at tajallii ba'da rukuunin nafsi li'anwaarin naari fa yakuunu kamaa qaala shallallaahu 'alaihi wa sallama laa ardha qatha'a wa laa zhahran abqaa.
+
+Wa idzaa ra'aa dzaalika kharaja minar riyaadhati wa haadzaa laa yaqdiru 'alal 'audi illaa 'alaa yadi syaikhin au yattabi'u haadzal kitaaba wa maa fiihi bil 'urf.
+
+Wa qismun raabi'un huwa laa yadkhulu tahtal 'ilmi wa huwal ladzii yuraqqiihillaahu fii khalwatihi bisirri 'inaayatin likhuluushi niyyatin wa shidqi himmah wa haadzaa sirrukhtishaashin laa ya'lamuhu illallaahu ta'aalaa.
+
+Wa haadzaa idzaa tarakar riyaadhatanhalla lahul 'ilmu wa idzanhallar riyaadhata jalaa lahul kasyfa fa huwa.
+
+### 3. Terjemahan
+
+Golongan kedua ialah ketika susunan tabiat-tabiat yang Allah—Mahasuci dan Mahatinggi Dia—jadikan sebagai penopang tubuh mengalami perubahan pada dirinya; pada tabiat-tabiat itulah terdapat rahasia kehidupan.
+
+Lalu akal menghilang, daya pikir rusak, dan daya khayal menguat sehingga ia melihat rupa-rupa atau khayalan-khayalan. Menurut penulis, keadaan ini tidak berguna untuk kebenaran keadaan-keadaan ruhani setelah rusaknya daya rasa batin.
+
+Golongan ketiga ialah ketika, menurut pengarang, terbayang baginya dari setan cahaya-cahaya bumi—susunan sumber selanjutnya berbunyi ‘ra'aa 'ainahu’, yang hubungan maknanya belum mantap—di dalam kegelapan, serta rupa-rupa seperti malaikat, atau muncul sebagai pihak yang berbicara dari dirinya sendiri.
+
+Lalu ia berkata kepadanya, ‘Ini cahaya-cahaya malakut,’ sehingga menimbulkan ketenteraman dalam batinnya. Setelah itu datang masa kelesuan yang mengikutinya, sampai ia meninggalkan amal.
+
+Orang ini, menurut penulis, tidak merasakan pemulihan melalui tajalli setelah jiwanya bersandar pada cahaya-cahaya api. Maka keadaannya seperti ungkapan yang penulis nisbahkan kepada Nabi, ‘Tidak ada tanah yang berhasil ditempuhnya, dan tidak pula punggung tunggangan yang disisakannya.’
+
+Apabila melihat keadaan itu, ia keluar dari riyadhah. Menurut penulis, orang ini tidak mampu kembali kecuali melalui bimbingan seorang syekh, atau mengikuti kitab ini dan isinya menurut pengenalan/pemahaman yang semestinya.
+
+Ada pula golongan keempat yang tidak berada di bawah cakupan pengetahuan itu: orang yang Allah tingkatkan dalam khalwatnya melalui rahasia pemeliharaan-Nya, karena kemurnian niat dan ketulusan tekadnya. Ini, menurut penulis, rahasia pengkhususan yang hanya Allah Taala mengetahuinya.
+
+Bagi orang ini, apabila ia meninggalkan riyadhah, pengetahuan terurai baginya; dan apabila ‘inhalla ar-riyaadhata’—susunan sumber yang belum mantap—tersingkapkan baginya kasyaf, maka ia«…»
+
+### 4. Syarah
+
+أبنية dipertahankan sebagai susunan, bukan ditukar بأبنية fisik bangunan.
+
+Cetakan ويفسد القوة dibaca kerja يفسد; kasrah sin memberi makna rusak tetapi objek القوة manshub menimbulkan ketidakselarasan. Kandidat وَتَفْسُدُ الْقُوَّةُ أو وَيُفْسِدُ الْقُوَّةَ belum dipaksakan. Ini persoalan bacaan, bukan penanda tidak terbaca.
+
+أنوار أرض رأى عينه dipertahankan sebagai bacaan kerja; tidak disulap menjadi أنوارا يراها بعينه yang lebih lancar.
+
+Teks cetak لا أرض قطع ولا ظهرا أبقى tidak ditambah menjadi riwayat lengkap.
+
+برء objek يذوق, تجلي mudhaf ilayh; أرض dibaca objek didahulukan dengan fathah tanpa tanwin dalam bacaan kerja, bukan penetapan la nafi jenis yang sudah pasti; ظهرا objek أبقى.
+
+Takhrij dan derajat riwayat belum diverifikasi; tidak dilabel hadis sahih hanya karena قال صلى الله عليه وسلم tertulis.
+
+Halaman 5 mengatakan ثلاثة أقسام, tetapi di sini benar ada وقسم رابع; kedua pernyataan dipertahankan, tidak dihapus agar jumlahnya seragam.
+
+انحل الرياضة dipertahankan sebagai rangkaian kerja yang problematis, tidak otomatis menjadi أحل الرياضة atau انحلت الرياضة.
+
+العلم fail انحل pada klausa pertama; الرياضة manshub pada bacaan kerja kedua belum selaras dengan sifat لازم انحل.
+
+جلى dibaca kerja جَلَى, objek الكشف; kandidat جلّى II juga mungkin tetapi tidak dipastikan.
+
+## M07 — BAB PERTAMA, HALAMAN 7
+
+### 1. Arab
+
+بَيْنَ عِلْمٍ يَفْهَمُ بِهِ عَنِ اللَّهِ وَبَيْنَ كَشْفٍ يُدْرِكُ بِهِ حَقَائِقُ أَسْرَارِ اللَّهِ فِي أَطْوَارِ الْمَوْجُودَاتِ
+
+وَاعْلَمْ أَنَّ مَا تَسْمَعُهُ مِنْ عَيْنِ اتِّخَاذِهِمْ رَضِيَ اللَّهُ عَنْهُمُ الْأَرْبَعِينِيَّةِ وَغَيْرِهَا وَلَا يَصِحُّ ذَلِكَ لِلْمُبْتَدِئِينَ فِي التَّوْبَةِ وَالزُّهْدِ وَالتَّوَكُّلِ وَمِثْلِ ذَلِكَ مِنْ مَقَامِ الْخَاصَّةِ
+
+بَلْ يَكُونُ يَجُوعُ ذَلِكَ دَائِمًا لِذَهَابِ الشَّهْوَةِ وَهَذَا لَا يُرَى فِي سُلُوكِهِ شَيْئًا إِلَّا جُوعٌ مَرَارَاتٍ وَإِحْرَاقُ حَرَارَاتٍ وَيُسَمَّى ذَلِكَ مُجَاهَدَةً لَا رِيَاضَةً
+
+وَإِنَّمَا تَنْكَشِفُ أَسْرَارُ الرِّيَاضَاتِ لِمَنْ وَجَدَ حَلَاوَةَ التَّجَلِّي وَاسْتِرْوَاحَ الْمَلَكُوتِ ثُمَّ رَجَعَ بِحُضُورِ الْعِلْمِ بَعْدَ غَيْبَةِ الْحَالِ
+
+فَإِذَا اشْتَاقَ لِنَسِيمِ أَنْوَارِ الْمَلَكُوتِ اسْتَرْوَحَهُ مِنْ أَنْوَارِ الرِّيَاضَاتِ وَالرِّيَاضَةُ لَا تَصِحُّ إِلَّا أَرْبَعِينَ فَإِنَّهَا طَوْرٌ تَامٌّ وَحُكْمٌ
+
+فَإِنْ تَعَدَّى الْأَرْبَعِينَ كَانَ تَعَشُّقًا إِلَى السِّتِّينِ وَإِنْ تَعَدَّى السِّتِّينَ إِلَى التِّسْعِينَ كَانَ تَوَحُّشًا وَإِنْ كَانَ أُسْبُوعٌ كَانَ خُشُوعًا وَإِنْ كَانَ أُسْبُوعَيْنِ كَانَ خَلْوَةً
+
+وَذَلِكَ مَا بَيَّنَهُ عَلَيْهِ كِتَابُ اللَّهِ تَعَالَى فِي قَوْلِهِ تَعَالَى فِي قِصَّةِ مُوسَى عَلَيْهِ السَّلَامُ وَوَاعَدْنَا مُوسَى ثَلَاثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ فَتَمَّ مِيقَاتُ رَبِّهِ أَرْبَعِينَ لَيْلَةً
+
+### 2. Latin
+
+Baina 'ilmin yafhamu bihi 'anillaahi wa baina kasyfin yudriku bihi haqaa'iqu asraarillaahi fii athwaaril maujuudaat.
+
+Wa'lam anna maa tasma'uhu min 'aini ttikhaadzihim radhiyallaahu 'anhumul arba'iiniyyati wa ghairihaa wa laa yashihhu dzaalika lilmubtadi'iina fit taubati waz zuhdi wat tawakkuli wa mitsli dzaalika min maqaamil khaashshah.
+
+Bal yakuunu yajuu'u dzaalika daa'iman lidzahaabisy syahwati wa haadzaa laa yuraa fii suluukihi syai'an illaa juu'un maraaraatin wa ihraaqu haraaraatin wa yusammaa dzaalika mujaahadatan laa riyaadhah.
+
+Wa innamaa tankasyifu asraarur riyaadhaati liman wajada halaawatat tajallii wastirwaahal malakuuti tsumma raja'a bihudhuuril 'ilmi ba'da ghaibatil haal.
+
+Fa idzaasytaaqa linasiimi anwaaril malakuutistarwahahu min anwaarir riyaadhaati war riyaadhatu laa tashihhu illaa arba'iina fa innahaa thawrun taammun wa hukm.
+
+Fa in ta'addal arba'iina kaana ta'asy syuqan ilas sittiina wa in ta'addas sittiina ilat tis'iina kaana tawahhusyan wa in kaana usbuu'un kaana khusyuu'an wa in kaana usbuu'aini kaana khalwah.
+
+Wa dzaalika maa bayyanahu 'alaihi kitaabullaahi ta'aalaa fii qaulihi ta'aalaa fii qishshati Muusaa 'alaihis salaamu wa waa'adnaa Muusaa tsalaatsiina lailatan wa atmamnaahaa bi'asyrin fa tamma miiqaatu rabbihi arba'iina lailah.
+
+### 3. Terjemahan
+
+«…» berada di antara pengetahuan yang dengannya diperoleh pemahaman dari Allah, dan kasyaf yang dengannya diketahui hakikat-hakikat rahasia Allah dalam tahap-tahap segala yang ada.
+
+Ketahuilah bahwa apa yang engkau dengar dari inti tindakan mereka mengambil—semoga Allah meridai mereka—tentang praktik empat puluh hari dan selainnya, menurut penulis tidak tepat bagi pemula dalam tobat, zuhud, tawakal, dan hal-hal sejenis dari maqam kalangan khusus.
+
+Bahkan, dalam susunan pengarang, ia terus-menerus mengalami lapar demi hilangnya syahwat; dalam perjalanannya tidak tampak sesuatu selain lapar, kepahitan-kepahitan, dan pembakaran panas-panas. Pengarang menyebut hal itu mujahadah, bukan riyadhah.
+
+Rahasia-rahasia riyadhah, menurut penulis, hanya tersingkap bagi orang yang telah mendapatkan kemanisan tajalli dan ketenteraman malakut, lalu kembali dengan hadirnya pengetahuan setelah lenyapnya kesadaran dalam keadaan batin itu.
+
+Apabila ia merindukan semilir cahaya-cahaya malakut, ia mencari ketenteramannya dari cahaya-cahaya riyadhah. Menurut penulis, riyadhah tidak sah kecuali dengan empat puluh, sebab itu merupakan satu tahap yang lengkap dan suatu ketetapan.
+
+Apabila melampaui empat puluh, pengarang menyebutnya keterpautan cinta sampai enam puluh; apabila melampaui enam puluh hingga sembilan puluh, ia menyebutnya keterasingan. Jika satu pekan, ia menyebutnya kekhusyukan; jika dua pekan, ia menyebutnya khalwat.
+
+Dalil yang penulis kemukakan untuk hal itu ialah Kitab Allah Taala, dalam firman-Nya mengenai kisah Musa alaihissalam: ‘Kami menjanjikan kepada Musa tiga puluh malam dan Kami sempurnakan dengan sepuluh, sehingga genaplah waktu yang ditetapkan Tuhannya empat puluh malam.’
+
+### 4. Syarah
+
+عن الله tidak ditukar بعلم الله.
+
+عين اتخاذهم dibaca dari gambar; الأربعينية bukan الأربعين فقط.
+
+Kalimat cetak بل يكون يجوع ذلك dan جوع مرارات dipertahankan sebagai susunan tidak lancar; tidak dinormalisasi menjadi instruksi baru untuk berlapar.
+
+Pembatasan makan yang berbahaya tidak dianjurkan.
+
+Kejelasan رجع dan بحضور العلم dipertahankan, bukan ditukar بظهور الغيب.
+
+لا تصح إلا أربعين dipertahankan; kata ‘hari’ belum ada pada frasa ini, meskipun konteks berikut mengaitkan empat puluh dengan waktu.
+
+Angka أربعين، ستين، تسعين، أسبوع، أسبوعين dipertahankan seluruhnya. Cetakan كان تعشقا dibaca تَعَشُّقًا sebagai kandidat V تعشق; tidak menjadi مصطلح yang disahkan umum.
+
+أسبوع dibaca isim كان, أسبوعين menyisakan ketegangan kasus; tidak dinormalisasi tanpa catatan.
+
+Petikan dikenali sebagai Al-A‘raf 7:142. Kutipan bacaan ditulis وَوَاعَدْنَا dan فتم ميقات ربه, tidak mengikuti kekurangan huruf teks; ini normalisasi kutipan yang dijelaskan, bukan klaim seluruh cetak cocok mushaf.
+
+Pembukaan sumber ما بينه عليه dipertahankan, bukan daliluhu.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Sumber menyebut khalwat/riyadhah empat puluh hari dan kelipatannya sebagai penjelasan pengarang. Ini pelaporan isi naskah, bukan anjuran berpuasa terus-menerus, mengurangi kebutuhan tubuh, atau mengisolasi diri. Klaim hasil batin tidak diverifikasi; jangan menguji praktik yang mengganggu kesehatan atau kewajiban.
+
+**Waktu:** Khalwat/riyadhah empat puluh dan kelipatannya menurut penjelasan penulis
+
+## M08 — BAB PERTAMA, HALAMAN 8
+
+### 1. Arab
+
+وَقَوْلُهُ أَصْحَابُ الْحَقِيقَةِ مَنْ أَخْلَصَ لِلَّهِ أَرْبَعِينَ صَبَاحًا ظَهَرَتْ يَنَابِيعُ الْحِكْمَةِ مِنْ قَلْبِهِ عَلَى لِسَانِهِ
+
+وَذَكَرَ بَعْضُ الْمُحْسِنِينَ رَضِيَ اللَّهُ عَنْهُمْ أَنَّ سِرَّ ذَلِكَ فِي قَوْلِهِ عَلَيْهِ السَّلَامُ خُمِّرَتْ طِينَةُ آدَمَ عَلَيْهِ السَّلَامُ بِيَدِهِ أَرْبَعِينَ يَوْمًا وَقِيلَ صَبَاحًا
+
+فَجُعِلَ الْأَرْبَعُونَ صَبَاحًا حُجُبًا لِآدَمَ عَلَيْهِ السَّلَامُ عَنِ الْحَضْرَةِ الرَّبَّانِيَّةِ لِظُهُورِ الْحِكْمَةِ وَسِرُّهُ ذَلِكَ أَنَّهُ لَوَّنَ عَلَى أَصْلِ الشُّهُودِ لِنَسْيٍ بِالْمَعْلُومِ عَنِ الْعِلْمِ
+
+فَيَحْصُلُ عِلْمُ الْأَسْمَاءِ وَالثَّانِيَةُ سُجُودُ الْمَلَائِكَةِ لِأَمْرَيْنِ حَقِيقَةِ الْقُدْرَةِ الظَّاهِرَةِ فِي الْأَسْمَاءِ وَطَرْدِ الشَّيْطَانِ عَنِ الْحَضْرَةِ الرَّبَّانِيَّةِ إِلَى الدَّرْكِ الْأَسْفَلِ
+
+وَالثَّالِثُ لِعَصَارَةِ الْجَنَّةِ وَالنِّسَاءِ بِالذُّرِّيَّةِ عَلَيْكُمُ الْمُبْغِضِينَ وَظُهُورِ التَّوْبَةِ بَعْدَ الْمَعْصِيَةِ وَالرَّابِعُ الدُّنْيَا لِظُهُورِ الْحِكْمَةِ وَامْتِثَالِ الشَّرَائِعِ وَظُهُورِ التَّوْحِيدِ فَلِهَذِهِ أَرْبَعَةُ أَسْرَارِ حَقِيقَةِ الْأَرْبَعِينَ
+
+فَعَشَرَةُ حُجُبٍ لِكُلِّ طَوْرٍ مِنْ هَذِهِ الْأَطْوَارِ وَأَمَّا مِنْ سَوَاءِ قِينَتِهِ وَبَيْنَ الْحَضْرَةِ الْإِلَهِيَّةِ مِائَتَانِ وَأَرْبَعُونَ حِجَابًا
+
+وَذَلِكَ مَا قَالَهُ عَلَيْهِ السَّلَامُ فِي تَدْبِيرِ النُّطْفَةِ أَرْبَعِينَ وَالْعَلَقَةِ أَرْبَعِينَ وَالْمُضْغَةِ أَرْبَعِينَ وَالْعِظَامِ أَرْبَعِينَ وَاللَّحْمِ
+
+### 2. Latin
+
+Wa qauluhu ashhaabul haqiiqati man akhlasha lillaahi arba'iina shabaahan zhaharat yanaabii'ul hikmati min qalbihi 'alaa lisaanih.
+
+Wa dzakara ba'dhul muhsiniina radhiyallaahu 'anhum anna sirra dzaalika fii qaulihi 'alaihis salaamu khummirat thiinatu Aadama 'alaihis salaamu biyadihi arba'iina yauman wa qiila shabaahaa.
+
+Fa ju'ilal arba'uuna shabaahan hujuban li Aadama 'alaihis salaamu 'anil hadhratir rabbaaniyyati lizhuhuuril hikmati wa sirruhu dzaalika annahu lawwana 'alaa ashlish syuhuudi linasyin bil ma'luumi 'anil 'ilm.
+
+Fa yahshulu 'ilmul asmaa'i wats tsaaniyatu sujuudul malaa'ikati li'amraini haqiiqatil qudratizh zhaahirati fil asmaa'i wa thardisy syaithaani 'anil hadhratir rabbaaniyyati ilad darkil asfal.
+
+Wats tsaalitsu li' ashaaratil jannati wan nisaa'i bidz dzurriyyati 'alaikumul mubghidhiina wa zhuhuurit taubati ba'dal ma'shiyati war raabi'ud dunyaa lizhuhuuril hikmati wamtitsaalisy syaraa'i'i wa zhuhuurit tauhiidi fa lihaadzihi arba'atu asraari haqiiqatil arba'iin.
+
+Fa 'asyaratu hujubin likulli thawrin min haadzihil athwaari wa ammaa min sawaa'i qiinatihi wa bainal hadhratil ilaahiyyati mi'ataani wa arba'uuna hijaabaa.
+
+Wa dzaalika maa qaalahu 'alaihis salaamu fii tadbiirin nuthfati arba'iina wal 'alaqati arba'iina wal mudhghati arba'iina wal 'izhaami arba'iina wal lahm.
+
+### 3. Terjemahan
+
+Dan perkataan para ahli hakikat yang dikemukakan penulis: ‘Siapa yang memurnikan pengabdian kepada Allah selama empat puluh pagi, mata-mata air hikmah tampak dari hatinya pada lisannya.’
+
+Sebagian orang yang berbuat ihsan—semoga Allah meridai mereka—menyebutkan bahwa rahasia hal itu terdapat pada perkataan yang dinisbahkan dalam sumber: ‘Tanah pembentuk Adam alaihissalam diperam dengan tangan-Nya selama empat puluh hari’; ada pula ungkapan ‘pagi’.
+
+Maka empat puluh pagi itu dijadikan hijab-hijab bagi Adam alaihissalam dari hadirat rabbani, untuk tampaknya hikmah. Rahasianya, menurut uraian penulis yang susunannya belum mantap, ialah bahwa ia memberi warna pada dasar penyaksian untuk kelupaan, melalui yang diketahui, dari pengetahuan itu sendiri.
+
+Lalu diperoleh pengetahuan tentang nama-nama. Yang kedua ialah sujud para malaikat, karena dua hal: hakikat kuasa yang tampak pada nama-nama, dan pengusiran setan dari hadirat rabbani ke tingkatan yang paling rendah.
+
+Yang ketiga berkaitan dengan sari/pati surga dan para perempuan melalui keturunan ‘atas kalian, orang-orang yang membenci’—demikian hubungan kata dalam bacaan sumber yang belum mantap—serta tampaknya tobat setelah maksiat. Yang keempat ialah dunia, untuk tampaknya hikmah, pelaksanaan syariat-syariat, dan tampaknya tauhid. Demikian empat rahasia hakikat empat puluh menurut penulis.
+
+Ada sepuluh hijab untuk setiap tahap dari tahap-tahap ini. Adapun antara ‘sawaa'i qiinatihi’—bacaan kata sumber yang makna dan susunannya belum ditetapkan—dan hadirat ilahi terdapat dua ratus empat puluh hijab.
+
+Itulah yang penulis nisbahkan sebagai perkataan beliau tentang pengaturan nutfah selama empat puluh, alaqah empat puluh, mudghah empat puluh, tulang-tulang empat puluh, dan daging«…»
+
+### 4. Syarah
+
+Cetakan وقوله أصحاب الحقيقة tetap dicatat; bacaan lancar وقول أصحاب الحقيقة adalah kandidat penghilangan ه, tidak diam-diam diterapkan.
+
+Kesahihan sebagai hadis/atsar dan jaminan keluar hikmah belum diverifikasi; jangan diberi status hadis sahih otomatis.
+
+حروطينة pada teks tidak dipakai sebagai kata tunggal; gambar dibaca kerja خمرت طينة, harakat pasif خُمِّرَتْ usulan sesuai طينة sebagai naib fail.
+
+Narasi penciptaan yang dikutip penulis; asal dan derajat riwayat belum diverifikasi.
+
+Gambar terbaca المحسنين, bukan المحققين.
+
+Gambar dibaca kerja لَوَّنَ عَلَى أَصْلِ الشُّهُودِ لِنَسْيٍ بِالْمَعْلُومِ عَنِ الْعِلْمِ; rangkaian makna belum mantap, tidak disulap menjadi doktrin baru.
+
+Gambar dibaca فيحصل علم الأسماء; pembukaan tentang perolehan ilmu, bukan تجلى.
+
+Bacaan النساء، عليكم، المبغضين pada gambar dipertahankan sebagai kandidat, tidak diganti النسل/المتقين untuk menghaluskan arti.
+
+الثالث/الرابع mubtada dengan khabar jar-majrur/الدنيا; لعصارة sebab, بالذرية alat/sebab; kedudukan النساء وعليكم المبغضين problematis.
+
+Kejanggalan makna harus terlihat; bukan penjelasan biologi/teologi yang diterima sebagai fakta.
+
+Rangkaian سواء قينته dibaca kerja tanpa substitusi dari ingatan; kandidat سويداء قلبه/غيرها tidak dipilih tanpa bukti huruf. Latin qiinatihi hanya penyuaraan kerja qaf-ya-nun, bukan penetapan leksem.
+
+Halaman berakhir pada واللحم, jumlah waktu daging muncul di halaman 9 dan tidak hilang dalam pembacaan bersambung.
+
+## M09 — BAB PERTAMA, HALAMAN 9
+
+### 1. Arab
+
+أَرْبَعِينَ وَالْإِنْشَاءِ أَرْبَعِينَ فَتِلْكَ مِائَتَانِ وَأَرْبَعِينَ حِجَابًا بَيْنَ الْعَبْدِ وَبَيْنَ الْحَضْرَةِ الْإِلَهِيَّةِ لِعَمَارَةِ الْعَالَمِ السُّفْلِيِّ وَبَسْطِ الْآمَالِ وَنِسْيَانِ الْمَآلِ بِسِرِّ الِابْتِلَاءِ وَحَقِيقَةِ الِامْتِنَانِ
+
+فَإِذَا قَطَعَ السَّالِكُ إِلَى اللَّهِ تَعَالَى هَذِهِ الْأَطْوَارَ الْحِجَابِيَّةَ وَالْعَقَبَاتِ التُّرَابِيَّةَ ظَهَرَتْ لَهُ الْحَقَائِقُ الْمَلَكُوتِيَّةُ وَالْمَوَاهِبُ الذَّاتِيَّةُ وَاللَّطَائِفُ الْإِلَهِيَّةُ وَحَقِيقَةُ الدَّقَائِقِ الْغَيْبِيَّةِ
+
+وَذَلِكَ أَنَّ النَّفْسَ نَاطِقَةٌ عَلَى الدَّوَامِ مُتَحَدِّثَةٌ عَلَى الْبِدَايَاتِ فِي عَالَمِهَا فَيَقْلِبُ اللَّهُ تَعَالَى أَعْيَانَ حَرِيرِيَّتِهَا تُرَابَ لَطْفِهَا بِكَسِيرِ النُّورِ وَحَدِيثِ النَّفْسِ وَعَاءٍ لَطِيفٍ قَابِلًا لِأَنْوَارٍ
+
+لِنَفْحِ الرَّبَّانِيِّ لِسِرِّ الْخِطَابِ السَّنِيِّ فِي قَوْلِهِ تَعَالَى يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ فَسِرُّ تَسْوِيَتِهَا عِنْدَ الْخِطَابِ الْأَيْسَرِ قَوْلُهُ ارْجِعِي
+
+فَفِيهِ الْحِكْمَةُ وَعَلَامَةٌ مَنْ كَمُلَتْ لَهُ أَرْبَعِينَ بِوَظَائِفِهَا التَّجَافِي عَنْ دَارِ الْغُرُورِ وَالْإِنَابَةُ إِلَى دَارِ الْخُلُودِ
+
+وَصِحَّةُ ذَلِكَ ظُهُورُ تَلَقِّي الْحِكْمَةِ مِنْ قَلْبِهِ عَلَى لِسَانِهِ إِذْ هِيَ نُورٌ مَوْهِبِيٌّ وَاعْلَمْ أَنَّ هَذِهِ الْأَطْوَارَ التَّرْكِيبِيَّةَ وَالْحَقَائِقَ التَّرْتِيبِيَّةَ مِنْ مَجْمُوعِ عَلَائِقِكَ
+
+### 2. Latin
+
+Arba'iina wal insyaa'i arba'iina fa tilka mi'ataani wa arba'iina hijaaban bainal 'abdi wa bainal hadhratil ilaahiyyati li' imaaratil 'aalamis sufliyyi wa basthil aamaali wa nisyaanil ma'aali bisirril ibtilaa'i wa haqiiqatil imtinaan.
+
+Fa idzaa qatha'as saaliku ilallaahi ta'aalaa haadzihil athwaaral hijaabiyyata wal 'aqabaatit turaabiyyata zhaharat lahul haqaa'iqul malakuutiyyatu wal mawaahibudz dzaatiyyatu wal lathaa'iful ilaahiyyatu wa haqiiqatud daqaa'iqil ghaibiyyah.
+
+Wa dzaalika annan nafsa naathiqatun 'alad dawaami mutahadditsatun 'alal bidaayaati fii 'aalamihaa fa yaqlibullaahu ta'aalaa a'yaana hariiriyyatihaa turaaba lathfihaa bikasiirin nuuri wa hadiitsin nafsi wi'aa'in lathiifin qaabilan li'anwaar.
+
+Linafhir rabbaaniyyi lisirril khithaabis saniyyi fii qaulihi ta'aalaa yaa ayyatuhan nafsul muthma'innatu fa sirru taswiyatihaa 'indal khithaabil aisari qauluhurji'ii.
+
+Fa fiihil hikmatu wa 'alaamatun man kamulat lahu arba'iina biwazhaa'ifihat tajaafii 'an daaril ghuruuri wal inaabatu ilaa daaril khuluud.
+
+Wa shihhatu dzaalika zhuhuuru talaqqil hikmati min qalbihi 'alaa lisaanihi idz hiya nuurun mauhibiyyun wa'lam anna haadzihil athwaarat tarkiibiyyata wal haqaa'iqat tartiibiyyata min majmuu'i 'alaa'iqik.
+
+### 3. Terjemahan
+
+«…» empat puluh, dan pembentukan empat puluh. Maka itulah dua ratus empat puluh hijab antara hamba dan hadirat ilahi, demi pemakmuran alam bawah, pembentangan harapan-harapan, dan terlupakannya tempat kembali, melalui rahasia ujian serta hakikat pemberian karunia.
+
+Apabila orang yang menempuh jalan menuju Allah Taala telah melewati tahap-tahap penghijab dan rintangan-rintangan yang bersifat tanah ini, menurut penulis tampak baginya hakikat-hakikat malakut, karunia-karunia zat, kelembutan-kelembutan ilahi, dan hakikat rincian-rincian yang gaib.
+
+Hal itu karena jiwa senantiasa berbicara, bercakap pada permulaan-permulaan di alamnya. Kemudian Allah Taala, dalam ungkapan simbolis pengarang, membalikkan kenyataan-kenyataan sifat sutranya, tanah kelembutannya, dengan “kasiir an-nuur” dan pembicaraan jiwa, suatu wadah halus yang menerima cahaya-cahaya. Hubungan sejumlah kata dalam susunan ini masih memerlukan tashih.
+
+Untuk hembusan rabbani bagi rahasia sapaan yang luhur, dalam firman-Nya, ‘Wahai jiwa yang tenteram.’ Rahasia penyempurnaannya pada sapaan yang lebih ringan ialah firman-Nya, ‘Kembalilah.’
+
+Di dalamnya terdapat hikmah. Tanda orang yang empat puluhnya telah lengkap beserta tugas-tugasnya, menurut penulis, ialah menjauh dari negeri tipu daya dan kembali menuju negeri kekekalan.
+
+Tanda benarnya hal itu, menurut penulis, ialah tampaknya penerimaan hikmah dari hatinya pada lisannya, karena hikmah itu cahaya anugerah. Ketahuilah bahwa tahap-tahap penyusunan dan hakikat-hakikat pengurutan ini berasal dari keseluruhan keterikatanmu.
+
+### 4. Syarah
+
+الإنشاء (pembentukan), bukan الأحشاء, dilanjutkan sesudah اللحم pada halaman 8. آمَال berbeda dari أعمال; المآل tempat kembali berbeda dari المال harta.
+
+المواهب الذاتية tidak dipersingkat menjadi ‘ilham’ saja.
+
+Gambar memperlihatkan متحدثة dan فيقلب, bukan محدثة/فيفيض. Bacaan أعيان حريريتها، تراب لطفها، بكسير masih bacaan kerja; kandidat إكسير tidak dipaksakan tanpa catatan.
+
+النفس isim أن, ناطقة khabar, متحدثة khabar kedua/sifat; الله fail يقلب, أعيان objek; تراب dapat menjadi objek kedua atau penghubung yang belum ditetapkan; وعاء dan قابلا menyisakan persoalan hubungan dan kasus.
+
+Rangkaian لنفح الرباني pada gambar dipertahankan sebagai bacaan kerja dengan hubungan yang belum mantap; tidak ditambah objek yang tidak tercetak. Dua petikan dikenali sebagai Al-Fajr 89:27–28; ditulis يا أيتها النفس المطمئنة dan ارجعي menurut ejaan bacaan ayat.
+
+وعلامة من pada gambar dibaca kerja وعلامةٌ من dengan konstruksi belum mulus; makna terjemahan menjelaskan kemungkinan idhafah علامة من tanpa mengklaim kepastian. أربَعين tetap mengikuti cetak meski fail كملت lazimnya أربعون; kandidat koreksi diungkapkan, tidak diam-diam diterapkan. التجافي dibaca khabar untuk علامة pada kemungkinan idhafah, الإنابة athaf.
+
+Kata penutup gambar terbaca علائقك, bukan علتك; diterjemahkan keterikatanmu.
+
+## M10 — Halaman 10, pembuka Bab Kedua dan pembagian tiga kelompok
+
+### 1. Arab
+
+الْبَابُ الثَّانِي
+
+الْأَرْبَعِينَ الْأُولَى حُجُبُ الْعَقْلِ
+
+وَالْأَرْبَعِينَ الْعَلَقَةَ حُجُبُ الرُّوحِ
+
+وَالْأَرْبَعِينَ الْمُضْغَةَ حُجُبُ النَّفْسِ
+
+وَالْأَرْبَعِينَ الْعِظَامَ حُجُبُ الْقَلْبِ
+
+وَالْأَرْبَعِينَ اللَّحْمَ حُجُبُ الْجِسْمِ
+
+وَالْأَرْبَعِينَ الْإِنْشَاءَ حُجُبُ التَّرْكِيبِ
+
+فَهَذِهِ سِتَّةُ أَطْوَارٍ وَالسَّابِرُونَ إِلَى اللَّهِ تَعَالَى ثَلَاثُ زُمَرٍ — السَّالِكُونَ وَالْمُرِيدُونَ وَالْعَارِفُونَ
+
+فَالسَّالِكِينَ: بِالْأَجْسَامِ وَالْقُلُوبِ
+
+وَالْمُرِيدُونَ: بِالنُّفُوسِ وَالْأَرْوَاحِ
+
+وَالْعَارِفُونَ: بِالتَّمْخِيخِ وَالْأَسْرَارِ
+
+وَقَدْ قُسِّمَتِ انْحِدَارُ الرِّيَاضَاتِ عَلَى ثَلَاثَةِ أَقْسَامٍ
+
+الْقِسْمُ الْأَوَّلُ: رِيَاضَاتُ السَّالِكِينَ
+
+وَالْقِسْمُ الثَّانِي: رِيَاضَاتُ الْمُرِيدِينَ
+
+وَالْقِسْمُ الثَّالِثُ: رِيَاضَاتُ الْعَارِفِينَ
+
+### 2. Latin
+
+Al-baabuts tsaanii: al-arba'iinal uulaa hujubul 'aql, wal-arba'iinal 'alaqah hujubur ruuh, wal-arba'iinal mudhghah hujubun nafs, wal-arba'iinal 'izhaama hujubul qalb, wal-arba'iinal lahma hujubul jism, wal-arba'iinal insyaa'a hujubut tarkiib.
+
+Fahaadzihi sittatu athwaarin was-saabiruuna ilallaahi ta'aalaa tsalaatsu zumar: as-saalikuun wal-muriiduun wal-'aarifuun.
+
+Fas-saalikiin: bil-ajsaami wal-quluub. Wal-muriiduun: bin-nufuusi wal-arwaah. Wal-'aarifuun: bit-tamkhiikhi wal-asraar.
+
+Wa qad qussimat inhidaarur riyaadhaati 'alaa tsalaatsati aqsaam: al-qismul awwal riyaadhaatus saalikiin, wal-qismuts tsaanii riyaadhaatul muriidiin, wal-qismuts tsaalits riyaadhaatul 'aarifiin.
+
+### 3. Terjemahan
+
+Bab kedua. Empat puluh (tahap) pertama adalah tabir-tabir akal; empat puluh (tahap) ‘alaqah adalah tabir-tabir ruh; empat puluh (tahap) mudhghah adalah tabir-tabir jiwa; empat puluh (tahap) tulang adalah tabir-tabir hati; empat puluh (tahap) daging adalah tabir-tabir tubuh; empat puluh (tahap) penciptaan adalah tabir-tabir susunan.
+
+Inilah enam fase; dan orang-orang yang menempuh jalan menuju Allah—Mahatinggi—ada tiga kelompok: para salik, para murid, dan para ‘arif.
+
+Para salik: dengan tubuh-tubuh dan hati-hati. Para murid: dengan jiwa-jiwa dan ruh-ruh. Para ‘arif: dengan «…» dan rahasia-rahasia.
+
+Sungguh telah dibagi penurunan riyadhah-riyadhah ini menjadi tiga bagian: bagian pertama riyadhah para salik, bagian kedua riyadhah para murid, bagian ketiga riyadhah para ‘arif.
+
+### 4. Syarah
+
+Cetakan memperlihatkan «التعلقة» dan «الأنشاء». Urutan ini mengikuti tahapan penciptaan dalam QS al-Mu’minun 23:14 (نطفة، علقة، مضغة، عظام، لحم، إنشاء), sehingga «العلقة» dan «الإنشاء» dibaca sebagai bentuk yang dimaksud; bentuk cetak dicatat, bukan disembunyikan. I‘rab–shorof: semuanya mudhaf ilayh setelah «الأربعين»; «حجب» khabar marfu‘.
+
+«السَّابِرُونَ» dibaca sesuai yang tercetak; kemungkinan «السَّائِرُونَ» (para penempuh) disebut sebagai usulan, tidak dipaksakan.
+
+Kata selepas «بال» pada baris ketiga terbaca «التَّمْخِيخ»; maknanya tidak lazim dan belum pasti. Usulan «التَّمْحِيص» (pemurnian) hanya kandidat, tidak dimasukkan ke teks.
+
+«انحدار» dibaca sebagai mashdar; susunan «قسمت … على ثلاثة أقسام» adalah pola baku.
+
+## M11 — Halaman 11, riyadhah salik dan jadwal ibadah malam
+
+### 1. Arab
+
+وَأَمَّا رِيَاضَةُ السَّالِكِينَ فَهُوَ أَنْ يَدْخُلَ الرِّيَاضَةَ بِقَصْدِ تَصْحِيحِ الْمَقَامِ وَجِسْمُهُ مَادَّةُ الشَّهْوَةِ الدُّنْيَوِيَّةِ وَطَلَبُ الْمَزِيدِ لِلْآخِرَةِ
+
+وَالسَّالِكُونَ فِي ذَلِكَ عَلَى قِسْمَيْنِ: إِمَّا مُتَأَهِّلًا أَوْ خَالِيًا. فَإِنْ كَانَ مُتَأَهِّلًا فَأَكْثَرُ أَكْلِهِ أَرْبَعَةٌ وَعِشْرُونَ أُوقِيَّةً، وَلْيَكُنْ فَخْمُهُ كُلَّ لَيْلَةٍ بَعْدَ الْغُرُوبِ يَأْخُذُ الرَّغِيفَ الْحَارَّ وَيَكْسِرُهُ لُقَيْمَاتٍ صَغِيرَةً وَهُوَ يَقْرَأُ «تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ» وَيَجْعَلُ فِي إِنَائِهِ «…» فَإِذَا صَلَّى الْمَغْرِبَ رَكَعَ السُّنَّةَ وَيَجْلِسُ مُسْتَقْبِلَ الْقِبْلَةِ بَعْدَ التَّسْمِيَةِ وَيُكْثِرُ الْمَضْغَ وَيَحْمَدُ اللَّهَ بِأَثَرِهَا وَهَكَذَا إِلَى آخِرِ الْمَأْكُولِ بِغَيْرِ آدَمٍ دَسِمٍ
+
+فَإِذَا فَرَغَ قَامَ يُصَلِّي اثْنَتَيْ عَشْرَةَ رَكْعَةً بِآيَةِ الْكُرْسِيِّ ثَلَاثَ مَرَّاتٍ فِي كُلِّ رَكْعَةٍ، فَإِنْ بَقِيَ الْعِشَاءُ الْآخِرُ فَيَشْتَغِلُ بِأَذْكَارٍ وَذِكْرِهِ: سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ. وَفِي كُلِّ لَيْلَةٍ فَإِذَا صَلَّى الْعِشَاءَ الْآخِرَةَ رَكَعَ بَعْدَهَا اثْنَتَيْ عَشْرَةَ رَكْعَةً بِآيَةِ الْكُرْسِيِّ سَبْعَ مَرَّاتٍ فِي كُلِّ لَيْلَةٍ ثُمَّ يُوتِرُ وَيَنَامُ عَلَى طَهَارَةِ الْوُضُوءِ وَاسْتِقْبَالِ الْقِبْلَةِ وَاسْتِدَامَةِ
+
+### 2. Latin
+
+Wa ammaa riyaadhaatus saalikiin fahuwa an yadkhular riyaadhata biqashdi tashhiihil maqaami wa jismuhu maaddatush syahwatid dunyawiyyah wa thalabul maziidi lil-aakhirah.
+
+Was-saalikuuna fii dzaalika 'alaa qismain: immaa muta-ahhilan aw khaaliyan. Fa-in kaana muta-ahhilan fa-aktsaru aklihi arba'atun wa 'isyruuuuna uuqiyyatan, wal yakun fakhmuhu kulla lailatin ba'dal ghuruubi ya'khudzur raghiifal haarra wa yaksiruhu luqaimaatin shaghiirah, wa huwa yaqra'u «Tabaarakal ladzii biyadihil mulk», wa yaj'alu fii inaa'ihi «…», fa-idzaa shallal maghriba raka'as sunnata wa yajlisu mustaqbilal qiblati ba'dat tasmiyati wa yuktsirul madhgha wa yahmadullaaha bi-atsarihaa, wa hakadzaa ilaa aakhivil ma'kuuli bighairi aadamin dasim.
+
+Fa-idzaa faragha qaama yushallii tsnatay 'asyrata rak'atan bi-aayatil kursiyyi tsalaatsa marraatin fii kulli rak'atin. Fa-in baqiyal 'isyaa'ul aakhiru fayasytaghilu bi-adzkaarin wa dzikrihi: Subhaanallaahi wal hamdulillaahi wa laa ilaaha illallaahu wallaahu akbar, wa laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiim. Wa fii kulli lailatin fa-idzaa shallal 'isyaa'al aakhirata raka'a ba'dahaa tsnatay 'asyrata rak'atan bi-aayatil kursiyyi sab'a marraatin fii kulli lailatin, tsumma yuutiru wa yanaamu 'alaa thahaaratil wudhuu'i wastiqbaalil qiblati wastidaamati«…»
+
+### 3. Terjemahan
+
+Adapun riyadhah para salik ialah bahwa ia memasuki riyadhah dengan maksud memperbaiki kedudukan, sedangkan tubuhnya merupakan wadah kecenderungan duniawi, serta (dengan) mencari tambahan untuk akhirat.
+
+Para salik dalam hal itu terbagi dua: orang yang berkeluarga atau yang menyendiri. Jika ia berkeluarga, maka paling banyak makannya dua puluh empat auqiyah; hendaklah makan malamnya setiap malam setelah terbenam matahari: ia mengambil roti hangat, memecahnya menjadi suapan-suapan kecil sambil membaca «Mahasuci Dia yang di tangan-Nya kekuasaan»; ia menaruh pada wadahnya «…»; maka apabila telah salat Magrib ia mengerjakan salat sunah, duduk menghadap kiblat setelah menyebut nama Allah, memperbanyak mengunyah, memuji Allah sesudahnya, dan begitu seterusnya sampai makanan terakhir, tanpa lemak hewani.
+
+Maka apabila selesai, ia berdiri salat dua belas rakaat dengan Ayat al-Kursi tiga kali pada setiap rakaat. Jika masih ada waktu Isya akhir, ia menyibukkan diri dengan zikir dan sebutannya: «Mahasuci Allah, segala puji bagi Allah, tiada tuhan selain Allah, Allah Mahabesar, tiada daya dan tiada kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung.» Dan pada setiap malam, apabila telah salat Isya akhir, ia mengerjakan setelahnya dua belas rakaat dengan Ayat al-Kursi tujuh kali setiap malam, kemudian witir, lalu tidur dalam keadaan suci dengan wudu, menghadap kiblat, dan menjaga «…»
+
+### 4. Syarah
+
+«وجسمه مادة الشهوة» dibaca apa adanya; hubungan antarklausa tidak diratakan menjadi kalimat yang lebih lancar.
+
+«فَخْمُهُ» dan kata setelah «في إنائه» tidak terbaca pasti pada cetakan; yang kedua ditandai elipsis, bukan diisi dengan kata karangan. «آدم» di sini dibaca «آدَم» (lemak) sesuai konteks makanan; harakat editorial.
+
+«اثنتي عشرة» dibaca sesuai kaidah (bukan «اثني»); «الْعِشَاءُ الْآخِرُ/الْآخِرَةُ» mengikuti cetakan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Hitungan makan ±24 auqiyah bagi yang berkeluarga, memecah roti hangat menjadi suapan kecil sambil membaca Surah al-Mulk, salat sunah setelah Maghrib, duduk menghadap kiblat, memperbanyak mengunyah, tidak memakai lemak hewani, lalu 12 rakaat dengan Ayat al-Kursi tiga kali tiap rakaat, zikir dan witir, tidur dalam keadaan bersuci menghadap kiblat.
+
+**Waktu:** Makan malam sesudah terbenam/Magrib; rangkaian 12 rakaat sesudah makan dan rangkaian 12 rakaat sesudah Isya, witir, lalu tidur dalam keadaan berwudu
+
+**Media:** Batas makan ±24 ūqiyah bagi salik berkeluarga; roti hangat dipecah sambil membaca awal surah al-Mulk; tanpa lemak hewani; Ayat al-Kursi tiga kali pada rangkaian sesudah makan dan tujuh kali pada rangkaian sesudah Isya menurut ringkasan Metode
+
+## M12 — Halaman 12, kelanjutan wirid harian dan empat puluh kedua
+
+### 1. Arab
+
+الذِّكْرِ، وَإِنْ أَتَى أَهْلَهُ قَامَ وَاغْتَسَلَ وَرَجَعَ إِلَى مَا كَانَ عَلَيْهِ مِنَ الذِّكْرِ، وَيَقُومُ قَبْلَ الْفَجْرِ فَيَجْلِسُ لِلذِّكْرِ مُسْتَقْبِلَ الْقِبْلَةِ تَلْقِيَةً إِلَى أَنْ يُصَلِّيَ الصُّبْحَ، فَلَا يَزَالُ مُسْتَقْبِلًا جَالِسًا يَذْكُرُ اللَّهَ تَعَالَى إِلَى طُلُوعِ الشَّمْسِ وَيَرْكَعُ لِلْإِشْرَاقِ أَرْبَعَ رَكَعَاتٍ بِالْفَاتِحَةِ وَالْإِخْلَاصِ ثَلَاثًا، ثُمَّ يَجْلِسُ وَيَذْكُرُ اللَّهَ تَعَالَى، فَيَرْكَعُ الزَّوَالَ أَرْبَعَ رَكَعَاتٍ بِالْفَاتِحَةِ وَآيَةِ الْكُرْسِيِّ وَالْإِخْلَاصِ، ثُمَّ يُصَلِّي الظُّهْرَ ثُمَّ يَجْلِسُ إِلَى الْعَصْرِ فَيُصَلِّي الْعَصْرَ وَيَرْجِعُ إِلَى الذِّكْرِ عَلَى الصِّفَةِ الَّتِي ذَكَرْنَاهَا إِلَى الْمَغْرِبِ فَيَفْعَلُ بِالرَّغِيفِ كَذَلِكَ وَيُدَاوِمُ عَلَى هَذِهِ الْحَالَةِ
+
+فَإِذَا كَانَ فِي لَيْلَةِ السَّابِعَةِ يُصَلِّي مِنَ الْوِرْدِ تَسْلِيمَتَيْنِ وَبَعْدَ ذَلِكَ يُفْطِرُ، وَبَعْدَ أُسْبُوعَيْنِ يُصَلِّي أَرْبَعَ تَسْلِيمَاتٍ ثُمَّ يُفْطِرُ، وَبَعْدَ ثَلَاثَةِ أَسَابِيعَ يُصَلِّي الْوِرْدَ ثُمَّ يُفْطِرُ، وَبَعْدَ أَرْبَعَةِ أَسَابِيعَ يُصَلِّي الْعِشَاءَ الْآخِرَةَ وَالْوِرْدَ ثُمَّ يُفْطِرُ، وَبَعْدَ خَمْسَةِ أَسَابِيعَ يَزِيدُ مِنْ مَنْزِلِهِ مِنْ وَقْتِ فِطْرِهِ كُلَّ لَيْلَةٍ، وَبَعْدَ سِتَّةِ أَسَابِيعَ يَطْوِي لَيْلَةً بَعْدَ لَيْلَةٍ إِلَى تَمَامِ ثَمَانِينَ يَوْمًا، عَلَى الْأَرْبَعِينَ الْأُولَى تَسْقُطُ عَنْهُ ثِقْلُ الْأَعْمَالِ وَيَسْتَطِيبُهَا، وَفِي الْأَرْبَعِينَ الثَّانِيَةِ يُطَيِّبُ نَفْسَهُ بِالْأَعْمَالِ وَيَسْتَغْرِقُ فِي أَنْوَارِ
+
+الْأَنْوَارِ فَيَرَى فِي بَاطِنِهِ مِرْآةً صَقْلِيَّةً وَذَوَاتِ الْعَالَمِ مُتَجَلِّيَةً فِيهَا فَيَتَفَكَّرُ بِمَا ظَهَرَ لَهُ فِي مِرْآةِ قَلْبِهِ فَلَا تَخْطِئُ فِرَاسَتُهُ. وَأَمَّا الْأَرْبَعِينَ الثَّانِيَةَ فَلَا يَنْفَصِلُ عَنْهَا حَتَّى يَسْمَعَ الْعَالَمَ كُلَّهُ يَذْكُرُ مَعَهُ ذِكْرَهُ بِاخْتِلَافِ أَصْوَاتٍ، هَذَا ثُمَّ فَتْحًا
+
+### 2. Latin
+
+Adz-dzikri, wa in ataa ahlahu qaama waghtasala wa raja'a ilaa maa kaana 'alaihi minadz dzikri, wa yaquumu qablal fajri fayajlisu lidz dzikri mustaqbilal qiblati talqiyatan ilaa an yushalliyash shubha, falaa yazaalu mustaqbilan jaalisan yadzkurullaaha ta'aalaa ilaa thuluu'isy syamsi wa yarka'u lil-isyraaqi arba'a raka'aatin bil-faatihati wal-ikhlaashi tsalaatsan, tsumma yajlisu wa yadzkurullaaha ta'aalaa, fayarka'uz zawaala arba'a raka'aatin bil-faatihati wa aayatil kursiyyi wal-ikhlaash, tsumma yushallizh zhuhra tsumma yajlisu ilal 'ashri fayushallil 'ashra wa yarji'u iladz dzikri 'alash shifati allatii dzakarnaahaa ilal maghribi fayaf'alu bir raghiifi kadzaalika wa yudaawimu 'alaa haadzihil haalah.
+
+Fa-idzaa kaana fii lailatis saabi'ati yushallii minal wirdi tasliimataini wa ba'da dzaalika yufthiru, wa ba'da usbuu'aini yushallii arba'a tasliimaatin tsumma yufthiru, wa ba'da tsalaatsati asaabii'a yushallil wirda tsumma yufthiru, wa ba'da arba'ati asaabii'a yushallil 'isyaa'al aakhirata wal wirda tsumma yufthiru, wa ba'da khamsati asaabii'a yaziidu min manzilihi min waqti fithrihi kulla lailatin, wa ba'da sittati asaabii'a yathwii lailatan ba'da lailatin ilaa tamaami tsamaaniina yauman, 'alal arba'iinal uulaa tasquthu 'anhu tsiqlul a'maali wa yastathiibuhaa, wa fil arba'iinal tsaaniyati yuthayyibu nafsahu bil-a'maali wa yastaghriqu fii anwaari«…»
+
+Al-anwaari fayaraa fii baathinihi mir-aatan shaqliyyatan wa dzawaatil 'aalami mutajalliyatan fiihaa fayatafakkaru bimaa zhahara lahu fii mir-aati qalbihi falaa takhthii'u firaasatuhu. Wa ammal arba'iinal tsaaniyata falaa yanfashilu 'anhaa hattaa yasma'al 'aalamu kulluhu yadzkuru ma'ahu dzikrahu bikhtilaafi ashwaatin, haadzaa tsumma fathan«…»
+
+### 3. Terjemahan
+
+«…» zikir. Dan jika ia mendatangi istrinya, ia bangun, mandi, lalu kembali kepada zikir yang sedang ia lakukan. Ia bangun sebelum fajar, duduk berzikir menghadap kiblat hingga ia salat Subuh; ia terus duduk menghadap kiblat berzikir kepada Allah—Mahatinggi—sampai matahari terbit, lalu salat empat rakaat untuk isyraq dengan al-Fatihah dan al-Ikhlas tiga kali; kemudian ia duduk dan berzikir kepada Allah—Mahatinggi—lalu salat empat rakaat pada waktu zawal dengan al-Fatihah, Ayat al-Kursi, dan al-Ikhlas; kemudian salat Zuhur, lalu duduk sampai Asar, salat Asar, kembali berzikir dengan cara yang kami sebutkan sampai Magrib, lalu memperlakukan roti seperti itu pula, dan ia terus-menerus dalam keadaan ini.
+
+Maka apabila berada pada malam ketujuh, ia salat dari wiridnya dua kali salam, dan setelah itu ia berbuka; setelah dua pekan ia salat empat kali salam lalu berbuka; setelah tiga pekan ia salat wirid lalu berbuka; setelah empat pekan ia salat Isya akhir dan wirid lalu berbuka; setelah lima pekan ia menambah dari tempatnya sejak waktu berbukanya setiap malam; setelah enam pekan ia melewati malam demi malam sampai genap delapan puluh hari. Pada empat puluh (hari) pertama gugur darinya beban amal-amal dan ia membaikinya; pada empat puluh kedua ia memperbaiki jiwanya dengan amal-amal dan tenggelam dalam cahaya-cahaya «…»
+
+«…»cahaya-cahaya, lalu ia melihat dalam batinnya sebuah cermin yang jernih dan segala wujud alam tampak menjelma di dalamnya; ia lalu memikirkan apa yang tampak baginya pada cermin hatinya, sehingga firasatnya tidak keliru. Adapun empat puluh yang kedua, ia tidak terpisah darinya sampai ia mendengar seluruh alam berzikir bersamanya dengan suara-suara yang berbeda; ini kemudian merupakan pembukaan «…»
+
+### 4. Syarah
+
+«تَلْقِيَةً» tidak lazim dan belum pasti; bentuk ini dipertahankan, usulan «تَلَقِّيًا» tidak dipaksakan. «آية الكرسي» pada salat zawal menggantikan «وآية الكرسي» yang terbaca; tidak diubah tanpa dasar.
+
+«يَطْوِي لَيْلَةً بَعْدَ لَيْلَةٍ» dibaca sesuai cetakan; makna teknisnya (melewati malam tanpa makan) tidak dirinci oleh penulis. «يَسْتَطِيبُهَا» dan «يُطَيِّبُ نَفْسَهُ» dua bentuk berbeda; keduanya dipertahankan.
+
+«صَقْلِيَّة» dinisbahkan pada «صَقْل» (jernih); harakat editorial. «فتحا» di akhir halaman terpotong dan bersambung ke halaman 13.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Penulis melanjutkan jadwal riyadhah salik berkeluarga: bangun sebelum fajar untuk zikir menghadap kiblat hingga Subuh, tetap berzikir sampai matahari terbit, salat isyraq empat rakaat, berzikir lagi, salat zawal empat rakaat, lalu Zuhur, duduk sampai Asar, salat Asar, dan kembali berzikir sampai Magrib; roti sesudah Magrib diperlakukan seperti pada M11. Tahapan berbuka berubah pada malam ketujuh, lalu sesudah dua, tiga, empat, lima, dan enam pekan sampai genap delapan puluh hari. Uraian ini adalah penjelasan riyadhah dari penulis dalam kerangka dokumenter; klaim pengalaman batin sesudahnya dinisbatkan kepada penulis dan bukan anjuran atau jaminan hasil.
+
+**Waktu:** Bangun sebelum fajar; zikir hingga Subuh dan terbit; isyraq; zawal; Zuhur–Asar–Magrib; tahapan malam ke-7 lalu tiap pekan hingga 80 hari
+
+**Media:** Zikir menghadap kiblat; isyraq empat rakaat dengan al-Fātiḥah dan al-Ikhlāṣ tiga kali; zawal empat rakaat dengan al-Fātiḥah, Ayat al-Kursi, dan al-Ikhlāṣ; roti sesudah Magrib seperti M11
+
+## M13 — Halaman 13, syarat dan penutup riyadhah salik
+
+### 1. Arab
+
+الْأَذْكَارِ، وَذَلِكَ بِشَرَفِ أَكْلِ الْحَلَالِ وَتَرْكِ الْأَسْبَابِ وَتَنَاوُلِهِ أَشْيَاءَهُ جَمِيعًا وَغَلَبَةِ الْقَلْبِ بِالْإِخْلَاصِ وَالْعُزْلَةِ مِنَ الْأَصْوَاتِ وَالْجُلُوسِ فِي الظُّلُمَاتِ، فَهَذِهِ رِيَاضَةُ السَّالِكِ الْمُتَأَهِّلِ الْمَذْكُورِ أَوَّلًا
+
+وَأَمَّا الْقِسْمُ الثَّانِي: غَيْرُ الْمُتَأَهِّلِ، وَإِنَّ الرِّيَاضَةَ بِالْقَصْدِ الْأَوَّلِ، غَيْرَ أَنَّ قُوَّتَهُ فِي الطَّعَامِ أَكْثَرُ مِنَ الْأَوَّلِ، أَيْ بِأَكْلِ الْخُبْزِ فَقَطْ، وَلَكِنْ رَغِيفَيْنِ وَالْفِطَارُ بَعْدَ الْعِشَاءِ، وَيَشْرَبُ الْمَاءَ الْقَلِيلَ وَيَكُونُ الْخُبْزُ حَارًّا حَتَّى يُقَلِّلَ مِنَ النَّوْمِ، وَلْيَقْرَأْ سُورَةَ يس، وَلْيَكُنْ فِي وِرْدِهِ كَالْأُوَّلِ، وَيَنْقُصُ كُلَّ لَيْلَةٍ نِصْفَ دِرْهَمٍ مِنَ الْخُبْزِ، وَبَعْدَ الْأَرْبَعِينِ الْأُولَى يَطْوِي لَيْلَةَ الْجُمُعَةِ فَيَحْتَسِبُ، وَيَكُونُ ذِكْرُهُ: سُبْحَانَ اللَّهِ الْعَلِيِّ الْوَهَّابِ، ذَلِكَ ثَمَانِينَ يَوْمًا، وَهَذَا لَا يَتِمُّ الْأَرْبَعِينَ إِلَّا وَأَنْوَارُ الْفِرَاسَةِ الْقَلْبِيَّةِ قَدْ جَلَتْ لَهُ مِنْ بَاطِنِهِ
+
+وَهُوَ أَنْ يَرَى فِي بَاطِنِهِ مِرْآةً صَقْلِيَّةً وَذَوَاتِ الْعَالَمِ مُتَجَلِّيَةً فِيهَا، فَيَتَفَكَّرُ بِمَا ظَهَرَ لَهُ فِي مِرْآةِ قَلْبِهِ، فَلَا تَخْطِئُ فِرَاسَتُهُ. وَأَمَّا الْأَرْبَعِينَ الثَّانِيَةَ فَلَا يَنْفَصِلُ عَنْهَا حَتَّى يَسْمَعَ الْعَالَمَ كُلَّهُ يَذْكُرُ مَعَهُ ذِكْرَهُ بِاخْتِلَافِ أَصْوَاتٍ
+
+### 2. Latin
+
+Al-adzkaari, wa dzaalika bisyarafi akli l halaali wa tarkil asbaabi wa tanaawulihi asyyaa-ahu jamii'an wa ghalabatil qalbi bil-ikhlaashi wal-'uzlati minal ashwaati wal-juluusi fizh zhulumaat, fahaadzihi riyaadhatus saalikil muta-ahhili madzkuuri awwalan.
+
+Wa ammal qismuts tsaanii: ghairul muta-ahhili, wa innar riyaadhata bil-qashdil awwali, ghairu anna quwwatahu fith tha'aami aktsaru minal awwali, ay bi-aklil khubzi faqth, wa laakin raghiifaini wal fithaaru ba'dal 'isyaa'i, wa yasyrabul maa-al qaliila wa yakunul khubzu ha arran hattaa yuqallila minan naumi, wal yaqra' suurata Yaasiin, wal yakun fii wirdihi kal-awwali, wa yanqushu kulla lailatin nishfa dirhamin minal khubzi, wa ba'dal arba'iinal uulaa yathwii lailatal jumu'ati fayahtasibu, wa yakunul dzikruhu: Subhaanallaahil 'aliyyil wahhaab, dzaalika tsamaaniina yauman, wa haadzaa laa yatimmul arba'iina illaa wa anwaarul firaasatil qalbiyyati qad jalat lahu min baathinihi.
+
+Wa huwa an yaraa fii baathinihi mir-aatan shaqliyyatan wa dzawaatil 'aalami mutajalliyatan fiihaa, fayatafakkaru bimaa zhahara lahu fii mir-aati qalbihi, falaa takhthii'u firaasatuhu. Wa ammal arba'iinal tsaaniyata falaa yanfashilu 'anhaa hattaa yasma'al 'aalamu kulluhu yadzkuru ma'ahu dzikrahu bikhtilaafi ashwaatin.
+
+### 3. Terjemahan
+
+«…» zikir-zikir; hal itu dengan kemuliaan memakan yang halal, meninggalkan sebab-sebab (keduniaan), memakan segala sesuatu (yang halal) seluruhnya, mengalahkan hati dengan keikhlasan, menyendiri dari suara-suara, dan duduk dalam kegelapan. Inilah riyadhah salik yang berkeluarga yang telah disebutkan di awal.
+
+Adapun bagian kedua, yaitu yang tidak berkeluarga: sesungguhnya riyadhah itu dengan tujuan yang sama, hanya saja kekuatan makanannya lebih banyak daripada yang pertama, yakni hanya dengan memakan roti, tetapi dua roti, dan berbuka setelah Isya; ia minum air sedikit, dan roti itu hangat agar ia mengurangi tidur; hendaklah ia membaca Surah Yasin, dan hendaklah wiridnya seperti yang pertama; ia mengurangi setiap malam setengah dirham dari roti; setelah empat puluh pertama ia melewati malam Jumat lalu memperhitungkannya; zikirnya ialah «Mahasuci Allah Yang Mahatinggi lagi Maha Pemberi»; itu selama delapan puluh hari. Ini tidak menyempurnakan empat puluh kecuali cahaya firasat hati telah tampak baginya dari dalam batinnya.
+
+Yaitu bahwa ia melihat dalam batinnya sebuah cermin jernih dan segala wujud alam tampak menjelma di dalamnya, lalu ia memikirkan apa yang tampak baginya pada cermin hatinya, sehingga firasatnya tidak keliru. Adapun empat puluh yang kedua, ia tidak terpisah darinya sampai ia mendengar seluruh alam berzikir bersamanya dengan suara-suara yang berbeda.
+
+### 4. Syarah
+
+«تَنَاوُلِهِ أَشْيَاءَهُ» dibaca apa adanya; hubungannya dengan «أكل الحلال» tidak diratakan.
+
+«فَيَحْتَسِبُ» tidak jelas rujukannya; dipertahankan. «الْعَلِيِّ» majrur mengikuti cetakan, padahal pola zikir biasa «العَلِيُّ»; harakat tidak diubah tanpa bukti tambahan.
+
+Pengulangan frasa cermin pada halaman ini sama dengan halaman 12; bukan tambahan editor.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Membatasi makan pada dua roti, berbuka setelah Isya, sedikit minum, roti hangat, mengurangi tidur, membaca Surah Yasin, mengurangi roti setengah dirham tiap malam, melewati malam Jumat, berzikir Subhanallah al-'Ali al-Wahhab sampai delapan puluh hari.
+
+**Waktu:** Berbuka sesudah Isya; pengurangan setengah dirham tiap malam; malam Jumat sesudah empat puluh pertama; total delapan puluh hari
+
+**Media:** Dua roti hangat dan sedikit air; surah Yāsīn; zikir “Subḥānallāh al-‘Aliyy al-Wahhāb”; konteks makanan halal, menyendiri dari suara, dan duduk dalam gelap
+
+## M14 — Halaman 14, tiga tabir salik pertama dan kedua
+
+### 1. Arab
+
+وَأَقْرَبُ طَرِيقٍ مِنَ الْأَوَّلِ فَحِجَابُ السَّالِكِ الْأَوَّلِ بِثَلَاثَةِ أَطْوَالٍ يَغْلِبُهُ الشَّهْوَةُ، فَإِذَا خَطَرَ لَهُ خَاطِرُ الشَّهْوَةِ فَلْيَتَوَضَّأْ وَلْيَذْكُرْ يَا هَادِي ذِكْرًا قَوِيًّا فَإِنَّهُ يَسْكُنُ عَنْهُ
+
+وَالْحِجَابُ الثَّانِي هُوَ أَنْ تَخْتَلِفَ عَلَيْهِ الْأَفْكَارُ، فَإِذَا تَرَاكَمَتْ عَلَيْهِ الْفِكْرُ فَلْيَتَوَضَّأْ وَيَذْكُرْ يَا لَطِيفُ فَإِنَّهَا تَسْكُنُ عَنْهُ. وَالْحِجَابُ الثَّالِثُ ضِيقَةُ النَّفْسِ فِي سِجْنِ الرِّيَاضَةِ وَتَكَدُّرُ الْوَقْتِ، فَإِذَا وَجَدَ ذَلِكَ فَلْيَغْتَسِلْ وَيَذْكُرْ يَا فَانْسَاحُ فَإِنَّهُ يَسْكُنُ جَأْشُهُ
+
+وَيَحْجُبُ السَّالِكُ الثَّانِي بِثَلَاثَةِ حُجُبٍ: الْأَوَّلُ شَهْوَةُ الطَّعَامِ، فَإِذَا وَجَدَ ذَلِكَ فَلْيَتَوَضَّأْ وَلْيَذْكُرْ يَا قَوِيُّ فَإِنَّهَا تَذْهَبُ عَنْهُ، فَإِذَا ذَهَبَتْ عَنْهُ عَادَ إِلَى الذِّكْرِ الْمَرْسُومِ. وَالْحِجَابُ [الثَّانِي] اسْتِيلَاءُ الْخَوَاطِرِ لِخَمْسِ الذِّكْرِ، فَإِذَا وَجَدَ ذَلِكَ قَامَ وَتَوَضَّأَ وَذَكَرَ يَا قَدِيرُ فَإِنَّهُ يَذْهَبُ عِنْدَ ذَلِكَ. وَالْحِجَابُ الثَّالِثُ يُظْهِرُ لَهُ خَيَالَاتٍ شَيْطَانِيَّةً لَا تَثْبُتُ حَقَائِقُهَا لَا عِلْمًا وَلَا كَشْفًا بَلْ تَرْوِيجُ الشَّيْطَانِ لِأَجْلِ الْخَلْوَةِ، فَمَنْ وَجَدَ ذَلِكَ فَلْيَغْتَسِلْ وَيَذْكُرْ يَا ذَا الْقُوَّةِ فَإِنَّهُ يَذْهَبُ عَنْهُ ذَلِكَ، لَا يُحَاطُ بِهَا عَدَدُ الْخَوَاطِرِ فَلْيَذْكُرْ مَا يَرِدُ عَلَيْهِ فِي
+
+### 2. Latin
+
+Wa aqrabu thariiqin minal awwali fahijaabus saalikil awwali bitsalaatsati athwaalin yaghlibuhusy syahwatu, fa-idzaa khathara lahu khaathirusy syahwati falyatawadhdha' wa liyadzkur yaa Haadii dzikran qawiyyan fa-innahu yaskunu 'anhu.
+
+Wal hijaabuts tsaanii huwa an takhtalifa 'alaihil afkaaru, fa-idzaa taraakamat 'alaihil fikru falyatawadhdha' wa yadzkur yaa Lathiifu fa-innahaa taskunu 'anhu. Wal hijaabuts tsaalitsu dhiiqatun nafsi fii sijnir riyaadhah wa takaddurul waqti, fa-idzaa wajada dzaalika falyaghtasil wa yadzkur yaa Faansyaah, fa-innahu yaskunu ja'syuhu.
+
+Wa yahjubus saalikuts tsaanii bitsalaatsati hujubin: al-awwalu syahwatuth tha'aami, fa-idzaa wajada dzaalika falyatawadhdha' wa liyadzkur yaa Qawiyyu fa-innahaa tadzhabu 'anhu, fa-idzaa dzahabat 'anhu 'aada iladz dzikril marsuumi. Wal hijaabu [ts-tsaanii] istiilaa-ul khawaathiri likhamsil dzikri, fa-idzaa wajada dzaalika qaama wa tawadhdha'a wa dzakara yaa Qadiiru fa-innahu yadzhabu 'inda dzaalika. Wal hijaabuts tsaalitsu yuzhhiru lahu khayaalaatin syaithaaniyyatan laa tatsbutu haqaaiquhaa laa 'ilman wa laa kasyfan bal tarwiijusy syaithaani li-ajlil khalwati, faman wajada dzaalika falyaghtasil wa yadzkur yaa Dzal quwwati fa-innahu yadzhabu 'anhu dzaalika, laa yuhaathu bihaa 'adadul khawaathiri falyadzkur maa yaridu 'alaihi fii«…»
+
+### 3. Terjemahan
+
+Jalan terdekat dari yang pertama: tabir salik pertama berupa tiga panjang; ia dikalahkan oleh syahwat. Maka apabila terlintas padanya lintasan syahwat, hendaklah ia berwudu dan berzikir «Ya Hadi» dengan zikir yang kuat, karena hal itu akan menenangkannya.
+
+Tabir kedua ialah bahwa pikiran-pikiran saling bertentangan padanya; maka apabila pikiran menumpuk, hendaklah ia berwudu dan berzikir «Ya Lathif», karena hal itu menenangkannya. Tabir ketiga ialah kesempitan jiwa dalam penjara riyadhah dan kekeruhan waktu; maka apabila ia merasakan itu, hendaklah ia mandi dan berzikir «Ya Fansyah», karena itu menenangkan kegelisahannya.
+
+Salik kedua ditabiri tiga tabir: pertama syahwat makanan; maka apabila ia merasakan itu, hendaklah ia berwudu dan berzikir «Ya Qawiyy», karena hal itu menghilangkannya; dan apabila telah hilang, ia kembali kepada zikir yang ditetapkan. Tabir kedua ialah penguasaan lintasan-lintasan (pikiran) atas lima zikir; maka apabila ia merasakan itu, ia bangun, berwudu, dan berzikir «Ya Qadir», karena hal itu hilang ketika itu. Tabir ketiga: tampak baginya bayangan-bayangan setan yang hakikatnya tidak tetap, baik secara ilmu maupun kasyaf, melainkan hanya promosi setan karena khalwat; maka siapa yang merasakan itu hendaklah ia mandi dan berzikir «Ya Dhal Quwwah», karena hal itu hilang darinya. Jumlah lintasan tidak dapat diliputi, maka hendaklah ia menyebut apa yang datang padanya dalam «…»
+
+### 4. Syarah
+
+«بثلاثة أطوال» istilah teknis penulis; tidak dijelaskan di halaman ini dan tidak ditafsirkan lebih jauh.
+
+«يَا فَانْسَاحُ» bentuknya tidak lazim; kemungkinan seruan bermakna «terbukalah», dipertahankan tanpa perubahan. «تَسْكُنُ عَنْهُ» pada zikir kedua memakai dhamir mu’annats, berbeda dari «يسكن» sebelumnya; keduanya sesuai cetakan.
+
+Kata «الثاني» tidak terlihat pada baris kedua; ditambahkan dalam kurung siku karena pola tiga tabir menuntutkannya, dan tidak diklaim sebagai bunyi cetakan. «لِخَمْسِ الذِّكْرِ» tidak jelas maknanya; dipertahankan. «خَيَالَاتٍ» manshub setelah «يظهر له»; «لا تثبت» na‘t.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Berwudu dan berzikir dengan nama-nama tertentu (يا هادي، يا لطيف، يا فانساح، يا قوي، يا قدير، يا ذا القوة) ketika gejolak syahwat, pikiran bertumpuk, atau suasana hati keruh. Dinukil sebagai isi kitab, bukan resep medis.
+
+**Waktu:** Selama riyadhah, sebagai respons ketika tabir/lintasan muncul
+
+**Media:** Berwudu atau mandi; zikir Yā Hādī, Yā Laṭīf, Yā Fansyah (bacaan tidak pasti), Yā Qawiyy, Yā Qādir, dan Yā Dzā al-Quwwah sesuai jenis tabir
+
+## M15 — Halaman 15, enam syarat dan pembagian murid
+
+### 1. Arab
+
+قِسْطَاسِ الشَّرْعِ الْمُنْتَقَى بِهِ، وَلَوْ شَرَحْنَا ذَلِكَ عَلَى التَّفْصِيلِ لَأَخْرَجَنَا عَنْ لُطْفِ الِاخْتِصَارِ لِنَقْلِ الْإِكْثَارِ، وَقَدِ اسْتَوْعَبْنَا ذَلِكَ فِي حَقَائِقِ دَرَجِ الْمَقَامَاتِ وَحَصْرِ أَطْوَالِ الْوَارِدَاتِ عَلَى اخْتِلَافِ التَّجَلِّيَاتِ
+
+وَيَلْزَمُ هَذَا السَّالِكَ شُرُوطٌ سِتَّةٌ مِنْهَا: أَنَّهُ لَا يَأْكُلُ مِنْ مَعْلُومٍ وَلَا يَقْبَلُ مَا يَأْتِيهِ قَبْلَ وَقْتِهِ وَلَا يَتَحَرَّكُ بِسَبَبٍ وَلَا يَبْقَى دُونَ وُضُوءٍ وَلَا يَنَامُ سَفِيهًا وَلَا يَتَكَلَّمُ إِلَّا مِنْ ضَرُورَةٍ وَلَا يُفَارِقُ الطَّهَارَةَ، فَهَذِهِ وَظَائِفُ السَّالِكِينَ الْمُبْتَدِئِينَ
+
+فَإِذَا تَمَّ السَّالِكُ هَذِهِ الرِّيَاضَاتِ وَأَخْلَصَ إِلَى اللَّهِ تَعَالَى فِي هَذِهِ الْخَلَوَاتِ جَذَبَتْ لَهُ أَنْوَارُ الرَّهَبَاتِ فَيَرْتَقِي إِلَى دَرَجَاتِ الْمُرِيدِينَ وَهُمْ عَلَى ثَلَاثَةِ أَقْسَامٍ: الْقِسْمُ الْأَوَّلُ مُرِيدٌ يَطْلُبُ حَقَائِقَ قَلْبِهِ، وَالْقِسْمُ الثَّانِي مُرِيدٌ يَطْلُبُ الْإِشْرَافَ عَلَى حَقَائِقِ نَفْسِهِ، وَالْقِسْمُ الثَّالِثُ مُرِيدٌ يَطْلُبُ حَقِيقَةَ مَقَامَةٍ فِي قُرْبَةٍ مِنْ رَبِّهِ، وَلَهُ الطَّوْرَانِ الْمُتَوَالِيَاتِ وَهُمْ أَهْلُ الْمَوَاجِيدِ وَالْمَوَارِدِ وَكَشْفِ الْأَسْرَارِ وَتَجَلِّيَاتِ أَنْوَارِ الْقُلُوبِ، الْقِسْمُ الْأَوَّلُ وَهُوَ الْمَزِيدُ الَّذِي يَطْلُبُ حَقَائِقَ قَلْبِهِ وَذَلِكَ أَنَّ الْقَلْبَ لَهُ وَجْهَانِ
+
+### 2. Latin
+
+Qisthaasisy syar'il muntaqaa bihi, wa lau syarahnaa dzaalika 'alat tafshiili la-akhrajanaa 'an luthfil ikhtishaari linaqlil iktsaari, wa qad istaw'abnaa dzaalika fii haqaa-iqi darajil maqaamaati wa hashril athwaalil waaridaati 'alal ikhtilaafit tajalliyaati.
+
+Wa yalzamu haadzas saalika syuruuthun sittatun minhaa: annahu laa ya'kulu min ma'luumin wa laa yaqbalu maa ya'tiihi qabla waqtihi wa laa yataharraku bisababin wa laa yabqaa duuna wudhuu-in wa laa yanaamu safiihan wa laa yatakallamu illaa min dharuuratin wa laa yufaariquth thahaarata, fahaadzihi wazhaa-ifus saalikiinal mubtadi-iin.
+
+Fa-idzaa tammas saaliku haadzihir riyaadhaati wa akhlasha ilallaahi ta'aalaa fii haadzihil khalawaati jadzabat lahu anwaarur rahabaati fayartaqii ilaa darajaatil muriidiina wa hum 'alaa tsalaatsati aqsaamin: al-qismul awwalu muriidun yathlubu haqaa-iqa qalbihi, wal-qismuts tsaanii muriidun yathlubul isyraafa 'alaa haqaa-iqi nafsihi, wal-qismuts tsaalitsu muriidun yathlubu haqiiqata maqaamatin fii qurbatin min rabbihi, wa lahuth thawraanil mutawaaliyaati wa hum ahlul mawaajidi wal mawaaridi wa kasyfil asraari wa tajalliyaati anwaaril quluubi, al-qismul awwalu wa huwal maziidul ladzii yathlubu haqaa-iqa qalbihi wa dzaalika annal qalba lahu wajhaani.
+
+### 3. Terjemahan
+
+«…» neraca syariat yang dipilih dengannya. Seandainya kami menjelaskan itu secara terperinci, kami akan keluar dari kelembutan ringkasan karena membawa banyak (uraian); sungguh kami telah merangkum hal itu dalam «Haqa'iq Daraj al-Maqamat» dan pembatasan panjangnya waridat pada perbedaan tajalli.
+
+Salik ini terikat enam syarat, di antaranya: ia tidak makan dari (sumber) yang tidak diketahui, tidak menerima apa yang datang kepadanya sebelum waktunya, tidak bergerak tanpa sebab, tidak tinggal tanpa wudu, tidak tidur dalam keadaan lalai, tidak berbicara kecuali karena darurat, dan tidak meninggalkan kesucian. Inilah tugas-tugas para salik pemula.
+
+Maka apabila salik telah menyempurnakan riyadhah-riyadhah ini dan mengikhlaskan (diri) kepada Allah—Mahatinggi—dalam khalwat-khalwat ini, cahaya-cahaya kerinduan menariknya sehingga ia naik ke derajat-derajat murid. Mereka terbagi tiga: bagian pertama murid yang mencari hakikat hatinya; bagian kedua murid yang mencari penyingkapan atas hakikat jiwanya; bagian ketiga murid yang mencari hakikat suatu kedudukan dalam kedekatan dengan Tuhannya. Baginya dua fase yang berurutan; mereka adalah ahli mawajid, mawarid, penyingkapan rahasia, dan penjelmaan cahaya-cahaya hati. Bagian pertama, yaitu yang mencari tambahan bagi hakikat hatinya; hal itu karena hati memiliki dua wajah.
+
+### 4. Syarah
+
+«الْمُنْتَقَى بِهِ» dibaca sebagai isim maf‘ul dari «انتقى»; harakat editorial. «أَطْوَالِ الْوَارِدَاتِ» istilah teknis penulis yang berkaitan dengan «ثلاثة أطوال» pada halaman 14.
+
+Jumlah syarat yang disebut tujuh frasa meski penulis menyebut «ستة»; dihitung apa adanya dan dicatat sebagai ketidaksesuaian teks, bukan diperbaiki dengan menghapus salah satu. «سَفِيهًا» bisa berarti bodoh/lalai; dipilih «lalai» sesuai konteks tidur.
+
+«الرَّهَبَات» jamak «رهبة» (rasa takut/khidmat); bisa juga «الرَّغَبَات» (kerinduan) — cetakan terbaca dengan huruf yang memungkinkan keduanya, dipertahankan dan dicatat. «الْمَزِيد» dibaca sebagai isim maf‘ul.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Enam syarat salik (tidak makan dari yang tidak diketahui, tidak menerima yang datang sebelum waktunya, tidak bergerak tanpa sebab, tidak tinggal tanpa wudu, tidak tidur sembarangan, tidak berbicara kecuali darurat, tidak meninggalkan kesucian).
+
+**Media:** Syarat salik yang dinyatakan enam oleh sumber: tidak makan dari sumber tak diketahui, tidak menerima sebelum waktunya, tidak bergerak tanpa sebab, tidak tanpa wudu, tidak tidur lalai, tidak berbicara kecuali darurat, dan tidak meninggalkan kesucian
+
+## M16 — Halaman 16, wajah jiwa, zat, iman, dan nama-nama
+
+### 1. Arab
+
+وَجْهُ النَّفْسِ وَهُوَ الَّذِي يُدْرِكُ بِهِ آثَارَ الْمَلَكُوتِ وَحَقَائِقَ الْجَبَرُوتِ وَتَجَلِّيَاتِ الْأَنْوَارِ، وَإِلَيْهِ الْإِشَارَةُ بِقَوْلِهِ تَعَالَى: «وَكَذَلِكَ نُرِي إِبْرَاهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالْأَرْضِ». قَالَ بَعْضُ الْمُحَقِّقِينَ: أَرَادَ بِهِ وَجْهَ الْقَلْبِ، إِذْ وَجْهُ التَّجْسِيمِ لَا يُدْرِكُ إِلَّا مَا لَهُ وَجْهٌ وَعَيْنٌ، وَوَجَدَ الْقَلْبُ يُدْرِكُ مِلَّا وَجْهَهُ لَهُ. وَمِنْ ذَلِكَ قَوْلُهُ تَعَالَى: «وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا»، قَالَ بَعْضُهُمْ: أَرَادَ بِهِ وَجْهَ قَلْبِهِ
+
+وَالْوَجْهُ الثَّانِي أَرَادَ بِهِ الذَّاتَ الْإِنْسَانِيَّةَ وَهُوَ الَّذِي يَتَصَرَّفُ بِهِ فِي الْمُلْكِ وَيُدْرِكُ بِهِ آثَارَ عَالَمِ الشَّهَادَةِ وَحَقَائِقَ تَصَارِيفِ الْأَفْعَالِ، ثُمَّ وَجْهَانِ آخَرَانِ
+
+الْوَجْهُ الْأَوَّلُ الْإِيمَانُ: الْإِيمَانُ وَهُوَ الَّذِي كَتَبَ اللَّهُ فِي قَلْبِهِ الْإِيمَانَ وَهُوَ اللَّطِيفَةُ الْإِنْسَانِيَّةُ الرَّبَّانِيَّةُ وَهُوَ الَّذِي يُدْرِكُ أَنْوَارَ الصَّفَحَاتِ وَنُبُوَّةَ التَّجَلِّي، وَذَلِكَ لِأَرْبَابِ الْأَحْوَالِ فِي الْمُعَامَلَاتِ وَأَهْلِ الْمُنَازَلَاتِ. وَالْوَجْهُ الثَّانِي الْأَسْمَاءُ: وَهُوَ الَّذِي أَوْدَعَ اللَّهُ فِيهِ الْعِلْمَ وَلَطَائِفَ الْأَسْمَاءِ وَهُوَ الَّذِي يُشَكِّلُ الْمَعَانِي كَيْفَ بَرَزَتْ عَنْ حَقَائِقِ الرُّوحِ وَتَصَرُّفِ الْفِعْلِ عَلَى مُقْتَضَى الْعِلْمِ وَهُوَ الَّذِي
+
+### 2. Latin
+
+Wajhun nafsi wa huwal ladzii yudriku bihi aatsaaral malakuuti wa haqaa-iqal jabaruti wa tajalliyaatil anwaari, wa ilaihil isyaaratu biqawlihi ta'aalaa: «Wa kadzaalika nurii Ibraahiima malakuutas samaawaati wal ardh». Qaala ba'dhul muhaqqiqiina: araada bihi wajhal qalbi, idz wajhut tajsiimi laa yudriku illaa maa lahu wajhun wa 'ainun, wa wajadal qalbu yudriku millaa wajhahu lahu. Wa min dzaalika qawluhu ta'aalaa: «Wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifan», qaala ba'dhuhum: araada bihi wajha qalbihi.
+
+Wal wajhuts tsaanii araada bihidz dzaatal insaaniyyata wa huwal ladzii yatasharrafu bihi fil mulki wa yudriku bihi aatsaara 'aalamisy syahaadati wa haqaa-iqa tashaariifil af'aali, tsumma wajhaani aakharaani.
+
+Al-wajhul awwalul iimaanu: al-iimaanu wa huwal ladzii kataballaahu fii qalbihil iimaana wa huwal lathiifatul insaaniyyatur rabbaaniyyatu wa huwal ladzii yudriku anwaarash shafahaati wa nubuwwatat tajallii, wa dzaalika li-arbaabil ahwaali fil mu'aamalaati wa ahlil munaazalaati. Wal wajhuts tsaanil asmaa-u: wa huwal ladzii awda'allaahu fiihil 'ilma wa lathaa-ifal asmaa-i wa huwal ladzii yusyakkiful ma'aanii kaifa barazat 'an haqaa-iqir ruuhi wa tasharrufil fi'li 'alaa muqtadhal 'ilmi wa huwal ladzii«…»
+
+### 3. Terjemahan
+
+Wajah jiwa, yaitu yang dengannya ia menangkap jejak-jejak malakut, hakikat jabarut, dan penjelmaan cahaya-cahaya; kepadanya isyarat firman-Nya—Mahatinggi—: «Dan demikianlah Kami perlihatkan kepada Ibrahim kerajaan langit dan bumi» (QS al-An‘am 6:75). Sebagian muhaqqiq berkata: yang dimaksud adalah wajah hati, karena sisi penubuhan tidak menangkap kecuali yang memiliki wajah dan mata, sedangkan hati dapat menangkap apa yang menjadi wajahnya. Di antaranya firman-Nya—Mahatinggi—: «Aku menghadapkan wajahku kepada Yang menciptakan langit dan bumi dengan lurus» (QS al-An‘am 6:79); sebagian mereka berkata: yang dimaksud adalah wajah hatinya.
+
+Wajah kedua: yang dimaksud adalah zat kemanusiaan, yaitu yang dengannya ia bertindak dalam kerajaan (alam) dan menangkap jejak-jejak alam penyaksian serta hakikat-hakikat perputaran perbuatan. Kemudian ada dua wajah lagi.
+
+Wajah pertama, iman: yaitu iman yang Allah tuliskan dalam hatinya, dan ia adalah lathifah kemanusiaan yang rabbani, yang menangkap cahaya-cahaya lembaran (wahyu) dan kenabian tajalli; hal itu bagi pemilik keadaan dalam muamalat dan ahli manazalat. Wajah kedua, nama-nama: yaitu yang Allah titipkan padanya ilmu dan kelembutan nama-nama, yang membentuk makna-makna bagaimana ia muncul dari hakikat ruh dan peredaran perbuatan menurut tuntutan ilmu; dan ia yang «…»
+
+### 4. Syarah
+
+«مِلَّا» tidak terbaca pasti; kemungkinan «ما لا» atau «مِلَّا» (seluruhnya). Dipertahankan dengan catatan; tidak diubah. Kutipan Quran dicocokkan dengan QS 6:75 dan 6:79; keduanya dikutip penulis tanpa nama surah, penomoran ditambahkan editor dan disebutkan.
+
+«يَتَصَرَّفُ» dibaca sesuai cetakan; «يتصرّف في الملك» berarti bertindak di alam.
+
+«الصَّفَحَات» bisa «الصَّحَائِف» (lembaran); bentuk cetak dipertahankan. «نُبُوَّةَ التَّجَلِّي» susunan tidak lazim; tidak dilancarkan.
+
+## M17 — Halaman 17, wajah syuhud, alam amr, dan awal alam ikhtira'
+
+### 1. Arab
+
+يُكَاشِفُ بِحَقَائِقِ الْمَوْجُودَاتِ كَيْفَ قَامَتْ بِالْأَسْمَاءِ وَالْأَفْعَالِ وَكَيْفَ مِنْ مُوحَّدِهِ اللَّهُ تَعَالَى عَلَى دَوَامِ وُجُودِهَا، أَمَّا تَوْحِيدُ أَسْمَاءٍ أَوْ تَوْحِيدُ أَفْعَالٍ، ثُمَّ وَجْهَاتٌ أُخَرُ: وَجْهٌ لِشُهُودِ الْأَمْرِ الْعُلْيَا وَهُوَ الَّذِي يُتْلَى بِهِ كِتَابُ اللَّهِ تَعَالَى وَبِهِ تُفْهَمُ لَطَائِفُ الْقُرْآنِ الْعَظِيمِ وَبِهِ يَتَصَرَّفُ فِي عِلْمِ الْفَهْمِ وَيَنْشَرِحُ بِهِ فِي سَاحَةِ التَّأْوِيلِ حَتَّى يُفْهَمَ كِتَابُ اللَّهِ تَعَالَى بِالْقَدْرِ الَّذِي خَصَّهُ اللَّهُ تَعَالَى إِيَّاهُ عَلَى الَّذِي أَرَادَهُ
+
+الْوَجْهُ الثَّانِي وَهُوَ الْعَالَمُ الْأَمْرُ الْعُلْيَا أَيِ الصَّادِرُ عَنِ الْكَلِمَةِ الْأُولَى وَهُوَ الَّذِي يَشْهَدُ حَقَائِقَ وَأَسْرَارَ السُّنَّةِ وَهُوَ الَّذِي يَتَّبِعُ الرَّسُولَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي أَفْعَالِهِ وَأَقْوَالِهِ وَأَمْرِهِ وَنَهْيِهِ وَبِهِ يُعْلَمُ مَنْزِلَةُ الرَّسُولِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْقُرْآنِ مِنَ اللَّهِ سُبْحَانَهُ وَتَعَالَى فَيَلْزَمُ الْأَدَبَ فِي الظَّاهِرِ وَالْبَاطِنِ وَهُوَ الَّذِي يَفْهَمُ عَنِ الرَّسُولِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا أَرَادَهُ فِي أَحْكَامِ سُنَّتِهِ وَلَطَائِفِ حِكْمَتِهِ، ثُمَّ وَجْهَانِ آخَرَانِ
+
+الْوَجْهَةُ الْأُولَى وَهُوَ الَّذِي يَتَجَلَّى فِيهِ عَالَمُ الِاخْتِرَاعِ الْخَارِجُ عَنْ رَقِّ الْمِثَالِ بَلْ هُوَ إِبْرَازُ الْقُدْرَةِ عَلَى [الْجَمْعِ] وَبِهِ يُشْهَدُ
+
+### 2. Latin
+
+Yukaasyifu bihaqaa-iqil maujuudaati kaifa qaamat bil-asmaa-i wal af'aali wa kaifa min muwahhidihil laahu ta'aalaa 'alaa dawaami wujuudihaa, ammaa tauhiidu asmaa-in aw tauhiidu af'aalin, tsumma wajhaatun ukharu: wajhun lisyuhuudil amril 'ulyaa wa huwal ladzii yutlaa bihi kitaabullaahi ta'aalaa wa bihi tufhamu lathaa-ifil qur'aanil 'azhiimi wa bihi yatasharrafu fii 'ilmil fahmi wa yansyarihu bihi fii saahatit ta'wiili hattaa yufhama kitaabullaahi ta'aalaa bil qadril ladzii khashshahullaahu ta'aalaa iyyaahu 'alal ladzii araadahu.
+
+Al-wajhuts tsaanii wa huwal 'aalamul amrul 'ulyaa ayish shaadiru 'anil kalimatil uulaa wa huwal ladzii yasyhadu haqaa-iqa wa asraaras sunnati wa huwal ladzii yattabi'ur rasuula shallallaahu 'alaihi wa sallama fii af'aalihi wa aqwaalihi wa amrihi wa nahyihi wa bihi yu'lamu manzilatur rasuuli shallallaahu 'alaihi wa sallama fil qur'aani minallaahi subhaanahu wa ta'aalaa fayalzamul adaba fizh zhaahiri wal baathini wa huwal ladzii yafhamu 'anir rasuuli shallallaahu 'alaihi wa sallama maa araadahu fii ahkaami sunnatihi wa lathaa-ifil hikmatihi, tsumma wajhaani aakharaani.
+
+Al-wajhatul uulaa wa huwal ladzii yatajallaa fiihi 'aalamul ikhtiraa'il khaariju 'an raqqil mitsaali bal huwa ibraazul qudrati 'ala [al-jam'i] wa bihi yusyhadu.
+
+### 3. Terjemahan
+
+Ia menyingkap hakikat-hakikat wujud: bagaimana ia berdiri dengan nama-nama dan perbuatan-perbuatan, dan bagaimana (wujud itu) dari yang menyatukan Allah—Mahatinggi—atas kelangsungan keberadaannya; baik tauhid nama-nama maupun tauhid perbuatan. Kemudian wajah-wajah lain: wajah untuk menyaksikan perkara yang Mahatinggi, yaitu yang dengannya Kitab Allah—Mahatinggi—dibaca dan dengannya kelembutan al-Qur'an yang agung dipahami; dengannya ia bertindak dalam ilmu pemahaman dan terbuka baginya lapangan takwil, sehingga Kitab Allah—Mahatinggi—dipahami sesuai kadar yang Allah—Mahatinggi—khususkan kepadanya menurut yang Dia kehendaki.
+
+Wajah kedua, yaitu alam perkara yang Mahatinggi, yakni yang terbit dari kalimat pertama; ia yang menyaksikan hakikat dan rahasia sunnah, dan ia yang mengikuti Rasul—semoga Allah melimpahkan salawat dan salam kepadanya—dalam perbuatan, ucapan, perintah, dan larangannya. Dengannya diketahui kedudukan Rasul—semoga Allah melimpahkan salawat dan salam kepadanya—dalam al-Qur'an dari Allah—Mahasuci dan Mahatinggi. Maka ia menjaga adab pada lahir dan batin; ia memahami dari Rasul—semoga Allah melimpahkan salawat dan salam kepadanya—apa yang beliau kehendaki dalam hukum-hukum sunnahnya dan kelembutan hikmahnya. Kemudian ada dua wajah lagi.
+
+Wajah pertama, yaitu yang padanya tampak alam penciptaan baru (ikhtira‘) yang keluar dari lembaran contoh; bahkan ia adalah penampakan kekuasaan atas [penghimpunan], dan dengannya disaksikan «…»
+
+### 4. Syarah
+
+«الْأَمْرِ الْعُلْيَا» tidak sesuai kaidah (seharusnya «الأعلى»); bentuk cetak dipertahankan, usulan «الأعلى» hanya dicatat. «يُتْلَى بِهِ» bisa dibaca «يُتَلَّى»; dipilih bentuk pasif.
+
+«الْعَالَمُ الْأَمْرُ» susunan idhafah yang tidak baku; dipertahankan. «الْعُلْيَا» sifat mu’annats padahal mudhaf ilayh mudzakkar; dicatat sebagai kemungkinan salah cetak (usulan «الأعلى»).
+
+Kata sebelum «وَبِهِ يُشْهَدُ» tidak jelas; bagian yang terlihat dapat dibaca «على الجمع» dan ditandai kurung siku sebagai usulan, bukan bunyi pasti.
+
+## M18 — Halaman 18, alam ibda‘, firasat mukmin, dan mata hati
+
+### 1. Arab
+
+حَقَائِقَ الْعَالَمِ فِي الذَّرِيَّةِ الْأُولَى قَبْلَ حُلُولِهِمْ فِي عَالَمِ التَّصَوُّرِ وَالتَّشَكُّلِ فَيُعَظَّمُ عِنْدَهُ أَمْرُ اللَّهِ تَعَالَى وَقَدَرُهُ مِنْ حَيْثُ الْجُمْلَةِ. الْوَجْهُ الثَّانِي وَجْهُ الْفَتْقِ: وَهُوَ الَّذِي يَتَجَلَّى فِي مِرْآتِهِ عَالَمُ الْإِبْدَاعِ إِذْ هُوَ مَنُوطٌ بِالْإِدَارَةِ كَمَا أَنَّ عَالَمَ الِاخْتِرَاعِ مَنُوطٌ بِالْقُدْرَةِ وَهُوَ الَّذِي يَشْهَدُ بِهِ عَوَالِمَ الْفِطْرَةِ وَكَيْفَ يَتَرَتَّبُ بِسِرِّ الْإِرَادَةِ الْعُلْيَا وَجَعَلَ اللَّهُ سُبْحَانَهُ
+
+أَسْرَارَ تَوْحِيدِهَا فِي عَالَمِ الْجَمْعِ وَهُوَ الَّذِي تَنَزَّهَ فِي أَطْوَالِ الْمَوْجُودَاتِ وَإِنْ زَادَتِ الْوُجُودَ عَلَى اخْتِلَافِ نِظَامِهَا بَرَزَتْ بِحِكْمَةٍ خَفِيَّةٍ وَاخْتِصَاصٍ قَدَرِيٍّ، فَهَذِهِ وُجُوهُ الْقَلْبِ ثُمَّ لَهُ عَيْنَانِ، وَمِنْهُ قَوْلُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «اتَّقُوا فِرَاسَةَ الْمُؤْمِنِ فَإِنَّهُ يَنْظُرُ بِنُورِ اللَّهِ تَعَالَى»
+
+وَمِنْهُ قَوْلُهُ عَزَّ وَجَلَّ: «وَتَرَاهُمْ يَنْظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ» وَقَالَ تَعَالَى: «فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَكِنْ تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ» فَهَذِهِ إِشَارَاتُ أَعْيُنِ الْقَلْبِ ثُمَّ عَيْنَانِ آخَرَانِ
+
+### 2. Latin
+
+Haqaa-iqal 'aalami fidz dzurriyyatil uulaa qabla huluulihim fii 'aalamit tashawwuri wat tasyakkuli fayu'azhzhamu 'indahu amrullaahi ta'aalaa wa qadaruhu min haitsul jumlati. Al-wajhuts tsaanii wajhul fatqi: wa huwal ladzii yatajallaa fii mir-aatihi 'aalamul ibdaa'i idz huwa manuuthun bil-idaarati kamaa anna 'aalamal ikhtiraa'i manuuthun bil-qudrati wa huwal ladzii yasyhadu bihi 'awaalimal fithrati wa kaifa yatarattabu bisirril iraadatil 'ulyaa wa ja'alallaahu subhaanahu«…»
+
+Asraara tauhiidihaa fii 'aalamil jam'i wa huwal ladzii tanazzaha fii athwaalil maujuudaati wa in zaadatil wujuuda 'alal ikhtilaafi nizhaamihaa barazat bihikmatin khafiyyatin wakhtishaashin qadariyyin, fahaadzihi wujuuhul qalbi tsumma lahu 'ainaani, wa minhu qawluhu shallallaahu 'alaihi wa sallama: «Ittaqu firaasatal mu'mini fa-innahu yanzhuru binuurillaahi ta'aalaa».
+
+Wa minhu qawluhu 'azza wa jalla: «Wa taraahum yanzhuruuna ilaika wa hum laa yubshiruun», wa qaala ta'aalaa: «Fa-innahaa laa ta'mal abshaaru wa laakin ta'mal quluubul latii fish shuduuri», fahaadzihi isyaaraatu a'yunil qalbi tsumma 'ainaani aakharaani.
+
+### 3. Terjemahan
+
+«…» hakikat alam pada generasi pertama (dzurriyah) sebelum mereka masuk ke alam perwujudan dan pembentukan, sehingga di sisinya menjadi agung perkara Allah—Mahatinggi—dan ketetapan-Nya secara keseluruhan. Wajah kedua, wajah fatq (pembukaan): yaitu yang pada cerminnya tampak alam ibda‘ (penciptaan tanpa bahan), karena ia terkait dengan pengaturan, sebagaimana alam ikhtira‘ terkait dengan kekuasaan; dengannya ia menyaksikan alam-alam fitrah dan bagaimana ia tersusun dengan rahasia kehendak yang Mahatinggi; dan Allah—Mahasuci—menjadikan «…»
+
+«…»rahasia-rahasia penyatuannya dalam alam penghimpunan. Dialah yang Mahasuci dalam panjang-panjang wujud; dan jika wujud bertambah dengan perbedaan tatanannya, ia tampak dengan hikmah tersembunyi dan kekhususan qadari. Inilah wajah-wajah hati; kemudian ia memiliki dua mata. Di antaranya sabda beliau—semoga Allah melimpahkan salawat dan salam kepadanya—: «Takutlah pada firasat orang mukmin, karena ia melihat dengan cahaya Allah—Mahatinggi».
+
+Dan di antaranya firman-Nya—Yang Mahaperkasa lagi Mahaagung—: «Dan engkau melihat mereka memandang kepadamu, padahal mereka tidak melihat» (QS al-A‘raf 7:198); dan Dia—Mahatinggi—berfirman: «Maka sesungguhnya bukan mata yang buta, tetapi yang buta adalah hati yang ada dalam dada» (QS al-Hajj 22:46). Inilah isyarat-isyarat mata hati; kemudian ada dua mata lagi.
+
+### 4. Syarah
+
+«وَجْهُ الْفَتْق» berpasangan dengan «الرَّتْق» yang muncul di halaman 24; keduanya istilah kunci penulis. «عَوَالِمَ الْفِطْرَةِ» manshub sebagai maf‘ul bih kedua bagi «يشهد» memakai huruf jar tambahan; dipertahankan.
+
+Ucapan «اتقوا فراسة المؤمن» dinisbatkan penulis kepada Nabi—semoga salawat dan salam dilimpahkan kepadanya; teks tidak memberi sanad, dan tidak diverifikasi secara eksternal. Redaksi yang lazim memakai «اتقوا فراسة المؤمن»; dipertahankan seperti tercetak.
+
+Kedua kutipan dicocokkan dengan QS 7:198 dan 22:46; penulis tidak menyebut nomor, penomoran ditambahkan editor dan disebut terbuka. «وَتَرَاهُمْ» pada cetakan dapat pula dibaca «وَتَرَاهُمْ» (engkau melihat mereka); harakat diambil sesuai bacaan yang lazim.
+
+## M19 — Halaman 19, pembuka Bab Ketiga dan mata kedua
+
+### 1. Arab
+
+الْبَابُ الثَّالِثُ
+
+أَسْرَارُ الْقُلُوبِ
+
+الْأُولَى لِلنَّفْسِ وَهِيَ تَكْشِفُ عَالَمَ السَّمَاوَاتِ وَمَرَاتِبَ الْأَفْلَاكِ وَتَسْبِيحَ الْكَرُوبِيِّينَ وَكَيْفَ صَنَعَ اللَّهُ تَعَالَى فِي تَرْتِيبِ أَدْوَارِ أَفْلَاكِهَا وَاخْتِلَافِ صُوَرِ أَمْلَاكِهَا وَأَنْوَاعِ تَعَبُّدَاتِ سُكَّانِهَا، وَهَذَا أَوَّلُ أَسْرَارِ الْقُلُوبِ
+
+الْعَيْنُ الثَّانِيَةُ: لِلتَّرْكِيبِ الْإِنْسَانِيِّ وَالْعَالَمِ السُّفْلِيِّ عَلَى الْجُمْلَةِ وَهِيَ الَّتِي يُكْشَفُ بِهَا أَسْرَارُ اللَّهِ تَعَالَى الَّتِي أَرْسَى بِهَا الْأَرَضِينَ وَالنَّسْرُ الَّذِي رَفَعَ اللَّهُ بِهِ السَّمَاوَاتِ بِدَعَائِمِ الْقُدْرَةِ وَعَمَدِ الْإِرَادَةِ، وَهَذَا لَا يَزَالُ فِي تَدَاوُلٍ أَوْ قَنَاةٍ تَتَدَاوَلُهُ أَيْدِي الْفِكْرِ وَأَنْوَاعُ أَيْدِي التَّدْبِيرِ، ثُمَّ عَيْنَانِ آخِرَانِ: عَيْنٌ تَنْظُرُ بِأَنْوَارِ الْإِيمَانِ وَهِيَ الَّتِي تَشْهَدُ بِهَا عَوَالِمَ الْكُرْسِيِّ وَكَيْفَ أَوْدَعَ اللَّهُ فِيهِ أَشْكَالَ الْمَوْجُودَاتِ وَأَنْوَاعَ الْخَلَوَاتِ وَيُفْهَمُ سِرُّ الْوَضْعِ الَّذِي بِهِ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ
+
+### 2. Latin
+
+Al-baabuts tsaalitsu: asraarul quluub. Al-uulaa lin nafsi wa hiya taksyifu 'aalamas samaawaati wa maraatibal aflaaki wa tasbiihal karuubiyyiina wa kaifa shana'allaahu ta'aalaa fii tartiibi adwaari aflaakihaa wakhtilaafi shuwari amlaakihaa wa anwaa'i ta'abbudaati sukkaanihaa, wa haadzaa awwalu asraaril quluubi.
+
+Al-'ainuts tsaaniyatu: lit tarkiibil insaaniyyi wal 'aalamis sufliyyi 'alal jumlati wa hiyal latii yuksyafu bihaa asraarullaahi ta'aalaa allatii arsaa bihal aradhiina wan nasrul ladzii rafa'allaahu bihis samaawaati bida'aa-imil qudrati wa 'amadil iraadati, wa haadzaa laa yazaalu fii tadaawulin aw qanaatin tataadaawaluhu aidil fikri wa anwaa'u aidit tadbiiri, tsumma 'ainaani aakharaani: 'ainun tanzhuru bi-anwaaril iimaani wa hiyal latii tasyhadu bihaa 'awaanimal kursiyyi wa kaifa awda'allaahu fiihi asykaalal maujuudaati wa anwaa'al khulawaati wa yufhamu sirrul wadh'il ladzii bihi wasi'a kursiyyuhus samaawaati wal ardha.
+
+### 3. Terjemahan
+
+Bab ketiga: rahasia-rahasia hati. Yang pertama adalah bagi jiwa; ia menyingkap alam langit, tingkat-tingkat falak, tasbih para karubiyyin, bagaimana Allah—Mahatinggi—menyusun peredaran falak-falaknya, perbedaan bentuk para malaikatnya, dan macam-macam peribadatan penghuninya. Inilah rahasia hati yang pertama.
+
+Mata kedua: untuk susunan manusia dan alam bawah secara keseluruhan; dengannya disingkap rahasia-rahasia Allah—Mahatinggi—yang dengan-Nya Dia menegakkan bumi-bumi, dan (rahasia) burung nasar yang dengannya Allah mengangkat langit-langit dengan tiang-tiang kekuasaan dan penopang kehendak. Ini senantiasa dalam peredaran atau saluran yang digilirkan oleh tangan-tangan pikiran dan macam-macam tangan pengaturan. Kemudian dua mata lagi: mata yang memandang dengan cahaya-cahaya iman, yang dengannya ia menyaksikan alam-alam Kursi dan bagaimana Allah menitipkan padanya bentuk-bentuk wujud dan macam-macam khalwat; dan dipahami rahasia peletakan yang dengannya Kursi-Nya meliputi langit dan bumi.
+
+### 4. Syarah
+
+«الْكَرُوبِيِّينَ» jamak yang tidak baku (lazimnya «الكَرُوبِيّين»); bentuk cetak dipertahankan. «أَسْرَارُ الْقُلُوبِ» idhafah; judul tanpa harakat lengkap pada cetakan.
+
+«وَالنَّسْرُ» (burung nasar) sangat janggal dalam konteks ini; kemungkinan «وَالسَّرُّ» (rahasia) atau kata lain. Dipertahankan sebagai bentuk cetak dan ditandai sebagai persoalan terbuka, bukan diganti. «أَوْ قَنَاةٍ» tidak jelas.
+
+## M20 — Halaman 20, mata nama-nama, sirr al-amr, dan Israfil
+
+### 1. Arab
+
+الْعَيْنُ الثَّانِيَةُ: تَنْظُرُ بِأَنْوَارِ الْأَسْمَاءِ وَهِيَ الَّتِي يَنْظُرُ بِهَا اللَّوْحُ الْمَحْفُوظُ وَيُكْشَفُ بِهَا أَسْرَارُ مَا أَوْدَعَ اللَّهُ تَعَالَى فِيهِ مِنْ أَنْوَاعِ إِرَادَتِهِ فِي أَطْوَارِ مَوْجُودَاتِهِ بِحَسَبِ مَا قُسِمَ لَهُ، كَشْفُهُ بِالْقُدْرَةِ الرَّبَّانِيَّةِ وَهَذَا لَا تُحْدِرُ حَرَكَاتُهُ حَتَّى يَخْلَعَهُ وَيُكَرِّمَهُ عَلَيْنَا كَقَوْلِهِ أَبُو بَكْرٍ رَضِيَ اللَّهُ عَنْهُ: مَا رَأَيْتُ شَيْئًا إِلَّا وَرَأَيْتُ اللَّهَ قَبْلَهُ، فَيَرَى الْأَشْيَاءَ كُلَّهَا بِاللَّهِ تَعَالَى
+
+ثُمَّ عَيْنَانِ آخَرَانِ: عَيْنٌ يَنْظُرُ بِهَا سِرَّ الْأَمْرِ وَهُوَ بَاطِنُ الْقُدْرَةِ وَهُوَ الَّذِي يَكْشِفُ اللَّهُ تَعَالَى بِهِ أَسْرَارَ الْعِلْمِ الْقَدَرِيِّ الَّذِي يَكْتُبُ أَسْبَابَ أَحْكَامِ الْقُدْرَةِ وَيَشْهَدُ سِرَّ مَا أَوْدَعَ اللَّهُ تَعَالَى مِنْ سِرِّ الْأَمْرِ وَبَاطِنِ الْقَدَرِ التَّرْتِيبِيِّ، وَهَؤُلَاءِ الَّذِينَ يُدْرِكُهُمْ فَنَاءٌ فِي الْأَفْعَالِ وَاسْتِغْرَاقٌ فِي الْمَالِ وَهُمُ النَّاطِقُونَ بِمَبَادِئِ الْحِكَمِ
+
+الْعَيْنُ الثَّانِيَةُ وَهِيَ الَّتِي تَنْظُرُ بِنُورِ عَالَمِ الْأَمْرِ وَهِيَ الَّتِي تَشْهَدُ بِهَا حَقَائِقَ الصُّوَرِ وَكَيْفَ التَّقْسِيمُ الْإِسْرَافِيلُ وَهُوَ شَخْصٌ يَنْظُرُ مِنِّي يُوهَرُ بِالنَّفْخِ فَيَشْهَدُ حَقَائِقَ النَّفْخِ
+
+### 2. Latin
+
+Al-'ainuts tsaaniyatu: tanzhuru bi-anwaaril asmaa-i wa hiyal latii yanzhuru bihal lauhul mahfuuzhu wa yuksyafu bihaa asraaru maa awda'allaahu ta'aalaa fiihi min anwaa'i iraadatihi fii athwaari maujuudaatihi bihasabi maa qusima lahu, kasyfuhu bil-qudratir rabbaaniyyati wa haadzaa laa tuhdiru harakaatuhu hattaa yakhla'ahu wa yukarrimahu 'alainaa kaqawlihi Abuu Bakrin radhiyallaahu 'anhu: maa ra'aitu syai-an illaa wa ra'aitu Allaaha qablahu, fayaral asy-yaa-a kullahaa billaahi ta'aalaa.
+
+Tsumma 'ainaani aakharaani: 'ainun yanzhuru bihaa sirral amri wa huwa baathinul qudrati wa huwal ladzii yaksyifullaahu ta'aalaa bihi asraaral 'ilmil qadariyyil ladzii yaktubu asbaaba ahkaamil qudrati wa yasyhadu sirra maa awda'allaahu ta'aalaa min sirril amri wa baathinil qadaril tartiibiyyi, wa haa-ulaa-il ladziina yudrikuhum fanaa-un fil af'aali wastighraaqun fil maali wa humun naathiquuna bimabaadi-il hikami.
+
+Al-'ainuts tsaaniyatu wa hiyal latii tanzhuru binuuri 'aalamil amri wa hiyal latii tasyhadu bihaa haqaa-iqash shuwari wa kaifa at-taqsiimul israafiilu wa huwa syakhshun yanzhuru minnii yuuharu bin nafkhi fayasyhadu haqaa-iqan nafkhi.
+
+### 3. Terjemahan
+
+Mata kedua: memandang dengan cahaya-cahaya nama-nama; dengannya Lauh Mahfuz terpandang dan disingkap rahasia apa yang Allah—Mahatinggi—titipkan padanya berupa macam-macam kehendak-Nya dalam fase-fase wujudnya sesuai yang dibagikan baginya. Penyingkapannya dengan kekuasaan rabbani; dan ini «…» pergerakannya sehingga Ia melepaskannya dan memuliakannya atas kita, seperti ucapan Abu Bakar—semoga Allah meridainya—: «Aku tidak melihat sesuatu kecuali aku melihat Allah sebelumnya»; maka ia melihat segala sesuatu dengan Allah—Mahatinggi.
+
+Kemudian dua mata lagi: mata yang dengannya ia memandang rahasia perkara (amr), yaitu batin kekuasaan; dengannya Allah—Mahatinggi—menyingkap rahasia ilmu qadari yang menulis sebab-sebab hukum kekuasaan, dan ia menyaksikan rahasia apa yang Allah—Mahatinggi—titipkan berupa rahasia amr dan batin qadar yang tersusun. Mereka itulah yang disergap fana dalam perbuatan dan tenggelam dalam «…» (maqam); mereka adalah yang berbicara dengan prinsip-prinsip hikmah.
+
+Mata kedua, yaitu yang memandang dengan cahaya alam amr; dengannya ia menyaksikan hakikat-hakikat bentuk dan bagaimana pembagian «…» Israfil, yaitu sosok yang memandang dari-Ku «…» dengan peniupan, lalu ia menyaksikan hakikat-hakikat peniupan.
+
+### 4. Syarah
+
+«وَهِيَ الَّتِي يَنْظُرُ بِهَا اللَّوْحُ الْمَحْفُوظُ» menempatkan Lauh sebagai subjek «ينظر», padahal lazimnya mata yang memandang; dipertahankan dan dicatat sebagai persoalan susunan. «لَا تُحْدِرُ حَرَكَاتُهُ حَتَّى يَخْلَعَهُ وَيُكَرِّمَهُ عَلَيْنَا» tidak jelas; tidak dilancarkan. Ucapan Abu Bakar dinisbatkan penulis; tidak diverifikasi sanadnya.
+
+«اسْتِغْرَاقٌ فِي الْمَالِ» janggal; konteks menuntut «في المَقام» atau «في الحال», tetapi yang tercetak «المال» dan dipertahankan.
+
+Kalimat «وَكَيْفَ التَّقْسِيمُ الْإِسْرَافِيلُ» rusak susunannya; tidak diperbaiki dengan menambah kata. «مِنِّي يُوهَرُ» tidak terbaca pasti.
+
+## M21 — Halaman 21, penutup Bab Ketiga
+
+### 1. Arab
+
+وَكَشْفُ أَرْوَاحِ الْمَوْجُودَاتِ فَتُوبَتُهَا وَسُفْلِيُّهَا لِعَتِيقِهَا وَكَيْفِيَّتُهَا صَغِيرِهَا وَكَبِيرِهَا رُوحَانِيُّهَا وَجُسْمَانِيُّهَا، كُلُّ رُوحٍ لَهَا ثَقْبٌ فِي الصُّوَرِ وَيُكْشَفُ فِي حَقِيقَةٍ وَيُكْشَفُ الثَّقْبُ الْمُتَّصِلَةُ بِأَهْلِ الْقَطِيعَةِ وَالثَّقْبُ الْمُنْخَفِضَةُ بِأَهْلِ الشَّقَاوَةِ، وَمَلِيكَةُ كُلِّ نَفْسٍ عَلَى عَدَدِ نُفُوسِ الْمَوْجُودَاتِ يَنْظُرُونَ الْحِكْمَةَ الْإِلَهِيَّةَ، وَهَذَا مَنْ أَسْرَارِ اللَّطِيفَةِ لَا تُدْرَكُ بِالْعِلْمِ بَلْ بِالْكَشْفِ، ثُمَّ لَهُ عَيْنَانِ آخِرَانِ
+
+عَيْنٌ تَنْظُرُ بِأَنْوَارِ الْقُدْرَةِ عَلَى الْجُمْلَةِ وَهِيَ الَّتِي بِهَا يُشَاهِدُ عَرْشَ الرَّحْمَنِ وَالْمُحِيطَ بِأَخْذِ الْمَوْجُودَاتِ وَكَيْفَ حَمَلَهُ الثَّمَانِيَةُ الَّذِي أَنْبَأَ اللَّهُ عَنْهُمْ فِي كِتَابِهِ الْعَزِيزِ
+
+### 2. Latin
+
+Wa kasyfu arwaahil maujuudaati fatuubatuhaa wa sufliyyuhaa li'atiiqihaa wa kaifiyyatihaa shaghiirihaa wa kabiirihaa ruuhiyyihaa wa jusmaaniyyihaa, kullu ruuhin lahaa tsaqbun fish shuwari wa yuksyafu fii haqiiqatin wa yuksyafuts tsaqbul muttashilatu bi-ahlil qathii'ati wats tsaqbul munkhafidhatu bi-ahlisy syaqaawati, wa maliikatu kulli nafsin 'alaa 'adadi nufuusil maujuudaati yanzhuruunal hikmatal ilaahiyyata, wa haadzaa man asraaril lathiifati laa tudraku bil-'ilmi bal bil-kasyfi, tsumma lahu 'ainaani aakharaani.
+
+'ainun tanzhuru bi-anwaaril qudrati 'alal jumlati wa hiyal latii bihaa yusyaahidu 'arsyar rahmaani wal muhiitha bi-akhdzil maujuudaati wa kaifa hamalahuts tsamaaniyatul ladzii anba'allaahu 'anhum fii kitaabihil 'aziizi.
+
+### 3. Terjemahan
+
+Dan penyingkapan ruh-ruh wujud: maka bagian atasnya dan bagian bawahnya, bagi yang tua dan yang muda, kualitasnya, yang kecil dan yang besar, yang ruhani dan yang jasmani; setiap ruh memiliki lubang pada bentuk-bentuk, dan disingkap dalam suatu hakikat; disingkap lubang yang tersambung dengan ahli keterputusan dan lubang yang rendah pada ahli kesengsaraan; dan (ada) penguasa setiap jiwa sesuai jumlah jiwa wujud; mereka memandang hikmah ilahiah. Ini termasuk rahasia lathifah yang tidak ditangkap dengan ilmu, melainkan dengan kasyaf. Kemudian ia memiliki dua mata lagi.
+
+Mata yang memandang dengan cahaya-cahaya kekuasaan secara keseluruhan; dengannya ia menyaksikan Arasy Yang Maha Pengasih, Yang meliputi dengan pengambilan wujud-wujud, dan bagaimana delapan (malaikat) memikulnya, yang Allah beritakan tentang mereka dalam Kitab-Nya yang mulia.
+
+### 4. Syarah
+
+«فَتُوبَتُهَا» kemungkinan «فَعُلْوِيُّهَا» (bagian atasnya) mengingat pasangan «سُفْلِيُّهَا»; bentuk cetak dipertahankan dan usulan dicatat. «لِعَتِيقِهَا» tidak jelas. «مَنْ أَسْرَارِ» seharusnya «مِنْ أَسْرَارِ»; dicatat sebagai kemungkinan salah cetak tanpa diubah.
+
+«الْمُحِيطَ» manshub mengikuti «يشاهد»; «حمله الثمانية» jumlahnya delapan sesuai QS al-Haqqah 69:17 dan al-Zumar 39:75 (tanpa kutipan langsung oleh penulis).
+
+## M22 — Halaman 22, pembuka Bab Keempat dan lathifah mukmin
+
+### 1. Arab
+
+الْبَابُ الرَّابِعُ
+
+الْكَشْفُ مِنَ اللَّهِ
+
+وَاعْلَمْ أَنَّ الْكُرْسِيَّ وَاللَّوْحَ وَالْقَلَمَ وَالسَّمَاوَاتِ وَالْأَرْضَ فِي نِسْبَةِ قَائِمَةٍ مِنْ قَوَائِمِ الْعَرْشِ الثَّمَانِيَةِ كَحَلْقَةٍ مُلْقَاةٍ فِي فَلَاةٍ مِنَ الْأَرْضِ، فَيَذْهَلُ فِي عَيْنِ التَّوْحِيدِ وَيَسْتَغْرِقُ فِي رِيَاضِ التَّجْرِيدِ وَالتَّفْرِيدِ
+
+الْعَيْنُ الثَّانِيَةُ تَنْظُرُ بِأَنْوَارِ الِافْتِيَاقِ وَهِيَ الَّتِي يُدْرَكُ بِهَا اللَّطِيفَةُ الَّتِي أَوْدَعَهَا اللَّهُ فِي قُلُوبِ الْمُؤْمِنِينَ حَتَّى أَدْرَكُوا ذَلِكَ عِلْمًا وَكَشْفًا، وَلَوْلَا هَذِهِ اللَّطِيفَةُ لِاخْتِصَاصِيَّةٍ لَمَا أَدْرَكْنَا الْمُدْرِكَ ذَاتَهُ وَلَا غَيْرَهُ، فَإِذَا عَجَزَ عَنْ إِدْرَاكِ ذَاتِهِ الْمَوْجُودَةِ الْحِسِّيَّةِ وَذَاتِ غَيْرِهِ كَشْفًا أَوْ عِلْمِيًّا فَكَيْفَ يُدْرِكُ حَقَائِقَ التَّوْحِيدِ أَوْ يَفْهَمُ عَنِ اللَّهِ تَعَالَى عَلَى لِسَانِ نَبِيِّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَأَمَّا هِيَ لَطِيفَةٌ أَوْدَعَهَا اللَّهُ تَعَالَى الْوَاحِدُ اخْتَارَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ جُمْلَةً فَمِنْهُمْ مَنْ كَشَفَهَا لَهُ جُمْلَةً وَمِنْهُمْ مَنْ كَشَفَهَا لَهُ تَفْصِيلًا وَمِنْهُمْ مَنْ كُشِفَ لَهُ جُمْلَةً وَتَفْصِيلًا وَهُمُ الْمُرْسَلُونَ عَلَيْهِمُ الصَّلَاةُ وَالسَّلَامُ
+
+### 2. Latin
+
+Al-baabur raabi': al-kasyfu minallaah. Wa'lam annal kursiyya wal lauha wal qalama was samaawaati wal ardha fii nisbati qaa-imatin min qawaa-imil 'arsyits tsamaaniyati kahalqatin mulqaatin fii falaatin minal ardhi, fayadzhalu fii 'ainit tauhiidi wa yastaghriqu fii riyaadhit tajriidi wat tafriidi.
+
+Al-'ainuts tsaaniyatu tanzhuru bi-anwaaril iftiyaaqi wa hiyal latii yudraku bihal lathiifatu allatii awda'ahaallaahu fii quluubil mu'miniina hattaa adrakuu dzaalika 'ilman wa kasyfan, wa lau laa haadzihil lathiifatu likhtishaashiyyatin lamaa adraknal mudrika dzaatahu wa laa ghairahu, fa-idzaa 'ajaza 'an idraaki dzaatihil maujuudatil hissiyyati wa dzaati ghairihi kasyfan aw 'ilmiyyan fakaifa yudriku haqaa-iqat tauhiidi aw yafhamu 'anillaahi ta'aalaa 'alaa lisaani nabiyyihi shallallaahu 'alaihi wa sallama, wa ammaa hiya lathiifatun awda'ahaallaahu ta'aalal waahidu akhtaara liman yasyaa-u min 'ibaadihi jumlatan faminhum man kasyafahaa lahu jumlatan wa minhum man kasyafahaa lahu tafshiilan wa minhum man kusyifa lahu jumlatan wa tafshiilan wa humul mursaluuna 'alaihimush shalaatu was salaamu.
+
+### 3. Terjemahan
+
+Bab keempat: Penyingkapan dari Allah. Ketahuilah bahwa Kursi, Lauh, Pena, langit-langit, dan bumi, dalam perbandingan dengan salah satu tiang Arasy yang delapan, adalah seperti cincin yang dilemparkan di hamparan bumi; maka ia tercengang dalam mata tauhid dan tenggelam dalam taman-taman tajrid dan tafrid.
+
+Mata kedua memandang dengan cahaya-cahaya keterbukaan; dengannya ditangkap lathifah yang Allah titipkan dalam hati orang-orang mukmin sehingga mereka menangkap hal itu secara ilmu dan kasyaf. Seandainya bukan karena lathifah ini—dengan kekhususan (yang ada padanya)—tentu kita tidak akan menangkap yang menangkap itu, baik zatnya maupun selainnya. Maka apabila ia lemah menangkap zat dirinya yang wujud dan indrawi, dan zat selainnya, baik secara kasyaf maupun ilmiah, bagaimana ia akan menangkap hakikat-hakikat tauhid atau memahami dari Allah—Mahatinggi—melalui lisan Nabi-Nya—semoga Allah melimpahkan salawat dan salam kepadanya? Adapun lathifah itu adalah sesuatu yang Allah—Mahatinggi—Yang Maha Esa titipkan; Dia memilih siapa yang Dia kehendaki dari hamba-hamba-Nya secara keseluruhan: di antara mereka ada yang disingkapkan kepadanya secara keseluruhan, ada yang disingkapkan kepadanya secara terperinci, dan ada yang disingkapkan kepadanya secara keseluruhan dan terperinci; mereka itulah para rasul—semoga salawat dan salam dilimpahkan kepada mereka.
+
+### 4. Syarah
+
+«كَحَلْقَةٍ مُلْقَاةٍ فِي فَلَاةٍ» perumpamaan kecilnya makhluk dibanding Arasy; tidak diubah. «فَيَذْهَلُ» bisa «فيَذهَل» (tercengang) atau «يَزْهَل»; dipilih yang lazim.
+
+«لِاخْتِصَاصِيَّةٍ» tidak jelas; dipertahankan tanpa dilancarkan. «الْوَاحِدُ» dibaca sebagai sifat/nama; «اخْتَارَ» fa‘ilnya Allah.
+
+## M23 — Halaman 23, dua khazanah Nabi dan khazanah sunnah
+
+### 1. Arab
+
+وَأَعْظَمُهُمْ فِي ذَلِكَ حَكِيمُنَا نَبِيُّنَا مُحَمَّدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ فِيهِ خِزَانَتَانِ: خِزَانَةُ النَّفْسِ عَلَى اخْتِلَافِ الْإِشَارَاتِ فِي عَالَمِ الْحُرُوفِ وَهِيَ الَّتِي تُبْرِزُ الْمَعَانِيَ الدَّالَّةَ عَلَى حَقَائِقَ مُخْتَصَّةٍ، وَالْخِزَانَةُ الثَّانِيَةُ خِزَانَةُ الْحِسِّ وَهِيَ الَّتِي أَوْدَعَ فِيهَا أَسْرَارَ الصَّنَائِعِ وَالْأَسْرَارَ التَّدْبِيرَ الطَّبِيعِيَّ وَاخْتِلَافَ أَطْوَارِ الشَّهَوَاتِ فِي أَنْوَاعِ الْمَزْوِجَاتِ
+
+اللَّطِيفُ لِلَّطِيفِ وَالْكَثِيفُ لِلْكَثِيفِ، ثُمَّ فِيهِ خِزَانَتَانِ: خِزَانَةُ الْأَمْرِ الْأَعْلَى وَهِيَ الَّتِي فِيهَا كِتَابُ اللَّهِ تَعَالَى وَهُوَ عَقِيلَةٌ إِلَى أَنْ يَتْلُوَاهُ التَّالِي فَتَنْفَتِحُ وَيَبْرُزُ الْقُرْآنُ فِي ذَوَاتِ الْحُرُوفِ، فَمَنْ تَلَا ظَاهِرًا كَمَنْ فَتَحَ مُوثَقًا وَمَنْ تَلَا بَاطِنًا كَانَتْ دَائِمَةَ الْفَتْحِ، وَهَذَا الَّذِي يُشَاهِدُ حَقَائِقَ الْآيَاتِ آيَاتٍ ظَاهِرَةً وَعَوَالِمَ قُدْرَةٍ قَاهِرَةٍ
+
+الْخِزَانَةُ الثَّانِيَةُ وَهِيَ خِزَانَةُ عَالَمِ الْأَمْرِ وَهِيَ الَّتِي فِيهَا أَسْرَارُ السُّنَّةِ وَبِهَا التَّصْدِيقُ وَهِيَ مُقْفَلَةٌ إِلَى أَنْ تَتَحَرَّكَ حَرَكَةٌ مَنُوطَةٌ بِالسُّنَّةِ مُؤْمِنًا فَيُفْتَحُ بَابُهَا، وَإِنَّ حَرَكَاتِهِ فِي السُّنَّةِ مُوقِتًا فُتِحَتْ لَهُ فَتْحًا، وَمَا وَإِنَّ حَرَكَاتِهِ كُلَّهَا بِالسُّنَّةِ لَمْ يَزَلِ الْبَابُ مَفْتُوحًا فَإِنْ أَخَذَ بِظَاهِرِ السُّنَّةِ
+
+### 2. Latin
+
+Wa a'zhzhumuhum fii dzaalika hakiimunaa nabiyyunaa Muhammadun shallallaahu 'alaihi wa sallama, tsumma fiihi khizaanataani: khizaanatun nafsi 'alal ikhtilaafil isyaaraati fii 'aalamil huruufi wa hiyal latii tubrizul ma'aaniyad daallata 'alaa haqaa-iqa mukhtashshatin, wal khizaanatuts tsaaniyatu khizaanatul hissi wa hiyal latii awda'a fiihaa asraarash shanaa-i'i wal asraarat tadbiirath thabii'iyya wakhtilaafa athwaarisy syahawaati fii anwaa'il mazwijaati.
+
+Allathiifu lil-lathiifi wal katsiifu lil-katsiifi, tsumma fiihi khizaanataani: khizaanatul amril a'laa wa hiyal latii fiihaa kitaabullaahi ta'aalaa wa huwa 'aqiilatun ilaa an yatluwaahut taalii fatanfatihu wa yabruzul qur'aanu fii dzaawaatil huruufi, faman talaa zhaahiran kaman fataha muutsaqan wa man talaa baathinan kaanat daa-imatal fathi, wa haadzal ladzii yusyaahidu haqaa-iqal aayaati aayaatin zhaahiratan wa 'awaalima qudratin qaahiratin.
+
+Al-khizaanatuts tsaaniyatu wa hiya khizaanatu 'aalamil amri wa hiyal latii fiihaa asraarus sunnati wa bihat tashdiiqi wa hiya muqfalatun ilaa an tataharraka harakatun manuuthatun bis sunnati mu'minan fayuf-tahu baabuhaa, wa inna harakaatihi fis sunnati muuqitan futihat lahu fathan, wa maa wa inna harakaatihi kullahaa bis sunnati lam yazalil baabu maftuuhan fa-in akhadza bizhaahiris sunnati«…»
+
+### 3. Terjemahan
+
+Dan yang paling agung di antara mereka dalam hal itu adalah orang bijak kami, Nabi kami Muhammad—semoga Allah melimpahkan salawat dan salam kepadanya. Kemudian padanya ada dua khazanah: khazanah jiwa menurut perbedaan isyarat dalam alam huruf, yaitu yang memunculkan makna-makna yang menunjukkan hakikat-hakikat tertentu; dan khazanah kedua, khazanah indra, yaitu yang padanya dititipkan rahasia-rahasia industri, rahasia pengaturan alami, dan perbedaan fase syahwat dalam macam-macam pasangan.
+
+Yang lembut untuk yang lembut dan yang kasar untuk yang kasar. Kemudian padanya ada dua khazanah: khazanah perkara yang paling tinggi, yaitu yang padanya terdapat Kitab Allah—Mahatinggi—dan ia terikat sampai dibacakan oleh pembaca, lalu terbuka dan al-Qur'an tampak dalam zat-zat huruf. Maka siapa yang membaca secara lahir seperti orang yang membuka (sesuatu) yang terikat; dan siapa yang membaca secara batin, maka pembukaannya terus-menerus. Inilah yang menyaksikan hakikat-hakikat ayat sebagai ayat-ayat yang lahir dan alam-alam kekuasaan yang menundukkan.
+
+Khazanah kedua, yaitu khazanah alam amr; padanya terdapat rahasia-rahasia sunnah, dan dengannya pembenaran (tashdiq); ia terkunci sampai bergerak suatu gerakan yang terkait dengan sunnah sebagai mukmin, lalu terbukalah pintunya. Dan sesungguhnya gerakan-gerakannya dalam sunnah pada waktu tertentu, dibukakan baginya suatu pembukaan; dan apa «…» dan sesungguhnya seluruh gerakannya dengan sunnah, pintu itu senantiasa terbuka. Maka jika ia mengambil sisi lahir sunnah «…»
+
+### 4. Syarah
+
+«الْحِسِّ» bisa pula «الْحَبْس» atau «الْحُسْن»; yang terbaca «الحس», dipertahankan. «الْأَسْرَارَ التَّدْبِيرَ» susunan tidak sejajar; tidak diperbaiki.
+
+«عَقِيلَةٌ» janggal; kemungkinan «مُقْفَلَة» (terkunci) mengingat «موثقا» pada lanjutan — dipertahankan dan dicatat sebagai persoalan. «يَتْلُوَاهُ» bentuk ganda; dipertahankan.
+
+«مُؤْمِنًا» bisa dibaca «مؤمنا» (hal) atau «مؤمنا» sebagai sifat pelaku; dipilih sebagai hal. «وَمَا وَإِنَّ» ziyadah tidak jelas; dipertahankan.
+
+## M24 — Halaman 24, khazanah ratq dan fatq (akhir target halaman 24)
+
+### 1. Arab
+
+وَبَاطِنِهَا فُتِحَ لَهُ ظَاهِرُ الْبَابِ وَبَاطِنُهُ، ثُمَّ لَهُ خِزَانَتَانِ: خِزَانَةُ خَمْسِ الرَّتْقِ وَهِيَ الَّتِي فِيهَا أَسْرَارُ الْقَدَرِ، فَإِذَا تَفَكَّرَ فِي أَسْبَابِ الْقُدْرَةِ فُتِحَ لَهُ ظَاهِرُ الْبَابِ، فَإِذَا ارْتَقَى إِلَى حَقِيقَةِ الْأَسْبَابِ فُتِحَ لَهُ الْبَابُ الْبَاطِنُ فَيَشْهَدُ الْقَدَرَ وَكَيْفَ هُوَ مَصْرِفٌ لِلْمَوْجُودَاتِ عَلَى وَفْقِ الِاخْتِيَارِ الْإِلَهِيِّ، وَمِنْ هَاهُنَا قَالَ أَبُو يَزِيدَ رَضِيَ اللَّهُ عَنْهُ: أَقَمْتُ أَرْبَعِينَ سَنَةً أَخْرُجُ مِنْ دَارِي لَا أَدْرِي أَيْنَ أَذْهَبُ. مَعْنَاهُ عَدَمُ التَّفْرِقَةِ بِحَرَكَاتِ الْقَدَرِ السَّبَّاقِ إِذَا نَظَرَ لَا يَتَعَدَّ رَفْعُ الْقَدَرِ
+
+الْخِزَانَةُ الثَّانِيَةُ فِيهَا سِرُّ الْفَتْقِ وَهِيَ الَّتِي فِيهَا أَسْرَارُ الْإِرَادَةِ، فَإِذَا نَظَرَ إِلَى اخْتِلَافِ الْأَنْفَاسِ وَتَرْتِيبِ الْحَوَاسِّ وَكَيْفَ عَالَمُ الْخَلْقِ فِي بِحَارِ التَّكْوِينِ فَإِذَا نَظَرَ ذَلِكَ عِلْمًا فُتِحَ لَهُ بَابُ الْحِكْمَةِ، فَهِيَ تُفْتَحُ لِذَوِي الْإِلْهَامِ وَهُمُ الْمُحْدَثُونَ الَّذِينَ ذَكَرَهُمُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَذَوِي الْكَشْفِ وَهُمْ أَرْبَابُ التَّحْقِيقِ وَذَوِي الْفِرَاسَةِ وَهُمُ الرَّاسِخُونَ الْأَقْدَامِ فِي حَقَائِقِ الْإِيمَانِ، فَمَنْ كَمَلَ لَهُ هَذِهِ الْأَطْوَالُ فُتِحَ لَهُ بَابٌ بَاطِنًا وَظَاهِرًا
+
+### 2. Latin
+
+Wa baathinihaa futiha lahu zhaahirul baabi wa baathinuhu, tsumma lahu khizaanataani: khizaanatu khamsil ratqi wa hiyal latii fiihaa asraarul qadari, fa-idzaa tafakkara fii asbaabil qudrati futiha lahu zhaahirul baabi, fa-idzaa irtaqaa ilaa haqiiqatil asbaabi futiha lahul baabul baathinu fayasyhadul qadara wa kaifa huwa mashrifun lil maujuudaati 'alaa wafqil ikhtiyaaril ilaahiyyi, wa min haahunaa qaala Abuu Yaziida radhiyallaahu 'anhu: aqamtu arba'iina sanatan akhruju min daarii laa adrii aina adzhabu. Ma'naahu 'adamut tafriqati biharakaatil qadaril sabbaaqi idzaa nazhara laa yata'adda raf'ul qadari.
+
+Al-khizaanatuts tsaaniyatu fiihaa sirrul fatqi wa hiyal latii fiihaa asraarul iraadati, fa-idzaa nazhara ilal ikhtilaafil anfaasi wa tartiibil hawaassi wa kaifa 'aalamul khalqi fii bihaarit takwiini fa-idzaa nazhara dzaalika 'ilman futiha lahu baabul hikmati, fahiya tuf-tahu lidzawil ilhaami wa humul muhdatsuunal ladziina dzakarahumun nabiyyu shallallaahu 'alaihi wa sallama wa dzawil kasyfi wa hum arbaabut tahqiiqi wa dzawil firaasati wa humur raasikhuunal aqdaamu fii haqaa-iqil iimaani, faman kamala lahu haadzihil athwaalu futiha lahu baabun baathinan wa zhaahiran.
+
+### 3. Terjemahan
+
+Dan batinnya, maka dibukakan baginya sisi lahir dan batin pintu itu. Kemudian padanya ada dua khazanah: khazanah lima ratq (ikatan), yaitu yang padanya terdapat rahasia-rahasia qadar. Maka apabila ia memikirkan sebab-sebab kekuasaan, dibukakan baginya sisi lahir pintu; maka apabila ia naik ke hakikat sebab-sebab, dibukakan baginya pintu batin, sehingga ia menyaksikan qadar dan bagaimana ia mengatur wujud-wujud sesuai pilihan ilahi. Dari sini Abu Yazid—semoga Allah meridainya—berkata: «Aku berdiam empat puluh tahun, aku keluar dari rumahku tanpa tahu ke mana aku pergi.» Maknanya: tidak terpecah oleh gerakan-gerakan qadar yang mendahului; apabila ia memandang, (ia) tidak melampaui pengangkatan qadar.
+
+Khazanah kedua: padanya terdapat rahasia fatq (pembukaan), yaitu yang padanya terdapat rahasia-rahasia kehendak. Maka apabila ia memandang perbedaan napas-napas, penataan indra-indra, dan bagaimana alam makhluk berada dalam lautan penciptaan, lalu ia memandang itu secara ilmu, dibukakan baginya pintu hikmah. Ia dibukakan bagi pemilik ilham, yaitu orang-orang yang Allah munculkan (muhaddatsun) yang disebut Nabi—semoga Allah melimpahkan salawat dan salam kepadanya; bagi pemilik kasyaf, yaitu para pemilik tahqiq; dan bagi pemilik firasat, yaitu orang-orang yang kokoh langkahnya dalam hakikat iman. Maka siapa yang sempurna baginya panjang-panjang ini, dibukakan baginya pintu secara batin dan lahir.
+
+### 4. Syarah
+
+«خَمْسِ الرَّتْقِ» berpasangan dengan «الفتق»; «خمس» di sini bagian dari istilah, tidak diterjemahkan sebagai bilangan hari. «الْقُدْرَة» pada «أسباب القدرة» bisa pula «الْقَدَر»; yang terbaca «القدرة», dipertahankan. Ucapan Abu Yazid dinisbatkan penulis; tidak diverifikasi sanadnya.
+
+«الْمُحْدَثُونَ» dibaca sesuai cetakan; dalam hadis lazimnya «مُحَدَّثُون» (orang yang diajak bicara malaikat). Keduanya dicatat; teks tidak diubah tanpa bukti cetak tambahan. «الرَّاسِخُونَ الْأَقْدَامِ» susunan kiasan; dipertahankan.
+
+## M25 — Halaman 25, khazanah nama-nama dan penutup pasal
+
+### 1. Arab
+
+ثُمَّ خِزَانَةُ الْأَسْمَاءِ وَهِيَ الَّتِي أَوْدَعَ اللَّهُ تَعَالَى فِيهَا سِرَّ أَسْمَائِهِ الْحُسْنَى وَأَسْمَاءَ مَخْلُوقَاتِهِ كُلَّهَا عَلَى الْجُمْلَةِ وَالتَّفْصِيلِ
+
+فَمَنْ غَلَبَتْ عَلَيْهِ الْأَفْعَالُ فُتِحَ لَهُ ظَاهِرُ الْبَابِ فَيُدْرِكُ مِنْهُ أَسْمَاءَ الْمَوْجُودَاتِ عَلَى اخْتِلَافِ أَنْوَاعِهَا، وَمَنْ غَلَبَ عَلَيْهِ الْحَالُ كُشِفَ لَهُ فِي حَالِ أَسْمَاءِ اللَّهِ «الْخَزَرْنَد» حَسَبَ تَمَكُّنِ الْحَالِ مِنْ حَقِيقَةِ الصِّدْقِ فَيَتَجَانَسُ اللَّهُ تَعَالَى بِأَسْمَائِهِ الْمَكْنُونَةِ
+
+وَهُمْ خَوَاصُّ الْأَوْلِيَاءِ وَجَوَاهِرُ الْأَصْفِيَاءِ
+
+### 2. Latin
+
+Tsumma khizaanatul asmaa-i wa hiyal latii awda'allaahu ta'aalaa fiihaa sirra asmaa-ihil husnaa wa asmaa-a makhluuqaatihi kullahaa 'alal jumlati wat tafshiili.
+
+Faman ghalabat 'alaihil af'aalu futiha lahu zhaahirul baabi fayudriku minhu asmaa-al maujuudaati 'alal ikhtilaafi anwaa'ihaa, wa man ghalaba 'alaihil haalu kusyifa lahu fii haali asmaa-illaahi «al-khazarnad» hasaba tamakkunil haali min haqiiqatish shidqi fayatajaanasullaahu ta'aalaa bi-asmaa-ihil maknuunati.
+
+Wa hum khawaashshul auliyaa-i wa jawaahirul ashfiyaa-i.
+
+### 3. Terjemahan
+
+Kemudian khazanah nama-nama, yaitu yang padanya Allah—Mahatinggi—menitipkan rahasia nama-nama-Nya yang terbaik dan nama-nama seluruh makhluk-Nya, secara keseluruhan dan terperinci.
+
+Maka siapa yang perbuatan-perbuatan menguasainya, dibukakan baginya sisi lahir pintu, sehingga ia menangkap nama-nama wujud dengan berbagai macamnya; dan siapa yang keadaan menguasainya, disingkapkan baginya dalam keadaan nama-nama Allah «al-khazarnad» sesuai kemampuan keadaan itu atas hakikat kejujuran, sehingga Allah—Mahatinggi—menyelaraskan dengan nama-nama-Nya yang tersimpan.
+
+Mereka itulah orang-orang khusus di antara para wali dan permata para insan pilihan.
+
+### 4. Syarah
+
+«مَخْلُوقَاتِهِ» terbaca jelas; pada cetakan huruf tengah agak rapat.
+
+Kata «الْخَزَرْنَد» tidak dikenali sebagai kata Arab baku dan cetakannya tidak jelas; ditandai «…» dan tidak diganti dengan tafsiran. Kemungkinan salah baca atas kata lain, termasuk istilah teknis penulis.
+
+«خَوَاصّ» dibaca dengan tasydid; cetakan tanpa harakat.
+
+Penutup pasal; sisa halaman ini kosong pada gambar (bayangan tembus dari sisi seberang), bukan teks yang hilang.
+
+## M26 — Halaman 26, pembuka Bab Kelima: khazanah tauhid
+
+### 1. Arab
+
+الْبَابُ الْخَامِسُ
+
+خِزَانَةُ التَّوْحِيدِ
+
+وَخِزَانَةُ التَّوْحِيدِ وَهِيَ الَّتِي نَسَبَتْ وَجْهَهَا أَهْلُ الصِّدْقِ مَعَ اللَّهِ تَعَالَى إِذَا وَجَدُوا فِي خِدْمَةِ مَوْلَاهُمْ، وَأَهْلُ التَّحْقِيقِ فِي حَقِيقَتِهِمْ، وَأَهْلُ الْحَالِ فِي حَالِهِمْ إِذَا عَلِمَ اللَّهُ جُهْدَهُمْ وَإِخْلَاصَ أَعْمَالِهِمْ
+
+فَيُفْتَحُ لَهُمْ هَذِهِ الْخَزَانَةُ لِيَهِبَ نَسِيمُ الْقُرْبِ، فَيُعْرَفُ الرِّضَا عَلَى أَنْفَاسِ السَّائِرِينَ إِلَى اللَّهِ تَعَالَى فَتَنْعَشُهُمْ وَتُرَفِّهُهُمْ، فَمَنْ ثَبَتَ رِضَاهُ بِالْقَضَاءِ مَعَ الصَّبْرِ وَالتَّوَكُّلِ وَالْيَقِينِ اسْتَنْشَرَحَ بِرَوْحِ جَنَّةِ الْمَعَارِفِ مِنْ خِزَانَةِ التَّوْحِيدِ
+
+فَإِذَا أَرَدْتَ أَنْ تَعْلَمَ هَذِهِ الْخَزَائِنَ مَوْجُودَةً فِي الْقُلُوبِ أَمْ لَا فَاعْلَمْ أَنَّ الْقَلْبَ مُنْزَلٌ عَلَيْهِ الْقُرْآنُ الْعَظِيمُ فَهُوَ حَقِيقَةٌ قَابِلَةٌ لِكِتَابِ اللَّهِ عَزَّ وَجَلَّ بِسِرِّ الْإِيمَانِ الْمَكْنُونِ فِيهِ. وَالْقُرْآنُ مَجْمَعُ كُلِّ شَيْءٍ فِي الْأَسْمَاءِ وَالْأَفْعَالِ وَغَيْرِ ذَلِكَ مِمَّا لَا يَعْلَمُهُ إِلَّا اللَّهُ تَعَالَى، وَلِذَلِكَ قَالَ فِي كِتَابِهِ الْعَزِيزِ: «مَا فَرَّطْنَا فِي الْكِتَابِ مِنْ شَيْءٍ»، وَالْقَلْبُ حَامِلُ الْقُرْآنِ وَكُلُّ
+
+### 2. Latin
+
+Al-baabul khaamisu: khizaanatut tauhiid. Wa khizaanatut tauhiidi wa hiyal latii nasabat wajhahaa ahlush shidqi ma'allaahi ta'aalaa idzaa wajaduu fii khidmati maulaahum, wa ahlut tahqiiqi fii haqiiqatihim, wa ahlul haali fii haalihim idzaa 'alimallaahu juhdahum wa ikhlaasha a'maalihim.
+
+Fayuf-tahu lahum haadzihil khizaanatu liyahaba nasiimul qurbi, fayu'rafur ridhaa 'alaa anfaasis saa-iriina ilallaahi ta'aalaa fatan'asyuhum wa turaffihuhum, faman tsabata ridhaahu bilqadhaa-i ma'ash shabri wat tawakkuli wal yaqiini istansyaraha biruuhi jannatil ma'aarifi min khizaanatit tauhiid.
+
+Fa-idzaa aradta an ta'lama haadzihil khazaa-ina maujuudatan fil quluubi am laa fa'lam annal qalba munzalatun 'alaihil qur'aanul 'azhiimu fahuwa haqiiqatun qaabilatun likitaabillaahi 'azza wa jalla bisirril iimaanil maknuuni fiihi. Wal qur'aanu majma'u kulli syai-in fil asmaa-i wal af'aali wa ghairi dzaalika mimmaa laa ya'lamuhu illallaahu ta'aalaa, wa lidzaalika qaala fii kitaabihil 'aziizi: «Maa farrathnaa fil kitaabi min syai-in», wal qalbu haamilul qur'aani wa kullu«…»
+
+### 3. Terjemahan
+
+Bab kelima: khazanah tauhid. Khazanah tauhid ialah yang kepadanya menghadapkan wajahnya ahli kejujuran bersama Allah—Mahatinggi—ketika mereka mendapati diri dalam mengabdi kepada Tuhan mereka; juga ahli tahqiq dalam hakikat mereka, dan ahli keadaan dalam keadaan mereka, ketika Allah mengetahui kesungguhan dan keikhlasan amal mereka.
+
+Maka dibukakan bagi mereka khazanah ini agar hembusan kedekatan memberi, sehingga keridaan dikenali pada napas-napas orang yang berjalan menuju Allah—Mahatinggi—lalu ia menyegarkan dan melegakan mereka. Maka siapa yang tetap keridaannya atas ketetapan, bersama kesabaran, tawakal, dan keyakinan, ia pun terbentang dengan ruh taman ma‘rifat dari khazanah tauhid.
+
+Maka apabila engkau ingin mengetahui apakah khazanah-khazanah ini ada di dalam hati atau tidak, ketahuilah bahwa hati adalah tempat diturunkannya al-Qur'an yang agung; ia adalah hakikat yang menerima Kitab Allah—Yang Mahaperkasa lagi Mahaagung—dengan rahasia iman yang tersimpan di dalamnya. Al-Qur'an adalah himpunan segala sesuatu dalam nama-nama, perbuatan-perbuatan, dan selain itu, yang tidak diketahui kecuali oleh Allah—Mahatinggi—; karena itu Dia berfirman dalam Kitab-Nya yang mulia: «Kami tidak melupakan sesuatu pun dalam Kitab» (QS al-An‘am 6:38). Hati adalah pembawa al-Qur'an dan setiap «…»
+
+### 4. Syarah
+
+«نَسَبَتْ وَجْهَهَا» memakai dhamir mu’annats meski «أهل» mudzakkar; dipertahankan sebagai bentuk cetak.
+
+«اسْتَنْشَرَحَ» bentuk tidak lazim (mungkin «استشرح» atau «انشرح»); dipertahankan dan dicatat. «يَهِبَ» manshub setelah lam ta‘lil.
+
+Kutipan «ما فرطنا في الكتاب من شيء» dicocokkan dengan QS al-An‘am 6:38 («مَّا فَرَّطْنَا فِي الْكِتَابِ مِن شَيْءٍ»); penulis tidak menyebut nomor, penomoran ditambahkan editor. «مُنْزَلٌ عَلَيْهِ» susunan pasif yang tidak lazim; dipertahankan.
+
+## M27 — Halaman 27, khazanah hati dan awal delapan lembah
+
+### 1. Arab
+
+شَيْءٍ فِي الْقَلْبِ أَيْ حَقِيقَةُ كُلِّ شَيْءٍ فِي الْقَلْبِ، وَاللَّهُ سُبْحَانَهُ وَتَعَالَى يَقُولُ: «وَإِنْ مِنْ شَيْءٍ إِلَّا عِنْدَنَا خَزَائِنُهُ»، وَالْقَلْبُ خَزَائِنُ مَا فِي الْكِتَابِ الْعَزِيزِ. قَالَ اللَّهُ تَعَالَى: «وَمَا نُنَزِّلُهُ إِلَّا بِقَدَرٍ مَعْلُومٍ»، وَبَسِيطُ الرَّحْمَةِ إِذْ لَوْ ظَهَرَ لِلْعَوَالِمِ الْقَلْبِيِّ دَفْعَةً وَاحِدَةً لَتَلَاشَى الْجِسْمُ وَخَرِبَ الْحِسُّ، ثُمَّ فِيهِ أَوْدِيَةٌ ثَمَانِيَةٌ وَأَنَّ اللَّهَ تَبَارَكَ وَتَعَالَى مَلَأَهَا بِمَاءِ الْعِلْمِ كُلَّ وَادٍ مِنْ هَذِهِ الْأَوْدِيَةِ بِقَدْرِ احْتِمَالِهِ
+
+وَقَوْلُهُ تَعَالَى: «أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا فَاحْتَمَلَ السَّيْلُ زَبَدًا رَابِيًا وَمِمَّا يُوقِدُونَ عَلَيْهِ فِي النَّارِ» إِلَى قَوْلِهِ «كَذَلِكَ يَضْرِبُ اللَّهُ الْحَقَّ وَالْبَاطِلَ»، وَكَذَلِكَ قَوْلُهُ: «يَضْرِبُ اللَّهُ الْأَمْثَالَ». وَإِنَّمَا أَرَادَ بِالْأَوْدِيَةِ أَوْدِيَةَ الْقُلُوبِ وَبِالْمَاءِ الْعِلْمَ وَأَنْ يَزِيدَ مَا يَحْجُبُ الْعِلْمَ
+
+فَالْوَادِي الْأَوَّلُ: هُوَ وَادِي الْأَفْكَارِ وَتَسِيلُ فِيهِ مَاءُ التَّوْحِيدِ «فَتَنْظُرُ فِيهِ» الْفَنَاءَ فِي شُهُودِ الْحَضْرَةِ الرَّبَّانِيَّةِ
+
+وَالْوَادِي الثَّانِي: هِيَ وَادِي التَّدْبِيرِ وَمَاؤُهُ الِاسْتِغْرَاقُ فِي الْوُجُودِ
+
+وَالْوَادِي الثَّالِثُ: هُوَ وَادِي الذِّكْرِ وَمَاؤُهُ الرَّحْمَةُ وَقَنْطَرَتُهُ
+
+### 2. Latin
+
+Syai-in fil qalbi ay haqiiqatu kulli syai-in fil qalbi, wallaahu subhaanahu wa ta'aalaa yaquulu: «Wa in min syai-in illaa 'indanaa khazaa-inuhu», wal qalbu khazaa-inu maa fil kitaabil 'aziizi. Qaalaallaahu ta'aalaa: «Wa maa nunazziluhu illaa biqadarin ma'luumin», wa basiithur rahmati idz lau zhahara lil 'awaalimil qalbiyyi daf'atan waahidatan latalaasyaal jusmu wa kharibal hissu, tsumma fiihi awdiyatun tsamaaniyatun wa annallaaha tabaaraka wa ta'aalaa mala-ahaa bimaa-il 'ilmi kulla waadin min haadzihil awdiyati biqadri ihtimaalihi.
+
+Wa qawluhu ta'aalaa: «Anzala minas samaa-i maa-an fasaalat awdiyatun biqadarihaa fahtamalas sailu zabadan raabiyan wa mimmaa yuuqiduuna 'alaihi fin naar» ilaa qawlihi «Kadzaalika yadhribullaahul haqqa wal baathila», wa kadzaalika qawluhu: «Yadhribullaahul amtsaala». Wa innamaa araada bil awdiyati awdiyatal quluubi wa bil maa-il 'ilma wa an yaziida maa yahjubul 'ilma.
+
+Fal-waadil awwalu: huwa waadil afkaari wa tasiilu fiihi maa-ut tauhiidi «fatanzhuru fiihil fanaa-a fii syuhuudil hadhratir rabbaaniyyati. Wal waadits tsaanii: hiya waadit tadbiiri wa maa-uhul istighraaqu fil wujuudi. Wal waadits tsaalitsu: huwa waadidz dzikri wa maa-uhur rahmatu wa qantharatuhu«…»
+
+### 3. Terjemahan
+
+«…» sesuatu di dalam hati, yakni hakikat segala sesuatu ada di dalam hati. Allah—Mahasuci dan Mahatinggi—berfirman: «Dan tidak ada sesuatu pun melainkan pada sisi Kami-lah khazanahnya» (QS al-Hijr 15:21). Hati adalah khazanah-khazanah apa yang ada dalam Kitab yang mulia. Allah—Mahatinggi—berfirman: «Dan Kami tidak menurunkannya melainkan dengan ukuran yang tertentu» (QS al-Hijr 15:21). Dan (yang demikian itu karena) luasnya rahmat: seandainya yang bersifat hati itu tampak kepada alam-alam sekaligus, niscaya tubuh akan hancur dan indra rusak. Kemudian padanya ada delapan lembah, dan Allah—Mahatinggi dan Mahasuci—memenuhinya dengan air ilmu, setiap lembah sesuai daya tampungnya.
+
+Dan firman-Nya—Mahatinggi—: «Dia menurunkan air dari langit, maka mengalirlah lembah-lembah menurut ukurannya, lalu air yang mengalir itu membawa buih yang mengapung; dan dari apa yang mereka lebur dalam api» sampai firman-Nya «Demikianlah Allah membuat perumpamaan bagi yang benar dan yang batil» (QS ar-Ra‘d 13:17); dan demikian pula firman-Nya: «Allah membuat perumpamaan-perumpamaan». Yang dimaksud dengan lembah-lembah adalah lembah-lembah hati, dengan air adalah ilmu, dan bahwa bertambah apa yang menutupi ilmu.
+
+Lembah pertama: yaitu lembah pikiran-pikiran, dan di dalamnya mengalir air tauhid, «maka engkau memandang» di dalamnya kefanaan dalam menyaksikan hadirat rabbani. Lembah kedua: yaitu lembah pengaturan, dan airnya adalah tenggelam dalam wujud. Lembah ketiga: yaitu lembah zikir, airnya rahmat, dan jembatannya «…»
+
+### 4. Syarah
+
+Kedua kutipan berasal dari QS al-Hijr 15:21 (satu ayat memuat keduanya); penulis memisahkannya dan tidak menyebut nomor — penomoran ditambahkan editor. «بَسِيطُ الرَّحْمَةِ» susunan tidak jelas; dipertahankan tanpa dilancarkan.
+
+Kutipan dicocokkan dengan QS ar-Ra‘d 13:17; potongan «يضرب الله الأمثال» tidak ditemukan dengan redaksi itu di 13:17 (ayat memuat «كذلك يضرب الله الأمثال» pada sebagian riwayat bacaan), sehingga hanya dicatat, tidak diklaim sebagai kutipan utuh.
+
+«فَتَنْظُرُ فِيهِ» diberi tanda kutip ganda karena bentuk cetaknya tidak jelas (bisa «فتنظر فيه» atau «فينظر»); tidak diubah menjadi kalimat baru. «هِيَ وَادِي» memakai dhamir mu’annats pada lembah kedua meski sebelumnya mudzakkar; dipertahankan.
+
+## M28 — Halaman 28, delapan lembah dan ujian hati
+
+### 1. Arab
+
+الْإِخْلَاصِ وَالْخُلُوصِ وَالتَّخْلِيصِ
+
+الْوَادِي الرَّابِعُ: هُوَ وَادِي النَّظَرِ فِي حَقَائِقِ النَّفْسِ وَمَاؤُهُ الْعِلْمُ وَقَنْطَرَتُهُ الصِّدْقُ
+
+الْوَادِي الْخَامِسُ: هُوَ «وِرْدِي» الْحُضُورِ وَمَاؤُهُ الْمَحَبَّةُ وَقَنْطَرَتُهُ الشَّوْقُ
+
+الْوَادِي السَّادِسُ: هُوَ وَادِي الْعَمَلِ وَمَاؤُهُ التَّوْفِيقُ وَقَنْطَرَتُهُ التَّسْلِيمُ
+
+الْوَادِي السَّابِعُ: هُوَ وَادِي الْحِكْمَةِ وَمَاؤُهُ الْعِنَايَةُ وَقَنْطَرَتُهُ التَّقْوَى
+
+الْوَادِي الثَّامِنُ: هُوَ وَادِي الْحَقِيقَةِ وَمَاؤُهُ الْحَقُّ وَقَنْطَرَتُهُ الْفَتْحُ الرَّبَّانِيُّ
+
+فَهَذِهِ حَقِيقَةُ الْقَلْبِ وَتَقَلُّبُهُ فِي هَذِهِ الْأَطْوَارِ الْمَعْلُومَةِ وَالْأَسْرَارِ الْمَفْهُومَةِ، وَإِنَّمَا نَبَّهْنَا عَلَى عَوَالِمِ الْقَلْبِ لِيَعْلَمَ شَرَفَ مَنْزِلَتِهِ وَقُرْبَهُ مِنْ رَبِّهِ، إِذِ الِامْتِحَانُ بِالْقَلْبِ لَا يَقَعُ إِلَّا عَلَى الْقَلْبِ. قَالَ اللَّهُ تَعَالَى: «أُولَئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَى لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ». وَمِنْهُ قَوْلُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «قَلْبُ الْمُؤْمِنِ بَيْنَ أَصْبِعَيْنِ»
+
+### 2. Latin
+
+Al-ikhlaashi wal khuluushi wat takhliishi. Al-waadir raabi'u: huwa waadin nazhari fii haqaa-iqin nafsi wa maa-uhul 'ilmu wa qantharatuhush shidqu. Al-waadil khaamisu: huwa «wirdii» al-hudhuuri wa maa-uhul mahabbatu wa qantharatuhusy syauqu. Al-waadis saadisu: huwa waadil 'amali wa maa-uhut taufiiqu wa qantharatuhut tasliimu. Al-waadis saabi'u: huwa waadil hikmati wa maa-uhul 'inaayatu wa qantharatuhut taqwaa. Al-waadits tsaaminu: huwa waadil haqiiqati wa maa-uhul haqqu wa qantharatuhul fathur rabbaaniyyu.
+
+Fahaadzihi haqiiqatul qalbi wa taqallubuhu fii haadzihil athwaaril ma'luumati wal asraaril mafhuumati, wa innamaa nabbahnaa 'alaa 'awaalimil qalbi liya'lama syarafa manzilatihi wa qurbahu min rabbihi, idzil imtihaanu bil qalbi laa yaqa'u illaa 'alal qalbi. Qaalaallaahu ta'aalaa: «Ulaa-ikal ladziina imtahanallaahu quluubahum lit taqwaa lahum maghfiratun wa ajrun 'azhiim». Wa minhu qawluhu shallallaahu 'alaihi wa sallama: «Qalbul mu'mini baina ashbi'aini».
+
+### 3. Terjemahan
+
+«…» keikhlasan, kemurnian, dan pemurnian. Lembah keempat: yaitu lembah pandangan ke dalam hakikat-hakikat jiwa; airnya ilmu dan jembatannya kejujuran. Lembah kelima: yaitu «wirid» kehadiran; airnya cinta dan jembatannya kerinduan. Lembah keenam: yaitu lembah amal; airnya taufik dan jembatannya penyerahan. Lembah ketujuh: yaitu lembah hikmah; airnya pemeliharaan dan jembatannya takwa. Lembah kedelapan: yaitu lembah hakikat; airnya kebenaran dan jembatannya pembukaan rabbani.
+
+Inilah hakikat hati dan perpindahannya dalam fase-fase yang diketahui dan rahasia-rahasia yang dipahami. Kami hanya memberi perhatian pada alam-alam hati agar diketahui kemuliaan kedudukannya dan kedekatannya dengan Tuhannya, karena ujian dengan hati tidak terjadi kecuali pada hati. Allah—Mahatinggi—berfirman: «Mereka itulah orang-orang yang Allah telah menguji hati mereka untuk ketakwaan; bagi mereka ampunan dan pahala yang besar» (QS al-Hujurat 49:3). Di antaranya sabda beliau—semoga Allah melimpahkan salawat dan salam kepadanya—: «Hati orang mukmin berada di antara dua jari «…»»
+
+### 4. Syarah
+
+«وِرْدِي» bertanda kutip karena cetakan mungkin «وَرْدِي» (taman) atau «وِرْدِي» (wirid); makna keduanya berbeda dan tidak dipilih diam-diam. Awal halaman adalah sambungan «قنطرته» dari halaman 27, yaitu keikhlasan.
+
+Kutipan Quran dicocokkan dengan QS al-Hujurat 49:3; penulis tidak menyebut nomor, penomoran ditambahkan editor. Hadis «قلب المؤمن بين أصبعين» dipotong di akhir halaman dan bersambung ke halaman 29; teks tidak dilengkapi dari luar.
+
+## M29 — Halaman 29, murid, khalwat delapan puluh hari, dan rujukan kitab penulis
+
+### 1. Arab
+
+مِنْ أَصَابِعِ الرَّحْمَنِ يُقَلِّبُهُ كَيْفَ يَشَاءُ. فَلْيَجْتَهِدِ الطَّالِبُ فِي كَشْفِهَا وَتَحْقِيقِ وَصْفِهَا وَهَذِهِ «الْقِرَاءَةُ» لَمْ يُدْرِكْهَا أَهْلُ الرِّيَاضَاتِ وَأَرْبَابُ الْمُنَازَلَاتِ
+
+وَأَمَّا الْمُرِيدُ الَّذِي يَطْلُبُ قَلْبَهُ فَرِيَاضَتُهُ وَأَنْ يَتَحَقَّقَ بَيْنَهُ التَّوْحِيدُ إِلَى اللَّهِ تَعَالَى لِيُكْشَفَ «بِهِدْيِهِ» حَقَائِقُ «بِمَقْصِدِهِ» فَيَصْعَدُ بِقَلْبِهِ تَأْكِيدًا عَلَى حَيِّ الْيَقِينِ وَالْكَشْفِ وَبِفِعْلِ الرِّيَاضَةِ بِشَرْطِهَا الْمَوْجُودِ فِي كِتَابِنَا «خَوَاصِّ الْقُرْآنِ فِي عِلَاجِ عَبِيدِ الرَّحْمَنِ» سَنُنْجِزُهَا بِالتَّفْصِيلِ
+
+وَلْيَكُنْ أَنْ يَلْزَمَ الْمُرِيدُ الْخَلْوَةَ ثَمَانِينَ يَوْمًا وَفِكْرُهُ «بِاقْتِدَاحٍ» وَيَكُونُ فِطْرُهُ عَلَى خُبْزِ الشَّعِيرِ أَوْ مِنْ «بُرْجُرَيْشٍ»
+
+### 2. Latin
+
+Min ashaabi'ir rahmaani yuqallibuhu kaifa yasyaa-u. Falyajtahidith thaali bu fii kasyfihaa wa tahqiiqi washfihaa wa haadzihil «qiraa-atu» lam yudrik-haa ahlur riyaadhaati wa arbaabul munaazalaati.
+
+Wa ammal muriidul ladzii yathlubu qalbahu fariyaadhatuhu wa an yatahaqqaqa bainahut tauhiidu ilallaahi ta'aalaa liyuk syafa «bihidyaa-hi» haqaa-iqa «bimaqshidihi» fayash'adu biqalbihi ta'kiidan 'alaa hayyil yaqiini wal kasyfi wa bifil'ir riyaadhah bisyarthihal maujuudi fii kitaabinaa «Khawaashshul Qur'aani fii 'ilaaji 'abiidir Rahmaani» sanunjizuhaa bit tafshiili.
+
+Wa liyakun an yalzamal muriidul khalwata tsamaaniina yauman wa fikruhu «biqtidaahin» wa yakuunu fithruhu 'alaa khubzisy sya'iiri aw min «burjuraisyn».
+
+### 3. Terjemahan
+
+«…» dari jari-jari Yang Maha Pengasih; Dia membaliknya sebagaimana Dia kehendaki. Hendaklah penuntut bersungguh-sungguh dalam menyingkapnya dan merealisasikan sifatnya. «Bacaan» ini tidak ditangkap oleh ahli riyadhah dan para pemilik manazalat.
+
+Adapun murid yang mencari hatinya, maka riyadhahnya ialah hendaklah tauhid terwujud di antaranya dan Allah—Mahatinggi—agar disingkapkan dengan petunjuk-Nya hakikat-hakikat «menurut tujuannya»; lalu ia naik dengan hatinya sebagai peneguhan atas kehidupan keyakinan dan kasyaf, dan dengan mengerjakan riyadhah beserta syaratnya yang ada dalam kitab kami «Khawaṣṣ al-Qur'an fī ‘Ilāj ‘Abīd al-Raḥmān», yang akan kami selesaikan secara terperinci.
+
+Hendaklah murid mewajibkan atas dirinya khalwat delapan puluh hari, sedangkan pikirannya «dengan pemantapan», dan berbukanya atas roti gandum (sya‘ir) atau dari «burghul/jarisya».
+
+### 4. Syarah
+
+Kata «الْقِرَاءَة» tidak jelas pada cetakan (bisa «الْقِرَاءَة» atau «الْفِرَاسَة»); ditandai kutip dan tidak ditetapkan.
+
+«بِهِدْيِهِ» dan «بِمَقْصِدِهِ» bertanda kutip karena cetakan tidak jelas; tidak diganti dengan kata yang lebih lancar. Judul kitab rujukan penulis dipertahankan apa adanya; tidak diverifikasi keberadaan atau isinya.
+
+«بِاقْتِدَاحٍ» dan «بُرْجُرَيْش» tidak dapat dipastikan dari cetakan; kata kedua tampaknya nama makanan (kemungkinan «جريش»: gandum pecah). Ditandai kutip, tidak diterjemahkan sebagai kepastian.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Khalwat delapan puluh hari dengan zikir dan fikr; berbuka dengan roti gandum (sya‘ir) atau burghul. Dicatat sebagai isi kitab, bukan anjuran medis, dan tidak ada jaminan hasil.
+
+**Waktu:** Khalwat delapan puluh hari
+
+**Media:** Roti gandum (sya‘īr) atau burghul/jarisya untuk berbuka
+
+## M30 — Halaman 30, pembuka Bab Keenam: jiwa, ruh, dan tubuh
+
+### 1. Arab
+
+الْبَابُ السَّادِسُ
+
+أَسْرَارُ النَّفْسِ
+
+اعْلَمْ أَنَّ هَذِهِ الرِّيَاضَةَ تُعَلِّمُكَ الِاسْتِشْرَافَ عَلَى حَقَائِقِ «نَفْسِهِ» وَذَلِكَ أَنَّ النَّفْسَ هِيَ الصِّنْفُ «الْمَخْلُوقَاتِ» وَأَشْرَفُ الْمَوْضُوعَاتِ لِأَنَّهَا عَاقِلَةٌ بِاللَّهِ سُبْحَانَهُ وَتَعَالَى عِلْمًا لَمْ تَبْلُغْهُ الْأَجْسَامُ لِكَثَافَتِهَا وَإِلَيْهَا انْتِهَاءُ الْمَعْرِفَةِ الْعِلْمِيَّةِ وَفِيهِ يَكُونُ الِارْتِقَاءُ إِلَى مَعْرِفَةِ الْبَارِي جَلَّتْ قُدْرَتُهُ فَهِيَ الطَّرِيقُ الْقَوِيمُ وَالصِّرَاطُ الْمُسْتَقِيمُ وَلِذَلِكَ قَالَ اللَّهُ تَعَالَى: «وَفِي أَنْفُسِكُمْ أَفَلَا تُبْصِرُونَ»
+
+وَقَالَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ عَرَفَ نَفْسَهُ فَقَدْ عَرَفَ رَبَّهُ». وَالنَّفْسُ نَمُوذَجٌ أَوْدَعَهَا اللَّهُ سُبْحَانَهُ فِي هَذَا الْقَالَبِ وَجَعَلَهَا مَحَلَّ الشَّهَوَاتِ وَالْأَخْلَاقِ الرَّذِيلَةِ. وَالرُّوحُ اللَّطِيفَةُ أَوْدَعَهَا اللَّهُ تَعَالَى الْأَجْسَامَ وَقَرَنَ بِهَا حَيَاةَ الْأَبْدَانِ وَجَعَلَهَا مَحَلَّ الْأَخْلَاقِ الْحَمِيدَةِ وَالْفَضَائِلِ «الْجَمِيدَةِ» وَكِلَاهُمَا أَوْدَعَ اللَّهُ فِيهِمْ سِرَّ التَّسْخِيرِ لِبَعْضِهِمْ، وَالْجِسْمُ نَبْعٌ لَهُمَا وَالْمَجْمُوعُ مِنْ ذَلِكَ يُعَبَّرُ عَنْهُ بِالْإِنْسَانِ
+
+### 2. Latin
+
+Al-baabus saadisu: asraarun nafs. A'lamu anna haadzihir riyaadhata tu'allimukal istisyraafa 'alaa haqaa-iqi «nafsihi» wa dzaalika annan nafsa hiyash shinfu «al-makhluuqaat» wa asyraful maudhuu'aati li-annahaa 'aaqilatun billaahi subhaanahu wa ta'aalaa 'ilman lam tablugh-hul ajsaamu likatsaafatihaa wa ilaihaantihaa-ul ma'rifatil 'ilmiyyati wa fiihi yakuunul irtiqaa-u ilaa ma'rifatil baarii jallat qudratuhu fahiyath thariiqul qawiimu wash shiraathul mustaqiimu wa lidzaalika qaalaallaahu ta'aalaa: «Wa fii anfusikum afalaa tubshiruun».
+
+Wa qaala shallallaahu 'alaihi wa sallama: «Man 'arafa nafsahu faqad 'arafa rabbahu». Wan nafsu namuudzajun awda'ahaallaahu subhaanahu fii haadzal qaalabi wa ja'alahaa mahallasy syahawaati wal akhlaaqir radziilati. War ruuhul lathiifatu awda'ahaallaahu ta'aalaal ajsaama wa qarana bihaa hayaatal abdaani wa ja'alahaa mahallal akhlaaqil hamiidati wal fadhaa-ili «al-jamiidati» wa kilaahumaa awda'allaahu fiihim sirrat taskhiiri liba'dhihim, wal jismu nab'un lahumaa wal majmuu'u min dzaalika yu'abbiru 'anhu bil insaani.
+
+### 3. Terjemahan
+
+Bab keenam: rahasia-rahasia jiwa. Ketahuilah bahwa riyadhah ini mengajarimu menyingkap hakikat «dirinya». Hal itu karena jiwa adalah golongan «makhluk» dan objek yang paling mulia, sebab ia berakal dengan Allah—Mahasuci dan Mahatinggi—dengan ilmu yang tidak dicapai tubuh karena kekasarannya; kepadanya bermuara pengetahuan ilmiah, dan padanya terjadi kenaikan menuju pengenalan Sang Pencipta—Mahatinggi kekuasaan-Nya—maka ia adalah jalan yang lurus dan jalan yang tegak. Karena itu Allah—Mahatinggi—berfirman: «Dan pada dirimu sendiri; maka apakah kamu tidak memperhatikan?» (QS adz-Dzariyat 51:21).
+
+Dan beliau—semoga Allah melimpahkan salawat dan salam kepadanya—bersabda: «Siapa yang mengenal dirinya, sungguh ia mengenal Tuhannya.» Jiwa adalah contoh yang Allah—Mahasuci—titipkan dalam kerangka ini; Dia menjadikannya tempat syahwat dan akhlak tercela. Ruh yang lembut Allah—Mahatinggi—titipkan pada tubuh-tubuh, Dia kaitkan dengannya kehidupan badan, dan menjadikannya tempat akhlak terpuji dan keutamaan «yang mulia». Keduanya, Allah menitipkan pada keduanya rahasia penundukan sebagian atas sebagian lain; tubuh adalah sumber bagi keduanya, dan keseluruhan dari itu diungkapkan dengan «manusia».
+
+### 4. Syarah
+
+Kata pembuka tercetak «اعلم» tanpa harakat yang tegas; dibaca sebagai perintah «i‘lam» sesuai pola kitab ini, dan pembacaan itu dinyatakan sebagai pilihan editorial, bukan harakat cetak. «الصِّنْفُ الْمَخْلُوقَاتِ» susunan tidak sejajar; diberi kutip dan tidak dirapikan.
+
+Ucapan «من عرف نفسه فقد عرف ربه» dinisbatkan penulis kepada Nabi—semoga salawat dan salam dilimpahkan kepadanya; redaksi ini dikenal luas sebagai ungkapan hikmah dan tidak selalu dinilai sebagai hadis sahih, sehingga mencantumkannya sebagai kutipan penulis tanpa pengesahan sanad. «الْجَمِيدَة» tidak baku (lazimnya «الْجَمِيلَة»); dipertahankan dan ditandai.
+
+## M31 — Halaman 31, indra, ruh saat tidur, dan perbandingan malaikat–setan
+
+### 1. Arab
+
+مِثَالُ ذَلِكَ حَاسَّةُ السَّمْعِ وَحَاسَّةُ الْبَصَرِ وَحَاسَّةُ الشَّمِّ وَحَاسَّةُ الذَّوْقِ وَحَاسَّةُ اللَّمْسِ وَمَجْمُوعُ ذَلِكَ يُعَبَّرُ عَنْهُ بِالْوَجْهِ، وَالْأَرْوَاحُ هِيَ الَّتِي تَرْقَى إِلَى حَضَرَاتِهَا الَّتِي أَبْرَزَهَا اللَّهُ مِنْهَا فِي حَالِ النَّوْمِ بِصِدْقِهَا وَصِحَّةِ قَصْدِهَا ثُمَّ تَرْجِعُ إِلَى الْأَجْسَامِ مَا لَمْ يُقْضَ أَجَلُهَا فِي عَالَمِ الْغَيْبِ الَّذِي انْفَرَدَ بِهِ الْحَقُّ سُبْحَانَهُ وَتَعَالَى، قَالَ اللَّهُ تَعَالَى: «اللَّهُ يَتَوَفَّى الْأَنْفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا» الْآيَةَ
+
+وَذَلِكَ أَنَّ أَرْوَاحَ الْمُؤْمِنَيْنِ تَبِيتُ سَاجِدَةً تَحْتَ الْعَرْشِ كَمَا وَرَدَ بِهِ الْحَدِيثُ. وَأَمَّا كَوْنُ النَّفْسِ وَالرُّوحِ لَطَائِفَ الْأَجْسَامِ فِي الصُّوَرِ. فَإِنَّ الْمَلَائِكَةَ وَالشَّيَاطِينَ كِلَاهُمَا لَطِيفَيْنِ إِلَّا أَنَّ الشَّيْطَانَ مَحَلُّ الْهَوَى وَالْمَلَائِكَةَ مَحَلُّ الْأَخْلَاقِ الْحَمِيدَةِ وَالْفَضَائِلِ الدِّينِيَّةِ فَهِيَ نِسْبَةُ الرُّوحِ وَتِلْكَ نِسْبَةُ الشَّيَاطِينِ وَالرُّوحِ وَالنَّفْسِ وَالْجِسْمِ
+
+### 2. Latin
+
+Mitsaalu dzaalika haassatus sam'i wa haassatul bashari wa haassatusy syammi wa haassatudz dzauqi wa haassatul lamsi wa majmuu'u dzaalika yu'abbiru 'anhu bil wajhi, wal arwaahu hiyal latii tarqaa ilaa hadharaatihal latii abrazahaallaahu minhaa fii haalin naumi bishidqihaa wa shihhati qashdihaa tsumma tarji'u ilal ajsaami maa lam yuqdh ajalauhaa fii 'aalamil ghaibil ladzii infarada bihil haqqu subhaanahu wa ta'aalaa, qaalaallaahu ta'aalaa: «Allaahu yatawaffal anfusa hiina mautihaa wal latii lam tamut fii manaamihaa» al-aayah.
+
+Wa dzaalika anna arwaahal mu'minaini tabiitu saajidatan tahtal 'arsyi kamaa warada bihil hadiitsu. Wa ammaa kaunun nafsi war ruuhi lathaa-ifa ajsaami fish shuwari. Fa-innmal ma-laa-ikata wasy syayaathiina kilaahumaa lathiifaini illaa annasy syaithaana mahallul hawaa wal malaa-ikata mahallul akhlaaqil hamiidati wal fadhaa-ilid diiniyyati fahiya nisbatur ruuhi wa tilka nisbatuy syayaathiini war ruuhi wan nafsi wal jismi.
+
+### 3. Terjemahan
+
+Contohnya adalah indra pendengaran, indra penglihatan, indra penciuman, indra pengecapan, dan indra peraba; keseluruhan itu diungkapkan dengan «wajah». Ruh-ruhlah yang naik ke hadirat-hadiratnya yang Allah tampakkan darinya dalam keadaan tidur, dengan kejujuran dan kesahihan tujuannya; kemudian ia kembali ke tubuh-tubuh selama ajalnya belum ditetapkan, di alam gaib yang hanya Allah—Mahasuci dan Mahatinggi—yang menguasainya. Allah—Mahatinggi—berfirman: «Allah memegang jiwa ketika matinya dan jiwa yang belum mati dalam tidurnya» (QS az-Zumar 39:42) — ayat.
+
+Hal itu karena ruh-ruh orang mukmin bermalam dalam keadaan bersujud di bawah Arasy sebagaimana disebutkan dalam hadis. Adapun keberadaan jiwa dan ruh sebagai kelembutan-kelembutan tubuh dalam bentuk-bentuk: malaikat dan setan keduanya bersifat lembut, hanya saja setan adalah tempat hawa nafsu, sedangkan malaikat adalah tempat akhlak terpuji dan keutamaan agama; maka itu adalah nisbah ruh, dan itu pula nisbah setan—yakni ruh, jiwa, dan tubuh.
+
+### 4. Syarah
+
+Kutipan dicocokkan dengan QS az-Zumar 39:42; penulis hanya menyebut «الآية» tanpa nomor, penomoran ditambahkan editor. «أَبْرَزَهَا اللَّهُ مِنْهَا» tidak jelas; dipertahankan.
+
+Hadis tentang ruh mukmin bersujud di bawah Arasy disebut tanpa sanad dan tidak terverifikasi; dicatat sebagai rujukan penulis. «كِلَاهُمَا لَطِيفَيْنِ» manshub sebagai khabar «كلا»; cetakan tanpa harakat.
+
+## M32 — Halaman 32, mahsyar, makna makrifat diri, dan istilah sirr
+
+### 1. Arab
+
+لِأَنَّ اللَّهَ تَعَالَى قَالَ: «يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ» وَذَلِكَ دَلِيلٌ عَلَى أَنَّ الْمَحْشَرَ عَلَى ذَاتِ الْإِنْسَانِ بِمَا حَوَتْ مِنْ جِسْمٍ وَنَفْسٍ وَرُوحٍ. وَأَمَّا مَعْنَى قَوْلِهِ عَلَيْهِ السَّلَامُ: «مَنْ عَرَفَ نَفْسَهُ فَقَدْ
+
+عَرَفَ رَبَّهُ» قَالَ بَعْضُهُمْ: مَنْ عَرَفَ أَنَّهَا مَحَلُّ الْآفَاتِ وَالرَّذَائِلِ وَالشَّهَوَاتِ فَيَجْتَنِبُ ذَلِكَ بِأَنْوَاعِ الْمُخَالَفَاتِ وَتَحْقِيقِ الرِّيَاضَاتِ فَيَكُونُ ذَلِكَ سَبَبًا لِكَشْفِ الْمَلَكُوتِ وَالْقُرْبِ مِنَ اللَّهِ تَعَالَى، فَمَنْ قَرُبَ مِنَ الْحَضْرَةِ قَرُبَ مِنَ الْمَلِكِ فَيَعْرِفُ رَبَّهُ بِهَذَا الِاعْتِبَارِ، وَمَا ذَهَبَ إِلَيْهِ أَهْلُ الْحَقَائِقِ مِنَ الصُّوفِيِّينَ رَضِيَ اللَّهُ عَنْهُمْ
+
+وَأَمَّا السِّرُّ فَإِنَّهَا لَطِيفَةٌ أَوْدَعَهَا اللَّهُ سُبْحَانَهُ وَتَعَالَى هَذَا الْإِنْسَانَ وَهُوَ أَشْرَفُ مِنَ الرُّوحِ كَمَا أَنَّ الرُّوحَ أَشْرَفُ مِنَ الْقَلْبِ، لِأَنَّ السِّرَّ عِنْدَهُمْ هُوَ مِرْآةُ التَّجَلِّي كَمَا أَنَّ الرُّوحَ مِرْآةُ الْمَحَبَّةِ وَالنَّفْسَ وَالْقَلْبَ مِرْآةُ الْمَعَارِفِ، وَلِذَلِكَ قَالَ بَعْضُهُمْ: أَسْرَارُنَا بِكْرٌ لَمْ يَفْضَهَا «وَهُمْ»
+
+### 2. Latin
+
+Li-annallaaha ta'aalaa qaala: «Yauma yaquumun naasu lirabbil 'aalamiin» wa dzaalika daliilun 'alaa annal mahsyara 'alaa dzaatil insaani bimaa hawat min jismin wa nafsin wa ruuhin. Wa ammaa ma'naa qawlihi 'alaihis salaamu: «Man 'arafa nafsahu faqad«…»
+
+«'Arafa rabbahu» qaala ba'dhuhum: man 'arafa annahaa mahallul aafaati war radzaa-ili wasy syahawaati fayajtanibu dzaalika bi-anwaa'il mukhaalafaati wa tahqiiqir riyaadhaati fayakuunu dzaalika sababan likasyfil malakuuti wal qurbi minallaahi ta'aalaa, faman qaruba minal hadhrati qaruba minal maliki faya'rifu rabbahu bihaadzal i'tibaari, wa maa dzahaba ilaihi ahlul haqaa-iqi minash shuufiyyiina radhiyallaahu 'anhum.
+
+Wa ammas sirru fa-innahaa lathiifatun awda'ahaallaahu subhaanahu wa ta'aalaa haadzal insaana wa huwa asyrafu minar ruuhi kamaa annar ruuha asyrafu minal qalbi, li-annas sirra 'indahum huwal mir-aatut tajallii kamaa annar ruuha mir-aatul mahabbati wan nafsa wal qalba mir-aatul ma'aarifi, wa lidzaalika qaala ba'dhuhum: asraarunaa bikrun lam yafdh-haa «wahum».
+
+### 3. Terjemahan
+
+Karena Allah—Mahatinggi—berfirman: «Pada hari ketika manusia berdiri menghadap Tuhan seluruh alam» (QS al-Muthaffifin 83:6). Itu menjadi dalil bahwa penghimpunan (mahsyar) terjadi atas zat manusia beserta apa yang dikandungnya, yaitu tubuh, jiwa, dan ruh. Adapun makna sabda beliau—semoga keselamatan dilimpahkan kepadanya—: «Siapa yang mengenal dirinya, sungguh «…»»
+
+«…»mengenal Tuhannya.» Sebagian mereka berkata: siapa yang mengenal bahwa jiwa adalah tempat bencana, keburukan, dan syahwat, lalu ia menjauhi itu dengan berbagai penyelisihan (hawa nafsu) dan pelaksanaan riyadhah, maka hal itu menjadi sebab tersingkapnya malakut dan kedekatan kepada Allah—Mahatinggi—. Siapa yang dekat dengan hadirat, dekat dengan Sang Raja, sehingga ia mengenal Tuhannya dengan pertimbangan ini; inilah yang ditempuh ahli hakikat dari kalangan sufi—semoga Allah meridai mereka.
+
+Adapun «sirr» (rahasia), ia adalah lathifah yang Allah—Mahasuci dan Mahatinggi—titipkan pada manusia ini; ia lebih mulia daripada ruh, sebagaimana ruh lebih mulia daripada hati, karena «sirr» menurut mereka adalah cermin tajalli, sebagaimana ruh adalah cermin cinta, sedangkan jiwa dan hati adalah cermin ma‘rifat. Karena itu sebagian mereka berkata: «Rahasia-rahasia kami masih perawan, belum dibuka oleh «mereka»».
+
+### 4. Syarah
+
+Kutipan dicocokkan dengan QS al-Muthaffifin 83:6; penomoran ditambahkan editor. Kalimat hadis terpotong di akhir halaman dan bersambung ke halaman 33; tidak dilengkapi dari luar.
+
+«وَمَا ذَهَبَ إِلَيْهِ» dibaca «wa mā dzahaba» (dan apa yang ditempuh) atau kemungkinan «wa mimma dzahaba»; diambil pembacaan pertama dan tidak dipaksakan yang kedua.
+
+«لَمْ يَفْضَهَا» bentuknya tidak jelas (mungkin «لم يفضّها»: belum memecahnya); dibiarkan. Kata «وَهُمْ» bertanda kutip karena tidak jelas hubungannya dengan kalimat.
+
+## M33 — Halaman 33, keadaan ahli makrifat dan beratnya mujahadah
+
+### 1. Arab
+
+بَاطِنَ خَوْفِهِمْ بِنَفْسِ اسْتِرْوَاحِ الْآمِنِ فَيَنْفُخُ سِرَّهُ وَرُوحَهُ وَنَفْسَهُ وَقَلْبَهُ وَهُوَ الَّذِي يَجِدُ حَلَاوَةَ الطَّاعَةِ وَالْفَرَحَ بِخِدْمَتِهِ اللَّهُ تَعَالَى، وَهُوَ الَّذِي لَا يَصْبِرُهُ عَنْ بَابِ اللَّهِ «مَادَّةٌ» وَلَا يُغَيِّرُ اللَّهُ تَعَالَى عَلَيْهِ النَّفْسَ بِرُوحٍ طَيِّبَةٍ طَاهِرَةٍ وَنَفْسٍ مُطْمَئِنَّةٍ وَقَلْبٍ بِالْمَعَارِفِ خَزِينٍ وَعَقْلٍ مُزَيَّنٍ بِالْإِيمَانِ وَجَوَارِحَ عَامِرَةٍ بِالطَّاعَةِ وَصَدْرٍ مُنْشَرِحٍ بِأَنْوَارِ الْإِسْلَامِ وَأَنْفَاسٍ عَامِرَةٍ بِأَنْوَارِ الْإِخْلَاصِ أُولَئِكَ الَّذِينَ «هَادَهُمُ» اللَّهُ وَأُولَئِكَ هُمْ أُولُو الْأَلْبَابِ
+
+فَهَذِهِ إِطْلَاقَاتُهُمْ فِي السِّرِّ وَالرُّوحِ وَالنَّفْسِ، وَإِنَّمَا نَبَّهْنَا عَلَى ذَلِكَ لِيَعْلَمَ الْمُرِيدُ مَا هُوَ الْمُرَادُ مِنَ الِاسْتِشْرَافِ عَلَى حَقِيقَةِ النَّفْسِ. وَاعْلَمْ أَنَّ أَصْعَبَ التَّعَبُّدَاتِ إِلَى اللَّهِ تَعَالَى وَأَعْظَمَهَا «وِفْقًا» وَأَجَلَّهَا خَطَرًا هُوَ مُخَالَفَةُ الْهَوَى وَمُجَاهَدَةُ النَّفْسِ وَكَشْفُ أَسْرَارِهَا وَأَسْرَارِ أَسْرَارِهَا وَدَقَائِقِ «خَفِيِّ» شِرْكِهَا فَهُنَّ سَهْلٌ لِأَنَّهُ طَرِيقٌ «مَبْلَغٌ»
+
+### 2. Latin
+
+Baathina khaufihim binafsistirwaahil aamini fayunfukhu sirrahu wa ruuhahu wa nafsahu wa qalbahu wa huwal ladzii yajidu halaawatath thaa'ati wal faraha bikhidmatihil laahu ta'aalaa, wa huwal ladzii laa yashbiruhu 'an baabillaahi «maaddatun» wa laa yughayyirullaahu ta'aalaa 'alaihin nafsa biruuhin thayyibatin thaahiratin wa nafsin muthma-innatin wa qalbin bil ma'aarifi khaziinin wa 'aqlin muzayyanin bil iimaani wa jawaariha 'aamiratin bith thaa'ati wa shadrin munsyarihin bi-anwaaril islaami wa anfaasin 'aamiratin bi-anwaaril ikhlaashi ulaa-ikal ladziina «haadahum»ullaahu wa ulaa-ika hum ulul albaabi.
+
+Fahaadzihi ithlaaqaatuhum fis sirri war ruuhi wan nafsi, wa innamaa nabbahnaa 'alaa dzaalika liya'lamal muriidu maa huwal muraadu minal istisyraafi 'alaa haqiiqatin nafsi. Wa'lam anna ash'abat ta'abbudaati ilallaahi ta'aalaa wa a'zhzhama haa «wifqan» wa ajallahaa khatharan huwal mukhaalafatul haw aa wa mujaahadatun nafsi wa kasyfu asraarihaa wa asraari asraarihaa wa daqaa-iqi «khafiyyi» syirkihaa fahunna sahlun li-annahu thariiqun «mablaghun».
+
+### 3. Terjemahan
+
+«…» batin rasa takut mereka dengan jiwa yang lapang seperti orang yang merasa aman, lalu Dia meniupkan rahasianya, ruhnya, jiwanya, dan hatinya. Dialah yang merasakan manisnya ketaatan dan kegembiraan karena mengabdi kepada Allah—Mahatinggi—; dialah yang tidak membuatnya bersabar dari pintu Allah «suatu bahan», dan Allah—Mahatinggi—tidak mengubahnya: jiwa dengan ruh yang baik lagi suci, jiwa yang tenang, hati yang penuh ma‘rifat, akal yang dihiasi iman, anggota badan yang makmur dengan ketaatan, dada yang lapang dengan cahaya-cahaya Islam, dan napas-napas yang makmur dengan cahaya keikhlasan. Mereka itulah yang «Allah beri petunjuk» dan mereka itulah orang-orang yang berakal.
+
+Inilah penggunaan istilah mereka tentang sirr, ruh, dan jiwa. Kami hanya memberi perhatian pada hal itu agar murid mengetahui apa yang dimaksud dengan menyingkap hakikat jiwa. Ketahuilah bahwa ibadah yang paling sulit kepada Allah—Mahatinggi—, paling besar «kesesuaiannya», dan paling agung risikonya adalah menyelisihi hawa nafsu, memerangi jiwa, menyingkap rahasianya dan rahasia dari rahasianya, serta detail «tersembunyi» dari kesyirikannya. Maka semuanya mudah karena ia adalah jalan yang «sampai».
+
+### 4. Syarah
+
+«مَادَّةٌ» dan «هَادَهُمُ» bertanda kutip karena tidak jelas; «هادهم» kemungkinan «هَدَاهُم» (Allah memberi mereka petunjuk) dan pembacaan itu tidak dijadikan teks. «لَا يُغَيِّرُ اللَّهُ … النَّفْسَ» susunan sulit; dipertahankan.
+
+Tiga kata bertanda kutip—«وِفْقًا»، «خَفِيِّ»، «مَبْلَغٌ»—tidak dapat dipastikan dari cetakan dan tidak diganti dengan kata lain. «فَهُنَّ سَهْلٌ» tidak sesuai kaidah (lazimnya «فهي سهلة» atau «فهنّ سهل»); dipertahankan.
+
+## M34 — Halaman 34, empat kutipan tentang makan dan perut
+
+### 1. Arab
+
+وَقَدْ نَبَّهَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي قَوْلِهِ: «مَا مَلَأَ ابْنُ آدَمَ وِعَاءً شَرًّا مِنْ بَطْنِهِ»، وَقَالَ عَلَيْهِ السَّلَامُ: «لَا تَسْكُنُ الْحِكْمَةُ مَعِدَةً مَلِيئَةً بِالطَّعَامِ»
+
+وَقَالَ عَلَيْهِ السَّلَامُ: «أَبْغَضُكُمْ إِلَى اللَّهِ كُلُّ أَكُولٍ شَرُوبٍ»، وَقَالَ عَلَيْهِ السَّلَامُ: «الْمَعِدَةُ بَيْتُ الدَّاءِ»
+
+### 2. Latin
+
+Wa qad nabbahan nabiyyu shallallaahu 'alaihi wa sallama fii qawlihi: «Maa mala-a-bnu Aadama wi'aa-an syarran min bathnihi», wa qaala 'alaihis salaamu: «Laa taskunul hikmatu ma'idatan malii-atan bith tha'aami».
+
+Wa qaala 'alaihis salaamu: «Abghadhukum ilallaahi kullu akuulin syaruubin», wa qaala 'alaihis salaamu: «Al-ma'idatu baitud daa-i».
+
+### 3. Terjemahan
+
+Nabi—semoga Allah melimpahkan salawat dan salam kepadanya—telah memberi peringatan dalam sabdanya: «Tidak ada bejana yang dipenuhi anak Adam yang lebih buruk daripada perutnya.» Dan beliau—semoga keselamatan dilimpahkan kepadanya—bersabda: «Hikmah tidak berdiam di perut yang penuh makanan.»
+
+Dan beliau—semoga keselamatan dilimpahkan kepadanya—bersabda: «Yang paling dibenci Allah di antara kalian adalah orang yang banyak makan dan minum.» Dan beliau—semoga keselamatan dilimpahkan kepadanya—bersabda: «Perut adalah rumah penyakit.»
+
+### 4. Syarah
+
+Kedua ucapan dinisbatkan penulis kepada Nabi—semoga salawat dan salam dilimpahkan kepadanya—; tidak diverifikasi derajat sanadnya dan tidak ditambahkan ke teks. «مَعِدَةً مَلِيئَةً» manshub sebagai khabar «تسكن» (susunan cetakan).
+
+Redaksi «أبغضكم إلى الله» sesuai cetakan; sebagian riwayat memakai redaksi lain, dan perbedaan itu tidak dikoreksi tanpa sumber. «الْمَعِدَةُ بَيْتُ الدَّاءِ» dikenal sebagai ungkapan hikmah/atsar, bukan hadis yang disepakati; karena itu tercatat statusnya sebagai kutipan penulis.
+
+## M35 — Halaman 35, pembuka Bab Ketujuh: hijab makanan dan zikir
+
+### 1. Arab
+
+الْبَابُ السَّابِعُ
+
+رُؤْيَةُ النَّبِيِّ عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ
+
+اعْلَمْ أَنَّ كَثْرَةَ الطَّعَامِ وَعَدَمَ الذِّكْرِ وَكَثِيرًا مِنْ ذَلِكَ مِمَّا يَحْجُبُ عَنْ رُوحِ الْمَلَكُوتِ الَّذِي هُوَ حَقِيقَتُهُ وَصِفَتُهَا وَعَالِمُهَا وَمُحِيطُهَا وَهِيَ مَخْلُوقٌ مُحْدَثٌ مِنْ نِسْبَتِهَا وَكَذَلِكَ إِذَا يَكُونُ مَحْجُوبًا عَنِ اللَّهِ تَعَالَى وَعَنْ شَوَاهِدِ حِكْمَتِهِ وَالطَّائِفِ مِنْهُ، وَهَذَا مِنَ الْمَغْرُورِينَ الَّذِي حَجَبَهُمُ الْجَهْلُ عَنْ طَرِيقِ اللَّهِ تَعَالَى وَحَجَبَهُمُ الْبَشَرُ عَنْ طَرِيقِ الْعِلْمِ الْمُبْلِغِ إِلَى هَذِهِ الْحُجَّةِ الْوَاضِحَةِ
+
+وَحَجَبَهُمُ الشَّيْطَانُ عَنِ اتِّبَاعِ آثَارِ الْهُدَى، وَبِحِجَابِ الْكِبْرِ فَهُمْ بَيْنَ حِجَابٍ ثَلَاثَةٍ: حِجَابُ الشَّيْطَانِ الصَّادِّ عَنِ الْعُلَمَاءِ، وَحِجَابُ النَّفْسِ الصَّادِّ عَنِ الْعِلْمِ، وَحِجَابُ الْجَهَالَةِ الصَّادِّ عَنِ الصِّرَاطِ الْمُسْتَقِيمِ، وَذَلِكَ أَنَّ الْعِلَلَ الْجِسْمَانِيَّةَ
+
+### 2. Latin
+
+Al-baabus saabi': ru'yatun nabiyyi 'alaihish shalaatu was salaam. I'lam anna katsratath tha'aami wa 'adamadz dzikri wa katsiiran min dzaalika mimmaa yahjubu 'an ruuhil malakuutil ladzii huwa haqiiqatuhu wa shifatuhaa wa 'aalimuhaa wa muhiithuhaa wa hiya makhluuqun muhdatsun min nisbatihaa wa kadzaalika idzaa yakuunu mahjuuban 'anillaahi ta'aalaa wa 'an syawaahidi hikmatihi wath thaa-ifi minhu, wa haadzaa minal maghruuriinal ladzii hajabahumul jahlu 'an thariiqillaahi ta'aalaa wa hajabahumul basyaru 'an thariiqil 'ilmil mublighi ilaa haadzihil hujjatil waadhihah.
+
+Wa hajabahumusy syaithaanu 'anittibaa'i aatsaaril huda, wa bihijaabil kibri fahum baina hijaabin tsalaatsatin: hijaabusy syaithaanish shaaddu 'anil 'ulamaa-i, wa hijaabun nafsis shaaddu 'anil 'ilmi, wa hijaabul jahaalatisf shaaddu 'anish shiraathil mustaqiimi, wa dzaalika annal 'ilalal jismaaniyyata«…»
+
+### 3. Terjemahan
+
+Bab ketujuh: melihat Nabi—semoga salawat dan salam dilimpahkan kepadanya. Ketahuilah bahwa banyak makan, meninggalkan zikir, dan banyak hal semacam itu termasuk yang menutupi dari ruh malakut — yaitu hakikatnya, sifatnya, alamnya, dan lingkungannya, sedangkan ia adalah makhluk yang diadakan dari nisbahnya. Demikian pula ia menjadi terhijab dari Allah—Mahatinggi—, dari saksi-saksi hikmah-Nya, dan dari yang melintas darinya. Inilah golongan yang tertipu, yang dihijab oleh kebodohan dari jalan Allah—Mahatinggi—dan dihijab oleh (sifat) manusiawi dari jalan ilmu yang menyampaikan kepada hujah yang jelas ini.
+
+Mereka dihijab oleh setan dari mengikuti jejak-jejak petunjuk; dan dengan hijab kesombongan, mereka berada di antara tiga hijab: hijab setan yang menghalangi dari para ulama, hijab jiwa yang menghalangi dari ilmu, dan hijab kebodohan yang menghalangi dari jalan yang lurus. Hal itu karena sebab-sebab badaniah «…»
+
+### 4. Syarah
+
+«وَصِفَتُهَا» dan «مُحِيطُهَا» memakai dhamir mu’annats; rujukannya bisa «روح» atau «نفس», dan cetakan tidak menentukannya — dipertahankan. «الطَّائِفِ مِنْهُ» tidak jelas; tidak dilancarkan.
+
+Kata terakhir halaman terbaca «العِلَل الجسمانية»; cetakan agak kabur pada huruf pertama, sehingga «العلل» dinyatakan sebagai bacaan kerja. «الصَّادِّ» isim fa‘il dari صَدَّ.
+
+## M36 — Halaman 36, syarat khalwat dan aturan berbuka
+
+### 1. Arab
+
+فَمَنْ أَرَادَ مِنَ الْمُرِيدِينَ طَلَبَ اسْتِشْرَافٍ عَلَى حَقَائِقِ مَعْرِفَتِهِ بِنَفْسِهِ فَلْيَسْتَعِنْ بِاللَّهِ فِيمَا قَصَدَهُ وَلْيَتَحَقَّقْ بِالسُّلُوكِ الَّذِي أَوْرَدَهُ اللَّهُ فِي كِتَابِهِ الْكَرِيمِ. وَلْيَعْقِدْ نِيَّةَ مَعْرِفَتِهِ بِنَفْسِهِ وَالسِّرِّ الَّذِي أَوْدَعَهُ اللَّهُ تَعَالَى الْأَجْسَامَ. وَلِتَكُنِ الْمَعْرِفَةُ مِفْتَاحًا لِبَابِ مَعْرِفَتِهِ بِرَبِّهِ كَمَا قَالَ عَلَيْهِ السَّلَامُ: مَنْ عَرَفَ نَفْسَهُ فَقَدْ عَرَفَ رَبَّهُ، فَلْيَقْطَعِ الْعَلَائِقَ الدُّنْيَوِيَّةَ وَالتَّبِعَاتِ الْمَانِعَةَ وَالْعَلَائِقَ الْقَاطِعَةَ وَلْيَجِدْ مَوْضِعًا خَالِيًا طَاهِرًا ظَاهِرًا أَوْ بَاطِنًا وَلْيَجْلِسْ فِيهِ بَعْدَ غُسْلٍ وَاعْتِقَادِ النِّيَّةِ الْمُتَقَدِّمَةِ وَيُصَحِّحِ الْقَصْدَ بِتَحْقِيقِ الصِّدْقِ مَعَ لُزُومِ الْإِخْلَاصِ
+
+وَلَا يَعْتَقِدْ لِذَلِكَ أَيَّامًا مَعْلُومَةً كَمَا تَقَدَّمَ مِنَ الرِّيَاضَاتِ، فَإِنَّ هَذِهِ رِيَاضَةٌ لَا يُعْقَلُ انْتِهَاؤُهَا إِلَّا بِسِرِّ الْعِنَايَةِ الْإِلَهِيَّةِ وَالرَّحْمَةِ الرَّبَّانِيَّةِ، فَهِيَ أُولَى مَبَادِئِ الْوُصُولِ إِلَى اللَّهِ تَعَالَى. ثُمَّ لِيَكُنْ فِطْرُهُ عَلَى خُبْزِ شَعِيرٍ بِمِلْحٍ وَشَيْءٍ مِنَ الزَّيْتِ، وَلْيَكُنْ ذِكْرُهُ «يَا أَحَدُ»، وَلْيُتِمَّ الْفَرَائِضَ بِسُنَّتِهَا وَرَكْعَتَانِ الضُّحَى وَرَكْعَتَانِ الزَّوَالِ، وَكُلُّ أَمْرٍ فَإِنَّهُ بِذِكْرِ الْوَاحِدِ تَعَالَى
+
+### 2. Latin
+
+Faman araada minal muriidiina thalaba istisyraafin 'alaa haqaa-iqi ma'rifatihi binafsihi falyasta'in billaahi fiimaa qashadahu wa liyatahaqqaq bis suluukil ladzii awradahullaahu fii kitaabihil kariimi. Wa liya'qid niyyata ma'rifatihi binafsihi was sirral ladzii awda'ahullaahu ta'aalaal ajsaama. Wa litakunil ma'rifatu miftaahan libaabi ma'rifatihi birabbihi kamaa qaala 'alaihish salaamu: man 'arafa nafsahu faqad 'arafa rabbahu, falyaqtha'il 'alaa-iqad dunyawiyyata wat tiba'aatil maani'ata wal 'alaa-iqal qaathi'ata wal yajid maudhi'an khaaliyan thaahiran zhaahiran aw baathinan wal yajlis fiihi ba'da ghuslin wa'tiqaadin niyyatil mutaqaddimati wa yushahhihil qashda bitahqiiqish shidqi ma'a luzuumil ikhlaashi.
+
+Wa laa ya'taqid lidzaalika ayyaaman ma'luumatan kamaa taqaddama minar riyaadhaati, fa-inna haadzihi riyaadhatun laa yu'qalu intihaa-uhaa illaa bisirril 'inaayatil ilaahiyyati war rahmatir rabbaaniyyati, fahiya uulaa mabaadi-il wushuuli ilallaahi ta'aalaa. Tsumma liyakun fithruhu 'alaa khubzi sya'iirin bimilh wa syai-in minaz zaiti, wa liyakun dzikruhu «yaa ahadu», wa liyutimmal faraa-idha bisunnatihaa wa rak'ataanidh dhuhaa wa rak'ataaniz zawaali, wa kullu amrin fa-innahu bidzikril waahidi ta'aalaa.
+
+### 3. Terjemahan
+
+Maka siapa di antara para murid yang hendak menuntut penyingkapan atas hakikat pengenalan dirinya, hendaklah ia memohon pertolongan Allah dalam tujuannya dan merealisasikan jalan yang Allah sebutkan dalam Kitab-Nya yang mulia. Hendaklah ia meneguhkan niat mengenal dirinya dan rahasia yang Allah—Mahatinggi—titipkan pada tubuh-tubuh. Hendaklah pengenalan itu menjadi kunci pintu pengenalannya kepada Tuhannya, sebagaimana beliau—semoga keselamatan dilimpahkan kepadanya—bersabda: «Siapa mengenal dirinya, sungguh ia mengenal Tuhannya.» Maka hendaklah ia memutus kaitan-kaitan duniawi, konsekuensi yang menghalangi, dan relasi yang memutus; hendaklah ia mencari tempat yang sepi, suci, lahir atau batin, duduk di sana setelah mandi dan meneguhkan niat yang telah lalu, serta membetulkan tujuan dengan merealisasikan kejujuran disertai keharusan ikhlas.
+
+Janganlah ia menetapkan untuk itu hari-hari tertentu sebagaimana pada riyadhah-riyadhah terdahulu, karena riyadhah ini tidak dapat dibatasi akhirnya kecuali dengan rahasia pemeliharaan ilahi dan rahmat rabbani; ia adalah awal dari jalan sampai kepada Allah—Mahatinggi—. Kemudian hendaklah berbukanya dengan roti gandum bercampur garam dan sedikit minyak; hendaklah zikirnya «Ya Ahad»; hendaklah ia menyempurnakan salat fardu beserta sunahnya, ditambah dua rakaat duha dan dua rakaat zawal; dan setiap perkara (terkait) dengan zikir kepada Yang Maha Esa—Mahatinggi—.
+
+### 4. Syarah
+
+«وَلْيَعْقِدْ» dan «وَلْيَجِدْ» pada cetakan tanpa titik yang jelas pada sebagian huruf; dibaca sesuai pola perintah. Ungkapan «من عرف نفسه» dinisbatkan penulis kepada Nabi—semoga salawat dan salam dilimpahkan kepadanya; tidak diverifikasi sanadnya dan tidak ditambah teks.
+
+«بِمِلْحٍ» terbaca dengan huruf yang menyempit; kemungkinan «بِمِلْحٍ» (dengan garam) — dipertahankan dan dicatat. «رَكْعَتَانِ» marfu‘ sebagai mubtada’ tanpa khabar yang jelas; susunan cetak dipertahankan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Berbuka dengan roti gandum (sya‘ir) bercampur garam dan sedikit minyak; zikir «يا أحد»; salat fardu beserta sunahnya; dua rakaat duha dan dua rakaat zawal; memutus hubungan duniawi dan duduk di tempat sepi yang suci setelah mandi.
+
+**Waktu:** Tanpa penetapan hari tertentu menurut sumber; salat fardu beserta sunahnya, ditambah dua rakaat duha dan dua rakaat zawal
+
+**Media:** Roti gandum (sya‘īr) bercampur garam dan sedikit minyak untuk berbuka; zikir «يا أحد»; tempat sepi yang suci sesudah mandi
+
+## M37 — Halaman 37, tanda sepuluh pertama dan aturan zikir jahr
+
+### 1. Arab
+
+فَإِنَّهُ فِي الْعَشَرَةِ الْأُوَلِ يُدْرِكُ خَفَقَانَ قَلْبٍ وَاضْطِرَابَ الْمَفَاصِلِ، وَهَذِهِ عَلَامَةُ حَقِيقِ الْمَقَامِ فِي هَذِهِ الرِّيَاضَةِ. فَمَنْ وَجَدَ ذَلِكَ بَدَا لَهُ عِلْمُ السَّعَادَةِ وَالسَّعْدِ وَظَهَرَتْ لَهُ أَنْوَارُ الْجِدِّ وَالْجَهْدِ، وَمِنَ النَّاسِ مَنْ لَمْ يُدْرِكْ ذَلِكَ إِلَّا فِي الْعِشْرِينَ أَيْ مَا قَارَبَ ذَلِكَ، وَمِنْهُمْ مَنْ يَبْدُو لَهُ ذَلِكَ حِينَ ابْتِدَاءِ خَلَوَاتٍ بِحَسَبِ الِاخْتِصَاصِ الْإِلَهِيّ
+
+فَمَنْ وَجَدَ ذَلِكَ فَلْيَجْتَهِدْ فِي الذِّكْرِ بِالْجَهْرِ قَدْرَ مَا يَسْمَعُ نَفْسَهُ، فَإِذَا زَادَ عَلَيْهِ الْحَالُ ذَكَرَ بِصَوْتٍ يَسْمَعُهُ مَنْ كَانَ قَرِيبًا مِنْهُ إِلَى أَنْ يَسْكُنَ، فَيَرْجِعُ إِلَى الذِّكْرِ عَلَى اعْتِدَالِهِ، فَإِنْ حَرَّكَ بَعْدَ سُكُونٍ عَادَ إِلَى الذِّكْرِ جَهْرًا، فَرُبَّمَا يَخْتَلِفُ عَلَيْهِ هَذِهِ الْحَالُ ثَلَاثَةَ أَيَّامٍ وَمَا قَرُبَهَا فَيَشْكُلُ ذَلِكَ فِي صَفَحَاتِ الْقَلْبِ عِلْمًا مَلَكُوتِيًّا وَفَتْحًا لَدُنِّيًّا، فَلَا يَتْرُكْ ذَلِكَ بِالْتِفَاتِهِ لِمَا شَكَلَ فِي بَاطِنِهِ مِنَ الْعُلُومِ
+
+### 2. Latin
+
+Fa-innahu fil 'asyaratil uwali yudriku khafaqaana qalbin wadhthiraabal mafaashili, wa haadzihi 'alaamatu haqiiqil maqaami fii haadzihir riyaadhah. Faman wajada dzaalika badaa lahu 'ilmus sa'aadati was sa'di wa zhaharat lahu anwaarul jiddi wal juhdi, wa minan naasi man lam yudrik dzaalika illaa fil 'isyrina ay maa qaaraba dzaalika, wa minhum man yabduu lahu dzaalika hiina ibtidaa-i khalawaatin bihasabil ikhtishaashil ilaahiyyi.
+
+Faman wajada dzaalika falyajtahid fidz dzikri bil jahri qadra maa yasma'u nafsahu, fa-idzaa zaada 'alaihil haalu dzakara bishautin yasma'uhu man kaana qariiban minhu ilaa an yaskuna, fayarji'u iladz dzikri 'ala’ti-daali, fa-in harraka ba'da sukuunin 'aada iladz dzikri jahran, farubbamaa yakhtalifu 'alaihi haadzihil haalu tsalaatsata ayyaamin wa maa qarabahaa fayasykulu dzaalika fii shafahaatil qalbi 'ilman malakuutiyyan wa fathan ladunniyyan, falaa yatruk dzaalika bil-tifaati-hi limaa syakala fii baathinihi minal 'uluumi.
+
+### 3. Terjemahan
+
+Sesungguhnya pada sepuluh (hari) pertama ia merasakan berdebar jantung dan kegelisahan persendian; itulah tanda hakikat kedudukan dalam riyadhah ini. Siapa yang mendapati hal itu, tampaklah baginya ilmu kebahagiaan dan keberuntungan, serta tampak cahaya kesungguhan dan kerja keras. Di antara manusia ada yang tidak merasakannya kecuali pada (hari) kedua puluh atau sekitar itu, dan ada yang hal itu tampak baginya sejak permulaan khalwat sesuai kekhususan ilahi.
+
+Maka siapa yang mendapati itu, hendaklah ia bersungguh-sungguh dalam zikir jahr sejauh terdengar oleh dirinya sendiri. Apabila keadaan bertambah kuat, ia berzikir dengan suara yang terdengar oleh orang terdekat darinya sampai tenang, lalu kembali kepada zikir pada kadar semula. Jika ia bergerak lagi setelah tenang, ia kembali berzikir dengan jahr. Kadang keadaan itu berganti atasnya selama tiga hari atau sekitar itu, sehingga hal itu terbetik pada lembaran hati sebagai ilmu malakuti dan pembukaan ladunni; maka janganlah ia meninggalkannya karena perhatiannya pada apa yang terbetik dalam batinnya berupa ilmu-ilmu.
+
+### 4. Syarah
+
+«حَقِيقِ الْمَقَامِ» susunan idhafah tidak lazim (mungkin «حقيقة المقام»); dipertahankan. «الْعَشَرَةِ الْأُوَلِ» memakai bentuk mu’annats; sesuai cetakan.
+
+«فَيَشْكُلُ» terbaca demikian; mungkin «فَيَشْكُل» (menjadi sulit) atau «يُشْكِل»; dipertahankan sebagai bacaan kerja. «بِالْتِفَاتِهِ» dibaca dengan kasrah pada ta’.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Berzikir jahr sejauh terdengar sendiri, lalu dengan suara yang terdengar orang dekat, lalu kembali kepada kadar semula bila sudah tenang.
+
+**Waktu:** Sepuluh hari pertama latihan (pada sebagian orang sekitar hari kedua puluh); keadaan dapat berganti selama tiga hari atau sekitar itu
+
+**Media:** Zikir jahr bertahap: sejauh terdengar sendiri, lalu terdengar orang terdekat sampai tenang, kemudian kembali ke kadar semula
+
+## M38 — Halaman 38, larangan menghijab diri dan warna cahaya
+
+### 1. Arab
+
+وَلَا يَتَشَكَّلُ فِي قَلْبِكَ شَيْءٌ مِمَّا جُلِّيَ لَكَ فَذَلِكَ لَا يَحْجُبُكَ سُلُوكُكَ وَأَنْتَ تَتْبَعُ النَّظَرَ إِلَى شَيْءٍ مِنْهَا حُجِبْتَ، وَكَثِيرٌ مِنْ أَهْلِ التَّحْقِيقِ فِي الْعَلَامَاتِ وَأَكْثَرُهُمُ الْمُرْتَاضُونَ يَرَوْنَ سَيِّدَنَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَيُعَلِّمُهُمُ الْحِكْمَةَ وَيُعَلِّمُهُمْ أَسْبَابَ الْقُرُبَاتِ إِلَى اللَّهِ تَعَالَى وَهُمْ أَهْلُ الْإِخْلَاصِ وَالصِّدْقِ وَأَقْطَابُ الْأَرْضِ رَضِيَ اللَّهُ عَنْهُمْ أَجْمَعِينَ
+
+ثُمَّ بَعْدَ ذَلِكَ يَظْهَرُ لَكَ قَبْلَ مِشْكَاةٍ ذَاتِيَّةٌ نُورٌ أَبْيَضُ سَاطِعُ النُّورِ وَالْبَيَاضِ وَرُبَّمَا كَانَ أَخْضَرَ، فَإِنْ كَانَ سَاطِعَ الْبَيَاضِ كَانَ أَخَفَّ عَلَى الْأَجْسَامِ وَأَرْوَاحِهَا، وَإِذَا كَانَ أَحْمَرَ أَضْعَفَ الْبِنْيَةَ وَأَوْضَحَ قُوَاهَا فِي صُوَرِ الْمَلَكُوتِ، رُبَّمَا أَوْدَعَ اللَّهُ فِيهِ مِنْ أَسْرَارِهِ وَمَوَاقِعِ حِكْمَتِهِ فَلَا يَشْتَغِلِ الْخَاطِرُ بِالِالْتِفَاتِ إِلَى ذَلِكَ فَرُبَّمَا أَقَامَ ذَلِكَ أَيَّامًا، وَمِنْهَا خَطَرَ لَكَ خَاطِرٌ مَا عَنْ إِذْنٍ لَيْلًا يَلْمَحُ صُورَةً عَجِيبَةً فَإِنَّكَ الِاسْتِاذُ الْعِلْمُ خَاطِرُكَ فَتَيْهِ يَرْشُدُكَ
+
+### 2. Latin
+
+Wa laa yatasyakkal fii qalbika syai-un mimmaa julliya laka fadzaalika laa yahjubuka suluukuka wa anta tattabi'un nazhara ilaa syai-in minhaa hujibta, wa katsiirun min ahlit tahqiiqi fil 'alaamaati wa aktsaruhumul murtadhuuna yarauna sayyidanaa rasuulallaahi shallallaahu 'alaihi wa sallama fayu'allimuhumul hikmata wa yu'allimuhum asbaabal qurubaati ilallaahi ta'aalaa wa hum ahlul ikhlaashi wash shidqi wa aqthaabul ardhi radhiyallaahu 'anhum ajma'iin.
+
+Tsumma ba'da dzaalika yazhharu laka qabla misykaatin dzaatiyyatun nuurun abyadhu saathi'un nuuri wal bijaadi wa rubbamaa kaana akhdhara, fa-in kaana saathi'al bijaadi kaana akhaffa 'alal ajsaami wa arwaahihaa, wa idzaa kaana ahmara adh'afal binyata wa auadhaha quwaahaa fii shuwari malakuuti, rubbamaa awda'allaahu fiihi min asraarihi wa mawaaqi'i hikmatihi falaa yasytaghilil khaathiru bil-iltifaati ilaa dzaalika farubbamaa aqaama dzaalika ayyaaman, wa minhaa khathara laka khaathirun maa 'an idznin lailan yalmahu shuuratan 'ajiibatan fa-innakal istiyaadzul 'ilmu khaathiruka fatayhu yarsyuduka.
+
+### 3. Terjemahan
+
+Janganlah terbetik dalam hatimu sesuatu dari apa yang telah dinyatakan kepadamu, karena hal itu tidak menghijabmu selama engkau menempuh jalanmu; tetapi jika engkau terus memandang kepada salah satunya, engkaulah yang terhijab. Banyak ahli tahqiq dalam (masalah) tanda-tanda, dan kebanyakan mereka adalah para ahli riyadhah, melihat penghulu kami Rasulullah—semoga Allah melimpahkan salawat dan salam kepadanya—lalu beliau mengajari mereka hikmah dan mengajari sebab-sebab kedekatan kepada Allah—Mahatinggi—; mereka adalah ahli keikhlasan dan kejujuran serta kutub-kutub bumi—semoga Allah meridai mereka semuanya.
+
+Kemudian setelah itu, sebelum (terlihat) suatu misykat, tampaklah bagimu cahaya putih yang memancar cahaya dan putihnya, dan kadang berwarna hijau. Jika yang memancar adalah putih, ia lebih ringan atas tubuh-tubuh dan ruh-ruhnya; jika merah, ia melemahkan struktur dan menampakkan kekuatannya dalam bentuk-bentuk malakut. Kadang Allah menitipkan padanya rahasia-rahasia-Nya dan tempat-tempat hikmah-Nya; maka janganlah pikiran sibuk menoleh kepadanya. Kadang hal itu berlangsung beberapa hari. Di antaranya, terbetik padamu lintasan tanpa izin pada malam hari, menyaksikan bentuk yang menakjubkan; maka sesungguhnya engkau adalah «…» ilmu; lintasanmu «…» memberi petunjuk.
+
+### 4. Syarah
+
+«مِشْكَاةٍ ذَاتِيَّةٌ» susunan tidak sejajar; dipertahankan. «الِاسْتِاذُ الْعِلْمُ» dan «فَتَيْهِ» tidak terbaca pasti; dibiarkan bertitik dan tidak dikarang kata pengganti. «أحمر» pada cetakan memuat tanda kecil yang tidak mengubah kata.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Selama riyadhah, pelaku diperingatkan agar tidak berhenti atau terhijab oleh tanda dan cahaya yang tampak—putih, hijau, dan merah—serta tidak menyibukkan pikiran dengan menoleh kepadanya.
+
+## M39 — Halaman 39, tanda mendengar zikir sendiri dan genap delapan puluh hari
+
+### 1. Arab
+
+فِي مَبَادِي الذِّكْرِ فَاضْطَجِعْ عَلَى شِقِّكَ الْأَيْمَنِ، فَإِذَا ذَهَبَ وَعَزَّ الذِّكْرُ عَنْكَ فَقُمْ وَتَوَضَّأْ وَعُدْ إِلَى الذِّكْرِ إِلَى أَنْ تَنْظُرَ إِلَى الْخَاطِرِ يَخْطُرُ مُتَشَكِّلًا فِي الطُّهُورِ الَّذِي هُوَ مِنْ نِسْبَتِكَ فَتِلْكَ أَوَّلُ مَبَادِي الْمُكَاشَفَاتِ. وَذَلِكَ مَبْدَأُ مَعْرِفَةِ النَّفْسِ وَفِي هَذِهِ الْحَالَةِ تَسْمَعُ أَجْزَاءَ ذَاتِ وُجُودِكَ تَذْكُرُ مَعَكَ ذِكْرَكَ بِصَوْتِكَ الَّذِي أَنْتَ تَذْكُرُهُ فَحِينَئِذٍ يُطْلِعُكَ اللَّهُ سُبْحَانَهُ عَلَى نَفْسِكَ
+
+فَإِنْ رَآهَا الْمُرْتَاضُ كَذَلِكَ صَافِيَةَ اللَّوْنِ يَرَى ظَاهِرَهَا مِنْ بَاطِنِهَا وَبَاطِنَهَا مِنْ ظَاهِرِهَا فَلْيَشْكُرِ اللَّهَ تَعَالَى، وَعَلَامَةُ ذَلِكَ أَنَّ تَبَارَكَ تَعَالَى يُجِيبُ إِلَيْهِ الْإِيمَانَ وَأَعْمَالَهُ وَيُذَكِّرُ إِلَيْهِ مَنْ سِوَاهُ فَذَلِكَ مَعْرِفَتُهُ بِرَبِّهِ تَعَالَى. فَإِنْ أَدْرَكَ ذَلِكَ قَبْلَ الثَّمَانِينَ يَوْمًا فَلَا تَقْطَعِ الرِّيَاضَةَ وَتَمِّمِ الثَّمَانِينَ يَوْمًا عَلَى حَسَبِ مُقْتَضَى الرِّيَاضَةِ فَيُطْلِعُكَ اللَّهُ تَعَالَى عَلَى مَبَادِي الْأَرْوَاحِ وَمَحَلِّ الِاسْتِرْوَاحِ. وَإِذَا أَتَمَمْتَ الثَّمَانِينَ وَلَمْ تَسْتَوْفِ مَا ذَكَرْنَاهُ فَلَا تَقْطَعْ رِيَاضَتَكَ فَإِنَّ الْأَمْرَ إِنْ شَاءَ اللَّهُ قَرِيبٌ وَنِهَايَتُهُ تِسْعَةٌ
+
+### 2. Latin
+
+Fii mabaadi-idz dzikri fadhthaji' 'alaa syiqqikal aimani, fa-idzaa dzahaba wa 'azza adz dzikru 'anka faqum wa tawadhdha' wa 'ud iladz dzikri ilaa an tanzhura ilal khaathiri yakhturu mutasyakkilan fith thuhuuril ladzii huwa min nisbatika fatilka awwalu mabaadi-il mukaa syafaati. Wa dzaalika mabda-u ma'rifatin nafsi wa fii haadzihil haalati tasma'u ajzaa-a dzaati wujuudika tadzkuru ma'aka dzikraka bishautikal ladzii anta tadzkuruhu fahiina-idzin yuthli'ukaallaahu subhaanahu 'alaa nafsika.
+
+Fa-in ra-aa hal murtadhu kadzaalika shaafiyatal launi yaraa zhaahirahaa min baathinihaa wa baathinahaa min zhaahirihaa falyasykurillaaha ta'aalaa, wa 'alaamatu dzaalika anna tabaaraka ta'aalaa yujiibu ilaihil iimaana wa a'maalahu wa yudzakkiru ilaihi man siwaahu fadzaalika ma'rifatuhu birabbihi ta'aalaa. Fa-in adraka dzaalika qablats tsamaaniina yauman falaa taqtha'ir riyaadhata wa tammimits tsamaaniina yauman 'alaa hasabi muqtadhar riyaadhah fayuthli'ukallaahu ta'aalaa 'alaa mabaadi-il arwaahi wa mahallil istirwaahi. Wa idzaa atmamtsa tsamaaniina wa lam tastaufi maa dzakarnaahu falaa taqtha' riyaadhataqa fa-innnal amra in syaa-allaahu qariibun wa nihaayatuhu tis'atun.
+
+### 3. Terjemahan
+
+Pada permulaan zikir, berbaringlah pada sisi kananmu; apabila (kantuk) telah hilang dan zikir terasa berat bagimu, bangunlah, berwudu, dan kembalilah berzikir sampai engkau melihat lintasan itu terbetik dalam bentuk pada (keadaan) kesucian yang termasuk nisbahmu; itulah awal dari penyingkapan-penyingkapan. Itu adalah awal pengenalan jiwa; dalam keadaan ini engkau mendengar bagian-bagian dari zat keberadaanmu berzikir bersamamu dengan suaramu yang engkau gunakan untuk berzikir. Ketika itu Allah—Mahasuci—menampakkan kepadamu dirimu sendiri.
+
+Maka apabila orang yang berlatih melihatnya demikian, jernih warnanya, ia melihat lahirnya dari batinnya dan batinnya dari lahirnya, hendaklah ia bersyukur kepada Allah—Mahatinggi—. Tandanya ialah bahwa Allah—Mahatinggi dan Mahasuci—menerima iman dan amalnya serta menjadikannya mengingat kepada-Nya daripada selain-Nya; itulah pengenalannya kepada Tuhannya—Mahatinggi—. Maka jika ia telah merasakan itu sebelum delapan puluh hari, jangan memutus riyadhah; sempurnakanlah delapan puluh hari sesuai tuntutan riyadhah, sehingga Allah—Mahatinggi—menampakkan kepadamu awal-awal ruh dan tempat istirahatnya. Dan apabila engkau telah menyempurnakan delapan puluh (hari) tetapi belum memenuhi apa yang kami sebutkan, jangan memutus riyadhahmu, karena perkara itu—insya Allah—dekat, dan akhirnya sembilan «…»
+
+### 4. Syarah
+
+«وَعَزَّ» mungkin «وَعَزَّ» (menjadi berat) atau «وَغَرَّ»; dipilih yang pertama dan dicatat. «الطُّهُورِ» bisa «الطُّهور» (kesucian) atau «الظُّهور»; dipertahankan.
+
+«يُجِيبُ إِلَيْهِ» dan «يُذَكِّرُ إِلَيْهِ» pemakaian huruf jar tidak lazim; dipertahankan. «نِهَايَتُهُ تِسْعَةٌ» bersambung ke halaman 40 («وتسعون يوما»). «رِيَاضَتَكَ» pada cetakan tampak «رياضتك»; harakat editorial.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Bila kantuk menyerang, berbaring ke sisi kanan; setelah hilang, bangun dan berwudu lalu kembali berzikir; menyempurnakan delapan puluh hari meski tanda sudah muncul.
+
+**Waktu:** Selama penyempurnaan delapan puluh hari, meski tanda sudah muncul; bila kantuk menyerang
+
+**Media:** Berbaring ke sisi kanan sampai kantuk hilang, lalu bangun, berwudu, dan kembali berzikir
+
+## M40 — Halaman 40, hitungan sembilan puluh hari dan nama-nama penawar
+
+### 1. Arab
+
+وَتِسْعُونَ يَوْمًا، فَفِي الْعِشْرِينَ الْأُولَى صَوْمًا لَا وِصَالًا، وَفِي الْعِشْرِينَ الثَّانِيَةِ وِصَالًا لَيْلَتَيْنِ فِي الْجُمُعَةِ لَيْلَةَ الْجُمُعَةِ وَلَيْلَةَ الِاثْنَيْنِ، وَفِي الْعِشْرِينَ الثَّالِثَةِ لَيْلَةً لَيْلَةً وَيَسْتَعْمِلُ الْغُسْلَ كُلَّ يَوْمٍ، وَفِي الْعِشْرِينَ الرَّابِعَةِ بِالْمَاءِ الْعَذْبِ الْحَارِّ وَيُبْصِرُ الْأَدْهَانَ الرَّطْبَةَ وَيَشُمُّ الرَّوَائِحَ الْعَطِرَةَ الْبَادِرَةَ
+
+وَيَلْتَزِمُ هَذَا الْمُرْتَاضُ أَنْ لَا يَأْكُلَ مِنْ مَعْلُومٍ وَلَا يَزَالُ مُسْتَقْبِلَ الْقِبْلَةِ وَلَا يَقْرَبُ النِّسَاءَ وَلَا يَنْظُرُ إِلَيْهِنَّ وَلَا يَتَضَرَّعُ بِسَمَاعٍ ثُمَّ خَرَجَ إِلَيْهِ وَلْيَكُنْ طَاهِرًا. فَإِذَا وَجَدَ تَرْوِيحًا أَوْ خَيَالًا فَلَا يُدْهِشْنَهُ وَلَا يَرُوعُهُ وَلْيَذْكُرِ اسْمَ اللَّهِ عَزَّ وَجَلَّ السَّرِيعَ فَإِنَّ ذَلِكَ يَذْهَبُ عَنْهُ، فَإِنْ أَدْرَكَهُ الْجَهْدُ وَالْجُوعُ ذَكَرَ اسْمَهُ الْحَبِيبَ فَإِنَّهُ يَذْهَبُ عَنْهُ مَا بِهِ، وَإِنْ خَطَرَ لَهُ خَاطِرُ الشَّهْوَةِ فَلْيَغْتَسِلْ وَيَذْكُرِ اسْمَهُ الْقَابِضَ، وَذَلِكَ لِجَمْعِ الْهِمَّةِ وَتَصْحِيحِ الْقَصْدِ وَتَحْقِيقِ الْإِخْلَاصِ وَالِابْتِهَالِ إِلَى اللَّهِ تَعَالَى بِمَا يَفْتَحُ عَلَى قَلْبِهِ مِنْ لَطَائِفِ الْأَدْعِيَةِ، وَلِمَا يُكْثِرُ الدُّعَاءَ فَإِنَّ الذِّكْرَ أَفْضَلُ وَأَقْرَبُ لِلْحَقِيقَةِ
+
+### 2. Latin
+
+Wa tis'uuna yauman, fafil 'isyrinal uulaa shauman laa wishaalan, wa fil 'isyrinits tsaaniyati wishaalan lailataini fil jumu'ati lailatal jumu'ati wa lailatal itsnaini, wa fil 'isyrinits tsaalitsati lailatan lailatan wa yasta'milul ghusla kulla yaumin, wa fil 'isyrinir raabi'ati bil maa-il 'adzbil haari wa yubshirul adhaanal rathbata wa yasyummur rawaa-ihal 'athiratal baadirata.
+
+Wa yaltazimu haadzal murtadhu an laa ya'kula min ma'luumin wa laa yazaalu mustaqbilal qiblati wa laa yaqrabun nisaa-a wa laa yanzhuru ilaihinna wa laa yatadharra'u bisamaa'in tsumma kharaja ilaihi wa liyakun thaahiran. Fa-idzaa wajada tarwiihan aw khayaalan falaa yudhhisynahu wa laa yaruu'uhu wa liyadzkurismallaahi 'azza wa jalla as-sarii'a fa-inna dzaalika yadzhabu 'anhu, fa-in adrakahul jahdu wal juu'u dzakara ismahul habiiba fa-innahu yadzhabu 'anhu maa bihi, wa in khathara lahu khaathirusy syahwati falyaghtasil wa yadzkurismahul qaabidha, wa dzaalika lijam'il himmati wa tashhiihil qashdi wa tahqiiqil ikhlaashi wal ibtihaali ilallaahi ta'aalaa bimaa yaftahu 'alaa qalbihi min lathaa-ifil ad'iyati, wa limaa yuktsirud du'aa-a fa-innadz dzikra afdhalu wa aqrabu lil haqiiqati.
+
+### 3. Terjemahan
+
+Sembilan puluh hari: pada dua puluh (hari) pertama puasa tanpa washal; pada dua puluh kedua washal dua malam, yaitu malam Jumat dan malam Senin; pada dua puluh ketiga (washal) malam demi malam serta memakai mandi setiap hari; pada dua puluh keempat dengan air tawar hangat, memakai minyak yang lembap, dan mencium wangi-wangian yang lembut.
+
+Orang yang berlatih ini mewajibkan atas dirinya untuk tidak makan dari (sumber) yang tidak diketahui, senantiasa menghadap kiblat, tidak mendekati perempuan dan tidak memandang mereka, dan tidak merendahkan diri dengan pendengaran; kemudian ia keluar kepadanya dan hendaklah dalam keadaan suci. Apabila ia mendapati kelapangan atau bayangan, janganlah itu mengejutkannya dan jangan menakutinya; hendaklah ia menyebut nama Allah—Yang Mahaperkasa lagi Mahaagung—«as-Sari‘», karena itu akan menghilangkannya. Jika kelelahan dan kelaparan mendapatinya, ia menyebut nama-Nya «al-Habib», karena itu menghilangkan apa yang dirasakannya. Jika terlintas syahwat, hendaklah ia mandi dan menyebut nama-Nya «al-Qabidh». Hal itu untuk menghimpun tekad, membetulkan tujuan, merealisasikan ikhlas, dan bermunajat kepada Allah—Mahatinggi—dengan apa yang dibukakan pada hatinya berupa kelembutan doa; dan hendaklah ia memperbanyak doa, karena zikir lebih utama dan lebih dekat kepada hakikat.
+
+### 4. Syarah
+
+«وَيُبْصِرُ الْأَدْهَانَ» janggal; mungkin «وَيُبَشِّر» atau «ويَمْسَح»; dipertahankan dan ditandai. «الْبَادِرَةَ» bisa «الْبَارِدَة»; cetakan condong ke yang pertama.
+
+«وَلَا يَتَضَرَّعُ بِسَمَاعٍ ثُمَّ خَرَجَ إِلَيْهِ» tidak utuh maknanya; dipertahankan tanpa ditambal. «وَلِمَا يُكْثِرُ» kemungkinan «وَلْيُكْثِرْ»; dipertahankan bentuk cetak.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Sembilan puluh hari, dua puluh hari pertama puasa tanpa washal; dua puluh kedua washal dua malam (Jumat dan Senin); dua puluh ketiga washal tiap malam dan mandi tiap hari; dua puluh keempat memakai air tawar hangat, minyak lembap, dan wangi-wangian; tidak makan dari yang tidak diketahui, menghadap kiblat, menjauhi perempuan, dan menyebut nama-nama Allah (السريع، الحبيب، القابض) saat keadaan mendesak.
+
+**Waktu:** 90 hari: 20 hari pertama puasa tanpa washal; 20 kedua washal pada malam Jumat dan Senin; 20 ketiga washal tiap malam dan mandi tiap hari; 20 keempat menurut rincian sumber
+
+**Media:** Air tawar hangat, minyak lembap, dan wangi-wangian pada tahap keempat; nama-nama Allah as-Sarī‘, al-Ḥabīb, dan al-Qābiḍ saat keadaan mendesak; menghadap kiblat
+
+## M41 — Halaman 41, fasal kedelapan: sampai kepada hikmah
+
+### 1. Arab
+
+الْفَصْلُ الثَّامِنُ
+
+الْوُصُولُ لِلْحِكْمَةِ
+
+وَمَنْ أَرَادَ الْوُصُولَ لِلْحِكْمَةِ فَيَسْتَمِرُّ بِذِكْرِ اللَّهِ عَزَّ وَجَلَّ وَالصَّوْمِ، وَلْيَكُنْ ذِكْرُهُ: أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ، مَعَ مَا تَقَدَّمَ مِنَ الذِّكْرِ فِي أَوَّلِ الْكِتَابِ مِنْ تَرْتِيبِ الْأَوْرَادِ، فَإِنَّ اللَّهَ يَرْزُقُ مَنْ يَشْغَلُ ذَلِكَ الزِّيَادَةَ فِي بَاطِنِهِ وَالْخَلْوَةَ فِي الْعَمَلِ وَيُيَسِّرُ الْأَسْبَابَ وَيُهَوِّنُ عَلَيْهِ الرِّزْقَ
+
+وَلَا يُفَارِقِ السَّالِكَ هَذِهِ الطَّهَارَةَ مَهْمَا انْتَقَضَ وَلَا يَنَامُ إِلَّا عَلَى طَهَارَةٍ وَذِكْرٍ. وَيَفْعَلُ ذَلِكَ مَرَّةً كُلَّ شَهْرٍ وَيَلْزَمُ الصَّلَاةَ فِي الْجَمَاعَةِ وَتَرْكَ الْكَلَامِ فِيمَا لَا يَعْنِيهِ وَيَجْتَنِبُ الْغِيبَةَ قَوْلًا وَسَمَاعًا، فَإِنَّ اللَّهَ تَعَالَى تَبَارَكَ وَتَعَالَى يَجْعَلُ الْبَرَكَةَ فِيمَا يَتَنَاوَلُهُ وَيَرْزُقُهُ مِنْ حَيْثُ لَا يَحْتَسِبُ، وَعَلَيْهِ بِمَجَالِسِ الذِّكْرِ بِنِيَّةِ الِانْتِفَاعِ وَتَصْحِيحِ الْقَصْدِ وَأَكْلِ الْحَلَالِ وَخَلْوِ نِصْفِ الْمَعِدَةِ أَوْ نِصْفِهَا فِي أَيَّامِ صَوْمِهِ وَأَنْ يَتَجَنَّبَ الدَّهْنَ الدَّسِمَ كَانَ
+
+### 2. Latin
+
+Al-fashluts tsaaminu: al-wushuulu lil hikmah. Wa man araadal wushuula lil hikmati fayastamirru bidzikrillaahi 'azza wa jalla wash shaumi, wa liyakun dzikruhu: astaghfirullaahal ladzii laa ilaaha illaa huwal hayyul qayyuumu, ma'a maa taqaddama minadz dzikri fii awwalil kitaabi min tartiibil awraadi, fa-innallaaha yarzuqu man yasyghalu dzaalikaz ziyaadata fii baathinihi wal khalwata fil 'amali wa yuyassirul asbaaba wa yuhawwinu 'alaihir rizqa.
+
+Wa laa yufaariqis saalika haadzihith thahaarata mahmaa intaqadha wa laa yanaamu illaa 'alaa thahaaratin wa dzikrin. Wa yaf'alu dzaalika marratan kulla syahrin wa yalzamush shalaata fil jamaa'ati wa tarkal kalaami fiimaa laa ya'niihi wa yajtanibul ghiibata qaulan wa samaa'an, fa-innallaaha ta'aalaa tabaaraka wa ta'aalaa yaj'alul barakata fiimaa yatanaawaluhu wa yarzuquhu min haitsu laa yahtasibu, wa 'alaihi bimajaalisidz dzikri biniyyatil intifaa'i wa tashhiihil qashdi wa akli l halaali wa khalwi nishfil ma'idati aw nishfihaa fii ayyaami shaumihi wa an yatajannabad dahnaad dasima kaana.
+
+### 3. Terjemahan
+
+Fasal kedelapan: sampai kepada hikmah. Siapa yang hendak sampai kepada hikmah, hendaklah ia terus-menerus dengan zikir kepada Allah—Yang Mahaperkasa lagi Mahaagung—dan puasa; hendaklah zikirnya: «Aku memohon ampun kepada Allah yang tiada tuhan selain Dia, Yang Mahahidup lagi Maha Berdiri», bersama zikir yang telah lalu pada awal kitab berupa susunan wirid. Sesungguhnya Allah memberi rezeki kepada siapa yang menyibukkan diri dengan hal itu, menambah pada batinnya, dan (memberi) khalwat dalam amal; Dia memudahkan sebab-sebab dan meringankan rezeki baginya.
+
+Salik tidak meninggalkan kesucian ini kapan pun ia batal, dan tidak tidur kecuali dalam keadaan suci dan berzikir. Ia melakukan itu sekali setiap bulan; ia mewajibkan atas dirinya salat berjamaah, meninggalkan perkataan yang tidak berguna, dan menjauhi gibah baik dalam ucapan maupun pendengaran. Sesungguhnya Allah—Mahatinggi, Mahasuci dan Mahatinggi—menjadikan keberkahan pada apa yang ia ambil dan memberinya rezeki dari arah yang tidak ia duga. Hendaklah ia menghadiri majelis zikir dengan niat mengambil manfaat dan membetulkan tujuan, memakan yang halal, mengosongkan separuh perut—atau setengahnya—pada hari-hari puasanya, dan menjauhi minyak yang berlemak, sebagaimana «…»
+
+### 4. Syarah
+
+«مَنْ يَشْغَلُ ذَلِكَ» susunan tidak baku (lazimnya «يشتغل بذلك»); dipertahankan. Zikir istighfar diambil apa adanya dari cetakan.
+
+«مَهْمَا انْتَقَضَ» dibaca «انتَقَض» (batal); bentuk cetak tanpa titik jelas pada satu huruf, dicatat. «كَانَ» di akhir halaman menggantung dan bersambung ke halaman 42.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Zikir «أستغفر الله الذي لا إله إلا هو الحي القيوم» bersamaan puasa; menjaga kesucian; salat berjamaah; meninggalkan bicara yang tidak perlu dan gibah; bersedekah; memperbanyak salawat hari Jumat; menjaga separuh perut saat puasa.
+
+**Waktu:** Selama puasa dan salat berjamaah; memperbanyak salawat pada hari Jumat
+
+**Media:** Zikir «أستغفر الله الذي لا إله إلا هو الحي القيوم»; menjaga kesucian dan separuh perut saat puasa; sedekah
+
+## M42 — Halaman 42, wirid Jumat, sedekah, dan riyadhah tiga hari
+
+### 1. Arab
+
+أَقْرَبُ لِلْخَيْرِ وَأَسْرَعُ لِلْبَرَكَةِ، وَإِنْ كَانَ يَتْلُو الْقُرْآنَ فَبَعْدَ الصُّبْحِ إِلَى الضُّحَى وَبَيْنَ الْعِشَاءَيْنِ، وَيَسْتَدِيمُ عَلَى سُنَّةِ الضُّحَى فَإِنَّهَا مِنْ أَكْثَرِ الْقُرُبَاتِ إِلَى اللَّهِ تَعَالَى. وَلْيُكْثِرِ الْخُشُوعَ وَالِابْتِهَالَ إِلَى اللَّهِ تَعَالَى وَلْيَتَصَدَّقْ كُلَّ يَوْمٍ بِمَا أَكَلَهُ فَيُوسِعُ اللَّهُ عَلَيْهِ. وَفِي يَوْمِ الْجُمُعَةِ يَكُونُ ذِكْرُهُ أَنْ يُصَلِّيَ عَلَى سَيِّدِنَا رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَعَلَى آلِ مُحَمَّدٍ جَمِيعَ يَوْمِهِ
+
+وَإِذَا أَرَدْتَ رِيَاضَةً صَغِيرَةً فَهِيَ ثَلَاثَةُ أَيَّامِ خَلْوَةٍ لَا تَأْكُلُ مَا فِيهِ رُوحٌ وَلَا مَا خَرَجَ مِنْهَا، وَيَأْخُذُ اسْمًا مِنْ أَسْمَاءِ اللَّهِ الْحُسْنَى أَوِ اسْمَيْنِ أَوْ مَا يَشَاءُ مِنَ الْأَسْمَاءِ بِمَا يُعَادِلُ اسْمَهُ، وَيُسَبِّحُ بِهِ بَعْدَ كُلِّ صَلَاةٍ مَفْرُوضَةٍ، مَثَلًا رَجُلٌ اسْمُهُ مُحَمَّدٌ يُعَادِلُ اسْمَهُ اسْمُ اللَّهِ السَّلَامُ ١٣١ مَرَّةً يَقْرَأُهَا بَعْدَ كُلِّ صَلَاةٍ، مَعْنَى ذَلِكَ أَنَّ مُحَمَّدًا يَقُولُ السَّلَامُ ١٣١ مَرَّةً فَكَأَنَّهُ يُنَادَى اللَّهُ بِاسْمِهِ مُحَمَّدٌ
+
+### 2. Latin
+
+Aqrabu lil khairi wa asra'u lil barakati, wa in kaana yatluul qur'aana faba'dash shubhi iladh dhuhaa wa bainal 'isyaa-aini, wa yastadiimu 'alaa sunnatidh dhuhaa fa-innahaa minal aktsaril qurubaati ilallaahi ta'aalaa. Wa liyuktsiril khusyuu'a wal ibtihaala ilallaahi ta'aalaa wa liyatashaddaq kulla yaumin bimaa akalahu fayuu si'ullaahu 'alaihi. Wa fii yaumil jumu'ati yakuunu dzikruhu an yushalliya 'alaa sayyidinaa rasuulillaahi shallallaahu 'alaihi wa sallama wa 'alaa aali Muhammadin jamii'a yaumihi.
+
+Wa idzaa aradta riyaadhah shaghiirah fahiya tsalaatsatu ayyaami khalwatin laa ta'kulu maa fiihi ruuhun wa laa maa kharaja minhaa, wa ya'khudzu isman min asmaa-illaahil husnaa aw ismaini aw maa yasyaa-u minal asmaa-i bimaa yu'aadilu ismahu, wa yusabbihu bihi ba'da kulli shalaatin mafruudhatin, matsalan rajulun ismuhu muhammadun yu'aadilu ismahu ismullaahis salaamu 131 marratan yaqrauhaa ba'da kulli shalaatin, ma'naa dzaalika anna muhammadan yaquulus salaamu 131 marratan faka-annahu yunaadaallaahu bismihi muhammadun.
+
+### 3. Terjemahan
+
+«…» lebih dekat kepada kebaikan dan lebih cepat mendatangkan keberkahan. Jika ia membaca al-Qur'an, (waktunya) setelah Subuh sampai Duha dan antara dua Isya; hendaklah ia menjaga sunah Duha, karena ia termasuk amal yang paling mendekatkan kepada Allah—Mahatinggi—. Hendaklah ia memperbanyak kekhusyukan dan munajat kepada Allah—Mahatinggi—, dan bersedekah setiap hari sebesar yang ia makan, sehingga Allah melapangkan rezekinya. Pada hari Jumat, zikirnya hendaklah berupa salawat kepada penghulu kami Rasulullah—semoga Allah melimpahkan salawat dan salam kepadanya—dan kepada keluarga Muhammad sepanjang harinya.
+
+Apabila engkau menghendaki riyadhah kecil, yaitu khalwat tiga hari: jangan memakan yang bernyawa maupun yang keluar darinya; ambillah satu nama dari nama-nama Allah yang terbaik, atau dua nama, atau nama mana pun yang setara dengan namanya, lalu bertasbih dengannya setelah setiap salat fardu. Contohnya seorang lelaki bernama Muhammad: nilai namanya setara dengan nama Allah «as-Salam» 131 kali, ia membacanya setelah setiap salat. Maknanya bahwa Muhammad menyebut «as-Salam» 131 kali, seolah-olah ia menyeru Allah dengan namanya, Muhammad.
+
+### 4. Syarah
+
+Awal halaman menyambung kalimat halaman 42 tentang qarin yang mengajak kebaikan; subjeknya tidak diulang, dan tidak ditambahkan kata. «بِمَا أَكَلَهُ» bisa «بما أَكَل» (sebanyak yang ia makan); dipertahankan.
+
+Hitungan 131 dan nama «السلام» diambil apa adanya dari cetakan; tidak dihitung ulang nilai numeriknya dan tidak disahkan. «بِمَا يُعَادِلُ اسْمَهُ» konsep hisab huruf; tidak diverifikasi.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Memperbanyak salawat hari Jumat; sedekah setiap hari sebesar makanan yang dimakan; riyadhah kecil tiga hari khalwat tanpa memakan yang bernyawa; berzikir dengan satu atau dua nama Allah yang setara nilai nama sendiri; contoh nama Muhammad dengan «السلام» 131 kali setelah tiap salat fardu.
+
+**Waktu:** Hari Jumat untuk memperbanyak salawat; sedekah setiap hari; riyadhah kecil tiga hari; sesudah tiap salat fardu untuk contoh zikir yang diberikan
+
+**Media:** Sedekah sebesar makanan yang dimakan; pantang yang bernyawa selama khalwat tiga hari; satu atau dua nama Allah yang dinilai penulis setara nilai nama sendiri (contoh as-Salām 131 kali—hitungan tidak diverifikasi)
+
+## M43 — Halaman 43, fasal kesembilan: qarin dan hadis Aisyah
+
+### 1. Arab
+
+الْفَصْلُ التَّاسِعُ
+
+الْقَرِينُ
+
+اعْلَمْ أَخِي الْمُؤْمِنَ أَنَّ لِكُلِّ إِنْسَانٍ قَرِينًا مِنَ الْجِنِّ. رَوَى مُسْلِمٌ وَأَحْمَدُ وَغَيْرُهُمَا مِنْ حَدِيثِ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَرَجَ مِنْ عِنْدِهَا لَيْلًا، قَالَتْ: فَغِرْتُ عَلَيْهِ، قَالَ: فَجَاءَ فَرَأَى مَا أَصْنَعُ، فَقَالَ: مَالَكِ يَا عَائِشَةُ أَغِرْتِ؟ فَقُلْتُ: وَمَالِي لَا يَغَارُ مِثْلِي عَلَى مِثْلِكَ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَفَقَدْتِ شَيْطَانَكِ؟ فَقُلْتُ: يَا رَسُولَ اللَّهِ أَوَ مَعِيَ شَيْطَانٌ؟ قَالَ: نَعَمْ. قُلْتُ: وَمَعَكَ يَا رَسُولَ اللَّهِ؟ قَالَ: نَعَمْ، وَلَكِنَّ رَبِّي عَزَّ وَجَلَّ أَعَانَنِي عَلَيْهِ حَتَّى أَسْلَمَ
+
+وَفِي رِوَايَةٍ أُخْرَى: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَا مِنْ أَحَدٍ مِنْكُمْ إِلَّا وَقَدْ وُكِّلَ بِهِ قَرِينُهُ مِنَ الْجِنِّ وَقَرِينُهُ مِنَ الْمَلَائِكَةِ»، قَالُوا: وَإِيَّاكَ يَا رَسُولَ اللَّهِ؟ قَالَ: «وَإِيَّايَ، وَلَكِنَّ اللَّهَ تَعَالَى عَانَنِي عَلَيْهِ فَلَا يَأْمُرُنِي إِلَّا بِحَقٍّ»
+
+### 2. Latin
+
+Al-fashlut taasi'u: al-qariin. I'lam akhil mu'mina anna likulli insaanin qariinan minal jinni. Rawa muslimun wa ahmad wa ghairuhuma min hadiitsi 'aa-isyyah radhiyallaahu 'anhaa: anna rasuulallaahi shallallaahu 'alaihi wa sallama kharaja min 'indihaa lailan, qaalat: faghirtu 'alaihi, qaala: fajaa-a fara-aa maa ashna'u, faqaala: maalaki yaa 'aa-isyyah aghirti? faqultu: wa maa lii laa yaghaaru mitslii 'alaa mitslika? faqaala rasuulullaahi shallallaahu 'alaihi wa sallama: afaqadti syaithaanaki? faqultu: yaa rasuulallaahi awa ma'iya syaithaanun? qaala: na'am. qultu: wa ma'aka yaa rasuulallaahi? qaala: na'am, wa laakinna rabbii 'azza wa jalla a'aananii 'alaihi hattaa aslama.
+
+Wa fii riwaayatin ukhraa: qaala rasuulullaahi shallallaahu 'alaihi wa sallama: «Maa min ahadin minkum illaa wa qad wukkira bihi qariinuhu minal jinni wa qariinuhu minal malaa-ikati», qaaluu: wa iyyaaka yaa rasuulallaahi? qaala: «wa iyyaaya, wa laakinnallaaha ta'aalaa 'aananii 'alaihi falaa ya'murunii illaa bihaqqin».
+
+### 3. Terjemahan
+
+Fasal kesembilan: qarin. Ketahuilah, saudaraku yang mukmin, bahwa setiap manusia memiliki qarin (pendamping) dari jin. Muslim, Ahmad, dan lainnya meriwayatkan dari hadis Aisyah—semoga Allah meridainya—: bahwa Rasulullah—semoga Allah melimpahkan salawat dan salam kepadanya—keluar dari sisinya pada malam hari. Ia berkata: maka aku cemburu kepadanya. Ia berkata: lalu beliau datang dan melihat apa yang aku lakukan, lalu bersabda: «Ada apa denganmu, wahai Aisyah, apakah engkau cemburu?» Aku berkata: «Mengapa aku tidak cemburu, orang sepertiku terhadap orang sepertimu?» Maka Rasulullah—semoga Allah melimpahkan salawat dan salam kepadanya—bersabda: «Apakah engkau kehilangan setanmu?» Aku berkata: «Wahai Rasulullah, apakah bersamaku ada setan?» Beliau bersabda: «Ya.» Aku berkata: «Dan bersamamu, wahai Rasulullah?» Beliau bersabda: «Ya, tetapi Tuhanku—Yang Mahaperkasa lagi Mahaagung—menolongku atasnya sehingga ia masuk Islam.»
+
+Dalam riwayat lain: Rasulullah—semoga Allah melimpahkan salawat dan salam kepadanya—bersabda: «Tidak ada seorang pun di antara kalian kecuali telah diserahkan kepadanya qarinnya dari jin dan qarinnya dari malaikat.» Mereka bertanya: «Dan engkau juga, wahai Rasulullah?» Beliau bersabda: «Dan aku juga, tetapi Allah—Mahatinggi—menolongku atasnya, sehingga ia tidak memerintahkanku kecuali dengan kebenaran.»
+
+### 4. Syarah
+
+Sanad disebut penulis sebagai riwayat Muslim dan Ahmad; dicatat sebagai atribusi penulis dan tidak diverifikasi takhrij. «أَغِرْتِ» dibaca sesuai cetakan; bentuk lain yang lazim «أَغِرْتِ» (apakah engkau cemburu).
+
+Lafal «عَانَنِي» pada cetakan dapat dibaca «أَعَانَنِي»; keduanya dicatat, dan teks tidak diubah. «وُكِّلَ» mabni majhul.
+
+## M44 — Halaman 44, siapa qarin dan persoalan yang menyertainya
+
+### 1. Arab
+
+مَنْ هُوَ الْقَرِينُ
+
+الْقَرِينُ يُخْلَقُ مَعَ الْإِنْسَانِ حِينَ الْوِلَادَةِ فِي الدُّنْيَا وَيُصْبِحُ مَعَهُ كَالتَّوْأَمِ لَا يُفَارِقُهُ أَبَدًا. وَاعْلَمْ أَنَّ الْقَرِينَ خَلْقٌ مِنَ الْجَانِّ وَأَنَّهُ يَأْكُلُ مَعَ الْإِنْسَانِ وَيَعِيشُ مَعَهُ. وَالْقَرِينُ نَوْعٌ مِنْ قَبَائِلِ النَّهَامِـرِ وَهِيَ قَبَائِلُ مَلْئِيَّةٌ فِي الدُّنْيَا مَلْئِيَّةٌ بِالْبَشَرِ وَبِالْخَيْرِ وَيَسْتَصَاوِعُونَ مِثْلَ الْإِنْسِ تَمَامًا
+
+وَالْقَرِينُ يَظَلُّ مَعَ الْإِنْسَانِ حَتَّى الْمَوْتِ. وَاعْلَمْ أَنَّ الرَّجُلَ مِنَ الْإِنْسِ مَعَهُ قَرِينٌ ذَكَرٌ مِنَ الْجَانِّ، وَأَنَّ الْمَرْأَةَ مِنَ الْإِنْسِ مَعَهَا قَرِينٌ أُنْثَى مِنَ الْجَانِّ، وَإِذَا تَزَوَّجَ الرَّجُلُ مِنَ الْإِنْسِ مَعَ امْرَأَةٍ مِنَ الْإِنْسِ فَلَا يَتَزَوَّجُ الْقَرِينُ مِنَ الْجَانِّ مِنَ الْقَرِينَةِ مِنَ الْجَانِّ لِأَنَّهُمْ خُلِقُوا لَا يَتَزَوَّجُونَ أَبَدًا. وَهُنَاكَ بَعْضُ الْمُشَارِ يخ يَقُولُ إِنَّ الْمَرْأَةَ مِنَ الْإِنْسِ يُحِبُّهَا الْقَرِينُ وَيَمْنَعُهَا مِنَ الزَّوَاجِ. هَذَا كَلَامٌ صَحِيحٌ وَلَكِنَّهُ لَيْسَ قَرِينَهَا لِأَنَّ قَرِينَهَا امْرَأَةٌ، وَلَكِنْ كَيْفَ يُنْتَمَى قَرِينٌ وَكَيْفِيَّةُ حُضُورِهِ إِلَيْهَا وَلِمَاذَا يُحِبُّهَا وَيَمْنَعُ أَيَّ رَجُلٍ مِنَ التَّقَدُّمِ إِلَيْهَا؟ وَكَيْفِيَّةُ الْعِلَاجِ فِي هَذَا الْمَوْضُوعِ، أَقُولُ وَبِاللَّهِ أَسْتَعِينُ
+
+### 2. Latin
+
+Man huwal qariin? Al-qariinu yukhslaqu ma'al insaani hiinal wilaadati fid dunyaa wa yushbihu ma'ahu kat-tau-ami laa yufaariquhu abadan. Wa'lam annal qariina khalqun minal jaanni wa annahu ya'kulu ma'al insaani wa ya'iisyu ma'ahu. Wal qariinu nau'un min qabaa-ilin nahaamiri wa hiya qabaa-ilu mal-iyyatun fid dunyaa mal-iyyatun bil basyari wa bil khairi wa yastashaawi'uuna mitslal insi tamaaman.
+
+Wal qariinu yazhallu ma'al insaani hattal mauti. Wa'lam anna ar-rajula minal insi ma'ahu qariinun dzakarun minal jaanni, wa annal mar-ata minal insi ma'ahaa qariinun untsaa minal jaanni, wa idzaa tazawwaja ar-rajulu minal insi ma'a imra-atin minal insi falaa yatazawwaju al-qariinu minal jaanni minal qariinati minal jaanni li-annahum khuliqquu laa yatazawwajuuna abadan. Wa hunaaka ba'dhul musyaariikha yaquulu innal mar-ata minal insi yuhibbuhaal qariinu wa yamna'uhaal zawaaja. Haadzaa kalaamun shahiihun wa laakinnahu laisa qariinahaa li-anna qariinahaa imra-atun, wa laakin kaifa yuntamaa qariinun wa kaifiyyatu hudhuurihi ilaihaa wa limaadzaa yuhibbuhaa wa yamna'u ayya rajulin minat taqaddumi ilaihaa? Wa kaifiyyatul 'ilaaji fii haadzal maudhuu'i, aquulu wa billaahil asta'iin.
+
+### 3. Terjemahan
+
+Siapakah qarin itu? Qarin diciptakan bersama manusia ketika lahir di dunia, dan ia menjadi bersamanya seperti kembar yang tidak pernah berpisah. Ketahuilah bahwa qarin adalah makhluk dari bangsa jin; ia makan bersama manusia dan hidup bersamanya. Qarin adalah sejenis dari kabilah Nihamir, yaitu kabilah-kabilah yang penuh di dunia, penuh dengan manusia dan kebaikan, dan mereka saling mendengar seperti manusia sepenuhnya.
+
+Qarin tetap bersama manusia sampai mati. Ketahuilah bahwa lelaki manusia memiliki qarin laki-laki dari jin, dan perempuan manusia memiliki qarin perempuan dari jin. Apabila lelaki manusia menikah dengan perempuan manusia, maka qarin dari jin tidak menikah dengan qarinah dari jin, karena mereka diciptakan tidak menikah selamanya. Ada sebagian peneliti (musyarikha?) yang berkata bahwa perempuan manusia dicintai qarinnya dan ia menghalanginya dari pernikahan. Ini perkataan yang benar, tetapi bukan qarin-nya, karena qarin-nya adalah perempuan. Namun bagaimana qarin itu dinisbahkan, dan bagaimana kehadirannya kepadanya, mengapa ia mencintainya dan mencegah lelaki mana pun mendekatinya? Dan bagaimana cara pengobatannya dalam masalah ini — aku berkata dan kepada Allah aku memohon pertolongan.
+
+### 4. Syarah
+
+«النَّهَامِـرِ» tidak dapat dipastikan (mungkin «النَّهَامِر» atau nama kabilah lain); ditandai dan tidak diganti. «يَسْتَصَاوِعُونَ» bentuk tidak lazim; kemungkinan «يَتَصَاوَتُون» (saling memanggil); dipertahankan.
+
+«الْمُشَارِ يخ» pada cetakan terpotong dan tidak terbaca pasti; kemungkinan «الْمُشَارِ إِلَيْهِ» atau kata lain — ditandai, tidak diganti. «يُنْتَمَى» mungkin «يَنْتَمِي»; dipertahankan.
+
+## M45 — Halaman 45, fasal kesepuluh: kelompok satu sampai sembilan
+
+### 1. Arab
+
+الْفَصْلُ الْعَاشِرُ
+
+أَوَّلًا (الرَّهْطُ الْأَوَّلُ مِنَ الْجَانِّ) يَحْكُمُ عَلَى الرَّجُلِ بِمَقْضِ زَوْجَتِهِ وَكُرْهِهَا وَهُوَ مِنْ قَبْلُ كَانَ يُحِبُّهَا غَايَةَ الْحُبَّةِ. (الرَّهْطُ الثَّانِي) يَحْكُمُ فِي الْمَرْأَةِ فَتُبْغِضُ زَوْجَهَا حَتَّى إِذَا رَأَتْهُ يَحْسَبُهُ بَيْنَ عَيْنَيْهَا كَأَنَّهُ عَدُوٌّ أَوْ خِنْزِيرٌ يَتَشَكَّلُ لَهَا. (الرَّهْطُ الثَّالِثُ) يَصْنَعُ لِلْمَرْأَةِ فَيُبْغِضُهَا عَنِ الزَّوَاجِ فَيَطْلُبُهَا النَّاسُ لِلنِّكَاحِ فَيَرْجِعُونَ مُدْبِرِينَ - الْقَرِينُ
+
+(الرَّهْطُ الرَّابِعُ) يَحْنَقُ لِلْبِكْرِ فَتَبُورُ فَلَا يَطْرُقُ جَانِبَيْهَا طَارِقٌ، فَإِذَا طَرَقَ هَرَبَ وَفَرَّ قَرَارًا وَلَا وُجُوعَ بَعْدَهُ. (الرَّهْطُ الْخَامِسُ) يَصْنَعُ لِلرَّجُلِ فَيُبْغِضُ أَهْلَ دَارِهِ. (الرَّهْطُ السَّادِسُ) يَصْنَعُ لِلْمَغْنَمِ فَتَمُوتُ أَوْلَادُهَا - إِذَا صَنَعْتَ هَذَا السِّحْرَ وَخَطَّتْهُ الْمَاشِيَةُ وَكَّلَتِ الشَّيَاطِينَ بِذَلِكَ فَيَمْنَعُونَ أَوَّلًا الْغَنَمَ. (الرَّهْطُ السَّابِعُ وَالثَّامِنُ وَالتَّاسِعُ) يَحْنَقُ لِمَوْتِ الْبَهَائِمِ وَلِمَنْعِ اللَّبَنِ وَلِمَنْعِ الْوِلَادَةِ
+
+### 2. Latin
+
+Al-fashlul 'aasyiru: awwalan (ar-rahthul awwalu minal jaanni) yahkumu 'alar rajuli bimaqdhil zaujatihi wa kurhihaa wa huwa min qablu kaana yuhibbuhaa ghaayatal hubbati. (Ar-rahthuts tsaanii) yahkumu fil mar-ati fatubghidhu zaujahaa hattaa idzaa ra-athu yahsabuhu baina 'ainaihaa ka-annahu 'aduwwun aw khinziirun yatasyakkal lahaa. (Ar-rahthuts tsaalitsu) yashna'u lil mar-ati fayubghidhuhaa 'aniz zawaaji fayathlubuhaan naasu lin nikaahi fayarji'uuna mudbiriina - al-qariinu.
+
+(Ar-rahthur raabi'u) yahniqu lil bikri fatabuuru falaa yathruqu jaanibaihaa thaariqun, fa-idzaa tharaqa haraba wa farra qaraaran wa laa wujuu'a ba'dahu. (Ar-rahthul khaamisu) yashna'u lir rajuli fayubghidhu ahla daarihi. (Ar-rahthus saadisu) yashna'u lil maghnami fatamuutu aulaaduhaa - idzaa shana'ta haadzas sihra wa khattathu maasyiyatu wakkalatisy syayaathiina bidzaalika fayamna'uuna awwalanil ghanama. (Ar-rahthus saabi'u wats tsaaminu wat taasi'u) yahniqu limautil bahaa-imi wa liman'il labani wa liman'il wilaadati.
+
+### 3. Terjemahan
+
+Fasal kesepuluh. Pertama (kelompok pertama dari jin): ia memutuskan atas lelaki (berupa) ketidaksukaan istrinya dan kebenciannya, padahal sebelumnya ia mencintainya dengan puncak cinta. (Kelompok kedua): ia memutuskan pada perempuan, sehingga ia membenci suaminya; ketika melihatnya, ia menduga di antara kedua matanya seolah ia musuh atau babi yang menjelma baginya. (Kelompok ketiga): ia membuat (gangguan) pada perempuan, sehingga ia dibenci untuk menikah; orang-orang meminangnya lalu kembali berpaling — (inilah) qarin.
+
+(Kelompok keempat): ia marah terhadap gadis, sehingga ia tidak laku dan tidak ada pelamar yang menghampiri kedua sisinya; apabila ada yang datang, ia lari dan kabur sejauh-jauhnya tanpa kembali sesudahnya. (Kelompok kelima): ia membuat (gangguan) pada lelaki sehingga ia membenci penghuni rumahnya. (Kelompok keenam): ia membuat (gangguan) pada (hewan) ternak sehingga anak-anaknya mati — jika engkau membuat sihir ini dan hewan ternak menginjaknya, setan-setan ditugaskan untuk itu sehingga mereka pertama-tama mencegah kambing. (Kelompok ketujuh, kedelapan, dan kesembilan): ia marah untuk kematian hewan, mencegah susu, dan mencegah kelahiran.
+
+### 4. Syarah
+
+«بِمَقْضِ» tidak jelas; kemungkinan «بِمَقْتٍ» (kebencian) atau «بِبُغْض»; dipertahankan dan dicatat. «يَحْسَبُهُ» bisa «تَحْسَبُهُ»; dhamir mengikuti cetakan.
+
+Cetakan «فلا يطرق جانبيها طارق»; «وفرارًا» pada cetakan bisa «وَفَرَّ قَرَارًا» — dua bacaan terbuka. «وخطته الماشية» (bukan «خططته») dibaca apa adanya. «يَحْنَقُ» (marah) dipilih; kemungkinan «يُحَنِّق». «وَلَا وُجُوعَ» tidak baku (lazimnya «وَلَا رُجُوع»); dipertahankan. «الْمَاشِيَةُ» bisa «الْمَاشِيَة» (hewan ternak) atau «الْمَاسِحَة»; dipilih yang pertama dan dicatat.
+
+## M46 — Halaman 46, kelompok sepuluh sampai tiga belas
+
+### 1. Arab
+
+(الرَّهْطُ الْعَاشِرُ) يَصْنَعُ لِمَوْتِ أَوْلَادِ الْإِنْسَانِ فَلَا يَعِيشُ مِنْهُمْ إِلَّا قَلِيلٌ، إِذَا صَنَعَ سِحْرًا وَتَخَطَّتْهُ الْمَرْأَةُ وَضَرَبَهَا الشَّيَاطِينُ الْمُوَكَّلُونَ بِأَنْوَاعِ السِّحْرِ عَلَى خَاصِرَتِهَا أَوْ مَعِدَتِهَا أَوْ بَطْنِهَا فَيَسْقُطُ الْجَنِينُ. (الرَّهْطُ الْحَادِي عَشَرَ) مَهْمَا صَنَعَ سِحْرًا لِمَوْتِ الْأَوْلَادِ الصِّغَارِ وُكِّلَتْ لَهُ الشَّيَاطِينُ فَتَضْرِبُ الْوَلَدَ ضَرْبَةً أَوْ يَسْقُونَهُ مَاءً مَعْلُومًا فِي الْبَحْرِ الْأَزْرَقِ مِنْ عَيْنٍ هُنَاكَ، إِذَا شَرِبَ مِنْهُ الصَّبِيُّ أَمْرَضَهُ وَمَاتَ، وَإِذَا شَرِبَ مِنْهُ الْكَبِيرُ ظَهَرَ بِهِ نَفْخُ الْبَطْنِ وَيُسْتَسْقَى
+
+(الرَّهْطُ الثَّانِي عَشَرَ) إِذَا صَوَّرَ صُورَةَ امْرَأَةٍ فِي طَالِعِ السُّنْبُلَةِ يَوْمَ الثُّلَاثَاءِ يَوْمَ الْجُمُعَةِ وَتَخَطَّتْهُ الْمَرْأَةُ لَا تَلِدُ إِلَّا الْبَنَاتَ، وَذَلِكَ لِأَنَّ الشَّيَاطِينَ الْمُوَكَّلِينَ بِأَنْوَاعِ السِّحْرِ يَأْخُذُونَ مِنْ أَرْضِ الْمَغْرِبِ الْأَقْصَى بِقُرْبِ الْبَحْرِ نَبَاتًا هُنَاكَ مَعْلُومًا فَيُطْعِمُونَهُ الْمَرْأَةَ فَلَا تَلِدُ إِلَّا الْإِنَاثَ. (الرَّهْطُ الثَّالِثَ عَشَرَ) يَصْنَعُ السِّحْرَ فَيُعَقَّدُ الرَّجُلُ عِنْدَ زَوْجَتِهِ
+
+### 2. Latin
+
+(Ar-rahthul 'aasyiru) yashna'u limauti aulaadil insaani falaa ya'iisyu minhum illaa qaliilun, idzaa shana'a sihran wa takhaththat-hul mar-atu wa dharabahasy syayaathiinul muwakkaluna bi-anwaa'is sihri 'alaa khaashiratihaa aw ma'idatihaa aw bathnihaa fayasquthul janiinu. (Ar-rahthul haadii 'asyara) mahmaa shana'a sihran limautil aulaadish shighaari wukkilat lahussy syayaathiinu fatadhribul walada dhrbatan aw yasquunahu maa-an ma'luuman fil bah ril azraqi min 'ainin hunaaka, idzaa syariba minhus shabiyyu amradhahu wa maata, wa idzaa syariba minhul kabiiru zhahara bihinafkhul bathni wa yustasqaa.
+
+(Ar-rahthuts tsaaniya 'asyara) idzaa shawwara shuurata imra-atin fii thaali'is sunbulati yaumats tsulaatsaa-i yaumal jumu'ati wa takhaththat-hul mar-atu laa talidu illal banaati, wa dzaalika li-annasy syayaathiinal muwakkaliina bi-anwaa'is sihri ya'khudzuuna min ardhil maghribil aqshaa biqurbil bahri nabaatan hunaaka ma'luuman fayuth'imuunahul mar-ata falaa talidu illal inaatsa. (Ar-rahthuts tsaalitsu 'asyara) yashna'us sihra fayu'aqqadul rajulu 'inda zaujatihi.
+
+### 3. Terjemahan
+
+(Kelompok kesepuluh): ia membuat (gangguan) untuk kematian anak-anak manusia, sehingga tidak hidup di antara mereka kecuali sedikit; apabila ia membuat sihir lalu perempuan melangkahinya, setan-setan yang ditugaskan dengan berbagai sihir memukul pinggangnya, lambungnya, atau perutnya, sehingga janin gugur. (Kelompok kesebelas): setiap kali ia membuat sihir untuk kematian anak-anak kecil, setan-setan ditugaskan untuknya, lalu mereka memukul anak itu sekali, atau memberi minum air tertentu di laut biru dari mata air di sana; apabila anak kecil meminumnya, ia sakit dan mati; dan apabila orang dewasa meminumnya, tampak padanya kembung perut dan ia minta disembuhkan (istisqa’).
+
+(Kelompok kedua belas): apabila ia membuat gambar perempuan pada (waktu) bintang gandum, hari Selasa atau hari Jumat, lalu perempuan melangkahinya, ia tidak melahirkan kecuali anak perempuan; hal itu karena setan-setan yang ditugaskan dengan berbagai sihir mengambil dari tanah Magrib paling jauh, dekat laut, tumbuhan tertentu di sana, lalu memberi makan perempuan itu dengannya, sehingga ia tidak melahirkan kecuali anak-anak perempuan. (Kelompok ketiga belas): ia membuat sihir sehingga lelaki terikat (tidak dapat berhubungan) dengan istrinya.
+
+### 4. Syarah
+
+«يُسْتَسْقَى» bisa berarti «diminta hujan» atau «diminta kesembuhan»; konteks penyakit mendukung makna kedua, dan itu dinyatakan sebagai pilihan terjemahan, bukan perubahan teks. «تَخَطَّتْهُ» (melangkahinya) dipakai untuk benda sihir yang diletakkan di jalan.
+
+«طَالِعِ السُّنْبُلَة» (cetakan tampak «السنبة») adalah istilah astrologi (bintang gandum); dipertahankan sebagai istilah. «الثَّالِثَ عَشَرَ» pada cetakan tampak «الثالث عشر»; dibaca sebagai urutan ketiga belas, bukan «الثالث» biasa.
+
+## M47 — Halaman 47, kelompok keempat belas sampai keenam belas
+
+### 1. Arab
+
+(الرَّهْطُ الرَّابِعَ عَشَرَ) يَصْنَعُ لِلْعَرُوسِ فَتُبْغِضُ الْعَرِيسَ. (الرَّهْطُ الْخَامِسَ عَشَرَ) يَصْنَعُ لِلْمَرْأَةِ فَتُبْغِضُ جِمَاعَ زَوْجِهَا وَتَقُولُ لَهُ: لَا أُحِبُّ الْجِمَاعَ. (الرَّهْطُ السَّادِسَ عَشَرَ) يَصْنَعُ لِلْمَرْأَةِ فَيُقْعِدُهَا عَنِ الْوِلَادَةِ حَتَّى يَظُنَّ أَنَّهَا عَقِيمَةٌ، وَالْعَقِيمُ مِنْ إِنْثَى هَذَا الشَّرِّ لَا يَأْتِيهَا الدَّمُ أَصْلًا
+
+### 2. Latin
+
+(Ar-rahthur raabi'a 'asyara) yashna'u lil 'aruusi fatubghidhul 'ariisa. (Ar-rahthul khaamisa 'asyara) yashna'u lil mar-ati fatubghidhu jimaa'a zaujihaa wa taquulu lahu: laa uhibbul jimaa'a. (Ar-rahthus saadisa 'asyara) yashna'u lil mar-ati fayuq'iduhaa 'anil wilaadati hattaa yazhunna annahaa 'aqiimatun, wal 'aqiimu min untsaa haadzasy syarri laa ya'tiihad damu ashlan.
+
+### 3. Terjemahan
+
+(Kelompok keempat belas): ia membuat (gangguan) pada pengantin perempuan sehingga ia membenci pengantin lelaki. (Kelompok kelima belas): ia membuat (gangguan) pada perempuan sehingga ia membenci hubungan dengan suaminya dan berkata kepadanya: «Aku tidak menyukai hubungan itu.» (Kelompok keenam belas): ia membuat (gangguan) pada perempuan sehingga ia dicegah dari kehamilan sampai ia disangka mandul; dan perempuan yang terkena keburukan ini tidak datang haidnya sama sekali.
+
+### 4. Syarah
+
+«الرَّابِعَ عَشَرَ» dibaca «رابع عشر» (keenam belas urutan), meskipun bentuk cetaknya mirip «الرابع» + «عشر»; perbedaan ini dinyatakan terbuka. «إِنْثَى هَذَا الشَّرِّ» susunan tidak lazim; dipertahankan.
+
+## M48 — Halaman 48, fasal kesebelas: pengelompokan jin menurut tempat
+
+### 1. Arab
+
+الْفَصْلُ الْحَادِي عَشَرَ
+
+أَنْوَاعُ عِلَاجَاتِ الْجِنِّ
+
+اعْلَمْ أَيُّهَا الطَّالِبُ الْمُؤْمِنُ أَنَّ أَرَدْتَ أَنْ أُعَلِّمَكَ بِأَدْوِيَةٍ يَنْتَفِعُ بِهَا مَنْ بَعْدَكَ وَأُشَارِكُ فِي الْأَجْرِ إِنْ شَاءَ اللَّهُ تَعَالَى، أَنْ هُنَاكَ أَنْوَاعًا مِنَ الْجِنِّ يَصْرَعُونَ النِّسَاءَ وَالرِّجَالَ وَهُمْ مُخْتَلِفُونَ أَعْرِفُ مِنْهُمْ خَلْقًا كَثِيرًا، وَلَكِنْ إِنْ شَاءَ اللَّهُ تَعَالَى سَأُعَرِّفُكَ أَيُّهَا الْمُؤْمِنُ بِسَبْعِينَ رَهْطًا تَقْرِيبًا لَكَ وَلِغَيْرِكَ، كُلُّ رَهْطٍ مِنْهَا أَيْ مِنَ الْجِنِّ فِيهِ سَبْعُونَ أَلْفَ قَبِيلَةٍ وَكُلُّ قَبِيلَةٍ فِيهَا سَبْعُونَ أَلْفًا
+
+وَلَوْ وَقَعَتْ إِبْرَةٌ مِنَ السَّمَاءِ مَا وَقَعَتْ إِلَّا عَلَيْهِمْ. فَالْعَفَارِيتُ مِنْهُمْ سَكَنُوا الْعُيُونَ وَالْكُهُوفَ وَالشَّيَاطِينُ سَكَنُوا الدِّيَارَ وَعَمَرُوا الْقُبُورَ (يَعْنِي نَزَلُوا بِقُرْ قُبُورِ الْإِنْسِ)، وَأَمَّا الطَّوَاغِيتُ فَسَكَنُوا بِقُرْبِ الدَّمِ، فَأَمَّا نَحْرُ دَمٍ حَضَرُوا عِنْدَهُ، وَإِنْ فَرِيقَتْ نُقْطَةُ دَمٍ قَدِمُوا إِلَيْهَا فِي أَسْرَعَ مِنَ الْبَرْقِ الْخَاطِفِ وَالرِّيحِ الْعَاصِفِ. وَبَعْضُ الزَّوَابِعَةِ رَكِبُوا الرِّيَاحَ، وَبَعْضٌ مِنْ كِبَارِ الشَّيَاطِينِ سَكَنُوا بِقُرْبِ النَّارِ لِأَنَّ الْأَصْلَ الْأَوَّلَ مِنْهَا
+
+### 2. Latin
+
+Al-fashlul haadii 'asyara: anwaa'u 'ilaajaatil jinni. I'lam ayyuhath thaali bul mu'minu an aradta an u'allimaka bi-adwiyatin yantafi'u bihaa man ba'daka wa usyaariku fil ajri in syaa-allaahu ta'aalaa, anna hunaaka anwaa'an minal jinni yashra'uunan nisaa-a war rijaala wa hum mukhtalifuuna a'rifu minhum khalqan katsiiran, wa laakin in syaa-allaahu ta'aalaa sa-u'arrifuka ayyuhal mu'minu bisab'iina rahthan taqriiban laka wa lighairika, kullu rahthin minhaa ay minal jinni fiihi sab'uuna alfu qabiilatin wa kullu qabiilatin fiihaa sab'uuna alfan.
+
+Wa lau waqa'at ibrah minas samaA-i maa waqa'at illaa 'alaihim. Fal 'afaariitu minhum sakanul 'uyuuna wal kuhuufa wasy syayaathiinu sakanud diyaara wa 'amarul qubuura (ya'nii nazaluu biqur qubuuril insi), wa ammalth thawaaghiitu fasakanuu biqurbid dami, fa-ammaa nahrud damin hadharuu 'indahu, wa in fariqat nuqthatu damin qadimuu ilaihaa fii asra'a minal barqil khaathifi war riihil 'aashifi. Wa ba'dhuz zawaabi'ati rakibur riyaaha, wa ba'dhun min kibaarisy syayaathiini sakanuu biqurbin naari li-annal ashla awwala minhaa.
+
+### 3. Terjemahan
+
+Fasal kesebelas: macam-macam pengobatan (gangguan) jin. Ketahuilah, wahai penuntut yang mukmin, bahwa engkau ingin aku mengajarimu obat-obat yang bermanfaat bagi orang setelahmu dan aku ikut serta dalam pahalanya—insya Allah—: bahwa ada macam-macam jin yang membuat perempuan dan lelaki kerasukan; mereka berbeda-beda, dan aku mengenal banyak sekali dari mereka. Tetapi—insya Allah—aku akan mengenalkanmu, wahai mukmin, kepada tujuh puluh kelompok (rahth) secara perkiraan, untukmu dan untuk selainmu; setiap kelompok dari mereka, yakni dari jin, memuat tujuh puluh ribu kabilah, dan setiap kabilah memuat tujuh puluh ribu.
+
+Seandainya sebuah jarum jatuh dari langit, ia tidak akan jatuh kecuali menimpa mereka. Maka para ‘ifrit di antara mereka bertempat tinggal di mata air dan gua-gua; setan-setan bertempat tinggal di rumah-rumah dan memakmurkan kuburan (yakni turun di sisi kuburan manusia); adapun thaghut bertempat tinggal dekat darah — ketika ada darah disembelih, mereka hadir di sisinya; dan jika setitik darah terpisah, mereka datang kepadanya lebih cepat dari kilat yang menyambar dan angin yang bertiup kencang. Sebagian pembesar setan (zawabi‘ah) menunggang angin, dan sebagian dari pembesar setan bertempat tinggal dekat api, karena asal pertama (mereka) darinya.
+
+### 4. Syarah
+
+«أَنَّ أَرَدْتَ» susunan tidak baku (lazimnya «إن أراد»); dipertahankan. Angka tujuh puluh ribu dan tujuh puluh ribu tidak diverifikasi dan hanya dicatat sebagai klaim penulis.
+
+«فَرِيقَتْ» tidak baku (mungkin «فَرَّقَتْ» atau «فَارَقَتْ»); dipertahankan dan dicatat. «بِقُرْ» kemungkinan «بِقُرْب» yang terpotong; dipertahankan bentuk cetak dan tidak ditambah huruf.
+
+## M49 — Halaman 49, ‘ifrit dan awal pengobatan (ada rajah)
+
+### 1. Arab
+
+وَبَعْضُ التَّوَاقِيفِ الْعَفَارِيتُ يَعْنِي الْمُتَشَكِّلِينَ عَلَى صُورَةِ الْإِنْسِ سَكَنُوا بِقُرْبِ الْأَشْجَارِ الْعَالِيَةِ وَالشُّمُوخِ الْعَلِيقِ وَدَخَلُوا فِي الْبَسَاتِينِ. وَبَعْضُ السَّبَاسِبِ سَكَنُوا الْجِبَالَ وَالْخَرَائِبَ الْخَالِيَةَ، وَكَثْرَةُ هَؤُلَاءِ مُضِرَّةٌ بِالرِّجَالِ وَالنِّسَاءِ مِنْ بَنِي آدَمَ
+
+وَلَكِنْ هُنَاكَ سَبْعُونَ وَصْفًا وَمَا يَحْتَاجُ إِلَيْهِمْ مَهْمَا ظَهَرَ مِنَ الْعِلَاجِ، وَأَمَّا أَصْحَابُ الصَّرْعِ فَهُمْ ثَلَاثَةٌ وَأَرْبَعُونَ نَوْعًا كُلُّ نَوْعٍ لَابُدَّ مِنْ عِلَاجِهِ. (الْأَوَّلُ) فَمَهْمَا انْصَرَعَ أَوِ امْرَأَةٌ أَوْ صَبِيٌّ أَوْ صَبِيَّةٌ فَاكْتُبْ لَهُ بَيْنَ عَيْنَيْهِ: (أَمَّنْ كَانَ مُؤْمِنًا كَمَنْ كَانَ فَاسِقًا إِلَى قَوْلِهِ تَزَلْزَلَ نُزُلًا) وَفِي يَدِهِ الْيُمْنَى خَاتَمُ سُلَيْمَانَ وَلَهُ سَبْعَةُ قُرُونٍ فِي بَاطِنِ كُلِّ قَرْنٍ مِنْهَا حَرْفٌ مِنْ حُرُوفِ: ف ج ش ث خ ذ ص ض، هَذِهِ الْخَوَاتِمُ خَاتَمُ سُلَيْمَانَ
+
+### 2. Latin
+
+Wa ba'dhut tawaaqiifil 'afaariitu ya'nii mutasyakkiliina 'alaa shuuratil insi sakanuu biqurbil asyjaaril 'aaliyati wasy syumuukhil 'aliiqi wa dakhalun fil basaatiini. Wa ba'dhul sabaasibi sakanul jibaala wal kharaa-iba al-khaaliyata, wa katsratu haa-ulaa-i mudhirratun bir rijaali wan nisaa-i min banii Aadama.
+
+Wa laakin hunaaka sab'uuna washfan wa maa yahtaaju ilaihim mahmaa zhahara minal 'ilaaji, wa ammaa ash-haabush shar'i fahum tsalaatsatun wa arba'uuna nau'an kullu nau'in laabudda min 'ilaajihi. (Al-awwalu) famahmaa inshara'a aw imra-atun aw shabiyyun aw shabiyyatun faktub lahu baina 'ainaihi: (amman kaana mu'minan kaman kaana faasiqan ilaa qawlihi tazalzala nuzulan) wa fii yadihil yumnaa khaatamu sulaimaana wa lahu sab'atu quruunin fii baathini kulli qarnin minhaa harfun min huruufi: f j sy ts kh dz sh dh, haadzihil khawaatimu khaatamu sulaimaan.
+
+### 3. Terjemahan
+
+Sebagian ‘ifrit yang menyerupai bentuk manusia bertempat tinggal dekat pohon-pohon tinggi dan puncak-puncak yang menjulang, dan masuk ke kebun-kebun. Sebagian (golongan) sabaseb bertempat tinggal di gunung-gunung dan reruntuhan yang sepi; banyaknya mereka membahayakan lelaki dan perempuan dari anak Adam.
+
+Tetapi di sana ada tujuh puluh sifat, dan (penjelasan) apa yang dibutuhkan tentang mereka, kapan pun muncul, termasuk pengobatan. Adapun orang-orang yang terkena kerasukan, mereka (terbagi) empat puluh tiga jenis; setiap jenis mesti ada pengobatannya. (Pertama) kapan pun ada yang kerasukan — perempuan, anak lelaki, atau anak perempuan — tulislah di antara kedua matanya: (Apakah orang yang beriman sama dengan orang yang fasik «…» sampai firman-Nya «maka mereka dibinasakan») dan di tangan kanannya «cincin Sulaiman», yang memiliki tujuh tanduk; pada batin setiap tanduk ada satu huruf dari huruf-huruf: ف ج ش ث خ ذ ص ض. Inilah cincin-cincin (yang disebut) cincin Sulaiman.
+
+### 4. Syarah
+
+«التَّوَاقِيفِ» dan «السَّبَاسِبِ» tidak dapat dipastikan; keduanya dipertahankan tanpa diganti dan ditandai sebagai bacaan terbuka. «وَالشُّمُوخِ الْعَلِيقِ» susunan tidak jelas; dibiarkan.
+
+![Wafaq halaman 49](wafaq_qorin/49.jpg)
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Ditulis ayat di antara kedua mata dan di tangan kanan, serta menyebut «خاتم سليمان» dengan tujuh huruf.
+
+**Media:** Ayat ditulis di antara kedua mata; Khatam Sulaiman bertanduk tujuh dengan huruf pada tiap tanduk ditulis pada tangan kanan; lambang/rajah akhir halaman
+
+## M50 — Halaman 50, lanjutan pengobatan: tulisan, bakaran, dan tujuh بروات
+
+### 1. Arab
+
+وَفِي أَخَلِّ الْخَاتَمِ أَوْ مَنْ كَانَ مَيِّتًا إِلَى النَّاسِ وَهَذَا الْخَاتَمُ لَهُ شَأْنٌ كَبِيرٌ عِنْدَ الْجِنِّ وَهُوَ هَذَا فَأَفْهَمْ تَرْشُدْ. ثُمَّ تَكْتُبُ فِي فَتِيلَةٍ زَرْقَاءَ (إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا) إِلَى (يَشْوِي الْوُجُوهَ) ثَلَاثَ مَرَّاتٍ ثُمَّ اغْمِسْهَا فِي قِطْرَانٍ وَقَرِّبْهَا مِنْ أَنْفِ الْمُصَابِ فَإِنَّهُ يَنْصَرِعُ وَأَنْتَ تَقْرَأُ عَلَيْهِ سُورَةَ الْجِنِّ وَالْبُخُورَ كَثِيرَةً
+
+فَإِنْ رَأَيْتَهُ يَنْصَرِعُ فَاسْأَلْهُ عَنْ قَضِيَّةٍ فَإِنْ كَانَ مِنَ الْجِنِّ الْمُؤْمِنِينَ وَصِفَةُ الْجِنِّ مِنَ الْمُؤْمِنِينَ إِذَا لَطَمَ الْإِنْسَانَ فَإِذَا صُرِعَ يُصَلِّي عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَتَعَاقَدَ مَعَهُ عَلَى شَرْطَةٍ وَلَا تَتْبَعْهُ فِي كُلِّ مَا ذَكَرَ وَتَزَاحَمَهُ فَإِنَّهُ يَخْرُجُ، فَإِنْ عَادَ عَلَيْهِ عَادَ بِهِ هَذِهِ الْكِتَابَةِ وَهِيَ تُكْتَبُ لَهُ سَبْعَ بَرَوَاتٍ، وَالَّذِي تُكْتَبُ فِي كُلِّ بَرْوَةٍ أَسْمَاءُ الْمُلُوكِ السَّبْعَةِ وَتُبَخِّرُ بِهَا عِنْدَ النَّوْمِ فَإِنَّهُ لَا يَرْجِعُ إِلَيْهِ. وَتُكْتَبُ لَهُ خَاتَمُ سُلَيْمَانَ مَعَ آيَةِ الْكُرْسِيِّ وَالْفَلَقِ وَالْمَعُوذَتَيْنِ وَالْإِخْلَاصِ وَسُورَةِ قُرَيْشٍ وَتُعَلِّقُهُمْ عَلَيْهِ فَإِنَّهُ نَافِعٌ، وَالَّذِي تُكْتَبُ فِي الْبَرَوَاتِ أَسْمَاءُ الْمُلُوكِ السَّبْعَةِ مَعَ مُلُوكِهِمْ، فَخُذْ هَذِهِ الْجَوَاهِرَ الثَّمِينَةَ وَاعْتَمِدْ عَلَيْهَا
+
+### 2. Latin
+
+Wa fii akhallil khaatami aw man kaana mayyitan ilan naasi wa haadzal khaatamu lahu sya'-nun kabiirun 'indal jinni wa huwa haadzaa fa-afham tarsyud. Tsumma taktubu fii fatiilatin zarqaa-a (innaa a'tadnaa lizh zhaalimiina naaran ahaatha bihim suraadiquhaa) ilaa (yasywil wujuuh) tsalaatsa marraatin tsummaghmishaa fii qithraanin wa qarribhaa min anfil mushaabi fa-innahu yanshari'u wa anta taqra-u 'alaihi suuratal jinni wal bukhuura katsiiratan.
+
+Fa-in ra-aitahu yanshari'u fas-alhu 'an qadhiyyatin fa-in kaana minal jinnil mu'miniina wa shifatul jinni minal mu'miniina idzaa lathama al-insaana fa-idzaa shuri'a yushallii 'alan nabiyyi shallallaahu 'alaihi wa sallama fata'aqada ma'ahu 'alaa syarthatin wa laa tatba'hu fii kulli maa dzakara wa tazaahamahu fa-innahu yakhruju, fa-in 'aada 'alaihi 'aada bihi haadzihil kitaabati wa hiya tuktabu lahu sab'a barawaatin, wal ladzii tuktabu fii kulli barwatin asmaa-ul muluukis sab'ati wa tubakhkhiru bihaa 'indan naumi fa-innahu laa yarji'u ilaihi. Wa tuktabu lahu khaatamu sulaimaana ma'a aayatil kursiyyi wal falaqi wal mu'awwidzataini wal ikhlaashi wa suurati quraisyin wa tu'alliqhum 'alaihi fa-innahu naafi'un, wal ladzii tuktabu fil barawaati asmaa-ul muluukis sab'ati ma'a muluukihim, fakhudz haadzihil jawaahiral tsamiinata wa'tamid 'alaihaa.
+
+### 3. Terjemahan
+
+Dan pada (bagian) dalam cincin, atau siapa yang mati kepada manusia; cincin ini memiliki urusan besar di sisi jin, dan inilah dia, maka pahamilah niscaya engkau mendapat petunjuk. Kemudian engkau menulis pada sumbu (kain) biru: «Sesungguhnya Kami menyediakan neraka bagi orang-orang zalim, yang gejolaknya mengepung mereka» sampai «(neraka itu) menghanguskan wajah» — tiga kali; lalu celupkan dalam ter (قطران) dan dekatkan pada hidung orang yang terkena, maka ia akan jatuh tersungkur, sementara engkau membacakan surah al-Jinn kepadanya serta banyak bakaran wangi (bakhur).
+
+Jika engkau melihatnya jatuh tersungkur, tanyailah ia tentang suatu perkara. Jika ia termasuk jin mukmin — dan ciri jin mukmin: apabila ia memukul manusia lalu orang itu kerasukan, ia berselawat kepada Nabi ﷺ — maka buatlah perjanjian syarat dengannya; jangan mengikutinya dalam semua yang ia sebut dan jangan berdesakan dengannya, karena ia akan keluar. Jika ia kembali lagi, ulangi dengan tulisan ini; dituliskan untuknya tujuh «بروات», dan yang ditulis pada setiap بروة ialah nama tujuh raja, lalu engkau bakhurkan dengannya saat tidur, maka ia tidak kembali kepadanya. Dituliskan pula untuknya خاتم سليمان bersama آية الكرسي, الفلق, المعوذتين, الإخلاص, dan surah Quraisy, lalu digantungkan padanya, karena itu bermanfaat. Yang ditulis pada البروات ialah nama tujuh raja beserta raja-raja mereka. Ambillah permata-permata berharga ini dan peganglah.
+
+### 4. Syarah
+
+«أَخَلِّ» tidak jelas; mungkin «أَصْل» atau «أَهِلّ». «فَتِيلَةٍ زَرْقَاءَ» dibaca «sumbu biru»; bisa juga «زَيْتُونِيَّة» — dipertahankan.
+
+«بَرَوَات» (jamak) dipertahankan; kemungkinan «بُرْهَات/بَرْهَت». «وَتَزَاحَمَهُ» janggal; dibiarkan. «سُورَةِ قُرَيْشٍ» disebut, bukan «قريش» sebagai nama lain.
+
+Penutup rangkaian pengobatan hal.49–50; semua praktik dinisbatkan pada penulis dan tidak menjamin kesembuhan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Ditulis «خاتم» pada kertas, menuliskan ayat «إنا أعتدنا للظالمين نارًا أحاط بهم سرادقها» pada sumbu/fatilah, dibakar dengan قطران lalu didekatkan ke hidung orang yang kerasukan sambil membaca surah al-Jinn dan banyak بخور; lalu berdialog dengan jin yang berbicara, dan ditulis tujuh «بروات» berisi nama tujuh raja, digantungkan bersama خاتم سليمان, آية الكرسي, الفلق, المعوذتين, الإخلاص dan surah Quraisy. Semua ini dinisbatkan kepada penulis kitab; bukan anjuran medis dan tidak ada jaminan khasiat.
+
+**Waktu:** Saat tidur untuk membakhurkan tujuh barawāt
+
+**Media:** Sumbu (kain) biru bertuliskan ayat «إنا أعتدنا للظالمين نارًا…» tiga kali, dicelup ter (qaṭrān) dan didekatkan ke hidung orang yang terkena; bacaan surah al-Jinn; tujuh barawāt bertuliskan nama tujuh raja; Khatam Sulaiman bersama Ayat Kursi, al-Falaq, al-Mu‘awwidzatain, al-Ikhlāṣ, dan Quraisy ditulis lalu digantungkan
+
+**Bukhur:** Banyak bakaran wangi (bakhur) menyertai bacaan, dan tujuh barawāt dibakhurkan saat tidur; jenisnya tidak dirinci
+
+## M51 — Halaman 51, aturan siang–malam dan bahan bakaran
+
+### 1. Arab
+
+وَسِرْ عَلَى هَذِهِ الْقَاعِدَةِ عَلَى كُلِّ الْجِنِّ بِمَا فِيهِمُ الْقَرِينُ، فَدَائِمًا حَضَرَ الْمَرِيضُ أَمَامَكَ ثُمَّ أَبْتَدِئُ الْقِرَاءَةَ عَلَيْهِ بِالْعَزِيمَةِ الدَّهْرَ وَشَيْئِهِ حَتَّى يَنْطِقَ وَيَتَكَلَّمَ التَّعَارُضُ مِنَ الْجِنِّ، فَإِذَا تَكَلَّمَ فَاسْأَلْهُ مِنْ أَيِّ الْعَوَارِضِ هُوَ: هَلْ مِنْ عَوَارِضِ النَّهَارِ فَإِنْ كَانَ مِنْ أَصْحَابِ اللَّيْلِ فَاتْرُكْهُ إِلَى اللَّيْلِ، وَإِنْ كَانَ مِنْ أَصْحَابِ النَّهَارِ فَعَالِجَةً نَهَارًا، فَأَصْحَابُ النَّهَارِ لَا يَحْكُمُ فِيهِمْ أَحَدٌ إِلَّا نَهَارًا وَأَصْحَابُ اللَّيْلِ لَا يَحْكُمُ فِيهِمْ إِلَّا لَيْلًا
+
+وَالْبَخُورُ لَا يَخْفَى عَلَيْكَ أَنْ نَطَقَ بِأَنَّهُ مَيْمُونٌ الْأَسْوَدُ أَوْ مَا ذُكِرَ، فَبَخُورُ مَيْمُونٍ الْمُبْيَضَّةُ السَّائِلَةُ أَوْ بَخُورُ السَّوْدَانِ، وَبَخُورُ الْأَحْمَرِ عِلْكُ الرُّومِ وَهُوَ الْمُقْلُ الْأَحْمَرُ وَالْجَاوَى وَبَخُورُ الْأَرْضِ الْمُصْطَكَى أَوْ مِثْلُهَا أَوِ الْفُلْفُلُ أَوْ كَبَابَةٌ وَالْخَاتَمُ مِنْ تَشْكِيلِهَا فِي حِرْزٍ وَيُعَلَّقُ فِي ذَلِكَ الْمَكَانِ وَلَا يَكُونُ هُنَاكَ صَبِيٌّ وَلَا مَنْ يُكْثِرُ الْكَلَامَ
+
+### 2. Latin
+
+Wa sir 'alaa haadzihil qaa'idati 'alaa kullil jinni bimaa fiihimul qariinu, fadaa-iman hadharal mariidhu amaamaka tsumma abtadi-ul qiraa-ata 'alaihi bil 'aziimatid dahra wa syai-ihi hattaa yanthiqa wa yatakallama at ta'aarudhu minal jinni, fa-idzaa takallama fas-alhu min ayyil 'awaaridhi huwa: hal min 'awaaridhin nahaari fa-in kaana min ash-haabil laili fatrukhu ilal laili, wa in kaana min ash-haabin nahaari fa'aalijahu nahaaran, fa-ash-haabun nahaari laa yahkumu fiihim ahadun illaa nahaaran wa ash-haabul laili laa yahkumu fiihim illaa lailan.
+
+Wal bukhuuru laa yakhfaa 'alaika an nathaqa bi-annahu maimunun al-aswadu aw maa dzukira, fabakhuuru maimunin al-mubyadhdhatus saa-ilatu aw bakhuurus sawdaani, wa bakhuurul ahmari 'ilkur ruumi wa huwal muqlul ahmaru wal jaawaa wa bakhuurul ardhi al-musthakaa aw mitsluhaa awil fulfulu aw kabaabatun wal khaatamu min tasykilihaa fii hirzin wa yu'allaqu fii dzaalikal makaaani wa laa yakuunu hunaaka shabiyyun wa laa man yuktsirul kalaama.
+
+### 3. Terjemahan
+
+Berjalanlah di atas kaidah ini terhadap semua jin, termasuk qarin. Maka senantiasa (bila) orang sakit hadir di hadapanmu, mulailah membacakan «عزيمة» terus-menerus sampai ia berbicara dan (menampakkan) pertentangan dari jin. Apabila ia sudah berbicara, tanyailah: dari golongan ‘aridh yang mana ia? Apakah termasuk ‘aridh siang? Jika ia termasuk penghuni malam, tinggalkanlah sampai malam; jika termasuk penghuni siang, obati pada siang hari. Penghuni siang tidak dapat dihakimi (diobati) kecuali pada siang, dan penghuni malam tidak kecuali pada malam.
+
+Adapun bakaran wangi, tidak tersembunyi bagimu bahwa ia (jin) menyebut bahwa dirinya Maimun yang hitam atau apa yang telah disebut. Maka bakhur Maimun ialah «المبيضة السائلة» atau «السودان»; bakhur (jin) merah ialah ‘ilk Romawi yaitu muql merah dan jawa; bakhur bumi ialah mustaka atau sejenisnya, atau fulful, atau kababah. Adapun cincin, (dibuat) dari pembentukan (bahan) itu dalam sebuah jimat (hirz) dan digantungkan di tempat itu; jangan ada anak kecil di sana dan jangan ada orang yang banyak bicara.
+
+### 4. Syarah
+
+«فَدَائِمًا» mungkin «فَإِذَا»; «فَعَالِجَةً» mungkin «فَعَالِجْهُ»; keduanya dibiarkan dan dicatat.
+
+Nama-nama bahan tidak semuanya pasti: «الْمُبْيَضَّةُ السَّائِلَة» dan «السَّوْدَان» dibiarkan sebagai istilah cetak; «الْجَاوَى» bisa «الجاوي». «الْمُصْطَكَى» = mastika.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Memulai dengan bacaan dan «عزيمة», lalu bertanya kepada jin yang berbicara: apakah ia dari golongan siang atau malam; siang diobati siang dan malam diobati malam; menyediakan بخور (mimun, الأحمر/العنبر, الجاوى, المصطكى, الفلفل, كبابة, dan semacamnya) serta menuliskan hijab yang digantungkan. Dinisbatkan pada penulis, tanpa jaminan.
+
+**Waktu:** Penghuni siang diobati pada siang dan penghuni malam pada malam (yang malam ditinggalkan sampai malam)
+
+**Media:** Bacaan dan ‘azīmah; khatam dibentuk dalam ḥirz dan digantungkan di tempat itu
+
+**Bukhur:** Menurut golongan: untuk Maimūn «al-mubyaḍḍah as-sā’ilah» atau «bakhūr as-sūdān»; untuk al-Aḥmar ‘ilk Rūmī/muql merah dan jāwī; untuk (jin) bumi muṣṭakā atau semacamnya, fulful, atau kabābah (sebagian istilah tidak pasti)
+
+## M52 — Halaman 52, Fasal Kedua Belas: syarat kerja satu sampai sembilan
+
+### 1. Arab
+
+الْفَصْلُ الثَّانِي عَشَرَ
+
+وَهَذِهِ الشُّرُوطُ الَّتِي عَلَيْهَا مَدَارُ الْعَمَلِ:
+
+- أَنْ يَكُونَ الْمَكَانُ نَظِيفًا، وَمِنْهَا أَنْ يَكُونَ فِي الْمَكَانِ حَائِضٌ وَلَوْ تِلْكَ الْآدَمِيَّةَ الَّتِي أَصَابَهَا الْعَارِضُ فَمَهْمَا عَالَجْتَهَا وَهِيَ حَائِضٌ لَا يَكْمُلُ عَمَلُكَ.
+
+- الثَّالِثُ: أَنْ تَكُونَ فِي السِّتْرِ.
+
+- الرَّابِعُ: أَنْ لَا يُكْثِرَ الْكَلَامَ هُنَاكَ.
+
+- الْخَامِسُ: أَنْ تُعَالِجَ أَهْلَ النَّهَارِ نَهَارًا وَأَهْلَ اللَّيْلِ لَيْلًا مِنَ الْجِنِّ.
+
+- السَّادِسُ: مَنْ حَضَرَ فِي الْمَكَانِ يَرْفَعُ صَوْتَهُ بِالصَّلَاةِ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِكَيْ يَنْجَحَ الْعَمَلُ وَيَدُومَ عَلَى ذَلِكَ.
+
+- السَّابِعُ: أَنْ يَحْضُرَ هُنَاكَ بَخُورٌ.
+
+- الثَّامِنُ: إِذَا كُنْتَ تَعْزِمُ وَشَرَعْتَ فِي الْعَمَلِ فَلَا تَبِقْ عَلَى الْمُصَابِ حِرْزًا.
+
+- التَّاسِعُ: أَنْ يَكُونَ الْعَمَلُ تَحْتَ السَّقْفِ أَوْ تَحْتَ حَائِلٍ بَيْنَكَ وَبَيْنَ السَّمَاءِ
+
+### 2. Latin
+
+Al-fashluts tsaaniya 'asyara. Wa haadzihisy syuruuthul latii 'alaihaa madaarul 'amali: an yakuunal makaanu nazhiifan, wa minhaa an yakuuna fil makaaani haa-idhun wa lau tilkal aadamiyyatil latii ashaabahal 'aaridhu famahmaa 'aalaijtahaa wa hiya haa-idhun laa yakmulu 'amaluka. Ats-tsaalitsu: an takuuna fis sitri. Ar-raabi'u: an laa yuktsiral kalaama hunaaka. Al-khaamisu: an tu'aalija ahlan nahaari nahaaran wa ahlal laili lailan minal jinni. As-saadisu: man hadhara fil makaaani yarfa'u shautahu bish shalaati 'alan nabiyyi shallallaahu 'alaihi wa sallama likai yanjahal 'amalu wa yaduuma 'alaa dzaalika. As-saabi'u: an yahdhura hunaaka bakhuurun. Ats-tsaaminu: idzaa kunta ta'zimu wa syara'ta fil 'amali falaa tabiq 'alal mushaabi hirzan. At-taasi'u: an yakuunal 'amalu tahtas saqfi aw tahta haa-ilin bainaka wa bainas samaa-i.
+
+### 3. Terjemahan
+
+Fasal kedua belas. Inilah syarat-syarat yang menjadi poros kerja: — tempat harus bersih; di antaranya: di tempat itu tidak ada perempuan haid — meskipun perempuan itu sendiri yang terkena ‘aridh; kapan pun engkau mengobatinya sedang ia haid, pekerjaanmu tidak sempurna. — Ketiga: engkau bekerja dalam keadaan tertutup. — Keempat: jangan banyak bicara di situ. — Kelima: engkau mengobati penghuni siang pada siang hari dan penghuni malam pada malam hari dari (golongan) jin. — Keenam: siapa yang hadir di tempat itu mengangkat suaranya dengan selawat kepada Nabi ﷺ agar pekerjaan berhasil dan berlangsung terus. — Ketujuh: di situ harus ada bakaran wangi. — Kedelapan: apabila engkau berniat dan mulai bekerja, jangan tinggalkan hirz pada orang yang terkena. — Kesembilan: pekerjaan harus di bawah atap atau di bawah penghalang antara engkau dan langit.
+
+### 4. Syarah
+
+Penomoran cetakan melompat — sesudah syarat pertama langsung «الثالث»; kemungkinan syarat kedua hilang dalam cetakan, dan hal itu dibiarkan. «لَا تَبِقْ» kemungkinan «لَا تُبْقِ». «حَائِلٍ» dibaca penghalang.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Syarat kerja — tempat bersih dan tidak ada perempuan haid, bekerja dalam keadaan tertutup (ستر), tidak banyak bicara, mengobati penghuni siang pada siang dan penghuni malam pada malam, mengangkat suara dengan selawat, menghadirkan bakhur, «عزم» dan «شرطة», tidak menggantung hirz, dan bekerja di bawah atap atau penghalang antara engkau dan langit. Dinisbatkan pada penulis.
+
+**Waktu:** Penghuni siang pada siang dan penghuni malam pada malam
+
+**Media:** Tempat bersih tanpa perempuan haid; keadaan tertutup (satr); selawat dengan suara diangkat; ‘azm dan syarṭah; tanpa menggantung ḥirz; bekerja di bawah atap atau penghalang dari langit
+
+**Bukhur:** Dihadirkan selama pekerjaan; jenisnya tidak dirinci pada unit ini
+
+## M53 — Halaman 53, syarat sepuluh sampai lima belas
+
+### 1. Arab
+
+الْعَاشِرُ: لَا يُعَالِجُ مُصَابًا عِنْدَ بَابِ بَيْتٍ أَوْ بَابِ دَارٍ.
+
+الْحَادِي عَشَرَ: أَنْ يَكُونَ الْمُصَابُ جَالِسًا رَاقِدًا فَإِنْ لَمْ يَقْدِرْ عَلَى الْجُلُوسِ بَانَ كَانَ الْعَارِضُ قَدْ أَصَابَ رِجْلَيْهِ فَيَقْبِضُهُ الرِّجَالُ وَيَجْلِسُونَهُ بَيْنَ يَدَيِ الْمُعَزِّمِ وَيُعَالِجُ. وَإِنْ كَانَتِ الْمَرْأَةُ الَّتِي أَصَابَهَا الْعَارِضُ فَلَا يَجْلِسُهَا إِلَّا النِّسَاءُ كُلُّ جِنْسٍ عِنْدَ الْعِلَاجِ إِلَّا مَنْ كَانَ مِنْ جِنْسِهِ، وَإِنْ كَانَ الْمُصَابُ رَجُلًا وَحَضَرَهُ أَكْثَرُ النِّسَاءِ يُبْطِلُ عَمَلَهُ وَلَا يَكْمُلُ، وَكَذَلِكَ الْمَرْأَةُ إِذَا كَثُرَ عِنْدَهَا الرِّجَالُ
+
+الثَّانِي عَشَرَ: عِلَاجُ الْجِنِّ فِي أَرْبَعَةِ عَزَائِمَ وَتَبَاخِيرٍ وَأَدْهَانٍ وَكِتَابَةِ حِجَابٍ الَّذِي يُعْزَمُ عَلَيْهَا لَابُدَّ مِنَ الْبُخُورِ وَالَّذِي يُدْهَنُ بِهِ لَابُدَّ مِنَ الْكِتَابَةِ، وَقِيلَ هُمْ أَرْبَعَةٌ يَحْتَاجُ إِلَيْهِمْ كُلُّ مُعَارِضٍ مِنَ الْجِنِّ.
+
+الثَّالِثَ عَشَرَ: أَنْ نُعَالِجَهَا صَبَاحًا وَبَعْدَ الْعَصْرِ وَبَعْدَ الْمَغْرِبِ وَعِنْدَ السَّحَرِ، وَفِي هَذِهِ الْأَوْقَاتِ يَحْكُمُ عَلَى الْجِنِّ الطَّيَّارَةِ.
+
+الرَّابِعَ عَشَرَ: إِذَا كَانَ الْعَارِضُ فِي الْمَرْأَةِ فَلَا يُجَامِعُهَا زَوْجُهَا فِي مُدَّةِ الْعِلَاجِ وَلَا يُضَاجِعُهَا أَوْ يَنَامُ بِجِوَارِهَا فِي الْفِرَاشِ.
+
+الْخَامِسَ عَشَرَ: لَا يَقْرَبُ سَاحَةَ مَنِ اعْتَرَضَ بِكْيَةِ نَارٍ
+
+### 2. Latin
+
+Al-'aasyiru: laa yu'aaliju mushaaban 'inda baabi baitin aw baabi daarin. Al-haadii 'asyara: an yakuunal mushaabu jaalisan raaqidan fa-in lam yaqdir 'alal juluusi baana kanal 'aaridhu qad ashaaba rijlahu fayaqbidhuhur rijaalu wa yujlisuunahu baina yadail mu'azzimi wa yu'aaliju. Wa in kaanatil mar-atul latii ashaabahal 'aaridhu falaa yujlisuhaa illan nisaa-u kullu jinsin 'indal 'ilaaji illaa man kaana min jinsihi, wa in kaanal mushaabu rajulan wa hadharahu aktsarun nisaa-i yubthilu 'amalahu wa laa yakmulu, wa kadzaalikal mar-atu idzaa katsura 'indahar rijaalu.
+
+Ats-tsaanii 'asyara: 'ilaajul jinni fii arba'ati 'azaa-ima wa tabaakhiirin wa adhaanin wa kitaabati hijaabinil ladzii yu'zamu 'alaihaa laabudda minal bukhuuri wal ladzii yudhanu bihi laabudda minal kitaabati, wa qiila hum arba'atun yahtaaju ilaihim kullu mu'aaridhin minal jinni. Ats-tsaalitsa 'asyara: an nu'aalijaha shabaahan wa ba'dal 'ashri wa ba'dal maghribi wa 'indas sahara, wa fii haadzihil awqaati yahkumu 'alal jinnith thayyaarati. Ar-raabi'a 'asyara: idzaa kaanal 'aaridhu fil mar-ati falaa yujaami'uhaa zaujuhaa fii muddatil 'ilaaji wa laa yudhaaji'uhaa aw yanaamu bijiwaarihaa fil firaasyi. Al-khaamisa 'asyara: laa yaqrabu saahata man i'taradha bik-yati naarin.
+
+### 3. Terjemahan
+
+Kesepuluh: ia tidak mengobati orang yang terkena di depan pintu rumah atau pintu pekarangan. Kesebelas: orang yang terkena harus dalam keadaan duduk (atau) berbaring; jika ia tidak mampu duduk, itu tanda ‘aridh telah mengenai kedua kakinya — maka para lelaki memegangnya dan mendudukkannya di hadapan ahli «عزيمة», lalu ia mengobati. Jika yang terkena adalah perempuan, janganlah mendudukkannya kecuali perempuan (yang mendampingi), setiap jenis (kelamin) saat pengobatan, kecuali orang yang sejenis dengannya. Jika yang terkena lelaki dan hadir banyak perempuan, itu membatalkan pekerjaannya dan tidak sempurna; demikian pula perempuan apabila di sisinya banyak lelaki.
+
+Kedua belas: pengobatan jin itu pada empat «عزائم» dan pengasapan, minyak-minyakan, dan tulisan hijab; yang dibacakan azimat harus dengan bakhur, dan yang diolesi minyak harus dengan tulisan. Dikatakan bahwa mereka empat yang dibutuhkan setiap penentang dari jin. Ketiga belas: kami mengobatinya pada pagi, setelah Asar, setelah Magrib, dan pada waktu sahur; pada waktu-waktu ini dihakimi jin yang terbang. Keempat belas: apabila ‘aridh ada pada perempuan, janganlah suaminya menggaulinya selama masa pengobatan, dan jangan bersebelahan atau tidur di sisinya dalam satu tempat tidur. Kelima belas: ia tidak mendekati halaman orang yang menghadang dengan besi panas (kay).
+
+### 4. Syarah
+
+«بَانَ كَانَ» janggal; mungkin «بَيَانُ كَانَ» atau «فَإِنَّ». «الْمُعَزِّمِ» dibaca mu‘azzim (ahli azimat) — dibedakan dari «عَزَائِم».
+
+«بِكْيَةِ نَارٍ» dibiarkan; kemungkinan «بِكَيَّةِ نَار» (besi panas) — maknanya ditandai terbuka. «الطَّيَّارَةِ» jamak/jenis jin terbang.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Tidak mengobati di depan pintu rumah, mengatur posisi duduk/berbaring orang yang terkena, tidak mendudukkan perempuan yang terkena di samping perempuan lain kecuali sesama jenis, empat «عزائم» dengan pembakaran dan minyak serta tulisan hijab, waktu pengobatan pagi–setelah Asar–setelah Magrib, dan larangan menggauli istri selama masa pengobatan. Dinisbatkan pada penulis.
+
+**Waktu:** Pagi, sesudah Asar, sesudah Magrib, dan waktu sahur; selama pengobatan suami tidak menggauli istri yang terkena
+
+**Media:** Empat ‘azā’im dengan pengasapan; minyak-minyakan yang disertai tulisan; tulisan hijab; pengaturan duduk/berbaring dan pendamping sesama jenis; tidak di depan pintu rumah
+
+**Bukhur:** Wajib menyertai yang dibacakan azimat; jenisnya tidak dirinci
+
+## M54 — Halaman 54, syarat enam belas sampai delapan belas dan ringkasan
+
+### 1. Arab
+
+السَّادِسَ عَشَرَ: لَا يَغْتَسِلُ الْمُصَابُ مِنْ غَيْرِ سِتْرٍ.
+
+السَّابِعَ عَشَرَ: فِي إِتْمَامِ عِلَاجِ الْمُصَابِ سَوَاءٌ كَانَ رَجُلًا أَوِ امْرَأَةً يَغْسِلُ الْمُصَابَ سَوَاءٌ كَانَ رَجُلًا أَوِ امْرَأَةً يَغْسِلُ جَسَدَهُ، وَإِنْ قَدَرُوا إِنْ قَدَرُوا فَلْيُغَسِّلْهُ غَيْرُهُ.
+
+الثَّامِنَ عَشَرَ: أَنْ يَلْبَسَ ثِيَابَ الْخَشِنِ، وَأَعْلَمُ أَنِّي قَدْ جَمَعْتُ لَكَ مِنَ الشُّرُوطِ الْمُتَنَاسِقَةِ مَا لَا بُدَّ مِنْهُ وَهِيَ الْبُقْعَةُ النَّظِيفَةُ وَعَدَمُ الْحَيْضِ وَالسِّتْرُ وَلَا يُكْثِرُ الْكَلَامَ وَعِلَاجُ أَهْلِ اللَّيْلِ لَيْلًا وَأَهْلِ النَّهَارِ نَهَارًا وَالصَّلَاةُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِمَنْ حَضَرَ وَالْبُخُورُ حَاضِرٌ صَاعِدٌ وَلَا يُعَلِّقُ حِرْزًا وَلَا يُعَالِجُ إِلَّا تَحْتَ سَقْفٍ أَوْ سِتْرٍ بَيْنَهُ وَبَيْنَ السَّمَاءِ وَلَا يَكُونُ الْعَمَلُ أَمَامَ بَابٍ أَوْ هُوَ جَالِسٌ وَالْعَزِيمَةُ الْقَوِيَّةُ وَالطَّيَّارَةُ فِي الْعُنْدُ وَالْأَصَالِ وَلَا يُجَامِعُ الْمُعَارِضَةَ وَلَا يَنَامُ مَعَهَا زَوْجُهَا فِي فِرَاشٍ وَالْغَسْلُ لِلْجَسَدِ قَبْلَ الْعَمَلِ
+
+### 2. Latin
+
+As-saadisa 'asyara: laa yaghtasilul mushaabu min ghairi sitrin. As-saabi'a 'asyara: fii itmaami 'ilaajil mushaabi sawaa-un kaana rajulan aw imra-atan yaghsilul mushaaba sawaa-un kaana rajulan aw imra-atan yaghsilu jasadahu, wa in qadaruu in qadaruu falyughassilhu ghairuhu. Ats-tsaamina 'asyara: an yalbasu tsiyaabal khasyini, wa a'lamu annii qad jama'tu laka minasy syuruuthil mutanaasiqati maa laa budda minhu wa hiya al-buq'atun nazhiifatu wa 'adamul haidhi was sitru wa laa yuktsirul kalaama wa 'ilaaju ahlil laili lailan wa ahlan nahaari nahaaran wash shalaatu 'alan nabiyyi shallallaahu 'alaihi wa sallama liman hadhara wal bukhuuru haadhirun shaa'idun wa laa yu'alliq hirzan wa laa yu'aaliju illaa tahta saqfin aw sitrin bainahu wa bainas samaa-i wa laa yakuunul 'amalu amaama baabin aw huwa jaalisun wal 'aziimatul qawiyyatu wath thayyaaratu fil 'undi wal ashaali wa laa yujaami'ul mu'aaridhata wa laa yanaamu ma'ahaa zaujuhaa fii firaasyin wal ghuslu lil jasadi qablal 'amali.
+
+### 3. Terjemahan
+
+Keenam belas: orang yang terkena tidak mandi tanpa penutup. Ketujuh belas: dalam menyempurnakan pengobatan orang yang terkena — baik lelaki maupun perempuan — ia memandikan tubuh orang itu; dan jika mereka (yang hadir) mampu, hendaklah orang lain yang memandikannya. Kedelapan belas: hendaklah ia memakai pakaian kasar. Ketahuilah bahwa aku telah menghimpun untukmu syarat-syarat yang serasi yang tidak boleh ditinggalkan, yaitu: tempat bersih, tidak haid, tertutup, tidak banyak bicara, mengobati penghuni malam pada malam dan penghuni siang pada siang, selawat kepada Nabi ﷺ bagi yang hadir, bakhur hadir dan mengepul, tidak menggantung hirz, tidak mengobati kecuali di bawah atap atau penutup antara dia dan langit, pekerjaan tidak di depan pintu atau (orang itu) duduk, «عزيمة» yang kuat, (menangani) jin terbang pada waktu petang dan malam, tidak menggauli (istri) yang terkena, suaminya tidak tidur bersamanya dalam satu tempat tidur, dan memandikan tubuh sebelum bekerja.
+
+### 4. Syarah
+
+«إِنْ قَدَرُوا» terulang dua kali pada cetakan — dipertahankan; «فَلْيُغَسِّلْهُ غَيْرُهُ» bentuk tidak lazim. «الْعُنْدُ وَالْأَصَال» tidak jelas; kemungkinan waktu petang — ditandai terbuka.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Syarat 16–18 — tidak memandikan orang yang terkena tanpa penutup, baik lelaki memandikan lelaki maupun perempuan memandikan perempuan, dan mandi sebelum bekerja; ringkasan syarat (kebersihan, tidak haid, tertutup, tidak banyak bicara, mengobati siang/malam, selawat, bakhur, tidak menggantung hirz, di bawah atap, tidak di depan pintu, duduk, sesama jenis, empat عزائم, waktu-waktu tertentu, tidak berhubungan selama pengobatan, menjauhi kay). Dinisbatkan pada penulis.
+
+**Waktu:** Mandi sebelum bekerja; penghuni siang pada siang dan penghuni malam pada malam; jin terbang pada petang dan malam
+
+**Media:** Memandikan orang yang terkena dengan penutup dan oleh sesama jenis; pakaian kasar; ‘azīmah yang kuat; syarat kerja ringkasan (bersih, satr, selawat, tanpa ḥirz gantung, di bawah atap)
+
+**Bukhur:** Hadir dan mengepul; jenisnya tidak dirinci
+
+## M55 — Halaman 55, hijab البقرة–يس, qarin yang mencintai, dan susunan bacaan
+
+### 1. Arab
+
+نَفْسَهُ أَنَّ اللَّهَ تَعَالَى أَوْدَعَ سِرَّهُ فِي الْأَقْسَامِ وَالْكِتَابَةِ وَالْآيَاتِ الْبَيِّنَاتِ وَلَا يَعْصِي اللَّهَ بِفَرْجٍ وَلَا يَغْتَسِلُ تَحْتَ شَجَرَةٍ وَلَا يَخْرُجُ بِلَيْلٍ وَلَا يَقْرَبُ النِّسَاءَ فِي أَيَّامِ الْحَيْضِ وَلْيَتَعَوَّذْ بِاللَّهِ مِنْ شَرِّ الْجِنِّ وَالْإِنْسِ وَالشَّيَاطِينِ وَلْيَكُنْ مَعَهُ حِجَابٌ فِيهِ خَوَاتِمُ سُورَةِ الْبَقَرَةِ وَسُورَةِ يس يَحْجُبُونَهُ مِنَ الْعَفَارِيتِ
+
+أَعْلَمْ إِيهَا الْأَخُ الْمُؤْمِنُ أَنَّ الْقَرِينَ مِنَ الْجِنِّ إِذَا أَحَبَّ الْمَرْأَةَ خَضَعَهَا لَهُ وَأَبْعَدَ الرِّجَالَ عَنْهَا لِيُعَاشِرَهَا هُوَ وَيَمْنَعُ أَيَّ زَوَاجٍ، وَإِذَا كَانَتْ مُتَزَوِّجَةً جَعَلَ الْمُشَاكَلَ بَيْنَ الزَّوْجَيْنِ كَثِيرَةً حَتَّى يَخْرَبَ الْبَيْتُ بِالطَّلَاقِ وَيَنْفَرِدَ بِالْمَرْأَةِ وَحْدَهَا. وَكَذَلِكَ الْقَرِينُ مِنَ الْجِنِّ الْإِنْسِيّ إِذَا أَحَبَّ رَجُلًا مِنَ الْإِنْسِ فَعَلَتْ بِهِ كَذَلِكَ وَجَعَلَتِ الزَّوْجَةَ تَرَى أَشْيَاءَ مُرْعِبَةً وَرُبَّمَا تَرَى الْمَرْأَةُ رَجُلًا مِنَ الْجِنِّ يَجُوَارُ زَوْجَهَا أَوْ يَرَى الزَّوْجُ امْرَأَةً بِجِوَارِ زَوْجَتِهِ، وَهَذَا يَحْدُثُ كَثِيرًا وَرَأَيْتُهُ أَنَّ كَثِيرًا وَعَالَجْتُهُ كَثِيرًا وَإِذَا أَرَدْتَ نِهَايَةً لِلْقَرِينِ وَقَتَلَهُ فَاقْرَأْ: الْفَاتِحَةَ وَأَوَّلَ الْبَقَرَةِ وَخَوَاتِمَ الْبَقَرَةِ الْأَرْبَعَةَ الْأُولَى وَالْأَرْبَعَةَ الْأَخِيرَةَ وَآيَةَ الْكُرْسِيِّ فِي الْوَسَطِ بَيْنَهُمْ آخِرَ سُورَةِ الْحَشْرِ
+
+### 2. Latin
+
+Nafsahu annal laaha ta'aalaa awda'a sirrahu fil aqsaami wal kitaabati wal aayaatil bayyinaati wa laa ya'shill laaha bifarjin wa laa yaghtasilu tahta syajaratin wa laa yakhruju bilailin wa laa yaqrabun nisaa-a fii ayyaamil haidhi wal yata'awwadz billaahi min syarril jinni wal insi wasy syayaathiini wa liyakun ma'ahu hijaabun fiihi khawaatimu suuratil baqarati wa suurati yasiin yahjubuunahu minal 'afaariiti.
+
+A'lam iiha al-akhul mu'minu annal qariina minal jinni idzaa ahabbal mar-ata khadha'ahaa lahu wa ab'adar rijaala 'anhaa liyu'aasyirahaa huwa wa yamna'u ayya zawaajin, wa idzaa kaanat mutazawwijatan ja'alal musyaakala bainaz zaujaini katsiiratan hattaa yakhrabal baitu bith thalaaqi wa yanfarida bil mar-ati wahdahaa. Wa kadzaalikal qariinu minal jinnil insiyyi idzaa ahabba rajulan minal insi fa'alat bihi kadzaalika wa ja'alatiz zaujata taraa asyyaa-a mur'ibatan wa rubba-maa taraal mar-atu rajulan minal jinni yujaa-wiru zaujahaa aw yaraz zauju imra-atan bijiwaari zaujatihi, wa haadzaa yahdutsu katsiiran wa ra-aitul 'ahu annahu katsiirun wa 'aalaijtuhu katsiiran wa idzaa aradta nihaayatan lil qariini wa qatalta faqra': al-faatihatan wa awwalal baqarati wa khawaatimal baqaratil arba'atal uulaa wal arba'ata al-akhiirah wa aayatal kursiyyi fil wasathi bainahum aakhira suuratil hasyri.
+
+### 3. Terjemahan
+
+(Ia berkata tentang) dirinya bahwa Allah—Mahatinggi—menitipkan rahasia-Nya pada sumpah-sumpah, tulisan, dan ayat-ayat yang nyata; dan janganlah ia mendurhakai Allah dengan kemaluan, jangan mandi di bawah pohon, jangan keluar pada malam hari, jangan mendekati perempuan pada hari-hari haid. Hendaklah ia berlindung kepada Allah dari keburukan jin, manusia, dan setan-setan; dan hendaklah bersamanya hijab yang berisi خواتم surah al-Baqarah dan surah Yasin yang menghalanginya dari para ‘ifrit.
+
+Ketahuilah, wahai saudara yang mukmin, bahwa qarin dari (golongan) jin apabila mencintai seorang perempuan, ia menundukkannya kepadanya dan menjauhkan para lelaki darinya agar ia sendiri yang menggaulinya, dan ia menghalangi pernikahan apa pun. Jika perempuan itu sudah menikah, ia membuat perselisihan antara kedua suami-istri menjadi banyak, sehingga rumah hancur dengan perceraian dan ia menyendiri dengan perempuan itu. Demikian pula qarin dari jin perempuan: jika ia mencintai seorang lelaki dari manusia, ia melakukan hal yang sama dan membuat istrinya melihat hal-hal yang menakutkan; kadang perempuan melihat lelaki jin berada di samping suaminya, atau suami melihat perempuan (jin) di samping istrinya. Hal ini sering terjadi dan aku telah melihatnya banyak, serta mengobatinya banyak. Jika engkau menghendaki berakhirnya qarin dan terbunuhnya, bacalah: al-Fatihah, awal al-Baqarah, empat خواتم pertama al-Baqarah dan empat (خواتم) terakhir, dengan آية الكرسي di tengah di antara mereka, dan akhir surah al-Hasyr.
+
+### 4. Syarah
+
+«نَفْسَهُ» pada awal halaman menyambung kalimat halaman 54 yang terpotong; dipertahankan tanpa menambah kata. «خَوَاتِمُ سُورَةِ الْبَقَرَةِ» = potongan-potongan awal/akhir surah; bukan penggalan yang karang.
+
+«إِيهَا» kemungkinan «أَيُّهَا» (tanpa ya) — dibiarkan. «الْإِنْسِيّ» di sini berarti jin berjenis perempuan dari golongan manusia-jin; diterjemahkan «jin perempuan». «يَجُوَارُ» kemungkinan «يُجَاوِر»; «يَخْرَبَ» kemungkinan «يَخْرَبَ/يُخَرِّب». «وَقَتَلْتَ» bisa «لِقَتْلِهِ»; ditandai terbuka.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Hijab berisi خواتم سورة البقرة dan سورة يس untuk menghalangi ‘ifrit; penjelasan bahwa qarin jin yang mencintai seseorang menghalangi pernikahan dan membuat pasangan melihat hal menakutkan; susunan bacaan: الفاتحة, awal البقرة, empat خواتم pertama dan empat خواتم terakhir البقرة, آية الكرسي di tengah, dan akhir سورة الحشر. Dinisbatkan pada penulis.
+
+**Waktu:** Larangan pendamping pada unit ini: tidak keluar pada malam hari dan tidak mendekati perempuan pada hari-hari haid
+
+**Media:** Hijab berisi khawātim surah al-Baqarah dan surah Yāsīn; susunan bacaan al-Fātiḥah, awal al-Baqarah, empat khawātim pertama dan empat terakhir al-Baqarah dengan Ayat Kursi di tengah, dan akhir al-Ḥasyr
+
+## M56 — Halaman 56, penutup Fasal Kedua Belas
+
+### 1. Arab
+
+لَوْ أَنْزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا إِلَى آخِرِ الْإِخْلَاصِ وَالْمُعَوِّذَتَيْنِ ثَلَاثَ مَرَّاتٍ. وَهَكَذَا تَضَعُ نِهَايَةَ الْقَرِينِ وَيُقْتَلُ فِي الْحَالِ. وَاعْلَمْ أَخِي الْمُؤْمِنَ أَنَّ الْجِنَّ قَبَائِلُ صَعْبٌ مَعْرِفَةُ أَعْدَادِهَا، فَكُلُّ يَوْمٍ يَظْهَرُ مَرَدَةٌ وَجِنٌّ طَيَّارَةٌ وَعِفَارِيتٌ مِنْهُمْ وَشَيَاطِينُ يُؤْذُونَ عِبَادَ اللَّهِ دُونَ سَبَبٍ إِلَّا أَهْوَاءَهُمْ فَهُمْ لَهُمْ أَهْوَاءُ مِثْلَ الْإِنْسِ تَمَامًا
+
+وَاكْتَفَى بِهَذَا التَّصْرِيحِ وَسَاعْطِي لَكَ بَعْضَ الْفَوَائِدِ الَّتِي لَا غَنِيَ فِي هَذِهِ الْأَيَّامِ مِنَ الرُّوحَانِيَّةِ وَالْفَكِّ وَالرِّبَاطِ وَالشِّفَاءِ وَاللَّهُ الْمُوَفِّقُ
+
+### 2. Latin
+
+Lau anzalnaa haadzal qur-aana 'alaa jabalin lara-aitahu khaasyi'an mutashaddi'an ilaa aakhiril ikhlaashi wal mu'awwidzataini tsalaatsa marraatin. Wa haakadzaa tadha'u nihaayatal qariini wa yuqtalu fil haali. Wa'lam akhil mu'mina annal jinna qabaa-ilu sha'bun ma'rifatu a'daadihaa, fakullu yaumin yazhharu maradatun wa jinnun thayyaaratun wa 'afaariitun minhum wa syayaathiinu yu'dzuuna 'ibaadallahi duuna sababin illaa ahwaa-ahum fahum lahum ahwaa-un mitslal insi tamaaman.
+
+Waktafii bihaadzat tashriihi wa saa'tii laka ba'dhal fawaa-idil latii laa ghaniya fii haadzihil ayyaami minar ruuhaniyyati wal fakki war ribaathi wasy syifaa-i wallaahul muwaffiqu.
+
+### 3. Terjemahan
+
+«Seandainya Kami turunkan Al-Qur’an ini kepada sebuah gunung, niscaya engkau melihatnya tunduk dan terbelah» sampai akhir الإخلاص dan المعوذتين — tiga kali. Demikianlah engkau meletakkan (bacaan) «نهاية القرين» dan ia terbunuh saat itu. Ketahuilah, wahai saudaraku yang mukmin, bahwa jin itu kabilah-kabilah yang sulit diketahui jumlahnya; setiap hari muncul para pembangkang, jin-jin terbang, ‘ifrit, dan setan-setan dari mereka yang menyakiti hamba-hamba Allah tanpa sebab kecuali hawa nafsu mereka; mereka memiliki hawa nafsu seperti manusia sepenuhnya.
+
+Dan aku mencukupkan diri dengan keterangan ini, dan aku akan memberimu sebagian faedah yang tidak bisa ditinggalkan pada masa ini, yaitu (hal-hal) rohani, pelepasan (ikatan), «رباط», dan kesembuhan; dan Allah-lah Yang memberi taufik.
+
+### 4. Syarah
+
+Kutipan «لو أنزلنا هذا القرآن على جبل» mengacu QS al-Hasyr 59:21; di sini dipakai sebagai bacaan, bukan tafsir. «الْإِخْلَاصِ» dan «الْمُعَوِّذَتَيْن» disebut sebagai bagian rangkaian.
+
+Penutup fasal dan pengakuan keterbatasan pengetahuan; ini alasan tidak mengarang angka kabilah.
+
+«سَاعْطِي» kemungkinan «سَأُعْطِي»; dipertahankan bentuk cetak. «الرِّبَاط» di sini istilah teknis yang tidak dipastikan maknanya (ikatan/pertalian); ditandai terbuka.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Mengulang bacaan susunan itu tiga kali dan menempatkan «نهاية القرين» pada tempat yang halal; penulis menyatakan sulitnya mengetahui jumlah kabilah jin dan bahwa ia mencukupkan diri pada keterangan ini serta berjanji memberi sebagian faedah. Din Isbatkan pada penulis; tidak ada jaminan.
+
+**Media:** Rangkaian bacaan dari «لو أنزلنا هذا القرآن على جبل…» sampai akhir al-Ikhlāṣ dan al-Mu‘awwidzatain diulang tiga kali sebagai penutup susunan unit sebelumnya
+
+## M57 — Halaman 57, Fasal Ketiga Belas: doa untuk segala penyakit
+
+### 1. Arab
+
+الْفَصْلُ الثَّالِثَ عَشَرَ
+
+فَائِدَةٌ لِلتَّدَاوِي مِنْ جَمِيعِ الْأَمْرَاضِ
+
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ. لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ إِلَى آخِرِ السُّورَةِ وَالْإِخْلَاصِ – وَالْمُعَوِّذَتَيْنِ – وَالْفَاتِحَةِ – وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ – لَوْ أَنْزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا إِلَى آخِرِ سُورَةِ الْحَشْرِ – اللَّهُمَّ أَنْتَ الشَّافِي وَأَنْتَ الْمُنْتَقِمُ – وَأَنْتَ الْمُعَافِي وَأَنْتَ الْمُبْلِي – وَأَنْتَ الْوَاقِي وَأَنْتَ الْمُؤَلِّمُ – وَأَنْتَ الرَّاقِي
+
+خَلَقْتَنَا مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ – وَجَعَلْتَنَا فِي قَرَارٍ مَكِينٍ – إِلَى قَدْرٍ مَعْلُومٍ – فَأَسْأَلُكَ بِأَسْمَائِكَ الْحُسْنَى وَذِكْرِكَ الْأَسْنَى وَصِفَاتِكَ الْعُلْيَا يَا مَنْ بِيَدِهِ الِابْتِلَاءُ وَالرُّقْيَا وَالْمَمَاتُ وَالْحَيَا وَالْعَافِيَةُ وَالشِّفَاءُ وَالْوَفَاءُ وَمَالِكُ جَمِيعِ الْأَشْيَاءِ وَخَالِقُهَا وَبَارِئُ جَمِيعِ الْأَحْيَاءِ وَرَازِقُهَا أَسْأَلُكَ بِحَقِّ حَبِيبِكَ الْأَعْظَمِ سَيِّدِنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَمُعْجِزَاتِهِ وَبِحَقِّ خَلِيلِكَ إِبْرَاهِيمَ وَدَعْوَتِهِ وَبِحَقِّ رُوحِكَ عِيسَى وَرَفْعَتِهِ
+
+### 2. Latin
+
+Al-fashluts tsaalitsa 'asyara. Faa-idatun lit tadaawii min jamii'il amraadhi. Bismillaahir rahmaanir rahiim wa shallal laahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi wa sallama. Laqad jaa-akum rasuulun min anfusikum 'aziizun 'alaihi maa 'anittum ilaa aakhirisy suurati wal ikhlaashi - wal mu'awwidzataini - wal faatihaati - wa nunazzilu minal qur-aani maa huwa syifaa-un wa rahmatun lil mu'miniina - lau anzalnaa haadzal qur-aana 'alaa jabalin lara-aitahu khaasyi'an mutashaddi'an ilaa aakhirisy suuratil hasyri - Allaahumma antasy syaafii wa antal muntaqimu - wa antal mu'aafii wa antal mublii - wa antal waaqii wa antal mu-allimu - wa antar raaqii
+
+Khalaqtanaa min sulaalatin min maa-in mahiin - wa ja'altaanaa fii qaraarin makiin - ilaa qadarin ma'luum - fa-as-aluka bi-asmaa-ikal husnaa wa dzikrikal asnaa wa shifaatikal 'ulyaa yaa man biyadihil ibtilaa-u war ruqyaa wal mamaatu wal hayaa wal 'aafiyatu wasy syifaa-u wal wafaa-u wa maaliku jamii'il asyyaa-i wa khaaliquhaa wa baari-u jamii'il ahyaa-i wa raaziquhaa as-aluka bihaqqi habiibikal a'zhzhami sayyidinaa muhammadin shallallaahu 'alaihi wa sallama wa mu'jizaatihi wa bihaqqi khaliilika ibraahiima wa da'watihi wa bihaqqi ruuhika 'iisaa wa raf'atihi.
+
+### 3. Terjemahan
+
+Fasal ketiga belas. Faedah untuk berobat dari segala penyakit. Dengan nama Allah Yang Maha Pengasih dan Maha Penyayang; semoga Allah melimpahkan selawat dan salam kepada tuan kami Muhammad, keluarganya, dan para sahabatnya. «Sungguh telah datang kepadamu seorang rasul dari kalangan kamu sendiri; berat terasa olehnya penderitaanmu» sampai akhir surah, (lalu) الإخلاص, المعوذتين, الفاتحة, «Dan Kami turunkan dari Al-Qur’an sesuatu yang menjadi penyembuh dan rahmat bagi orang-orang mukmin», «Seandainya Kami turunkan Al-Qur’an ini kepada sebuah gunung, niscaya engkau melihatnya tunduk dan terbelah» sampai akhir surah al-Hasyr. Ya Allah, Engkaulah Yang Menyembuhkan dan Yang Membalas; Engkaulah Yang Memberi kesembuhan dan Yang Mengujikan; Engkaulah Yang Melindungi dan Yang Menimpakan rasa sakit; Engkaulah Yang Menyembuhkan.
+
+«Engkau menciptakan kami dari sari air yang hina, dan Engkau menempatkan kami di tempat yang kokoh sampai waktu yang ditentukan.» Maka aku memohon kepada-Mu dengan nama-nama-Mu yang terbaik, dengan sebutan-Mu yang paling tinggi, dan sifat-sifat-Mu yang luhur; wahai Yang di tangan-Nya ujian, ruqyah, kematian, kehidupan, kesehatan, kesembuhan, dan kesetiaan; Yang memiliki dan menciptakan segala sesuatu; Yang menciptakan dan memberi rezeki kepada semua yang hidup. Aku memohon kepada-Mu dengan hak kekasih-Mu yang agung, tuan kami Muhammad ﷺ beserta mukjizat-mukjizatnya, dengan hak kekasih-Mu Ibrahim dan doanya, dan dengan hak ruh-Mu Isa serta pengangkatannya.
+
+### 4. Syarah
+
+Ada kesalahan cetak yang dibiarkan: «الْمُبْلِي» (lazimnya «الْمُبْتَلِي»), «الْمُؤَلِّم» ditulis dengan bentuk yang menyerupai «المؤلم». «أَخِرَ السُّورَةِ» jelas merujuk QS at-Taubah 9:128.
+
+«وَالْمَمَاتُ وَالْحَيَا» ditulis tanpa alif pada cetakan; «الْحَيَاة» dimaksudkan dan tidak tambahkan. «ذِكْرِكَ الْأَسْنَى» dipertahankan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Membaca doa panjang untuk pengobatan segala penyakit, dibuka dengan basmalah, selawat, kutipan ayat (آخر السورة, الإخلاص, المعوذتين, الفاتحة, آل عمران, الحشر), lalu rangkaian asma dan qasam (بحق خليلك إبراهيم…). Dinisbatkan pada penulis; tidak ada jaminan medis dan tidak menggantikan pengobatan.
+
+**Media:** Doa panjang dibuka basmalah dan selawat, memuat kutipan akhir surah (dirujuk catatan ke at-Taubah 9:128), al-Ikhlāṣ, al-Mu‘awwidzatain, al-Fātiḥah, Āli ‘Imrān, dan al-Ḥasyr, lalu rangkaian asma dan qasam
+
+## M58 — Halaman 58, penutup doa dan wafaq مخمس (rajah)
+
+### 1. Arab
+
+وَبِحَقِّ صَفِيِّكَ نُوحٍ وَسَفِينَتِهِ وَمَاتَنَاسَلَ بَيْنَهُمَا مِنَ الْأَنْبِيَاءِ وَالْمُرْسَلِينَ اشْفِنِي بِشِفَائِكَ وَدَاوِنِي بِدَوَائِكَ وَعَافِنِي بِعَافِيَتِكَ وَبِمُعَافَاتِكَ فَإِنَّكَ لَا إِلَهَ إِلَّا أَنْتَ وَلَا رَبَّ سِوَاكَ وَاخْوِقْلَهُ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ
+
+«مُخَمَّسٌ لِجَمِيعِ الْأَمْرَاضِ يَحْىِ وَيُشْفَى»
+
+[وَافَقَ ٥×٥: يُنْظَرُ الْجَدْوَلُ الْأَصْلِيُّ فِي صُورَةِ الصَّفْحَةِ ٥٨]
+
+### 2. Latin
+
+Wa bihaqqi shafiyyika nuuhin wa safiinatihi wa maa tanaasala bainahumaa minal anbiyaa-i wal mursaliina isyfinii bisyifaa-ika wa daawinii bidawaa-ika wa 'aafinii bi'aafiyatika wa bimu'aafaatika fa-innaka laa ilaaha illaa anta wa laa rabba siwaaka wakhwiqlahu wa shallal laahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi.
+
+«Mukhammasun lijamii'il amraadhi yahyi wa yusyfaa».
+
+### 3. Terjemahan
+
+Dan dengan hak orang pilihan-Mu Nuh serta bahteranya, dan (keturunan) yang beranak-pinak di antara keduanya dari para nabi dan rasul: sembuhkanlah aku dengan kesembuhan-Mu, obatilah aku dengan obat-Mu, sehatkanlah aku dengan kesehatan-Mu dan pemberian kesehatan-Mu, karena sesungguhnya Engkaulah yang tidak ada tuhan selain Engkau dan tidak ada tuhan selain Engkau. Semoga Allah melimpahkan selawat kepada tuan kami Muhammad, keluarganya, dan para sahabatnya.
+
+Wafaq (rajah angka) 5×5 pada halaman 58, dengan judul «Mukhammas untuk segala penyakit, (semoga) ia hidup dan sembuh». Angka yang terbaca, baris demi baris (kanan ke kiri): ١١ | ١٥ | ٨٤٢٨ | ٣ | ٧ // ٤ | ٨ | ١٢ | ١٦ | ٨٤٢٤ // ١٧ | ٨٤٢٥ | التوكيل | ٩ | ١٣ // ٥ | ١٠٤ | ١٨ | ٨٤٢٦ | ١٠١ // ٨٤٢٧ | ٦ | ١٠ | ٢٠ | ١٩.
+
+### 4. Syarah
+
+«وَمَاتَنَاسَلَ» kemungkinan «وَمَا تَنَاسَلَ»; «وَاخْوِقْلَهُ» tidak jelas (mungkin doa penutup yang tercetak rusak) — dibiarkan dan ditandai, tidak dikarang.
+
+![Wafaq halaman 58](wafaq_qorin/58.jpg)
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Menyelesaikan doa dengan qasam (نوح dan سفينته, إبراهيم, عيسى), lalu memuat **wafaq 5×5 («مخمس لجميع الأمراض»)** berisi angka dan kata «التوكيل».
+
+**Media:** Penutup doa dengan qasam; wafaq mukhammas 5×5 «untuk segala penyakit» berisi angka dan kata at-taukīl
+
+## M59 — Halaman 59, qarin dan kritik terhadap pengakuan palsu
+
+### 1. Arab
+
+الْقَرِينُ وَعِلَاجُهُ
+
+وَالْمَمْلُوكُ الرُّوحَانِيَّةِ
+
+أَعْلَمْ أَخِي الْمُؤْمِنَ أَنَّ هُنَاكَ فِي عَالَمِ الْجِنِّ كَمَا هُوَ فِي عَالَمِ الْإِنْسِ فَعِنْدَهُمَا الْأَطِبَّاءُ وَالشَّيَاطِينُ وَالْعَفَارِيتُ وَهَنَاكَ قَبَائِلُ كَثِيرَةٌ حَصَرَهَا عِنْدَ اللَّهِ وَحْدَةٌ وَيُوجَدُ رِجَالٌ وَنِسَاءٌ مِنَ الْإِنْسِ لَا يَعْلَمُونَ شَيْئًا عَنْ هَذَا الْعَالَمِ وَيَدْعُونَ الْعِلْمَ وَهُمْ دَجَّالُونَ وَكَذَّابُونَ وَيُصَدِّقُونَ أَنْفُسَهُمْ وَمِنْهُمْ مَنْ يَقُولُ إِنَّهُ يُحَارِبُ مَعَ الْجِنِّ جَانٍ آخَرَ فَهُوَ كَاذِبٌ وَإِذَا نَظَرْتَ إِلَى حَالِهِ الْآنَ تَجِدُهُ مَرِيضًا فَتَقُولُ لَهُ مَاذَا لَا يُعَالِجُكَ الْجِنُّ فَيَقُولُ لَكَ إِنَّهُ فِي سَبِيلِهِ إِلَى الشِّفَاءِ لَأَنَّ الْجِنَّ فَعَلًا يُعَالِجُهُ – وَيَسْتَمِرُّ هَكَذَا سِنِينَ دُونَ شِفَاءٍ لِأَنَّهُ كَاذِبٌ وَلَا يَعْرِفُ إِنْ شَيْءٍ عَنْهُمْ
+
+وَلَكِنْ يَا أَخِي الْمُؤْمِنَ الْحَقِيقَةَ فَيَجِبُ أَنْ تَعْرِفَ عِدَّةَ أَشْيَاءَ أَوَّلُهَا: الْأَيَّامُ – الْأَبْرَاجُ – أَسْمَاءُ الْقَمَرِ – أَسْمَاءُ السَّلَاطِينِ الْمَلَائِكَةِ – أَسْمَاءُ الْمُلُوكِ السَّبْعَةِ – أَسْمَاءُ الرُّوحَانِيَّةِ السَّبْعَةِ – أَسْمَاءُ الدَّرَارِي السَّبْعَةِ – أَسْمَاءُ الرُّؤُوسِ الْأَرْبَعَةِ
+
+### 2. Latin
+
+Al-qariinu wa 'ilaajuhu wal mamluukir ruuhaniyyati. A'lam akhil mu'mina anna hunaaka fii 'aalamil jinni kamaa huwa fii 'aalamil insi fa'indahumal athibbaa-u wasy syayaathiinu wal 'afaariitu wa hunaaka qabaa-ilu katsiiratun hasharahaa 'indallaahi wahdatun wa yuujadu rijaalun wa nisaa-un minal insi laa ya'lamuuna syai-an 'an haadzal 'aalami wa yad'uunal 'ilma wa hum dajjaaluuna wa kadzaabuuna wa yushaddiquuna anfusahum wa minhum man yaquulu innahu yuhaaribu ma'al jinni jaanin aakhara fahuwa kaadzibun wa idzaa nazharta ilaa haalihil aana tajiduhu mariidhan fataquulu lahu maadzaa laa yu'aalijuka al-jinnu fayaquulu laka innahu fii sabiilihi ilasy syifaa-i li-annal jinna fi'lan yu'aalijuhu - wa yastamirru haakadzaa siniina duuna syifaa-in li-annahu kaadzibun wa laa ya'rifu in syai-in 'anhum.
+
+Wa laakin yaa akhiyal mu'mini al-haqiiqata fayajibu an ta'rifa 'iddata asyyaa-a awwaluhaa: al-ayyaamu - al-abraaju - asmaa-ul qamari - asmaa-us salaathiinil malaa-ikati - asmaa-ul muluukis sab'ati - asmaa-ur ruuhaniyyatis sab'ati - asmaa-ud daraaris sab'ati - asmaa-ur ru-uusil arba'ati.
+
+### 3. Terjemahan
+
+Qarin dan pengobatannya, serta yang dikuasai (jin) ruhani. Ketahuilah, wahai saudaraku yang mukmin, bahwa di dunia jin ada sebagaimana di dunia manusia: pada keduanya ada tabib-tabib, setan-setan, dan ‘ifrit; di sana ada kabilah-kabilah banyak yang hanya Allah yang menghitungnya. Ada lelaki dan perempuan dari manusia yang tidak mengetahui apa pun tentang dunia ini tetapi mengaku berilmu, padahal mereka pembohong dan penipu serta membenarkan diri sendiri. Di antara mereka ada yang berkata bahwa ia berperang bersama jin melawan jin lain — ia dusta; jika engkau lihat keadaannya sekarang, engkau dapati ia sakit, lalu engkau bertanya: mengapa jin tidak mengobatimu? Ia menjawab bahwa ia sedang dalam perjalanan menuju kesembuhan, karena jin benar-benar mengobatinya — dan hal itu berlangsung bertahun-tahun tanpa kesembuhan, karena ia dusta dan tidak mengetahui apa pun tentang mereka.
+
+Tetapi, wahai saudaraku yang mukmin, (inilah) kenyataannya: wajib bagimu mengetahui beberapa hal; yang pertama: hari-hari, buruj, nama-nama bulan, nama para sulthan malaikat, nama tujuh raja, nama tujuh (jin) ruhani, nama tujuh bintang (دراري), dan nama empat kepala (رؤوس).
+
+### 4. Syarah
+
+«حَصَرَهَا عِنْدَ اللَّهِ وَحْدَةٌ» susunannya rusak; dipertahankan dan tidak ditambal. «الْأَطِبَّاء» jamak; «يَدْعُونَ الْعِلْم» = mengaku berilmu.
+
+«الْحَقِيقَةَ» mungkin mestinya «الْحَقِيقَةُ»; dipertahankan. «أَسْمَاءُ الْقَمَرِ» bisa berarti nama-nama (jin) yang dinisbatkan kepada bulan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Peringatan penulis terhadap orang yang mengaku berhubungan dengan jin tetapi tidak menyembuhkan; lalu daftar pengetahuan yang harus dikuasai: hari-hari, buruj, nama-nama bulan, nama sulthan malaikat, nama tujuh raja, nama tujuh ruhani, nama tujuh bintang (دراري), dan seterusnya. Dinisbatkan pada penulis.
+
+**Media:** Daftar pengetahuan prasyarat yang dituntut penulis: hari-hari, buruj, nama-nama bulan, sulṭān malaikat, tujuh raja, tujuh rūḥānī, tujuh bintang (darārī), dan empat kepala
+
+## M60 — Halaman 60, hari-hari, planet, logam, dan awal buruj
+
+### 1. Arab
+
+الرُّؤُوسُ الْأَرْبَعَةُ
+
+«الْأَيَّامُ» «…»
+
+خَلَقَ اللَّهُ الْأَيَّامَ سَبْعَةً وَأَوَّلُهَا:
+
+١ - الْأَحَدُ – وَهُوَ يَوْمُ الشَّمْسِ – وَمَعْدِنُهُ الذَّهَبُ
+
+٢ - الِاثْنَيْنِ – وَهُوَ يَوْمُ الْقَمَرِ – وَمَعْدِنُهُ الْفِضَّةُ
+
+٣ - الثُّلَاثَاءُ – وَهُوَ يَوْمُ الْمِرِّيخِ – وَمَعْدِنُهُ الْحَدِيدُ
+
+٤ - الْأَرْبِعَاءُ – وَهُوَ يَوْمُ عُطَارِدٍ – وَمَعْدِنُهُ الزِّئْبَقُ
+
+٥ - الْخَمِيسُ – وَهُوَ يَوْمُ الْمُشْتَرِي – وَمَعْدِنُهُ الْقَصْدِيرُ
+
+٦ - الْجُمُعَةُ – وَهُوَ يَوْمُ الزُّهَرَةِ – وَمَعْدِنُهَا النُّحَاسُ
+
+٧ - السَّبْتُ – وَهُوَ يَوْمُ زُحَلٍ – وَمَعْدِنُهُ الرَّصَاصُ
+
+هَذِهِ هِيَ الْأَيَّامُ وَلِكُلِّ يَوْمٍ دَرَجٌ مِنَ الدَّرَارِي السَّبْعَةِ وَالدَّرَارِي السَّبْعَةُ هِيَ الَّتِي تَحْكُمُ مَا يَدُورُ فِي الْأَرْضِ وَفِي الْإِنْسَانِ مِثْلَ الْمَدِّ وَالْجَزْرِ وَغَيْرِهَا.
+
+«الْأَبْرَاجُ» «…»
+
+١ - بُرْجُ الْحَمَلِ ٢ - الثَّوْرُ ٣ - الْجَوْزَاءُ ٤ - السَّرَطَانُ
+
+### 2. Latin
+
+Ar-ru-uusul arba'atu. «Al-ayyaamu» «…» khalaqal laahul ayyaama sab'atan wa awwaluhaa: 1 - al-ahadu - wa huwa yaumusy syamsi - wa ma'dinuhudz dzahabu; 2 - al-itsnaani - wa huwa yaumul qamari - wa ma'dinuhul fidhdhatu; 3 - ats-tsulaatsaa-u - wa huwa yaumul mirriikhi - wa ma'dinuhul hadiidu; 4 - al-arbi'aa-u - wa huwa yaumu 'uthaaridin - wa ma'dinuhuz zi-baqu; 5 - al-khamiisu - wa huwa yaumul musytarii - wa ma'dinuhul qashdiiru; 6 - al-jumu'atu - wa huwa yaumuz zuharati - wa ma'dinuhun nahaasu; 7 - as-sabtu - wa huwa yaumu zuhalin - wa ma'dinuhur rashasha.
+
+Haadzihi hiyal ayyaamu wa likulli yaumin darajun minad daraaris sab'ati wad daraaris sab'atu hiyal latii tahkumu maa yaduuru fil ardhi wa fil insaani mitslal makdi wal jazri wa ghairihaa. «Al-abraaju» «…» 1 - burjul hamali 2 - ats-tsauru 3 - al-jauzaa-u 4 - as-sarathaanu.
+
+### 3. Terjemahan
+
+Empat kepala (رؤوس). «Hari-hari»: Allah menciptakan hari menjadi tujuh, dan yang pertama: 1 — Ahad, yaitu hari matahari, dan logamnya emas; 2 — Senin, yaitu hari bulan, dan logamnya perak; 3 — Selasa, yaitu hari Mars, dan logamnya besi; 4 — Rabu, yaitu hari Merkurius, dan logamnya air raksa; 5 — Kamis, yaitu hari Jupiter, dan logamnya timah; 6 — Jumat, yaitu hari Venus, dan logamnya tembaga; 7 — Sabtu, yaitu hari Saturnus, dan logamnya timbal.
+
+Inilah hari-hari itu; setiap hari memiliki derajat dari tujuh bintang (دراري), dan tujuh bintang itulah yang menghukumi apa yang berputar di bumi dan pada manusia, seperti pasang dan surut serta lainnya. «Buruj»: 1 — Aries (الحمل), 2 — Taurus (الثور), 3 — Gemini (الجوزاء), 4 — Cancer (السرطان).
+
+### 4. Syarah
+
+«الْمِرِّيخ» pada cetakan; «الْمُشْتَرِي» dan «الزُّهَرَة» dipakai sebagai nama planet. «الرُّؤُوسُ الْأَرْبَعَةُ» tertinggal di kepala halaman sebagai sisa daftar halaman 59.
+
+Tabel pengetahuan astrologi penulis; bukan dalil syar‘i dan tidak menjamin apa pun.
+
+Pada cetakan tertulis «٤ - الثور» lalu «٤ - السرطان»; dibaca sebagai urutan ٢ untuk الثور — perbedaan ini dinyatakan terbuka. «الْجَوْزَاء» bisa «الجوزاء/الجوزاء».
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Daftar hari satu sampai tujuh beserta planet (الشمس، القمر، المريخ، عطارد، المشتري، الزهرة، زحل) dan logam yang dinisbatkan kepadanya (الذهب، الفضة، الحديد، الزئبق، القصدير، النحاس، الرصاص); lalu awal daftar buruj. Dinisbatkan pada penulis sebagai kerangka pengetahuan, bukan anjuran.
+
+**Waktu:** Tujuh hari Ahad–Sabtu dengan planet yang dinisbatkan penulis: Matahari, Bulan, Mars, Merkurius, Jupiter, Venus, Saturnus
+
+**Media:** Logam padanan tiap hari menurut penulis: emas, perak, besi, air raksa, timah, tembaga, timbal; awal daftar buruj: Aries, Taurus, Gemini, Cancer
+
+## M61 — Halaman 61, buruj lima sampai dua belas dan nama-nama bintang
+
+### 1. Arab
+
+٥ - الْأَسَدُ ٦ - السُّنْبُلَة ٧ - الْمِيزَانُ ٨ - الْعَقْرَبُ ٩ - الْقَوْسُ ١٠ - الْجَدْيُ ١١ - الدَّلْوُ ١٢ - الْحُوتُ
+
+«أَسْمَاءُ الدَّرَارِي السَّبْعَة» «…»
+
+١ - الشَّمْسُ ٢ - الْقَمَرُ ٣ - الْمِرِّيخُ ٤ - عُطَارِدٌ ٥ - الْمُشْتَرِي ٦ - الزُّهَرَةُ ٧ - زُحَلٌ
+
+أَسْمَاءُ الْقَمَرِ «…» أَسْمَاءُ الْقَمَرِ مَقْلُوبُهُ
+
+لِيَاخِيم – لِيَاغُور – لِيَافُور – لِيَاوَرْش – لِيَارُوغ – لِيَارُوش – لِيَاشْلِش
+
+شَلْيَاء – سُورَانِيل – غُورَانِيل – نُورَانِيل – دُوقَانِيل – غِلَاسِيل – مِخَانِيل
+
+### 2. Latin
+
+5 - al-asadu 6 - as-sunbulatu 7 - al-miizaamu 8 - al-'aqrabu 9 - al-qawsu 10 - al-jadyu 11 - ad-dalwu 12 - al-huutu. «Asmaa-ud daraaris sab'ati» «…» 1 - asy syamsu 2 - al-qamaru 3 - al-mirriikhu 4 - 'uthaaridun 5 - al-musytarii 6 - az-zuharatu 7 - zuhalun.
+
+Asmaa-ul qamari «…» asmaa-ul qamari maqluubuhu. Liyaakhiim - liyaaghuur - liyaafuur - liyaawarsy - liyaaruugh - liyaaruusy - liyaasyrisy. Syalyaa-u - suuraaniil - ghuuraaniil - nuuraaniil - duuqaanil - ghilaasiil - mikhaaniil.
+
+### 3. Terjemahan
+
+5 — Leo (الأسد), 6 — Virgo (السنبلة), 7 — Libra (الميزان), 8 — Scorpio (العقرب), 9 — Sagitarius (القوس), 10 — Capricorn (الجدي), 11 — Aquarius (الدلو), 12 — Pisces (الحوت). «Nama tujuh bintang»: 1 — Matahari, 2 — Bulan, 3 — Mars, 4 — Merkurius, 5 — Jupiter, 6 — Venus, 7 — Saturnus.
+
+«Nama-nama bulan» (kolom kanan): Liyākhīm, Liyāghūr, Liyāfūr, Liyāwarsy, Liyārugh, Liyārūsy, Liyāsyrisy. «Nama-nama bulan yang dibalik» (kolom kiri): Syalyā’, Sūrānīl, Ghūrānīl, Nūrānīl, Dūqānīl, Ghilāsīl, Mikhānīl.
+
+### 4. Syarah
+
+Pada cetakan buruj bermula «٥ - الأسد» sehingga «الحمل» dihitung ١; urutan ini konsisten dengan halaman 60 setelah koreksi terbuka di sana.
+
+Tabel; angka dipertahankan seperti tercetak.
+
+Nama-nama ini sulit dipastikan hurufnya pada cetakan; ditulis apa yang terbaca dan tidak dikoreksi menjadi nama yang kenal. Kemungkinan bacaan lain: «لِيَاخِيم/لِيَاخِم», «لِيَاشْلِش/لِيَاسْلِس», «شَلْيَاء/سَلْيَاء».
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Daftar buruj 5–12 (الأسد، السنبلة، الميزان، العقرب، القوس، الجدي، الدلو، الحوت), daftar tujuh bintang (الشمس…زحل), dan dua kolom nama bulan: «أسماء القمر» dan «أسماء القمر مقلوبه». Dinisbatkan pada penulis; nama-nama ini tidak dikoreksi ejaannya.
+
+**Waktu:** Rujukan buruj 5–12 (Leo, Virgo, Libra, Scorpio, Sagitarius, Capricorn, Aquarius, Pisces), tujuh bintang/planet, dan dua kolom nama bulan (ejaan banyak nama tidak pasti)
+
+## M62 — Halaman 62, sulthan malaikat dan tujuh raja
+
+### 1. Arab
+
+«أَسْمَاءُ سَلَاطِينِ الْمَلَائِكَةِ» «…»
+
+١ - جِبْرِيلُ الْقَوِيُّ الْأَمِينُ
+
+٢ - مِيكَائِيلُ مَلَكُ الْأَرْزَاقِ
+
+٣ - عَزْرَائِيلُ مُوَكَّلٌ بِالْأَرْوَاحِ
+
+٤ - إِسْرَافِيلُ مُوَكَّلٌ بِالنَّفْخِ فِي الصُّورِ
+
+«أَسْمَاءُ الْمُلُوكِ السَّبْعَة» «…»
+
+١ - مَذْهَبٌ – مَسْئُولٌ عَنْ يَوْمِ الْأَحَدِ
+
+٢ - مَرَّةٌ – مَسْئُولٌ عَنْ يَوْمِ الِاثْنَيْنِ
+
+٣ - الْأَحْمَرُ – مَسْئُولٌ عَنْ يَوْمِ الثُّلَاثَاءِ
+
+٤ - بَرْقَانُ – مَسْئُولٌ عَنْ يَوْمِ الْأَرْبِعَاءِ
+
+٥ - شَمْهُورَشُ – مَسْئُولٌ عَنْ يَوْمِ الْخَمِيسِ
+
+٦ - الْأَبْيَضُ – مَسْئُولٌ عَنْ يَوْمِ الْجُمُعَةِ
+
+٧ - مَيْمُونٌ – مَسْئُولٌ عَنْ يَوْمِ السَّبْتِ
+
+### 2. Latin
+
+«Asmaa-us salaathiinil malaa-ikati» «…» 1 - jibriilul qawiyyul amiinu; 2 - miikaa-iilu malakul arzaaqi; 3 - 'azraa-iilu muwakkalun bil arwaahi; 4 - israafiilu muwakkalun bin nafkhi fish shuuri.
+
+«Asmaa-ul muluukis sab'ati» «…» 1 - madzhabun - mas-uulun 'an yaumil ahadi; 2 - marratun - mas-uulun 'an yaumil itsnaini; 3 - al-ahmaru - mas-uulun 'an yaumits tsulaatsaa-i; 4 - barqaanu - mas-uulun 'an yaumil arbi'aa-i; 5 - syamhuurusyu - mas-uulun 'an yaumil khamiisi; 6 - al-abyadhu - mas-uulun 'an yaumil jumu'ati; 7 - maimuunun - mas-uulun 'an yaumis sabti.
+
+### 3. Terjemahan
+
+«Nama para sulthan malaikat»: 1 — Jibril, Yang Kuat lagi Dipercaya; 2 — Mikail, malaikat rezeki; 3 — Izrail, yang ditugaskan atas ruh-ruh; 4 — Israfil, yang ditugaskan meniup sangkakala.
+
+«Nama tujuh raja»: 1 — Madzhab, bertanggung jawab atas hari Ahad; 2 — Marrah, atas hari Senin; 3 — Al-Ahmar, atas hari Selasa; 4 — Barqan, atas hari Rabu; 5 — Syamhurasy, atas hari Kamis; 6 — Al-Abyadh, atas hari Jumat; 7 — Maimun, atas hari Sabtu.
+
+### 4. Syarah
+
+«عَزْرَائِيل» ditulis demikian pada cetakan (bentuk lain: «عِزْرَائِيل»). «الْقَوِيُّ الْأَمِين» mengikuti cetakan, bukan susunan yang lazim dalam ayat.
+
+«مَذْهَب» bisa «مُذْهِب»; «شَمْهُورَش» pada halaman 51 juga disebut «شمهورش» — dua ejaan, keduanya dipertahankan. «مَسْئُول» ditulis dengan hamzah pada cetakan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Daftar empat sulthan malaikat (جبريل، ميكائيل، عزرائيل، اسرافيل) beserta tugas yang dinisbatkan, lalu daftar tujuh raja jin dengan hari yang menjadi tanggung jawabnya (الأحد…السبت). Dinisbatkan pada penulis; tidak ada jaminan.
+
+**Waktu:** Tujuh raja menurut hari: Madzhab (Ahad), Marrah (Senin), al-Aḥmar (Selasa), Barqān (Rabu), Syamhūrasy (Kamis), al-Abyaḍ (Jumat), Maimūn (Sabtu); ejaan dipertahankan
+
+## M63 — Halaman 63, empat kepala, tujuh ruhani, dan pembatalan sihir
+
+### 1. Arab
+
+«أَسْمَاءُ الرُّؤُوسِ الْأَرْبَعَة» «…»
+
+١ - مَازَرٌ ٢ - كَطْمُ ٣ - قَنْدُورَةُ ٤ - طَيْكَلُ
+
+«أَسْمَاءُ الرُّوحَانِيَّةِ السَّبْعَة» «…»
+
+١ - رُوفَائِيلُ ٢ - جِبْرَائِيلُ ٣ - سَمْسَمَائِيلُ ٤ - مِيكَائِيلُ ٥ - صَرْفِيَائِيلُ ٦ - عُنْيَائِيلُ ٧ - كَسْفِيَائِيلُ
+
+هَكَذَا أَخِي الْمُؤْمِنُ أَقْدَمُ لَكَ كُلَّ شَيْءٍ عَنِ الْأَيَّامِ فَإِنْ أَرَدْتَ عِلَاجَ أَحَدٍ فِي أَيِّ يَوْمٍ مِنَ الْأَيَّامِ السَّبْعَةِ عَلَيْكَ بِأَحْضَارِ الْمَلَكِ الْعُلْوِيِّ الْيَوْمِ وَالْمَلَكِ الرُّوحَانِيِّ بِالِاسْتِعَانَةِ بِالرُّؤُوسِ الْأَرْبَعَةِ مَعَ الْكَوَاكِبِ وَالْبُخُورِ وَالْعَزِيمَةِ وَاصْرِفِ الْعُمَّارَ ثُمَّ ابْدَأِ الْعِلَاجَ مِنَ الْقَرِينِ فَهُوَ يُطِيعُ هَذِهِ الْأَسْمَاءَ كُلِّهَا. وَنَكْتَفِي بِهَذَا الْقَدْرِ فِي كِتَابٍ آخَرَ.
+
+(تَبْطِيلُ السِّحْرِ وَبَخُورٌ لِجَمِيعِ الرِّيَاحِ مُجَرَّبٌ)
+
+تَنْشِلُوكٌ ٢ طَلْمَاسِعٌ ٢ اطْسَهُ ٢ اسْكَمُويَهْ ٢ عَخْبِيرَةٌ ٢ حَكْمُوَا ٢ تَنَسِّيهِ ٢
+
+### 2. Latin
+
+«Asmaa-ur ru-uusil arba'ati» «…» 1 - maazarun 2 - kathmun 3 - qanduuratu 4 - thaykalu. «Asmaa-ur ruuhaniyyatis sab'ati» «…» 1 - ruufaa-iilu 2 - jibraa-iilu 3 - samsamaa-iilu 4 - miikaa-iilu 5 - sharfiyaa-iilu 6 - 'unyaa-iilu 7 - kasfiyaa-iilu.
+
+Haakadzaa akhiyal mu'minu aqdimu laka kulla syai-in 'anil ayyaami fa-in aradta 'ilaaja ahadin fii ayyi yaumin minasy syuruuthil (al-ayyaamis) sab'ati 'alaika bi-ahdhaaril malakil 'ulwiyyil yaumi wal malakir ruuhaniyyi bil isti'aanati bir ru-uusil arba'ati ma'al kawaakibi wal bukhuuri wal 'aziimati wash rifil 'ummaara tsumma ibda-il 'ilaaja minal qariini fahuwa yuthii'u haadzihil asmaa-a kullahaa. Wa naktafii bihaadzal qadri fii kitaabin aakhara. (Tabthiilus sihri wa bakhuurun lijamii'ir riyaahi mujarrabun) Tansyiluukun? thalmaasi'un? athsahu? askamuuyah? 'akhbiirah? hakmuwaa? tanassshiihi?
+
+### 3. Terjemahan
+
+«Nama empat kepala»: 1 — Mazar, 2 — Kathm, 3 — Qandurah, 4 — Thaykal. «Nama tujuh (jin) ruhani»: 1 — Rufail, 2 — Jibrail, 3 — Samsamail, 4 — Mikail, 5 — Sarfiyail, 6 — ‘Unyail, 7 — Kasfiyail.
+
+Demikianlah, wahai saudaraku yang mukmin, aku hadapkan kepadamu segala hal tentang hari-hari. Jika engkau hendak mengobati seseorang pada hari apa pun dari tujuh hari, hendaklah engkau menghadirkan «malaikat hari yang tinggi» dan «malaikat ruhani» dengan meminta bantuan empat kepala beserta planet-planet, bakhur, dan عزيمة; lalu tahanlah para penghuni (jin), kemudian mulailah pengobatan dari qarin, karena ia menaati semua nama ini. Kami cukupkan sekian ini (dan sisanya) dalam kitab lain. (Pembatalan sihir dan bakhur untuk segala angin, sudah dicoba): Tansyiluk, Thalmasyi‘, Athsah, Askamuyah, ‘Akhbirah, Hakmuwa, Tanassih — dengan tanda pemisah tercetak di antara nama-nama itu.
+
+### 4. Syarah
+
+«كَطْمُ» bisa «كُطْم»; «طَيْكَل» bisa «طَيْكِل»; «عُنْيَائِيل» bisa «عِنْيَائِيل». Nama-nama ini dipertahankan seperti tercetak dan tidak samakan dengan ejaan lain.
+
+«الْعُمَّارَ» = penghuni (jin); «اصْرِفِ» dibaca sebagai perintah menahan/menolak. Nama-nama pada baris terakhir sangat sulit dipastikan; ditulis apa yang terbaca dan tidak dikoreksi. Tanda «٢» di antara nama anggap pemisah cetak, bukan angka.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Daftar empat «رؤوس» (مازر، كطم، قندورة، طيکل) dan tujuh ruhani (روفائيل، جبرائيل، سمسمائيل، ميكائيل، صرفيائيل، عنيائيل، كسفيائيل); lalu petunjuk memanggil «ملك اليوم» dan «ملك الروحاني» dengan bakhur dan عزيمة, serta judul «تبطيل السحر وبخور لجميع الرياح مجرب» dengan sederet nama. Dinisbatkan pada penulis; tanpa jaminan.
+
+**Waktu:** Pada hari apa pun dari tujuh hari, menurut raja hari dan raja rūḥānī yang bersangkutan
+
+**Media:** Daftar empat ru’ūs dan tujuh rūḥānī (ejaan dipertahankan); bantuan empat kepala beserta planet-planet; ‘azīmah; rangkaian nama pada judul «tabṭīl as-siḥr wa bakhūr li-jamī‘ ar-riyāḥ mujarrab»
+
+**Bukhur:** Disebutkan bersama ‘azīmah dan pada judul bakhur untuk segala angin; jenisnya tidak dirinci
+
+## M64 — Halaman 64, pembatalan sihir dan lambang خاتم سليمان
+
+### 1. Arab
+
+وَالنَّظْرَةُ السَّوْءُ وَالرَّجْفَةُ وَالْعَكْسُ وَالسِّحْرُ وَالتَّعْطِيلُ وَسِحْرُ سَحَرَةِ وَمَكْرُو مَاكِرِهِ وَمِنْ سَائِرِ الْجِنِّ وَالشَّيَاطِينِ وَجُنُودِ إِبْلِيسَ أَجْمَعِينَ وَالتَّوَابِعِ وَالْقَرَانِّ وَبِحَقِّ مَنْ قَالَ وَقَوْلُهُ الْحَقُّ قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ إِنَّ اللَّهَ سَيُبْطِلُهُ إِنَّ اللَّهَ لَا يُصْلِحُ عَمَلَ الْمُفْسِدِينَ. وَقَدِمْنَا إِلَى مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَنْثُورًا. إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُ
+
+اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ عَنْ فُلَانٍ كُلَّ سِحْرٍ وَصَدْوِ كَرَاهِيَةٍ وَتَبْطِيلٍ وَمَنْ كُلِّ مَا يُؤْذِيهِ مَاذَا؟ جَاءَ وَعْدُ رَبِّي جَعَلَهُ دَكًّا. وَعِنْدَ رَبِّي جَعَلَهُ دَكًّا. وَكَانَ وَعْدُ رَبِّي حَقًّا وَبِحَقِّ هَذِهِ الْأَسْمَاءِ
+
+[خَاتَمُ سُلَيْمَانَ: رَسْمٌ وَنُقُوشٌ فِي صُورَةِ الصَّفْحَةِ ٦٤]
+
+وَالْحَوْقَلَةُ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ. يُكْتَبُ وَيُحْمَلُ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ. مُجَرَّبٌ صَحِيحٌ
+
+### 2. Latin
+
+Wan nazhratus saw-u war rajfatu wal 'aksu was sihru wat ta'thiilu wa sihru saharatin wa makruu maakirihi wa min saa-iril jinni wasy syayaathiini wa junuudi ibliisa ajma'iina wat tawaabi'i wal qaraanni wa bihaqqi man qaala wa qauluhul haqqu qaala muusaa maa ji'-tum bihis sihru innal laaha sayubthiluhu innal laaha laa yushlihu 'amalal mufsidiina. Wa qadimnaa ilaa maa 'amiluu min 'amalin faja'alnaahu habaa-an mantsuuran. Ilaihi yash'adul kalimut thayyibu wal 'amalush shaalihu yarfa'uhu.
+
+Allaahummash rif warfa' wadzhab 'an fulaanin kulla sihrin wa shadwi karaahiyatin wa tabthiilin wa min kulli maa yu'dziihi maadzaa? Jaa-a wa'du rabbii ja'alahu dakkan. Wa 'inda rabbii ja'alahu dakkan. Wa kaana wa'du rabbii haqqan wa bihaqqi haadzihil asmaa-i. Khaatamu sulaimaana:. Wal haugalatu wa shallal laahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi wa sallama. Yuktabu wa yuhmalu bimiskin wa za'faraanin wa maa-i wardin. Mujarrabun shahiihun.
+
+### 3. Terjemahan
+
+Dan (dari) pandangan buruk, keguncangan, pembalikan, sihir, penghentian (kerja), sihir para tukang sihir, tipu daya para penipu, dan dari seluruh jin serta setan dan tentara Iblis seluruhnya, juga «توابع» dan «قران»; dan dengan hak Dia yang berfirman — dan firman-Nya adalah kebenaran —: Musa berkata, «Apa yang kamu bawakan itu adalah sihir; sesungguhnya Allah akan membatalkannya; sesungguhnya Allah tidak memperbaiki perbuatan orang-orang yang merusak.» «Dan Kami hadapi segala amal yang mereka kerjakan, lalu Kami jadikan amal itu debu yang beterbangan.» «Kepada-Nya naiklah perkataan yang baik, dan amal saleh Dia angkat.»
+
+Ya Allah, palingkanlah, angkatlah, dan hilangkanlah dari Fulan segala sihir, «صدو» kebencian, dan pembatalan, serta dari segala yang menyakitinya. «ماذا؟ جاء وعد ربي جعله دكا» — dan di sisi Tuhanku Dia menjadikannya rata; dan janji Tuhanku adalah benar; dan dengan hak nama-nama ini. خاتم سليمان: [di sini tercetak lambang bintang, bentuk, garis, dan huruf]. Dan hauqalah. Semoga Allah melimpahkan selawat dan salam kepada tuan kami Muhammad, keluarganya, dan para sahabatnya. Ditulis dan dibawa (sebagai jimat) dengan minyak misik, za‘faran, dan air mawar. Sudah dicoba dan sahih (menurut penulis).
+
+### 4. Syarah
+
+«مَكْرُو مَاكِرِهِ» pada cetakan tidak baku (mungkin «مَكْرِ مَاكِرِهِ»); dipertahankan. «الْقَرَانِّ» bisa «الْقُرَّان/الْقِرَان». Kutipan: QS Yunus 10:81 (redaksi «ما جئتم به السحر»), al-Furqan 25:23, Fatir 35:10 — dicatat rujukannya sebagai bantuan, bukan koreksi teks.
+
+![Wafaq halaman 64](wafaq_qorin/64.jpg)
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan «تبطيل السحر» dengan kutipan Quran (al-A‘raf tentang sihir Musa, Fatir tentang kalimat yang baik), doa «اللهم اصرف وارفع واذهب…», lalu **baris lambang «خاتم سليمان» bergambar** dan penutup «يكتب ويحمل بمسك وزعفران وماء ورد — مجرب صحيح».
+
+**Media:** Kutipan Quran dan doa «allāhumma-ṣrif warfa‘ wa-dzhab…»; baris lambang Khatam Sulaiman bergambar; tulisan ditulis dan dibawa sebagai jimat dengan minyak misik, za‘farān, dan air mawar
+
+## M65 — Halaman 65, tulisan pengobatan dan lambang خاتم سليمان
+
+### 1. Arab
+
+(لِلتَّدَاوِي مِنَ الْمَرَضِ)
+
+يُكْتَبُ فِي إِنَاءٍ صِينِيٍّ بِزَعْفَرَانٍ وَمَاءِ وَرْدٍ وَيُحْمَى بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ. بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ (ذَلِكَ تَخْفِيفٌ مِنْ رَبِّكُمْ وَرَحْمَةٌ) (يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ عَنْكُمْ وَخُلِقَ الْإِنْسَانُ ضَعِيفًا) (وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ وَهُوَ السَّمِيعُ الْعَلِيمُ * وَلَوْ شَاءَ لَجَعَلَهُ سَاكِنًا) (أَنْ يَشَأْ يَسْكُنِ الرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَى ظَهْرِهَا)
+
+الم الم المص المر الر المر كهيعص طه طسم الم الم الم الم الم يس ص حم حم عسق حم حم حم حم حم ق ن
+
+بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَجُعِلَ فِيهِ رَحْمَةٌ وَشِفَاءٌ، اللَّهُمَّ اشْفِنِي أَنْتَ الشَّافِي الْمُعَافِي مِنْ كُلِّ عِلَّةٍ وَمَرَضٍ شِفَاءً لَا يُغَادِرُ سَقَمًا وَلَا أَلَمًا بِالَّذِي لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ أَجْمَعِينَ.
+
+خَاتَمُ سُلَيْمَانَ [رَسْمٌ وَنُقُوشٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٦٥]
+
+### 2. Latin
+
+«Lit tadaawii minal maradhi». Yuktabu fii inaa-in shiiniyyin biza'faraanin wa maa-i wardin wa yuhmaa bimaa-i bi'rin laa yarash niyyaraini. Bismillaahir rahmaanir rahiim (dzaalika takhfiifun min rabbikum wa rahmatun) (yuriidul laahu an yukhaffifa 'ankum wa khuliqal insaanu dha'iifan) (wa lahul maa sakana fil laili wan nahaari wa huwas samii'ul 'aliimu wa lau syaa-a laja'alahu saakinan) (an yasya' taskunir riihu fazhzhallna rawaakida 'alaa zhahrihaa).
+
+Alif laam miim, alif laam miim shaad, alif laam miim raa, alif laam raa, alif laam miim raa, kaaf haa yaa 'ain shaad, thaa haa, thaa siin miim, alif laam miim (berulang lima kali), yaa siin, shaad, haa miim, haa miim 'ain siin qaaf, haa miim (berulang), qaaf, nuun. Bismillaahil ladzii laa yadhurru ma'asmihi syai-un fil ardhi wa laa fis samaa-i wa ju'ila fiihi rahmatun wa syifaa-un, Allaahummasyfinii antasy syaafii al-mu'aafii min kulli 'illatin wa maradhin syifaa-an laa yughaadiru saqaman wa laa alaman billadzii laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiimi, wa shallal laahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi ajma'iina. Khaatamu sulaimaana.
+
+### 3. Terjemahan
+
+«Untuk berobat dari penyakit»: ditulis pada mangkuk porselen Cina dengan za‘faran dan air mawar, lalu dipanaskan dengan air sumur yang tidak pernah terkena matahari dan bulan. Dengan nama Allah Yang Maha Pengasih dan Maha Penyayang. «Itu adalah keringanan dari Tuhanmu dan rahmat»; «Allah hendak meringankan (beban)mu, dan manusia diciptakan dalam keadaan lemah»; «Dan milik-Nya apa yang diam (berada) pada malam dan siang, dan Dialah Yang Maha Mendengar lagi Maha Mengetahui; dan jika Dia menghendaki, Dia jadikan ia diam»; «Jika Dia menghendaki, Dia diamkan angin, sehingga (bahtera) itu tertahan di permukaannya».
+
+Alif Lam Mim, Alif Lam Mim Shad, Alif Lam Mim Ra, Alif Lam Ra, Alif Lam Mim Ra, Kaf Ha Ya ‘Ain Shad, Tha Ha, Tha Sin Mim, Alif Lam Mim (lima kali), Ya Sin, Shad, Ha Mim, Ha Mim ‘Ain Sin Qaf, Ha Mim, Qaf, Nun. «Dengan nama Allah yang tidak ada sesuatu pun yang dapat membahayakan bersama nama-Nya, baik di bumi maupun di langit», dan dijadikan padanya rahmat dan kesembuhan. Ya Allah, sembuhkanlah aku; Engkaulah Yang Menyembuhkan, Yang Memberi kesehatan dari segala penyakit dan sakit, dengan kesembuhan yang tidak meninggalkan penyakit maupun rasa sakit, dengan (nama) Yang tiada daya dan kekuatan kecuali dengan (pertolongan) Allah Yang Mahatinggi lagi Mahaagung. Semoga Allah melimpahkan selawat kepada tuan kami Muhammad, keluarganya, dan para sahabatnya seluruhnya. خاتم سليمان:.
+
+### 4. Syarah
+
+«الْمَرَض» pada cetakan tampak «المورض»; dibaca «المرض» dan dinyatakan di sini. «يُحْمَى» bisa «يُحَمَّى»; «لَا يَرَى النَّيِّرَيْنِ» = tidak melihat matahari dan bulan. Kutipan: QS al-Baqarah 2:178/2:185, an-Nisa 4:28, al-An‘am 6:13 dan 6:18, dan potongan dari surah lain; rujukan ini bantuan, bukan koreksi teks.
+
+![Wafaq halaman 65](wafaq_qorin/65.jpg)
+
+Rangkaian huruf pembuka surah ditulis terpisah tanpa harakat seperti tercetak; tidak sambung menjadi kata. «وَجُعِلَ فِيهِ» pada cetakan mungkin «وَجَعَلَ»; dipertahankan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+(لِلتَّدَاوِي مِنَ الْمَرَضِ) — praktik: ditulis pada mangkuk porselen Cina dengan za‘faran dan air mawar, lalu dipanaskan dengan air sumur yang tidak terkena dua benda bercahaya (matahari–bulan); disertai rangkaian huruf pembuka surah dan doa; di bagian bawah halaman tercetak lambang خاتم سليمان. Semua dinisbatkan pada penulis kitab; bukan anjuran medis dan tidak ada jaminan.
+
+**Media:** Mangkuk porselen Cina; za‘faran dan air mawar; air sumur yang tidak terkena dua benda bercahaya (matahari–bulan); rangkaian huruf pembuka surah dan doa; lambang خاتم سليمان
+
+## M66 — Halaman 66, doa perlindungan dan rajah الشفاء
+
+### 1. Arab
+
+(التَّعَوُّذُ مِنْ كُلِّ مَكْرُوهٍ)
+
+أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ شَرِّ كُلِّ عَيْنٍ لَامَّةٍ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ وَمِنْ شَرِّ مَنْ يَعْقِدُ بِالْأَمْرَاضِ وَمِنْ شَرِّ طَوَارِقِ اللَّيْلِ وَالنَّهَارِ إِلَّا طَارِقًا يَطْرُقُ بِخَيْرٍ مِنْكَ يَا رَحْمَنُ. أَعُوذُ بِعَفْوِكَ مِنْ عِقَابِكَ وَأَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ وَأَعُوذُ بِكَ مِنْكَ وَأَعُوذُ بِكَ إِلَيْكَ لَا أُحْصِي ثَنَاءً عَلَيْكَ
+
+- لِلشِّفَاءِ مِنْ كُلِّ دَاءٍ وَجَمِيعِ الْأَسْقَامِ
+
+لِلْأَمْرَاضِ الْأَذَى عَجَزَتْ عَنْهَا الْأَطِبَّاءُ تُكْتَبُ وَتُحْمَى وَتُشْفَى وَيُحْمَلُ، وَهَذَا مَا يُكْتَبُ وَمَعَهُ آيَاتُ الشِّفَاءِ وَمَا يُنَاسِبُ
+
+[رَسْمٌ كَبِيرٌ: جَدْوَلُ حُرُوفٍ وَخُطُوطٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٦٦]
+
+### 2. Latin
+
+(At ta'awwudzu min kulli makruuhin). A'uudzu bikalimaatillaahit taammati min kulli syaithaanin wa haammatin wa min syarri kulli 'ainin laammatin wa min syarrin naffaatsaati fil 'uqadi wa min syarri haasidin idzaa hasada wa min syarri man ya'qidu bil amraadhi wa min syarri thawaariqil laili wan nahaari illaa thaariqan yathruqu bikhairin minka yaa rahmaanu. A'uudzu bi'afwika min 'iqaabika wa a'uudzu biridhaaka min sakhatika wa a'uudzu bika minka wa a'uudzu bika ilaika laa uhshii tsanaa-an 'alaika.
+
+Lisy syifaa-i min kulli daa-in wa jamii'il asqaami. Lil amraadhil adzaa 'ajazat 'anhaa al-athibbaa-u tuktabu wa tuhmaa wa tusyfaa wa yuhmalu, wa haadzaa maa yuktabu wa ma'ahu aayaatusy syifaa-i wa maa yunaasibu.
+
+### 3. Terjemahan
+
+(Perlindungan dari segala yang dibenci). Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari setiap setan dan hewan berbisa, dari keburukan setiap mata yang menimpa, dari keburukan para peniup pada simpul-simpul ikatan, dari keburukan orang yang dengki apabila ia dengki, dari keburukan orang yang mengikat (menyihir) dengan penyakit, dan dari keburukan yang datang pada malam dan siang, kecuali yang datang membawa kebaikan dari-Mu, wahai Yang Maha Pengasih. Aku berlindung dengan pemaafan-Mu dari siksa-Mu, dengan keridaan-Mu dari murka-Mu, aku berlindung kepada-Mu dari (murka)-Mu, dan aku berlindung kepada-Mu menuju-Mu; aku tidak mampu menghitung pujian atas-Mu.
+
+«Untuk kesembuhan dari segala penyakit dan seluruh sakit»: untuk penyakit-penyakit yang tidak mampu ditangani para tabib, ditulis, dipanaskan, dan (dikatakan) disembuhkan serta digantung; inilah yang ditulis, bersamanya ayat-ayat kesembuhan dan yang sesuai.
+
+### 4. Syarah
+
+«هَامَّة» = hewan berbisa; «عَيْنٍ لَامَّة» = mata yang menimpa. Teks ini gabungan doa masyhur dan hadis; tidak diverifikasi sanadnya.
+
+![Wafaq halaman 66](wafaq_qorin/66.jpg)
+
+«الْأَذَى» di sini dipakai sebagai sifat penyakit; susunannya tidak baku dan dibiarkan. «تُشْفَى» bisa «يُشْفَى». Rajah pada halaman ini adalah gambar, bukan teks: hanya menyebut keberadaannya.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Doa perlindungan dari segala yang dibenci (ta‘awwudz) dan bagian «untuk kesembuhan dari segala penyakit» yang ditulis, dipanaskan, dan digantung, disertai **rajah besar bergambar** (kolom-kolom berisi huruf dan garis).
+
+**Media:** Doa perlindungan (ta‘awwudz); bagian «untuk kesembuhan dari segala penyakit» yang ditulis; rajah besar bergambar (kolom-kolom berisi huruf dan garis)
+
+## M67 — Halaman 67, Fasal Keempat Belas: إبطال السحر وحل المربوط
+
+### 1. Arab
+
+الْفَصْلُ الرَّابِعَ عَشَرَ
+
+إِبْطَالُ السِّحْرِ وَحَلُّ الْمَرْبُوطِ
+
+اكْتُبِ الطَّلَاسِمَ الْآتِيَةَ فِي سَبْعِ وَرَقَاتٍ أَبْيَضَ وَضَعْ فِي كُلِّ وَرَقَةٍ جَاوِي وَلُبَانَ ذَكَرٍ وَمُسْتَكَى وَعُودَ الْقَلْيِ، وَرَفْعَةً فِي النَّارِ يَتَلَقَّى دُخَانُهَا الْمَسْحُورَ أَوِ الْمَرْبُوطَ وَاقْرَأْ عَلَيْهَا سُورَةَ يس (يس * وَالْقُرْآنِ الْحَكِيمِ) الْأُولَى وَالثَّانِيَةَ إِلَى (مُبِينٍ) الثَّانِيَةِ وَهَكَذَا إِلَى أَنْ تَنْتَهِيَ الْأَوْرَاقُ السَّبْعَةُ حَتَّى نِهَايَةِ السُّورَةِ فَإِنَّ الْمَسْحُورَ وَالْمَرْبُوطَ يَبْرَأُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذِهِ هِيَ الْأَسْمَاءُ
+
+[رَسْمٌ: سَطْرُ حُرُوفٍ وَأَشْكَالٍ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٦٧]
+
+لِإِبْطَالِ السِّحْرِ وَصَرْفِ الْعَوَارِضِ وَحَلِّ الْمَرْبُوطِ:
+
+اكْتُبِ الْآتِيَ فِي ثَلَاثِ وَرَقَاتٍ وَضَعْ فِيهِمُ الْبُخُورَ: حَبَّةَ الْبَرَكَةِ وَفَاسُوخَ مَغْرِبِيًّا وَشَجَرَةَ مَرْيَمَ وَمُسْتَكَةً وَكُنْدُرًا وَسِدْرًا نَاشِفًا وَتَبَخَّرْ بِهِمُ الْمَرِيضَ وَالْمَسْحُورَ وَالْمَرْبُوطَ وَلِلْعَوَارِضِ وَالرِّيحِ الْأَحْمَرِ وَنُخَلِّفُهُ فَإِنَّهُ يَبْرَأُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذَا مَا
+
+### 2. Latin
+
+Al-fashlur raabi'a 'asyara: ibthaalus sihri wa hallul marbuuthi. Uktubith thalassimal aatiyata fii sab'i waraqaatin abyadha wa dha' fii kulli waraqatin jaawiyyun wa lubaanun dzakarun wa mustakaa wa 'uudul qaliyyi, wa raf'atan fin naari yatalaqqaa dukhaanuhaal mas-huura awil marbuutha waqra' 'alaihaa suurata yasiin (yasiin * wal qur-aanil hakiimi) al-uulaa wats tsaaniyata ilaa (mubiinin) ats tsaaniyati wa haakadzaa ilaa an tantahiyal awraaqus sab'atu hattaa nihaayatis suurati fa-innnal mas-huura wal marbuutha yabra-u bi-idznillaahi ta'aalaa wa haadzihi hiyal asmaa-u.
+
+Libthaalis sihri wa sharfil 'awaaridhi wa hallil marbuuthi: uktubil aatiya fii tsalaatsi waraqaatin wa dha' fiihimul bukhuura: habbatal barakati wa faasuukha maghribiyyan wa syajarata maryama wa mustakatan wa kunduran wa sidran naasyifan wa tabakhkhar bihimul mariidha wal mas-huura wal marbuutha wa lil 'awaaridhi war riihil ahmari wa nukhallifuhu fa-innahu yabra-u bi-idznillaahi ta'aalaa wa haadzaa maa.
+
+### 3. Terjemahan
+
+Fasal keempat belas: membatalkan sihir dan melepaskan (orang) yang terikat. Tulislah «طلاسم» berikut pada tujuh lembar kertas putih, dan letakkan pada setiap lembar: jawi, lubbān (kemenyan jantan), mastika, dan kayu ‘ūd; lalu angkat ke api agar asapnya mengenai orang yang tersihir atau terikat, dan bacakan surah Yasin padanya — (Yasin, demi Al-Qur’an yang penuh hikmah) yang pertama dan yang kedua sampai (mubīn) yang kedua, dan demikian seterusnya sampai tujuh lembar itu habis hingga akhir surah — maka orang yang tersihir dan yang terikat akan sembuh dengan izin Allah—Mahatinggi—dan inilah nama-namanya.
+
+«Untuk membatalkan sihir, menolak ‘āridh, dan melepaskan yang terikat»: tulislah yang berikut pada tiga lembar kertas, dan letakkan padanya bahan bakaran: habbat al-barakah, fāsūkh Maghribi, pohon Maryam, mastika, kundur, dan sidr kering; lalu asapkan kepada orang sakit, yang tersihir, dan yang terikat, juga untuk ‘āridh dan angin merah; kami tinggalkan (sisanya) — karena ia akan sembuh dengan izin Allah—Mahatinggi—dan inilah yang «…»
+
+### 4. Syarah
+
+«طَلَاسِم» = rajahan/tulisan talismanic; «عُودَ الْقَلْي» bisa «العُود القَلْي/القَمَاري»; «وَرَفْعَةً» kemungkinan «وَرَفْعُهُ». «حَتَّى نِهَايَةِ» pada cetakan memakai kasrah pada ha’, dibiarkan.
+
+![Wafaq halaman 67](wafaq_qorin/67.jpg)
+
+«فَاسُوخ» (fāsūkh) adalah nama tumbuhan yang tidak dipastikan identitasnya; «سِدْرًا نَاشِفًا» = sidr kering; «وَنُخَلِّفُهُ» bisa «وَنُخْلِفُهُ» (kami gantikan). Kalimat terakhir menggantung ke halaman 68 — dipertahankan tanpa ditambal.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Menuliskan «طلاسم» pada tujuh lembar kertas putih, masing-masing dengan jawi, lubbān, mastika, dan ‘ūd; dibakar dan asapnya diarahkan ke orang yang tersihir/terikat sambil membaca surah Yasin sampai lembar habis; disertai rajah nama-nama. Lalu bagian kedua: ditulis pada tiga lembar dengan campuran bahan (habbat al-barakah, fāsūkh Maghribi, pohon Maryam, mastika, kundur, sadab kering), dibakar dan diuapkan kepada pasien. Dinisbatkan pada penulis; bukan anjuran medis.
+
+**Media:** Tujuh lembar kertas putih; tiga lembar kertas; rajah nama-nama
+
+**Bukhur:** Jawi, lubbān, mastika, dan ‘ūd; habbat al-barakah, fāsūkh Maghribi, pohon Maryam, mastika, kundur, dan sadab kering
+
+## M68 — Halaman 68, عزم pengusiran dan fadilah kehamilan
+
+### 1. Arab
+
+تَكْتُبُ
+
+[رَسْمٌ: سَطْرُ حُرُوفٍ وَأَشْكَالٍ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٦٨]
+
+انْزِلْ يَا فَارِسُ وَأَنْتَ يَا خَادِمَ هَذَا الْيَوْمِ وَاصْرِفُوا وَاطْرُدُوا الْأَرْوَاحَ السَّوْءَ وَالْعَوَارِضَ وَالْقَرَايِنَ وَالتَّوَابِعَ وَالْمَرَضَ وَكُلَّ شَغْبٍ وَسِحْرٍ وَعَكْسٍ وَعَيْنٍ وَنَفْسٍ وَرِيحٍ أَحْمَرَ وَدَاءٍ أَكْبَرَ وَنَظْرَةِ سَوْءٍ عَنْ هَذَا الْجُثَّةِ الْبَشَرِيَّةِ جُثَّةِ فُلَانِ بْنِ فُلَانَةَ أَوْ فُلَانَةَ بِنْتِ فُلَانَةَ بِحَقِّ سِيهِكْ لَهِكْ وَهِكْ لَهِكْ دَهَكْ رَهَكْ أَنُوخْ يَنُوخْ بَنُوخْ وَبِحَقِّ الِاسْمِ الْأَعْظَمِ أَهْيَا شَرَاهِيَا أَدُونَايْ أَصْبَاؤُتْ آلَ شَرَايْ وَبِحَقِّ بَطْرٍ زَهَجٍ وَاحِ الْعَجَلِ ٣ السَّاعَةَ النَّوَاحَا ٣
+
+فَائِدَةٌ لِلْحَمْلِ:
+
+تُكْتَبُ هَذِهِ الْآيَاتُ وَتُعَلِّقُهَا الْمَرْأَةُ عَلَيْهَا وَيُجَامِعُهَا زَوْجُهَا فَإِنَّهَا تَحْمِلُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذِهِ هِيَ الْآيَاتُ:
+
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+
+(وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا) الم
+
+### 2. Latin
+
+Taktubu. Inzil yaa faarisu wa anta yaa khaadima haadzal yaumi wash rifuu wathrudul arwaahas saw-a wal 'awaaridha wal qaraayina wat tawaabi'a wal maradha wa kulla syaghbin wa sihrin wa 'aksin wa 'ainin wa nafsin wa riihin ahmara wa daa-in akbara wa nazhrati sau-in 'an haadzihil jutstshatil basyariyyati jutstsati fulaanibni fulaanata aw fulaanata binti fulaanata bihaqqi siihik laahik wa hik laahik dahak rahak anuukh yanuukh banuukh wa bihaqqil ismil a'zhzhami ahyaa syaraahiyaa aduunaay ashbaa-uut aala syaraay wa bihaqqi bathrin zahajin waahil 'ajali 3 as-saa'ata an-nawaahaa 3.
+
+Faa-idatun lil hamli: tuktabu haadzihil aayaatu wa tu'alliqahal mar-atu 'alaihaa wa yujaami'uhaa zaujuhaa fa-innahaa tahmilu bi-idznillaahi ta'aalaa wa haadzihi hiyal aayaatu: Bismillaahir rahmaanir rahiim (wa labitsuu fii kahfihim tsalaatsa mi-atin siniina wazdaaduu tis'aa) alif laam miim.
+
+### 3. Terjemahan
+
+«Engkau tulis» [disusul rajah baris huruf dan bentuk]. «Turunlah, hai Faris, dan engkau hai pelayan hari ini; palingkanlah dan usirlah ruh-ruh buruk, ‘āridh, qarin, tābi‘, penyakit, segala kekacauan, sihir, pembalikan, mata (jahat), nafsu, angin merah, penyakit besar, dan pandangan buruk dari tubuh manusia ini — tubuh Fulan bin Fulanah atau Fulanah binti Fulanah — dengan hak «sīhik lāhik wahik lāhik dahak rahak anūkh yanūkh banūkh», dan dengan hak nama yang paling agung «ahyā syarāhiyā adūnāy ashbā’ūt āla syarāy», dan dengan hak «bathr zahaj wāh al-‘ajal» — tiga (kali) — saat ini juga, tiga (kali).
+
+Faedah untuk kehamilan: ayat-ayat ini ditulis dan digantungkan pada perempuan, lalu suaminya menggaulinya, maka ia akan hamil dengan izin Allah—Mahatinggi—dan inilah ayat-ayatnya: Dengan nama Allah Yang Maha Pengasih dan Maha Penyayang. «Dan mereka tinggal di dalam gua mereka tiga ratus tahun, dan mereka tambah sembilan» — Alif Lam Mim.
+
+### 4. Syarah
+
+Rangkaian «سيهك لهك…» dan «اهيا شراهيا…» adalah nama/azimat yang tidak dapat dipastikan huruf dan maknanya; disalin apa adanya dan tidak dikoreksi. «الجثة» di sini dipakai untuk tubuh, bukan jasad. Angka «٣» dipertahankan seperti tercetak.
+
+![Wafaq halaman 68](wafaq_qorin/68.jpg)
+
+«عَلَيْهَا» di sini berarti pada tubuh/perhiasan perempuan; diterjemahkan apa adanya. «وَيُجَامِعُهَا» fi‘l mudhari‘. Ayat yang dikutip adalah QS al-Kahf 18:25, dan «الم» di akhir halaman menyambung ke halaman 69.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Tulisan «تكتب» dengan baris huruf, lalu «عزم» pengusiran (نزل يا فارس…) yang menyebut nama orang dan ibunya, dengan rangkaian nama dan «الأسم الأعظم»; kemudian «فائدة للحمل»: ditulis ayat dan menggantungkannya pada perempuan, lalu berhubungan dengan suaminya. Dinisbatkan pada penulis; tidak ada jaminan kehamilan dan bukan nasihat medis.
+
+Titik baris 1: ف ١ atas · ج ١ bawah · ش ٣ atas · ظ ١ atas · خ ١ atas · ز ١ atas · ف ١ atas · ش ٣ atas · ن ١ atas (rendah) · huruf pertama «تهمصم» bertitik atas (ت؟/ن؟) rendah
+
+Titik baris 2: ل٠ م٠ ق٢أ ن١أ ز١أ ج١ب · غ١أ ه٠ ن١أ ئ٢ ر٠ ص٠ ر٠ ط٠ · ف١أ ف١أ ه٠ ش٣أ ى٠ · ر٠ ا٠ و٠ ل٠ · ف١أ ق٢أ ح٠ م٠ خ١أ د٠ ت٢أ ل٠
+
+Pencatatan bentuk huruf dan titiknya, bukan tafsir asma. Empat butir berkeyakinan rendah: «تهمصم», kelompok empat garis bergaris madda, «غ» (bisa jadi ع bila titiknya kotoran cetak), dan «ن» terakhir baris 1. Pembedaan pasangan tetap: ج/ح/خ dan س/ش dan ط/ظ dan ع/غ dan د/ذ dan ر/ز dan ف/ق tidak disamakan.
+
+**Media:** Rajah dua baris huruf/lambang sesudah kata «taktubu»; bacaan ‘azm pengusiran dengan nama orang dan ibunya serta penanda tiga kali; ayat QS al-Kahf 18:25 dan «Alif Lām Mīm» ditulis lalu digantungkan pada perempuan
+
+## M69 — Halaman 69, lanjutan ayat, uji pada ayam, dan dua wafaq
+
+### 1. Arab
+
+تَخْلُقُكُمْ مِنْ مَاءٍ مَهِينٍ فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ إِلَى قَدَرٍ مَعْلُومٍ فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ.
+
+فَائِدَةٌ لِلْحَمْلِ مَرَّةً أُخْرَى:
+
+وَإِذَا أَرَدْتَ التَّجْرِبَةَ عَلِّقْهَا عَلَى دَجَاجَةٍ فَإِنَّهَا تَبِيضُ وَهِيَ تَحْمِلُ لِأَنَّهَا سِرٌّ عَجِيبٌ وَهَذَا مَا تُكْتَبُ وَيُحْمَلُ بَعْدَ الطُّهْرِ مِنَ الْحَيْضِ
+
+[رَسْمٌ: خُطُوطٌ وَأَشْكَالٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٦٩]
+
+[جَدْوَلَانِ ٤×٤ حُرُوفٌ: (ف ج ا ح / ح ف ج ا / ا ح ف ج / ج ا ح ف) وَ(م و ح س / ح س و م / و م س ح / س ح م و) — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٦٩]
+
+أَنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَى يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ
+
+### 2. Latin
+
+(Takhluqukum min maa-in mahiinin faja'alnaahu fii qaraarin makiinin ilaa qadarin ma'luumin faqadarnaa fani'mal qaadiruun). Faa-idatun lil hamli marratan ukhraa: wa idzaa aradtat tajribata 'alliqhaa 'alaa dajaajatin fa-innahaa tabiidhu wa hiya tahmilu li-annahaa sirrun 'ajiibun wa haadzaa maa tuktabu wa yuhmalu ba'dath thuhri minal haidhi.
+
+(Annallaaha faaliqul habbi wan nawaa yukhrijul hayya minal mayyiti wa yukhrijul mayyita).
+
+### 3. Terjemahan
+
+«Dia menciptakanmu dari air yang hina, lalu Dia menempatkannya di tempat yang kokoh sampai waktu yang ditentukan; lalu Kami tentukan, dan sebaik-baik yang menentukan.» Faedah untuk kehamilan sekali lagi: jika engkau hendak mencoba, gantungkanlah ia pada seekor ayam, maka ayam itu akan bertelur dan (perempuan) itu hamil, karena itu rahasia yang menakjubkan; inilah yang ditulis dan digantung setelah bersih dari haid.
+
+«Sesungguhnya Allah yang membelah butir biji dan biji buah, mengeluarkan yang hidup dari yang mati dan mengeluarkan yang mati «…»»
+
+### 4. Syarah
+
+«فَجَعَلْنَاهُ» pada cetakan «فجعلنا»; «فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ» mengikuti QS al-Mursalat 77:20–23. «تَبِيضُ» bisa «تَبِيض» (bertelur).
+
+![Wafaq halaman 69](wafaq_qorin/69.jpg)
+
+Tabel huruf pada halaman ini sulit dipastikan; tercatat susunan yang tampak dan dinyatakan bahwa sel dan garis harus disalin dari gambar asli, bukan dari tulisan. Kutipan mengacu QS al-An‘am 6:95.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan kutipan (at-Ta’min 23:12–14), lalu «فائدة للحمل مرة أخرى»: menggantungkan tulisan pada ayam Betina agar bertelur, sebagai “percobaan”; disertai **dua tabel/wafaq 4×4 huruf** dan rajah bergambar, serta kutipan «إن الله فالق الحب والنوى».
+
+**Media:** Tulisan yang digantungkan; dua tabel/wafaq 4×4 huruf; rajah bergambar
+
+## M70 — Halaman 70, حجاب kehamilan dan إبطال الأسحار
+
+### 1. Arab
+
+مِنَ الْحَيِّ ذَلِكُمُ اللَّهُ رَبُّكُمْ فَأَنَّى تُؤْفَكُونَ.
+
+حَمْلُ حِجَابٍ بَعْدَ الطُّهْرِ مِنَ الْحَيْضِ مُبَاشَرَةً وَيُعْمَلُ عَدَدُ ٣ أَطْبَاقٍ وَيُنَجَّمُ تَحْتَ السَّمَاءِ وَتُشْرَبُ كُلَّ يَوْمٍ وَاحِدٌ قَبْلَ الْإِفْطَارِ فَإِنَّهَا تَحْمِلُ بِإِذْنِ اللَّهِ
+
+إِبْطَالُ الْأَسْحَارِ:
+
+تُكْتَبُ عَلَى الْكَفِّ الْيَمِينِ مَا بَانِي ☆ ف ق ج ثُمَّ تُكْتَبُ عَلَى الْكَفِّ الشِّمَالِ ☆ م خ م ت ثُمَّ ضَعِ الْكَفَّيْنِ مَفْتُوحَتَيْنِ عَلَى الْبُخُورِ جَاوِي وَكَبِيرَةٍ وَكَنْدُرٍ ثُمَّ تَقْرَأُ قَوْلَهُ تَعَالَى: (قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ) إِلَى آخِرِ سُورَةِ يس حَتَّى تَنْطِقَ الْكَفُوفُ وَأْمُرْ بِفَكِّ السِّحْرِ وَفَكِّ الْمَرْبُوطِ تَنْزِلُ الْكَفَّيْنِ عَلَى الذَّكَرِ فَإِنَّهُ يَنْحَلُّ السِّحْرُ.
+
+لِلْحَمْلِ:
+
+لِلْمَرْأَةِ الَّتِي لَمْ تَحْمِلْ وَلَمْ يَعِشْ لَهَا الْأَوْلَادُ يُكْتَبُ لَهَا هَذَا الْحِرْزُ وَتَحْمِلُهُ بَعْدَ الطُّهْرِ مِنَ الْحَيْضِ فَإِنَّهَا تَحْمِلُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذَا مَا تُكْتَبُ
+
+[رَسْمٌ: حُرُوفٌ وَأَشْكَالٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٧٠]
+
+### 2. Latin
+
+(Minal hayyi dzaalikumul laahu rabbukum fa-annaa tu'fakuun). Hamlu hijaabin ba'dath thuhri minal haidhi mubaasyaratan wa yu'malu 'adadu 3 athbaaqin wa yunajjamu tahtas samaa-i wa tusyrabu kulla yaumin waahidun qablal ifthaari fa-innahaa tahmilu bi-idznillaahi.
+
+Ibthaalul as-haari: tuktabu 'alalkaffil yamiini maa baani (bintang) fa qaaf jim, tsumma tuktabu 'alal kaffisy syimaali (bintang) mim kha mim ta, tsumma dha'il kaffaini maftuuhataini 'alal bukhuuri jaawiyyin wa kabii ratin wa kundurin tsumma taqra-u qaulahu ta'aalaa: (qaala man yuhyil 'izhaama wa hiya ramiimun) ilaa aakhirisy syuurati hattaa tanthiqal kufuufu. Wa'mur bifakkil sihri wa fakkil marbuuthi tanzilul kaffaini 'aladz dzakari fa-innahu yanhallus sihru. Lil hamli: lil mar-atil latii lam tahmil wa lam ya'isy lahal aulaadu yuktabu lahaa haadzal hirzu wa tahmiluhu ba'dath thuhri minal haidhi fa-innahaa tahmilu bi-idznillaahi ta'aalaa wa haadzaa maa tuktabu.
+
+### 3. Terjemahan
+
+«…»dari yang hidup. Itulah Allah, Tuhanmu; maka bagaimana kamu dapat dipalingkan?» Menggunakan hijab setelah bersih dari haid secara langsung; dibuat tiga «طبق» (lapisan/cawan) dan dijemur di bawah langit, lalu diminum satu setiap hari sebelum berbuka, maka ia akan hamil dengan izin Allah.
+
+«Membatalkan sihir»: ditulis pada telapak tangan kanan «ما باني» diikuti tanda bintang dan huruf ف ق ج; lalu pada telapak kiri tanda bintang dan huruf م خ م ت; kemudian kedua telapak diletakkan terbuka di atas bakaran (jawi, kayu besar, kundur); lalu engkau membaca firman-Nya: «Dia berkata, siapa yang dapat menghidupkan tulang-belulang padahal sudah hancur?» sampai akhir surah Yasin, hingga kedua telapak “berbicara”; lalu perintahkan agar sihir dan ikatan terurai, dan turunkan kedua telapak pada kemaluan, maka sihir itu akan terurai. Untuk kehamilan: bagi perempuan yang belum pernah hamil dan belum punya anak yang hidup, dituliskan jimat ini dan ia menggantungnya setelah bersih dari haid, maka ia akan hamil dengan izin Allah—Mahatinggi; inilah yang ditulis.
+
+### 4. Syarah
+
+«يُنَجَّمُ» tidak baku; kemungkinan «يُنَجَّم» = dijemur di bawah bintang/langit, dan dicatat sebagai bacaan terbuka. «أَطْبَاق» jamak «طبق».
+
+![Wafaq halaman 70](wafaq_qorin/70.jpg)
+
+«مَا بَانِي» adalah rangkaian azimat yang tidak dapat dipastikan maknanya; «أْمُرْ» kemungkinan «وَأْمُرْ». «الذَّكَر» di sini bermakna kemaluan; diterjemahkan netral.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+«حمل حجاب» setelah bersih dari haid, membuat tiga «اطباق» dan menjemurnya di bawah langit, diminum satu setiap hari sebelum berbuka; lalu «إبطال الأسحار»: ditulis huruf pada kedua telapak tangan, meletakkannya di atas bakaran, membaca «قال من يحيي العظام وهي رميم» sampai akhir surah Yasin hingga telapak “berbicara”, lalu meletakkannya pada kemaluan agar sihir terurai; ditutup dengan «للحمل» bagi perempuan yang belum hamil dan belum punya anak hidup. Dinisbatkan pada penulis; tidak ada jaminan.
+
+**Waktu:** Langsung sesudah bersih dari haid; satu aṭbāq diminum setiap hari sebelum berbuka; ḥirz penutup juga digantung sesudah bersih dari haid
+
+**Media:** Tiga aṭbāq dibuat dan dijemur di bawah langit; telapak kanan: «mā bānī» ☆ ف ق ج; telapak kiri: ☆ م خ م ت; kedua telapak terbuka di atas bakaran sambil membaca QS Yā-Sīn 36:78 sampai akhir surah; rajah tiga baris huruf berloop/lambang untuk ḥirz kehamilan
+
+**Bukhur:** Jāwī, kabīrah, dan kundur
+
+## M71 — Halaman 71, حرف الطاء dan kotak berlambang ط
+
+### 1. Arab
+
+فَائِدَةٌ لِعَدَمِ سُقُوطِ الْجَنِينِ:
+
+يُكْتَبُ وَيُحْمَلُ وَحَوْلَهُ آيَاتُ الْحِفْظِ وَمَا يُنَاسِبُ.
+
+اعْلَمْ أَنَّ مِنْ أَسْرَارِ حَرْفِ الطَّاءِ أَنَّ مَنْ كَتَبَهَا هَكَذَا وَكَتَبَ حَوْلَهَا (طسم) مِائَةَ مَرَّةٍ وَتِسْعَةً ١٠٩ ثُمَّ كَتَبَ حَوْلَهُ الْبَسْمَلَةَ وَفِي ذَلِكَ فِي الشَّهْرِ الثَّالِثِ مِنْ حَمْلِ الْمَرْأَةِ. وَبَعْدَ وَضْعِ الْمَوْلُودِ تَرْفَعُهُ مِنْ عَلَيْهَا وَتُلْبِسُهُ لِلْمَوْلُودِ فَإِنَّهُ يُحْفَظُ مِنَ الْقَرَايِنِ وَالتَّوَابِعِ وَالْعَوَارِضِ وَخِلَافِهِ. مُجَرَّبٌ صَحِيحٌ
+
+[رَسْمٌ: مُسْتَطِيلٌ فِيهِ خُطُوطٌ مُتَقَاطِعَةٌ وَحَرْفُ «ط» فِي جَوَانِبِهِ السِّتَّةِ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٧١]
+
+فَائِدَةٌ لِلْحَمْلِ:
+
+تُكْتَبُ هَذِهِ الْآيَاتُ وَقْتَ الظُّهْرِ فِي يَوْمٍ سَعِيدٍ وَتُحْمَى بِلَيْنِ مَاعِزٍ تَكُونُ سَوْدَاءَ وَتَشْرَبُهَا الْمَرْأَةُ بَعْدَ الطُّهْرِ مِنَ الْحَيْضِ
+
+### 2. Latin
+
+Faa-idatun li'adami suquuthil janii ni: yuktabu wa yuhmalu wa haulahu aayaatul hifzhi wa maa yunaasibu. I'lam anna min asraari harfith thaa-i anna man katabahaa haakadzaa wa kataba haulahaa (thaasin) mi-ata marratin wa tis'atan 109 tsumma kataba haulahul basmala wa fii dzaalika fish syahril tsaalitsi min hamlil mar-ati. Wa ba'da wadh'il mauluudi tarfa'uhu min 'alaihaa wa tulbisuhu lil mauluudi fa-innahu yuhfazhu minal qaraayini wat tawaabi'i wal 'awaaridhi wa khilaafihi. Mujarrabun shahiihun.
+
+Faa-idatun lil hamli: tuktabu haadzihil aayaatu waqtazh zhuhri fii yaumin sa'iidin wa tuhmaa bilibni maa'izin takuunu saudaA-a wa tasyrabuhal mar-atu ba'dath thuhri minal haidhi.
+
+### 3. Terjemahan
+
+Faedah agar janin tidak gugur: ditulis dan digantung, dengan ayat-ayat penjagaan dan yang sesuai di sekelilingnya. Ketahuilah bahwa di antara rahasia huruf ط: siapa yang menulisnya seperti ini dan menulis «طسم» di sekelilingnya seratus sembilan kali (109), lalu menulis basmalah di sekelilingnya — dan itu dilakukan pada bulan ketiga kehamilan perempuan. Setelah bayi lahir, ia mengangkatnya dari (tubuh) perempuan itu dan memakaikannya kepada bayi, maka bayi terjaga dari qarin, tābi‘, ‘āridh, dan selainnya. Sudah dicoba dan sahih (menurut penulis).
+
+Faedah untuk kehamilan: ayat-ayat ini ditulis pada waktu zuhur di hari yang baik, lalu dipanaskan dengan lemak kambing yang berwarna hitam, dan diminum oleh perempuan setelah bersih dari haid.
+
+### 4. Syarah
+
+«طسم» adalah huruf pembuka surah; angka ١٠٩ tertulis dengan angka Arab dan juga lafaz «مِائَةَ مَرَّةٍ وَتِسْعَةً». «مُجَرَّبٌ صَحِيحٌ» klaim penulis, bukan hasil pengujian.
+
+![Wafaq halaman 71](wafaq_qorin/71.jpg)
+
+«بِلَيْنِ مَاعِزٍ» pada cetakan; lazimnya «لَيِّن/شَحْم» — dipertahankan dan ditandai. «يَوْمٍ سَعِيد» = hari yang baik.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+«fā’idah li-‘adam suqūṭ al-janīn» — huruf ṭā’ ditulis dengan ayat-ayat penjagaan di sekelilingnya, «ṭa sīn mīm» ditulis 109 kali mengelilinginya, lalu basmalah ditulis mengelilinginya; itu pada bulan ketiga kehamilan, dan sesudah bayi lahir tulisan dipindahkan dari perempuan kepada bayi.
+
+**Waktu:** Bulan ketiga kehamilan (faidah janin), lalu tulisan dipindahkan kepada bayi sesudah lahir; faidah kehamilan: waktu Zuhur pada hari yang baik («yawm sa‘īd») dan diminum sesudah bersih dari haid
+
+**Media:** Tulisan huruf ṭā’ dengan ayat-ayat penjagaan di sekelilingnya, «ṭa sīn mīm» 109 kali dan basmalah mengelilinginya; rajah persegi panjang berbelah ketupat dengan delapan posisi ṭā’; ayat faidah kehamilan dipanaskan dengan bahan dari kambing hitam yang zat persisnya tidak dipastikan
+
+## M72 — Halaman 72, lanjutan tulisan kehamilan dan rajah
+
+### 1. Arab
+
+فَإِنَّهَا تَحْمِلُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذَا مَا يُكْتَبُ) يُكْتَبُ أَيْضًا وَيُحْمَلُ (الْبَسْمَلَةُ وَالتَّصْلِيَةُ وَالْفَاتِحَةُ ف ج ش ث ظ خ ز جَبَّارٌ شَكُورٌ ثَابِتٌ ظَهِيرٌ خَبِيرٌ ذَكِيٌّ وَالْحَوْقَلَةُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ الم اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ إِلَى الْعَزِيزِ - فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ إِلَى حِسَابٍ (سُورَةُ آلِ عِمْرَانَ) قَالَ رَبِّ أَنَّى يَكُونُ لِي غُلَامٌ وَقَدْ بَلَغَنِيَ الْكِبَرُ وَامْرَأَتِي عَاقِرٌ قَالَ كَذَلِكَ اللَّهُ يَفْعَلُ مَا يَشَاءُ قَالَ رَبِّ اجْعَلْ لِي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَةَ أَيَّامٍ إِلَّا رَمْزًا إِلَى (آلِ عِمْرَانَ) وَهَذَا الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا فَلَمَّا تَغَشَّاهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِ الشَّاكِرِينَ (الْأَعْرَافَ)
+
+[رَسْمٌ: خُطُوطٌ وَأَشْكَالٌ فِي وَسَطِ الصَّفْحَةِ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٧٢]
+
+ذِكْرُ رَحْمَةِ رَبِّكَ زَكَرِيَّا إِلَى مَقْضِيًّا فَحَمَلَتْهُ بِإِذْنِ اللَّهِ فَحَمَلَتْهُ بِقُدْرَةِ اللَّهِ فَحَمَلَتْهُ بِلُطْفِ اللَّهِ فَحَمَلَتْهُ بِلَا حَوْلٍ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ فَحَمَلَتْهُ إِلَى مَنْسِيًّا أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا إِلَى يُؤْمِنُونَ. وَزَكَرِيَّا إِذْ نَادَى رَبَّهُ رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ يَا
+
+### 2. Latin
+
+Fa-innahaa tahmilu bi-idznillaahi ta'aalaa wa haadzaa maa yuktabu. Yuktabu aidhan wa yuhmalu: al-basmalatu wats tashliyatu wal faatiha(tu), fa jim syin ts (tsa) zh (zha) kha z (zai), jabbaarun syakuurun tsaabitun zhahiirun khabiirun dzakiyyun, wal haugalatu. Bismillaahir rahmaanir rahiim, alif laam miim, Allaahu laa ilaaha illaa huwal hayyul qayyuumu ilal 'aziizi - fataqabbalahaa rabbuhaa biqabuulin hasanin ilaa hisaabin (suuratu aali 'imraana) qaala rabbi annaa yakuunu lii ghulaamun wa qad balaghaniyal kibaru wamra-atii 'aaqirun qaala kadzaalikallaahu yaf'alu maa yasyaa-u qaala rabbij 'al lii aayatan qaala aayatuka allaa tukalliman naasa tsalaatsata ayyaamin illaa ramzan ilaa (aali 'imraana) wa haadzal ladzii khalaqakum min nafsin waahidatin wa ja'ala minhaa zaujahaa liyaskuna ilaihaa falammaa taghasysyaahaa hamalat hamlan khafiifan famarrat bihisy syaakiriina (al-a'raafa).
+
+Dzikru rahmati rabbika zakariyyaa ilaa maqdhiyyan fahamalat-hu bi-idznillaahi fahamalat-hu biqudratillaahi fahamalat-hu biluthfillaahi fahamalat-hu bilaa haulin wa laa quwwata illaa billaahil 'aliyyil 'azhiimi fahamalat-hu ilaa mansiyyan. Awa lam yaral ladziina kafaruu annas samaawaati wal ardha kaanataa ratqan fafataqnaahumaa ilaa yu'minuuna. Wa zakariyyaa idz naadaa rabbahu rabbi laa tadzarnii fardan wa anta khairul waaritsiina yaa.
+
+### 3. Terjemahan
+
+Maka ia akan hamil dengan izin Allah—Mahatinggi; dan inilah yang ditulis. Ditulis pula dan digantung: basmalah, «التصلية» (selawat), dan al-Fatihah; (lalu) huruf ف ج ش ث ظ خ ز; «Jabbār, Syakūr, Tsābit, Zhahīr, Khabīr, Dzaki»; serta hauqalah. Dengan nama Allah Yang Maha Pengasih dan Maha Penyayang. Alif Lam Mim. Allah, tiada tuhan selain Dia, Yang Hidup, Yang Berdiri sendiri, sampai (nama) Yang Mahaperkasa. «Maka Tuhannya menerimanya dengan penerimaan yang baik» sampai «dengan perhitungan» (surah Ali Imran). «Ia berkata, Tuhanku, bagaimana mungkin aku punya anak, padahal aku sudah tua dan istriku mandul? Dia berkata, demikianlah Allah melakukan apa yang Dia kehendaki. Ia berkata, Tuhanku, berilah aku tanda. Dia berkata, tandamu adalah engkau tidak berbicara kepada manusia selama tiga hari kecuali dengan isyarat» sampai (Ali Imran). «Dialah yang menciptakanmu dari satu jiwa dan menjadikan darinya pasangannya agar ia merasa tenang kepadanya; maka ketika ia mencampurinya, ia mengandung dengan ringan lalu berjalan dengannya» sampai «orang-orang yang bersyukur» (al-A‘raf).
+
+«(Ini adalah) penyebutan rahmat Tuhanmu kepada Zakaria» sampai «yang telah ditetapkan»; lalu «maka ia mengandungnya dengan izin Allah, dengan kekuasaan Allah, dengan kelembutan Allah, dengan (menyebut) tiada daya dan kekuatan kecuali dengan (pertolongan) Allah Yang Mahatinggi lagi Mahaagung, ia mengandungnya» sampai «yang dilupakan». «Apakah orang-orang kafir tidak melihat bahwa langit dan bumi dahulu merupakan satu yang padu, lalu Kami pisahkan keduanya» sampai «beriman». «Dan Zakaria, ketika ia menyeru Tuhannya: Tuhanku, jangan biarkan aku sendiri, dan Engkaulah sebaik-baik pewaris» — Wahai «…»
+
+### 4. Syarah
+
+«التَّصْلِيَة» ditulis «التصلية»; «ظ خ» pada deret huruf dibaca «ظ خ ز» dan itu terbuka. Kutipan Ali Imran 3:37–41 dan al-A‘raf 7:189; «إِلَى حِسَابٍ» memotong ayat di tengah dan dibiarkan.
+
+![Wafaq halaman 72](wafaq_qorin/72.jpg)
+
+Susunan «فحملته بإذن الله فحملته بقدرة الله…» adalah rangkaian qasam penulis, bukan ayat; pisahkan dari kutipan Quran dalam terjemahan. «مَقْضِيًّا» menyambung potongan QS Maryam 19:2–4 dan lanjut QS al-Anbiya 21:30, 21:89.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan tulisan kehamilan — basmalah, «التصلية», al-Fatihah, deretan huruf, hauqalah, potongan QS Ali Imran (3:37–41), al-A‘raf (7:189), dan potongan ayat lain; disertai rajah bergambar di tengah halaman.
+
+B1-1 bulan sabit besar (kanan) — tanpa titik
+
+B1-2 bulan sabit sedang — tanpa titik
+
+B1-3 bulan sabit kecil — tanpa titik
+
+B1-4 bulatan kecil menembus garis — lambang, lingkaran ini bukan titik huruf
+
+B1-5 lengkung angka-delapan menembus garis — lambang, tanpa titik
+
+B1-6 kail berlingkar di ujung kiri — (ه ؟) rendah, tanpa titik
+
+**Media:** Tulisan berisi basmalah, taṣliyah, al-Fātiḥah, deretan huruf, ḥauqalah, dan potongan Āli ‘Imrān 3:37–41, al-A‘rāf 7:189, serta ayat lain; enam unsur grafis tanpa petak
+
+## M73 — Halaman 73, ayat penciptaan dan tulisan pada mangkuk
+
+### 1. Arab
+
+يَا أَيُّهَا النَّاسُ إِنْ كُنْتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ إِلَى الْخَالِقِينَ هُوَ الَّذِي خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوا أَشُدَّكُمْ ثُمَّ لِتَكُونُوا شُيُوخًا الم مِنْ تِلْكَ نُطْفَةٍ مِنْ مَنِيٍّ يُمْنَى ثُمَّ كَانَ عَلَقَةً مُخَلَّقَةً فَسَوَّى وَصَوَّرَهُ لَمْ يَكُنْ كَلَّمَا. وَحَمَلَهَا عَلَى بَطْنِهَا أَوْ عَلَى ظَهْرِهَا مُجَرَّبٌ
+
+فَائِدَةٌ لِلْحَمْلِ:
+
+تُكْتَبُ مَا يَأْتِي فِي صَحْنٍ صِينِيٍّ فِي وَقْتِ التَّطَهُّرِ مِنَ الْحَيْضِ وَتُحْفَرُ الْكِتَابَةُ بِلَبَنِ عَنْزَةٍ سَوْدَاءَ فَإِنَّ اللَّهَ تَعَالَى يَجْعَلُ فِيهَا الْحَمْلَ وَهَذَا مَا تُكْتَبُ.
+
+الْبَسْمَلَةُ وَصَلْعَمْ وَسُورَةُ الْفَاتِحَةِ ف ج ش تَخْتَخِرْ [رَسْمٌ: حُرُوفٌ وَأَشْكَالٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٧٣] وَالْحَوْقَلَةُ وَأَوَّلُ سُورَةِ آلِ عِمْرَانَ الَّتِي الْحَكِيمُ. فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ إِلَى بِغَيْرِ حِسَابٍ « قَالَ رَبِّ أَنَّى يَكُونُ غُلَامٌ إِلَى الْأَبْصَارِ (آلِ عِمْرَانَ) هُوَ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا إِلَى الشَّاهِدِينَ (الْأَعْرَافِ) كهيعص إِلَى وَعَشِيًّا (مَرْيَمَ) قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ إِلَى حَمَلَتْهُ بِإِذْنِ اللَّهِ فَحَمَلَتْهُ بِقُدْرَةِ اللَّهِ فَحَمَلَتْهُ بِلُطْفِ اللَّهِ
+
+### 2. Latin
+
+Yaa ayyuhan naasu in kuntum fii raibin minal ba'tsi ilal khaaliqiina huwal ladzii khalaqakum min turaabin tsumma min nuthfatin tsumma min 'alaqatin tsumma nukhrijukum thiflan tsumma litablughuu asyuddakum tsumma litakuunuu syuyuukhan, alif laam miim, min tilka nuthfatin min maniyyin yumnaa tsumma kaana 'alaqatan mukhallaqatan fasawwaa wa shawwarahu lam yakun kallamaa. Wa hamalahaa 'alaa bathnihaa aw 'alaa zhahrihaa mujarrabun.
+
+Faa-idatun lil hamli: tuktabu maa ya'tii fii shah nin shiiniyyin fii waqtit tathahhuri minal haidhi wa tuhfarul kitaabatu bilibni 'anzatin saudaA-a fa-innallaaha ta'aalaa yaj'alu fiihal hamla wa haadzaa maa tuktabu: al-basmalatu wa shal'am wa suuratul faatiha(ti) fa jim syin takhtakhir wal haugalatu wa awwalu suurati aali 'imraana allatii (al-hakiimu). Fataqabbalahaa rabbuhaa biqabuulin hasanin ilaa bighairi hisaabin « qaala rabbi annaa yakuunu ghulaamun ilal abshaari (aali 'imraana) huwal ladzii khalaqakum min nafsin waahidatin wa ja'ala minhaa zaujahaa ilasy syaahidiina (al-a'raafi) kaaf haa yaa 'ain shaad ilaa wa 'asyiyyan (maryama) qaala innamaa ana rasuulu rabbiki ilaa hamalat-hu bi-idznillaahi fahamalat-hu biqudratillaahi fahamalat-hu biluthfillaahi.
+
+### 3. Terjemahan
+
+«Wahai manusia, jika kamu ragu tentang kebangkitan, (maka ketahuilah) kepada Yang Menciptakan: Dialah yang menciptakanmu dari tanah, kemudian dari setetes air, kemudian dari segumpal darah, kemudian Dia mengeluarkanmu sebagai bayi, kemudian (agar) kamu sampai dewasa, kemudian menjadi orang tua» — Alif Lam Mim. «Dari setetes air yang dipancarkan, kemudian menjadi segumpal darah yang sempurna, lalu Dia menyempurnakan dan membentuknya» sampai «tidaklah demikian». Dan menggantungnya pada perutnya atau pada punggungnya — sudah dicoba (menurut penulis).
+
+Faedah untuk kehamilan: yang berikut ditulis pada mangkuk porselen pada waktu bersih dari haid, dan tulisannya diukir dengan susu kambing hitam, karena Allah—Mahatinggi—akan menjadikan kehamilan padanya; inilah yang ditulis: basmalah, «صلعم», dan surah al-Fatihah; (lalu) huruf ف ج ش «تختخر»; hauqalah; dan awal surah Ali Imran yang «al-Hakim». «Maka Tuhannya menerimanya dengan penerimaan yang baik» sampai «tanpa perhitungan». «Ia berkata, Tuhanku, bagaimana mungkin ada anak» sampai «pandangan» (Ali Imran). «Dialah yang menciptakanmu dari satu jiwa dan menjadikan darinya pasangannya» sampai «yang menyaksikan» (al-A‘raf). «Kaf Ha Ya ‘Ain Shad» sampai «dan petang» (Maryam). «Ia berkata, aku hanyalah utusan Tuhanmu» sampai «ia mengandungnya dengan izin Allah, dengan kekuasaan Allah, dengan kelembutan Allah».
+
+### 4. Syarah
+
+Kutipan ini sebenarnya QS al-Hajj 22:5 dan al-Qiyamah 75:37–40 serta al-Insan, tetapi disusun sebagai rangkaian; dicatat tanpa ditambal. «لَمْ يَكُنْ كَلَّمَا» potongan yang tidak utuh.
+
+![Wafaq halaman 73](wafaq_qorin/73.jpg)
+
+«صَلْعَمْ» adalah singkatan selawat yang lazim di cetakan Melayu/Nusantara; dibiarkan dan tidak menjabarkannya. «تَخْتَخِرْ» tidak dapat dipastikan; «الَّتِي الْحَكِيمُ» susunannya rusak (mestinya «الْحَكِيم» sebagai sifat) dan dibiarkan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan kutipan QS al-Hajj 22:5, al-Qiyamah, dan al-Insan tentang penciptaan; lalu «فائدة للحمل»: ditulis pada mangkuk porselen pada waktu bersih dari haid, mengukir tulisan dengan susu kambing hitam; disertai rajah bergambar dan rangkaian ayat (al-Fatihah, Ali Imran, al-A‘raf, Maryam).
+
+**Waktu:** Saat bersih dari haid
+
+**Media:** Mangkuk porselen; tulisan dengan susu kambing hitam menurut uraian sumber; rangkaian ayat penciptaan dan ayat kehamilan; rajah lambang
+
+## M74 — Halaman 74, tulisan untuk manusia dan hewan, dan rajah penutup
+
+### 1. Arab
+
+فَحَمَلَتْهُ بِلَا حَوْلٍ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ.
+
+(غَيْرَةٌ مُجَرَّبٌ) لِلْمَرْأَةِ الَّتِي لَمْ تَحْمِلْ وَالْفَرَسِ وَالنَّاقَةِ وَالْبَقَرَةِ وَالْخَيْلِ وَجَمِيعِ الْأَشْجَارِ تُكْتَبُ هَذِهِ الْأَسْمَاءُ وَأَنْتَ طَاهِرٌ وَيُعَلَّقُ عَلَيْهَا فَإِنَّهُمْ يَحْمِلُونَ بِإِذْنِ اللَّهِ تَعَالَى وَهِيَ هَذِهِ الْأَسْمَاءُ الَّتِي تُكْتَبُ.
+
+أَنَا عَدَدٌ ١١ = أَنَا ٤ امْرَةٌ هُوَ ١٢ مَرَّةً يَاهْ يَاهُ بَاهُو
+
+٩٩٩٩٩٩٩٩٩٩٩٩٩٩ يه يه يه يه يه يه يه يه يه يه يه يه يه يه يه يه
+
+(غَيْرُهُ لِلْحَمْلِ مُجَرَّبٌ) اكتب هذه الأسماء في نُسْخَتَيْنِ وَاحِدَةً يَحْمِلُهَا الرَّجُلُ وَالثَّانِيَةَ تَحْمِلُهَا الْمَرْأَةُ فَإِنَّ اللَّهَ تَعَالَى يُعْطِيهِمُ الْحَمْلَ بِإِذْنِ اللَّهِ تَعَالَى الْبَسْمَلَةُ
+
+[رَسْمٌ كَبِيرٌ: أَشْكَالٌ وَحُرُوفٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٧٤]
+
+فَرْدٌ حَكَمٌ قِدْهَا قُدُّوسٌ حَجَسٌ قَيُّومٌ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ
+
+### 2. Latin
+
+Fahamalat-hu bilaa haulin wa laa quwwata illaa billaahil 'aliyyil 'azhiimi. (Ghairatun mujarrabun) lil mar-atil latii lam tahmil wal farasi wan naaqati wal baqarati wal khaili wa jamii'il asyjaari tuktabu haadzihil asmaa-u wa anta thaahirun wa yu'allaqu 'alaihaa fa-innahum yahmiluuna bi-idznillaahi ta'aalaa wa hiya haadzihid asmaa-ul latii tuktabu.
+
+Ana 'adadun 11 = ana 4 imratun huwa 12 marratan yaah yaahu baahu. (sembilan«…») yah yah yah (berulang). (Ghairuhu lil hamli mujarrabun) uktub haadzihil asmaa-a fii nuskhataini waahidatan yahmiluhar rajulu wats tsaaniyata tahmiluhal mar-atu fa-innallaaha ta'aalaa yu'thiihimul hamla bi-idznillaahi ta'aalaa al-basmalatu. Fardun hakamun qidhaa qudduusun hajasun qayyuumun wa laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiimi.
+
+### 3. Terjemahan
+
+«Maka ia mengandungnya dengan (menyebut) tiada daya dan kekuatan kecuali dengan (pertolongan) Allah Yang Mahatinggi lagi Mahaagung.» (Kecemburuan yang sudah dicoba) — untuk perempuan yang belum hamil, juga kuda, unta, sapi, kuda (lain), dan semua pohon: nama-nama ini ditulis sedang engkau dalam keadaan suci, lalu digantungkan padanya, maka mereka akan “mengandung” dengan izin Allah—Mahatinggi; dan inilah nama-nama yang ditulis.
+
+«Aku berjumlah 11 = aku 4, perempuan itu, ia 12 kali, yāh yāhu bāhu»; (deret angka sembilan) dan «yah yah «…»» berulang-ulang. (Yang lain, untuk kehamilan, sudah dicoba): tulis nama-nama ini dalam dua naskah — satu dibawa lelaki dan yang kedua dibawa perempuan — maka Allah—Mahatinggi—akan memberi mereka kehamilan dengan izin-Nya; (diawali) basmalah. «Fard, Hakam, Qidhā, Quddūs, Hajas, Qayyūm» dan tiada daya serta kekuatan kecuali dengan (pertolongan) Allah Yang Mahatinggi lagi Mahaagung.
+
+### 4. Syarah
+
+«غَيْرَة» di sini bukan “cemburu” dalam makna biasa, melainkan judul praktik; diterjemahkan harfiah dan dijelaskan. «وَالْخَيْلِ» setelah «الْفَرَس» tampak pengulangan; dibiarkan.
+
+![Wafaq halaman 74](wafaq_qorin/74.jpg)
+
+«امْرَةٌ» kemungkinan «امرأة»; «نُسْخَتَيْن» ditulis «نستختين» pada cetakan — dibaca «نُسْخَتَيْن» dan dinyatakan. Deret angka ٩ dan «يه» adalah elemen azimat, bukan bilangan yang dapat dihitung; tidak ditafsirkan. «قِدْهَا/حَجَس» tidak dapat dipastikan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+«غيرة مجرب» — nama-nama ditulis dan digantungkan untuk perempuan yang belum hamil, juga untuk kuda, unta, sapi, dan pohon; lalu rangkaian «أنا عدد ١١ …» dan «يه يه …»; kemudian «غيره للحمل مجرب» — dua naskah nama, satu dibawa lelaki dan satu dibawa perempuan; ditutup dengan rajah besar bergambar dan «فرد حكم قدها قدوس حجس قيوم».
+
+B1 — baris 1: ±5 unit kaligrafis («بسم الله» bergaya) + ekor panjang; 2 bulatan di ujung kiri
+
+B2 — baris 2: ±10 unit loop + lingkaran di puncak; diselingi «ۥ» dan satu unit «٥» (؟)
+
+B3 — baris 3: ±9 unit loop + lingkaran; dua unit berlekuk
+
+B4 — baris 4: ±8 unit bertangkai pendek (mirip «م/ع/د/ر»)
+
+B5 — baris 5: 4 unit besar berloop dengan ekor
+
+**Media:** Nama-nama ditulis lalu digantungkan; dua naskah nama masing-masing dibawa lelaki dan perempuan; rajah penutup besar tanpa petak
+
+## M75 — Halaman 75, Fasal Kelima Belas: احتراق العارض dan استحضار
+
+### 1. Arab
+
+الْفَصْلُ الْخَامِسَ عَشَرَ
+
+احْتِرَاقُ الْعَارِضِ
+
+تَقُولُ: احْرِقْ مِنْ عَصْرٍ يَاطُوشْ ٢ طُوشْ ٢ عَرْمَا هَرَشْ ٢ هَمْطُوشْ ٢ احْرِقِ الْجِنَّ وَالْعَارِضَ وَالْقَرِينَ وَالضَّرَبَةَ وَالطَّارِقَ ضَرِيبَ الرَّمَدِ ضَرِيبَ النَّسَمِ السَّوْءِ ضَرِيحَ لَمْفَقْنَجِلْ مَهْرِيجَ مَهْمَا كَانَ مِنْ هَذِهِ الْجُثَّةِ فُلَانِ ابْنِ فُلَانَةَ بَارَكَ فِيكُمْ وَعَلَيْكُمْ. الْبَخُورُ عَنْكَبُوتٌ وَكَبَرْبَرَةٌ عِنْدَ غُرُوبِ الشَّمْسِ قَبْلَ الْغُرُوبِ
+
+اسْتِحْضَارُ فَرْدٍ مِنْ أَفْرَادِ الْجِنِّ:
+
+أَوَّلًا تَدْخُلُ مَكَانًا طَاهِرًا وَأَنْتَ طَاهِرُ الْبَدَنِ وَالثَّوْبِ وَتُغْلِقُ الْمَكَانَ جَيِّدًا بِحَيْثُ إِنْ لَا يَدْخُلَهُ أَيُّ نُورٍ قَطُّ وَلَا مِنْ ثُقْبِ الْكَوَّانِ يَكُونُ مَسْدُودٌ أَيْضًا ثُمَّ تَقِفُ وَتَسْتَقْبِلُ الْقِبْلَةَ بِخُضُوعٍ وَخُشُوعٍ ثُمَّ تَقُولُ: مَا شَاءَ اللَّهُ عَدَدَ ٣ – لَا إِلَهَ إِلَّا اللَّهُ ٧ – لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ عَدَدَ ٧ – سُورَةُ الْجِنِّ عَدَدَ ٧
+
+### 2. Latin
+
+Al-fashlul khaamisa 'asyara: ihtiraaqul 'aaridhi. Taquulu: ahriq min 'ashrin yaathuutsy 2 thuutsy 2 'armaa harasy 2 hamthuutsy 2 ahriqil jinna wal 'aaridha wal qariina wadh dharabata wath thaariqa dhareeba rramadi dhareeba nnasami s-saw-i dhareeha lamfaqnanjil mahriija mahmaa kaana min haadzihil jutstsati fulaanibni fulaanata baaraka fiikum wa 'alaikum. Al-bukhuuru 'ankabuutun wa kabarbaratun 'inda ghuruubisy syamsi qablal ghuruubi.
+
+Istihdhaaru fardin min afraadil jinni: awwalan tadkhulu makaanan thaahiran wa anta thaahiru badani wats tsaubi wa tughlikul makaana jayyidan bihaitsu in laa yadkhulahu ayyu nuurin qatthun wa laa min tsuqbil kawwaani yakuunu masduudun aidhan tsumma taqifu wa tastaqbilul qiblata bikhu-dhuu'in wa khusyuu'in tsumma taquulu: maa syaa-allaahu 'adada 3 - laa ilaaha illallaahu 7 - laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiimi 'adada 7 - suuratu jinni 'adada 7.
+
+### 3. Terjemahan
+
+Fasal kelima belas: pembakaran ‘āridh. Engkau berkata: «Bakarlah dari ‘ashr yāthūsy, thūsy, ‘armā harasy, hamthūsy — bakarlah jin, ‘āridh, qarin, dharabah, dan thāriq; dhareeb ar-ramad, dhareeb an-nasam yang buruk, dhareeh lamfaqnanjil mahrij, apa pun yang ada pada tubuh ini — tubuh Fulan bin Fulanah — semoga Allah memberkati kalian dan atas kalian.» Bakhurnya: laba-laba dan kabarbarah, pada waktu matahari terbenam, sebelum terbenam.
+
+Menghadirkan seorang individu dari jin: pertama, masuklah ke tempat yang bersih sedangkan engkau bersih badan dan pakaian; tutuplah tempat itu dengan baik sehingga tidak ada cahaya yang masuk sama sekali, dan lubang jendela pun ditutup. Kemudian berdiri menghadap kiblat dengan tunduk dan khusyuk, lalu engkau mengucapkan: «Mā syā’a Allāh» tiga kali; «Lā ilāha illā Allāh» tujuh kali; «Lā haula wa lā quwwata illā billāh al-‘Aliyy al-‘Azhīm» tujuh kali; surah al-Jinn tujuh kali.
+
+### 4. Syarah
+
+Rangkaian «يَاطُوشْ طُوشْ عَرْمَا هَرَشْ هَمْطُوش» adalah azimat yang tidak dapat dipastikan; disalin apa adanya. «الضَّرَبَة» bisa «الضَّرْبَة»; «ضَرِيحَ لَمْفَقْنَجِلْ» tidak jelas. «عَنْكَبُوتٌ وَكَبَرْبَرَةٌ» nama bahan bakaran yang tidak dipastikan identitasnya.
+
+«الْكَوَّانِ» kemungkinan «الكُوَّة» (jendela/lubang); «مَسْدُودٌ» mengikuti cetakan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**Fasal Kelima Belas — احتراق العارض.** Bacaan pembakaran ‘āridh («احرق من عصر ياطوش…») dengan penyebutan nama pasien dan ibunya; lalu «استحضار فرد من أفراد الجن»: masuk tempat tertutup dan gelap, menghadap kiblat, membaca «ما شاء الله» tiga kali, hauqalah, dan surah al-Jinn tujuh kali. Dinisbatkan pada penulis; bukan anjuran dan tanpa jaminan.
+
+**Waktu:** Bacaan pembakaran ‘āriḍ pada waktu matahari terbenam, sebelum terbenam (redaksi dipertahankan)
+
+**Media:** Ucapan pembakaran dengan nama orang yang terkena dan ibunya; untuk istiḥḍār: tempat bersih tertutup gelap, menghadap kiblat, “mā syā’ Allāh” tiga kali, tahlil tujuh kali, ḥauqalah tujuh kali, dan surah al-Jinn tujuh kali
+
+**Bukhur:** ‘ankabūt (laba-laba) dan kabarbarah (istilah bahan tidak dipastikan)
+
+## M76 — Halaman 76, menghadap kanan–kiri dan باب لرفع النزيف
+
+### 1. Arab
+
+ثُمَّ انْظُرْ بِوَجْهِكَ عَلَى الْيَمِينِ وَتَقُولُ: أَعَانَ اللَّهُ مَنْ أَعَانِي عَلَى خَيْرٍ مِنْ أَرْوَاحِ الْجِنِّ الْمُؤْمِنِينَ عَدَدَ ٧. ثُمَّ تَلْتَفِتُ بِوَجْهِكَ إِلَى الْجِهَةِ الشِّمَالِ وَتَقُولُ بِصَيْفَدِيشْ ٣ بِقَطْلَمِيدَ بِشْ عَدَدَ ٧ فَإِنَّكَ تَسْمَعُ صَوْتًا يَقُولُ لَكَ السَّلَامُ عَلَيْكَ وَرَحْمَةُ اللَّهِ فَرُدَّ عَلَيْهِ السَّلَامَ وَأَسْأَلْهُ فِيمَا تُرِيدُهُ
+
+بَابٌ لِرَفْعِ النَّزِيفِ:
+
+وَهُوَ مِنَ الْمُجَرَّبَاتِ يُكْتَبُ مَا يَأْتِي عَلَى ثَلَاثَةِ أَوْرَاقٍ بِيُخْرِ الْمِسْكِ الْأَسْوَدِ وَيُبَخَّرُ كُلَّ لَيْلَةٍ بِوَرَقَةٍ وَهَكَذَا مُدَّةَ ثَلَاثِ لَيَالٍ مُتَوَالِيَاتٍ فَإِنَّ الدَّمَ يَرْتَفِعُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذَا مَا يُكْتَبُ عَلَى الْأَوْرَاقِ
+
+[رَسْمٌ: بَارِسُ حُرُوفٍ وَأَشْكَالٍ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٧٦]
+
+ارْفَعُوا الدَّمَ النَّازِلَ مِنْ فَرْجٍ كَذَا السَّاعَةَ هَذِهِ بِأَمْرِ اللَّهِ تَعَالَى وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ أَفَإِنْ مَاتَ أَوْ قُتِلَ انْقَلَبْتُمْ عَلَى أَعْقَابِكُمْ انْقَلَبَ يَا دَمُ
+
+### 2. Latin
+
+Tsumma unzhur biwajhika 'alal yamiini wa taquulu: a'aana-llaahu man a'aanii 'alaa khairin min arwaahil jinnil mu'miniina 'adada 7. Tsumma taltafitu biwajhika ilal jihatisy syimaali wa taquulu bishayfadiisy 3 biqathlamiida bisy 'adada 7 fa-innaka tasma'u shautan yaquulu laka as-salaamu 'alaika wa rahmatul laahi farudd 'alaihis salaama wa's-alhu fiimaa turiiduhu.
+
+Baabun liraf'in naziifi: wa huwa minal mujarrabati yuktabu maa ya'tii 'alaa tsalaatsati awraaqin biyukhris miskil aswadi wa yubakhkharu kulla lailatin biwaraqatin wa haakadzaa muddata tsalaatsi layaalin mutawaaliyaatin fa-innad dama yartafi'u bi-idznillaahi ta'aalaa wa haadzaa maa yuktabu 'alal awraaqi. Irfa'ud daman naazila min farjin kadzaa as-saa'ata haadzihi bi-amrillaahi ta'aalaa wa maa muhammadun illaa rasuulun qad khalat min qablihir rusulu afa-in maata aw qutilan qalabtum 'alaa a'qaabikum inqalab yaa damu.
+
+### 3. Terjemahan
+
+Kemudian arahkan wajahmu ke kanan dan ucapkan: «Semoga Allah menolong orang yang menolongku dalam kebaikan, dari ruh-ruh jin mukmin» tujuh kali. Lalu palingkan wajahmu ke arah kiri dan ucapkan «bishayfadīsy» tiga kali, «biqathlamīd bisy» tujuh kali; maka engkau akan mendengar suara yang berkata kepadamu: «Salam atasmu dan rahmat Allah», maka jawablah salamnya dan mintalah apa yang engkau kehendaki.
+
+Bab untuk menghentikan perdarahan: termasuk yang sudah dicoba. Yang berikut ditulis pada tiga lembar kertas dengan tinta misik hitam, lalu setiap malam dibakar satu lembar, demikian selama tiga malam berturut-turut, maka darah akan berhenti dengan izin Allah—Mahatinggi; inilah yang ditulis pada lembar-lembar itu:. «Angkatlah darah yang turun dari farji ini, saat ini juga, dengan perintah Allah—Mahatinggi»; «Dan Muhammad tidak lain hanyalah seorang rasul; sungguh telah berlalu rasul-rasul sebelum dia. Apakah jika dia mati atau terbunuh kamu berbalik ke belakang?» — «Berbaliklah, hai darah.»
+
+### 4. Syarah
+
+«بِصَيْفَدِيشْ» dan «بِقَطْلَمِيدَ بِشْ» adalah azimat yang tidak dapat dipastikan; disalin apa adanya. «فَرُدَّ» bisa «فَرُدَّ/فَارْدُدْ».
+
+![Wafaq halaman 76](wafaq_qorin/76.jpg)
+
+«بِيُخْرِ الْمِسْكِ» kemungkinan «بِمِدَادِ الْمِسْك» atau «بِبُخَار»; dibiarkan dan ditandai. Kutipan «وما محمد إلا رسول…» adalah QS Ali Imran 3:144, dipotong di tengah. «انْقَلَبَ يَا دَمُ» perintah kepada darah — bukan ayat; pisahkan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Setelah bacaan, menoleh ke kanan sambil menyebut «أعان الله من أعاني على خير…» tujuh kali, lalu ke kiri dengan «بصيفديش»; disebut akan mendengar suara salam dari jin mukmin; lalu «باب لرفع النزيف»: ditulis pada tiga lembar kertas dengan misik hitam, dibakar setiap malam selama tiga malam, dengan **rajah baris huruf** dan bacaan penutup.
+
+**Waktu:** Tiga malam berturut-turut; satu lembar dibakar setiap malam
+
+**Media:** Tiga lembar kertas bertinta misik hitam; rajah baris huruf/angka dan bentuk; unit juga memuat kelanjutan formula istiġāṡah dari M75
+
+## M77 — Halaman 77, رفع النزيف lanjutan dan باب لزوال الصداع
+
+### 1. Arab
+
+وَارْتَفَعَ مِنْ فَرْجٍ كَذَا بِحَقِّ هَذِهِ الْأَسْمَاءِ وَالْآيَةِ الْعَظِيمَةِ تَكَلَّمْ نَبَأَ مُسْتَقِرٌّ.
+
+بَابٌ لِرَفْعِ النَّزِيفِ:
+
+يُكْتَبُ مَا يَأْتِي فِي إِنَاءٍ نَظِيفٍ بِمِسْكٍ أَسْوَدٍ وَيُحْمَى وَيُنْقَلُ فَإِنَّ الدَّمَ يَرْتَفِعُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذَا مَا يُكْتَبُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ الم ذَلِكَ الْكِتَابُ الْحَكِيمُ هُدًى وَرَحْمَةً لِلْمُحْسِنِينَ الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ يُوقِنُونَ بِيَادٍ مَمْدُومٍ بِحَقِّ حَوَّاءَ وَأُمِّ مُوسَى انْقَطَعَ بِيَادٍ مَمْدُومٍ مِنْ فَرْجٍ كَذَا وَارْتَفِعْ بِحَقِّ هَذِهِ الْأَسْمَاءِ ٩٩ طه ٩٣ مِنْ ٤ ص د انْقَطِعْ بِيَادٍ مَمْدُومٍ وَلَا تَعُدْ بِحَقِّ الرَّبِّ الْمَعْبُودِ وَبِأَلْفِ لَاحَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ
+
+أَبْوَابٌ لِزَوَالِ الصُّدَاعِ الْمُزْمِنِ:
+
+يُكْتَبُ مَا يَأْتِي وَيُحْمَلُ عَلَى الرَّأْسِ فَإِنَّ الصُّدَاعَ وَالضَّرَبَانَ يَسْكُنُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذِهِ مَا يُكْتَبُ: الْبَسْمَلَةُ وَالتَّصْلِيَةُ مَاعَمَا مَا مَعْمَعْ وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ
+
+### 2. Latin
+
+Wartafa'a min farjin kadzaa bihaqqi haadzihil asmaa-i wal aayatil 'azhiimati takallam naba-un mustaqirrun. Baabun liraf'in naziifi: yuktabu maa ya'tii fii inaa-in nazhiifin bimiskin aswada wa yuhmaa wa yunqalu fa-innad dama yartafi'u bi-idznillaahi ta'aalaa wa haadzaa maa yuktabu: bismillaahir rahmaanir rahiim alif laam miim dzaalikal kitaabul hakiimu hudan wa rahmatan lil muhsiniina alladziina yuqiimuunash shalaata wa yu'tuunaz zakaata wa hum bil aakhirati hum yuuqinuuna biyaadin mamduumin bihaqqi hawwaa-a wa ummi muusaa inqatha'a biyaadin mamduumin min farjin kadzaa wartafi' bihaqqi haadzihil asmaa-i 99 thaa haa 93 min 4 shaad daal inqathi' biyaadin mamduumin wa laa ta'ud bihaqqir rabbil ma'buudi wa bi-alfi laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiimi.
+
+Abwaabun lizawaalish shudaa'il muzmini: yuktabu maa ya'tii wa yuhmalu 'alar ra'si fa-innash shudaa'a wadh dharabaana yaskunu bi-idznillaahi ta'aalaa wa haadzihi maa yuktabu: al-basmalatu wats tashliyatu maa'ammaa maa ma'ma'. Wa lahul maa sakana fil laili wan nahaari.
+
+### 3. Terjemahan
+
+«Dan naiklah dari farji ini dengan hak nama-nama ini dan ayat yang agung.» — «Terkirimlah berita yang menetap.» Bab untuk menghentikan perdarahan: yang berikut ditulis pada wadah bersih dengan misik hitam, dipanaskan, lalu dipindahkan (diminumkan), maka darah akan berhenti dengan izin Allah—Mahatinggi; inilah yang ditulis: Dengan nama Allah Yang Maha Pengasih dan Maha Penyayang. Alif Lam Mim. «Itulah Kitab yang mengandung hikmah, menjadi petunjuk dan rahmat bagi orang-orang yang berbuat baik, yaitu orang-orang yang mendirikan salat, menunaikan zakat, dan mereka yakin akan akhirat.» (Kemudian) «biyādin mamdūm» dengan hak Hawa dan ibu Musa: «terputuslah biyādin mamdūm dari farji ini, dan naiklah dengan hak nama-nama ini» — 99, Tha Ha 93, «min 4 shad dal» — «terputuslah biyādin mamdūm dan jangan kembali, dengan hak Tuhan yang disembah, dan dengan seribu (kali) tiada daya dan kekuatan kecuali dengan (pertolongan) Allah Yang Mahatinggi lagi Mahaagung».
+
+Bab-bab untuk hilangnya sakit kepala kronis: yang berikut ditulis dan digantungkan pada kepala, maka sakit kepala dan denyutnya akan tenang dengan izin Allah—Mahatinggi; inilah yang ditulis: basmalah, «التصلية», (lalu) «mā‘ammā mā ma‘ma‘», dan «Dan milik-Nya apa yang diam (berada) pada malam dan siang».
+
+### 4. Syarah
+
+«بِيَادٍ مَمْدُومٍ» adalah rangkaian azimat, bukan kata Arab yang dapat dipastikan; disalin apa adanya. «يُنْقَلُ» bisa «يُنْعَل/يُسْقَى»، dibaca sebagai dipindahkan/diminumkan dan dinyatakan. Kutipan: QS al-Baqarah 2:1–2, Luqman 31:2–4; angka ٩٩ dan ٩٣ serta «ص د» adalah unsur azimat, tidak ditafsirkan.
+
+![Wafaq halaman 77](wafaq_qorin/77.jpg)
+
+«مَاعَمَا مَا مَعْمَعْ» adalah baris huruf/azimat yang tidak dapat dipastikan; disalin apa adanya dan ditandai, tidak dikarang. «الضَّرَبَان» = denyut/berdebar.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan «رفع النزيف» — ditulis pada mangkuk bersih dengan misik hitam lalu dipanaskan dan diminumkan; dengan potongan QS al-Baqarah 2:2, Ali Imran 3:144, dan rangkaian nama; lalu **باب لزوال الصداع المزمن** — ditulis dan menggantungkan pada kepala, dengan huruf-huruf dan potongan QS al-An‘am 6:13. Dinisbatkan pada penulis; tidak menggantikan pengobatan.
+
+**Media:** Wadah bersih ditulis dengan misik hitam, dipanaskan lalu dipindahkan/diminumkan menurut sumber; tulisan lanjutan dan rajah huruf/angka/ayat; hijab sakit kepala ditulis dan digantungkan di kepala
+
+## M78 — Halaman 78, سكن الصداع dan wafaq ميكائيل
+
+### 1. Arab
+
+وَهُوَ السَّمِيعُ الْعَلِيمُ اسْكُنْ أَيُّهَا الْوَجِيعُ وَالصُّدَاعُ وَالشَّقِيقَةُ وَالرِّيحُ السَّوْءُ مِنْ فُلَانٍ أَوْ فُلَانَةَ اسْكُنْ سَاكِنًا كَمَا سَكَنَ عَرْشُ الرَّحْمَنِ اسْكُنْ أَيُّهَا الضَّارِبُ وَالصُّدَاعُ وَالشَّقِيقَةُ إِنْ يَشَأْ يَسْكُنِ الرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَى ظَهْرِهَا. إِنَّ فِي ذَلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ اسْكُنْ بِحَقِّ أَلَمْ تَرَ إِلَى رَبِّكَ كَيْفَ مَدَّ الظِّلَّ وَلَوْ شَاءَ لَجَعَلَهُ سَاكِنًا ثُمَّ جَعَلْنَا الشَّمْسَ عَلَيْهِ دَلِيلًا ثُمَّ قَبَضْنَاهُ إِلَيْنَا قَبْضًا يَسِيرًا
+
+اسْكُنْ أَيُّهَا الْوَجِيعُ اسْكُنْ كَمَا سَكَنَ كُلُّ شَيْءٍ لِعَظَمَتِهِ. اسْكُنْ بِحَقِّ لَوْ أَنْزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا إِلَى آخِرِ السُّورَةِ. وَهَذَا هُوَ الْوَفَقُ
+
+[وَافَقٌ ٣×٣: تُنْظَرُ صُورَةُ الصَّفْحَةِ ٧٨ — خَانَاتٌ فِيهَا «عَل» وَأَرْقَامٌ، وَحَوْلَهُ «مِيكَائِيلُ» وَكِتَابَاتٌ]
+
+### 2. Latin
+
+Wa huwas samii'ul 'aliimu. Uskun ayyuhal waji'u wash shudaa'u wasy syaqiiqatu war riihus saw-u min fulaanin aw fulaanata uskun saakinan kamaa sakana 'arsyur rahmaani uskun ayyuhadh dhaaribu wash shudaa'u wasy syaqiiqatu in yasya' taskunir riihu fazhzhallna rawaakida 'alaa zhahrihaa. Inna fii dzaalika la-aayaatin likulli shabbaarin syakuurin. Uskun bihaqqi alam tara ilaa rabbika kaifa madda zhzhilla wa lau syaa-a laja'alahu saakinan tsumma ja'alnas syamsa 'alaihi daliilan tsumma qabadhnaahu ilainaa qabdhan yasiiran.
+
+Uskun ayyuhal waji'u uskun kamaa sakana kullu syai-in li'azhamatihi. Uskun bihaqqi lau anzalnaa haadzal qur-aana 'alaa jabalin lara-aitahu khaasyi'an mutashaddi'an ilaa aakhirisy suurati. Wa haadzaa huwal wafaqu.
+
+### 3. Terjemahan
+
+«Dan Dialah Yang Maha Mendengar lagi Maha Mengetahui. Tenanglah, hai (rasa) nyeri, sakit kepala, migrain, dan angin buruk dari Fulan atau Fulanah; tenanglah seperti tenangnya arasy Yang Maha Pengasih. Tenanglah, hai yang memukul, sakit kepala, dan migrain»; «Jika Dia menghendaki, Dia diamkan angin sehingga (bahtera) tertahan di permukaannya. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi setiap orang yang sabar lagi bersyukur.» «Tenanglah, dengan hak (firman): Apakah engkau tidak melihat Tuhanmu, bagaimana Dia memanjangkan bayangan? Dan jika Dia menghendaki, Dia jadikan ia diam; kemudian Kami jadikan matahari sebagai penunjuk baginya, kemudian Kami tarik ia kepada Kami dengan tarikan yang mudah.»
+
+«Tenanglah, hai yang merasakan nyeri; tenanglah seperti tenangnya segala sesuatu karena keagungan-Nya. Tenanglah dengan hak (firman): Seandainya Kami turunkan Al-Qur’an ini kepada sebuah gunung, niscaya engkau melihatnya tunduk dan terbelah» sampai akhir surah. Dan inilah wafaq-nya:
+
+### 4. Syarah
+
+«الْوَجِيع» = yang merasakan nyeri; «الشَّقِيقَة» = migrain. Kutipan: QS ar-Ra‘d 13:16, al-Furqan 25:45–46.
+
+![Wafaq halaman 78](wafaq_qorin/78.jpg)
+
+Wafaq pada halaman ini adalah gambar; angka dan tulisan di sekitarnya sukar dipastikan (tampak «B٨، B٧، B٩، BB»، «عل ١٣»، «عل ١١»، «عل ١٠»). Hanya dicatat dan tidak dikarang susunan sel. «عَل» bisa «ع ل» sebagai huruf terpisah.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan bacaan «اسكن» yang menyebut nama pasien dan ibunya, kutipan QS ar-Ra‘d 13:16, al-Furqan 25:45–46, dan al-Hasyr 59:21; ditutup «وهذا هو الوفق» dengan **wafaq 3×3 bergambar** berisi angka dan kata «عل» serta nama ميكائيل di sekitarnya.
+
+**Media:** Bacaan “uskun” dengan ayat-ayat (al-An‘ām 6:13; Yā-Sīn 36:38; al-Furqān 25:45–46); wafaq sel berisi “‘alli” dan angka dengan nama Mikail dan tulisan lain
+
+## M79 — Halaman 79, Fasal Keenam Belas: إرسال عون شديد
+
+### 1. Arab
+
+الْفَصْلُ السَّادِسَ عَشَرَ
+
+بَابُ إِرْسَالِ عَوْنٍ شَدِيدٍ
+
+إِذَا أَرَدْتَ الْعَمَلَ بِهِ تَصُومُ يَوْمَ السَّبْتِ بِرِيَاضَةٍ ثُمَّ خُذْ جَرِيدَةً خَضْرَاءَ وَاكْتُبْ عَلَيْهَا سُورَةَ وَالْعَادِيَاتِ صُبْحًا إِلَى آخِرِهَا وَبَعْدَ الْعِشَاءِ تَأْخُذُ مِجْمَرَةً جَدِيدَةً وَتَبْخُرُ بِصَنْدَلٍ عَلَى نَارٍ قَوِيَّةٍ وَأَنْتَ مَاسِكٌ الْجَرِيدَةَ فِي يَدِكَ وَعَزَمْتَ بِالْقَسَمِ سَبْعِينَ مَرَّةً حَتَّى تَهْتَزَّ الْجَرِيدَةُ فِي يَدِكَ فَاصْرِفْهُ لِمَنْ تُرِيدُ بِأَسْرَعِهِ إِلَى الْمَكَانِ الَّذِي تُرِيدُهُ وَلَا تَأْخُذُهُ وَلَا تَأْخُذُهُ
+
+وَهَذَا هُوَ الْقَسَمُ تَقُولُ: سَرِيعٌ ٢ رَفِيعٌ ٢ مَجِيعٌ ٢ سَلْطِيعٌ ٢ هَلِيعٌ ٢ مُلِيعٌ يَخْلُقْشْ ٢ بِمَخْلُوقْشْ ٢ بِحَقِّ دَيْمُوجٍ ٢ دَلِيكُوشْ ٢ اصْطِفَارٌ ٢ عَمْيَاخْ ٢ اجْبِبْ يَا مَرَّةً وَتَوَكِّلْ بِكَذَا مِسْلِطَكْ عَلَيْهِ. نَزَلَتْ مَلَائِكَةُ الْغَضَبِ عَلَى مَنْ عَصَرَ اللَّهُ وَمَنْ يُشْرِكُ بِاللَّهِ فَيَنْزِلُ عَلَيْهِ كَسِفًا مِنَ السَّمَاءِ فَتَخْطَفُهُ الطَّيْرُ أَوْ تَهْوِي بِهِ الرِّيحُ فِي مَكَانٍ سَحِيقٍ الْوَحَا الْعَجَلَ السَّاعَةَ السَّاعَةَ
+
+### 2. Latin
+
+Al-fashlus saadisa 'asyara: baabu irsaali 'aunin syadiidin. Idzaa aradtal 'amala bihi tashuumu yaumas sabti birriyaadhah(tin) tsumma khudz jariidatan khadhraa-a waktub 'alaihaa suurata wal 'aadiyaati shubhan ilaa aakhirihaa wa ba'dal 'isyaa-i ta'khudzu mijmaratan jadiidatan wa tabkhuru bishandalin 'alaa naarin qawiyyatin wa anta maasikul jariidata fii yadika wa 'azamta bil qasami sab'iina marratan hattaa tahtazzal jariidatu fii yadika fashrifhu liman turiidu bi-asra'ihi ilal makaanil ladzii turiiduhu wa laa ta'khudzuhu.
+
+Wa haadzaa huwal qasamu taquulu: sarii'un 2 rafii'un 2 majii'un 2 salthii'un 2 halii'un 2 mulii'un yakhlusyu 2 bimakhluusyu 2 bihaqqi daimuujin 2 daliikuusy 2 isthifaarun 2 'amyaakh 2 ijbib yaa marratan wa tawakkal bikadzaa mislithak 'alaihi. Nazalat malaa-ikatul ghadhabi 'alaa man 'asharallaahu wa man yusyriku billaahi fayanzilu 'alaihi kasifan minas samaa-i fatakhtafuhut thairu aw tahwii bihir riihu fii makaanin sahiiqin al-wahal 'ajala as-saa'ata as-saa'ata.
+
+### 3. Terjemahan
+
+Fasal keenam belas: bab mengirim bantuan yang kuat. Jika engkau hendak mengamalkannya, berpuasalah hari Sabtu dengan riyadhah, lalu ambillah pelepah (daun) hijau dan tulislah padanya surah al-‘Adiyat di pagi hari sampai akhirnya. Setelah Isya, ambil mangkuk pembakar baru dan bakarlah cendana di atas api yang kuat, sementara engkau memegang pelepah itu di tanganmu; lalu engkau membaca qasam tujuh puluh kali sampai pelepah itu bergetar di tanganmu. Kemudian lepaskanlah kepada orang yang engkau tuju, secepat mungkin ke tempat yang engkau kehendaki, dan jangan engkau ambil (kembali).
+
+Dan inilah qasam itu; engkau mengucapkan: «Sarī‘, Rafī‘, Majī‘, Salthī‘, Halī‘, Mulī‘, Yakhlusy, Bimakhlūsy, dengan hak Daimūj, Dalīkūsy, Ishthifār, ‘Amyākh — datanglah, hai Marrah, dan bertawakallah dengan (kekuatan) sulthanmu atasnya.» «Turunlah malaikat kemarahan atas siapa yang dimurkai Allah; dan siapa yang menyekutukan Allah, maka turunlah atasnya sesuatu dari langit lalu disambar burung atau diterbangkan angin ke tempat yang jauh.» — «Segeralah, cepatlah, saat ini, saat ini.»
+
+### 4. Syarah
+
+«الْجَرِيدَة» = pelepah/daun (kurma); «بِأَسْرَعِهِ» susunannya tidak baku dan dibiarkan; «وَلَا تَأْخُذُهُ» terulang pada cetakan.
+
+Rangkaian «سَرِيعٌ رَفِيعٌ…» dan «دَيْمُوجٍ دَلِيكُوشْ…» adalah qasam/azimat yang tidak dapat dipastikan; disalin apa adanya. «اجْبِبْ» mungkin «أَجِبْ». «مِسْلِطَكْ» tidak jelas.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Bab “mengirim bantuan yang kuat” dalam sumber memuat rangkaian: puasa/riyadhah pada hari Sabtu; pelepah hijau ditulis dengan surah al-‘Ādiyāt sampai akhir pada pagi hari; sesudah Isya cendana dibakar dalam mangkuk pembakar baru di atas api kuat sementara pelepah dipegang di tangan; qasam dibaca tujuh puluh kali sampai pelepah disebut bergetar, lalu pelepah dilepaskan ke arah yang dituju dan tidak diambil kembali.
+
+**Waktu:** Puasa/riyadhah hari Sabtu; pelepah ditulis pagi hari; qasam sesudah Isya
+
+**Media:** Pelepah hijau bertuliskan surah al-‘Ādiyāt sampai akhir, dipegang di tangan; qasam tujuh puluh kali
+
+**Bukhur:** Cendana dibakar dalam mangkuk pembakar baru di atas api kuat
+
+## M80 — Halaman 80, pengiriman dan قسم لسعة العقارب
+
+### 1. Arab
+
+وَهَذَا اصْرِفْهُ
+
+انْصَرِفْ بِسَلَامٍ يَا مَرَّةُ وَتَوَكَّلْ بِكَذَا وَافْعَلْ مَا أَمَرْتُكَ بِهِ بِحَقِّ هَذِهِ الْأَسْمَاءِ قَيَاشٌ ٢ كَيَاشٌ ٢ عَرْيُوشٌ ٢ بَخَشْ ٢ تَوَكَّلْ أَيُّهَا السَّيِّدُ مَهْرَبَانِيلُ بِاصْرَافِ مَرَّةَ إِلَى كَذَا اجْبِبْ يَا مَرَّةَ وَافْعَلْ مَا أَمَرْتُكَ بِهِ بِحَقِّ هَذِهِ الْأَسْمَاءِ وَلَا تُخَالِفْ فَتَحْرِقْ بِنَارِ السُّمُومِ هَبَا الْوَحَا الْوَحَا الْعَجَلَ الْعَجَلَ السَّاعَةَ السَّاعَةَ
+
+قِسْمٌ لِسَعَةِ الْعَقَارِبِ وَالْأَفَاعِي:
+
+تَقْرَأُ الْفَاتِحَةَ سَبْعَةً بِدُونِ بَسْمَلَةٍ وَلَا تَأْمِينٍ ثُمَّ تَقُولُ: بَاسِمِي إِذَا ضَاعَتِ الْأَسْبَابُ يَعْتَدِي اذِي سَيِّفُونَ الْأَحْبَابُ يَا حِجَابِي إِذَا لَمْ يَحْجُبْنِي حِجَابٌ أُقْسِمْتُ عَلَيْكَ بَاسْمِ بَاسِمُوم لَا تَسْرَحْ فِي الْجِسْمِ وَلَا تَعُومُ بِإِذْنِ الْحَيِّ الْقَيُّومِ بِحَقِّ سَيِّدِي أَحْمَدَ الرِّفَاعِيِّ صَاحِبِ التَّوْحِيدِ بِسِرِّهِ يَجْتَنِبُكَ بَرِيقُهُ حَبْسَكَ كَرْ كَرٍّ أَكْبَرُ نَدَى عَلَيَّزِي فَيَرِدْ وَالسَّمَاءُ وَالطَّارِقُ الَى التَّرَائِبِ اخْرُجْ بَاسْمِ مَنْ الْعُرُوقِ وَالْمَفَاصِلِ
+
+### 2. Latin
+
+Wa haadzaa ishrifhu. Insharif bisalaamin yaa marratu wa tawakkal bikadzaa waf'al maa amartuka bihi bihaqqi haadzihil asmaa-i qayaasyun 2 kayaasyun 2 'aryuusyun 2 bakhasy 2 tawakkal ayyuhas sayyidu mahrabaaniilu bishraafi marratan ilaa kadzaa ijbib yaa marratan waf'al maa amartuka bihi bihaqqi haadzihil asmaa-i wa laa tukhaalif fatahriq binaaris sumuumi habaa al-wahal wahal 'ajala 'ajala as-saa'ata as-saa'ata.
+
+Qismun lis'agatil 'aqaaribi wal afaa'ii: taqra-ul faatihata sab'atan biduuni basmalatin wa laa ta-miinin tsumma taquulu: baasimii idzaa dhaa'atil asbaabu ya'tadii adzii saifuuna al-ahbaabu yaa hijaabii idzaa lam yahjubnii hijaabun uqsimtu 'alaika baasmi baasimuuma laa tasrah fil jismi wa laa ta'uumu bi-idznil hayyil qayyuumi bihaqqi sayyidii ahmada rrifaa'iyyi shaahibit tauhiidi bisirrihi yajtanibuka bariiquhu habsaka kar karrin akbaru nadaa 'alaiyazi fayarid was samaa-u wath thaariqu ilat taraa-ibi ukhruj baasmi manil 'uruuqi wal mafaashili.
+
+### 3. Terjemahan
+
+Dan ini, lepaskanlah ia. «Berangkatlah dengan selamat, hai Marrah, dan bertawakallah dengan (kekuatan) itu; lakukanlah apa yang aku perintahkan kepadamu dengan hak nama-nama ini: Qayāsy, Kayāsy, ‘Aryūsy, Bakhasy. Bertawakallah, hai Tuan Mahrabānīl, dengan mengarahkan Marrah kepada (orang) itu. Datanglah, hai Marrah, dan lakukanlah apa yang aku perintahkan dengan hak nama-nama ini, dan jangan menyalahi, niscaya engkau terbakar dengan api racun» — «Habbā, segeralah, segeralah, cepatlah, cepatlah, saat ini, saat ini.»
+
+Qasam untuk sengatan kalajengking dan ular: engkau membaca al-Fatihah tujuh kali tanpa basmalah dan tanpa ta’min, lalu mengucapkan: «Bāsimī, apabila sebab-sebab telah hilang, orang yang berlaku melampaui (menyerang)«…» hai hijabku, apabila tiada hijab yang melindungiku, aku bersumpah atasmu dengan nama Bāsimūm — janganlah engkau merambat di tubuh dan jangan berenang, dengan izin Yang Mahahidup lagi Yang Berdiri sendiri, dengan hak tuanku Ahmad ar-Rifā‘ī, pemilik tauhid, dengan rahasianya; kilatnya menghindarkanmu; tahanlah, kar karr akbar nadā ‘alayyazi fayarid, dan langit serta yang datang pada malam hari — keluarlah menuju tulang-tulang rusuk; keluarlah dengan nama (Dia) dari urat-urat dan persendian.»
+
+### 4. Syarah
+
+«هَبَا» kemungkinan «هَبَّ» atau seruan; «مَهْرَبَانِيل» nama yang tidak dapat dipastikan. «اصْرِفْهُ» di awal menyambung perintah halaman 79.
+
+Kalimat ini rusak susunannya pada cetakan («يَعْتَدِي اذِي سَيِّفُونَ»، «عَلَيَّزِي»، «مَنْ الْعُرُوقِ»); dipertahankan dan tidak ditambal. «سَعَةِ» mestinya «سَعَة/لَسْعَة».
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan «انصرف بسلام…» dengan menyebut nama «مهرائيل» agar melakukan perintah dan tidak menyalahi; lalu **قسم لسعة العقارب والإفاعي** (qasam untuk sengatan kalajengking dan gigitan ular) — membaca al-Fatihah tujuh kali tanpa basmalah dan tanpa ta‘min, lalu rangkaian qasam dengan nama «أحمد الرفاعي». Dinisbatkan pada penulis; **bukan pertolongan medis** — sengatan/gigitan berbahaya harus ditangani dokter.
+
+**Media:** Lanjutan qasam M79; untuk sengatan: al-Fātiḥah tujuh kali tanpa basmalah dan tanpa ta’mīn, lalu qasam al-ladġ
+
+## M81 — Halaman 81, qasam lanjutan dan فائدة لرجوع المرأة
+
+### 1. Arab
+
+غَالِبٌ عَلَى مَنْ غَالِبٌ بْنُ أَبِي طَالِبٍ بِحَقِّ مَا كَانَ وَمَا يَكُونُ وَبِحَقِّ مَا فِي اللَّوْحِ الْمَحْفُوظِ جَمِيعٌ فِي مَكَانِ اللَّدْغَةِ وَمِنْهَا إِلَى يَسْرِ ظُهُورِ بِدَعْقٍ مَحْبُوبَةٍ صُورَةُ مَحْبُوبَةٍ سَقْفًا طَيْسَنٍ سَقْفًا طِيمٍ اخْوَانِ مَخْيَطٍ احْمَدٍ ادَمَ حَمَّاءِ امِينٍ بِحَقِّ السَّيِّدِ نُورِ الدِّينِ وَالسَّيِّدِ سَعْدِ الدِّينِ اخْضَعْ قَرِينَ مَسْوَرَةَ كَرْدِي كَرْنَدِي سَاقَ هِنْدِي مَرْيَشْ حِجَابٌ بِسْمِ اللَّهِ عَلَى الْمَاءِ وَبِحَمْدِ اللَّهِ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ
+
+فَائِدَةٌ لِرُجُوعِ الْمَرْأَةِ الَّتِي زَوْجُهَا:
+
+يُكْتَبُ الْمَاضِي وَيَحْمِلُهَا الْمَرْأَةُ عَلَيْهَا فَإِنَّ الزَّوْجَ يَرْجِعُ إِلَيْهَا وَهَذَا مَا تُكْتَبُ الْبَسْمَلَةُ أَنَّهُ رَجَعَةٌ لِقَادِرٍ ٧ مَرَّاتٍ وَإِنِ امْرَأَةٌ خَافَتْ مِنْ بَعْلِهَا نُشُوزًا أَوْ أَعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَنْ يُصْلِحَا بَيْنَهُمَا صُلْحًا وَالصُّلْحُ خَيْرٌ ٧ مَرَّاتٍ وَالِانْشِرَاحُ كُلُّهَا.
+
+بَابٌ لِلصُّلْحِ بَيْنَ الزَّوْجَيْنِ:
+
+يُكْتَبُ يَوْمَ الْخَمِيسِ فِي قُوَّةِ الْهِلَالِ وَالْبَخُورُ عَمَّالُ سَنْدَوَرِس
+
+### 2. Latin
+
+Ghaalibun 'alaa man ghaalibubnu abii thaalin bihaqqi maa kaana wa maa yakuunu wa bihaqqi maa fil lauhil mahfuuzhi jamii'un fii makaanil ladghati wa minhaa ilaa yasri zhuhuurin bida'qin mahbuubatin shuuratu mahbuubatin saqfan thaisanin saqfan thiimin ikhwaani makh-yathin ahmadin adama hammaa-in amiinim bihaqqis sayyidi nuurid diini was sayyidi sa'did diini ikhdha' qariina maswarata kardii karnadii saaqa hindii maryasy hijaabun bismillaahi 'alal maa-i wa bihamdillaahi wa shallal laahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi wa sallama.
+
+Faa-idatun lirujuu'il mar-atil latii zaujuhaa: yuktabul maadhii wa yahmiluhal mar-atu 'alaihaa fa-innaz zauja yarji'u ilaihaa wa haadzaa maa tuktabu: al-basmalatu annahu raj'atun liqaadirin 7 marraatin wa inimra-atun khaafat min ba'lihaa nusyuuzan aw a'raadhan falaa junaaha 'alaihimaa an yushlihaa bainahumaa shulhan wash shulhu khairun 7 marraatin wal insyiraahu kulluhaa. Baabun lishshulhi bainaz zaujaini: yuktabu yaumal khamiisi fii quwwatil hilaali wal bukhuuru 'ammaalu sandawaris.
+
+### 3. Terjemahan
+
+«Ghālib atas siapa«…» Ghālib bin Abi Thalib, dengan hak apa yang telah ada dan akan ada, dan dengan hak apa yang ada pada Lauh Mahfuz, semuanya, pada tempat sengatan itu dan dari sana ke arah kiri punggung«…»», (disusul) rangkaian «bida‘q mahbūbah, shūrah mahbūbah, saqfan thaisan, saqfan thīm, ikhwān makh-yath, Ahmad Adam, hammā’ amīn, dengan hak Tuan Nūr ad-Dīn dan Tuan Sa‘d ad-Dīn, tunduklah qarin Maswarah, Kardī Karnadī, sāq Hindī Maryasy» — hijab, dengan nama Allah atas air, dan dengan pujian bagi Allah; semoga Allah melimpahkan selawat dan salam kepada tuan kami Muhammad, keluarganya, dan para sahabatnya.
+
+Faedah untuk kembalinya perempuan (kepada) suaminya: yang telah lalu ditulis, dan perempuan menggantungkannya pada dirinya, maka suami akan kembali kepadanya; inilah yang ditulis: basmalah, «bahwa ia adalah pengembalian bagi Yang Mahakuasa» tujuh kali; «Dan jika seorang perempuan khawatir akan nusyuz atau sikap acuh dari suaminya, maka tidak ada dosa bagi keduanya mengadakan perdamaian yang sebenarnya; dan perdamaian itu lebih baik» tujuh kali; dan seluruh «الانشراح». Bab untuk perdamaian antara suami-istri: ditulis pada hari Kamis pada (saat) kekuatan bulan; bakhurnya «‘ammāl sandawaris».
+
+### 4. Syarah
+
+«غَالِبٌ عَلَى مَنْ غَالِبٌ بْنُ أَبِي طَالِبٍ» susunannya rusak; dibiarkan dan ditandai. «طَيْسَنٍ سَقْفًا طِيمٍ»، «مَسْوَرَةَ كَرْدِي كَرْنَدِي»، «مَرْيَشْ» tidak dapat dipastikan.
+
+«الْمَاضِي» kemungkinan «الْمَاضِي» (yang lalu) sebagai istilah; «رَجَعَةٌ لِقَادِرٍ» tidak baku. Kutipan «وإن امرأة خافت…» adalah QS an-Nisa 4:128. «عَمَّالُ سَنْدَوَرِس» bahan bakaran yang tidak dipastikan.
+
+Praktik rumah tangga yang dinisbatkan penulis; bukan nasihat dan tidak menjamin.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan qasam sengatan dengan nama-nama (غالب، علي بن أبي طالب، اللوح المحفوظ، طيسن…); lalu **فائدة لرجوع المرأة التي زوجها** — ditulis dan menggantungkan agar suami kembali, serta untuk perempuan yang takut suaminya menolak; ditutup dengan judul «باب للصلح بين الزوجين» yang ditulis pada hari Kamis. Dinisbatkan pada penulis; tidak ada jaminan dan bukan nasihat rumah tangga.
+
+**Waktu:** Bab perdamaian ditulis hari Kamis pada saat kekuatan bulan
+
+**Media:** Tulisan ayat-ayat perdamaian digantungkan oleh perempuan (faidah kembalinya suami); tulisan bab perdamaian suami-istri
+
+**Bukhur:** ‘ammāl sandawaris (istilah sumber tidak dipastikan)
+
+## M82 — Halaman 82, باب محبة dan محبة بسورة الفاتحة
+
+### 1. Arab
+
+وَجَاوِي وَلُبَانِ ذَكَرٍ وَتُفَّاحِ الْجِنِّ وَبَخُورِ السَّوْدَانِ وَيُدْفَنُ عَلَى بَابِ مَنْ شَنَّتْ وَهَذَا مَا تُكْتَبُ: ٣٥ ٦٥ ١٣ ١٣ ٩٨ ٢٨ ٢٢ [رَسْمٌ: أَرْقَامٌ وَرُمُوزٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٨٢] وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلٍّ إِخْوَانًا عَلَى سُرُرٍ مُتَقَابِلِينَ فَجَمَعْنَاهُمْ جَمْعًا وَهُوَ عَلَى جَمْعِهِمْ إِذَا شَاءَ قَدِيرٌ تَوَكَّلُوا يَا خُدَّامَ هَذِهِ الْآيَاتِ وَهَيِّجُوا وَاجْلِبُوا وَاسْلُبُوا وَاجْذِبُوا قَلْبَ كَذَا إِلَى مَحَبَّةِ كَذَا الْوَحَا الْوَحَا الْعَجَلَ الْعَجَلَ السَّاعَةَ السَّاعَةَ
+
+بَابُ مَحَبَّةٍ بِسُورَةِ الْفَاتِحَةِ:
+
+تَقْرَأُ سُورَةَ الْفَاتِحَةِ ٣١ مَرَّةً ثُمَّ فِي الْمَرَّةِ الْأَخِيرَةِ تُكَرِّرُ آيَاتِ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ٣١ مَرَّةً ثُمَّ تَقُولُ: اللَّهُمَّ كَمَا جَمَعْتَ بَيْنَ ذَاتِكَ وَصِفَاتِكَ وَأَسْمَائِكَ أَجْمَعْ بَيْنِي وَبَيْنَ رُوحَانِيَّةِ كَذَا بِحَقِّ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ الَى آخِرِهَا وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ.
+
+بَابُ تَلْبِيسِ الْجُثَّةِ:
+
+تُكْتَبُ عَلَى الْأَصَابِعِ هَذِهِ الْأَسْمَاءُ الْآتِيَةُ وَتُعَزَّمُ بِمَا تُكْتَبُ
+
+### 2. Latin
+
+Wa jaawiyyun wa lubaanu dzakarin wa tuffaahil jinni wa bakhuurus sawdaani wa yudfanu 'alaa baabi man syannat wa haadzaa maa tuktabu: 35 65 13 13 98 28 22 wa naza'naa maa fii shuduurihim min ghillin ikhwaanan 'alaa sururin mutaqaabiliina fajama'naahum jam'an wa huwa 'alaa jam'ihim idzaa syaa-a qadiirun tawakkalau yaa khuddaama haadzihil aayaati wa hayyijuu wajlibuu waslibuu wajdzibuu qalba kadzaa ilaa mahabbati kadzaa al-wahal wahal 'ajala 'ajala as-saa'ata as-saa'ata.
+
+Baabu mahabbatin bisuuratil faatiha(ti): taqra-u suuratal faatiha(ti) 31 marratan tsumma fil marratil akhiirati tukarriru aayaati iyyaaka na'budu wa iyyaaka nasta'iinu 31 marratan tsumma taquulu: Allaahumma kamaa jama'ta baina dzaatika wa shifaatika wa asmaa-ika ajma' bainii wa baina ruuhaniyyati kadzaa bihaqqi ihdinas shiraathal mustaqiima ilaa aakhirihaa wa shallal laahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi wa sallama. Baabu talbiisil jutstsati: tuktabu 'alal ashaabi'i haadzihil asmaa-ul aatiyatu wa tu'azzamu bimaa tuktabu.
+
+### 3. Terjemahan
+
+Dan jawi, lubbān jantan, labu jin, serta bakhur sawdān; lalu dikuburkan di pintu orang yang (menjadi sasaran). Dan inilah yang ditulis: ٣٥ ٦٥ ١٣ ١٣ ٩٨ ٢٨ ٢٢. «Dan Kami lenyapkan segala rasa dendam yang ada dalam dada mereka; mereka merasa bersaudara, duduk berhadap-hadapan di atas dipan.» «Maka Kami kumpulkan mereka semuanya, dan Dia Mahakuasa atas pengumpulan mereka apabila Dia menghendaki.» — «Bertawakallah, hai para pelayan ayat-ayat ini; bangkitkanlah, tariklah, rampaslah, dan tariklah hati si Fulan kepada cinta si Fulanah — segeralah, segeralah, cepatlah, cepatlah, saat ini, saat ini.»
+
+Bab محبة dengan surah al-Fatihah: engkau membaca surah al-Fatihah tiga puluh satu kali; pada kali terakhir engkau ulangi ayat «إياك نعبد وإياك نستعين» tiga puluh satu kali; lalu engkau berkata: «Ya Allah, sebagaimana Engkau menghimpun antara Zat-Mu, sifat-sifat-Mu, dan nama-nama-Mu seluruhnya, himpunkanlah antara aku dan ruhani (jin) si Fulan, dengan hak (firman) tunjukkanlah kami jalan yang lurus sampai akhirnya»; semoga Allah melimpahkan selawat dan salam kepada tuan kami Muhammad, keluarganya, dan para sahabatnya. Bab «تلبيس الجثة»: nama-nama berikut ditulis pada jari-jari, lalu dibacakan azimat dengan apa yang ditulis.
+
+### 4. Syarah
+
+Deret angka ٣٥ ٦٥ ١٣ ١٣ ٩٨ ٢٨ ٢٢ dan baris rumus adalah rajah angka, bukan hitungan yang dapat diperiksa; tidak dikarang susunannya. «مَنْ شَنَّتْ» tidak jelas. Kutipan: QS al-A‘raf 7:43, al-Hijr 15:? (potongan), dan QS al-Qiyamah; dicatat sebagai bantuan rujukan, bukan koreksi.
+
+![Wafaq halaman 82](wafaq_qorin/82.jpg)
+
+«أَجْمَعْ» bisa «اجمع» (perintah). «رُوحَانِيَّةِ كَذَا» = jin ruhani yang dituju. «تَلْبِيسِ الْجُثَّة» berarti “mengenakan” pada tubuh; istilah penulis yang dipertahankan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Unit ini memuat penutup rangkaian mahabbah dan dua bab pendek. Pada rangkaian pertama, bahan yang disebut adalah jāwī, lubbān dzakar, labu jin, dan bakhūr sawdān; tulisan deret angka dan ayat pengumpulan kemudian dikuburkan di pintu pihak sasaran menurut Terjemahan. Bab mahabbah dengan al-Fātiḥah menyebut pembacaan al-Fātiḥah tiga puluh satu kali, dengan pengulangan “iyyāka na‘budu wa iyyāka nasta‘īn” tiga puluh satu kali pada kali terakhir. Penutup halaman memulai bab talbīs al-juttsah: nama-nama ditulis pada jari dan azimah dibacakan dengan yang ditulis itu.
+
+**Media:** Tulisan deret angka dan ayat pengumpulan (al-Ḥijr 15:47 dan ayat lain) dikuburkan di pintu pihak sasaran menurut Terjemahan; rajah angka/rumus; al-Fātiḥah 31 kali dengan pengulangan ayat “iyyāka na‘budu…” 31 kali pada kali terakhir; nama-nama ditulis pada jari untuk bab berikutnya
+
+**Bukhur:** Jāwī, lubbān dzakar, labu jin, dan bakhūr sawdān
+
+## M83 — Halaman 83, تلبيس الجثة lanjutan dan طلسم للأمن من الخوف
+
+### 1. Arab
+
+وَوَاحِدٌ وَعِشْرِينَ مَرَّةً وَالْبَخُورُ مَطْلُوقٌ وَهُوَ كَبَرْبَرَةٌ وَلُبَانُ ذَكَرٍ فَإِنَّهُ يَلْبَسُ الْكَفَّ وَيَصْرَعُهُ وَيَرْمِيهِ إِلَى الْأَرْضِ وَهَذَا مَا تُكْتَبُ وَبِهِ تُعَزَّمُ وَتَقُولُ:
+
+يَطُو شَلْيَشٌ ٢ بِقَوْشَلْيَشٌ ٢ بِهُوشْكَيَشٌ ٢ اهْمَاكَيَشٌ ٢ بِهِمَا هُمَا اجِبْ يَا أَبِي جَنَاحٍ وَالْبِسْ أَنْكَفَ وَفَرِّقِ الْأَصَابِعَ وَارْمِ هَذِهِ الْجُثَّةَ الَى الْأَرْضِ يَمِين هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ اجِبْ بِالَّذِي تُنْطِقُ سَمْعَكَ وَبَصَرَكَ وَخَلَقَكَ مِنْ نَارٍ السَّمُومِ اجِبْ بِالَّذِي جَلَّى لِلْجَبَلِ فَجَعَلَهُ دَكًّا وَخَرَّ مُوسَى صَعِقًا
+
+مِنْ لَطَائِفِ الْأَسْرَارِ
+
+فَائِدَةٌ لِلْأَمْنِ مِنَ الْخَوْفِ:
+
+اكْتُبِ الطِّلَسْمَ الْآتِي مَعَ آيَاتِ الْخَوْفِ وَآيَةِ الْكَرْسِيِّ فِي كَاغَدٍ وَبَخِّرْهُ بِلُبَانٍ ذَكَرٍ وَجَاوِي وَمُسْتَكَى وَعُودٍ فَإِنَّهُ يَذْهَبُ الْخَوْفُ وَهَذَا الطِّلَسْمُ كَمَا تَرَى
+
+[رَجْمٌ: سَطْرَا أَرْقَامٍ وَرُمُوزٍ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٨٣]
+
+وَالثَّقِيفَةُ وَالرِّيحُ السَّوْءُ مِنْ فُلَانٍ أَوْ فُلَانَةَ
+
+### 2. Latin
+
+Wa waahidin wa 'isyrina marratan wal bukhuuru mathluuqun wa huwa kabarbaratun wa lubaanu dzakarin fa-innahu yalbasul kaffa wa yashra'uhu wa yarmiihi ilal ardhi wa haadzaa maa tuktabu wa bihi tu'azzamu wa taquulu: yathuu syal yasyun 2 biqausyal yasyun 2 bihuusykayasyun 2 ahmaakayasyun 2 bihimaa humaa ijib yaa abii janaahin walbis ankafa wa farriqil ashaabi'a warmi haadzihil jutstsata ilal ardhi yamiin huwa al-awwalu wal aakhiru wazh zhaahiru wal baathinu wa huwa bikulli syai-in 'aliimun ijib billadzii tunthiqu sam'aka wa basharaka wa khalaqaka min naaris sumuumi ijib billadzii jallaa lil jabali faja'alahu dakkan wa kharra muusaa sha'iqa(n).
+
+Min lathaa-ifizh asraari. Faa-idatun lil amni minal khaufi: uktubith thilsimal aatiya ma'a aayaatil khaufi wa aayatil kursiyyi fii kaaghadin wa bakhkhirhu bilubaanin dzakarin wa jaawiyyin wa mustakaa wa 'uudin fa-innahu yadzhabul khaufu wa haadzath thilsamu kamaa taraa. Wats tsaqiifatu war riihus saw-u min fulaanin aw fulaanata.
+
+### 3. Terjemahan
+
+Dan dua puluh satu kali; bakhurnya «mathlūq» yaitu kabarbarah dan lubbān jantan. Maka ia (jin) akan “mengenakan” telapak tangan, lalu menjatuhkannya dan melemparkannya ke tanah. Inilah yang ditulis dan dengannya dibacakan azimat; engkau mengucapkan: «Yathū syalyasy, biqausyalyasy, bihūsy kayasy, ahmākayasy, bihimā humā — jawablah, hai Abū Janāh, kenakanlah (tubuh ini), pisahkanlah jari-jari, dan lemparkan tubuh ini ke bumi. (Dia) Yang Awal dan Yang Akhir, Yang Zahir dan Yang Batin, dan Dia Maha Mengetahui segala sesuatu. Jawablah dengan (nama) Yang membuat pendengaran dan penglihatanmu berbicara, dan menciptakanmu dari api yang sangat panas. Jawablah dengan (nama) Yang menampakkan (diri) kepada gunung lalu menjadikannya rata, dan Musa pun jatuh pingsan.»
+
+Dari kelembutan rahasia-rahasia. Faedah untuk keamanan dari rasa takut: tulislah طلسم berikut bersama ayat-ayat (tentang) rasa takut dan آية الكرسي pada kertas, lalu bakarlah dengan lubbān jantan, jawi, mastika, dan kayu ‘ūd; maka rasa takut akan hilang. Dan طلسم ini sebagaimana engkau lihat:. «Dan (dari) ats-tsaqīfah dan angin buruk dari Fulan atau Fulanah.»
+
+### 4. Syarah
+
+«مَطْلُوقٌ» tidak dapat dipastikan (mungkin «مَطْحُون» atau nama bahan); «الْبِسْ أَنْكَفَ» janggal. Kutipan «هو الأول والآخر…» QS al-Hadid 57:3 dan potongan al-A‘raf 7:143.
+
+![Wafaq halaman 83](wafaq_qorin/83.jpg)
+
+Dua baris rajah pada halaman ini berisi angka dan rumus yang tidak dapat dipastikan (tampak «٨١٨٧»، «٣٠٤»، «١٩٦»، «٢٦٥٣٣٨٨٢»); hanya dicatat, tidak dikarang. «كَاغَد» = kertas (serapan). «الثَّقِيفَة» tidak jelas; mungkin nama gangguan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Unit ini melanjutkan bab talbīs al-juttsah dari M82: azimah dibaca dua puluh satu kali dan bakhurnya maṭlūq, yaitu kabarbarah dan lubbān dzakar. Faidah keamanan dari rasa takut memuat penulisan thilsim bersama ayat-ayat ketakutan dan Ayat al-Kursi pada kertas, lalu kertas itu diasapi dengan lubbān dzakar, jāwī, mastika, dan kayu ‘ūd. Tidak ada instruksi menggantung pada unit ini.
+
+**Media:** Nama-nama pada jari dan azimah dua puluh satu kali; untuk rasa takut: thilsim, ayat-ayat ketakutan, dan Ayat al-Kursi ditulis pada kertas; dua baris angka/rumus
+
+**Bukhur:** Maṭlūq yaitu kabarbarah dan lubbān dzakar (bab pertama); kertas faidah rasa takut diasapi dengan lubbān dzakar, jāwī, mastika, dan kayu ‘ūd
+
+## M84 — Halaman 84, قضاء الحاجة dan باب محبة
+
+### 1. Arab
+
+لِقَضَاءِ الْحَاجَةِ
+
+تُكْتَبُ مَا يَأْتِي وَتُحْمَلُ فَإِنَّ الْحَاجَةَ تُقْضَى بِإِذْنِ اللَّهِ تَعَالَى وَهَذَا مَا يُكْتَبُ الْبَسْمَلَةُ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ. دَخَلْتُ عَلَيْكُمْ دُخُولَ الْأَسَدِ وَعَلَوْتُ عَلَيْكُمْ عُلُوَّ السَّمَاءِ أَنْتُمُ النَّارُ وَأَنَا الْمَاءُ أُطْفِئُكُمْ ٢ بِإِذْنِ اللَّهِ الْكَرِيمِ طَفَيْتُكُمْ بِأَسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ
+
+بَابُ مَحَبَّةٍ يُكْتَبُ وَيُحْمَلُ:
+
+تُكْتَبُ الطِّلَسْمُ الْآتِي وَالْآيَاتُ حَوْلَهُ فِي سَاعَةٍ سَعِيدَةٍ وَبِخُبُورٍ طَيِّبٍ وَاتْلُوا عَلَيْهِ الْآيَاتِ الْآتِيَةَ ٧٢ مَرَّةً مَعَ التَّوَكُّلِ فِي كُلِّ مَرَّةٍ وَهَذَا الطِّلَسْمُ
+
+[رَسْمٌ: أَشْكَالٌ وَخُطُوطٌ وَأَرْقَامٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٨٤]
+
+يُحِبُّونَهُمْ كَحُبِّ اللَّهِ الَّذِي لَوْ أَنْفَقْتَ مَا فِي الْأَرْضِ جَمِيعًا
+
+### 2. Latin
+
+Liqadhaa-il haajati: tuktabu maa ya'tii wa tuhmalu fa-innnal haajata tuqdhaa bi-idznillaahi ta'aalaa wa haadzaa maa yuktabu: al-basmalatu wa shallal laahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi wa sallama. Dakhaltu 'alaikum dukhuulal asadi wa 'alautu 'alaikum 'uluwwas samaa-i antumun naaru wa anal maa-u uthfi-ukum 2 bi-idznillaahil kariimi thafai-tukum bi-asmi-llaahil ladzii laa yadhurru ma'asmihi syai-un fil ardhi wa laa fis samaa-i wa huwas samii'ul 'aliimu wa shallal laahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi wa sallama.
+
+Baabu mahabbatin yuktabu wa yuhmalu: tuktabuth thilsimul aatii wal aayaatu haulahu fii saa'atin sa'iidatin wa bikhu buurin thayyibin watluu 'alaihil aayaatil aatiyata 72 marratan ma'at tawakkuli fii kulli marratin wa haadzath thilsimu yuhibbuunahum kakahabbil laahil ladzii lau anfaqta maa fil ardhi jamii'an.
+
+### 3. Terjemahan
+
+Untuk terkabulnya kebutuhan: yang berikut ditulis dan digantungkan, maka kebutuhan akan terpenuhi dengan izin Allah—Mahatinggi; inilah yang ditulis: basmalah, dan semoga Allah melimpahkan selawat serta salam kepada tuan kami Muhammad, keluarganya, dan para sahabatnya. «Aku masuk kepada kalian seperti masuknya singa, dan aku mengatasi kalian seperti tingginya langit. Kalian adalah api dan aku adalah air; aku memadamkan kalian» dua kali, dengan izin Allah Yang Mahamulia. «Aku memadamkan kalian dengan nama Allah yang tidak ada sesuatu pun yang membahayakan bersama nama-Nya, baik di bumi maupun di langit; dan Dialah Yang Maha Mendengar lagi Maha Mengetahui.» Dan semoga Allah melimpahkan selawat serta salam kepada tuan kami Muhammad, keluarganya, dan para sahabatnya.
+
+Bab محبة yang ditulis dan digantung: طلسم berikut ditulis dan ayat-ayat di sekelilingnya pada saat yang baik, dengan bakaran yang wangi; lalu bacakan ayat-ayat berikut tujuh puluh dua kali, dengan tawakal pada setiap kali. Dan inilah طلسم-nya:. «Mereka mencintai mereka seperti mencintai Allah» — «yang seandainya engkau menafkahkan segala yang ada di bumi seluruhnya «…»»
+
+### 4. Syarah
+
+«طَفَيْتُكُمْ» kemungkinan «أَطْفَأْتُكُمْ»; «بِأَسْمِ اللَّهِ» mestinya «بِاسْمِ اللَّهِ»; keduanya dibiarkan dan dicatat.
+
+![Wafaq halaman 84](wafaq_qorin/84.jpg)
+
+Rajah halaman ini memuat garis dan angka yang tidak dapat dipastikan; hanya dicatat. «بِخُبُورٍ» mestinya «بِبُخُورٍ»; dibiarkan. Kutipan: QS al-Baqarah 2:165 dan at-Taubah 9:60 (terpotong).
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**Fasal Ketujuh Belas — قضاء الحاجة**: ditulis dan menggantungkan dengan basmalah serta dialog «دخلت عليكم دخول الأسد… أنتم النار وأنا الماء أطفيئكم»; lalu **باب محبة يكتب ويحمل** — ditulis طلسم dengan ayat «يحبونهم كحب الله» 72 kali dan **rajah bergambar**; ditutup potongan QS at-Taubah 9:60.
+
+**Waktu:** Bab mahabbah ditulis pada saat baik/mubarak
+
+**Media:** Tulisan basmalah/tasliyah dan formula kebutuhan digantungkan; thilsim mahabbah dengan ayat di sekelilingnya digantung dan ayat dibaca tujuh puluh dua kali dengan taukil setiap kali; rajah angka/huruf
+
+**Bukhur:** Bakhūr ṭayyib (bakaran wangi) tanpa nama bahan
+
+## M85 — Halaman 85, باب للخطوبة dengan طلسم
+
+### 1. Arab
+
+مَحَبَّةُ كَذَا فِي قَلْبِ كَذَا بِحَقِّ هَذِهِ الْآيَاتِ الشَّرِيفَةِ وَالطَّلَاسِمِ الْمُبَارَكَةِ الْوَحَا الْوَحَا الْعَجَلَ الْعَجَلَ السَّاعَةَ السَّاعَةَ.
+
+- بَابٌ لِلْخِطْبَةِ -
+
+اكْتُبْ هَذَا الطِّلَسْمَ الْآتِي عَلَى وَرَقَةٍ مَعَ التَّوْكِيلِ بِاسْمِ الطَّالِبِ وَالْمَطْلُوبِ بِأَسْمَائِهِمْ وَحَوْلَهُ الْآيَاتِ وَبَخِّرْ بِطِيبٍ وَاتْلُ عَلَيْهِمُ الْآيَاتِ ٧٢ مَرَّةً وَيَحْمِلُهَا الطَّالِبُ مَعَهُ وَيَتَوَجَّهُ إِلَى طَلَبِهِ فَيَحْصُلُ الْقَبُولُ الْعَظِيمُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذَا الطِّلَسْمُ كَمَا يَرَى
+
+الطِّلَسْمُ: [رَسْمٌ وَأَرْقَامٌ فِي صُورَةِ الصَّفْحَةِ ٨٥]
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَكُونُوا كَالَّذِينَ آمَنُوا كَالَّذِينَ أَوْ مَا قَاتَلُوا وَكَانَ عِنْدَ اللَّهِ وَجِيهًا وَرَفَعْنَاهُ مَكَانًا عَلِيًّا تَوَكَّلُوا يَا خُدَّامَ هَذِهِ الْآيَاتِ وَالطِّلَسْمِ وَأَجْلِبُوا الْقَبُولَ وَالْوَجَاهَةَ بِقَبُولِ كَذَا وَكَذَا وَاجْعَلُوا لَهُ الْقَبُولَ وَالرِّفْعَةَ حَتَّى يَتِمَّ نَفَاذُ الْأَمْرِ بِحَقِّ هَذِهِ الْآيَاتِ الْعِظَامِ وَالطِّلَسْمِ الْوَحَا الْوَحَا الْعَجَلَ الْعَجَلَ السَّاعَةَ السَّاعَةَ
+
+### 2. Latin
+
+Mahabbatu kadzaa fii qalbi kadzaa bihaqqi haadzihil aayaatisy syariifati wath thalaasimil mubaarakati al-wahal wahal 'ajala 'ajala as-saa'ata as-saa'ata. - Baabun lil khithbati - Uktub haadzath thilsimal aatiya 'alaa waraqatin ma'at tawkiili bismith thaah libi wal mathluubi bi-asmaa-ihim wa haulahul aayaatu wa bakhkhir bithiibin watlu 'alaihimul aayaatu 72 marratan wa yahmiluhaal thaah libu ma'ahu wa yatawajjahu ilaa thalabihi fayahshulul qabuulul 'azhiimu bi-idznillaahi ta'aalaa wa haadzath thilsimu kamaa yaraa.
+
+Ath thilsimu:. Yaa ayyuhal ladziina aamanuu laa takuunuu kalladziina aamanuu kalladziina aw maa qaataluu wa kaana 'indallaahi wajiihan wa rafa'naahu makaanan 'aliyyan. Tawakkalau yaa khuddaama haadzihil aayaati wath thilsimi wa ajlibul qabuula wal wajaahata biqabuuli kadzaa wa kadzaa waj'aluu lahul qabuula war rif'ata hattaa yatamma nafaadzul amri bihaqqi haadzihil aayaatil 'izhaami wath thilsimil wahal wahal 'ajala 'ajala as-saa'ata as-saa'ata.
+
+### 3. Terjemahan
+
+«Cinta si Fulan di hati si Fulan dengan hak ayat-ayat yang mulia ini dan طلسم-طلسم yang diberkahi — segeralah, segeralah, cepatlah, cepatlah, saat ini, saat ini.» — Bab untuk peminangan: tulislah طلسم berikut pada selembar kertas bersama «توكيل» dengan nama pemohon dan yang diminta beserta nama-nama mereka; ayat-ayat di sekelilingnya; bakarlah dengan wangi-wangian, dan bacakan ayat-ayat itu kepada keduanya tujuh puluh dua kali. Kertas itu dibawa pemohon bersamanya lalu ia menuju (orang) yang ia minta, maka akan terjadi penerimaan yang besar dengan izin Allah—Mahatinggi. Dan طلسم ini sebagaimana engkau lihat «…»
+
+طلسم:. «Wahai orang-orang yang beriman, janganlah kamu menjadi seperti orang-orang yang «…»» «…»dan dia adalah orang yang berkedudukan di sisi Allah, dan Kami angkat dia ke tempat yang tinggi.» Bertawakallah, hai para pelayan ayat-ayat dan طلسم ini; datangkanlah penerimaan dan kedudukan dengan diterimanya si Fulan dan Fulanah; jadikanlah baginya penerimaan dan pengangkatan sehingga sempurna terlaksananya perkara, dengan hak ayat-ayat yang agung ini dan طلسم — segeralah, segeralah, cepatlah, cepatlah, saat ini, saat ini.
+
+### 4. Syarah
+
+Kutipan pada cetakan rusak dan terpotong («لَا تَكُونُوا كَالَّذِينَ آمَنُوا كَالَّذِينَ…»), dan tidak ditambal; rujukannya tampak mengarah QS Ali Imran 3:144 dan Maryam 19:57, tetapi susunannya tidak utuh. «الْوَجَاهَة» = kedudukan/kemuliaan.
+
+![Wafaq halaman 85](wafaq_qorin/85.jpg)
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Penutup bab محبة («محبة كذا في قلب كذا…») lalu **باب للخطوبة** — ditulis طلسم pada kertas bersama nama pemohon dan yang diminta, membakar dengan bakhur wangi, membaca ayat 72 kali hingga terkabul; disertai **rajah/baris angka bergambar** dan kutipan QS al-Baqarah 2:132.
+
+**Media:** Kelanjutan formula mahabbah M84; untuk peminangan: thilsim pada kertas dengan taukil dan nama pemohon serta yang diminta, ayat dibaca tujuh puluh dua kali, kertas dibawa pemohon; rajah angka/huruf
+
+**Bukhur:** Diasapi/dibakar dengan wangi-wangian tanpa nama bahan
+
+## M86 — Halaman 86, فائدة لوضع الحمل dan خاتم سليمان
+
+### 1. Arab
+
+فَائِدَةٌ لِوَضْعِ الْحَمْلِ كَلَمْحِ الْبَصَرِ -
+
+يُكْتَبُ وَيُحْمَلُ عَلَى بَطْنِهَا فَإِنَّهَا تَلِدُ بِدُونِ تَعَبٍ بِرَكَةِ هَذَا الْحِجَابِ وَهَذَا مَا تُكْتَبُ: بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ إِذَا السَّمَاءُ انْشَقَّتْ وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ وَإِذَا الْأَرْضُ مُدَّتْ وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ وَأَلْقَتْ الْحَامِلُ مَا فِي بَطْنِهَا مِنَ الْجَنِينِ سَالِمًا بِإِذْنِ اللَّهِ تَعَالَى وَتَنْزِلُ كَمَا وَضَعَتْ مَرْيَمُ عِيسَى عَلَيْهِ السَّلَامُ أَنَّهُ مِنْ سُلَيْمَانَ وَأَنَّهُ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+
+[بَارِسُ أَرْقَامٍ وَرُمُوزٍ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٨٦]
+
+أَنْزِلْ أَيُّهَا الْمَوْلُودُ مِنْ بَطْنِي أَمَلَ سَلَامًا بِإِذْنِ اللَّهِ تَعَالَى وَبِأَلْفِ لَاحَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ.
+
+خَاتَمُ سُلَيْمَانَ: [رَسْمٌ وَنُقُوشٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٨٦]
+
+### 2. Latin
+
+Faa-idatun liwadh'il hamli kal amhil bashari - yuktabu wa yuhmalu 'alaa bathnihaa fa-innahaa talidu biduuni ta'abin birakati haadzal hijaabi wa haadzaa maa tuktabu: bismillaahir rahmaanir rahiim idzas samaa-u insyaqqat wa adzinat lirabbihaa wa huqqat wa idzal ardhu muddat wa alqat maa fiihaa wa takhallat wa alqatil haamilu maa fii bathnihaa minal janiini saaliman bi-idznillaahi ta'aalaa wa tanzilu kamaa wadha'at maryamu 'iisaa 'alaihis salaamu annahu min sulaimaana wa annahu bismillaahir rahmaanir rahiim.
+
+Anzil ayyuhal mauluudu min bathnii amala salaaman bi-idznillaahi ta'aalaa wa bi-alfi laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiimi wa shallal laahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi wa sallama. Khaatamu sulaimaana:.
+
+### 3. Terjemahan
+
+Faedah agar persalinan terjadi sekejap mata: ditulis dan digantungkan pada perutnya, maka ia akan melahirkan tanpa kesulitan dengan berkah hijab ini; inilah yang ditulis: Dengan nama Allah Yang Maha Pengasih dan Maha Penyayang. «Apabila langit terbelah, dan patuh kepada Tuhannya, dan sudah semestinya (demikian); dan apabila bumi diratakan, dan memuntahkan apa yang ada di dalamnya, dan menjadi kosong» — dan «hendaklah perempuan hamil itu mengeluarkan apa yang ada di perutnya berupa janin dengan selamat, dengan izin Allah—Mahatinggi, dan turun (lahir) sebagaimana Maryam melahirkan Isa—semoga salam atasnya—bahwa itu dari Sulaiman, dan bahwa itu dengan nama Allah Yang Maha Pengasih dan Maha Penyayang.»
+
+«Turunlah, hai bayi, dari perutku dengan selamat, dengan izin Allah—Mahatinggi, dan dengan seribu (kali) tiada daya dan kekuatan kecuali dengan (pertolongan) Allah Yang Mahatinggi lagi Mahaagung»; semoga Allah melimpahkan selawat dan salam kepada tuan kami Muhammad, keluarganya, dan para sahabatnya. خاتم سليمان:.
+
+### 4. Syarah
+
+Kutipan QS al-Insyiqaq 84:1–4 disusun ulang dan dicampur kalimat penulis («وألقت الحامل…») — pisahkan dan tidak menyatukannya sebagai ayat. «أَنَّهُ مِنْ سُلَيْمَانَ» tidak jelas maknanya; dibiarkan.
+
+![Wafaq halaman 86](wafaq_qorin/86.jpg)
+
+«أَمَلَ سَلَامًا» tidak dapat dipastikan (mungkin «بِأَمَلِ سَلَام/سَلَامًا»); baris angka pada halaman ini juga tidak dapat dipastikan susunannya. «بِأَلْفِ لَاحَوْلَ» = seribu kali hauqalah.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**فائدة لوضع الحمل كلمح البصر** — ditulis dan menggantungkan pada perut agar melahirkan tanpa susah; dengan kutipan QS al-Insyiqaq 84:1–4 dan pernyataan bahwa Maryam melahirkan Isa; lalu **baris angka besar** dan **lambang خاتم سليمان bergambar** serta doa penutup.
+
+**Media:** Hijab persalinan ditulis dan digantungkan pada perut; ayat bumi diratakan (al-Insyiqāq 84:3–4), perumpamaan Maryam melahirkan Isa, dan pembukaan surat Sulaiman; empat wafaq kecil di kepala halaman
+
+## M87 — Halaman 87, Fasal Ketujuh Belas: القرين والجن
+
+### 1. Arab
+
+الْفَصْلُ السَّابِعَ عَشَرَ
+
+الْقَرِينُ وَالْجِنُّ
+
+عَنِ ابْنِ مَسْعُودٍ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: (مَا مِنْكُمْ أَحَدٌ إِلَّا وَقَدْ وُكِّلَ بِهِ قَرِينُهُ مِنَ الْجِنِّ وَقَرِينُهُ مِنَ الْمَلَائِكَةِ) قَالُوا: وَأَنْتَ يَا رَسُولَ اللَّهِ؟ قَالَ: (وَإِيَّايَ، وَلَكِنَّ اللَّهَ تَعَالَى أَعَانَنِي عَلَيْهِ فَلَا يَأْمُرُنِي إِلَّا بِحَقٍّ) وَفِي رِوَايَةٍ أُخْرَى: (مَا مِنْ أَحَدٍ إِلَّا وَقَدْ وُكِّلَ بِهِ قَرِينُهُ مِنَ الْجِنِّ) قَالُوا: وَأَنْتَ يَا رَسُولَ اللَّهِ؟ قَالَ: (وَأَنَا، إِلَّا أَنَّ اللَّهَ تَعَالَى أَعَانَنِي عَلَيْهِ فَأَسْلَمَ فَلَيْسَ يَأْمُرُنِي إِلَّا بِخَيْرٍ)
+
+وَقَدْ وَرَدَ فِي إِسْلَامِ الْقَرِينِ النَّبَوِيِّ صَرِيحًا لَا يَحْتَمِلُ التَّأْوِيلَ عَنِ ابْنِ عُمَرَ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: (فُضِّلْتُ عَلَى آدَمَ بِخَصْلَتَيْنِ: كَانَ شَيْطَانِي كَافِرًا فَأَعَانَنِي اللَّهُ عَلَيْهِ حَتَّى أَسْلَمَ، وَكَانَ أَزْوَاجِي عَوْنًا لِي). وَكَانَ شَيْطَانُ آدَمَ كَافِرًا وَزَوْجَتُهُ عَوْنًا عَلَى خَطِيئَتِهِ. فَهَذَا صَرِيحٌ فِي أَسْلَامِ قَرِينِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ
+
+### 2. Latin
+
+Al-fashlus saabi'a 'asyara: al-qariinu wal jinnu. 'Anibni mas'uudin qaala: qaala rasuulullaahi shallallaahu 'alaihi wa sallama: (maa minkum ahadun illaa wa qad wukkila bihi qariinuhu minal jinni wa qariinuhu minal malaa-ikati) qaaluu: wa anta yaa rasuulallaahi? qaala: (wa iyyaaya, wa laakinnallaaha ta'aalaa a'aananii 'alaihi falaa ya'murunii illaa bihaqqin) wa fii riwaayatin ukhraa: (maa min ahadin illaa wa qad wukkila bihi qariinuhu minal jinni) qaaluu: wa anta yaa rasuulallaahi? qaala: (wa ana, illaa annallaaha ta'aalaa a'aananii 'alaihi fa-aslama falaisa ya'murunii illaa bikhairin).
+
+Wa qad warada fii islaamil qariinin nabawiyyi shariihan laa yahtamilut ta'wiila 'anibni 'umara qaala: qaala rasuulullaahi shallallaahu 'alaihi wa sallama: (fudhdhiltu 'alaa aadama bikhaslataini: kaana syaithaanii kaafiran fa-a'aananillaahu 'alaihi hattaa aslama, wa kaana azwaajii 'aunan lii). Wa kaana syaithaanu aadama kaafiran wa zaujatuhu 'aunan 'alaa khathii-atihi. Fa haadzaa shariihun fii aslaami qariinin nabiyyi shallallaahu 'alaihi wa sallama.
+
+### 3. Terjemahan
+
+Fasal ketujuh belas: qarin dan jin. Dari Ibnu Mas‘ud, ia berkata: Rasulullah ﷺ bersabda: «Tidak ada seorang pun di antara kalian kecuali telah ditugaskan kepadanya qarinnya dari jin dan qarinnya dari malaikat.» Mereka bertanya: «Dan engkau, ya Rasulullah?» Beliau menjawab: «Dan aku juga, tetapi Allah—Mahatinggi—menolongku atasnya, sehingga ia tidak memerintahku kecuali dengan kebenaran.» Dalam riwayat lain: «Tidak ada seorang pun kecuali telah ditugaskan kepadanya qarinnya dari jin.» Mereka bertanya: «Dan engkau, ya Rasulullah?» Beliau menjawab: «Dan aku juga, hanya saja Allah—Mahatinggi—menolongku atasnya lalu ia masuk Islam, sehingga ia tidak memerintahku kecuali dengan kebaikan.»
+
+Dan telah datang (riwayat) tentang keislaman qarin Nabi secara jelas yang tidak mengandung takwil, dari Ibnu Umar, ia berkata: Rasulullah ﷺ bersabda: «Aku diberi keutamaan atas Adam dengan dua hal: setanku adalah kafir, lalu Allah menolongku atasnya sehingga ia masuk Islam; dan istri-istriku menjadi penolong bagiku.» Dan setan Adam adalah kafir, sedangkan istrinya menjadi penolong atas kesalahannya. Maka ini jelas tentang keislaman qarin Nabi ﷺ.
+
+### 4. Syarah
+
+Dua riwayat hadis ini dikutip seperti tercetak dan belum terverifikasi sanad maupun penilaiannya; perbedaan «فأَسْلَم» (masuk Islam) dan «فَأَسْلَمَ» dibaca sesuai cetakan. «وُكِّلَ بِهِ» = ditugaskan kepadanya.
+
+«أَسْلَامِ» pada cetakan memakai alif washal; ditulis «إِسْلَام». Hadis ini juga belum diverifikasi sanadnya. «فُضِّلْتُ عَلَى آدَمَ بِخَصْلَتَيْنِ» = dua perkara.
+
+## M88 — Halaman 88, dalil lanjutan dan iklan penulis
+
+### 1. Arab
+
+وَأَنَّ هَذَا خَاصٌّ بِقَرِينِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَيَكُونُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُخْتَصًّا بِأَسْلَامِ قَرِينِهِ لِقَوْلِهِ (فُضِّلْتُ عَلَى آدَمَ بِخَصْلَتَيْنِ وَعَدَّ مِنْهُمَا إِسْلَامَ قَرِينِهِ).
+
+وَعَنْ جَابِرٍ قَالَ: قَالَ لَنَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: (لَا تَدْخُلُوا عَلَى الْمُغْفِلَاتِ فَإِنَّ الشَّيْطَانَ يَجْرِي مِنْ أَبْنِ آدَمَ مَجْرَى الدَّمِ فِي قِيلٍ وَمِنْكَ يَا رَسُولَ اللَّهِ؟ قَالَ: وَصَنَعِي وَلَكِنَّ اللَّهَ تَعَالَى أَعَانَنِي فَأَسْلَمَ)
+
+وَقَالَ أَبُو الْأَزْهَرِ الْأَنْصَارِيُّ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا أَخَذَ مَضْجَعَهُ مِنَ اللَّيْلِ قَالَ: (بِسْمِ اللَّهِ وَضَعْتُ جَنْبِي، اللَّهُمَّ إِنِّي أَعُوذُ مِنْ وَاحِسِ شَيْطَانِي وَفَتِّ رَهَانِي وَثِقْلِ مِيزَانِي وَأَجْعَلُهُ مِنَ النَّدَى الْأَعْلَى)
+
+[إِعْلَانُ الْمُؤَلِّفِ:]
+
+إِذَا أَرَدْتَ الِاسْتِشَارَةَ فَأَتَّصِلْ بِرَقْمٍ: ٢٤٦٣١٢٦ – ٢٦٢٧٣٨٠
+
+لِتَحْدِيدِ مَوْعِدٍ مَعَ الْكَاتِبِ الرُّوحَانِيِّ
+
+محمد سامي محمد محمد
+
+### 2. Latin
+
+Wa anna haadzaa khaashshun biqariinin nabiyyi shallallaahu 'alaihi wa sallama fayakuunu shallallaahu 'alaihi wa sallama mukhtashshan bi-aslaami qariinihi liqaulihi (fudhdhiltu 'alaa aadama bikhaslataini wa 'adda minhaa islaama qariinihi). Wa 'an jaabirin qaala: qaala lanas nabiyyu shallallaahu 'alaihi wa sallama: (laa tadkhuluu 'alal mughfilaati fa-innasy syaithaana yajrii min abni aadama majrad dami fii qiilin wa minka yaa rasuulallaahi? qaala: wa shana'ii wa laakinnallaaha ta'aalaa a'aananii fa-aslama).
+
+Wa qaala abul azharil anshaariyyu anna rasuulallaahi shallallaahu 'alaihi wa sallama kaana idzaa akhadza madhja'ahu minal laili qaala: (bismillaahi wadha'tu janbii, Allaahumma innii a'uudzu min waahisi syaithaanii wa fatti rahaanii wa tsiqli miizaani wa aj'aluhu minan nada al-a'laa). [I'laanul mu-allifi:] idzaa aradtal istisyaarata fa-ttashil biraqmin: 2463126 - 2627380 litahdiidi mau'idin ma'al kaatibir ruuhaniyyi. Muhammad Saamiy Muhammad Muhammad.
+
+### 3. Terjemahan
+
+Dan bahwa hal ini khusus bagi qarin Nabi ﷺ, sehingga beliau ﷺ khusus dengan keislaman qarinnya, karena sabdanya: «Aku diberi keutamaan atas Adam dengan dua hal» dan beliau menghitung di antaranya keislaman qarinnya. Dan dari Jabir, ia berkata: Nabi ﷺ berkata kepada kami: «Janganlah kalian masuk (menemui) perempuan-perempuan yang lalai, karena setan mengalir dalam tubuh anak Adam seperti aliran darah.» (Ada yang bertanya:) «Dalam (dirimu) juga, ya Rasulullah?» Beliau menjawab: «Dan (dalam) diriku juga, tetapi Allah—Mahatinggi—menolongku lalu ia masuk Islam.»
+
+Dan Abu al-Azhar al-Anshari berkata bahwa Rasulullah ﷺ, apabila hendak berbaring pada malam hari, beliau mengucapkan: «Dengan nama Allah aku meletakkan lambungku. Ya Allah, aku berlindung dari bisikan setanku, dari utang yang membebani, dan dari beratnya timbanganku, dan aku jadikan ia (milik) Yang Mahatinggi.»
+
+[Iklan penulis:] Jika engkau ingin berkonsultasi, hubungilah nomor: ٢٤٦٣١٢٦ – ٢٦٢٧٣٨٠ untuk menentukan janji dengan penulis «ruhani» itu. Muhammad Saamiy Muhammad Muhammad.
+
+### 4. Syarah
+
+«الْمُغْفِلَات» = perempuan-perempuan yang lalai (tidak menjaga diri); «فِي قِيلٍ» pada cetakan tidak jelas (mungkin «فقيل»). «وَصَنَعِي» kemungkinan «وَصَنِيعِي» atau «فِي نَفْسِي»; dipertahankan dan ditandai. Hadis belum diverifikasi.
+
+«فَتِّ رَهَانِي» bisa «فَتِّرْ» atau «فَكَّ»; «وَثِقْلِ» dibaca «tsiqli»; keduanya dipertahankan. Penting: bagian kontak di akhir halaman bukan bagian dari kitab — itu iklan penerbit/penulis. Dicatat apa adanya dan tidak disarankan menghubungi nomor apa pun.
+
+## M89 — Halaman 89, pembahasan: jin makan dan minum
+
+### 1. Arab
+
+* الْجِنُّ يَأْكُلُ وَيَشْرَبُ *
+
+لَقَدْ أَخْتَلِفَ كَثِيرٌ مِنَ النَّاسِ: هَلِ الْجِنُّ تَأْكُلُ وَتَشْرَبُ مِثْلَ الْإِنْسِ أَمْ لَا؟ وَأَقُولُ وَبِاللَّهِ التَّوْفِيقُ: أَنَّ الْجِنَّ أَجْنَاسٌ. فَأَمَّا خَالِصُ الْجِنِّ فَهُمْ رِيحٌ لَا يَأْكُلُونَ وَلَا يَشْرَبُونَ وَلَا يَتَوَالَدُونَ، وَمِنْهُمْ أَجْنَاسٌ يَأْكُلُونَ وَيَشْرَبُونَ وَيَتَوَالَدُونَ وَيَتَنَاكَحُونَ مِنْهُمُ السَّعَالَى وَالْغُولُ وَالْقَطْرُ وَالِاشْتِيَاءُ ذَلِكَ
+
+وَفِي الصَّحِيحَيْنِ: أَنَّ الْجِنَّ سَأَلُوا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ؟ فَقَالَ: (كُلُّ عَظْمٍ ذُكِرَ اسْمُ اللَّهِ عَلَيْهِ يَقَعُ فِي يَدِ أَحَدِكُمْ أَوْفَرَ مَا يَكُونُ لَحْمًا، وَكُلُّ يَسْعَرُ عِلْفَ لِدَوَابِّهِمْ وَزَادِ ابْنِ تَسْلَامَ فِي تَفْسِيرِهِ أَنَّ الْبَقَرَ يَعُودُ خَضْرًا لِدَوَابِّهِمْ). وَقَدْ نُهِيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَسْتَنْجِيَ بِالْعَظْمِ وَالرَّوْثِ وَقَالَ إِنَّهُ زَادُ أَخْوَانِكُمْ مِنَ الْجِنِّ. وَهَذَا ثَبَتَ أَنَّ الْجِنَّ تَأْكُلُ وَتَشْرَبُ كَالْإِنْسَانِ تَمَامًا وَعَنِ جَابِرٍ بْنِ عَبْدِ اللَّهِ قَالَ:
+
+### 2. Latin
+
+*Al-jinnu ya'kulu wa yasyrabu* Laqad ikhtalafa katsiirun minan naasi: halil jinnu ta'kulu wa tasyrabu mitslal insi am laa? Wa aquulu wa billaahit taufiiqu: annal jinna ajnaasun. Fa-ammaa khaalishul jinni fahum riihun laa ya'kuluuna wa laa yasyrabuuna wa laa yatawaaladuuna, wa minhum ajnaasun ya'kuluuna wa yasyrabuuna wa yatawaaladuuna wa yatanaakahuuna minhumus sa'aalaa wal ghuulu wal qathru wal isytiyaa-u dzaalika.
+
+Wa fish shahihaini: annal jinna sa-aluu rasuulallaahi shallallaahu 'alaihi wa sallama? faqaala: (kullu 'azhmin dzukira-smullaahi 'alaihi yaqa'u fii yadi ahadikum awfara maa yakuunu lahman, wa kullu yas'aru 'ilfa lidawaabbihim wa zaada-bnu taslaama fii tafsiirihi annal baqara ya'uudu khadhran lidawaabbihim). Wa qad nuhiya rasuulullaahi shallallaahu 'alaihi wa sallama an yastanjii bil 'azhmi war rautsi wa qaala innahu zaadu ikhwaanikum minal jinni. Wa haadzaa tsabata annal jinna ta'kulu wa tasyrabu kal insaani tamaaman wa 'an jaabiri bni 'abdillaahi qaala.
+
+### 3. Terjemahan
+
+*Jin makan dan minum.* Sungguh banyak manusia berselisih: apakah jin makan dan minum seperti manusia atau tidak? Aku berkata, dan kepada Allah-lah taufik: bahwa jin itu bermacam-macam jenis. Adapun jin yang murni, mereka adalah angin, tidak makan, tidak minum, dan tidak berketurunan. Di antara mereka ada jenis yang makan, minum, berketurunan, dan menikah; di antaranya السعالي, الغول, القطر, dan الاشتياء.
+
+Dalam kedua kitab Shahih: bahwa jin bertanya kepada Rasulullah ﷺ, lalu beliau bersabda: «Setiap tulang yang disebutkan nama Allah padanya akan jatuh ke tangan salah seorang kalian dalam keadaan paling banyak dagingnya, dan setiap (kotoran) menjadi makanan hewan-hewan mereka.» Ibnu Taslam menambahkan dalam tafsirnya bahwa kotoran sapi kembali menjadi hijau (rumput) untuk hewan-hewan mereka. Dan Rasulullah ﷺ dilarang beristinja dengan tulang dan kotoran, dan beliau bersabda bahwa itu adalah bekal saudara-saudara kalian dari jin. Dan ini menetapkan bahwa jin makan dan minum seperti manusia sepenuhnya. Dan dari Jabir bin Abdullah, ia berkata:
+
+### 4. Syarah
+
+«أَخْتَلِفَ» mestinya «اخْتَلَفَ»; dipertahankan bentuk cetak dan ditandai. «الِاشْتِيَاء» tidak dapat dipastikan (mungkin «الأشياء» atau nama jenis). «الْقَطْر» bisa «القِطْر».
+
+Kutipan ini tidak utuh dan susunannya rusak pada cetakan («وَكُلُّ يَسْعَرُ عِلْفَ لِدَوَابِّهِمْ»، «ابْنِ تَسْلَامَ») — dibiarkan dan ditandai, tidak ditambal. Rujukan «الصحيحين» dicatat sebagai klaim penulis, belum terverifikasi.
+
+## M90 — Halaman 90, hadis Jabir, adab makan, dan القرين يتزوج
+
+### 1. Arab
+
+بَيْنَمَا أَنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَمْشِي إِذْ جَاءَتْ حَيَّةٌ فَقَامَتْ إِلَى جَنْبِهِ فَأَدْنَتْ فَاهَا مِنْ أُذُنِهِ وَكَأَنَّهُ تَنَاجِيهِ أَوْ نَحْوَ هَذَا فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: نَعَمْ فَانْصَرَفَاتْ. قَالَ جَابِرٌ: فَسَأَلْتُهُ فَأَخْبَرَنِي أَنَّهُ رَجُلٌ مِنَ الْجِنِّ وَأَنَّهُ قَالَ: مَرْأَتُكَ لَا يَسْتَنْجِي بِالرَّوْثِ وَلَا بِالرَّمَّةِ فَإِنَّ اللَّهَ جَعَلَ لَنَا ذَلِكَ رِزْقًا
+
+وَرَوَى مُسْلِمٌ وَمَالِكٌ وَأَبُو دَاوُدَ وَالتِّرْمِذِيُّ مِنْ حَدِيثِ عَبْدِ اللَّهِ بْنِ عُمَرَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: (لَا يَأْكُلَنَّ أَحَدٌ مِنْكُمْ بِشِمَالِهِ وَلَا يَشْرَبَنَّ بِهَا فَإِنَّ الشَّيْطَانَ يَأْكُلُ بِشِمَالِهِ وَيَشْرَبُ بِشِمَالِهِ وَيُعْطِي بِشِمَالِهِ وَيَأْخُذُ بِشِمَالِهِ). وَهَذَا الْحَدِيثُ يَدُلُّ عَلَى أَنَّ الشَّيَاطِينَ يَأْكُلُونَ وَيَشْرَبُونَ.
+
+* الْقَرِينُ يَتَزَوَّجُ *
+
+قَالَهُ اللَّهُ تَعَالَى: (لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ) وَهَذَا يَدُلُّ عَلَى أَنَّهُ أَيِ الْقَرِينُ يَتَزَوَّجُ وَيَتَنَاسَلُ وَيَقُولُ اللَّهُ تَعَالَى (افَتَخَذُونِي وَذُرِّيَّتَهُ أَوْلِيَاءَ مِنْ دُونِي وَهُمْ لَكُمْ عَدُوٌّ)
+
+### 2. Latin
+
+Bainamaa ana ma'a rasuulillaahi shallallaahu 'alaihi wa sallama yamsyii idz jaa-at hayyatun faqaamat ilaa janbihi fa-adnat faahaa min udzunihi wa ka-annahu tunaajiihi aw nahwa haadzaa faqaalan nabiyyu shallallaahu 'alaihi wa sallama: na'am fansharafat. Qaala jaabirun: fasa-altuhu fa-akhbaranii annahu rajulun minal jinni wa annahu qaala: mar-atuka laa yastanjii bir rautsi wa laa bir rimmti fa-innallaaha ja'ala lanaa dzaalika rizqan.
+
+Wa rawaa muslimun wa maalikun wa abuu daawuuda wat tirmidziyyu min hadiitsi 'abdillaahi bni 'umara anna rasuulallaahi shallallaahu 'alaihi wa sallama qaala: (laa ya'kulanna ahadun minkum bisyimaalihi wa laa yasyraban bihaa fa-innasy syaithaana ya'kulu bisyimaalihi wa yasyrabu bisyimaalihi wa yu'thii bisyimaalihi wa ya'khudzu bisyimaalihi). Wa haadzal hadiitsu yadullu 'alaa annasy syayaathiina ya'kuluuna wa yasyrabuuna. *Al-qariinu yatazawwaju* qaalahullaahu ta'aalaa: (lam yathmithhunna insun qablahum wa laa jaannun) wa haadzaa yadullu 'alaa annahu ayil qariinu yatazawwaju wa yatanaasalu wa yaquulullaahu ta'aalaa (aftakhadztumuunii wa dzurriyyatahu auliyaa-a min duunii wa hum lakum 'aduwwun).
+
+### 3. Terjemahan
+
+Ketika aku bersama Rasulullah ﷺ berjalan, tiba-tiba datang seekor ular, lalu berdiri di sisinya dan mendekatkan mulutnya ke telinga beliau — seakan ia membisikkan sesuatu kepadanya atau semacamnya — lalu Nabi ﷺ bersabda: «Ya.» Lalu (ular itu) pergi. Jabir berkata: Aku bertanya kepada beliau, lalu beliau mengabarkan bahwa ia adalah seorang lelaki dari jin, dan bahwa ia berkata: «Istrimu jangan beristinja dengan kotoran dan tidak pula dengan tulang belulang, karena Allah telah menjadikan itu rezeki bagi kami.»
+
+Muslim, Malik, Abu Dawud, dan Tirmidzi meriwayatkan dari hadis Abdullah bin Umar bahwa Rasulullah ﷺ bersabda: «Janganlah sekali-kali salah seorang dari kalian makan dengan tangan kirinya dan tidak pula minum dengannya, karena setan makan dengan tangan kirinya, minum dengan tangan kirinya, memberi dengan tangan kirinya, dan mengambil dengan tangan kirinya.» Hadis ini menunjukkan bahwa setan-setan makan dan minum.
+
+*Qarin menikah.* Allah—Mahatinggi—berfirman: «Belum pernah disentuh oleh manusia sebelum mereka, dan tidak pula oleh jin.» Ini menunjukkan bahwa qarin menikah dan berketurunan. Dan Allah—Mahatinggi—berfirman: «Apakah patut kalian mengambil dia dan keturunannya sebagai pemimpin selain-Ku, padahal mereka adalah musuh bagi kalian?»
+
+### 4. Syarah
+
+«فَانْصَرَفَاتْ» pada cetakan tidak baku (mestinya «فَانْصَرَفَتْ»); «بِالرَّمَّةِ» kemungkinan «الرِّمَّة» (tulang lapuk). Hadis belum diverifikasi.
+
+«يَطْمِثْهُنَّ» pada cetakan; «افَتَخَذُونِي» seharusnya «أَفَتَتَّخِذُونَهُ» (QS al-Kahf 18:50) — dipertahankan bentuk cetak dan ditandai perbedaannya, tidak diubah. Kutipan pertama QS ar-Rahman 55:56. Sanad hadis belum diverifikasi.
+
+## M91 — Halaman 91, dalil qarin berketurunan
+
+### 1. Arab
+
+وَهَذَا دَلِيلٌ مِنَ الْقُرْآنِ الْكَرِيمِ يَدُلُّ عَلَى أَنَّهُمْ يَتَزَوَّجُونَ وَالزَّرِيهِ هُمُ الْوَلَدُ وَالْأَهْلِ وَرَفَقَتُهُمْ لَا تَمْنَعُ مَنْ كَانَ مَا يَلِدُهُ لَطِيفًا (فَسُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنْبِتُ الْأَرْضُ وَمِنْ أَنْفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ)
+
+### 2. Latin
+
+Wa haadzaa daliilun minal qur-aanil kariimi yadullu 'alaa annahum yatazawwajuuna waz zariihu humul waladu wal ahlu wa rafaqatuhum laa tamna'u man kaana maa yaliduhu lathiifan (fasubhaanal ladzii khalaqal azwaaja kullahaa mimmaa tunbitul ardhu wa min anfusihim wa mimmaa laa ya'lamuuna).
+
+### 3. Terjemahan
+
+Dan ini adalah dalil dari Al-Qur’an yang mulia yang menunjukkan bahwa mereka menikah; dan keturunan mereka adalah anak dan keluarga. Dan (kata) «رفقتهم» tidak menghalangi siapa yang dilahirkannya (menjadi) lembut. «Maka Mahasuci (Allah) yang menciptakan segala pasangan, dari apa yang ditumbuhkan bumi, dari diri mereka sendiri, dan dari apa yang tidak mereka ketahui.»
+
+### 4. Syarah
+
+Kalimat ini rusak susunannya pada cetakan («وَالزَّرِيهِ هُمُ الْوَلَدُ وَالْأَهْلِ وَرَفَقَتُهُمْ لَا تَمْنَعُ…»); dipertahankan dan tidak ditambal karena tidak yakin pada maksud aslinya. Kutipan ayat adalah QS Yasin 36:36 (bukan 26:7) — dicatat koreksi rujukan, teks tidak diubah.
+
+«الذُّرِّيَّةِ (tercetak «الزريه»)» — alif lam syamsiyah; usulan ejaan «الزريه» → «الذرية».
+
+## M92 — Halaman 92, Fasal Kedelapan Belas: القرين مكلف
+
+### 1. Arab
+
+الْفَصْلُ الثَّامِنَ عَشَرَ
+
+الْقَرِينُ مُكَلَّفٌ
+
+أَعْلَمْ أَنَّ الْقَرِينَ هُوَ مِنَ الْجِنِّ وَأَعْلَمُ أَنَّ الْجِنَّ قَبَائِلُ مِثْلُ الْإِنْسِ وَإِذَا أَرَدْتَ التَّفْصِيلَ عُدْ إِلَى كِتَابِنَا الْأَجْزَاءِ الثَّلَاثَةِ (عِلْمُ الْأَسْرَارِ وَالدُّخُولِ فِي عَالَمِ الْجَانِّ) وَالدَّلِيلُ عَلَى أَنَّهُمْ مُكَلَّفُونَ مَا فِي الْقُرْآنِ مِنْ ذَمِّ الشَّيَاطِينِ وَلَعْنِهِمْ وَالتَّحَرُّزِ مِنْ غَوَائِلِهِمْ وَشَرِّهِمْ وَذِكْرِ مَا أَعَدَّ اللَّهُ لَهُمْ مِنَ الْعَذَابِ
+
+وَهَذِهِ الْخِصَالُ لَا يَفْعَلُهَا اللَّهُ تَعَالَى إِلَّا لِمَنْ خَالَفَ الْأَمْرَ وَالنَّهْيَ وَارْتَكَبَ الْكَبَائِرَ وَهَتَكَ الْمَحَارِمَ مَعَ تَمْكِينِهِ مِنْ أَنَّ لَا يَفْعَلَ ذَلِكَ وَقُدْرَتِهِ عَلَى فِعْلِ خِلَافِهِ. وَقَوْلُهُ تَعَالَى (قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ) إِلَى قَوْلِهِ (فَآمَنَّا بِهِ وَلَنْ نُشْرِكَ بِرَبِّنَا أَحَدًا) إِلَى غَيْرِ ذَلِكَ مِنَ الْآيَاتِ الدَّالَةِ عَلَى تَكْلِيفِهِمْ وَأَنَّهُمْ مَأْمُورُونَ مَنْهُيُونَ
+
+### 2. Latin
+
+Al-fashluts tsaamina 'asyara: al-qariinu mukallafun. A'lam annal qariina huwal minal jinni wa a'lamu annal jinna qabaa-ilu mitslul insi wa idzaa aradtat tafshiila 'ud ilaa kitaabinal ajzaa-its tsalaatsati ('ilmul asraari wad dukhuuli fii 'aalamil jaanni) wad daliilu 'alaa annahum mukallafuuna maa fil qur-aani min dzammisy syayaathiini wa la'nihim wat taharruzi min ghawaa-ilihim wa syarrihim wa dzikri maa a'addallaahu lahum minal 'adzaabi.
+
+Wa haadzihil khishaalu laa yaf'aluhaal laahu ta'aalaa illaa liman khaalafal amra wan nahya warkaabal kabaa-ira wa hatakal mahaarima ma'a tamkiinihi min an laa yaf'ala dzaalika wa qudratihi 'alaa fi'li khilaafihi. Wa qauluhu ta'aalaa (qul uuhiya ilayya annahustama'a nafarun minal jinni) ilaa qaulihi (fa-aamannaa bihi wa lan nusyrika birabbinaa ahada) ilaa ghairi dzaalika minal aayaatid daallati 'alaa takliifihim wa annahum ma-muuruuna manhiyyuuna.
+
+### 3. Terjemahan
+
+Fasal kedelapan belas: qarin itu mukallaf. Ketahuilah bahwa qarin adalah dari (golongan) jin, dan ketahuilah bahwa jin itu berbangsa-bangsa seperti manusia. Jika engkau menghendaki perinciannya, kembalilah kepada kitab kami yang tiga jilid («Ilmu Rahasia dan Memasuki Dunia Jin»). Dalil bahwa mereka dibebani (syariat) adalah apa yang ada dalam Al-Qur’an berupa celaan terhadap setan-setan, laknat atas mereka, perintah berlindung dari kejahatan dan keburukan mereka, serta penyebutan apa yang Allah siapkan bagi mereka berupa azab.
+
+Dan sifat-sifat ini tidak Allah—Mahatinggi—lakukan kecuali kepada orang yang menyalahi perintah dan larangan, melakukan dosa-dosa besar, dan melanggar hal-hal yang diharamkan, padahal Dia telah memampukannya untuk tidak melakukannya dan ia mampu melakukan yang sebaliknya. Dan firman-Nya—Mahatinggi—: «Katakanlah, telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (Al-Qur’an)» sampai firman-Nya «maka kami beriman kepadanya, dan kami tidak akan menyekutukan sesuatu pun dengan Tuhan kami» — dan selain itu dari ayat-ayat yang menunjukkan pembebanan (syariat) kepada mereka dan bahwa mereka diperintah dan dilarang.
+
+### 4. Syarah
+
+«الْأَجْزَاءِ الثَّلَاثَةِ» menunjuk karya lain penulis — dicatat sebagai rujukan, bukan sumber yang tersedia. «غَوَائِلِهِمْ» = kejahatan/kerusakan mereka.
+
+«الْخِصَال» merujuk hukuman/azab yang disebut sebelumnya. Kutipan QS al-Jinn 72:1–2.
+
+## M93 — Halaman 93, أنبياء الجن
+
+### 1. Arab
+
+- أَنْبِيَاءُ الْجِنِّ -
+
+يَقُولُ بَعْضُ النَّاسِ دُونَ عِلْمٍ أَنَّ الْجِنَّ لَيْسُوا لَهُمْ دِينٌ وَأَنَّهُمْ كَفَرَةٌ وَيَقُولُ بَعْضُ النَّاسِ أَيْضًا أَنَّهُ لَا يُوجَدُ فِي أَصْلًا وَيَقُولُ الْعَهْدُهُمْ أَنَا عَاوَزْ أَشْوَفُ الْجِنَّ دَهْ شَكْلَهُ أَيَّهُ وَأَنَا أَفْعَلْ بِهِ وَأَفْعَلْ كَذَا وَهَكَذَا يَسْتَمِرُّ الْكَلَامُ بَيْنَ الَّذِينَ يَعْلَمُونَ وَلَوْ رَآهُ أَحَدُهُمْ قَرِينُهُ لَفَزِعَ وَهَرَبَ مِنْهُ إِلَى أَقْصَى الْأَرْضِ
+
+وَلِتَعْلَمْ أَيُّهَا الطَّالِبُ وَالْوَاقِفُ عَلَى هَذَا الْبَابِ أَنَّ الْجِنَّ إِذَا دَخَلَ جَسَدَ أَحَدٍ لَمْ يَخْرُجْ أَبَدًا إِلَّا عَلَى يَدِ رَجُلٍ صَالِحٍ أَوْ شَيْخٍ زَاهِدٍ أَوْ عَالِمٍ نَاصِحٍ. وَأَعْلَمْ أَيُّهَا الطَّالِبُ فِي هَذَا الْعِلْمِ أَنَّ الْجِنَّ جَاءَهُمْ رُسُلًا قَبْلَ أَنْ يُبْعَثَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمْ تَسْمَعْ إِلَى قَوْلِهِ تَعَالَى (يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِنْكُمْ يَقُصُّونَ عَلَيْكُمْ) سُورَةُ الْأَنْعَامِ ١٣٠. يَأْتِي يَعْنِي بِذَلِكَ أَنَّ رُسُلًا مِنَ الْإِنْسِ وَرُسُلًا مِنَ الْجِنِّ
+
+### 2. Latin
+
+- Anbiyaa-ul jinni - yaquulu ba'dhun naasi duuna 'ilmin annal jinna laisuu lahum diinun wa annahum kafaratun wa yaquulu ba'dhun naasi aidhan annahu laa yuujadu fii ashlan wa yaquulul 'ahduhum ana 'aa waz asywafal jinna dah syaklahu ayyahu wa ana af'al bihi wa af'al kadzaa wa haakadzaa yastamirrul kalaamu bainal ladziina ya'lamuuna wa lau ra-aahu ahaduhum qariinuhu lafazi'a wa haraba minhu ilaa aqshal ardhi.
+
+Wa lita'lam ayyuhath thaah libu wal waaqifu 'alaa haadzal baabi annal jinna idzaa dakhala jasadan lam yakhruj abadan illaa 'alaa yadi rajulin shaalihin aw syaikhin zaahidin aw 'aalimin naashihin. Wa a'lam ayyuhath thaah libu fii haadzal 'ilmi annal jinna jaa-ahum rusulan qabla an yub'atsa rasuulullaahi shallallaahu 'alaihi wa sallama lam tasma' ilaa qaulihi ta'aalaa (yaa ma'syaral jinni wal insi alam ya'tikum rusulun minkum yaqushshuuna 'alaikum) suuratu ana'aami 130. Ya'tii ya'nii bidzaalika anna rusulan minal insi wa rusulan minal jinni.
+
+### 3. Terjemahan
+
+- Nabi-nabi jin. Sebagian orang berkata tanpa ilmu bahwa jin tidak memiliki agama dan bahwa mereka kafir; sebagian orang juga berkata bahwa ia tidak ada sama sekali. Dan sebagian dari mereka berkata (dalam bahasa Melayu pada cetakan): «Aku mau melihat jin itu bagaimana bentuknya, dan aku akan berbuat ini dan itu kepadanya», dan demikianlah pembicaraan berlangsung di antara orang-orang yang (mengaku) mengetahui. Padahal seandainya salah seorang dari mereka melihat qarinnya, niscaya ia akan terkejut dan lari darinya ke ujung bumi.
+
+Dan ketahuilah, wahai penuntut dan orang yang berhenti pada bab ini, bahwa jin apabila masuk ke tubuh seseorang, ia tidak akan keluar selamanya kecuali dengan tangan seorang lelaki saleh, atau syekh yang zahid, atau orang berilmu yang menasihati. Dan ketahuilah, wahai penuntut ilmu ini, bahwa jin telah datang kepada mereka para rasul sebelum Rasulullah ﷺ diutus — (sebagaimana) sampai firman-Nya—Mahatinggi—: «Wahai sekalian jin dan manusia, bukankah telah datang kepada kalian para rasul dari kalangan kalian sendiri yang menceritakan kepada kalian «…»» (surah al-An‘am: 130). Yang dimaksud dengan itu bahwa ada rasul dari manusia dan rasul dari jin.
+
+### 4. Syarah
+
+Bagian «أَنَا عَاوَزْ أَشْوَفُ الْجِنَّ دَهْ شَكْلَهُ» adalah bahasa Melayu yang ditulis dengan huruf Arab, bukan Arab baku: «aku mau lihat jin itu rupanya». Diterjemahkan maknanya dan dinyatakan bahwa itu bukan Arab — bukan mengoreksinya menjadi Arab. I‘rab tidak berlaku pada bagian itu.
+
+«جَاءَهُمْ رُسُلًا» susunannya tidak baku dan dibiarkan; «لَمْ تَسْمَعْ» tampak sebagai sisa kalimat yang terpotong pada cetakan. Rujukan «الأنعام ١٣٠» sesuai.
+
+## M94 — Halaman 94, dalil pengutusan kepada dua makhluk
+
+### 1. Arab
+
+وَالْأَقَاوِيلُ فِي هَذَا كَثِيرَةٌ عَنِ الصَّحَابَةِ وَابْنِ عَبَّاسٍ وَغَيْرِهِمْ وَاللَّهُ تَعَالَى أَعْلَمُ.
+
+وَقَالَ أَبُو الْعَبَّاسِ ابْنُ قَيِّمَةَ: أَرْسَلَ اللَّهُ مُحَمَّدًا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى جَمِيعِ الثَّقَلَيْنِ الْإِنْسِ وَالْجِنِّ وَأَوْجَبَ عَلَيْهِمُ الْإِيمَانَ بِهِ وَبِمَا جَاءَ بِهِ وَطَاعَتَهُ وَأَنْ يَحِلُّوا مَا حَلَّلَ اللَّهُ وَرَسُولُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَيُحَرِّمُونَ مَا حَرَّمَ اللَّهُ وَرَسُولُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَنْ يُوجِبُوا مَا أَوْجَبَ اللَّهُ وَرَسُولُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَيُحِبُّوا مَا أَحَبَّ اللَّهُ وَرَسُولُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَيَكْرَهُوا مَا كَرِهَ اللَّهُ وَرَسُولُهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَنَّ كُلَّ مَنْ قَامَتْ عَلَيْهِ الْحُجَّةُ بِرِسَالَةِ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الْإِنْسِ وَالْجِنِّ فَلِمَ يُؤْمِنُ بِهِ أَسْتَحَقَّ عِقَابَ اللَّهِ تَعَالَى كَمَا يَسْتَحِقُّ أَمْثَالُهُ مِنَ الْكَافِرِينَ الَّذِينَ بُعِثَ إِلَيْهِمُ الرُّسُلُ وَهَذَا أَصْلٌ مُتَّفِقٌ عَلَيْهِ بَيْنَ الصَّحَابَةِ وَالتَّابِعِينَ وَأَئِمَّةِ الْمُسْلِمِينَ وَسَائِرِ الطَّوَائِفِ الْمُسْلِمِينَ أَهْلِ السُّنَّةِ وَغَيْرِهِمْ
+
+قَالَ اللَّهُ تَعَالَى فِي الْقُرْآنِ أَنَّ الْجِنَّ اسْتَمَعُوا الْقُرْآنَ وَأَنَّهُمْ أَمِنُوا بِهِ كَمَا قَالَ اللَّهُ تَعَالَى "وَإِذَا صَرَفْنَا إِلَيْكَ نَفَرًا مِنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْآنَ فَلَمَّا حَضَرُوهُ قَالُوا أَنْصِتُوا فَلَمَّا قُضِيَ وَلَّوْا إِلَى قَوْمِهِمْ مُنْذِرِينَ"
+
+### 2. Latin
+
+Wal aqaawiilu fii haadzaa katsiiratun 'anish shahaabati wabni 'abbaasin wa ghairihim wallaahu ta'aalaa a'lamu. Wa qaala abul 'abbaasi bnu qayyimata: arsalal laahu muhammadan shallallaahu 'alaihi wa sallama ilaa jamii'its tsaqalainil insi wal jinni wa awjaba 'alaihimul iimaana bihi wa bimaa jaa-a bihi wa thaa'atahu wa an yahilluu maa hallalallaahu wa rasuuluhu shallallaahu 'alaihi wa sallama wa yuharrimuuna maa harramallaahu wa rasuuluhu shallallaahu 'alaihi wa sallama wa an yuujibuu maa awjaballaahu wa rasuuluhu shallallaahu 'alaihi wa sallama wa yuhibbuu maa ahabballaahu wa rasuuluhu shallallaahu 'alaihi wa sallama wa yakrahuu maa karihallaahu wa rasuuluhu shallallaahu 'alaihi wa sallama wa anna kulla man qaamat 'alaihil hujjatu birisaalati muhammadin shallallaahu 'alaihi wa sallama minal insi wal jinni falim yu'min bihi astahaqqa 'iqaaballaahi ta'aalaa kamaa yastahiqqu amtsaalulhu minal kaafiriina alladziina bu'itsa ilaihimur rusulu wa haadzaa ashlun muttafiqun 'alaihi bainash shahaabati wat taabi'iina wa a-immatil muslimiina wa saa-irith thawaa-ifi Muslimiin ahlis sunnati wa ghairihim.
+
+Qaalallaahu ta'aalaa fil qur-aani annal jinna istama'ul qur-aana wa annahum aamanuu bihi kamaa qaalallaahu ta'aalaa "wa idzaa sharafnaa ilaika nafaran minal jinni yastami'uunal qur-aana falammaa hadharuuhu qaaluu anshituu falammaa qudhiya wallau ilaa qaumihim mundziriina".
+
+### 3. Terjemahan
+
+Pendapat-pendapat tentang ini banyak dari para sahabat, Ibnu Abbas, dan selain mereka; dan Allah—Mahatinggi—lebih mengetahui. Ibnu Qayyim (Abu al-Abbas) berkata: Allah mengutus Muhammad ﷺ kepada seluruh dua makhluk berat, yaitu manusia dan jin; Dia mewajibkan atas mereka iman kepadanya dan kepada apa yang ia bawa, serta ketaatan kepadanya; (mewajibkan) mereka menghalalkan apa yang dihalalkan Allah dan Rasul-Nya ﷺ, mengharamkan apa yang diharamkan Allah dan Rasul-Nya ﷺ, menetapkan apa yang ditetapkan Allah dan Rasul-Nya ﷺ, mencintai apa yang dicintai Allah dan Rasul-Nya ﷺ, dan membenci apa yang dibenci Allah dan Rasul-Nya ﷺ. Dan bahwa setiap orang yang telah tegak hujah atasnya dengan risalah Muhammad ﷺ dari manusia dan jin, lalu ia tidak beriman kepadanya, ia berhak mendapat siksa Allah—Mahatinggi—sebagaimana berhaknya orang-orang kafir sepertinya yang kepada mereka para rasul diutus. Dan ini adalah pokok yang disepakati di antara para sahabat, tabiin, para imam kaum muslimin, dan seluruh kelompok muslimin, baik ahlus sunnah maupun lainnya.
+
+Allah—Mahatinggi—berfirman dalam Al-Qur’an bahwa jin mendengarkan Al-Qur’an dan bahwa mereka beriman kepadanya, sebagaimana firman Allah—Mahatinggi—: «Dan (ingatlah) ketika Kami hadapkan kepadamu sekelompok jin yang mendengarkan Al-Qur’an; maka ketika mereka menghadirinya, mereka berkata, “Diamlah (dan dengarkanlah)”; maka ketika (bacaan) itu selesai, mereka kembali kepada kaumnya sebagai pemberi peringatan.»
+
+### 4. Syarah
+
+«ابْنُ قَيِّمَةَ» tertulis demikian pada cetakan (biasanya «ابن قيم الجوزية»); «فَلِمَ يُؤْمِنُ» bisa «فَلَمْ يُؤْمِنْ» dan maknanya berbeda — dipertahankan dan ditandai. «أَسْتَحَقَّ» mestinya «اسْتَحَقَّ». Kutipan ini dinisbatkan kepada Ibnu Qayyim dan belum terverifikasi ke sumber aslinya.
+
+Ayat ini QS al-Ahqaf 46:29; penutup ayat «مُنْذِرِينَ» sesuai. «أَمِنُوا» pada cetakan mestinya «آمَنُوا»; dipertahankan bentuk cetak dan ditandai.
+
+## M95 — Halaman 95, jin mendengar Al-Qur’an dan asal isti‘adzah kepada jin
+
+### 1. Arab
+
+مِنَ الْجِنِّ إِلَى قَوْلِهِ تَعَالَى «أُولَئِكَ فِي ضَلَالٍ مُبِينٍ» ثُمَّ أَمَرَهُ أَنْ يُخْبِرَ النَّاسَ بِذَلِكَ فَقَالَ «قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ» فَأَمَرَهُ بِقَوْلِ السُّورَةِ كَامِلَةً لِيَعْلَمَ الْأَنْسُ بِأَحْوَالِ الْجِنِّ وَأَنَّهُ مَبْعُوثٌ إِلَى الْأَنْسِ وَالْجِنِّ وَلِمَا فِي ذَلِكَ مِنْ هُدَى الْأَنْسِ وَالْجِنِّ إِلَى مَا يَجِبُ عَلَيْهِمْ مِنَ الْإِيمَانِ بِاللَّهِ تَعَالَى وَرَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَالْيَوْمِ الْآخِرِ وَمَا يَجِبُ مِنْ طَاعَةِ اللَّهِ وَرَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَمِنْ تَحْرِيمِ الشِّرْكِ وَغَيْرِهِ كَمَا قَالَ فِي السُّورَةِ وَأَنَّهُ (كَانَ رِجَالٌ مِنَ الْأَنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا)
+
+فَإِنَّهُ كَانَ الرَّجُلُ مِنَ الْأَنْسِ يَنْزِلُ بِالْوَادِي وَالْأَوْدِيَةِ مَخَافَ الْجِنِّ فَإِنَّهُمْ يَكُونُونَ بِالْأَوْدِيَةِ أَكْثَرَ مَا يَكُونُونَ بِأَعَالِي الْأَرْضِ فَكَانَ الْأَنْسُ يَقُولُ: أَعُوذُ بِعَظِيمِ هَذَا الْوَادِي مِنْ سُفَهَائِهِ. رُوِيَ أَنَّ حَجَّاجَ بْنَ عِلَاطٍ السُّلَمِيَّ وَالِدَ نَصْرِ بْنِ حَجَّاجٍ الَّذِي قِيلَ فِيهِ: «أَمْ مِنْ سَبِيلٍ إِلَى نَصْرِ بْنِ حَجَّاجٍ» قَدْ قَدِمَ مَكَّةَ فِي رَكْبٍ فَأَجَنَّهُمُ اللَّيْلُ بِوَادٍ مُخِيفٍ مُوحِشٍ فَقَالَ لَهُ الرَّكْبُ: قُمْ فَخُذْ لِنَفْسِكَ أَمْنًا وَلِأَصْحَابِكَ، فَجَعَلَ يَطُوفُ بِالرَّكْبِ وَيَقُولُ:
+
+### 2. Latin
+
+Minal jinni ilaa qaulihi ta'aalaa «ulaa-ika fii dhalaalin mubiin» tsumma amarahu an yukhbiran naasa bidzaalika faqaala «qul uuhiya ilayya annahustama'a nafarun minal jinni» fa-amarahu biqaulis suurati kaamilatan liya'lamal ansu bi-ahwaalil jinni wa annahu mab'uutsun ilal ansi wal jinni wa limaa fii dzaalika min hudal ansi wal jinni ilaa maa yajibu 'alaihim minal iimaani billaahi ta'aalaa wa rasuulihi shallallaahu 'alaihi wa sallama wal yaumil aakhiri wa maa yajibu min thaa'atillaahi wa rasuulihi shallallaahu 'alaihi wa sallama wa min tahriimisy syirki wa ghairihi kamaa qaala fis suurati wa annahu (kaana rijaalun minal ansi ya'uudzuuna birijaalin minal jinni fazaaduuhum rahaqan).
+
+Fa-innahu kaanar rajulu minal ansi yanzilu bil waadii wal awdiyati makhaafal jinni fa-innahum yakuunuuna bil awdiyati aktsara maa yakuunuuna bi-a'aalil ardhi fakaana(l) ansu yaquulu: a'uudzu bi'azhiimi haadzal waadii min sufahaa-ihi. Ruwiya anna hajjaaja bna 'ilaathin as-sulamiyya waalida nashri bni hajjaajinil ladzii qiila fiihi: «am min sabiilin ilaa nashri bni hajjaaj» qad qadima makkata fii rakbin fa-ajannahumul lailu biwaadin mukhiifin muuhisyin faqaala lahur rakbu: qum fakhudz linafsika amnan wa li-ash haabika, faja'ala yathuufu bir rakbi wa yaquulu:
+
+### 3. Terjemahan
+
+«…» dari (golongan) jin sampai firman-Nya—Mahatinggi—«mereka itu dalam kesesatan yang nyata». Kemudian Dia memerintahkan beliau mengabarkan hal itu kepada manusia, lalu berfirman: «Katakanlah, telah diwahyukan kepadaku bahwa sekelompok jin telah mendengarkan» — maka Dia memerintahkan beliau menyebut surah itu seluruhnya agar manusia mengetahui keadaan jin dan bahwa beliau diutus kepada manusia dan jin, dan karena di dalamnya terdapat petunjuk bagi manusia dan jin kepada apa yang wajib atas mereka berupa iman kepada Allah—Mahatinggi—dan Rasul-Nya ﷺ serta hari akhir, dan apa yang wajib berupa ketaatan kepada Allah dan Rasul-Nya ﷺ, dan berupa pengharaman syirik dan lainnya, sebagaimana Dia berfirman dalam surah itu: «Dan bahwa ada beberapa lelaki dari manusia yang meminta perlindungan kepada beberapa lelaki dari jin, maka mereka (jin) menambah kesesatan mereka.»
+
+Sebabnya, seorang lelaki dari manusia turun di lembah atau lembah-lembah karena takut kepada jin — dan jin lebih banyak berada di lembah-lembah daripada di dataran tinggi. Maka manusia berkata: «Aku berlindung kepada (penguasa) agung lembah ini dari orang-orang bodohnya.» Diriwayatkan bahwa Hajjaj bin ‘Ilat as-Sulami, ayah Nashr bin Hajjaj yang tentangnya dikatakan: «ataukah ada jalan menuju Nashr bin Hajjaj», pernah datang ke Makkah dalam suatu rombongan; lalu malam menutupi mereka di sebuah lembah yang menakutkan dan sunyi. Rombongan itu berkata kepadanya: «Bangunlah, ambillah keamanan untuk dirimu dan kawan-kawanmu.» Maka ia mulai berkeliling di antara rombongan seraya berkata:
+
+### 4. Syarah
+
+Pada cetakan kata «الإنس» ditulis «الأنس» berulang kali; ditulis «الأَنْس» mengikuti cetakan dan dicatat bahwa yang dimaksud «الإِنس». Kata pada cetakan «ولا في ذلك» dibaca «وَلِمَا فِي ذَلِكَ» karena maknanya menuntut demikian — disebutkan perubahannya, bukan disembunyikan.
+
+«مَخَافَ» = karena takut (bentuk asal «مَخَافَة»); «بِأَعَالِي الْأَرْضِ» = dataran tinggi. Baris yang dikutip «أم من سبيل إلى نصر بن حجاج» adalah potongan syair, bukan ayat — ditandai agar tidak dikira ayat.
+
+## M96 — Halaman 96, syair Hajjaj bin ‘Ilat dan sebab kesombongan jin
+
+### 1. Arab
+
+أَعُوذُ نَفْسِي وَأُعِيذُ صَحْبِي «…» مِنْ كُلِّ جِنِّيٍّ بِهَذَا الْقُبِّ «…» حَتَّى أَؤُوبَ سَالِمًا وَرَكْبِي
+
+فَسَمِعَ قَارِئًا يَقْرَأُ (يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ إِنِ اسْتَطَعْتُمْ أَنْ تَنْفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانْفُذُوا) فَلَمَّا قَدِمَ مَكَّةَ خَبَّرَ كُفَّارَ قُرَيْشٍ بِمَا سَمِعَ فَقَالُوا: صَبَأْتَ يَا أَبَا كِلَابٍ! إِنَّ هَذَا يَزْعُمُ أَنَّ مُحَمَّدًا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أُنْزِلَ عَلَيْهِ «قُلْ» وَاللَّهِ لَقَدْ سَمِعْتُهُ وَسَمِعَهُ هَؤُلَاءِ مَعِي، ثُمَّ أَسْلَمَ وَحَسُنَ إِسْلَامُهُ وَهَاجَرَ إِلَى الْمَدِينَةِ وَبَنَى بِهَا مَسْجِدًا يُعْرَفُ بِهِ
+
+وَلَمَّا رَأَتِ الْجِنُّ أَنَّ الْأَنْسَ تَسْتَعِيذُ بِهِمْ زَادَ طُغْيَانُهُمْ وَعُتُوُّهُمْ وَبِهَذَا يُجِيبُونَ الْعَزْمَ وَالرَّاقِي بِأَسْمَائِهِمْ وَأَسْمَاءِ مُلُوكِهِمْ فَإِنَّهُ يُقْسِمُ عَلَيْهِمْ بِأَسْمَاءِ مَنْ يُعَظِّمُونَهُ فَيَحْصُلُ لَهُمْ ذَلِكَ مِنَ الرِّئَاسَةِ وَالشَّرَفِ عَلَى الْأَنْسِ مَا يَحْمِلُهُمْ عَلَى أَنْ يُعْطُوهُمْ بَعْضَ سُؤْلِهِمْ وَهُمْ يَعْلَمُونَ أَنَّ الْأَنْسَ أَشْرَفُ مِنْهُمْ وَأَعْظَمُ قَدْرًا فَإِذَا خَضَعَتِ الْأَنْسُ لَهُمْ وَاسْتَعَاذَتْ بِهِمْ كَانَ مَنْزِلَةَ أَكَابِرِ النَّاسِ إِذَا خَضَعَ لِصِغَارِهِمْ لِيَقْضِيَ لَهُ حَاجَتَهُ وَلَكِنْ مَنْ يَسْتَطِيعُ أَنْ يَحْكُمَ عَلَى مُلُوكِ الْجَانِّ فَلَا بُدَّ أَنْ يَكُونَ عِنْدَهُ دَعْوَةُ كُلِّ مَلِكٍ فِيهِمْ أَوْ عَلَى قَدْرِ الِاسْتِطَاعَةِ
+
+### 2. Latin
+
+A'uudzu nafsii wa u'iidzu shahbii «…» min kulli jinniyyin bihaadzal qubbi «…» hattaa auuba saaliman wa rakbi. Fasami'a qaari-an yaqra-u (yaa ma'syaral jinni wal insi inistatha'tum an tanfudzuu min aqthaaris samaawaati wal ardhi fanfudzuu) falammaa qadima makkata khabbara kuffaara quraisyin bimaa sami'a faqaaluu: shaba'ta yaa abaa kilaabin! inna haadzaa yaz'umu anna muhammadan shallallaahu 'alaihi wa sallama unzila 'alaihi «qul» wallaahi laqad sami'tuhu wa sami'ahu haa-ulaa-i ma'iya, tsumma aslama wa hasuna islaamuhu wa haajara ilal madiinati wa banaa bihaa masjidan yu'rafu bihi.
+
+Wa lammaa ra-atil jinnu annal ansa tasta'iidzu bihim zaada thughyaanuhum wa 'utuwwuhum wa bihaadzaa yujiibuunal 'azma war raaqii bi-asmaa-ihim wa asmaa-i muluukihim fa-innahu yuqsimu 'alaihim bi-asmaa-i man yu'azh zhimuunahu fayahshulu lahum dzaalika minar ri-aasati wasy syarafi 'alal ansi maa yahmiluhum 'alaa an yu'thuuhum ba'dha su'lihim wa hum ya'lamuuna annal ansa asyrafu minhum wa a'zhamu qadran fa-idzaa khadha'atil ansu lahum wasta'aadzat bihim kaana manzilata akaabirin naasi idzaa khadha'a lishighaarihim liyaqdhiya lahu haajatahu wa laakin man yastathii'u an yahkuma 'alaa muluukil jaanni falaa budda an yakuuna 'indahu da'watu kulli malikin fiihim aw 'alaa qadril istithaa'ati.
+
+### 3. Terjemahan
+
+«Aku berlindung (untuk) diriku dan aku lindungi kawan-kawanku «…» dari setiap jin di (lembah) ini «…» sehingga aku kembali dengan selamat bersama rombonganku.» Lalu ia mendengar seorang pembaca membaca: «Wahai sekalian jin dan manusia, jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah.» Ketika ia tiba di Makkah, ia mengabarkan kepada orang-orang kafir Quraisy apa yang didengarnya, lalu mereka berkata: «Engkau telah berpindah agama, hai Abu Kilab! Orang ini mengaku bahwa kepada Muhammad ﷺ diturunkan “Katakanlah” — demi Allah, aku sungguh telah mendengarnya, dan orang-orang ini pun mendengarnya bersamaku.» Kemudian ia masuk Islam dan baik keislamannya, berhijrah ke Madinah, dan membangun masjid di sana yang dikenal dengan namanya.
+
+Dan ketika jin melihat bahwa manusia meminta perlindungan kepada mereka, bertambahlah kesombongan dan keangkuhan mereka; dengan itulah mereka menyambut «عزم» dan permintaan tukang jampi dengan (menyebut) nama-nama mereka dan nama raja-raja mereka. Sebab ia bersumpah atas mereka dengan nama-nama siapa yang mereka agungkan, sehingga mereka memperoleh dengan itu kedudukan kepala dan kehormatan atas manusia, yang mendorong mereka memberi sebagian permintaan manusia — padahal mereka tahu bahwa manusia lebih mulia dan lebih tinggi kedudukannya. Maka apabila manusia tunduk kepada mereka dan meminta perlindungan, keadaannya seperti orang-orang besar manusia jika tunduk kepada yang kecil di antara mereka agar kebutuhannya dipenuhi. Akan tetapi siapa yang mampu menguasai raja-raja jin, ia harus memiliki doa (panggilan) setiap raja di antara mereka, atau sesuai kemampuannya.
+
+### 4. Syarah
+
+Dua baris pertama syair terpotong di tepi atas cetakan — hanya dicatat bagian yang terbaca dan tidak menyusun ulang baitnya. «يَا أَبَا كِلَابٍ» nama panggilan pada cetakan tidak dapat dipastikan. Rujukan «قُلْ» di sini tampak menunjuk QS al-Jinn 72:1.
+
+Teks ini menjelaskan mekanisme praktik perjumpaan dengan jin, bukan menganjurkannya — dicatat apa adanya. «الْعَزْم» = bacaan pemaksaan dalam praktik perdukunan; «الرَّاقِي» = tukang jampi. Kata cetakan «كَانَ مَنْزِلَةَ» kurang baku (mestinya «كَانَ بِمَنْزِلَةِ»).
+
+## M97 — Halaman 97, Fasal Kesembilan Belas: penggunaan ratu jin جمجة
+
+### 1. Arab
+
+الْفَصْلُ التَّاسِعَ عَشَرَ
+
+- بَابُ اسْتِخْدَامِ الْمَلِكَةِ جَمْجَةَ -
+
+وَهِيَ سَرِيعَةُ الْإِجَابَةِ «…» وَهُوَ أَنْ يَجْلِسَ فِي مَكَانٍ خَالٍ مِنَ النَّاسِ فِي يَوْمٍ لَا رِيحَ فِيهِ وَلَا مَطَرَ وَلَا سَحَابَ وَيَكْتُبُ الْخَاتَمَ الْآتِي عَلَى كَفِّهِ وَيُبَخِّرُ بِالصَّنْدَلِ الْأَحْمَرِ وَيَعْزِمُ عَلَيْهِ حَتَّى تَأْتِيَكَ حَمَامَةٌ بَيْضَاءُ تَنْزِلُ عَلَيْكَ وَتُطِيرُ إِلَى الْخَاتَمِ وَانْصَرِفْ إِلَى الْيَوْمِ الثَّانِي ثُمَّ ارْجِعْ إِلَى مَكَانِكَ وَبَخِّرْ وَعَزِّمْ حَتَّى تَأْتِيَكَ أَمِيرَةٌ جَمِيلَةٌ لَا وَصْفَ لَهَا. وَتَقُولُ لَكَ: مَا حَاجَتُكَ عِنْدِي؟ فَتَقُولُ لَهَا: أَعْطِينِي الْعَهْدَ بِحَقِّ الْعَهْدِ وَطَاعَةِ السَّيِّدِ سَمْسَمَائِيلَ فَإِنَّهَا تُعْطِيكَ الْعَهْدَ. فَإِذَا أَرَدْتَ حَاجَةً أَقَرَّ الدَّعْوَةَ سِرًّا أَوْ جَهْرًا فِي سَائِرِ الْأَعْمَالِ مِنْ خَيْرٍ أَوْ شَرٍّ وَوَكِّلْهَا بِهِ فَإِنَّهَا تَفْعَلُهُ سَرِيعًا وَإِذَا أَرَدْتَ طَيَّ الْأَرْضِ فَعَلَتْهُ
+
+وَهَذِهِ الدَّعْوَى تَقُولُ: الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ وَخَلَقَ «…»
+
+### 2. Latin
+
+Al-fashlut taasi'a 'asyara. - Baabu istikhdaamil malikati jamjata - wa hiya sarii'atul ijaabati «…» wa huwa an yajlisa fii makaanin khaalin minan naasi fii yaumin laa riiha fiihi wa laa mathara wa laa sahaaba wa yaktubal khaatamal aatiya 'alaa kaffihi wa yubakhkhiru bish shandali ah mari wa ya'zimu 'alaihi hattaa ta'tiyaka hamaamatun baidhaa-u tanzilu 'alaika wa tuthiiru ilal khaatami wansharif ilal yaumits tsaani tsummarji' ilaa makaanika wa bakhkhir wa 'azzim hattaa ta'tiyaka amiiratun jamiilatun laa washfa lahaa. Wa taquulu laka: maa haajatuka 'indii? fataquulu lahaa: a'thiinil 'ahda bihaqqil 'ahdi wa thaa'atis sayyidi samsamaa-iila fa-innahaa tu'thiikal 'ahda. Fa-idzaa aradta haajatan aqarrad da'wata sirran aw jahran fii saa-iril a'maali min khairin aw syarrin wa wakkilhaa bihi fa-innahaa taf'aluhu sarii'an wa idzaa aradta thayyal ardhi fa'alathu.
+
+Wa haadzihid da'waa taquulu: al-hamdu lillaahil ladzii khalaqal insaana min shalshaalin kal fakhkhaari wa khalaqa «…»
+
+### 3. Terjemahan
+
+Fasal kesembilan belas. — Bab penggunaan ratu (jin) Jamjah — dan ia cepat menjawab «…» Yaitu seseorang duduk di tempat yang kosong dari manusia pada hari yang tidak ada angin, tidak ada hujan, dan tidak ada awan; menulis «خاتم» berikut di telapak tangannya; membakar (dengan) kayu cendana merah; lalu mengulang «عزيمة» atasnya sampai datang kepadamu seekor merpati putih yang turun kepadamu dan terbang menuju خاتم. Lalu pergilah sampai hari kedua, kemudian kembalilah ke tempatmu, bakarlah (wangi-wangian), dan ulangilah عزيمة sampai datang kepadamu seorang putri/amīrah yang cantik yang tak terlukiskan. Ia berkata kepadamu: «Apa keperluanmu padaku?» Maka katakan kepadanya: «Berikanlah kepadaku perjanjian (العهد) dengan hak perjanjian dan ketaatan Tuan Samsamā’īl» — maka ia akan memberimu perjanjian itu. Maka apabila engkau menghendaki sesuatu keperluan, bacakanlah «الدعوة» secara rahasia atau terang-terangan dalam seluruh urusan, **baik atau buruk**, dan serahkanlah kepadanya, karena ia akan melakukannya dengan cepat; dan jika engkau menghendaki melipat bumi (menempuh jarak jauh seketika), ia melakukannya.
+
+Dan «الدعوى» ini engkau ucapkan: «Segala puji bagi Allah yang menciptakan manusia dari tanah kering seperti tembikar, dan menciptakan «…»». [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Kalimat ini adalah pembuka bacaan (دعوى) yang terpotong di akhir halaman dan bersambung pada baris pertama halaman 98 («الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ»). Susunannya meniru QS ar-Rahman 55:14, tetapi bukan kutipan ayat yang utuh — dinyatakan agar tidak dianggap ayat.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**Fasal XIX — باب استخدام الملكة جمجة**. Duduk sendirian di tempat sepi pada hari tanpa angin, hujan, dan awan; ditulis «الخاتم» di telapak tangan; membakar kayu cendana merah (الصندل الأحمر); mengulang «عزيمة» sampai datang burung merpati putih, lalu pada hari kedua datang sosok perempuan; meminta «العهد» dengan perantaraan nama سمسمائيل; sesudah itu disebut cukup membacakan «الدعوة» untuk segala urusan «baik atau buruk», termasuk «طي الأرض».
+
+**Waktu:** Hari tanpa angin, hujan, dan awan; dilanjutkan pada hari kedua
+
+**Media:** Duduk di tempat kosong dari manusia; khatam ditulis di telapak tangan; azimah Ratu Jamjah dibaca berulang (rincian bab dipotong tegas pada catatan sumber)
+
+**Bukhur:** Kayu cendana merah; hari kedua disebut membakar wangi-wangian tanpa nama bahan
+
+## M98 — Halaman 98, lanjutan bacaan dan syarat penggunaan
+
+### 1. Arab
+
+الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ عَزَمْتُ عَلَيْكُمَا يَا جَمْجَةُ يَا بِنْتَ الْمَلِكِ الْأَحْمَرِ أَيْنَمَا تَكُونِي فِي مَشَارِقِ الْأَرْضِ وَمَغَارِبِهَا أَنْ تَكُونِي مُسْرِعَتَيْنِ أَنْتِ وَأَبُوكِ طَوْعًا أَوْ كَرْهًا فَأْتِيَا فَاتَّبِعَا طَائِعَيْنِ أَحْيِي أَحْيَاءٌ يَا جَمْجَةُ يَا بِنْتَ الْمَلِكِ الْأَحْمَرِ أَنْتِ وَأَبُوكِ بِحَقِّ الْمَلِكِ الْغَالِبِ عَلَيْكُمْ السَّيِّدِ سَمْسَمَائِيلَ عَلَيْهِ السَّلَامُ - وَقُلْ أَوْحَى إِلَى أَخْبَارِهَا
+
+[جَدْوَلُ أَرْقَامٍ وَحُرُوفٍ فِي ثَلَاثَةِ أَعْمِدَةٍ وَأَرْبَعَةِ صُفُوفٍ — رَاجِعْ صُورَةَ الصَّفْحَةِ ٩٨]
+
+(بَابُ اسْتِخْدَامِ جَمْجَةَ بِنْتِ الْمَلِكِ الْأَحْمَرِ)
+
+وَهِيَ سَرِيعَةُ الْإِجَابَةِ - وَهِيَ الَّتِي اسْتَخْدَمَهَا عَلِيُّ بْنُ الْحَجَّاجِ وَكَانَ يَفْعَلُ الْعَجَائِبَ وَالْغَرَائِبَ وَيُخْرِجُ بِهَا الْعَفَارِيتَ وَيُهْلِكُ بِهَا كُلَّ جَبَّارٍ عَنِيدٍ ظَالِمٍ وَكُلَّ مَا تُرِيدُ. فَاتَّقِ اللَّهَ فِي سِرِّكَ وَعَلَيْكَ عَهْدُ اللَّهِ أَنْ لَا تَفْعَلَ بِهَا إِلَّا فِي الْحَلَالِ وَلَا تَصْرِفْهَا فِي طَاعَةِ اللَّهِ تَعَالَى فَإِذَا أَرَدْتَ الْعَمَلَ بِهَا فَصُمْ لَهُ سَبْعَةَ أَيَّامٍ أَبْتَدِئْ مِنْ يَوْمِ الْأَحَدِ حَيْثُ لَا يَكُونُ فِيهِ رِيحٌ وَلَا غُيُومٌ وَلَا مَطَرٌ وَالْقَمَرُ فِي الزِّيَادَةِ وَأَجْلِسْ فِي
+
+### 2. Latin
+
+Al-jaanna min maarijin min naarin 'azamtu 'alaikumaa yaa jamjatu yaa bnatal malikil ah mari ainamaa takuunii fii masyaariqil ardhi wa maghaaribihaa an takuunii musri'ataini anti wa abuuki thau'an aw karhan fa'tiyaa fattabi'aa thaa'i'aini ahyi ahy aa-un yaa jamjatu yaa bnatal malikil ah mari anti wa abuuki bihaqqil malikil ghaalibi 'alaikumus sayyidi samsamaa-iila 'alaihis salaamu - wa qul uuhiya ilaa akh baarihaa.
+
+(Bab penggunaan Jamjah putri Raja Merah.) Dan ia cepat menjawab; dialah yang dipakai oleh ‘Ali bin al-Hajjaj, dan ia melakukan hal-hal ajaib dan aneh, mengeluarkan ‘ifrit dengan perantaranya, dan membinasakan setiap orang yang congkak, keras kepala, dan zalim dengan perantaranya, dan segala yang engkau kehendaki. Maka bertakwalah kepada Allah dalam rahasiamu; atasmu perjanjian Allah bahwa engkau tidak menggunakannya kecuali dalam (perkara) halal, dan jangan mengarahkannya (kecuali) dalam ketaatan kepada Allah—Mahatinggi. Maka apabila engkau hendak mengamalkannya, berpuasalah untuknya tujuh hari, mulai dari hari Ahad, ketika tidak ada angin, tidak ada awan, tidak ada hujan, dan bulan sedang bertambah; dan duduklah di «…»
+
+### 3. Terjemahan
+
+«…»jin dari api yang tidak berasap; aku bersumpah atas kalian berdua, hai Jamjah, hai putri Raja Merah, di mana pun engkau berada di timur bumi dan baratnya, hendaklah kalian berdua bersegera — engkau dan ayahmu — suka atau tidak suka; maka datanglah kalian berdua dan ikutilah dengan patuh. Hidup, hidup! Hai Jamjah, hai putri Raja Merah, engkau dan ayahmu, dengan hak Raja Yang Menang atas kalian, Tuan Samsamā’īl — semoga salam atasnya — dan katakanlah, Dia mewahyukan kepada beritanya.»
+
+(Bab penggunaan Jamjah putri Raja Merah.) Dan ia cepat menjawab; dialah yang dipakai oleh ‘Ali bin al-Hajjaj — ia melakukan hal-hal ajaib, mengeluarkan ‘ifrit, dan membinasakan setiap orang zalim yang congkak, serta segala yang engkau kehendaki. Maka bertakwalah kepada Allah dalam rahasiamu; atasmu perjanjian Allah bahwa engkau tidak memakainya kecuali dalam perkara halal, dan tidak mengarahkannya (untuk selain) ketaatan kepada Allah—Mahatinggi. Apabila engkau hendak mengamalkannya, berpuasalah tujuh hari mulai hari Ahad, pada saat tidak ada angin, awan, dan hujan, serta bulan sedang bertambah; lalu duduklah di «…»[CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Susunan bacaan ini tidak gramatikal dan sebagian rusak pada cetakan («أَحْيِي أَحْيَاءٌ»، «وَقُلْ أَوْحَى إِلَى أَخْبَارِهَا») — dibiarkan, tidak ditambal. Frasa «عَلَيْهِ السَّلَامُ» dipakai untuk سمسمائيل, makhluk yang disebut sebagai «الروحانية» — ini salah tempat dan ditandai; tidak dihapus agar apa adanya tercatat. I‘rab tidak dapat diterapkan konsisten pada teks yang rusak.
+
+![Wafaq halaman 98](wafaq_qorin/98.jpg)
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**Waktu:** Puasa tujuh hari mulai hari Ahad, saat tidak ada angin/awan/hujan dan bulan bertambah
+
+**Media:** Azimah dengan bilangan dan huruf pada tujuh hari pertama; rajah di kepala halaman
+
+## M99 — Halaman 99, tata cara lengkap dan janji hasil
+
+### 1. Arab
+
+مَكَانٍ وَحْدَكَ وَاكْتُبِ الْخَاتَمَ الْآتِي فِي يَدِكَ الشِّمَالِ وَنَحَرَهُ بِالصَّنْدَلِ الْأَحْمَرِ فَقَطْ وَعَزَمَ عَلَيْهِ بِالْعَزِيمَةِ حَتَّى تَأْتِيكَ حَمَامَةٌ بَيْضَاءُ تَنْزِلُ عَلَيْكَ فَاحْلِسِ الْخَاتَمَ وَانْصَرِفْ وَفِي الْيَوْمِ الثَّانِي جَلَسَ فِي الْحَلِّ الَّذِي كُنْتَ فِيهِ وَاكْتُبِ الْخَاتَمَ عَلَى كَفِّكَ الشِّمَالِ وَبَخِّرْ وَعَزِّمْ بِالْعَزِيمَةِ إِلَى أَنْ تَأْتِيكَ امْرَأَةٌ ذَاتُ حُسْنٍ وَجَمَالٍ وَتَقُولُ لَكَ: مَا حَاجَتُكَ؟ فَأَزْجُرْهَا بِالدَّعْوَةِ وَقُلْ لَهَا: قَصْدِي مُرَافَقَتُكَ وَتَكُونِي لِي خَدِيمَةً وَمُعِينَةً فِيمَا أَطْلُبُهُ مِنْكَ فَإِنَّهَا تَشْتَرِطُ عَلَيْكَ شُرُوطًا وَاسْمَحْ لِقَوْلِهَا فَإِنَّهَا تَقُولُ: مَرْحَبًا بِكَ وَأَلِفٌ بِالرَّفِيقِ الْمُوَافِقِ وَقَدْ يَدُكِ يَحُدُّهَا الْيُمْنَى فَتَكُونُ مَحْضَرٌ فِي يَدِكَ جَرِيدَةٌ خَضْرَاءُ وَتَمُدُّهَا لَهَا تَسْكُهَا فَعَادَهَا عَلَيْهَا وَتَأْخُذُ عَلَيْهَا الْعَهْدَ وَالْمِيثَاقَ وَقُلْ لَهَا: سِيرِي فِي أَمَانِ اللَّهِ فَإِنَّهَا تَنْصَرِفُ. فَاحْلِسِ الْخَاتَمَ
+
+فَإِذَا أَرَدْتَ الْعَمَلَ بِهَا فَأَكْتُبِ الْخَاتَمَ وَالدَّعْوَى حَوْلَهُ وَأَرْبَعَةً مَعَكَ وَاتْلُ الدَّعْوَةَ فَإِنَّهَا تَأْتِيكَ هِيَ وَأَعْوَانُهَا وَتَقِفُ عَلَى يَمِينِكَ وَخُدَّامُهَا مَعَهَا فَأْمُرْهَا بِمَا تُرِيدُ فَإِنَّهَا تَحْكُمُ عَلَى جُنُودِ أَبِيهَا وَتُعْطِيكَ الْمَالَ وَتَأْتِي بِالطَّعَامِ وَهِيَ خُرْقُ جَمِيعِ الْجَانِّ وَتُهْلِكُ الظَّالِمَ وَجَلَبَ بِهَا بَانَتِ الْمَلَكُوتُ وَتُظْهِرُ بِهَا الْخَبَايَا وَالْكُنُوزَ فَاحْتَفِظْ عَلَى هَذِهِ الذَّخِيرَةِ.
+
+### 2. Latin
+
+Makaanin wahdaka waktubil khaatamal aatiya fii yadikas syimaali wa naharahu bish shandali ah mari faqath wa 'azama 'alaihi bil 'aziimati hattaa ta'tiyaka hamaamatun baidhaa-u tanzilu 'alaika fahlisil khaatama wansharif wa fil yaumits tsaani jalasa fil hallil ladzii kunta fiihi waktubil khaatama 'alaa kaffikas syimaali wa bakhkhir wa 'azzim bil 'aziimati ilaa an ta'tiyaka imra-atun dzaatu husnin wa jamaalin wa taquulu laka: maa haajatuka? fa-azjurhaa bid da'wati wa qul lahaa: qashdii muraafaqatuka wa takuunii lii khadiimatan wa mu'iinatan fiimaa athlubuhu minka fa-innahaa tasytarithu 'alaika syuruuthan wasmah liqaulihaa fa-innahaa taquulu: marhaban bika wa alifun bir rafiiqil muwaafiq wa qad yaduki yahudduhal yumnaa fatakuunu mahdharun fii yadika jariidatun khadhraa-u wa tamudduhaa lahaa taskuhaa fa'aadaha 'alaihaa wa ta'khudzu 'alaihal 'ahda wal miitsaaqa wa qul lahaa: siirii fii amaanillaahi fa-innahaa tansharifu. Fahlisil khaatam.
+
+Fa-idzaa aradtal 'amala bihaa fa-ktubil khaatama wad da'waa haulahu wa arba'atan ma'aka watlud da'wata fa-innahaa ta'tiika hiya wa a'waanuhaa wa taqifu 'alaa yamiinika wa khuddaamuhaa ma'ahaa fa'murhaa bimaa turiidu fa-innahaa tahkumu 'alaa junuudi abiihaa wa tu'thiikal maala wa ta'tii bith tha'aami wa hiya khurqu jamii'il jaanni wa tuhlikuzh zhaalima wa jalaba bihaa baanatil malakuutu wa tuzhhiru bihal khabaayaa wal kunuuza fah tafizh 'alaa haadzihidz dzakhiirah.
+
+### 3. Terjemahan
+
+«…» (di) tempatmu sendiri; dan tulislah خاتم berikut pada tangan kirimu, dan sembelihlah (bacaan) dengan kayu cendana merah saja, lalu ulangilah عزيمة atasnya sampai datang kepadamu merpati putih yang turun kepadamu; maka «fahlish»-kan خاتم itu dan pergilah. Pada hari kedua, duduklah di tempat yang dahulu engkau duduki, tuliskan خاتم pada telapak tangan kirimu, bakarlah wangi-wangian, dan ulangilah عزيمة sampai datang kepadamu seorang perempuan yang memiliki kecantikan dan keindahan, dan ia berkata kepadamu: «Apa keperluanmu?» Maka hardiklah ia dengan «الدعوة» dan katakan kepadanya: «Maksudku adalah menemanimu, dan engkau menjadi pelayan dan penolongku dalam apa yang aku minta darimu.» Sesungguhnya ia akan mengajukan syarat-syarat kepadamu; maka izinkanlah (terimalah) ucapannya, karena ia berkata: «Selamat datang, dan keakraban dengan teman yang menyertai.» Dan adakalanya tanganmu — yang kanan menjadi batasnya — maka (jadilah) sesuatu yang hadir di tanganmu: sebatang pelepah hijau; engkau ulurkan kepadanya, ia mengambilnya, lalu ia mengembalikannya; dan engkau mengambil darinya janji dan perjanjian, lalu katakan kepadanya: «Berjalanlah dalam keamanan Allah.» Maka ia pun pergi. «Fahlis»-kan خاتم itu.
+
+Maka apabila engkau hendak mengamalkannya, tulislah خاتم itu beserta «الدعوة» di sekelilingnya dan empat (kali) bersamamu, lalu bacalah الدعوة; maka ia akan datang kepadamu bersama para penolongnya, berdiri di sebelah kananmu, dan para pelayannya bersamanya. Maka perintahkanlah ia dengan apa yang engkau kehendaki, karena ia berkuasa atas tentara ayahnya; ia memberimu harta, mendatangkan makanan, dan ia menembus seluruh jin; ia membinasakan orang zalim; dengan perantaranya terbukalah (pintu) kerajaan dan tampaklah barang-barang tersembunyi serta harta karun. Maka jagalah «simpanan» ini. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Banyak kata pada halaman ini tidak baku atau rusak dalam cetakan: «فَاحْلِس»/«فَاحْلِسِ» (mungkin «فَاحْلُلْ» atau «فَاحْفَظْ»), «الْحَلّ» (mungkin «الْمَحَلّ»), «أَلِفٌ» (mungkin «أَلْفٌ»), «يَحُدُّهَا» (mungkin «يُحَدُّهَا»), «مَحْضَرٌ». Dipertahankan bentuk cetak dan tidak ditambal. Kata asing «fahlish/fahlis» dibiarkan apa adanya dalam terjemahan agar tidak menutupi ketidakjelasan. I‘rab tidak dapat diterapkan konsisten pada teks rusak.
+
+«خُرْقُ جَمِيعِ الْجَانِّ» susunan cetakannya janggal (mungkin «تَخْرُقُ»); «جَلَبَ بِهَا بَانَتِ الْمَلَكُوتُ» juga rusak dan tidak dapat dipastikan. «الذَّخِيرَة» = simpanan/harta (mungkin juga nama kitab «الذخيرة»), dibiarkan bermakna ganda.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan tata cara — ditulis خاتم di telapak tangan kiri, membakar الصندل الأحمر, mengulang عزيمة hingga merpati putih datang; hari kedua mengulanginya hingga datang perempuan cantik; meminta syarat-syaratnya; mengambil janji; lalu disebut bahwa ia datang bersama pembantunya, memberi harta dan makanan, membinasakan orang zalim, dan menampakkan harta terpendam.
+
+**Waktu:** Hari pertama dan hari kedua pada tempat yang sama
+
+**Media:** Khatam ditulis pada tangan/telapak kiri; azimah/da‘wah diulang; pelepah hijau disebut hadir di tangan kanan
+
+**Bukhur:** Kayu cendana merah (hari pertama); wangi-wangian tanpa nama bahan (hari kedua)
+
+## M100 — Halaman 100, bacaan عزيمة penutup bab جمجة
+
+### 1. Arab
+
+- وَهَذِهِ الْعَزِيمَةُ -
+
+بِسْمِ اللَّهِ الْأَعْظَمِ الْأَعْظَمِ الْقَدِيمِ فِي أَزَلِيَّتِهِ الْحَكِيمِ فِي حُكْمِهِ أَقْسَمْتُ عَلَيْكَ يَا سَيِّدِي سَمْسَسَائِيلَ أَنْتَ وَأَعْوَانُكَ وَجُنُودُكَ مِنَ الرُّوحَانِيَّةِ وَالْأَرْضِيَّةِ بِحَقِّ مَا تَلَوْنَاهُ عَلَيْكَ مِنْ أَسْمَاءِ اللَّهِ الْعَظِيمِ الْأَعْظَمِ بِحَقِّ اللَّهِ الشَّكُورِ الشَّاكِرِ الشَّهِيدِ شَدِيدِ الْعِقَابِ عَلَى مَنْ عَصَى مِنْكُمْ أَسْمَاءِ اللَّهِ تَعَالَى
+
+أَقْسَمْتُ عَلَيْكَ يَا سَيِّدِي سِمْسِمَائِيلَ الْمَلِكِ الْمُوَكَّلِ بِفَلَكِ الْمِرِّيخِ بِحَقِّ مَنْ لَهُ الْمُلْكُ وَالْكِبْرِيَاءُ وَالْعَظَمَةُ تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ الْكَبِيرُ الْمُتَعَالِ. أَجِبْ يَا سَيِّدِي سَمْسَمَائِيلَ بِحَقِّ هَذِهِ الْأَسْمَاءِ عَلَيْكَ وَتَوَكَّلْ بِحُضُورِ جَمْجَةَ بِنْتِ الْمَلِكِ الْأَحْمَرِ وَأْمُرْهَا بِقَضَاءِ حَاجَتِي.
+
+أَقْسَمْتُ عَلَيْكَ يَا جَمْجَةُ بِسْمِ اللَّهِ الَّذِي قَهَرَ كُلَّ شَيْءٍ بِعَظَمَتِهِ وَجَعَلَكُمْ لِأَسْمَائِكُمْ مُطِيعِينَ النَّارَ أَشْعَلْتَ وَعَلَى مَنْ عَصَتْ أَسْمَاءُ اللَّهِ الْعَظِيمَةُ أَقْسَمْتُ عَلَيْكَ بِالَّذِي خَلَقَكِ مِنْ نَارِ السَّمُومِ وَخَلَقَنِي مِنْ تُرَابٍ أَجِبْنِي بِحَقِّ الْمَلِكِ الْغَالِبِ عَلَيْكِ وَعَلَى أَبِيكِ السَّيِّدِ سَمْسَمَائِيلَ وَبِحَقِّ دَحْلِيمْ ٣ شَمْهَمْسَةْ ٣ قَطُوشَى ٣
+
+### 2. Latin
+
+- Wa haadzihil 'aziimatu - Bismillaahil a'zhamil a'zhamil qadiimi fii azaliyyatihil hakiimi fii hukmihi aqsamtu 'alaika yaa sayyidii samsasaa-iila anta wa a'waanuka wa junuuduka minar ruuhaniyyati wal ardhiyyati bihaqqi maa talaunaahu 'alaika min asmaa-illaahil 'azhiimil a'zhami bihaqqillaahis syakuuris syaakiris syahiidi syadiidil 'iqaabi 'alaa man 'ashaa minkum asmaa-illaahi ta'aalaa.
+
+Aqsamtu 'alaika yaa sayyidii simsmaa-iilal malikil muwakkal bifalakil mirriikhi bihaqqi man lahul mulku wal kibriyaa-u wal 'azhamatu tabaarakal laahu ahsanul khaaliqiina 'aalimil ghaibi wasy syahaadati(l) kabiirul muta'aali. Ajib yaa sayyidii samsamaa-iila bihaqqi haadzihil asmaa-i 'alaika wa tawakkal bihudhuuri jamjata bnatil malikil ah mari wa'murhaa biqadhaa-i haajatii. Aqsamtu 'alaika yaa jamjatu bismillaahil ladzii qahara kulla syai-in bi'azhamatihi wa ja'alakum li-asmaa-ikum muthii'iina(l) naara asy'altu wa 'alaa man 'ashat asmaa-ullaahil 'azhiimatu aqsamtu 'alaiki billadzii khalaqaki min naaris samuumi wa khalaqanii min turaabin ajibnii bihaqqil malikil ghaalibi 'alaiki wa 'alaa abiikis sayyidi samsamaa-iila wa bihaqqi dahl iim 3 syamhamsah 3 qathuusyaa 3.
+
+### 3. Terjemahan
+
+— Dan inilah «عزيمة»-nya — Dengan nama Allah Yang Mahaagung, Yang Mahaagung, Yang Mahaawal dalam keabadian-Nya, Yang Mahabijaksana dalam hukum-Nya: aku bersumpah atasmu, hai tuanku Samsasā’īl, engkau dan para penolongmu serta tentaramu dari (golongan) ruhani dan bumi, dengan hak apa yang telah kami bacakan kepadamu dari nama-nama Allah Yang Mahaagung lagi Mahaagung; dengan hak Allah Yang Mahasyukur, Yang Maha Mensyukuri, Yang Maha Menyaksikan, Yang keras siksa-Nya atas siapa yang mendurhakai di antara kalian — nama-nama Allah—Mahatinggi—.
+
+Aku bersumpah atasmu, hai tuanku Simsima’īl, raja yang diberi tugas atas falak Mars, dengan hak (nama) Yang milik-Nya kerajaan, kebesaran, dan keagungan: Mahasuci Allah, sebaik-baik pencipta, Yang mengetahui yang gaib dan yang nyata, Yang Mahabesar lagi Mahatinggi. Jawablah, hai tuanku Samsamā’īl, dengan hak nama-nama ini atasmu, dan bertanggung jawablah (untuk) menghadirkan Jamjah putri Raja Merah dan perintahkan ia memenuhi keperluanku.
+
+Aku bersumpah atasmu, hai Jamjah, dengan nama Allah yang menundukkan segala sesuatu dengan keagungan-Nya, dan menjadikan kalian patuh kepada nama-nama kalian: api telah Engkau nyalakan, dan atas siapa nama-nama Allah yang agung itu mendurhakai(?) — aku bersumpah atasmu dengan (Dzat) yang menciptakanmu dari api yang panas menembus pori dan menciptakanku dari tanah: jawablah aku dengan hak Raja Yang Menang atasmu dan atas ayahmu, Tuan Samsamā’īl, dan dengan hak Dḥlīm 3 Syamhamsah 3 Qathūsyā 3. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Bacaan ini memakai nama-nama Allah sebagai sumpah kepada makhluk — pola yang oleh ulama dinilai terlarang; dicatat, bukan membenarkan. Ejaan nama pada cetakan berganti-ganti: «سَمْسَسَائِيل» di sini, «سَمْسَمَائِيل» di halaman 97–98, «سِمْسِمَائِيل» pada baris berikutnya — dipertahankan perbedaan itu dan tidak menyeragamkannya. «تَلَوْنَاهُ» cetakan (mestinya «تَلَوْنَاهُ» atau «تَلَوْنَاهُ عَلَيْكَ») dibiarkan.
+
+«وَسَامْحَمْسَةْ/شَمْهَمْسَةْ» dan «دَحْلِيمْ» serta «قَطُوشَى» adalah kata-kata tanpa makna yang jelas (biasa disebut «أسماء لا معنى لها»); ditulis sebagai bunyi, bukan sebagai nama yang dikenali. Kalimat «وَعَلَى مَنْ عَصَتْ أَسْمَاءُ اللَّهِ الْعَظِيمَةُ» rusak susunannya pada cetakan dan terjemahannya diberi tanda (?) — tidak diperbaiki. «الْمِرِّيخِ» cetakan memakai tasydid ganda; ditulis «الْمِرِّيخ».
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**isi halaman ini adalah bacaan «عزيمة»** (mantra pemanggilan) yang diucapkan dalam praktik halaman 97–99 — menyebut nama سمسمائيل sebagai «الملك الموكل بفلك المريخ» dan memerintahkan جمجة bint al-Malik al-Ahmar memenuhi keperluan, ditutup tiga nama tanpa arti yang jelas (دحليم ٣ شمهمسة ٣ قطوشى ٣). Dicatat karena itu isi kitab, **bukan** untuk diamalkan.
+
+**Media:** Bacaan azimah lanjutan dengan rangkaian nama (Yahyūkh, Ar‘ūkh, Syamhisy, Harmisy) dalam rangkaian Abū Zanāṣir Syam‘alah
+
+## M101 — Halaman 101, bab menghadirkan individu jin
+
+### 1. Arab
+
+- بَابُ إِحْضَارِ فَرْدٍ مِنْ أَفْرَادِ الْجِنِّ -
+
+بَابٌ لِإِحْضَارِ أَيِّ فَرْدٍ مِنْ أَفْرَادِ الْجِنِّ وَهِيَ أَسْمَاءٌ سُلَيْمَانِيَّةٌ تَدْعُو بِهَا أَيَّ فَرْدٍ مِنْ أَفْرَادِ الْجِنِّ يَحْضُرُ سَرِيعًا وَهِيَ هَذِهِ الْأَسْمَاءُ تَقُولُ: أَجِبْ أَيُّهَا الْمَلِكُ الْأَعْظَمُ السَّيِّدُ شَرْنَطْيَا ئِيلَ بِحَقِّ هَذِهِ الْأَسْمَاءِ الَّتِي خَلَقَكَ اللَّهُ بِهَا مِنْ لَعَّانٍ نُورُهَا وَأَحْضِرْ لِي كَذَا وَكَذَا الرُّوحَ أَسْرَعَ مِنَ الْبَرْقِ الْخَاطِفِ وَكَلَمْحِ الْبَصَرِ وَذَلِكَ بَعْدَ تِلَاوَةِ هَذِهِ الْأَسْمَاءِ أَوْ تَقُولُ
+
+مُشْلَمُوهْ وَوَصِيلٌ وَإِيَّاهُ لَامُونَا قَهْ كَمْدُويَا مَرْهْ أَجِبْ أَيُّهَا الْمَلِكُ الْأَعْظَمُ السَّيِّدُ شَرْنَطْيَا ئِيلَ بِحَقِّ هَذِهِ الْأَسْمَاءِ الَّتِي خَلَقْتَ اللَّهُ بِهَا مِنْ لَعَّانٍ نُورُهَا أَحْضِرْ لِي الرُّوحَ الْفُلَانِيَّةَ تَقْضِي حَاجَتِي السَّاعَةَ هَذِهِ أَسْرَعَ مِنَ الْبَرْقِ الْخَاطِفِ وَالرِّيحِ الْعَاصِفِ وَكَلَمْحِ الْبَصَرِ وَهُوَ أَقْرَبُ وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ.
+
+### 2. Latin
+
+- Baabu ihdhaari fardin min afraadil jinni - baabun li-ihdhaari ayyi fardin min afraadil jinni wa hiya asmaa-un sulaimaaniyyatun tad'uu bihaa ayyi fardin min afraadil jinni yahdhuru sarii'an wa hiya haadzihil asmaa-u taquulu: ajib ayyuhal malikul a'zhamus sayyidu syarnathyaa-iila bihaqqi haadzihil asmaa-illatii khalaqakallaahu bihaa min la''aanin nuuruhaa wa ahdhir lii kadzaa wa kadzaar ruuha asra'a minal barqil khaathifi wa kalamhil bashari wa dzaalika ba'da tilaawati haadzihil asmaa-i aw taquulu.
+
+Musy lamuuh wa washiilun wa iyyaahu laamuuana qah kamduuyaa marh ajib ayyuhal malikul a'zhamus sayyidu syarnathyaa-iila bihaqqi haadzihil asmaa-illatii khalaqtallaahu bihaa min la''aanin nuuruhaa ahdhir liyar ruuhal fulaaniyyata taqdhii haajatii(s) saa'ata haadzihi asra'a minal barqil khaathifi war riihil 'aashifi wa kalamhil bashari wa huwa aqrabu wa innahu laqasamun lau ta'lamuuna 'azhiimun.
+
+### 3. Terjemahan
+
+— Bab menghadirkan satu individu dari individu-individu jin. — Bab untuk menghadirkan siapa pun dari individu-individu jin; ia adalah nama-nama «Sulaimaniyah» yang engkau serukan dengannya, maka siapa pun dari individu-individu jin akan hadir dengan cepat. Yaitu nama-nama ini, engkau ucapkan: «Jawablah, hai Raja Yang Mahaagung, Tuan Syarnathya’īl, dengan hak nama-nama ini yang dengannya Allah menciptakanmu dari «la‘‘ān» yang cahayanya — dan hadirkanlah kepadaku si Fulan (ruh yang dimaksud) lebih cepat dari kilat yang menyambar dan sekejap mata.» Dan itu setelah membaca nama-nama ini, atau engkau ucapkan «…»
+
+«Musylamūh wa Washīl dan kepadanya Lāmūnāqah Kamdūyā Marh» — Jawablah, hai Raja Yang Mahaagung, Tuan Syarnathya’īl, dengan hak nama-nama ini yang dengannya Allah menciptakanmu dari «la‘‘ān» yang cahayanya; hadirkanlah kepadaku ruh si Fulanah untuk memenuhi keperluanku pada saat ini, (dengan) lebih cepat dari kilat yang menyambar, angin yang bertiup kencang, dan sekejap mata — dan Dia lebih dekat; dan sesungguhnya itu benar-benar sumpah yang besar, kalau kamu mengetahui. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+«مِنْ لَعَّانٍ نُورُهَا» tidak dapat dipastikan (mungkin «مِنْ لَعَاعٍ» atau «مِنْ لُؤْلُؤَانٍ»); dibiarkan dan diberi tanda. «شَرْنَطْيَا ئِيل» nama yang tidak dikenali; ditulis sesuai huruf cetakan. Istilah «أسماء سليمانية» menunjuk tradisi nama-nama yang dinisbatkan kepada Nabi Sulaiman — bukan dari Al-Qur’an dan bukan wahyu.
+
+Rangkaian «مُشْلَمُوهْ وَوَصِيلٌ…» adalah kata-kata tanpa makna yang dapat dipastikan; ditulis sebagai bunyi dan tidak dikarang arti. «خَلَقْتَ اللَّهُ» pada cetakan salah susun (mestinya «خَلَقَكَ اللَّهُ»); tidak diubah teks, hanya dicatat. Penutup «وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ» meniru QS al-Waqi‘ah 56:76 — bukan kutipan yang tepat. I‘rab tidak konsisten karena teks rusak.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**باب إحضار فرد من أفراد الجن** — bacaan «أسماء سليمانية» untuk menghadirkan jin mana pun dengan cepat; menyebut «الملك الأعظم السيد شرنطيا ئيل», memohon dihadirkan «الروح الفلانية» untuk memenuhi keperluan pada saat itu, dan ditutup penegasan bahwa sumpah itu besar. Halaman ini **berhenti di tengah bacaan**; lanjutannya ada di halaman 102.
+
+**Media:** Bacaan Asmā’ as-Sulaimāniyyah (nama-nama thilsim lanjutan bab)
+
+## M102 — Halaman 102, penutup tata cara menghadirkan jin
+
+### 1. Arab
+
+أَوْ أَنْ تَدْخُلَ مَكَانًا طَاهِرًا وَأَنْتَ طَاهِرُ الْبَدَنِ وَالثَّوْبِ وَتُغْلِقَ الْمَكَانَ جَيِّدًا بِحَيْثُ أَنْ لَا يَدْخُلَهُ أَيُّ نُورٍ وَلَا مِنْ خُرُومِ الْكَوَاكِبِ. ثُمَّ تَقِفُ وَتَسْتَقْبِلُ الْقِبْلَةَ بِخُضُوعٍ وَخُشُوعٍ ثُمَّ تَقُولُ: مَاشَاءَ الله عَدَدَ ٣ - لَا إِلَهَ إِلَّا الله ٧ مَرَّاتٍ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِالله الْعَلِيِّ الْعَظِيمِ ٧ مَرَّاتٍ، سُورَةَ الْجِنِّ ٧ مَرَّاتٍ، ثُمَّ انْظُرْ بِوَجْهِكَ عَلَى الْيَمِينِ وَتَقُولُ: أَمَانَ الله مِنْ أَعَانَنِي عَلَى خَيْرٍ مِنْ أَرْوَاحِ الْجِنِّ الْمُؤْمِنِينَ ٧ مَرَّاتٍ، ثُمَّ تَلْتَفِتُ بِوَجْهِكَ إِلَى الْجِهَةِ الشِّمَالِ وَتَقُولُ: بِحَقِّ بِشْرَى ١ بَفْطَلَمْ دِيشَى ٧ مَرَّاتٍ
+
+(فَإِنَّكَ تَسْمَعُ صَوْتًا يَقُولُ لَكَ: السَّلَامُ عَلَيْكَ وَرَحْمَةُ الله، فَرُدَّ عَلَيْهِ السَّلَامَ وَأَسْأَلْهُ فِيمَا تُرِيدُهُ)
+
+### 2. Latin
+
+Aw an tadkhula makaanan thaahiran wa anta thaahirul badani wats tsaubi wa tughliqal makaana jayyidan bihaitsu an laa yadkhulahu ayyu nuurin wa laa min khuruumil kawaakibi. Tsumma taqifu wa tastagbilal qiblata bikhu dhuu'in wa khusyuu'in tsumma taquulu: maa syaa-allaahu 'adada 3 - laa ilaaha illallaahu 7 marraatin, laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiimi 7 marraatin, suuratal jinni 7 marraatin, tsummanzhur biwajhika 'alal yamiini wa taquulu: amaanallaahi man a'aananii 'alaa khairin min arwaahil jinnil mu-miniina 7 marraatin, tsumma taltafit biwajhika ilal jihatisy syimaali wa taquulu: bihaqqi busyraa 1 bafthalam diisyaa 7 marraatin.
+
+(Fa-innaka tasma'u shautan yaquulu laka: as-salaamu 'alaika wa rahmatullaahi, farudda 'alaihis salaama wa as-alhu fiimaa turiiduhu)
+
+### 3. Terjemahan
+
+Atau engkau masuk ke tempat yang suci, sedangkan engkau suci badan dan pakaian, dan engkau tutup tempat itu benar-benar rapat sehingga tidak masuk ke dalamnya cahaya apa pun dan tidak (pula) dari celah-celah bintang. Kemudian engkau berdiri menghadap kiblat dengan tunduk dan khusyuk, lalu engkau ucapkan: «Mā syā’allāh» tiga kali; «Lā ilāha illallāh» tujuh kali; «Lā haula wa lā quwwata illā billāh al-‘Alīy al-‘Aẓīm» tujuh kali; Surah al-Jinn tujuh kali. Kemudian lihatlah dengan wajahmu ke arah kanan dan ucapkan: «Amānallāh, dari (dia) yang menolongku atas kebaikan di antara ruh-ruh jin yang beriman» tujuh kali. Kemudian palingkan wajahmu ke arah kiri dan ucapkan: «Dengan hak Busyrā 1 Bafthalam Dīsyā» tujuh kali.
+
+«Maka sesungguhnya engkau akan mendengar suara yang berkata kepadamu: “Semoga keselamatan dan rahmat Allah atasmu” — maka jawablah salamnya dan mintalah kepadanya apa yang engkau kehendaki.» [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+«خُرُومِ الْكَوَاكِبِ» = celah/pori (bintang) — maksudnya agar ruangan benar-benar gelap; dibiarkan sebagai citra cetakan. «بِشْرَى ١ بَفْطَلَمْ دِيشَى» adalah kata tanpa makna jelas (sama keluarga dengan «بصير ديش/بقطلميد» pada halaman 76) — ditulis sebagai bunyi.
+
+Kalimat ini menutup bab «إحضار فرد من أفراد الجن» yang dimulai halaman 101. Dicatat apa adanya. Yang perlu ditegaskan: tidak ada janji seperti ini yang dapat diuji, dan tidak ada dasar dari Al-Qur’an atau Sunnah untuk memanggil jin lalu berdialog dengannya; ulama melarangnya.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan tata cara menghadirkan seorang jin — masuk ke tempat yang gelap dan tertutup rapat, menghadap kiblat, membaca «ماشاء الله» tiga kali, tahlil dan hauqalah serta Surah al-Jinn masing-masing tujuh kali, lalu menoleh ke kanan dan ke kiri dengan bacaan tertentu sampai terdengar suara yang memberi salam.
+
+**Media:** Menghadap kiblat; “mā syā’ Allāh” tiga kali, tahlil tujuh kali, ḥauqalah tujuh kali, surah al-Jinn tujuh kali; seruan ke kanan tujuh kali dan formula ke kiri tujuh kali
+
+## M103 — Halaman 103, Fasal Kedua Puluh: sepuluh nama (1–4)
+
+### 1. Arab
+
+الْفَصْلُ الْعِشْرُونَ
+
+- فَائِدَةُ الْعَشَرَةِ أَسْمَاءٍ الْمَكْتُوبَةِ -
+
+- عَلَى بَسَاطِ النُّورِ -
+
+(وَشِّي) يَا تُونُوخْ - يَامِدْ هَلِيمُوتْ - يَاهَشْمَتْلُوخِيمِيَا - بَالُوخْشِيمِيَا - يَاهِيلُومِيثَا - يَاطَلْعَمِيثَا - يَادَبْرَهَلْمَقْثِيَا يَاتْرَكْلِيمْخَا - يَا دَهْرًا يَمْلُوخَا) يَا تِيفُوخْ -
+
+(وَهَذِهِ مَعَانِيهَا بِاللُّغَةِ الْعَرَبِيَّةِ)
+
+(الِاسْمُ الْأَوَّلُ) يَا تُونُوخْ = مَعْنَاهُ: الله الْوَاحِدُ النُّورُ الْقُدُّوسُ الْمُحِيطُ بِجَوَامِعِ الْكَلِمِ
+
+(الِاسْمُ الثَّانِي) يَامِدْ هَلِيمُوتْ = مَعْنَاهُ: سُبْحَانَ الرَّحْمَنِ الْمُجِيبِ الْحَكِيمِ الْقَادِرِ الظَّاهِرِ الَّذِي أَظْهَرَ مَكْنُونَاتِ الضَّمَائِرِ
+
+(الِاسْمُ الثَّالِثُ) يَاهْتَسْتَلُوخِيمِيَا = مَعْنَاهُ: الله الرَّحِيمُ الَّذِي انْقَادَ كُلُّ شَيْءٍ لِعَظَمَتِهِ وَخَشَعَ وَخَضَعَ كُلُّ ذِي سُلْطَانٍ لِسُلْطَانِهِ وَصَارَ اسْمُ الدِّينِ وَالْآخِرَةِ بِيَدِهِ
+
+(الِاسْمُ الرَّابِعُ) يَانُوشْخِيمِيَا = مَعْنَاهُ: سُبْحَانَ التَّوَّابِ الْعَلِيمِ ذِي السِّرِّ الْجَامِعِ وَالنُّورِ اللَّامِعِ لِكُلِّ مَسْمُوعٍ وَسَامِعٍ
+
+### 2. Latin
+
+Al-fashlul 'isysyruuna. - Faa-idatul 'asyarati asmaa-inil maktuubati - 'alaa bisaathin nuuri - (Wasy syi) yaa tuunuukh - yaamid haliimuut - yaahasy matluukhimiyaa - baaluukh syimiyaa - yaahiiluumiitsaa - yaathal'am iitsaa - yaadabrahal maqtsiyaa yaatrakliimkhaa - yaa dahran yamluukhaa) yaa tiifuukh -.
+
+(Wa haadzihim a'aaniihaa billughatil 'arabiyyati) (Al-ismul awwalu) yaa tuunuukh = ma'naahu: Allaahul waahidun nuurul qudduusul muhiithu bijawaami'il kalimi. (Al-ismuts tsaaniy) yaamid haliimuut = ma'naahu: subhaanar rahmaanil mujiibil hakiimil qaadirizh zhaahiril ladzii azhhara maknuunaatizh dhamaa-iri. (Al-ismuts tsaalitsu) yaah tastaluukhimiyaa = ma'naahu: Allaahur rahiimul ladzil naqaada kullu syai-in li'azhamatihi wa khasy'a wa khadha'a kullu dzii sulthaanin lisulthaanihi wa shaarasmud diini wal aakhirati biyadihi. (Al-ismur raabi'u) yaanuusy khiimiyaa = ma'naahu: subhaanat tawwaabil 'aliimi dzis sirril jaami'i wan nuuril laami'i likulli masmuu'in wa saami'in.
+
+### 3. Terjemahan
+
+Fasal kedua puluh. — Faedah sepuluh nama yang tertulis — di atas hamparan cahaya — (Wasy-syi) yā Tūnūkh — yāmid Halīmūt — yāhasymatlūkhīmiyā — bālūkhsyīmiyā — yāhīlūmītsā — yāthal‘amītsā — yādabrahalmatsīyā yātraklīmkhā — yā dahrān yamlūkhā) yā tīfūkh —.
+
+(Dan inilah makna-maknanya dalam bahasa Arab.) (Nama pertama) yā Tūnūkh = maknanya: Allah Yang Satu, Yang Mahacahaya, Yang Mahasuci, yang meliputi segala kalimat yang padat. (Nama kedua) yāmid Halīmūt = maknanya: Mahasuci Yang Maha Pengasih, Yang Mengabulkan, Yang Mahabijaksana, Yang Mahakuasa, Yang Mahanyata, yang menampakkan apa yang tersimpan dalam hati. (Nama ketiga) yāhtastalūkhīmiyā = maknanya: Allah Yang Maha Penyayang, yang kepada keagungan-Nya segala sesuatu tunduk, yang bergetar dan tunduk setiap pemilik kekuasaan kepada kekuasaan-Nya, dan nama agama serta akhirat berada di tangan-Nya. (Nama keempat) yānūsy khīmiyā = maknanya: Mahasuci Yang Maha Penerima Taubat, Yang Maha Mengetahui, yang memiliki rahasia yang menghimpun dan cahaya yang bersinar bagi setiap yang didengar dan yang mendengar. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Nama-nama ini bukan bahasa Arab yang dapat diterjemahkan dan bukan dari Al-Qur’an; ditulis sebagai bunyi sesuai huruf cetakan. Jumlah dan ejaannya berbeda antara daftar di sini dan pengulangannya di bawah («يَاهَشْمَتْلُوخِيمِيَا» vs «يَاهْتَسْتَلُوخِيمِيَا»، «يَاتْرَكْلِيمْخَا» vs «يَابْتَرْكَلْمِيخَا») — perbedaan itu dipertahankan dan tidak seragamkan.
+
+«مَعَانِيهَا» di sini bukan terjemahan kata, melainkan tafsiran makna yang diklaim penulis; menerjemahkan klaimnya sebagai klaim. «جَوَامِعِ الْكَلِمِ» = kalimat yang padat/ringkas.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**الفصل العشرون — فائدة العشرة أسماء المكتوبة على بساط النور**. Halaman ini memuat daftar sepuluh nama (yang disebut «أسماء سليمانية») dan makna yang dinisbatkan kepadanya untuk empat nama pertama. Tidak ada tata cara baru di halaman ini; tata caranya menyusul di halaman 105–106.
+
+**Media:** Bacaan Basmalah atas perapian (al-kānūn) dengan seruan kepada khadimnya (penutup fasal 19)
+
+## M104 — Halaman 104, makna nama kelima sampai kesepuluh
+
+### 1. Arab
+
+(الِاسْمُ الْخَامِسُ) يَادَهْمَلِيمُوشِيَا = مَعْنَاهُ - سُبْحَانَ مَنْ رَفَعَ السَّمَاءَ وَبَسَطَ الْأَرْضَ سُبْحَانَ مَنْ يُمْسِكُ السَّمَاءَ أَنْ تَقَعَ عَلَى الْأَرْضِ إِلَّا بِإِذْنِهِ.
+
+(الِاسْمُ السَّادِسُ) يَاطَلْعَمِيثَا = مَعْنَاهُ - سُبْحَانَ الْمُسَبِّحِ بِكُلِّ مَكَانٍ سُبْحَانَ الْحَنَّانِ الْمَنَّانِ الَّذِي جَمَعَ الْأَشْيَاءَ بِسُلْطَانِ قَيُّومِهِ.
+
+(الِاسْمُ السَّابِعُ) يَادَبْرَهَلِيمْفِيَّا = مَعْنَاهُ - سُبْحَانَ الْمُتَعَالِي عَلَى جَمِيعِ الْأَضْدَادِ وَالْأَنْظَارِ الْمُنَزَّهِ عَنِ الصَّاحِبَةِ وَالْأَوْلَادِ سُبْحَانَ الْكَرِيمِ الْجَوَادِ.
+
+(الِاسْمُ الثَّامِنُ) يَابْتَرْكَلْمِيخَا = مَعْنَاهُ - سُبْحَانَ الْمَلِكِ الْمَلِكِ الْوَهَّابِ سُبْحَانَ الْجَبَّارِينَ الشَّدِيدِ الْبَطْشِ الْأَثِيمِ الْأَحَدِ الْعَظِيمِ.
+
+(الِاسْمُ التَّاسِعُ) يَادَهْرًا يَمْلُوخْ = مَعْنَاهُ - سُبْحَانَ الَّذِي خَضَعَتْ لَهُ النَّوَاصِي سُبْحَانَ الَّذِي يَسْمَعُ السِّرَّ وَالنَّجْوَى.
+
+(الِاسْمُ الْعَاشِرُ) يَالْيَقُويَا = مَعْنَاهُ - سُبْحَانَ رَبِّ الْأَرْبَابِ تَرَى وَلَا يُرَى وَلَا يَخْفَى عَلَيْهِ دَبِيبُ النَّمْلَةِ السَّوْدَاءِ
+
+### 2. Latin
+
+(Al-ismul khaamis) yaadahmaliimuusyiyaa = ma'naahu - subhaana man rafa'as samaa-a wa basathal ardha subhaana man yumsikus samaa-a an taqa'a 'alal ardhi illaa bi-idznihi. (Al-ismuts saadis) yaathal'am iitsaa = ma'naahu - subhaanal musabbihi bikulli makaanin subhaanal hannaamil mannaanil ladzii jama'al asyyaa-a bisulthaani qayyuumihi. (Al-ismus saabi'u) yaadabrahaliimfiyyaa = ma'naahu - subhaanal muta'aalii 'alaa jamii'il adhdaadi wal anzh aaril munazzahi 'anish shaahibati wal aul aadi subhaanal kariimil jaw aadi.
+
+(Al-ismuts tsaamin) yaabtarkalmiikhaa = ma'naahu - subhaanal malikil malikil wahhaabi subhaanal jabbaariinasy syadiidil bathsyil atsiimil ahadi(l) 'azhiimi. (Al-ismut taasi') yaadahran yamluukh = ma'naahu - subhaanal ladzii khadha'at lahun naw aashii subhaanal ladzii yasma'us sirra wan najwaa. (Al-ismul 'aasyir) yaalyaquuyaa = ma'naahu - subhaana rabbil arbaabi taraa wa laa yuraa wa laa yakhfaa 'alaihi dabiibun namlatis saudaai.
+
+### 3. Terjemahan
+
+(Nama kelima) yādahmalīmūsyiyā = maknanya: Mahasuci (Dzat) yang meninggikan langit dan menghamparkan bumi; Mahasuci (Dzat) yang menahan langit agar tidak jatuh ke bumi kecuali dengan izin-Nya. (Nama keenam) yāthal‘amītsā = maknanya: Mahasuci Yang Maha Bertasbih di setiap tempat; Mahasuci Yang Maha Pengasih, Maha Pemberi, yang menghimpun segala sesuatu dengan kekuasaan qayyūm-Nya. (Nama ketujuh) yādabrahamīmfiyyā = maknanya: Mahasuci Yang Mahatinggi atas segala yang berlawanan dan segala pandangan, Yang Mahasuci dari (memiliki) pasangan dan anak; Mahasuci Yang Mahamulia lagi Maha Pemberi.
+
+(Nama kedelapan) yābtarkalmīkhā = maknanya: Mahasuci Raja, Raja Yang Maha Pemberi; Mahasuci Yang Mahakuat, Yang keras tindakan-Nya, Yang Mahaagung, Yang Mahaesa, Yang Mahabesar. (Nama kesembilan) yādahrān yamlūkh = maknanya: Mahasuci (Dzat) yang kepada-Nya tunduk segala ubun-ubun; Mahasuci (Dzat) yang mendengar rahasia dan bisikan. (Nama kesepuluh) yālyaqūyā = maknanya: Mahasuci Tuhan segala tuhan; Dia melihat dan tidak dilihat, dan tidak tersembunyi bagi-Nya perjalanan semut hitam. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+«الْمُسَبِّحِ بِكُلِّ مَكَانٍ» susunannya janggal (mungkin «الْمُسَبَّح»); «الْأَضْدَادِ» bisa «الْأَضْدَاد» (yang berlawanan) — dibiarkan. Semua ini makna yang diklaim penulis untuk kata-kata yang bukan bahasa Arab; tidak diverifikasi.
+
+«الْمَلِكِ الْمَلِكِ» berulang pada cetakan (kemungkinan «الْمَلِكِ الْوَهَّاب» saja) — dipertahankan pengulangannya dan ditandai. «الْأَثِيمِ» di sini janggal untuk Allah; kemungkinan salah cetak dari «الْعَظِيم» atau «الْأَمِين» — tidak diubah, karena mengubah nama dalam bacaan bukan wewenang.
+
+Pembacaan ulang cetakan asli halaman cetak 104 memberi varian terbatas pada beberapa ungkapan Arab biasa: «بسلطان قوته» (bandingkan teks Arab di atas «بِسُلْطَانِ قَيُّومِهِ»), «والأنداد» (bandingkan «وَالْأَنْظَارِ»), serta susunan «سبحان المنزل للجبارين … سبحان الملك الوهاب» pada nama kedelapan. Varian ini dicatat sebagai selisih bacaan.
+
+## M105 — Halaman 105, bilangan nama dan syarat puasa
+
+### 1. Arab
+
+أَعْدَادُ الْأَسْمَاءِ:
+
+الِاسْمُ الْأَوَّلُ - عَدَدُ جُمَّلِهِ ١٠٧٢
+
+الِاسْمُ الثَّانِي - عَدَدُ جُمَّلِهِ ٥٣٥
+
+الِاسْمُ الثَّالِثُ - عَدَدُ جُمَّلِهِ ١٤٠٣
+
+الِاسْمُ الرَّابِعُ - عَدَدُ جُمَّلِهِ ١٥٩٨
+
+الِاسْمُ الْخَامِسُ - عَدَدُ جُمَّلِهِ ٥١٧
+
+الِاسْمُ السَّادِسُ - عَدَدُ جُمَّلِهِ ٦٤٦
+
+الِاسْمُ السَّابِعُ - عَدَدُ جُمَّلِهِ ١٨١٣
+
+الِاسْمُ الثَّامِنُ - عَدَدُ جُمَّلِهِ ١٣١٤
+
+الِاسْمُ التَّاسِعُ - عَدَدُ جُمَّلِهِ ٩٠٨
+
+الِاسْمُ الْعَاشِرُ - عَدَدُ جُمَّلِهِ ١٥٩٨
+
+وَإِذَا أَرَدْتَ تَصْرِيفَ هَذِهِ الْأَسْمَاءِ صُمْ لِلَّهِ تَعَالَى ٣ أَيَّامٍ عَنِ الرُّوحِ وَمَا خَرَجَ مِنْهُ رُوحٌ مُبْتَدِئًا مِنْ يَوْمِ الْأَحَدِ وَالِاثْنَيْنِ وَالثُّلَاثَاءِ يَا مِنْ يَوْمِ الثُّلَاثَاءِ وَالْأَرْبِعَاءِ وَالْخَمِيسِ وَاذْكُرِ الْأَسْمَاءَ عَدَدَ جُمَلِ أَسْمَائِهَا وَثُمَّ إِلَى الصَّبَاحِ فَأَنَّكَ تَرَى الْإِجَابَةَ كَالْبَرْقِ الْخَاطِفِ
+
+### 2. Latin
+
+A'daadul asmaa-i: al-ismul awwalu - 'adadu jummalihi 1072; al-ismuts tsaaniy - 'adadu jummalihi 535; al-ismuts tsaalitsu - 'adadu jummalihi 1403; al-ismur raabi'u - 'adadu jummalihi 1598; al-ismul khaamisu - 'adadu jummalihi 517; al-ismuts saadisu - 'adadu jummalihi 646; al-ismus saabi'u - 'adadu jummalihi 1813; al-ismuts tsaaminu - 'adadu jummalihi 1314; al-ismut taasi'u - 'adadu jummalihi 908; al-ismul 'aasyiru - 'adadu jummalihi 1598.
+
+Wa idzaa aradta tashriifa haadzihil asmaa-i shum lillaahi ta'aalaa 3 ayyaamin 'anir ruuhi wa maa kharaja minhu ruuhun mubtadi-an min yaumil ahadi wal itsnaini wats tsulaatsaa-i yaa min yaumits tsulaatsaa-i wal arbi'aa-i wal khamiisi wa-dzkuril asmaa-a 'adada jumali asmaa-ihaa wa tsumma ilash shabaahi fa-innaka taral ijaabata kal barqil khaathifi.
+
+### 3. Terjemahan
+
+Bilangan nama-nama: nama pertama — jumlah jumalnya 1072; nama kedua — 535; nama ketiga — 1403; nama keempat — 1598; nama kelima — 517; nama keenam — 646; nama ketujuh — 1813; nama kedelapan — 1314; nama kesembilan — 908; nama kesepuluh — 1598.
+
+Dan apabila engkau hendak «mengarahkan» nama-nama ini, berpuasalah karena Allah—Mahatinggi—tiga hari dari (makanan) yang berjiwa dan apa yang keluar darinya (berupa jiwa), dimulai dari hari Ahad, Senin, dan Selasa — atau dari hari Selasa, Rabu, dan Kamis — lalu sebutlah nama-nama itu sebanyak bilangan jumal namanya, kemudian sampai pagi; maka engkau akan melihat «jawaban» seperti kilat yang menyambar. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Angka dibaca dari cetakan; bentuk ٤ dan ٩ mudah tertukar sehingga angka-angka ini belum pastikan — tertulis ١٤٠٣ dan ١٥٩٨ pada dua tempat berbeda, dan tidak dapat memastikan apakah memang demikian atau salah baca. «عَدَدُ جُمَّلِهِ» = nilai bilangan huruf (hisab jummal). Tidak dihitung ulang nilainya.
+
+Kalimat «مُبْتَدِئًا مِنْ يَوْمِ الْأَحَدِ وَالِاثْنَيْنِ وَالثُّلَاثَاءِ يَا مِنْ يَوْمِ الثُّلَاثَاءِ» kacau pada cetakan (dua versi hari dicampur); dipertahankan dan tidak memilih salah satunya. «عَنِ الرُّوحِ وَمَا خَرَجَ مِنْهُ رُوحٌ» = berpantang yang bernyawa.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**أعداد الأسماء** — nilai bilangan (hisab jummal) tiap nama menurut klaim penulis, lalu syarat: puasa tiga hari, menyebut nama sesuai bilangan hurufnya sampai pagi, dengan klaim «jawaban» datang «seperti kilat yang menyambar». Dicatat sebagai klaim; **tidak** ada dasar Al-Qur’an/Sunnah untuk hitungan semacam ini.
+
+**Waktu:** Puasa tiga hari—Ahad, Senin, Selasa atau Selasa, Rabu, Kamis (kedua rangkaian pada cetakan dipertahankan); nama-nama disebut hingga pagi
+
+**Media:** Sepuluh nama yang dibaca menurut bilangan jummal masing-masing (1072, 535, 1403, 1598, 517, 646, 1813, 1314, 908, dan 1598)
+
+## M106 — Halaman 106, klaim kegunaan dan nasihat penulis
+
+### 1. Arab
+
+وَإِذَا قَرَأْتَ هَذِهِ الْأَسْمَاءَ لَيْلَةَ الْأَرْبِعِ مَرَّةً مِنْ أَوَّلِ الشَّهْرِ تُقْضَى لَكَ جَمِيعُ الْحَوَائِجِ مِنْ خَيْرٍ وَشَرٍّ وَهِيَ لِتَلْطِيفِ الْأَحْجَارِ وَالنُّقُودِ وَلِكُلِّ شَيْءٍ أَرَدْتَ. وَأَنْ أَرَدْتَ أَنْ تَغْشَى بِهَا عَلَى الْمَاءِ مَشَيْتَ بِأَمْرِ الله تَعَالَى.
+
+وَأَنْ أَرَدْتَ أَنْ تَغْشَى بِهَا عَلَى الْمَاءِ مَشَيْتَ بِأَمْرِ الله تَعَالَى. وَهِيَ أَيْضًا لِلِاخْتِفَاءِ - وَأَعْلَمْ أَيُّهَا الْوَاصِلُ إِلَيْهَا أَنَّهَا مُجِيبَةٌ فِي كُلِّ الْأُمُورِ وَكُلُّ اسْمٍ مِنْهُمْ إِذَا قُرِئَ أَنَّهُ لَهُ السَّمَاوَاتُ وَالْأَرْضُ وَلَا دَاعِيَ لِلتَّطْوِيلِ وَهِيَ أَمَانَةُ الله فِي عُنُقِكَ لِلْخَيْرِ فَقَطْ بَارَكَ الله فِيكَ.
+
+### 2. Latin
+
+Wa idzaa qara'ta haadzihil asmaa-a lailatal arbi'i marratan min awwalisy syahri tuqdhaa laka jamii'ul hawaa-iji min khairin wa syarrin wa hiya litalthiifil ah jaari wan nuquudi wa likulli syai-in aradta. Wa an aradta an taghsyaa bihaa 'alal maa-i masyaita bi-amrillaahi ta'aalaa.
+
+Wa an aradta an taghsyaa bihaa 'alal maa-i masyaita bi-amrillaahi ta'aalaa. Wa hiya aidhan lil ikhtifaa-i - wa a'lam ayyuhal waashilu ilaihaa annahaa mujiibatun fii kullil umuuri wa kullus minhum idzaa quri-a annahu lahus samaawaatu wal ardhu wa laa daa'iya lith thaw iili wa hiya amaanatullaahi fii 'unuqika lil khairi faqath baarakallaahu fiika.
+
+### 3. Terjemahan
+
+Dan apabila engkau membaca nama-nama ini pada malam keempat (dari bulan) sekali dari awal bulan, akan dipenuhi bagimu segala keperluan, dari kebaikan dan keburukan; dan ia (dipakai) untuk «melembutkan» batu dan uang, dan untuk segala sesuatu yang engkau kehendaki. Dan jika engkau hendak «menyelimuti» dengan namanya di atas air, engkau akan berjalan dengan perintah Allah—Mahatinggi.
+
+Dan jika engkau hendak «menyelimuti» dengan namanya di atas air, engkau berjalan dengan perintah Allah—Mahatinggi. Dan ia juga untuk «menghilang» (الاختفاء). Ketahuilah, hai orang yang sampai kepadanya, bahwa ia menjawab dalam segala urusan; dan setiap nama di antaranya, apabila dibaca, (konon) bahwa miliknya langit dan bumi; tidak ada alasan untuk memperpanjang. Dan ia adalah amanat Allah di lehermu — untuk kebaikan saja. Semoga Allah memberkatimu. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Baris pertama halaman ini mengulang kalimat yang sama dengan baris sebelumnya pada cetakan («وأن أردت أن تغشى بها على الماء مشيت…» tercetak dua kali); dipertahankan keduanya dan ditandai, tidak dihapus. «أَمَانَةُ الله فِي عُنُقِكَ لِلْخَيْرِ فَقَطْ» adalah nasihat penulis — dan justru bertentangan dengan halaman 97 («من خير أو شر») dan halaman ini sendiri yang menyebut «من خير وشر». Pertentangan itu dinyatakan dan tidak diratakan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Klaim bahwa membaca nama-nama itu pada malam keempat awal bulan memenuhi «segala keperluan dari kebaikan dan keburukan», berguna untuk «menjinakkan batu dan uang», berjalan di atas air, dan «menghilang» (الاختفاء); ditutup nasihat agar dipakai untuk kebaikan saja. Dicatat sebagai klaim penulis.
+
+**Waktu:** «لَيْلَةَ الْأَرْبِعِ» dari awal bulan—dipertahankan ganda sebagai malam keempat atau malam Rabu (الأربعاء)
+
+**Media:** Nama-nama yang dibaca
+
+## M107 — Halaman 107, Fasal Kedua Puluh Satu: nama-nama Nabi Adam
+
+### 1. Arab
+
+الْفَصْلُ الْوَاحِدُ وَالْعِشْرُونَ
+
+- فَصْلٌ فِي الْأَسْمَاءِ الَّتِي كَانَتْ مَعَ آدَمَ عَلَيْهِ السَّلَامُ -
+
+وَمَازَالَتْ تَنْتَقِلُ مِنْ حَكِيمٍ إِلَى حَكِيمٍ حَتَّى وَصَلَتْ إِلَى آصَفَ بْنِ بَرْخِيَا وَزِيرِ نَبِيِّ الله سُلَيْمَانَ عَلَيْهِ السَّلَامُ وَهُوَ الَّذِي جَاءَ بِهَا عَرْشَ بِلْقِيسَ فِي غَمْضَةِ عَيْنٍ بِأَمْرِ الله تَعَالَى. وَهِيَ مَأْخُوذَةٌ عَنِ النَّقْشِ بُطْرُسَ مِيخَائِيلَ بِغَايَةِ الصِّحَّةِ وَلَهَا رِيَاضَةٌ عَدَدُ ١١ يَوْمًا وَهُوَ أَنْ تَتْلُو هَذِهِ الْأَسْمَاءَ الِاثْنَيْنِ وَأَنْتَ عَرِيضٌ عَقْدٌ فِي قُرَيْشِيَّةٍ عَبْدٍ ١ مَرَّةً عَلَى بَخُورٍ فَاقْتَلِى وَبِالْبَخُورِ الْمَذْكُورِ الْمُتَقَدِّمِ ثُمَّ اخْرُجْ إِلَى الْخَلَاءِ إِلَى أَرْضٍ فَضَاءٍ تَكُونُ خَالِيَةً مِنَ الْعُمْرَانِ أَوْ فِي جَبَلٍ وَاضْرِبْ بِكَفِّكَ عَلَى الْأَرْضِ تَحْضُرُ عِنْدَكَ الْمُلُوكُ وَالْأَرْضِيَّةُ السَّبْعَةُ وَعَلَى رَأْسِهِمُ الْمُلُوكُ الْعُلْوِيَّةُ يَأْمُرُونَ الْأَرْضِيَّةَ بِالتَّنْفِيذِ لِكُلِّ مَا تُرِيدُ فَاطْلُبْ مَا تُرِيدُ مِنْهُمْ فَإِنَّهُمْ يُنَفِّذُونَهُ فِي الْحَالِ
+
+مِنْ شَقِّ الْأَرْضِ وَنَسْفِهَا وَتَحْوِيلِ الْكُنُوزِ وَالْأَمْوَالِ الْمَطْمُورَةِ فِي الْأَرْضِ إِلَى مَحَلٍّ مَا تُرِيدُ فِي غَمْضَةِ عَيْنٍ أَوْ عَزْلِ وَالِيًا وَتَجْلِيَةِ أَحَدٍ مَكَانَهُ - وَيُهْزَمُ الْجُيُوشُ -
+
+### 2. Latin
+
+Al-fashlul waahidu wal 'isysyruuna. - Fashlun fil asmaa-illatii kaanat ma'a aadama 'alaihis salaamu - wa maa zaalat tantaqilu min hakiimin ilaa hakiimin hattaa washala(t) ilaa aashafa bni barkhiyaa waziiri nabiyyillaahi sulaimaana 'alaihis salaamu wa huwal ladzii jaa-a bihaa 'arsya bilqiisa fii ghamdhati 'ainin bi-amrillaahi ta'aalaa. Wa hiya ma'khuudzatun 'anin naqsyi buthrusa miikhaa-iila bighaayatish shihhati wa lahaa riyaadhatun 'adadu 11 yauman wa huwa an tatluu haadzihil asmaa-a(l) itsnaini wa anta 'ariidhun 'aqdun fii quraisyiyyatin 'abdin 1 marratan 'alaa bakhuurin faqtalii wa bil bakhuuril madzkuuril mutaqaddimi tsumma ukhruj ilal khalaa-i ilaa ardhin fadhaa-in takuunu khaaliyatan minal 'umraani aw fii jabalin wadhrib bikaffika 'alal ardhi tahdhuru 'indaka(l) muluuku wal ardhiyyatus sab'atu wa 'alaa ra'sihimul muluukul 'ulwiyyatu ya'muruunal ardhiyyata bit tanfiidzi likulli maa turiidu fathlub maa turiidu minhum fa-innahum yunaffidzuunahu fil haali.
+
+Min syaqqil ardhi wa nasfihaa wa tahwiilil kunuuzi wal amwaalil mathmuurati fil ardhi ilaa mahallin maa turiidu fii ghamdhati 'ainin aw 'azli waaliyan wa tajliyati ahadin makaanahu - wa yuhzamul juyuusyu -
+
+### 3. Terjemahan
+
+Fasal kedua puluh satu. — Fasal tentang nama-nama yang dahulu bersama Adam—semoga salam atasnya — dan senantiasa berpindah dari orang bijak kepada orang bijak sampai tiba kepada Ashif bin Barkhiya, wazir Nabi Allah Sulaiman—semoga salam atasnya — dialah yang datang dengan (membawa) singgasana Bilqis dalam sekejap mata dengan perintah Allah—Mahatinggi. Dan ia diambil dari «نقش» Buthrus Mīkhā’īl dengan «kesahihan yang tinggi»; dan ia memiliki «رياضة» sebanyak 11 hari, yaitu engkau membaca nama-nama ini pada hari Senin «…» [bagian ini kacau pada cetakan] «…» dan dengan bakhur yang disebut terdahulu. Kemudian keluarlah ke tempat terbuka, ke tanah lapang yang kosong dari bangunan atau di sebuah gunung, dan pukullah dengan telapak tanganmu pada tanah, maka akan hadir di hadapanmu para raja dan (jin) bumi yang tujuh, dan di atas mereka para raja (jin) langit yang memerintahkan (jin) bumi untuk melaksanakan setiap apa yang engkau kehendaki. Maka mintalah apa yang engkau kehendaki dari mereka, karena mereka melaksanakannya saat itu juga.
+
+«…»dari membelah bumi dan menyapunya, memindahkan harta karun dan harta terpendam di bumi ke tempat yang engkau kehendaki dalam sekejap mata; atau memecat seorang pejabat dan mengangkat orang lain menggantikannya; dan (dengannya) tentara dapat dikalahkan. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Bagian «وَهُوَ أَنْ تَتْلُو هَذِهِ الْأَسْمَاءَ الِاثْنَيْنِ وَأَنْتَ عَرِيضٌ عَقْدٌ فِي قُرَيْشِيَّةٍ عَبْدٍ ١ مَرَّةً» tidak dapat dipahami dan tampaknya rusak pada cetakan; diberi tanda […], tidak ditambal. «النَّقْش بُطْرُس مِيخَائِيل» = naskah/ukiran yang dinisbatkan kepada Buthrus Mikha’il — sumber yang tidak dikenali dan tidak dapat diverifikasi. Klaim tentang Ashif bin Barkhiya diambil dari QS an-Naml 27:40, tetapi penulis menambahkan «nama-nama» yang tidak ada dalam ayat.
+
+«نَسْفِهَا» cetakan (mungkin «نَسْفِهَا» = menyapu, atau «شَقِّهَا»); «تَجْلِيَةِ أَحَدٍ مَكَانَهُ» = mengangkat seseorang pada tempatnya. Daftar ini adalah klaim kekuatan yang menurut penulis diperoleh dari nama-nama itu; dicatat, tidak diuji dan tidak disarankan.
+
+Pembacaan ulang cetakan asli halaman cetak 107 mendukung bunyi «عَقِبَ كُلِّ فَرِيضَةٍ عَدَدُ ٢١ مَرَّةً» dalam riyāḍah 11 hari. Bacaan itu berbeda dari klausa Arab di atas yang rusak dan memuat «١ مَرَّةً»; perbedaan itu dicatat sebagai selisih bacaan. Kata Bukhur dalam klausa yang sama tetap tidak dipastikan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**الفصل الواحد والعشرون — فصل في الأسماء التي كانت مع آدم عليه السلام**, yang menurut penulis berpindah dari hikmah ke hikmah sampai ke Ashif bin Barkhiya (yang disebut membawa singgasana Bilqis sekejap mata); dikatakan diambil dari «نقش بطرس ميخائيل»; dengan «رياضة» sebelas hari; lalu pergi ke tanah lapang, memukul tanah dengan telapak tangan, sehingga raja-raja jin hadir.
+
+**Waktu:** Riyāḍah 11 hari; menurut pembacaan cetakan asli, dibaca 21 kali sesudah setiap salat fardu
+
+**Bukhur:** Disebutkan, termasuk rujukan kepada Bukhur yang disebut terdahulu; kata/jenis persisnya tidak dipastikan
+
+## M108 — Halaman 108, nama penghadir dan «رجال الغيب»
+
+### 1. Arab
+
+وَعِمَارَةُ الْمُدُنِ وَالْحُصُونِ وَتَغْيِيرُ الْمَاضِي وَتَخْضِيرُ الْغَائِبِ وَكَشْفٌ عَنِ الْمَرِيضِ وَطِبٌّ وَعِلْمٌ وَكُلَّمَا تُرِيدُ فَاحْفَظْ هَذَا السِّرَّ الْعَظِيمَ وَالْأَسْمَاءَ كِتَابَتَهُ فَقَطْ وَهِيَ هَذِهِ الْأَسْمَاءُ تَقُولُ - خَلِيسَانِ - وَكَوْنُجَانِ - بِسْطَارْمَازْ يَحْضُرُ:
+
+- فَائِدَةٌ فِي مَعْرِفَةِ رِجَالِ الْغَيْبِ -
+
+وَهُمْ أَهْلُ خُشُوعٍ لَا يَتَكَلَّمُونَ إِلَّا هَمْسًا بِغَلَبَةِ جَلِيِّ الرَّحْمَنِ عَلَيْهِمْ وَهُمْ مُسْتَنْفَرُونَ لَا يَعْرِفُونَ فِي أَرْضِهِ وَسَمَائِهِ وَلَا يَرْجُونَ سِوَاهُ وَلَا يَعْرِفُونَ غَيْرَهُ.
+
+يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا إِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا وَقَدْرًا أَمِنَ أَسْمَائِهِمْ بَعْضُ أَهْلِ الْمَعَارِفِ قَالُوا سَلَامًا وَقَدْرًا مِنْ أَسْمَائِهِمْ بَعْضُ أَهْلِ الْمَعَارِفِ وَجَعَلْنَا لَهُمْ دَائِرَةً يُعْرَفُونَ بِهَا وَلَهُمْ آيَاتٌ مُجَرَّبَةٌ لِرَفْعِ الْمُهِمَّاتِ مِنَ الْأُمُورِ فَتَوَجَّهَ الَّتِي هُمْ فِيهَا الْمَعْرُوفَةُ فِي الدَّائِرَةِ بَعْدَ أَنْ تُصَلِّيَ لَهُ رَكْعَتَيْنِ وَبَعْدَ السَّلَامِ تَخْطُو خُطْوَتَيْنِ إِلَى جِهَتِهِمْ ثُمَّ تُخَاطِبُهُمْ فَتَقُولُ - السَّلَامُ عَلَيْكُمْ يَا رِجَالَ الْغَيْبِ يَا أَرْوَاحًا مُقَدَّسَةً يَا قُطْبُ يَا غَوْثُ يَا جِبَا يَا نُقَبَا يَا رَقَبَا يَا أَمْنَا يَا أَبْدَالُ يَا أَفْرَادُ
+
+### 2. Latin
+
+Wa 'imaaratul muduni wal hushuuni wa taghyiirul maa dhii wa takhdhiirul ghaa-ibi wa kasyfun 'anil mariidhi wa thibbun wa 'ilmun wa kullamaa turiidu fahfazh haadzas sirral 'azhiima wal asmaa-a kitaabatahu faqath wa hiya haadzihil asmaa-u taquulu - khaliisaani - wa kaunuj aani - bisthaarmaaz yahdhuru:
+
+- Faa-idatun fii ma'rifati rijaalil ghaibi - wa hum ahlul khusyuu'in laa yatakallamuuna illaa hamsan bighalabati jaliyyir rahmaani 'alaihim wa hum mustanfaruuna laa ya'rifuuna fii ardhihi wa samaa-ihi wa laa yarjuuna siwaahu wa laa ya'rifuuna ghairahu. Yamsyuuna 'alal ardhi haunan idzaa khaathabahumul jaahiluuna qaaluu salaaman wa qadran amin asmaa-ihim ba'dhu ahlil ma'aarifi qaaluu salaaman wa qadran min asmaa-ihim ba'dhu ahlil ma'aarifi wa ja'alnaa lahum daa-iratan yu'rafuuna bihaa wa lahum aayaatun mujarrabatun liraf'il muhimmaati minal umuuri fatawajjahillatii hum fiihal ma'ruufatu fid daa-irati ba'da an tushalliya lahu rak'ataini wa ba'das salaami takhthuu khuthwataini ilaa jihatihim tsumma tukhaathibuhum fataquulu - as-salaamu 'alaikum yaa rijaalal ghaibi yaa arwaahan muqaddasatan yaa quthbu yaa ghautsu yaa jibaa yaa nuqabaa yaa raqabaa yaa amnaa yaa abdaalu yaa afraadu.
+
+### 3. Terjemahan
+
+Dan (untuk) membangun kota-kota dan benteng-benteng, mengubah yang telah lalu, «menghijaukan» yang gaib, menyingkap (keadaan) orang sakit, kedokteran dan ilmu, dan segala yang engkau kehendaki — maka jagalah rahasia yang agung ini; dan nama-namanya tulisannya saja. Yaitu nama-nama ini, engkau ucapkan: «Khalīsān — wa Kaunujān — Bisthārmāz», maka ia hadir:
+
+— Faedah tentang mengenal «orang-orang gaib» — Mereka adalah orang-orang yang khusyuk, tidak berbicara kecuali berbisik karena dominasi (keagungan) Yang Maha Jelas dari Yang Maha Pengasih atas mereka; mereka orang-orang yang dikerahkan, tidak mengenal (selain) di bumi dan langit-Nya, tidak mengharap selain Dia, dan tidak mengenal selain-Nya. Mereka berjalan di bumi dengan rendah hati; apabila orang-orang bodoh menegur mereka, mereka berkata (dengan) salam dan kadar. Ada yang menganggap sebagian nama mereka (diketahui) sebagian ahli ma‘rifat; mereka berkata (dengan) salam dan kadar dari nama-nama mereka. Dan kami jadikan bagi mereka sebuah lingkaran yang dengannya mereka dikenali, dan bagi mereka ayat-ayat yang (konon) sudah dicoba untuk mengangkat kesulitan-kesulitan. Maka hadapkanlah (dirimu) ke arah di mana mereka berada sebagaimana dikenal dalam lingkaran itu, setelah engkau salat dua rakaat untuknya, dan setelah salam melangkahlah dua langkah ke arah mereka, kemudian berbicaralah kepada mereka dan katakan: «Semoga keselamatan atas kalian, hai orang-orang gaib, hai ruh-ruh yang disucikan, hai quthb, hai ghauts, hai jibā, hai nuqabā’, hai raqabā’, hai amnā, hai abdāl, hai afrād.» [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+«تَخْضِيرُ الْغَائِبِ» dan «تَغْيِيرُ الْمَاضِي» adalah klaim yang tidak masuk akal bila dibaca harfiah (menghijaukan yang gaib, mengubah masa lalu) — diterjemahkan apa adanya dan ditandai sebagai klaim. «بِسْطَارْمَازْ» nama tanpa makna jelas.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan daftar kegunaan; tiga nama untuk menghadirkan («خليسان، وكونجان، بسطارماز»); lalu **فائدة في معرفة رجال الغيب** — keyakinan tentang «orang-orang gaib» (quthb, ghauts, abdāl, nuqabā’) dan bacaan salam kepada mereka, dengan klaim bahwa keperluan terpenuhi setelah salat dua rakaat dan melangkah dua langkah ke arah mereka.
+
+**Media:** Dua rakaat dan dua langkah ke arah mereka; ucapan “as-salāmu ‘alaikum yā rijāl al-ghaib” dan tiga nama pembuka rangkaian tawasul
+
+## M109 — Halaman 109, salam lanjutan dan da'irah arah
+
+### 1. Arab
+
+يَا أَوْتَادُ أَعِيذُونِي أَغِيثُونِي أَنْظُرُوا إِلَى بُوحْدَانِيَّةِ الله وَبِحُرْمَةِ سَيِّدِنَا مُحَمَّدٍ صَلَّى الله عَلَيْهِ وَسَلَّمَ ثُمَّ تَوَجَّهْ إِلَى حَاجَتِكَ فَإِنَّهَا تُقْضَى بِإِذْنِ الله تَعَالَى.
+
+وَسَأَذْكُرُ لَكَ مَعْرِفَتَهُمْ لِأَنَّهُمْ فِي كُلِّ يَوْمٍ مِنْ كُلِّ شَهْرٍ يَكُونُوا فِي جِهَةٍ مِنَ الْجِهَاتِ الثَّمَانِيَةِ تَعْرِفُ ذَلِكَ مِنَ الدَّائِرَةِ وَأَيَّامُ الشَّهْرِ مَعْرُوفَةٌ بِالْعَدَدِ الْهِنْدِيِّ الْمَرْقُومِ تَحْتَ الْجِهَاتِ الْمَوْضُوعَةِ حَوْلَ الدَّائِرَةِ كَمَا تَرَى فَافْهَمْ تُرْشَدْ.
+
+[دَائِرَةٌ مُقَسَّمَةٌ إِلَى ثَمَانِيَةِ أَجْزَاءٍ فِيهَا الْجِهَاتُ وَالْأَعْدَادُ وَالْأَسْمَاءُ — رَاجِعْ صُورَةَ الصَّفْحَةِ ١٠٩]
+
+### 2. Latin
+
+Yaa autaadu a'iidzuunii aghiitsuunii unzhuruu ilaa buuhdaaniyyatillaahi wa bihurmati sayyidinaa muhammadin shallallaahu 'alaihi wa sallama tsumma tawajjah ilaa haajatika fa-innahaa tuqdh aa bi-idznillaahi ta'aalaa.
+
+Wa sa-adzkuru laka ma'rifatahum li-annahum fii kulli yaumin min kulli syah rin yakuunuu fii jihatin minal jihaatsi tsamaaniyati ta'rifu dzaalika minad daa-irati wa ayyaamusy syahri ma'ruufatun bil 'adadil hindiyyil marquumi tahtal jihaati(l) maudhuu'ati haular daa-irati kamaa taraa fafham tursyad. [Daa-iratun muqassamatun ilaa tsamaaniyati ajzaa-in fiihal jihaatu wal a'daadu wal asmaa-u - raaji' shuurata shafhati 109].
+
+### 3. Terjemahan
+
+«Hai pasak-pasak (أوتاد), lindungilah aku, tolonglah aku, pandanglah kepada keesaan Allah, dan dengan kemuliaan tuan kami Muhammad ﷺ.» Kemudian hadapkanlah (dirimu) kepada keperluanmu, maka ia akan dipenuhi dengan izin Allah—Mahatinggi.
+
+Dan akan aku sebutkan kepadamu cara mengenali mereka, karena mereka pada setiap hari dari setiap bulan berada pada satu arah dari delapan arah; engkau mengetahui itu dari «lingkaran» (الدائرة), dan hari-hari bulan diketahui dengan angka Hindi yang tertulis di bawah arah-arah yang diletakkan di sekitar lingkaran, sebagaimana engkau lihat. Maka fahamilah, engkau akan mendapat petunjuk.
+
+[CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+«أَعِيذُونِي» (lindungilah aku) berdampingan dengan «أَغِيثُونِي» (tolonglah aku); «بُوحْدَانِيَّةِ» bentuk cetakan yang janggal (mungkin «بِوَحْدَانِيَّةِ»). Menyeru selain Allah dengan «lindungilah/tolonglah» adalah persoalan akidah yang serius; dicatat teksnya dan tidak diikuti.
+
+![Wafaq halaman 109](wafaq_qorin/109.jpg)
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan bacaan salam kepada «رجال الغيب» («يَا أَوْتَادُ أَعِيذُونِي…») dan perintah menghadap keperluan; lalu penjelasan bahwa mereka berpindah arah menurut hari dan bulan, dengan **da'irah (lingkaran) bergambar** berisi arah dan angka yang menjadi rujukan.
+
+**Waktu:** Setiap hari dari setiap bulan; satu dari delapan arah ditentukan menurut hari pada da’irah
+
+**Media:** Da’irah bergambar delapan arah dengan angka Hindi di sekelilingnya
+
+## M110 — Halaman 110, hadis Abu Nu‘aim tentang «abdāl»
+
+### 1. Arab
+
+قَالَ الْحَافِظُ أَبُو نُعَيْمٍ فِي مُسْنَدِهِ عَنِ ابْنِ مَسْعُودٍ رَضِيَ الله عَنْهُ)
+
+قَالَ: رَسُولُ الله صَلَّى الله عَلَيْهِ وَسَلَّمَ:-
+
+أَنَّ لِلَّهِ فِي الْخَلْقِ ثَلْثَمِائَةٍ قُلُوبُهُمْ عَلَى قَلْبِ إِبْرَاهِيمَ عَلَيْهِ السَّلَامُ وَلَهُ فِي خَلْقِهِ أَرْبَعُونَ قُلُوبُهُمْ عَلَى قَلْبِ مُوسَى عَلَيْهِ السَّلَامُ وَلَهُ فِي خَلْقِهِ خَمْسَةٌ قُلُوبُهُمْ عَلَى قَلْبِ مِيكَائِيلَ عَلَيْهِ السَّلَامُ
+
+فَإِذَا مَاتَ وَاحِدٌ مِنْهُمْ أَيْ مِنَ الثَّلْثَمِائَةِ أَبْدَلَ الله مَكَانَهُ وَاحِدٌ مِنَ الْخَمْسَةِ وَإِذَا مَاتَ وَاحِدٌ مِنَ الْخَمْسَةِ أَبْدَلَ الله مَكَانَهُ وَاحِدٌ مِنَ الْأَرْبَعِينَ إِذَا مَاتَ وَاحِدٌ الْأَرْبَعِينَ أَبْدَلَ الله مَكَانَهُ وَاحِدٌ مِنَ الثَّلْثَمِائَةِ وَإِذَا مَاتَ وَاحِدٌ مِنَ الثَّلْثَمِائَةِ أَبْدَلَ الله مَكَانَهُ وَاحِدٌ مِنَ الْعَامَّةِ بِهِمْ يَحْيَى وَيُمِيتُ وَيُبْطِرُ وَيُنْبِتُ وَيَدْفَعُ الْبَلَاءَ.
+
+قِيلَ لِعَبْدِ الله ابْنِ مَسْعُودٍ - كَيْفَ يَدْفَعُ الْبَلَاءَ وَيُحْيَا وَيُمِيتُ قَالَ: يَسْئَلُونَ الله أَكْثَارَ الْأَمْ فَيُكْثِرُونَ وَيَدْعُونَ عَلَى الْجَبَابِرَةِ فَيَقْصِدُونَ فَيُسْتَنْقَذُونَ فَيُسْقُونَ وَيَسْأَلُونَ فَتُنْبِتُ الْأَرْضُ وَيَدْعُونَ فَيَدْفَعُ الله بِهِمُ الْبَلَاءَ مِنْ خَلْقِهِ وَأَنْوَاعَ الْعَذَابِ.
+
+### 2. Latin
+
+Qaalal haafizhu abuu nu'aimin fii musnadihi 'anibni mas'uudin radhiyallaahu 'anhu) qaala: rasuulullaahi shallallaahu 'alaihi wa sallama: - anna lillaahi fil khalqi tsltsamaa-atin quluubuhum 'alaa qalbi ibraahiima 'alaihis salaamu wa lahu fii khalqihi arba'uuna quluubuhum 'alaa qalbi muusaa 'alaihis salaamu wa lahu fii khalqihi khamsatun quluubuhum 'alaa qalbi miikaa-iila 'alaihis salaamu. Fa-idzaa maata waahidun minhum ay minats tsltsamaa-ati abdalallaahu makaanahu waahidun minal khamsati wa idzaa maata waahidun minal khamsati abdalallaahu makaanahu waahidun minal arba'iina idzaa maata waahidul arba'iina abdalallaahu makaanahu waahidun minats tsltsamaa-ati wa idzaa maata waahidun minats tsltsamaa-ati abdalallaahu makaanahu waahidun minal 'aammati bihim yahyaa wa yumiitu wa yubthiru wa yunbitu wa yadfa'ul balaa-a.
+
+Qiila li'abdillaahi bni mas'uudin - kaifa yadfa'ul balaa-a wa yuh yaa wa yumiitu qaala: yas-aluunallaaha aktsaaral ammi fayuktsiruuna wa yad'uuna 'alal jabaabirati fayaqshiduuna fayustanqadzuuna fayusqauna wa yas-aluuna fatunbitul ardhu wa yad'uuna fayadfa'ullaahu bihimul balaa-a min khalqihi wa anwaa'al 'adzaabi.
+
+### 3. Terjemahan
+
+Al-Hafizh Abu Nu‘aim berkata dalam musnadnya, dari Ibnu Mas‘ud—semoga Allah meridainya: Rasulullah ﷺ bersabda: «Sesungguhnya Allah memiliki tiga ratus (orang) di antara makhluk, hati mereka (seperti) hati Ibrahim—semoga salam atasnya; dan Dia memiliki empat puluh (orang), hati mereka (seperti) hati Musa—semoga salam atasnya; dan Dia memiliki lima (orang), hati mereka (seperti) hati Mikail—semoga salam atasnya.» Maka apabila mati satu dari mereka, yaitu dari yang tiga ratus, Allah menggantikan tempatnya dengan satu dari yang lima; apabila mati satu dari yang lima, Allah menggantikan tempatnya dengan satu dari yang empat puluh; apabila mati satu dari yang empat puluh, Allah menggantikan tempatnya dengan satu dari yang tiga ratus; dan apabila mati satu dari yang tiga ratus, Allah menggantikan tempatnya dengan satu dari orang umum. Dengan mereka (makhluk) dihidupkan dan dimatikan, ditumbuhkan(?) dan ditumbuhkan tanaman, dan bala ditolak.
+
+Dikatakan kepada Abdullah bin Mas‘ud: «Bagaimana mereka menolak bala, menghidupkan, dan mematikan?» Ia berkata: «Mereka memohon kepada Allah (agar) hujan banyak, maka (hujan) menjadi banyak; mereka mendoakan (kejelekan) atas orang-orang yang sewenang-wenang, maka (doa itu) mengenai mereka sehingga mereka tertimpa; mereka diberi minum, mereka meminta, maka bumi menumbuhkan (tanaman); dan mereka berdoa, maka Allah menolak bala dengan mereka dari makhluk-Nya dan segala jenis azab.» [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Cetakan menulis «الثَّلْثَمِائَة» (bentuk tidak baku; biasa «الثلاثمائة») — dipertahankan. «يُبْطِرُ» tidak jelas (mungkin «يُمْطِر» = menurunkan hujan). Hadis ini belum terverifikasi: penulis menisbatkannya kepada «مسند أبي نعيم» dari Ibnu Mas‘ud; tidak dapat memastikan sanadnya maupun statusnya, dan hadis tentang jumlah «abdāl» semacam ini diperdebatkan ulama.
+
+«أَكْثَارَ الْأَمْ» bentuk cetakan yang tidak baku (mungkin «إكثار الأمن/الغيث») — dipertahankan dan ditandai. «فَيُسْقُونَ» = diberi hujan/minum.
+
+## M111 — Halaman 111, jumlah tiap kelompok dan doa yang terpotong
+
+### 1. Arab
+
+وَأَعْلَمْ أَنَّ النُّقَبَاءَ ثَلْثَمِائَةٍ وَهُمْ بِالْمَغْرِبِ وَالنُّجَبَاءُ سَبْعُونَ وَهُمْ بِمِصْرَ = وَالْأَبْدَالُ أَرْبَعُونَ وَهُمْ بِالشَّامِ وَالْأَخْيَارُ سَبْعَةٌ وَهُمْ سَيَّاحُونَ فِي الْأَرْضِ وَالْعُمْدُ أَرْبَعَةٌ وَهُمْ سَيَّاحُونَ فِي زَوَايَا الْأَرْضِ = وَمَسْكَنُ الْغَوْثِ مَكَّةُ الْمُكَرَّمَةُ (فَإِذَا أَعْرَضَتْ لِحَاجَةٍ) فِي أَمْرِ الْعَامَّةِ ابْتُلُوا فِيهَا النُّقَبَاءُ ثُمَّ النُّجَبَاءُ ثُمَّ الْأَبْدَالُ ثُمَّ الْأَخْيَارُ ثُمَّ الْعُمْدُ فَإِذَا اجْلَوْا وَإِلَّا ابْتُلِيَ الْغَوْثُ فَلَا تَتِمُّ دَعْوَتُهُ حَتَّى تَتِمَّ مَسْأَلَتُهُ.
+
+وَهَذَا دُعَاءٌ مَنْ حَمَلَةُ كَانَ مَحْفُوظًا فِي الْبَرِّ وَالْبَحْرِ وَلَا يَذْكُرُ حَاجَتَهُ بَعْدَ قِرَاءَتِهِ ثَلَاثَ مَرَّاتٍ لَا يَقُومُ مِنْ مَقَامِهِ إِلَّا وَقُضِيَتْ حَاجَتُهُ وَهَذَا هُوَ الدُّعَاءُ فَاحْفَظْهُ وَصُنْهُ جَهْدَكَ تَقُولُ -
+
+- بِسْمِ الله الرَّحْمَنِ الرَّحِيمِ -
+
+اللَّهُمَّ أَنِّي أَسْأَلُكَ بِعَظِيمِ أَسْمَائِكَ وَصِفَاتِكَ وَأَنْبِيَائِكَ وَأَوْلِيَائِكَ وَآيَاتِكَ الْمُنَزَّلَةِ عَلَى خَيْرِ عِبَادِكَ أَنْ تُوَفِّقَنِي إِلَى مَا تُحِبُّ وَتَرْضَى وَتَرْزُقْنَا كُلَّ خَيْرٍ أَحَاطَ بِكَ عِلْمُكَ فِي الدُّنْيَا وَالْآخِرَةِ وَأَسْعَدْنَا بِلِقَائِكَ وَأَنْتَ رَاضٍ عَنَّا بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ وَأَسْأَلُكَ وَأَتَوَسَّلُ إِلَيْكَ بِجَاهِ نَبِيِّكَ الْمُخْتَارِ وَآلِهِ
+
+### 2. Latin
+
+Wa a'lam annal nuqabaa-a tsltsamaa-atun wa hum bil maghribi wan nujabaa-u sab'uuna wa hum bimishra = wal abdaalu arba'uuna wa hum bisy syaami wal akhyaaru sab'atun wa hum sayyaahuuna fil ardhi wal 'umdu arba'atun wa hum sayyaahuuna fii zawaayal ardhi = wa maskanul ghautsi makkatul mukarramatu (fa-idzaa a'radhat lihaajatin) fii amril 'aammati ubtuluu fiihal nuqabaa-u tsumman nujabaa-u tsummal abdaalu tsummal akhyaaru tsummal 'umdu fa-idzaa ajal-lau wa illab tuliya(l) ghautsu falaa tatimmu da'watuhu hattaa tatimma mas-alatuhu.
+
+Wa haadzaa du'aa-un man hamalatu kaana mahfuuzhan fil barri wal bahri wa laa yadzkuru haajatahu ba'da qiraa-atihi tsalaatsa marraatin laa yaquumu min maqaamihi illaa wa qudhiyat haajatuhu wa haadzaa huwad du'aa-u fahfazhhu wa shunhu jahdaka taquulu - bismillaahir rahmaanir rahiimi - Allaahumma annii as-aluka bi'azhiimi asmaa-ika wa shifaatika wa anbiyaa-ika wa auliyaa-ika wa aayaatikal munazzalati 'alaa khairi 'ibaadika an tuwaffiqanii ilaa maa tuhibbu wa tardhaa wa tarzuqnaa kulla khairin ahaatha bika 'ilmuka fid dunyaa wal aakhirati wa as'adnaa biliqaa-ika wa anta raa dhin 'annaa birahmatika yaa arhamar raahimiina wa as-aluka wa atawassalu ilaika bijaahi nabiyyikal mukhtaari wa aalihi.
+
+### 3. Terjemahan
+
+Ketahuilah bahwa «nuqabā’» berjumlah tiga ratus dan mereka di (tanah) Maghrib; «nujabā’» tujuh puluh dan mereka di Mesir; «abdāl» empat puluh dan mereka di Syam; «akhyār» tujuh dan mereka berkelana di bumi; «‘umud» empat dan mereka berkelana di penjuru bumi; dan tempat tinggal «ghauts» adalah Makkah yang dimuliakan. Maka apabila tampak suatu keperluan dalam perkara umum, diuji (dibebankan) padanya para nuqabā’, kemudian nujabā’, kemudian abdāl, kemudian akhyār, kemudian ‘umud; maka apabila mereka telah melaksanakan(?) — jika tidak, ghauts diuji, sehingga doanya tidak sempurna sampai selesai permintaannya.
+
+Dan ini adalah doa «orang-orang yang membawa», yang (konon) terjaga di darat dan di laut; ia tidak menyebut keperluannya setelah membaca tiga kali — ia tidak berdiri dari tempatnya kecuali keperluannya telah dipenuhi. Dan inilah doanya, maka hafalkanlah dan peliharalah dengan sungguh-sungguh. Engkau ucapkan:
+
+— Dengan nama Allah Yang Maha Pengasih dan Maha Penyayang —
+
+«Ya Allah, aku memohon kepada-Mu dengan keagungan nama-nama-Mu dan sifat-sifat-Mu, para nabi-Mu dan para wali-Mu, serta ayat-ayat-Mu yang diturunkan kepada sebaik-baik hamba-Mu, agar Engkau memberiku taufik kepada apa yang Engkau cintai dan ridhai, memberi kami rezeki segala kebaikan yang ilmu-Mu meliputi kami di dunia dan akhirat, membahagiakan kami dengan perjumpaan dengan-Mu, dan Engkau meridai kami dengan rahmat-Mu, hai Yang Maha Pengasih dari segala yang mengasihi. Dan aku memohon kepada-Mu serta bertawasul kepada-Mu dengan kemuliaan nabi-Mu yang terpilih dan keluarganya «…»» [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+«فَإِذَا اجْلَوْا» tidak dapat dipastikan (mungkin «أَجَابُوا» atau «أَجْلَوْا»); «ابْتُلِيَ الْغَوْثُ» = ghauts «diuji/dibebani». Angka dan tempat ini adalah bagian dari keyakinan yang dinisbatkan penulis, bukan sesuatu yang sahkan; tidak menemukan dasarnya dalam Al-Qur’an.
+
+Doa ini lebih dekat kepada doa yang lazim dan tidak memuat permintaan bantuan makhluk; berbeda dengan isi halaman-halaman sebelumnya. Kalimat pembuka «دُعَاءٌ مَنْ حَمَلَةُ» rusak susunannya pada cetakan (mungkin «دعاء حملة العرش» atau «دعاء من حملة العلم») — dibiarkan bertanda. Halaman berhenti di tengah doa pada kata «وَآلِهِ»; lanjutannya di halaman 112.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Lanjutan pembagian «نقباء/نجباء/أبدال/أخيار/عمد» beserta tempatnya dan urutan «ابتلاء» ketika ada keperluan; lalu **doa** yang menurut penulis «dihafal di darat dan laut», yang jika dibaca tiga kali keperluannya terkabul sebelum ia bangkit. Halaman berhenti di tengah doa.
+
+**Media:** Doa perluasan tawasul dibaca; Metode mencatat pembacaan tiga kali dalam konteks penyebutan keperluan (redaksi Terjemahan dipertahankan)
+
+## M112 — Halaman 112, lanjutan doa dan tawasul
+
+### 1. Arab
+
+«…» وَالطَّهَارِ وَأَصْحَابِ الْأَخْيَارِ وَآلِ بَيْتِهِ الْأَبْرَارِ أَنْ تَكْفُرَ عَنَّا الذُّنُوبَ وَالْأَوْزَارَ وَاحْرُسْنَا مِنْ جَمِيعِ الْأَخْوَالِ وَالْأَخْطَارِ وَأَمِّنَّا مِنْ شَرِّ الظَّالِمِينَ وَالطَّاغِينَ وَالْفُجَّارِ وَمَتِّعْنَا بِرُؤْيَتِكَ وَرُؤْيَةِ مَنْ نَرَاهُ فِي دَارِ الْقَرَارِ وَتَقَبَّلْ مِنَّا مَا عَمِلْنَا مِنْ سَائِرِ أَعْمَالِنَا فِي السِّرِّ وَالْإِجْهَارِ وَاغْفِرْ لَنَا بِمَغْفِرَتِكَ أَنَّكَ غَفُورٌ رَحِيمٌ غَفَّارٌ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ وَأَتَوَسَّلُ إِلَيْكَ بِوَاحِدٍ أَخْيَارِكَ وَسَبْعَةِ أَخْيَارِكَ وَعَشَرَةِ رِجَالِكَ وَأَرْبَعِينَ بُدَلَائِكَ وَسَبْعِينَ نُجَبَائِكَ وَثَلَاثِمِائَةِ نُقَبَائِكَ أَنْ تَرْضَى عَنَّا بِرِضَائِكَ وَصَبِّرْنَا عَلَى قَضَائِكَ وَبَلَائِكَ وَأَرْزُقْنَا شُكْرَ نِعْمَائِكَ وَاشْفِنَا بِشِفَائِكَ وَدَاوِنَا بِدَوَائِكَ وَاجْعَلْنَا مِنْ أَوْلِيَائِكَ وَلَا تُخْرِجْنَا عَنْ بَابِكَ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ اللَّهُمَّ أَتَوَسَّلُ إِلَيْكَ بِيَحْيَى بْنِ زَكَرِيَّا وَالرَّبِيعِ بْنِ خَيْثَمَ وَإِبْرَاهِيمَ بْنِ أَدْهَمَ وَالْفُضَيْلِ بْنِ عِيَاضٍ وَأَبِي عَبْدِ اللَّهِ النَّفَّاطِ وَمَنْصُورِ بْنِ عَمَّارٍ وَمَالِكِ بْنِ دِينَارٍ وَحَبِيبٍ النَّجَّارِ وَالْبَيْتِ وَالتَّمَّارِ وَالْقَاضِي بِكَارٍ وَثَابِتٍ الْبَنَانِيِّ وَطَاوُوسٍ الْيَمَانِيِّ
+
+وَمُحَمَّد الْعَسْقَلَانِي وَابْنِ سُلَيْمَانَ الدَّارَانِي وَسَيِّدِي مَدْيَنِ التِّلِمْسَانِي وَابِي أُدْرِيسَ الْخَوْلَانِي وَعَبْدِ اللَّهِ الْمَدَنِي وَأَوِيسٍ الْقَرَنِي وَالشَّيْخِ النِّظَامِي وَابِي يَزِيدَ الْبِطَاحِي وَابِي تُرَابٍ النَّخَشْبِي وَابِي الْمَعَالِي أَمَامِ الْحَرَمَيْنِ الْجُوَيْنِي وَعَبْدِ الْعَزِيزِ الدَّرِينِي وَحَبِيبٍ الْعَجَمِي وَالْحَسَنِ الْبَصْرِي
+
+### 2. Latin
+
+«…» wath thahaari wa ash haabil akhyaari wa aali baitihil abraari an takfura 'annadz dzunuuba wal awzaara wah rusnaa min jamii'il akhwaali wal akhthaari wa amminnaa min syarrizh zhaalimiina wath thhaaghiina wal fujjaari wa matti'naa biru'yatika wa ru'yati man naraahu fii daaril qaraari wa taqabbal minnaa maa 'amilnaa min saa-iril a'maalinaa fis sirri wal ijhaari waghrir lanaa bimaghfiratika annaka ghafuurun rahiimun ghaffaarun birahmatika yaa arhamar raahimiina wa atawassalu ilaika biwaahidin akhyaarika wa sab'ati akhyaarika wa 'asyarati rijaalika wa arba'iina budalaa-ika wa sab'iina nujabaa-ika wa tsalaatsimi-ati nuqabaa-ika an tardhaa 'annaa biridhaa-ika wa shabbirnaa 'alaa qadhaa-ika wa balaa-ika wa arzuqnaa syukra ni'maa-ika wasyfinaa bisyifaa-ika wa daawinaa bidawaa-ika waj'alnaa min auliyaa-ika wa laa tukhrijnaa 'an baabika birahmatika yaa arhamar raahimiin. Allaahumma atawassalu ilaika biyahyaa bni zakariyyaa war rabii'i bni khaitsama wa ibraahiima bni adhama wal fudhaila bni 'iyaadh wa abii 'abdillaahin naffaathi wa manshuuri bni 'ammaarin wa maaliki bni diinaarin wa habiibin najjaari wal baiti wat tammaari wal qaadhii bikaarin wa tsaabitin bananiyyi wa thaanuusal yamaaniyyi.
+
+Wa muhammadinil 'asqalaaniyyi wabni sulaimaanad daaraaniyyi wa sayyidii madyanin tilimsaaniyyi wabii idriisal khaulaaniyyi wa 'abdillaahil madaniyyi wa uwaisin qaraniyyi wasy syaikhin nizhaamiyyi wabii yaziidal bith aahiyyi wabii turaabin nakhsyabiyyi wabii ma'aalii imaamil haramainil juwainiyyi wa 'abdil 'aziizid dariiniyyi wa habiibil 'ajamiyyi wal hasanil bashriyyi.
+
+### 3. Terjemahan
+
+«…» dan (ahli) kesucian, para sahabat yang terpilih, serta keluarga rumahnya yang berbakti, agar Engkau menghapus dosa dan beban kami, menjaga kami dari segala ketakutan dan bahaya, memberi keamanan dari kejahatan orang zalim, melampaui batas, dan durhaka, memberi kami nikmat dengan melihat-Mu dan melihat siapa yang kami lihat di kampung keabadian, menerima dari kami amal-amal kami di tempat rahasia maupun terang, dan mengampuni kami dengan ampunan-Mu — sesungguhnya Engkau Maha Pengampun, Maha Penyayang, Maha Pengampun — dengan rahmat-Mu, hai Yang Maha Pengasih dari segala yang mengasihi. Dan aku bertawasul kepada-Mu dengan satu (dari) orang-orang pilihan-Mu, tujuh orang pilihan-Mu, sepuluh orang (pilihan)-Mu, empat puluh «abdāl»-Mu, tujuh puluh «nujabā’»-Mu, dan tiga ratus «nuqabā’»-Mu, agar Engkau meridai kami dengan keridhaan-Mu, memberi kesabaran atas ketetapan dan cobaan-Mu, memberi kami rezeki berupa syukur atas nikmat-Mu, menyembuhkan kami dengan kesembuhan-Mu, mengobati kami dengan obat-Mu, menjadikan kami termasuk kekasih-kekasih-Mu, dan tidak mengeluarkan kami dari pintu-Mu — dengan rahmat-Mu, hai Yang Maha Pengasih dari segala yang mengasihi. Ya Allah, aku bertawasul kepada-Mu dengan Yahya bin Zakariya, ar-Rabi‘ bin Khutsaim, Ibrahim bin Adham, al-Fudhail bin ‘Iyadh, Abu ‘Abdillah an-Naffath, Manshur bin ‘Ammar, Malik bin Dinar, Habib an-Najjar, al-Bait dan at-Tammar, al-Qadhi Bikar, Tsabit al-Banani, dan Thawus al-Yamani «…»
+
+Dan Muhammad al-‘Asqalani, Ibnu Sulaiman ad-Darani, tuanku Madyan at-Tilimsani, Abu Idris al-Khaulani, ‘Abdullah al-Madani, Uwais al-Qarani, Syekh an-Nizhami, Abu Yazid al-Bithahi, Abu Turab an-Nakhsyabi, Abu al-Ma‘ali Imam al-Haramain al-Juwaini, ‘Abd al-‘Aziz ad-Darini, Habib al-‘Ajami, dan al-Hasan al-Bashri «…»[CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Doa ini panjang dan sebagian permohonannya lazim, tetapi memuat tawasul dengan nama-nama wali — praktik yang diperdebatkan: sebagian ulama membolehkan tawasul dengan orang saleh, sebagian menolaknya bila dijadikan perantara doa. Tercatat posisi itu, tidak diputuskan. «الْأَخْوَالِ» pada cetakan kemungkinan «الْأَهْوَال» (bahaya) — diterjemahkan sebagai «ketakutan» dan ditandai. Nama «الْقَاضِي بِكَارٍ» dan «وَالْبَيْتِ وَالتَّمَّارِ» tidak dapat dipastikan.
+
+«أَوِيسٍ الْقَرَنِي» seharusnya «أويس القرني» (tanpa ي tambahan); «التِّلِمْسَانِي» dibaca «Tilimsānī» (dari Tlemcen, Aljazair). Mempertahankan ejaan cetakan pada teks Arab dan menormalkan bacaan Latin. «أَمَامِ الْحَرَمَيْنِ» = Imam al-Haramain (al-Juwaini).
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**doa**. Halaman ini melanjutkan doa yang terpotong di halaman 111: tawasul dengan «أهل الطهار» dan para wali, permohonan ampun, lalu tawasul dengan sejumlah nama (أبدال، رجال، أخيار) dan nama-nama tokoh sufi. Doa ini sebagian besar berisi permohonan yang lazim, tetapi **tawasul dengan nama-nama wali** adalah persoalan yang diperdebatkan ulama; dicatat posisinya.
+
+**Media:** Doa tawasul lanjutan (nama nabi, malaikat, sahabat, wali/ulama)
+
+## M113 — Halaman 113, daftar nama dalam doa
+
+### 1. Arab
+
+الْعَرَبِيِّ وَسَيِّدِي مُحَمَّدٍ الْقُرْطُبِيِّ وَكَمَالِ الدِّينِ بْنِ عَبْدِ الظَّاهِرِ وَسَيِّدِي عَلِيٍّ بْنِ نَاصِرٍ وَالْإِمَامِ أَحْمَدَ بْنِ عُمَرَ الزَّيْلَعِيِّ وَابِي مُحَمَّدٍ الْجُرَيْدِيِّ وَابِي طَالِبٍ الْمَكِّيِّ وَابِي حَسَنٍ الْخَوَارِزْمِيِّ وَابِي الْقَاسِمِ الْجُنَيْدِ وَالْجُنَيْدِ وَالْحَبِيبِ شَهْرَيَانَ بْنِ سُوَيْدٍ وَابِي بَكْرٍ النَّيْلِى وَيَحْيَى بْنِ مُعَاذٍ النَّيْلِى وَأَبِي عَلَى الدَّاسُوقِي وَأَبِي إِسْحَاقَ الْفَارُوقِي
+
+وَسَيِّدِي إِبْرَاهِيمَ الدَّسُوقِي وَسَيِّدِي أَحْمَدَ الرِّفَاعِي وَالشَّيْخِ شَيْخُون وَسَعْدُونَ الْمَجْنُونِ وَالْبَهْلُولِ الْمَفْتُونِ وَأَبِي بَكْرٍ الْعَزُّونِ وَسُفْيَانَ الثَّوْرِي وَذَا النُّونِ الْمِصْرِي وَأَبِي حَجَّاجٍ الْأَقْصُرِي وَعَبْدِ الرَّحْمَنِ الْبَجَلِي وَمَعْرُوفٍ الْكَرْخِي وَالشَّقِيقِ الْبَلْخِي وَالْحُسَيْنِ بْنِ مَنْصُورٍ الْحَلَّاجِ وَسَهْلِ بْنِ الْوَارِدِ وَابِي عُمَرَ الْحَدَّادِ وَالْقَاسِمِ الْوَدُودِ وَالسَّرِيِّ السَّقَطِي وَابِي هَاشِمٍ الْعِرَاقِيّ
+
+### 2. Latin
+
+Al-'arabiyyi wa sayyidii muhammadinil qurthubiyyi wa kamaalid diini bni 'abdizh zhaahiri wa sayyidii 'aliyyi bni naashirin wal imaami ahmada bni 'umara az zail'a'iyyi wa abii muhammadinil juraidiyyi wa abii thaalibil makkiyyi wa abii hasaninil khawaarizmiyyi wa abil qaasimil junaydi wal junaydi wal habiibi syah rayaana bni suwaidin wa abii bakrin an nailii wa yahyaa bni mu'aadzin nailii wa abii 'alaa ad daasuuqiyyi wa abii ishaaqal faaruuqiyyi.
+
+Wa sayyidii ibraahiimad dasuuqiyyi wa sayyidii ahmadar rifaa'iyyi wasy syaikhi syaikhuun wa sa'duunal majnuuni wal bahluulil maftuuni wa abii bakrinil 'azzuuni wa sufyaanats tsauriyyi wa dzan nuunil mishriyyi wa abii hajjaajil aqshuriyyi wa 'abdir rahmaanil bajaliyyi wa ma'ruufin karkhiyyi wasy syaqiiqil balkhiyyi wal husaini bni manshuurinil hallaaji wa sahli bni waalidil? wa abii 'umara(l) haddaadi wal qaasimil waduudi was sariyyis saqathiyyi wa abii haasyiminil 'iraaqiyyi.
+
+### 3. Terjemahan
+
+Al-‘Arabi, tuanku Muhammad al-Qurthubi, Kamal ad-Din bin ‘Abd azh-Zhahir, tuanku ‘Ali bin Nashir, Imam Ahmad bin ‘Umar az-Zaila‘i, Abu Muhammad al-Juraidi, Abu Thalib al-Makki, Abu Hasan al-Khawarizmi, Abu al-Qasim al-Junaid, al-Junaid, al-Habib Syahrayan bin Suwaid, Abu Bakr an-Naili, Yahya bin Mu‘adz an-Naili, Abu ‘Ali ad-Dasuqi, dan Abu Ishaq al-Faruqi «…»
+
+Tuanku Ibrahim ad-Dasuqi, tuanku Ahmad ar-Rifa‘i, Syekh Syaikhun, Sa‘dun «al-Majnun», al-Bahlul «al-Maftun», Abu Bakr al-‘Azzun, Sufyan ats-Tsauri, Dzu an-Nun al-Mishri, Abu Hajjaj al-Aqshuri, ‘Abd ar-Rahman al-Bajali, Ma‘ruf al-Karkhi, asy-Syaqiq al-Balkhi, al-Husain bin Manshur al-Hallaj, Sahl bin «…» al-Warid, Abu ‘Umar al-Haddad, al-Qasim al-Wadud, as-Sari as-Saqathi, dan Abu Hasyim al-‘Iraqi «…»[CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+«شَهْرَيَانَ بْنِ سُوَيْدٍ» tertulis «شهران بن سويد» pada sebagian cetakan; diikuti huruf yang terbaca. «النَّيْلِى» bisa «النَّيْلِي» atau «النِّيلِي». Banyak nama pada halaman ini tidak dapat dipastikan bacaannya; tidak dikarang. I‘rab tidak berlaku pada daftar nama.
+
+«وَالشَّقِيقِ الْبَلْخِي» = asy-Syaqiq al-Balkhi; «ابْنِ الْوَارِدِ» tidak dapat dipastikan; «وَذَا النُّونِ» = Dzun-Nun. Beberapa nama pada daftar ini merujuk tokoh yang kontroversial (al-Hallaj) atau tokoh legendaris (Syaikhun, Sa‘dun al-Majnun, al-Bahlul) — dicatat sebagai apa adanya tanpa menilai. I‘rab tidak berlaku.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**doa (tawasul)**. Halaman ini hampir seluruhnya berisi daftar nama tokoh — sebagian memang ulama dan wali yang dikenal (al-Junaid, al-Qusyairi, al-Ghazali, al-Rifa‘i, al-Badawi, al-Jilani, dll.), sebagian tidak dapat dipastikan. Tidak ada tata cara baru.
+
+**Media:** Daftar nama tawasul lanjutan hingga rangkaian Asmā’ al-Ḥusnā
+
+## M114 — Halaman 114, penutup doa dan klaim perpindahan wali
+
+### 1. Arab
+
+وَالْفَرْغَانِيِّ بْنِ أَحْمَدَ الصَّمْيَنِي وَسَيِّدِي عَبْدِ الْوَهَّابِ الشَّعْرَانِي وَمُحَمَّدٍ الْمَشْكَانِي وَعَبْدِ الرَّحِيمِ الْقِنَّاوِي وَسَيِّدِي أَحْمَدَ بْنِ النَّجَاةِ السَّهْلِي وَالْعَاشِقِ مُحَمَّدٍ سِبَامِي مُحَمَّدٍ أَحْمَدَ وَأَسْأَلُكَ بِحَقِّ سَعْوَانَةَ الْبَصْرِيَّةِ وَرَيْحَانَةَ الْحَبَشِيَّةِ وَمَيْمُونَةَ الْبَدَوِيَّةِ وَعَايِدَةَ الْكُوفِيَّةِ وَرَابِعَةَ الْعَدَوِيَّةِ وَسَيِّدَتِي زَيْنَبَ الْمِصْرِيَّةِ وَسَيِّدَتِي نَفِيسَةَ الْمَرْضِيَّةِ وَسَعْدُونَةَ الْمَجْنُونَةِ وَأَسْأَلُكَ بِحَقِّ عِبَادِكَ الصَّالِحِينَ أَنْ تَجْعَلَنَا مِنْ عِبَادِكَ الصَّالِحِينَ وَمِنْ حِزْبِكَ النَّاجِحِينَ وَارْفَعْ عَنْ قُلُوبِنَا الْغَفْلَةَ وَكُلَّ كَرْبٍ وَبَلِيَّةٍ وَأَنْ وَجْهَكَ الْكَرِيمَ فِي دَارِكَ الْكَرِيمِ فِي دَارِ التَّنَعُّيمِ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ وَأَسْأَلُكَ بِحَقِّكَ عَلَيْهِمْ وَبِحَقِّهِمْ عَلَيْكَ أَنْ تَقْضِيَ حَاجَتِي وَفِي كَذَا وَكَذَا دَعْوَاهُمْ فِيهَا سُبْحَانَكَ اللَّهُمَّ وَخَيْرُهُمْ فِيهَا سَلَامًا وَآخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+وَاعْلَمْ أَنَّ الْأَوْلِيَاءَ جَمِيعًا يَعْمَلُونَ الصُّبْحَ فِي كُلِّ يَوْمٍ مَعَ الْغَوْثِ فِي مَكَّةَ ثُمَّ يَتَوَجَّهُونَ ثُمَّ يَتَوَجَّهُونَ الَى جِهَةٍ مِنَ الْجِهَاتِ الثَّمَانِيَةِ فِي كُلِّ يَوْمٍ مِنْ كُلِّ شَهْرٍ تَعْرِفُهَا مِنَ الدَّائِرَةِ الْمُتَقَدِّمِ ذِكْرُهَا سَابِقًا
+
+### 2. Latin
+
+Wal farghaaniyyi bni ahmada ash shamaini wa sayyidii 'abdil wahhaabis sya'raani wa muhammadinil masykaani wa 'abdir rahiimil qinnaawiyyi wa sayyidii ahmada bni najaatis sahliy wal 'aasyiqi muhammadin sibaami muhammadin ahmada wa as-aluka bihaqqi sa'waanatal bashriyyati wa raihaanatal habasyiyyati wa maimuunatal badawiyyati wa 'aaidatal kuufiyyati wa raabi'atal 'adawiyyati wa sayyidatii zainabal mishriyyati wa sayyidatii nafiisatar mardhiyyati wa sa'duunatal majnuunati wa as-aluka bihaqqi 'ibaadikash shaalihiina an taj'alanaa min 'ibaadikash shaalihiina wa min hizbikan naajihiina warfa' 'an quluubinal ghafalata wa kulla karbin wa baliyyatin wa an wajhaka(l) kariima fii daarikal kariimi fii daarit tana''umi birahmatika yaa arhamar raahimiina wa as-aluka bihaqqika 'alaihim wa bihaqqihim 'alaika an taqdhiya haajatii wa fii kadzaa wa kadzaa da'waahum fiihaa subhaanakallaahumma wa khairuhum fiihaa salaaman wa aakhiru da'waahum anil hamdu lillaahi rabbil 'aalamiina.
+
+Wa'lam annal auliyaa-a jamii'an ya'maluunash shubha fii kulli yaumin ma'al ghautsi fii makkata tsumma yatawajjahuuna tsumma yatawajjahuuna ilaa jihatin minal jihaatsi tsamaaniyati fii kulli yaumin min kulli syah rin ta'rifuhaa minad daa-irati(l) mutaqaddimi dzikruhaa saabiqan.
+
+### 3. Terjemahan
+
+Dan al-Farghani bin Ahmad ash-Shamain, tuanku ‘Abd al-Wahhab asy-Sya‘rani, Muhammad al-Masykani, ‘Abd ar-Rahim al-Qinnawi, tuanku Ahmad bin an-Najat as-Sahli, dan al-‘Asyiq Muhammad Sibami Muhammad Ahmad. Dan aku memohon kepada-Mu dengan hak Sa‘wana al-Bashriyyah, Raihanah al-Habasyiyyah, Maimunah al-Badawiyyah, ‘Aidah al-Kufiyyah, Rabi‘ah al-‘Adawiyyah, tuanku Zainab al-Mishriyyah, tuanku Nafisah al-Mardhiyyah, dan Sa‘dunah «al-Majnunah»; dan aku memohon kepada-Mu dengan hak hamba-hamba-Mu yang saleh agar Engkau menjadikan kami termasuk hamba-hamba-Mu yang saleh dan golongan-Mu yang beruntung, mengangkat dari hati kami kelalaian serta setiap kesulitan dan bencana, dan (agar kami melihat) wajah-Mu yang mulia di rumah-Mu yang mulia, di kampung kenikmatan — dengan rahmat-Mu, hai Yang Maha Pengasih dari segala yang mengasihi. Dan aku memohon kepada-Mu dengan hak-Mu atas mereka dan hak mereka atas-Mu agar Engkau memenuhi keperluanku, yaitu ini dan itu. «Doa mereka di dalamnya ialah: Mahasuci Engkau, ya Allah; dan penghormatan mereka di dalamnya ialah: salam; dan penutup doa mereka ialah: segala puji bagi Allah, Tuhan seluruh alam.»
+
+Ketahuilah bahwa para wali seluruhnya «beramal pagi» setiap hari bersama «al-Ghauts» di Makkah, kemudian mereka menghadap — kemudian menghadap — ke salah satu dari delapan arah pada setiap hari dari setiap bulan, yang engkau ketahui dari «da'irah» yang telah disebutkan terdahulu. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Kalimat penutup doa memakai QS Yunus 10:10 («دعواهم فيها سبحانك اللهم…») — di sini ditempatkan sebagai penutup doa, bukan sebagai kutipan ayat yang berdiri sendiri; dicatat penggunaannya. «وَأَنْ وَجْهَكَ الْكَرِيمَ» susunannya rusak pada cetakan (kata kerja hilang) — diberi tanda dan tidak ditambal. «سِبَامِي» nama yang tidak dapat dipastikan.
+
+«يَعْمَلُونَ الصُّبْحَ» bisa berarti salat Subuh atau «berkumpul pagi»; cetakan tidak jelas. Kalimat ini mengulang «ثم يتوجهون» dua kali — dipertahankan dan ditandai. Ini klaim kosmologi penulis tentang para wali; dicatat, tidak diiyakan.
+
+## M115 — Halaman 115, tata cara menghadap «para wali»
+
+### 1. Arab
+
+فَإِذَا حَصَلَ لَكَ أَمْرُهُمْ يَتَوَضَّا وَتُصَلِّي رَكْعَتَيْنِ لِلَّهِ تَعَالَى ثُمَّ تَتَوَجَّهُ إِلَيْهِمْ قِبَلَ جِهَتِهِمْ وَتَقْرَأُ الْفَاتِحَةَ وَتُهْدِيهَا لَهُمْ ثُمَّ تَقُولُ السَّلَامُ عَلَيْكَ يَا رِجَالَ الْغَيْبِ يَا أَيُّهَا الْأَرْوَاحُ الْمُقَدَّسَةُ أَعِينُونِي بِقُوَّةٍ وَانْظُرُوا الَى نَظْرَةٍ يَا نُقَبَاءُ يَا نُجَبَاءُ يَا أَبْدَالُ يَا أَوْتَادُ يَا غَوْثُ يَا قُطْبُ. وَتَذْكُرُ حَاجَتَكَ وَتَقُولُ اقْضُوا حَاجَتِي وَهِيَ كَذَا وَكَذَا اغِيثُونِي بِغَوْثِهِ بِحُرْمَةِ سَيِّدِنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَعَلَى آلِهِ رَبِّ الْعَالَمِينَ
+
+وَلَا بُدَّ لَكَ عِنْدَ تَوَجُّهِكَ إِلَيْهِمْ عِنْدَ تَوَسُّلِكَ الَى اللَّهِ فِي قَضَاءِ حَاجَتِكَ كَأَنَّكَ مُسْتَنِدٌ إِلَيْهِمْ. وَتَقُولُ فِي نَفْسِكَ: لَا تَقْطَعُوا نَظَرَكُمْ عَنِّي وَمَدْرَكُمْ ثُمَّ تَقْرَأُ الْفَاتِحَةَ وَتُهْدِيهَا إِلَيْهِمْ وَتَسْعَى لِأَيِّ حَاجَتِكَ فَإِنَّهَا تُقْضَى بِإِذْنِ اللَّهِ تَعَالَى.
+
+### 2. Latin
+
+Fa-idzaa hashala laka amruhum yatawadh dhaa wa tushallii rak'ataini lillaahi ta'aalaa tsumma tatawajjahu ilaihim qibala jihatihim wa taqra-ul faatihata wa tuhdiihaa lahum tsumma taquulu as-salaamu 'alaika yaa rijaalal ghaibi yaa ayyuhal arwaahul muqaddasatu a'iinuunii biquwwatin wanzhuruu ilaa nazhratin yaa nuqabaa-u yaa nujabaa-u yaa abdaalu yaa autaadu yaa ghautsu yaa quthbu. Wa tadzkuru haajatika wa taquuluq dhuu haajatii wa hiya kadzaa wa kadzaa aghiitsuunii bighautsihi bihurmati sayyidinaa muhammadin shallallaahu 'alaihi wa sallama wa 'alaa aalihi rabbil 'aalamiina.
+
+Wa laa budda laka 'inda tawajjuhika ilaihim 'inda tawassulika ilallaahi fii qadhaa-i haajatika ka-annaka mustanidun ilaihim. Wa taquulu fii nafsika: laa taqtha'uu nazharakum 'annii wa madrakum tsumma taqra-ul faatihata wa tuhdiihaa ilaihim wa tas'aa li-ayyi haajatika fa-innahaa tuqdhaa bi-idznillaahi ta'aalaa.
+
+### 3. Terjemahan
+
+Maka apabila engkau telah memperoleh (pengetahuan tentang) perkara mereka, berwudulah dan salatlah dua rakaat karena Allah—Mahatinggi—kemudian menghadaplah kepada mereka ke arah mereka, bacalah al-Fatihah dan hadiahkanlah kepada mereka, lalu ucapkan: «Semoga keselamatan atasmu, hai orang-orang gaib, hai ruh-ruh yang disucikan, tolonglah aku dengan kekuatan, dan pandanglah dengan (satu) pandangan, hai nuqabā’, hai nujabā’, hai abdāl, hai autād, hai ghauts, hai quthb.» Dan sebutkanlah keperluanmu, lalu ucapkan: «Penuhilah keperluanku, yaitu ini dan itu; tolonglah aku dengan pertolongan-Nya, dengan kemuliaan tuan kami Muhammad ﷺ dan keluarganya, Tuhan seluruh alam.»
+
+Dan tidak boleh tidak, pada saat engkau menghadap kepada mereka dan bertawasul kepada Allah dalam pemenuhan keperluanmu, (hendaklah) seakan-akan engkau bersandar kepada mereka. Dan engkau katakan dalam hatimu: «Janganlah kalian memutuskan pandangan dan perhatian kalian dariku», kemudian engkau membaca al-Fatihah dan menghadiahkannya kepada mereka, lalu berusahalah untuk keperluan apa pun; maka ia akan dipenuhi dengan izin Allah—Mahatinggi. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+«يَتَوَضَّا» bentuk cetakan (mestinya «تَتَوَضَّأ»); «الَى نَظْرَةٍ» tidak jelas (mungkin «بنظرة»); «بِغَوْثِهِ» bisa «بغوثه» (ghauts-nya) atau «بِغَوْثِهِ» (pertolongan-Nya) — dipertahankan ganda. Menghadiahkan al-Fatihah kepada «para wali» dan meminta pertolongan mereka adalah persoalan akidah yang tidak dianjurkan; dicatat teksnya.
+
+«وَمَدْرَكُمْ» tidak jelas (mungkin «وَمَأْخَذَكُمْ» atau «وَنَظَرَكُمْ»); dipertahankan bertanda. Kalimat «كَأَنَّكَ مُسْتَنِدٌ إِلَيْهِمْ» (seakan bersandar kepada mereka) adalah inti persoalan akidah pada bab ini — bersandar kepada selain Allah dalam doa; dicatat tegas, tidak disarankan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Berwudu, salat dua rakaat, menghadap ke arah mereka, membaca al-Fatihah lalu «menghadiahkannya» kepada mereka, mengucapkan salam kepada «rijal al-ghaib» dengan menyebut quthb/ghauts/abdāl, menyebutkan keperluan, dan — menurut penulis — tidak ada bedanya engkau menghadap atau tidak. Dicatat sebagai praktik yang **tidak bersumber** dari Al-Qur’an/Sunnah.
+
+**Media:** Berwudu, dua rakaat, menghadap arah kaum rijāl al-ghaib, al-Fātiḥah dihadiahkan, lalu salam
+
+## M116 — Halaman 116, Fasal Kedua Puluh Dua: القرينة dan wafaq Basmalah
+
+### 1. Arab
+
+الْفَصْلُ الثَّانِي وَالْعِشْرُونَ
+
+الْقَرِينَةُ
+
+بَابٌ لِمَنْعِ الْقَرِينَةِ أُمِّ الصِّبْيَانِ:
+
+تُكْتَبُ وَفْقَ الْبَسْمَلَةِ الشَّرِيفَةِ الْأُنْثَى فِي وَرَقَةٍ بَيْضَاءَ ثُمَّ تُكْتَبُ حَوْلَهُ مَا يَأْتِي وَهُوَ هَذَا - ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن هـ و ل ا ي - ثُمَّ اكْتُبْ مِائَةَ مَرَّةٍ هَكَذَا كَهْو لَهُو هَيَّا شَرَاهِيَا أَدُونَايْ أَصْبَاوُثْ اَلْ شَدَّايْ ٤١ مَرَّةً وَاكْتُبْ آيَاتٍ لِحِفْظِ كُلِّهَا وَآيَةَ الْكُرْسِيِّ وَآخِرَ سُورَةِ الْبَقَرَةِ وَآخِرَ سُورَةِ التَّوْبَةِ وَآخِرَ سُورَةِ الْحَشْرِ وَآخِرَ سُورَةِ الْحَدِيدِ اِلَى الصُّدُورِ وَالصَّمَدِيَّةَ وَالْمُعَوِّذَتَيْنِ وَيُبَخِّرُ وَيَحْمِلُهُ الْمَقْرُونُ وَالْمَرْأَةُ الَّتِي تُسْقِطُ الْأَوْلَادَ
+
+بَابٌ آخَرُ لِلْقَرِينَةِ:
+
+تُكْتَبُ وَيُحْمَلُ لِلْمَرْأَةِ الَّتِي تُسْقِطُ الْأَوْلَادَ وَخِلَافَهُ وَيُبَخَّرُ وَيُحْمَلُهُ الْمَرْأَةُ وَهَذَا مَا تُكْتَبُ
+
+### 2. Latin
+
+Al-fashluts tsaani wal 'isysyruuna: al-qariinatu. Baabun liman'il qariinati ummis shibyaani: tuktabu wafqal basmalatis syariifati(l) untsaa fii waraqatin baidhaa-a tsumma tuktabu haulahu maa ya'tii wa huwa haadzaa - a b t ts j h kh d dz r z s sy sh dh th zh ' gh f q k l m n h w l a y - tsummak tub mi-ata marratin haakadzaa kahwu lahuu hayyaa syaraahiyaa aduunaay ashbaawuts al syaddaay 41 marratan waktub aayaatin lihifzhi kullihaa wa aayatal kursiyyi wa aakhira suuratil baqarati wa aakhira suuratit taubati wa aakhira suuratil hasyri wa aakhira suuratil hadiidi ilash shuduu ri wash shamadiyyata wal mu'awwidzataini wa yubakhkhiru wa yahmiluhul maqruunu wal mar-atul latii tusqithul aulaada.
+
+Baabun aakharu lil qariinati: tuktabu wa yuhmalu lil mar-atil latii tusqithul aulaada wa khilaafahu wa yubakhkharu wa yahmiluhul mar-atu wa haadzaa maa tuktabu.
+
+### 3. Terjemahan
+
+Fasal kedua puluh dua: «al-Qarīnah». Bab untuk mencegah qarinah «Umm ash-Shibyan»: ditulis «wafaq Basmalah» yang bersifat feminin pada kertas putih, kemudian ditulis di sekelilingnya apa yang berikut, yaitu: alif, ba, ta, tsa, jim, ha, kha, dal, dzal, ra, zai, sin, syin, shad, dhad, tha, zha, ‘ain, ghain, fa, qaf, kaf, lam, mim, nun, ha, wau, lam-alif, ya. Kemudian tulislah seratus kali: «hākadzā kahwu lahū»; «hayyā syarāhiyā adūnāy ashbāwuts al syaddāy» empat puluh satu kali; dan tulislah ayat-ayat untuk menjaga seluruhnya: Ayat Kursi, akhir Surah al-Baqarah, akhir Surah at-Taubah, akhir Surah al-Hasyr, akhir Surah al-Hadid «ilash shudur», (Surah) ash-Shamadiyyah, dan kedua Mu‘awwidzah. Lalu dibakar dengan wangi-wangian dan dibawa oleh orang yang «terkena qarin» serta perempuan yang keguguran.
+
+Bab lain untuk «al-Qarīnah»: ditulis dan dibawa untuk perempuan yang keguguran dan selainnya; dibakar dengan wangi-wangian dan dibawa oleh perempuan itu. Dan inilah yang ditulis «…»[CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Bab ini berhenti pada kalimat pembuka dan teks bacaannya berlanjut di halaman 117 («بسم الله الرحمن الرحيم…»). Sambungannya ada di unit berikutnya (M117).
+
+![Wafaq halaman 116](wafaq_qorin/116.jpg)
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**الفصل الثاني والعشرون — القرينة**. Dua bab: (1) «باب لمنع القرينة أم الصبيان» — ditulis Basmalah pada kertas putih, ditulis huruf abjad (أبجد هوز…) mengelilinginya, ditulis «هكذا كهو لهو» seratus kali, ditulis «هيا شراهيا أدوناي أصباوث إل شداي» 41 kali, lalu menulis ayat-ayat (al-Kursi, al-Baqarah, at-Taubah, al-Hasyr, al-Hadid, al-Ikhlas, al-Mu‘awwidzatain); (2) «باب آخر للقرينة» untuk perempuan yang keguguran.
+
+**Media:** Kertas putih berisi wafaq Basmalah dan huruf-huruf di sekelilingnya; «hākadzā kahwu lahū» ditulis 100 kali; rangkaian «hayyā syarāhiyā…» ditulis 41 kali; ayat-ayat penjagaan, Ayat Kursi, penutup al-Baqarah, at-Taubah, al-Hasyr, dan al-Hadid, ash-Shamadiyyah, serta al-Mu‘awwidzatain
+
+**Bukhur:** Disebutkan untuk fumigasi pada kedua bab, tetapi jenisnya tidak dirinci
+
+## M117 — Halaman 117, bacaan penangkal dan Ayat Kursi
+
+### 1. Arab
+
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+
+ارِقًا شَرْقًا عَرْمِوقَاشِ اسْتَطَافَ سُطُوفَ خَطَّافَ شَمْعَدَاشْ شَتُوخَ اللَّهُ رَبُّ الْعِزَّةِ وَالْعَظَمَةِ بِأَمْهِشَلُوا وَسَبُّوحٍ أَنْ فَجَّ شَتُوخَ ارْمُوحَيْثَا الْقَدِيمِ الْأَزَلِيَّ الدَّائِمَ الْأَبَدِيَّ. وَنُسْبِحُ أَنْ فَجَّ شَتُوخَ ارْمُوحَيْثَا الْقَدِيمِ الْأَزَلِيَّ الدَّائِمَ الْأَبَدِيَّ أَنِ الَّذِينَ فُتِنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ فَائْتَشِدْكُمْ يَا مَعْشَرَ الْجِنِّ بِاللَّهِ الْعَزِيزِ الْوَاحِدِ الْقَهَّارِ الْحَفِيظِ الْوَافِي الْمَانِعِ الْوَافِعِ وَبِالْعَهْدِ الَّذِي أَخَذَهُ عَلَيْكُمْ سَيِّدُنَا سُلَيْمَانُ بْنُ دَاوُدَ عَلَيْهِمَا السَّلَامُ لَا تَدْنُوا وَلَا تَقْرَبُوا حَامِلَ كِتَابِي هَذَا أَوْ حَامِلَ هَذَا الْهَيْكَلِ وَاتْرُكُوهُ وَانْصَرِفُوا عَنْهُ وَاحْفَظُوهُ فِي حِرْزِ اللَّهِ وَحِمَايَتِهِ بِحَقِّ هَذِهِ الْأَسْمَاءِ وَالْآيَاتِ وَبِسِرِّ الْقُرْآنِ الْعَظِيمِ
+
+اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ لَا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى لَا انْفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ عَلِيمٌ اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ
+
+### 2. Latin
+
+Bismillaahir rahmaanir rahiimi. Aariqan syarqan 'armuuqaasy isthaa fa suthuufa khaththaafa syam'adaasy syatuukhal laahu rabbul 'izzati wal 'azhamati bi-amhisyauluu wa sabbuuhin an fajja syatuukha armuuhaitsal qadiimil azaliyyad daa-imil abadiyya. Wa nusabbihu an fajja syatuukha armuuhaitsal qadiimil azaliyyad daa-imil abadiyya anil ladziina futinuul mu-miniina wal mu-minaatsi tsumma lam yatuubuu falahum 'adzaabu jahannama wa lahum 'adzaabul hariiqi fa'tasyidkum yaa ma'syaral jinni billaahil 'aziizil waahidil qahhaaril hafiizhil waafil maani'il waafi'i wa bil 'ahdil ladzii akhadzahu 'alaikum sayyidunaa sulaimaanu bnu daawuuda 'alaihimas salaamu laa tadnuu wa laa taqrabuu haamilal kitaabii haadzaa aw haamilal haadzal haikali watrukuuhu wansharifuu 'anhu wahfazhuuhu fii hirzillaahi wa himaayatihi bihaqqi haadzihil asmaa-i wal aayaati wa bisirril qur-aanil 'azhiimi.
+
+Allaahu laa ilaaha illaa huwal hayyul qayyuumu laa ta'khudzuhu sinatun wa laa naumun lahu maa fis samaawaati wa maa fil ardhi man dzal ladzii yasyfa'u 'indahu illaa bi-idznihi ya'lamu maa baina aidiihim wa maa khalfahum wa laa yuhiithuuna bisyai-in min 'ilmihi illaa bimaa syaa-a wasi'a kursiyyuhus samaawaati wal ardha wa laa ya-uuduhu hifzhuhumaa wa huwal 'aliyyul 'azhiimu. Laa ikraaha fid diini qad tabayyanar rusydu minal ghayyi faman yakfur bith thaaghuuti wa yu'min billaahi faqadistamsaka bil 'urwatil wutsqaa lan fishaama lahaa wallaahu samii'un 'aliimun. Allaahu waliyyul ladziina aamanuu yukhrijuhum minazh zhulumaati ilan nuuri wal ladziina kafaruu auliyaa-uhumuth thaaghuutu yukhrijuunahum minan nuuri ilazh zhulumaat.
+
+### 3. Terjemahan
+
+Dengan nama Allah Yang Maha Pengasih dan Maha Penyayang. «Aariqan syarqan ‘armūqāsy isthāfa suthūfa khaththāfa syam‘adāsy syatūkh» — Allah, Tuhan kemuliaan dan keagungan, «bi-amhisyaulū wa sabbūh» «…» (demikian seterusnya, kata-kata yang tidak dapat diterjemahkan). Dan kami bertasbih «…» (diulang) «…» bahwa orang-orang yang «telah memfitnah/menguji» orang-orang mukmin laki-laki dan perempuan kemudian tidak bertobat, bagi mereka azab Jahanam dan azab (api) yang membakar. Maka aku bersumpah kepada kalian, hai golongan jin, dengan Allah Yang Mahaperkasa, Yang Mahaesa, Yang Maha Menundukkan, Yang Maha Menjaga, Yang Memenuhi, Yang Mencegah; dan dengan perjanjian yang telah diambil atas kalian oleh tuan kami Sulaiman bin Dawud—semoga salam atas keduanya: janganlah kalian mendekat dan jangan mendekati pembawa kitabku ini atau pembawa «haikal» ini; tinggalkanlah dia dan pergilah darinya, dan jagalah dia dalam perlindungan dan lindungan Allah, dengan hak nama-nama dan ayat-ayat ini serta rahasia Al-Qur’an yang agung.
+
+«Allah, tidak ada tuhan (yang berhak disembah) selain Dia, Yang Mahahidup, Yang terus-menerus mengurus (makhluk-Nya); tidak mengantuk dan tidak tidur. Milik-Nya apa yang ada di langit dan apa yang ada di bumi. Tidak ada yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang di hadapan mereka dan apa yang di belakang mereka, dan mereka tidak mengetahui sesuatu apa pun tentang ilmu-Nya melainkan apa yang Dia kehendaki. Kursi-Nya meliputi langit dan bumi, dan Dia tidak merasa berat memelihara keduanya. Dan Dia Yang Mahatinggi lagi Mahabesar.» «Tidak ada paksaan dalam (menganut) agama (Islam); sesungguhnya telah jelas (perbedaan) antara jalan yang benar dengan jalan yang sesat. Barang siapa mengingkari thaghut dan beriman kepada Allah, maka sungguh ia telah berpegang pada tali yang sangat kuat yang tidak akan putus. Dan Allah Maha Mendengar lagi Maha Mengetahui.» «Allah pelindung orang-orang yang beriman; Dia mengeluarkan mereka dari kegelapan kepada cahaya. Dan orang-orang yang kafir, pelindung-pelindungnya adalah thaghut, yang mengeluarkan mereka dari cahaya kepada kegelapan.» [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Deretan kata pertama bukan bahasa Arab yang bermakna dan tidak dapat diterjemahkan; ditulis sebagai bunyi dan ditandai. Kutipan «أَنِ الَّذِينَ فُتِنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ…» mirip QS al-Buruj 85:10 tetapi tidak sama persis («فتنوا» vs «فتنوا»); dicatat sebagai kutipan tidak tepat. «فَائْتَشِدْكُمْ» bentuk rusak (mungkin «أُقْسِمُ عَلَيْكُمْ»); «الْوَافِع» و«الْهَيْكَل» tidak jelas. I‘rab tidak konsisten.
+
+Ini kutipan yang benar dari QS al-Baqarah 2:255–257 dan ditulis sesuai teks. Penulis menempatkannya di tengah bacaan penangkal dan menyambungnya dengan ayat-ayat lain pada halaman 118 tanpa jeda — dipertahankan urutan itu dan ditandai batas ayat.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Teks bacaan penangkal yang dimulai dengan Basmalah, deretan kata tanpa makna Arab («ارقا شرقا عرموقاش…»), sumpah kepada «para jin» agar menjauh dari pemegang kitab, disusul Ayat Kursi dan ayat-ayat perlindungan. Teks ini **bukan** ayat dan bukan doa yang bersumber dari Sunnah; dicatat apa adanya.
+
+**Media:** Doa besar lanjutan hijab dengan rangkaian Asmā’ al-Ḥusnā dan ayat-ayat hijab
+
+## M118 — Halaman 118, ayat-ayat penjagaan dan doa perlindungan
+
+### 1. Arab
+
+الْعُرْوَةِ الْوُثْقَى لَا انْفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ عَلِيمٌ اللَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ وَتِلْكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ وَيُرْسِلُ عَلَيْكُمْ حَفَظَةً وَإِنَّ رَبِّي عَلَى كُلِّ شَيْءٍ حَفِيظٌ عِنْدَنَا كِتَابٌ حَفِيظٌ لِكُلِّ بَابٍ حَفِيظٌ وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ حِفْظًا مِنْ كُلِّ شَيْطَانٍ مَارِدٍ وَحِفْظًا ذَلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ وَحَفِظْنَاهَا مِنْ كُلِّ شَيْطَانٍ رَجِيمٍ إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ لَهُمْ فِيهَا إِنَّهُمْ يَحْفَظُونَهُ مِنْ أَمْرِ اللَّهِ
+
+وَلَهُ حَفِيظٌ عَلَيْهِمْ أَنَّ لِكُلِّ نَفْسٍ مَا عَلَيْهَا حَافِظٌ وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ بَلْ هُوَ قُرْآنٌ مَجِيدٌ فِي لَوْحٍ مَحْفُوظٍ اللَّهُمَّ الْحَافِظُ لَا يَنْسَى وَيَامَنُ نِعْمَةً لَا تُخْصَى وَبِأَمْنِكَ لَهُ الْأَسْمَاءُ الْحُسْنَى وَالصِّفَاتُ الْعُلْيَا أَسْأَلُكَ بِنُورِ وَجْهِكَ وَعَظِيمِ سُلْطَانِكَ أَنْ تَحْفَظَ كَذَا وَاحْفَظْهُ مِنْ سَائِرِ الْجِنِّ وَالْإِنْسِ الْقَرَايِنِ وَالتَّوَابِعِ وَالتَّزْوَايَعِ وَالْمَمْسَةِ وَالْمَسَّةِ الْأَرْضِيَّةِ الْمُتَمَرِّدِينَ وَالرِّيحِ الْأَحْمَرِ وَالدَّاءِ الْأَكْبَرِ وَاحْفَظْهُ بِحَفِيظٍ
+
+### 2. Latin
+
+Al-'urwatil wutsqaa lan fishaama lahaa wallaahu samii'un 'aliimun. Alladziina aamanuu yukhrijuhum minazh zhulumaati ilan nuuri wal ladziina kafaruu auliyaa-uhumuth thaaghuutu yukhrijuunahum minan nuuri ilazh zhulumaati wa tilaaka ash haabun naari hum fiihaa khaaliduuna wa huwal qaahiru fauqa 'ibaadihi wa yursilu 'alaikum hafazhatan wa inna rabbii 'alaa kulli syai-in hafiizhun 'indanaa kitaabun hafiizhun likulli baabin hafiizhun wa inna 'alaikum lahaafizhiina hifzhan min kulli syaithaanin maaridin wa hifzhan dzaalika taqdiirul 'aziizil 'aliimi wa hafizhnaahaa min kulli syaithaanin rajiimin innaa nahnu nazzalnadz dzikra wa innaa lahuu lahaafizhuuna lahum fiihaa innahum yahfazhuunahu min amrillaahi.
+
+Wa lahu hafiizhun 'alaihim anna likulli nafsin maa 'alaihaa haafizhun wallaahu min waraa-ihim muhiithun bal huwa qur-aanun majiidun fii lauhin mahfuuzhin. Allaahummal haafizhu laa yansaa wa yaa man ni'matan laa tukhsaa wa bi-amnika lahul asmaa-ul husnaa wash shifaatul 'ulyaa as-aluka binuuri wajhika wa 'azhiimi sulthaanika an tahfazha kadzaa wahfazhhu min saa-iril jinni wal insil qaraayini wat tawaabi'i wat tazwaaya'i wal mamsati wal massatil ardhiyyati(l) mutamarridiina war riihil ah mari wad daa-il akbari wahfazhhu bihafiizhin.
+
+### 3. Terjemahan
+
+«…»tali yang sangat kuat yang tidak akan putus. Dan Allah Maha Mendengar lagi Maha Mengetahui.» «Orang-orang yang beriman, Dia mengeluarkan mereka dari kegelapan kepada cahaya; dan orang-orang yang kafir, pelindung-pelindungnya thaghut, yang mengeluarkan mereka dari cahaya kepada kegelapan. Mereka itu penghuni neraka, mereka kekal di dalamnya.» «Dan Dialah yang berkuasa atas hamba-hamba-Nya, dan Dia mengirim penjaga-penjaga kepadamu.» «Dan sesungguhnya Tuhanku adalah Pemelihara segala sesuatu.» «Di sisi Kami ada kitab yang mencatat (segala sesuatu).» «…»bagi setiap pintu ada penjaganya.» «Dan sesungguhnya bagi kalian ada (malaikat) penjaga-penjaga.» «…»penjagaan dari setiap setan yang durhaka, dan penjagaan — itulah ketetapan Yang Mahaperkasa lagi Maha Mengetahui.» «Dan Kami menjaganya dari setiap setan yang terkutuk.» «Sesungguhnya Kamilah yang menurunkan Al-Qur’an, dan sesungguhnya Kami benar-benar memeliharanya.» «…»mereka di dalamnya» «…»sesungguhnya mereka menjaganya dari perintah Allah.»
+
+«Dan bagi mereka ada penjaga» «…»bahwa bagi setiap jiwa ada penjaganya» «Dan Allah meliputi mereka dari belakang» «Bahkan itu adalah Al-Qur’an yang mulia, di Lauh Mahfuzh.» Ya Allah, Yang Maha Menjaga yang tidak lupa, dan hai (Dzat) yang nikmat-Nya tak terhitung, dan dengan keamanan-Mu — bagi-Nya nama-nama yang terbaik dan sifat-sifat yang tertinggi — aku memohon kepada-Mu dengan cahaya wajah-Mu dan keagungan kekuasaan-Mu agar Engkau menjaga si Fulan dan melindunginya dari seluruh jin dan manusia, para qarin, para pengikut, «التزايع», «الممسة» dan sentuhan bumi, yang membangkang, «الريح الأحمر», dan penyakit terbesar; dan jagalah dia dengan (Dzat) Yang Maha Menjaga «…»[CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Potongan-potongan ayat di halaman ini dirangkai tanpa keterangan dan sebagian tidak utuh: «عِنْدَنَا كِتَابٌ حَفِيظٌ» (QS Qaf 50:4), «لِكُلِّ بَابٍ حَفِيظٌ» bukan ayat yang dikenali, «وَحِفْظًا ذَلِكَ تَقْدِيرُ» menyambung dua potongan berbeda. Tidak ditambal dan tidak diklaim semuanya ayat; yang dapat dipastikan: QS al-Baqarah 2:256–257, ar-Ra‘d 13:11, Hud 11:57, al-Hijr 15:9, al-Infithar 82:10, Fushshilat 41:12, al-Mulk 67:5. Kutipan lain dibiarkan bertanda. I‘rab tidak konsisten.
+
+«وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ» adalah QS al-Buruj 85:20, dan «بَلْ هُوَ قُرْآنٌ مَجِيدٌ فِي لَوْحٍ مَحْفُوظٍ» QS al-Buruj 85:21–22 — keduanya benar. «وَيَامَنُ نِعْمَةً لَا تُخْصَى» bentuk rusak (mungkin «ويا من نعمه لا تحصى»). «التَّزْوَايَعِ»، «الْمَمْسَةِ»، «الرِّيحِ الْأَحْمَرِ» adalah istilah dalam literatur ini yang tidak dapat dipastikan maknanya; dibiarkan bertanda dan tidak dikarang arti.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**rangkaian kutipan ayat** untuk penjagaan. Halaman ini melanjutkan ayat-ayat: QS al-Baqarah 2:257 (lanjutan), «له معقبات من بين يديه ومن خلفه يحفظونه من أمر الله» (QS ar-Ra‘d 13:11), «إنا نحن نزلنا الذكر وإنا له لحافظون» (QS al-Hijr 15:9), «وإن له لحافظين» (QS al-Infithar 82:10), «وهو على كل شيء حفيظ» (QS Hud 11:57), lalu doa penjagaan. Tidak ada praktik baru di halaman ini.
+
+**Media:** Doa lanjutan dengan rangkaian Asmā’, ayat takdir, ḥauqalah, dan bacaan ayat/rukun iman
+
+## M119 — Halaman 119, penutup doa penjagaan dan «خاتم سليمان»
+
+### 1. Arab
+
+وَحِفْظُهُ مِنْ طَوَارِقِ اللَّيْلِ وَالنَّهَارِ الَّا طَارِقًا يَطْرُقُ بِخَيْرٍ مَنْ يَا رَحْمَنُ تَوَلَّهُ وَلَا يَتَوَلَّهُ أَحَدٌ غَيْرُكَ وَاحْفَظْهُ بِرِعَايَتِكَ يَا رَبَّ الْعَالَمِينَ فَإِنَّكَ قُلْتَ وَقَوْلُكَ الْحَقُّ أَنَا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ وَآخِرُ سُورَةِ التَّوْبَةِ وَآخِرُ سُورَةِ الْحَشْرِ وَالْمُعَوِّذَتَيْنِ وَالْخَلْقِ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ خَاتَمُ سُلَيْمَانَ
+
+مُجَرَّبٌ صَحِيحٌ
+
+وَحِفْظُهُ مِنْ طَوَارِقِ اللَّيْلِ وَالنَّهَارِ إِلَّا طَارِقًا يَطْرُقُ بِخَيْرٍ يَا مَنْ لَا تُخْفَى عَلَيْهِ خَافِيَةٌ وَاحْفَظْهُ وَقُمْ عَلَيْهِ بِالْحِفْظِ وَالْكِلَاءَةِ وَالْحِرَاسَةِ مِنْ كُلِّ سُوءٍ وَمَكْرُوهٍ وَبَلَاءٍ وَفَسَادٍ وَخَبَالٍ فِي الدِّينِ وَالْبَدَنِ وَالْأَهْلِ وَالْمَالِ وَالْوَلَدِ
+
+### 2. Latin
+
+Wa hifzhuhu min thawaariqil laili wan nahaaril laa thaariqan yathruqu bikhairin man yaa rahmaanu tawallahu wa laa yatawallahu ahadun ghairuka wahfazhhu biri'aayatika yaa rabbal 'aalamiina fa-innaka qulta wa qaulukal haqqu annaa nahnu nazzalnadz dzikra wa innaa lahuu lahaafizhuuna wa aakhiru suuratit taubati wa aakhiru suuratil hasyri wal mu'awwidzataini wal khalqi wa shallallaahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi wa sallama. Khaatamu sulaimaana. Mujarrabun shahiihun.
+
+Wa hifzhuhu min thawaariqil laili wan nahaari illaa thaariqan yathruqu bikhairin yaa man laa tukhfaa 'alaihi khaafiyatun wahfazhhu wa qum 'alaihi bil hifzhi wal kilaa-ati wal hiraasati min kulli suu-in wa makruuhin wa balaa-in wa fasaadin wa khabaalin fid diini wal badani wal ahli wal maali wal waladi.
+
+### 3. Terjemahan
+
+Dan penjagaannya dari segala yang datang pada malam dan siang; (tidak ada) yang datang kecuali dengan kebaikan. Hai Yang Maha Pengasih, peliharalah dia, dan tidak ada yang memeliharanya selain Engkau; jagalah dia dengan pemeliharaan-Mu, hai Tuhan seluruh alam — sesungguhnya Engkau telah berfirman, dan firman-Mu adalah kebenaran: «Sesungguhnya Kamilah yang menurunkan Al-Qur’an, dan sesungguhnya Kami benar-benar memeliharanya.» Dan (bacalah) akhir Surah at-Taubah, akhir Surah al-Hasyr, kedua Mu‘awwidzah, dan (Surah) al-Khalq(?). Semoga Allah melimpahkan selawat dan salam kepada tuan kami Muhammad, keluarganya, dan para sahabatnya. «خاتم سليمان». Mujarrab shahih (sudah dicoba dan benar).
+
+Dan penjagaannya dari segala yang datang pada malam dan siang, kecuali yang datang membawa kebaikan; hai (Dzat) yang tidak tersembunyi bagi-Nya sesuatu yang tersembunyi, jagalah dia dan lindungilah dia dengan penjagaan, pemeliharaan, dan pengawalan dari segala keburukan, hal yang tidak disukai, bencana, kerusakan, dan kegoncangan dalam agama, badan, keluarga, harta, dan anak. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+«الَّا طَارِقًا يَطْرُقُ بِخَيْرٍ» memakai syair/ungkapan «لا طارقًا يطرق بخير» (tidak ada yang datang kecuali membawa kebaikan); «مَنْ يَا رَحْمَنُ تَوَلَّهُ» susunannya rusak pada cetakan dan dipertahankan bertanda. «وَالْخَلْقِ» kemungkinan «الْخَلْق» sebagai nama surah yang tidak jelas, atau salah cetak. «مجرب صحيح» adalah penilaian penulis — bukan hasil pengujian, dan tidak menyatakan keabsahannya.
+
+Dua baris ini mengulang pembuka doa yang sama dengan baris pertama halaman (cetakan mengulang «وحفظه من طوارق الليل والنهار» dengan versi lebih lengkap); dipertahankan keduanya dan ditandai — tidak dihapus karena keduanya tercetak. «الْكِلَاءَة» = pemeliharaan/pengawasan.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Penutup doa penjagaan dari «طوارق الليل والنهار»، lalu perintah membaca Surah at-Taubah, al-Hasyr, al-Mu‘awwidzatain, dan al-Ikhlas, ditutup dengan menyebut «خاتم سليمان» dan penilaian penulis «مجرب صحيح» (sudah dicoba dan benar). Klaim «mujarrab shahih» itu **penilaian penulis**, bukan hasil uji.
+
+**Media:** Doa penjagaan dari ṭawāriq al-lail wa an-nahār; akhir at-Taubah, akhir al-Ḥasyr, al-Mu‘awwidzatain, dan al-Ikhlāṣ menurut ringkasan Metode (nama surah terakhir pada Terjemahan tidak pasti)
+
+## M120 — Halaman 120, Fasal Kedua Puluh Tiga: nama-nama القرينة
+
+### 1. Arab
+
+الْفَصْلُ الثَّالِثُ وَالْعِشْرُونَ
+
+اسْمَاءُ الْقَرِينَةِ
+
+هَذِهِ اسْمَاءُ الْقَرِينَةِ (أُمِّ الصِّبْيَاتِ)
+
+لِبَسْمَلَهُ - الرَّاس - طَرْطَر - بَرْفُوش - غَيُّوش - مَبْرُوش - سَلْطَعُونَس - جَرُّوش - بَعْدَش - سَرْتَاوُش - دَنُّوش - سَلْعَوْنَة - اُمِّ الصِّبْيَاتِ - ح ع غ و ٩١١١٩ و ١١١٦ و ط ا ١١٥ ١١٩ ص ص ص ١١ ٥٥ م صع ب ا ج ول ص ا أ و ل أ ٩٢٢ و ١١١ ط أ ع ا هـ ٥١١٥ ١١١ ١٩٦ ٥٥ و ك ل و ر ٥ ع ٦ ع و ٤٩ و ١١١ د ع ١٩١ و ١٥١
+
+بِجَلْبِ حُبِّ الْقُرْنَاءِ وَأُمِّ الصِّبْيَانِ:
+
+تُكْتَبُ سُورَةُ الْبُرُوجِ مَعَ سُورَةِ الْحَدِيدِ حُرُوفًا مُفَرَّدَةً مَعَ قَوْلِهِ تَعَالَى «لَوْ أَنْزَلْنَا هَذَا الْقُرْآنَ عَلَى جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللَّهِ» اِلَى آخِرِ السُّورَةِ تُعَلَّقُ عَلَى الطِّفْلِ أَوِ الْمَقْرُونِ فَإِنَّهُ يُحْفَظُ بِإِذْنِ اللَّهِ تَعَالَى
+
+### 2. Latin
+
+Al-fashluts tsaalitsu wal 'isysyruuna: asmaa-ul qariinati. Haadzihi asmaa-ul qariinati (ummish shibyaati) libasmalah - ar-raas - tharthar - barfuusy - ghayyuusy - mabruusy - saltha'uunas - jarruusy - ba'dasy - sartaawusy - dannuusy - sal'aunah - ummish shibyaati - h ' gh w 91119 wa 1116 wa th a 115 119 sh sh sh 11 55 m sh' b a j w l sh a a w l a 922 wa 111 th a ' a h 5115 111 196 55 wa k l w r 5 ' 6 ' w 49 wa 111 d ' 191 wa 151.
+
+Bijalbi hub bil qurnaai wa ummish shibyaani: tuktabu suuratul buruuji ma'a suuratil hadiidi huruufan mufarradatan ma'a qaulihi ta'aalaa «lau anzalnaa haadzal qur-aana 'alaa jabalin lara-aitahu khaasyi'an mutashaddi'an min khasyyatillaahi» ilaa aakhiris suurati tu'allaqu 'alath thifli awil maqruuni fa-innahu yuhfazhu bi-idznillaahi ta'aalaa.
+
+### 3. Terjemahan
+
+Fasal kedua puluh tiga: «Nama-nama qarinah». Inilah nama-nama qarinah («Umm ash-Shibyat»): li-basmalah — ar-Ras — Tharthar — Barfūsy — Ghayyūsy — Mabrūsy — Sal tha‘ūnas — Jarrūsy — Ba‘dasy — Sartāwusy — Dannūsy — Sal‘aunah — «Umm ash-Shibyāt» — (lalu deretan huruf dan angka: h, ‘ain, ghain, wau, 91119, 1116, tha, alif, 115, 119, shad, 55, mim, «…» dan seterusnya).
+
+Untuk menarik rasa cinta «para qarin» dan «Umm ash-Shibyan»: dituliskan Surah al-Buruj bersama Surah al-Hadid dalam huruf-huruf terpisah, bersama firman-Nya—Mahatinggi—: «Kalau sekiranya Kami turunkan Al-Qur’an ini kepada sebuah gunung, pasti kamu akan melihatnya tunduk terpecah belah karena takut kepada Allah» sampai akhir surah. Digantungkan pada anak atau orang yang «terkena qarin», maka ia akan terjaga dengan izin Allah—Mahatinggi. [CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+Nama-nama dan deret huruf/angka ini tidak dapat diterjemahkan dan tidak dihitung ulang; disalin sebagai bunyi dan angka apa adanya. Angka pada deret bisa salah baca (bentuk ٤/٩ dan ٦/٥ berdekatan) — tidak menjamin ketepatannya; rujuk cetakan. «م صع ب» kemungkinan «مصعب».
+
+![Wafaq halaman 120](wafaq_qorin/120.jpg)
+
+Kutipan «لو أنزلنا هذا القرآن على جبل…» adalah QS al-Hasyr 59:21; penulis menulis «سورة الحديد» pada baris sebelumnya lalu mengutip ayat al-Hasyr; dicatat ketidaksesuaian rujukan itu, teks tidak diubah. «حُرُوفًا مُفَرَّدَةً» = huruf-huruf terpisah (muqaththa‘at) — praktik yang tidak memiliki dasar dari Sunnah.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**الفصل الثالث والعشرون — أسماء القرينة**. Daftar nama «qarinah» («أم الصبيات» dan lain-lain: بسمله، الراس، طرطر، برفوش، غيوش، مبروش، سلطعونس، جروش، بعدش، سرتاوش، دنوش…) lalu **deret huruf dan angka** yang panjang; kemudian «بجلب حب القرناء وأم الصبيان»: ditulis Surah al-Buruj bersama Surah al-Hadid dengan huruf-huruf terpisah.
+
+**Media:** Surah al-Burūj dan al-Ḥadīd ditulis dalam huruf-huruf terpisah bersama kutipan al-Ḥasyr sampai akhir surah, lalu digantungkan pada anak atau maqrūn
+
+## M121 — Halaman 121, حجاب القرناء dan wafaq Basmalah
+
+### 1. Arab
+
+حِجَابُ الْقَرْنَاءِ:
+
+اكْتُبْ وَفْقَ الْبَسْمَلَةِ الشَّرِيفَةِ الْأُنْثَى ثُمَّ اكْتُبْ حَوْلَهُ الْأَحْرُفَ الْأَعْجَمِيَّةَ الْآتِيَةَ وَهِيَ - ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ - ثُمَّ اكْتُبْ مِائَةَ جِمْ هَكَذَا كَهْو لَهُو (هَيَّا شَرَاهِيَا أَدُونَايْ أَصْبَاوُثْ اَلْ شَدَّايْ) تُكَرِّرُ ٤١ مَرَّةً وَاكْتُبْ مَعَهَا آيَاتِ الْحِفْظِ وَالْمُعَوِّذَتَيْنِ وَصِلْهُمْ
+
+[وَفْقٌ مُثَلَّثٌ ٣ × ٣ مَرْسُومٌ فِي الصَّفْحَةِ: فِي صُفُوفِهِ «بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ» وَأَرْقَامٌ، وَعَلَى هَامِشِهِ كَلِمَةُ «وَفْقُ الْبَسْمَلَةِ» — رَاجِعْ صُورَةَ الصَّفْحَةِ ١٢١]
+
+### 2. Latin
+
+Hijaabul qarnaa-i: uktub wafqal basmalatis syariifati(l) untsaa tsummak tub haulahul ahrufal a'jamiyyatal aatiyata wa hiya - a b t ts j h kh d dz r z s sy sh dh th zh - tsummak tub mi-ata jimin haakadzaa kahwu lahuu (hayyaa syaraahiyaa aduunaay ashbaawuts al syaddaay) tukarriru 41 marratan waktub ma'ahaa aayaatil hifzhi wal mu'awwidzataini wa shilhum.
+
+[Wafqun mutsallatsun 3 x 3 marsuumun fish shafhati: fii shufuufihi «bismillaahir rahmaanir rahiimi» wa arqaamun, wa 'alaa haamisyihi kalimatu «wafqul basmalati» - raaji' shuurata shafhati 121]
+
+### 3. Terjemahan
+
+«Hijab al-Qarna’»: tulislah «wafaq Basmalah» yang bersifat feminin, kemudian tulislah di sekelilingnya huruf-huruf «ajami» berikut, yaitu: alif, ba, ta, tsa, jim, ha, kha, dal, dzal, ra, zai, sin, syin, shad, dhad, tha, zha; kemudian tulislah seratus kali «hākadzā kahwu lahū»; («hayyā syarāhiyā adūnāy ashbāwuts al syaddāy») engkau ulangi 41 kali; dan tulislah bersamanya ayat-ayat penjagaan dan kedua Mu‘awwidzah, lalu sambungkanlah.
+
+[CATATAN PENERJEMAH: Dicatat apa adanya, tidak dianjurkan, tidak disahkan sebagai amalan]
+
+### 4. Syarah
+
+«مِائَةَ جِمْ» tidak jelas (mungkin «مائة مرة»); «الْأَحْرُفَ الْأَعْجَمِيَّةَ» = huruf-huruf non-Arab/asing (di sini justru abjad Arab) — istilah cetakan yang dipertahankan. Rangkaian «هيا شراهيا أدوناي أصباوث إل شداي» adalah kata-kata non-Arab yang lazim dalam literatur ini; ditulis sebagai bunyi. I‘rab tidak dapat diterapkan konsisten.
+
+![Wafaq halaman 121](wafaq_qorin/121.jpg)
+
+### 5. Khususiyah dan Tatacara Praktik
+
+**حجاب القرناء** — ditulis Basmalah pada kertas, ditulis huruf abjad mengelilinginya, ditulis «هكذا كهو لهو» seratus kali, ditulis «هيا شراهيا أدوناي أصباوث إل شداي» 41 kali, ditulis ayat-ayat, lalu **wafaq 3×3 bergambar** berisi «بسم الله الرحمن الرحيم» dan angka-angka (dengan catatan tepi «وفق البسملة»).
+
+**Media:** Wafaq Basmalah dengan huruf alif sampai ẓā’ mengelilinginya; «hākadzā kahwu lahū» ditulis 100 kali; rangkaian «hayyā syarāhiyā…» ditulis 41 kali; ayat-ayat penjagaan dan al-Mu‘awwidzatain; wafaq 3×3 bergambar
+
+## M122 — الخاتمة, halaman penutup kitab (tanpa nomor)
+
+### 1. Arab
+
+الْخَاتِمَة
+
+الْحَمْدُ لِلَّهِ الَّذِي وَفَّقَنِي لِإِخْرَاجِ هَذَا الْكِتَابِ عَلَى هَذَا النَّحْوِ وَأَنِّي لَا أَسْتَطِيعُ أَنْ أَبُوحَ بِأَكْثَرَ مِنْ هَذَا فَالَّذِي نَفْسِي بِيَدِهِ إِنَّ هُنَاكَ أَسْرَارًا إِذَا بُحْتُ بِهَا لَقَالَ الطَّالِبُ بِأَنَّ الشَّيْخَ مَحْمُودٌ مَجْنُونٌ فَأَنَا أَكْتَفِي بِهَذَا وَأَنَا الشَّاكِرُ لِلَّهِ سُبْحَانَهُ وَتَعَالَى الْقَدِيمِ الَازَلِي الْفَرْدِ الصَّمَدِ الْأَحَدِ الْحَيِّ الْقَيُّومِ ذُو الْجَلَالِ وَالْإِكْرَامِ عَلَى تَوْفِيقِهِ لِي وَأَنَا أَرْجُوهُ أَنْ يُوَفِّقَنِي لِمَا فِيهِ الْخَيْرُ لِي وَلِلْمُسْلِمِينَ وَأَنْ يُسَدِّدَ كَلِمَاتِي فِي مَكَانِهَا الصَّحِيحِ يَا أَيُّهَا الطَّالِبُ قَبْلَ أَنْ تُبْدَأَ فِي فِعْلِ أَيِّ شَيْءٍ فِي هَذَا الْكِتَابِ فَعَلَيْكَ بِالصَّلَاةِ رَكْعَتَيْنِ لِلَّهِ تَعَالَى ثُمَّ الصَّلَاةَ عَلَى نَبِيِّهِ عَشْرَةَ مَرَّاتٍ ثُمَّ اقْرَأِ الْفَاتِحَةَ لِلشَّيْخِ مُحَمَّدٍ سِبَامِي بَارَكَ اللَّهُ فِيكَ وَعَلَيْكَ وَاللَّبِيبُ بِالْإِشَارَةِ يَفْهَمُ فَافْهَمَا تَرْشُدُ
+
+### 2. Latin
+
+Al-khaatimatu. Al-hamdu lillaahil ladzii waffaqanii li-ikhraaji haadzal kitaabi 'alaa haadzan nahwi wa annii laa astathii'u an abuuha bi-aktsara min haadzaa falladzii nafsii biyadihi inna hunaaka asraaran idzaa buhtu bihaa laqaalath thaah libu bi-annasy syaikha mahmuudun majnuunun fa-ana aktafii bihaadzaa wa anasy syaakiru lillaahi subhaanahu wa ta'aalal qadiimil azaliyyil fardish shamadil ahadil hayyil qayyuumi dzul jalaali wal ikraami 'alaa taufiiqihi lii wa ana arjuuhu an yuwaffiqanii limaa fiihil khairu lii wa lil muslimiina wa an yusaddida kalimaatii fii makaanihash shahiihi. Yaa ayyuhath thaah libu qabla an tubda-a fii fi'li ayyi syai-in fii haadzal kitaabi fa'alika bish shalaati rak'ataini lillaahi ta'aalaa tsummash shalaata 'alaa nabiyyihi 'asyrata marraatin tsummaqra-il faatihata lisy syaikhi muhammadin sibaami baarakallaahu fiika wa 'alaika wal labiibu bil isyaarati yafhamu fafhamaa tursyad.
+
+### 3. Terjemahan
+
+Penutup. Segala puji bagi Allah yang telah memberiku taufik untuk mengeluarkan kitab ini dalam bentuk ini; dan sesungguhnya aku tidak mampu mengungkapkan lebih dari ini. Maka (Dzat) yang jiwaku berada di tangan-Nya, sesungguhnya di sana ada rahasia-rahasia yang apabila aku mengungkapkannya, penuntut akan berkata bahwa syekh itu «gila»; maka aku cukupkan dengan ini. Dan aku bersyukur kepada Allah—Mahasuci dan Mahatinggi—Yang Mahaawal, Yang Mahakekal, Yang Mahaesa, Yang Maha Dibutuhkan, Yang Maha Satu, Yang Mahahidup, Yang terus-menerus mengurus, Yang memiliki keagungan dan kemuliaan, atas taufik-Nya kepadaku; dan aku berharap Dia memberi taufik kepadaku kepada apa yang baik bagiku dan bagi kaum muslimin, serta meluruskan kalimat-kalimatku pada tempatnya yang benar. Hai penuntut, sebelum engkau memulai perbuatan apa pun dalam kitab ini, hendaklah engkau salat dua rakaat karena Allah—Mahatinggi—kemudian berselawat kepada nabi-Nya sepuluh kali, kemudian bacalah al-Fatihah untuk (hadiah kepada) Syekh Muhammad Sibami. Semoga Allah memberkatimu dan atasmu; dan orang yang berakal memahami dengan isyarat. Maka pahamilah keduanya, engkau akan mendapat petunjuk.
+
+### 4. Syarah
+
+Nomor halaman tidak terbaca pada cetakan; tidak diberi nomor 122. Nama yang terbaca «مَحْمُودٌ مَجْنُونٌ» (Mahmud yang gila) — bisa jadi bagian kalimat penulis tentang dirinya, dan pada baris wasiat nama yang muncul «مُحَمَّدٍ سِبَامِي» (Muhammad Sibami, sama dengan nama pada halaman 114). Dipertahankan keduanya dan ditandai bahwa bentuk persis nama dan gelar penulis pada halaman ini belum dapat dipastikan; pada halaman-halaman lain nama penulis tertulis «محمد سامي محمد محمد». «فَافْهَمَا» (dual) merujuk dua hal: salat+selawat dan isyarat.
+
+### 5. Khususiyah dan Tatacara Praktik
+
+Salat dua rakaat, berselawat kepada Nabi sepuluh kali, kemudian membaca al-Fatihah untuk Syekh Muhammad Sibami.

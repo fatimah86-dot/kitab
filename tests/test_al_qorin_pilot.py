@@ -1025,6 +1025,126 @@ class IntegratedDocxTests(unittest.TestCase):
         self.assertGreater(latin, 300)
 
 
+class CleanUserEditionTests(unittest.TestCase):
+    """The separate clean edition uses the user's archived Arab/Latin TXT."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.md_path = ALQ / "AL_QORIN_123_BERSIH.md"
+        cls.docx_path = ALQ / "AL_QORIN_123_BERSIH.docx"
+        if not (cls.md_path.exists() and cls.docx_path.exists()):
+            raise unittest.SkipTest("clean user edition has not been built")
+        cls.md = cls.md_path.read_text(encoding="utf-8")
+        cls.blocks = unit_blocks(cls.md)
+        cls.doc = Document(str(cls.docx_path))
+        with zipfile.ZipFile(str(cls.docx_path)) as z:
+            cls.names = z.namelist()
+
+    def test_archived_user_txt_hashes_and_unit_headings(self):
+        archive = ALQ / "incoming_user_2026-10-28/arab_latin_full"
+        expected = {
+            "teks arab berharokat.txt":
+                "d28d8f3b1c3887634ea3c3843fb04cea13dc42c7873909a0633d8ef0b9705097",
+            "teks latin.txt":
+                "538a5959af8880b6094333dbdc68090bada94075a6a6b9e10d55d1b1189f5647",
+        }
+        for filename, sha in expected.items():
+            data = (archive / filename).read_bytes()
+            self.assertEqual(hashlib.sha256(data).hexdigest(), sha, filename)
+            headings = re.findall(
+                r"^(SAMPUL|M\d{2,3})(?:\s+—\s+.*)?$",
+                data.decode("utf-8-sig"),
+                flags=re.M,
+            )
+            self.assertEqual(headings, ["SAMPUL"] + [f"M{i:02d}" for i in range(1, 123)], filename)
+
+    def test_clean_md_structure_crops_and_no_process_meta(self):
+        self.assertEqual(
+            [uid for uid, _h, _b in self.blocks],
+            ["SAMPUL"] + [f"M{i:02d}" for i in range(1, 123)],
+        )
+        always = ["1. Arab", "2. Latin", "3. Terjemahan", "4. Syarah"]
+        fifth = "5. Khususiyah dan Tatacara Praktik"
+        included = []
+        for uid, _heading, block in self.blocks:
+            layers = re.findall(r"^### ([^\n]+)$", block, re.M)
+            self.assertEqual(layers[:4], always, uid)
+            self.assertIn(len(layers), (4, 5), uid)
+            if len(layers) == 5:
+                self.assertEqual(layers[4], fifth, uid)
+                included.append(uid)
+        self.assertEqual(len(included), 76)
+        for uid in ("M04", "M38", "M58", "M71", "M122"):
+            self.assertIn(uid, included)
+        for uid in ("SAMPUL", "M01", "M16", "M87", "M96"):
+            self.assertNotIn(uid, included)
+        self.assertEqual(
+            [int(x) for x in re.findall(r"wafaq_qorin/(\d+)\.jpg", self.md)],
+            EXPECTED_CROPS,
+        )
+        for phrase in (
+            "Build terintegrasi", "STANDAR_MUTLAK", "sumber kerja",
+            "segmen berikutnya", "Catatan penyunting", "Penentuan Jam",
+            "tidak ada hitungan", "pindaian", "Catatan editorial",
+        ):
+            self.assertNotIn(phrase, self.md)
+        self.assertEqual(self.md.count("[CATATAN PENERJEMAH"), 25)
+
+    def test_clean_docx_counts_direction_media_and_front_matter(self):
+        self.assertEqual(sum(p.style.name == "Heading 1" for p in self.doc.paragraphs), 123)
+        self.assertEqual(sum(p.style.name == "Heading 2" for p in self.doc.paragraphs), 568)
+        self.assertEqual(sum(p.style.name == "Heading 3" for p in self.doc.paragraphs), 0)
+        self.assertEqual(len(self.doc.tables), 0)
+        self.assertEqual(self.doc.paragraphs[0].text, "AL-QORIN WAR RIYADHAH")
+        self.assertEqual(self.doc.paragraphs[1].text, "SAMPUL")
+        header = self.doc.sections[0].header.paragraphs[0].text
+        footer = self.doc.sections[0].footer.paragraphs[0].text
+        self.assertEqual(header, "")
+        self.assertNotIn("anjuran", footer)
+        self.assertEqual(len([n for n in self.names if n.startswith("word/media/")]), 26)
+        self.assertEqual(len([n for n in self.names if n.startswith("word/fonts/")]), 4)
+        with zipfile.ZipFile(str(self.docx_path)) as z:
+            media_hashes = [
+                hashlib.sha256(z.read(f"word/media/image{i}.jpg")).hexdigest()
+                for i in range(1, 27)
+            ]
+        crop_hashes = [
+            hashlib.sha256((ALQ / f"wafaq_qorin/{p}.jpg").read_bytes()).hexdigest()
+            for p in EXPECTED_CROPS
+        ]
+        self.assertEqual(media_hashes, crop_hashes)
+
+        def pval(p, tag):
+            if p._p.pPr is None:
+                return None
+            el = p._p.pPr.find(qn(tag))
+            return el.get(qn("w:val")) if el is not None else None
+
+        layer = None
+        arab = latin = images = 0
+        for p in self.doc.paragraphs:
+            if p.style.name == "Heading 1":
+                layer = None
+                continue
+            if p.style.name == "Heading 2":
+                layer = p.text.strip()
+                continue
+            if p._p.xpath('.//*[local-name()="blip"]'):
+                images += 1
+                self.assertEqual(layer, "4. Syarah")
+                self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("0", "center"))
+                continue
+            if not p.text.strip():
+                continue
+            if layer == "1. Arab":
+                arab += 1
+                self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("1", "start"), p.text[:80])
+            elif layer == "2. Latin":
+                latin += 1
+                self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("0", "left"), p.text[:80])
+        self.assertEqual((arab, latin, images), (540, 315, 26))
+
+
 class PreviewTests(unittest.TestCase):
     def test_preview_counts_and_alias(self):
         canonical = ALQ / "PREVIEW_INDEX_AL_QORIN_123.html"

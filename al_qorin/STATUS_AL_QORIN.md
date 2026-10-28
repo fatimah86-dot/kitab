@@ -97,12 +97,12 @@ hasil, dan bukan pengganti penanganan medis.
    berkas root berjudul sama milik Anwar tidak ditimpa.
 8. **Test** (`tests/test_al_qorin_pilot.py`): struktur 123 unit, log
    penghapusan, manifest/hash crop pengguna, substitusi pilot, batas sempit
-   override selektif pasca-pilot, DOCX terintegrasi, preview,
-   arah/alignment XML, tabel, media, dan embedding font. Test lama Anwar
-   tetap dijalankan; seluruh 23 test lulus sesudah integrasi selektif,
-   amandemen lapis kondisional, batch semantik M16–M64, batch semantik
-   M06–M15/M72–M121, batch terakhir M68/M70/M71, serta Batch 01 revisi
-   total terjemahan SAMPUL/M01–M05.
+   override selektif pasca-pilot, DOCX terintegrasi dan DOCX bersih, arsip
+   TXT pengguna, preview, arah/alignment XML, tabel, media, dan embedding
+   font. Test lama Anwar tetap dijalankan; seluruh 26 test lulus sesudah
+   integrasi selektif, amandemen lapis kondisional, batch semantik
+   M16–M64, batch semantik M06–M15/M72–M121, batch terakhir M68/M70/M71,
+   Batch 01 revisi total terjemahan SAMPUL/M01–M05, serta edisi bersih.
 9. **Amandemen lapis kondisional + arsip unggahan M65** (2026-10-28): sesuai
    keputusan pengguna, SAMPUL kini tampil 3 lapis (empat catatan sampul
    dipindah ke akhir Lapis 3), M01 (Muqodimah) dan M122 (Khatimah) tampil
@@ -178,6 +178,30 @@ hasil, dan bukan pengganti penanganan medis.
     Lapis 1, `rajah_blocks`, Latin, Terjemahan, atau crop; DOCX tidak berubah.
     Rincian dan daftar lokus yang masih harus dibuktikan:
     `incoming_user_2026-10-28/AUDIT_ARAB_KIRIMAN_CHAT_2026-10-28.md`.
+15. **Sumber Arab–Latin TXT pengguna + edisi bersih 123 unit** (2026-10-28):
+    pengguna mengirim `teks arab berharokat.txt` dan `teks latin.txt`, lalu
+    memerintahkan kedua file itu dipakai sebagai Lapis 1–2, wafaq crop
+    pengguna ditambahkan, dan Word tidak lagi memuat kalimat proses/percakapan.
+    Kedua TXT diaudit serta diarsipkan byte-persis di
+    `incoming_user_2026-10-28/arab_latin_full/` (Arab SHA-256
+    `d28d8f3b…b9705097`; Latin `538a5959…89f5647`). Parser
+    `scripts/al_qorin_parse_user_arab_latin.py` mengambil mulai heading
+    `SAMPUL`, menghasilkan Arab 123 unit/540 paragraf dan Latin
+    123 unit/315 paragraf; builder terintegrasi kini mengunci Lapis 1–2 dari
+    arsip itu dan menegaskan bidang lain tidak berubah. Nilai parse 123/123
+    unit ternyata sama dengan Lapis 1–2 sebelumnya, jadi perubahan ini
+    adalah penguncian provenans, bukan perubahan bunyi Arab/Latin.
+    `scripts/al_qorin_build_clean_user_edition.py` menghasilkan edisi baca
+    terpisah `AL_QORIN_123_BERSIH.md/.docx`: hanya judul kitab di depan;
+    semua unit mempunyai Arab, Latin, Terjemahan, dan Syarah; 26 crop
+    pengguna berada di Syarah; tabel hasil transkripsi tidak ditampilkan.
+    Lapis `5. Khususiyah dan Tatacara Praktik` ditampilkan pada 76 unit yang
+    mempunyai tata cara/Khususiyah sumber dan tidak ditampilkan pada
+    47 unit lainnya. DOCX bersih tidak mempunyai header/footer proses,
+    front matter status, “Catatan penyunting”, “Penentuan Jam”, atau frasa
+    “tidak ada hitungan”; mode ini memakai `build_docx_al_qorin.py --clean`.
+    Master riset 611 lapis dan preview lamanya dipertahankan sebagai
+    apparatus terpisah.
 
 ## Yang belum selesai
 
@@ -191,7 +215,9 @@ hasil, dan bukan pengganti penanganan medis.
   M104 dan M107 sengaja belum dipakai untuk mengganti Lapis 1–3. Semua
   batch semantik tidak menerjemahkan ulang Lapis 1–3, tidak menggambar
   ulang rajah, dan tidak menulis ulang ringkasan Metode draf selain stub/
-  kontradiksi yang terbukti pada daftar izin masing-masing batch.
+  kontradiksi yang terbukti pada daftar izin masing-masing batch. Edisi
+  bersih item 15 adalah penyajian bersih dari bahan yang ada, bukan tanda
+  revisi total terjemahan/syarah gramatikal sudah selesai.
 - Berkas Arab koreksi independen yang benar-benar berbeda dari Lapis 1 saat
   ini belum diterima; teks Arab yang ditempel pada chat 28-10-2026 terbukti
   salinan baseline dan tidak menyelesaikan lokus pada audit item 14.
@@ -213,6 +239,10 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_transform.py
 .venv/bin/python scripts/al_qorin_apply_pilot.py
 .venv/bin/python scripts/al_qorin_build_integrated.py
+.venv/bin/python scripts/al_qorin_build_clean_user_edition.py
+.venv/bin/python scripts/build_docx_al_qorin.py --clean \
+  --input al_qorin/AL_QORIN_123_BERSIH.md \
+  --output al_qorin/AL_QORIN_123_BERSIH.docx
 .venv/bin/python scripts/build_docx_al_qorin.py
 .venv/bin/python scripts/build_docx_al_qorin.py \
   --input al_qorin/REVISI_AL_QORIN_123.md \

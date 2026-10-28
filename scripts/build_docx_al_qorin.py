@@ -168,7 +168,7 @@ def parse_md(path: Path, only_units=None):
     return fevents, units
 
 # ------------------------------------------------------------------ rendering
-def style_document(doc):
+def style_document(doc, clean=False):
     sec = doc.sections[0]
     sec.page_width, sec.page_height = Cm(21.0), Cm(29.7)
     sec.top_margin = sec.bottom_margin = Cm(2.0)
@@ -182,10 +182,12 @@ def style_document(doc):
         for attr in ("w:ascii", "w:hAnsi", "w:cs", "w:eastAsia"): rFonts.set(qn(attr), FONT)
     hdr = sec.header.paragraphs[0]
     set_bidi(hdr, False); set_jc(hdr, "left")
-    format_run(hdr.add_run("Al-Qorin war Riyadhah — revisi dokumenter"), size=9, italic=True, color=MUTED)
+    if not clean:
+        format_run(hdr.add_run("Al-Qorin war Riyadhah — revisi dokumenter"), size=9, italic=True, color=MUTED)
     ftr = sec.footer.paragraphs[0]
     set_bidi(ftr, False); set_jc(ftr, "center")
-    format_run(ftr.add_run("Teks dinisbatkan kepada penulis kitab; bukan anjuran atau jaminan hasil.  "), size=9, italic=True, color=MUTED)
+    if not clean:
+        format_run(ftr.add_run("Teks dinisbatkan kepada penulis kitab; bukan anjuran atau jaminan hasil.  "), size=9, italic=True, color=MUTED)
     # Proper PAGE field: begin / instruction / separate / cached result / end.
     def field_run(child=None, text=None):
         r = ftr.add_run(text or "")
@@ -262,10 +264,14 @@ def add_table(doc, rows):
     doc.add_paragraph().paragraph_format.space_after = Pt(2)
     return table
 
-def render(fe, units, base_dir):
-    doc = Document(); style_document(doc)
-    doc.core_properties.title = "Al-Qorin war Riyadhah — Revisi 5 Lapis"
-    doc.core_properties.subject = "Revisi terjemahan dokumenter mengikuti standar 123 artikel"
+def render(fe, units, base_dir, clean=False):
+    doc = Document(); style_document(doc, clean=clean)
+    if clean:
+        doc.core_properties.title = "Al-Qorin war Riyadhah"
+        doc.core_properties.subject = ""
+    else:
+        doc.core_properties.title = "Al-Qorin war Riyadhah — Revisi 5 Lapis"
+        doc.core_properties.subject = "Revisi terjemahan dokumenter mengikuti standar 123 artikel"
     images = []
     for kind, text in fe:
         if kind == "title":
@@ -373,11 +379,12 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--input", default=str(DEFAULT_IN)); ap.add_argument("--output", default=str(DEFAULT_OUT))
     ap.add_argument("--units", default=""); ap.add_argument("--no-embed", action="store_true")
+    ap.add_argument("--clean", action="store_true", help="omit documentary header/footer wording")
     args = ap.parse_args()
     inp, out = Path(args.input).resolve(), Path(args.output).resolve()
     only = {x.strip() for x in args.units.split(",") if x.strip()} or None
     fe, units = parse_md(inp, only)
-    doc, images = render(fe, units, inp.parent)
+    doc, images = render(fe, units, inp.parent, clean=args.clean)
     out.parent.mkdir(parents=True, exist_ok=True)
     if args.no_embed:
         doc.save(str(out)); meta = []

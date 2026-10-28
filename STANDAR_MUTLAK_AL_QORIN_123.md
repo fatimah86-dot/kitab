@@ -152,3 +152,26 @@ Waktu: … : Media: … : Bukhur: …   <hanya yang disebut sumber unit>
 - 2026-10-28 — Pengguna menegaskan sumber crop: 26 berkas crop presisi unggahan pengguna menggantikan ekstraksi FINAL KHATAM; `116.jpg` termasuk set wajib sisip.
 - 2026-10-28 — Amandemen lapis kondisional: pengguna memutuskan SAMPUL tampil 1–3, Muqodimah (M01) dan Khatimah (M122) tampil 1–4, unit amalan/lainnya tetap 1–5 lengkap dengan crop wafaq center; catatan sampul dipindah ke akhir Lapis 3 (lihat §1). Berkas M65 unggahan sesi lain diaudit dan diarsipkan tanpa menimpa M65 kanonis (lihat `al_qorin/incoming_user_2026-10-28/AUDIT_M65_UPLOAD.md`).
 - 2026-10-28 — Fase revisi total terjemahan dibuka atas penilaian pengguna bahwa terjemahan sebelumnya belum sempurna. Dokumen Anwar Asy-syaikh Al-Basyir yang ditunjuk pengguna menjadi contoh gaya, dengan adaptasi dan batas yang mengikat dicatat di `al_qorin/PANDUAN_REVISI_TOTAL_TERJEMAHAN_AL_QORIN.md`; audit 123 unit di `al_qorin/AUDIT_REVISI_TOTAL_TERJEMAHAN_123.md`. Arab/Latin hanya boleh diubah dengan bukti pindaian, ketidakpastian tidak boleh dihaluskan, dan wafaq hanya dari 26 crop pengguna. Batch 01 diterapkan pada Lapis 3 SAMPUL dan M01–M05; aturan lapis, arah Arab/Latin, Jam, dan crop pada standar ini tidak berubah.
+
+---
+
+## 9. Amandemen edisi bersih pengguna (2026-10-28)
+
+Pengguna kemudian mengirim dua berkas TXT dan memerintahkan pemakaiannya
+sebagai Lapis 1–2. Berkas byte-persisnya diarsipkan di
+`al_qorin/incoming_user_2026-10-28/arab_latin_full/` dan diaudit di
+`AUDIT_ARAB_LATIN_TXT_2026-10-28.md`. Perintah ini dilaksanakan sebagai
+**edisi bersih terpisah** (`AL_QORIN_123_BERSIH.md/.docx`) tanpa menghapus
+master riset 611 lapis di §1:
+
+1. Lapis 1–2 diambil dari TXT pengguna sesudah heading `SAMPUL`; judul/meta
+   sebelum heading itu tidak masuk Word.
+2. Setiap unit tampil `1. Arab`, `2. Latin`, `3. Terjemahan`, dan `4. Syarah`.
+3. `5. Khususiyah dan Tatacara Praktik` hanya tampil bila unit benar-benar
+   memuat Khasiat atau amalan dengan bilangan/tata cara yang ditentukan;
+   bila tidak ada, heading itu tidak ditampilkan.
+4. Front matter, header, footer, catatan proses perbaikan, dan kalimat
+   percakapan kerja tidak dimasukkan ke DOCX bersih. Khususiyah tetap dari
+   Arab/Terjemahan/Metode sumber unit; tidak ada Khasiat atau bilangan baru.
+5. Dua puluh enam crop pengguna tetap menjadi satu-satunya gambar, ditengah
+   seperti sebelumnya, sekarang pada Lapis 4 Syarah unit tujuannya.

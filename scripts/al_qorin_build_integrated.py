@@ -39,6 +39,7 @@ import copy
 import json
 from pathlib import Path
 from al_qorin_transform import render_table, render_unit_md
+from al_qorin_parse_user_arab_latin import load_user_arab_latin
 
 ROOT = Path(__file__).resolve().parents[1]
 work = ROOT / "al_qorin/work"
@@ -608,6 +609,25 @@ for uid in order:
         elif current[key] != value:
             fail_translation(f"{uid}: protected field changed: {key}")
 
+# --- User-designated Arab/Latin source lock ---------------------------------
+# The two byte-archived TXT files supplied by the user are the provenance for
+# Lapis 1 and Lapis 2.  Their prefatory titles/notes are excluded by the
+# parser.  This stage may replace only ``arab`` and ``latin``; it re-asserts
+# every other field.  At adoption time the parsed values equal the preceding
+# integrated values on all 123 units, so the lock does not silently rewrite
+# the text, but future builds cannot drift away from the user's files.
+user_layers = load_user_arab_latin(ROOT)
+pre_user_lock = copy.deepcopy(revised)
+for uid in order:
+    changed = dict(pre_user_lock[uid])
+    changed["arab"] = list(user_layers["arab"]["units"][uid])
+    changed["latin"] = list(user_layers["latin"]["units"][uid])
+    revised[uid] = changed
+for uid in order:
+    for key, value in pre_user_lock[uid].items():
+        if key not in {"arab", "latin"} and revised[uid][key] != value:
+            raise SystemExit(f"user Arab/Latin lock changed protected field: {uid}:{key}")
+
 units = [revised[uid] for uid in order]
 (work / "integrated_units.json").write_text(json.dumps(units, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -651,5 +671,6 @@ print(
     f"batch_m06_m15_m72_m121={len(batch2_units)} "
     f"batch_final_m68_m70_m71={len(final_units)} "
     f"terjemahan_total_b01={len(translation_units)} "
+    f"user_arab_latin_units={len(user_layers['arab']['units'])} "
     f"crops={sum(bool(u['crop_page']) for u in units)}"
 )
