@@ -166,6 +166,18 @@ hasil, dan bukan pengganti penanganan medis.
     PDF asli diperiksa; Arab/Latin dan Lapis 4/5 tetap byte-identik karena
     tidak ada koreksi pindaian yang cukup pasti. Rincian:
     `CATATAN_BATCH_TERJEMAHAN_TOTAL_01.md`.
+14. **Audit Arab “full khatam” kiriman chat** (2026-10-28): pengguna menempel
+    teks berjudul “ARAB BERHAROKAT FULL KHATAM 123 — SHAHIH — KAIDAH
+    MIN/MINNA/MAN” untuk SAMPUL + M01–M122. Pemeriksaan sidik jari
+    membuktikan teks itu secara material adalah salinan Lapis 1 Arab yang
+    sudah ada pada master terintegrasi—termasuk judul editorial modern,
+    placeholder “tidak disalin penuh/bersambung ke segmen berikutnya”,
+    deskriptor rajah, `من`/`بية`/`اصوال` yang belum bervokalisasi, dan
+    bacaan rusak lama—bukan koreksi independen dari pindaian. Kiriman
+    diterima hanya sebagai salinan/konfirmasi baseline dan **tidak menimpa**
+    Lapis 1, `rajah_blocks`, Latin, Terjemahan, atau crop; DOCX tidak berubah.
+    Rincian dan daftar lokus yang masih harus dibuktikan:
+    `incoming_user_2026-10-28/AUDIT_ARAB_KIRIMAN_CHAT_2026-10-28.md`.
 
 ## Yang belum selesai
 
@@ -180,6 +192,9 @@ hasil, dan bukan pengganti penanganan medis.
   batch semantik tidak menerjemahkan ulang Lapis 1–3, tidak menggambar
   ulang rajah, dan tidak menulis ulang ringkasan Metode draf selain stub/
   kontradiksi yang terbukti pada daftar izin masing-masing batch.
+- Berkas Arab koreksi independen yang benar-benar berbeda dari Lapis 1 saat
+  ini belum diterima; teks Arab yang ditempel pada chat 28-10-2026 terbukti
+  salinan baseline dan tidak menyelesaikan lokus pada audit item 14.
 - Render pembuka dari PDF asli memperlihatkan M01–M02 pada halaman cetak 2,
   M03 pada halaman cetak 3, dan M04 pada halaman cetak 4; metadata `page`
   pada data kerja untuk rentang itu belum diubah agar tidak menimbulkan
