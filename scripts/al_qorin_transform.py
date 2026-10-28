@@ -218,12 +218,28 @@ def render_table(rows):
 # only Markdown rendering is limited.
 LAYER_LIMITS = {"SAMPUL": 3, "M01": 4, "M122": 4}
 SAMPUL_NOTE_PREFIX = "Catatan penyunting sampul: "
+WAFAQ_MARKER = "[gambar wafak]"
 
 
 def render_unit_md(u):
     limit = LAYER_LIMITS.get(u["unit_id"], 5)
     md = [f"## {u['heading']}", "", "### 1. Arab", ""]
-    md += [x + "\n" for x in u["arab"]]
+    crop_rendered_in_arab = False
+    for paragraph in u["arab"]:
+        if paragraph.strip() == WAFAQ_MARKER:
+            if crop_rendered_in_arab:
+                raise ValueError(f"{u['unit_id']}: duplicate {WAFAQ_MARKER} marker")
+            if not u["crop_page"]:
+                raise ValueError(f"{u['unit_id']}: {WAFAQ_MARKER} has no user crop")
+            md += [
+                f"![Crop halaman {u['crop_page']}](wafaq_qorin/{u['crop_page']}.jpg)",
+                "",
+                f"[Crop halaman {u['crop_page']} — {u['crop_caption']}]",
+                "",
+            ]
+            crop_rendered_in_arab = True
+        else:
+            md += [paragraph + "\n"]
     md += ["### 2. Latin", ""] + [x + "\n" for x in u["latin"]]
     Terjemahan = list(u["terjemahan"])
     if limit == 3:
@@ -232,7 +248,7 @@ def render_unit_md(u):
     if limit >= 4:
         md += ["### 4. Metode, Penentuan Jam, dan Catatan Penyunting", "", "#### 1. Metode", ""]
         md += [x + "\n" for x in u["metode"]]
-        if u["crop_page"]:
+        if u["crop_page"] and not crop_rendered_in_arab:
             md += [f"![Crop halaman {u['crop_page']}](wafaq_qorin/{u['crop_page']}.jpg)", "",
                    f"[Crop halaman {u['crop_page']} — {u['crop_caption']}]", ""]
         for blk in u["rajah_blocks"]:

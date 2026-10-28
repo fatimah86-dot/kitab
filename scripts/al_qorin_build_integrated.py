@@ -55,6 +55,10 @@ from al_qorin_parse_user_arab_replacement_h66_69_revised import (
     ORDER_H66_69_REVISED,
     load_user_arab_replacement_h66_69_revised,
 )
+from al_qorin_parse_user_arab_replacement_h82_83_97_98_revised import (
+    ORDER_REVISED as ORDER_H82_83_97_98_REVISED,
+    load_user_arab_replacement_h82_83_97_98_revised,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 work = ROOT / "al_qorin/work"
@@ -714,6 +718,26 @@ for uid in order:
                 f"{uid}:{key}"
             )
 
+# A later final user revision supersedes only M82, M83, M97, and M98.
+arab_replacement_h82_83_97_98_revised = (
+    load_user_arab_replacement_h82_83_97_98_revised(ROOT)
+)
+pre_arab_replacement_h82_83_97_98_revised = copy.deepcopy(revised)
+for uid in ORDER_H82_83_97_98_REVISED:
+    changed = dict(pre_arab_replacement_h82_83_97_98_revised[uid])
+    changed["arab"] = list(
+        arab_replacement_h82_83_97_98_revised["units"][uid]
+    )
+    revised[uid] = changed
+for uid in order:
+    for key, value in pre_arab_replacement_h82_83_97_98_revised[uid].items():
+        allowed = uid in ORDER_H82_83_97_98_REVISED and key == "arab"
+        if not allowed and revised[uid][key] != value:
+            raise SystemExit(
+                "user revised M82/M83/M97/M98 replacement changed protected "
+                f"field: {uid}:{key}"
+            )
+
 units = [revised[uid] for uid in order]
 (work / "integrated_units.json").write_text(json.dumps(units, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -770,5 +794,9 @@ print(
     f"{len(arab_replacement_h66_69_revised['units'])} "
     f"user_arab_replacement_h66_69_revised_paragraphs="
     f"{sum(len(x) for x in arab_replacement_h66_69_revised['units'].values())} "
+    f"user_arab_replacement_h82_83_97_98_revised_units="
+    f"{len(arab_replacement_h82_83_97_98_revised['units'])} "
+    f"user_arab_replacement_h82_83_97_98_revised_paragraphs="
+    f"{sum(len(x) for x in arab_replacement_h82_83_97_98_revised['units'].values())} "
     f"crops={sum(bool(u['crop_page']) for u in units)}"
 )

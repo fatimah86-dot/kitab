@@ -230,8 +230,8 @@ hasil, dan bukan pengganti penanganan medis.
     sebagai teks LTR di tengah kalimat RTL. Builder sekarang memaksa
     `w:rtl` pada seluruh run Lapis 1 (dan sel tabel yang dominan Arab),
     tanpa mengubah satu pun karakter atau urutan logis teks Markdown.
-    DOCX bersih dan DOCX master riset dibangun ulang; sesudah item 20 test
-    arah memeriksa 446 tanda kurung/penjodoh pada edisi bersih dan 456
+    DOCX bersih dan DOCX master riset dibangun ulang; sesudah item 21 test
+    arah memeriksa 432 tanda kurung/penjodoh pada edisi bersih dan 438
     pada master riset, semuanya harus berada dalam run RTL.
 18. **Penggantian Arab halaman 63–122 dari kiriman pengguna**
     (2026-10-28): pengguna mengirim lanjutan ekstraksi Arab untuk halaman
@@ -274,7 +274,7 @@ hasil, dan bukan pengganti penanganan medis.
     `incoming_user_2026-10-28/arab_replacement_h66_69_revised/` (SHA-256
     `a8efbc0c…7e2a8`) dan diparse menjadi 4 unit/21 paragraf: M66 5,
     M67 6, M68 5, dan M69 5. Jumlah itu menggantikan 23 paragraf lama,
-    sehingga total Arab 123 unit kini **542 paragraf**. Tahap ini dikunci
+    sehingga total Arab 123 unit pada tahap itu **542 paragraf**. Tahap ini dikunci
     sesudah revisi M63 pada builder terintegrasi dan builder edisi bersih;
     kedua Markdown, kedua DOCX, dan preview riset dibangun/diperbarui.
     Verifikasi terhadap HEAD membuktikan hanya Lapis 1 M66–M69 yang
@@ -282,6 +282,26 @@ hasil, dan bukan pengganti penanganan medis.
     Validasi pada checkout ini: parser dan apply-check berhasil; discovery
     30 test menghasilkan 23 lulus dan 7 test bergantung pada work JSON
     ter-ignore dilewati karena berkas kerja itu tidak hadir.
+21. **Revisi final Arab halaman 82, 83, 97, dan 98 + aturan penanda
+    wafak** (2026-10-28): pengguna memerintahkan empat halaman itu diganti
+    dengan revisi final yang dikirim dan menetapkan bahwa pada semua
+    halaman revisi, tanda `[gambar wafak]` diisi crop wafaq yang sudah
+    ada. Teks diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h82_83_97_98_revised/`
+    (SHA-256 `0fb678e6…2a8f`) dan diparse menjadi 4 unit/26 paragraf:
+    M82 7, M83 9, M97 7, dan M98 3, menggantikan 20 paragraf lama.
+    Total paragraf sumber Arab kini **548**. Blok keamanan dari ketakutan
+    yang tertulis dua kali pada M83 dipertahankan dua kali. Keluaran
+    Markdown/DOCX kini mengganti penanda `[gambar wafak]` dengan crop
+    tujuan pada Lapis 1 untuk M66–M69, M82, M83, dan M98, lalu menghapus
+    lokasi lama crop yang sama sehingga 26 crop tetap tampil satu kali.
+    Parser DOCX juga memulihkan konteks lapis sesudah gambar/caption agar
+    paragraf Arab berikutnya tetap RTL. Kedua Markdown, kedua DOCX, dan
+    preview dibangun ulang; verifikasi membuktikan teks selain Lapis 1
+    sasaran tidak berubah selain pemindahan crop tersebut. Audit:
+    `AUDIT_ARAB_PENGGANTI_H82_83_97_98_REVISI_2026-10-28.md`. Validasi:
+    discovery 31 test menghasilkan 24 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
 
 ## Yang belum selesai
 
@@ -298,9 +318,9 @@ hasil, dan bukan pengganti penanganan medis.
   kontradiksi yang terbukti pada daftar izin masing-masing batch. Edisi
   bersih item 15 adalah penyajian bersih dari bahan yang ada, bukan tanda
   revisi total terjemahan/syarah gramatikal sudah selesai.
-- Seluruh Lapis 1 kini mengikuti dua arsip Arab yang ditunjuk pengguna
-  pada item 16 dan 18, tetapi setiap perbedaan bacaan/harakat di dalamnya
-  belum dibuktikan satu-satu terhadap pindaian kitab asli. Teks “full
+- Seluruh Lapis 1 kini mengikuti arsip-arsip Arab yang ditunjuk pengguna
+  pada item 16 dan 18–21, tetapi setiap perbedaan bacaan/harakat di
+  dalamnya belum dibuktikan satu-satu terhadap pindaian kitab asli. Teks “full
   khatam” yang diaudit pada item 14 tetap salinan baseline lama dan tidak
   menjadi sumber penggantian.
 - Render pembuka dari PDF asli memperlihatkan M01–M02 pada halaman cetak 2,
@@ -330,6 +350,9 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h63_revised.py --check
 .venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h66_69_revised.py
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h66_69_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h82_83_97_98_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h82_83_97_98_revised.py --check
+.venv/bin/python scripts/al_qorin_wafaq_markers.py --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \
   --output al_qorin/AL_QORIN_123_BERSIH.docx

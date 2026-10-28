@@ -133,9 +133,17 @@ def parse_md(path: Path, only_units=None):
         elif s and not s.startswith("<!--"): fevents.append(("para", s))
     for u in units:
         events, buf, ctx = [], [], "front"
+        ctx_before_image = ctx
         def flush():
+            nonlocal ctx
             if buf:
-                events.append(("para", ctx, " ".join(buf).strip())); buf.clear()
+                text = " ".join(buf).strip()
+                event_ctx = ctx
+                if ctx == "caption" and not text.startswith("[Crop halaman"):
+                    event_ctx = ctx_before_image
+                events.append(("para", event_ctx, text)); buf.clear()
+                if ctx == "caption":
+                    ctx = ctx_before_image
         for raw in u.pop("events"):
             s = raw.rstrip()
             st = s.strip()
@@ -149,7 +157,8 @@ def parse_md(path: Path, only_units=None):
                 ctx = ("Arab" if h.startswith("1.") else "latin" if h.startswith("2.") else
                        "terjemahan" if h.startswith("3.") else "layer4" if h.startswith("4.") else "khususiyah")
             elif mi:
-                flush(); events.append(("image", mi.group(1).strip())); ctx = "caption"
+                flush(); events.append(("image", mi.group(1).strip()))
+                ctx_before_image = ctx; ctx = "caption"
             elif st.startswith("|"):
                 flush(); cells = split_table_line(st)
                 if not is_separator(cells): events.append(("trow", cells))

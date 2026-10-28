@@ -38,6 +38,10 @@ from al_qorin_parse_user_arab_replacement_h63_revised import (
 from al_qorin_parse_user_arab_replacement_h66_69_revised import (
     load_user_arab_replacement_h66_69_revised,
 )
+from al_qorin_parse_user_arab_replacement_h82_83_97_98_revised import (
+    load_user_arab_replacement_h82_83_97_98_revised,
+)
+from al_qorin_wafaq_markers import WAFAQ_MARKER
 
 ROOT = Path(__file__).resolve().parents[1]
 ALQ = ROOT / "al_qorin"
@@ -470,6 +474,10 @@ def main():
     arab_replacement.update(
         load_user_arab_replacement_h66_69_revised(ROOT)["units"]
     )
+    # A later final revision supersedes only M82, M83, M97, and M98.
+    arab_replacement.update(
+        load_user_arab_replacement_h82_83_97_98_revised(ROOT)["units"]
+    )
     if list(arab_replacement) != ORDER:
         raise SystemExit("combined user Arabic replacements do not cover 123 units")
 
@@ -520,8 +528,22 @@ def main():
     lines = ["# AL-QORIN WAR RIYADHAH", ""]
     for unit in clean_units:
         lines += [f"## {unit['heading']}", "", "### 1. Arab", ""]
+        crop_rendered_in_arab = False
         for paragraph in unit["arab"]:
-            lines += [paragraph, ""]
+            if paragraph.strip() == WAFAQ_MARKER:
+                if crop_rendered_in_arab:
+                    raise SystemExit(
+                        f"{unit['unit_id']}: duplicate {WAFAQ_MARKER} marker"
+                    )
+                if not unit["crop_page"]:
+                    raise SystemExit(
+                        f"{unit['unit_id']}: {WAFAQ_MARKER} has no user crop"
+                    )
+                page = unit["crop_page"]
+                lines += [f"![Wafaq halaman {page}](wafaq_qorin/{page}.jpg)", ""]
+                crop_rendered_in_arab = True
+            else:
+                lines += [paragraph, ""]
         lines += ["### 2. Latin", ""]
         for paragraph in unit["latin"]:
             lines += [paragraph, ""]
@@ -531,7 +553,7 @@ def main():
         lines += ["### 4. Syarah", ""]
         for idx, paragraph in enumerate(unit["syarah"]):
             lines += [paragraph, ""]
-            if idx == 0 and unit["crop_page"]:
+            if idx == 0 and unit["crop_page"] and not crop_rendered_in_arab:
                 page = unit["crop_page"]
                 lines += [f"![Wafaq halaman {page}](wafaq_qorin/{page}.jpg)", ""]
         if unit["khususiyah_praktik"]:

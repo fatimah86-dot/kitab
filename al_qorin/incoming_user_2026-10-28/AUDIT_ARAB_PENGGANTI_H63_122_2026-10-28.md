@@ -46,15 +46,20 @@ Parser reproduksibelnya adalah
 Markdown keluaran memakai
 `scripts/al_qorin_apply_arab_replacement_h63_122.py`.
 
-## Addendum revisi halaman 63 dan 66–69
+## Addendum revisi halaman 63, 66–69, 82, 83, 97, dan 98
 
 Pengguna kemudian mengirim versi halaman 63 yang sudah direvisi. Arsip
 `arab_replacement_h63_revised/` menggantikan hanya segmen M63 dari arsip
 ini. Sesudah itu pengguna mengirim revisi halaman 66–69; arsip
 `arab_replacement_h66_69_revised/` menggantikan hanya segmen M66–M69.
-Segmen lain tetap mengikuti audit di atas. Rincian kedua tahap lanjutan
-itu ada di `AUDIT_ARAB_PENGGANTI_H63_REVISI_2026-10-28.md` dan
-`AUDIT_ARAB_PENGGANTI_H66_69_REVISI_2026-10-28.md`.
+Revisi final berikutnya pada `arab_replacement_h82_83_97_98_revised/`
+menggantikan hanya M82, M83, M97, dan M98. Segmen lain tetap mengikuti
+audit di atas. Pada keluaran, penanda persis `[gambar wafak]` diganti
+crop pengguna yang sudah ada pada posisi penanda dan lokasi lama crop
+unit itu dihapus. Rincian tahap lanjutan ada di
+`AUDIT_ARAB_PENGGANTI_H63_REVISI_2026-10-28.md`,
+`AUDIT_ARAB_PENGGANTI_H66_69_REVISI_2026-10-28.md`, dan
+`AUDIT_ARAB_PENGGANTI_H82_83_97_98_REVISI_2026-10-28.md`.
 
 ## Batas audit
 

@@ -85,6 +85,7 @@ Draf saat ini memakai `1. ARAB / 2. LATIN / 3. TERJEMAHAN / 4. SYARAH DAN PENJEL
 - Jangan menggambar ulang wafaq/rajah. Jangan menyisipkan crop ke halaman yang bukan tujuannya.
 - **Status ketersediaan (audit 28-10-2026):** file bernama persis `49.jpg/58.jpg/64.jpg/66.jpg/69.jpg/121.jpg` **tidak ditemukan** di repo maupun lewat pencarian Drive; folder `Kunci Media` tidak berisi crop tersebut. Sumber crop (folder Drive / unggahan / ekstraksi dari berkas lain) harus ditegaskan pengguna sebelum penyisipan. Selama belum ada, unit dikerjakan tanpa mengarang gambar, dan kekurangan crop dicatat per halaman.
 - **Pembaruan pelaksanaan (28-10-2026):** pengguna kemudian mengunggah 26 crop presisi (`49, 58, 64–74, 76–78, 82–86, 98, 109, 116, 120, 121`) dan memerintahkan agar crop tersebut yang dipakai, **bukan** ekstraksi dari FINAL KHATAM. Set FINAL turunan pada tahap sebelumnya dinyatakan tergantikan; manifest kanonis sekarang adalah `al_qorin/wafaq_user_manifest.json` dan berkasnya di `al_qorin/wafaq_qorin/`.
+- **Penanda `[gambar wafak]` pada revisi pengguna:** bila Lapis 1 revisi memuat paragraf persis `[gambar wafak]`, crop tujuan yang sudah ada disisipkan di tengah pada posisi penanda itu di dalam Lapis 1. Lokasi lama crop pada unit yang sama dihapus agar crop tetap tampil tepat satu kali; arsip teks sumber tetap menyimpan penandanya.
 - Rujukan isi draf tentang rajah: “Rajah diperiksa: hal.65–73 (9 dari 23 halaman). Wafaq berpetak: hal.66 & 69; hal.65 & 67 salinan linear; hal.68, 70, 71, 73 tanpa wafaq berpetak; hal.72 tanpa rajah sama sekali.” — keterangan ini dipertahankan sebagai catatan sumber, bukan diganti klaim baru.
 
 ---
@@ -141,7 +142,7 @@ Waktu: … : Media: … : Bukhur: …   <hanya yang disebut sumber unit>
 4. `[CATATAN PENERJEMAH` tetap **25×** dengan bunyi sama (atau selisihnya dicatat & disetujui).
 5. Setiap unit dengan angka memakai format `penjumlahan … = …, bukan …`; setiap unit tanpa angka memuat persis `«tidak ada hitungan di halaman ini»`; tidak ada unit yang keduanya/mengarang.
 6. XML DOCX: paragraf Arab `w:jc=start` + `w:bidi`, seluruh run Arab `w:rtl` termasuk run tanda kurung; Latin LTR kiri; wafaq `w:jc=center`; font Arab **Amiri** + bukti penyematan font di paket DOCX.
-7. Crop: setiap `<hal>.jpg` hanya muncul di halaman tujuannya, di tengah, setelah blok Metode; daftar halaman tanpa crop dilaporkan, bukan diisi gambar karangan.
+7. Crop: setiap `<hal>.jpg` hanya muncul satu kali di halaman tujuannya dan di tengah—setelah blok Metode, kecuali unit revisi berpenanda `[gambar wafak]`, yang cropnya berada pada posisi penanda di Lapis 1; daftar halaman tanpa crop dilaporkan, bukan diisi gambar karangan.
 8. Tidak ada metode/jam/media/bukhur/khasiat/dalil baru di luar draf/scan unit bersangkutan (“jangan dikarang ulang”).
 
 ---
@@ -173,8 +174,10 @@ master riset 611 lapis di §1:
 4. Front matter, header, footer, catatan proses perbaikan, dan kalimat
    percakapan kerja tidak dimasukkan ke DOCX bersih. Khususiyah tetap dari
    Arab/Terjemahan/Metode sumber unit; tidak ada Khasiat atau bilangan baru.
-5. Dua puluh enam crop pengguna tetap menjadi satu-satunya gambar, ditengah
-   seperti sebelumnya, sekarang pada Lapis 4 Syarah unit tujuannya.
+5. Dua puluh enam crop pengguna tetap menjadi satu-satunya gambar dan
+   ditengah pada Lapis 4 Syarah unit tujuannya, kecuali unit revisi
+   berpenanda `[gambar wafak]`, yang cropnya tampil satu kali pada posisi
+   penanda di Lapis 1.
 
 **Pembaruan Lapis 1 seluruh kitab (perintah pengguna berikutnya,
 2026-10-28):** teks Arab kiriman chat yang diarsipkan di
@@ -182,13 +185,16 @@ master riset 611 lapis di §1:
 di `arab_replacement_h63_122/` menggantikan Lapis 1 M63–M122, pada master
 terintegrasi maupun edisi bersih; kiriman revisi berikutnya di
 `arab_replacement_h63_revised/` kemudian menggantikan hanya Lapis 1 M63,
-dan `arab_replacement_h66_69_revised/` menggantikan hanya Lapis 1
-M66–M69. Kalimat pengantar/meta sebelum isi tidak masuk dokumen; pada edisi bersih
-penanda proses ekstraksi berbahasa Indonesia dalam kiriman halaman 63–122
-juga tidak ditampilkan. Latin,
-Terjemahan, Syarah/catatan, Metode/Khususiyah, tabel, dan crop tidak ikut
-diganti oleh tahap-tahap ini. Auditnya:
+`arab_replacement_h66_69_revised/` menggantikan hanya Lapis 1 M66–M69,
+dan `arab_replacement_h82_83_97_98_revised/` menggantikan hanya Lapis 1
+M82, M83, M97, dan M98. Kalimat pengantar/meta sebelum isi tidak masuk
+dokumen; pada edisi bersih penanda proses ekstraksi berbahasa Indonesia
+dalam kiriman halaman 63–122 juga tidak ditampilkan. Latin, Terjemahan,
+Syarah/catatan, Metode/Khususiyah, tabel, dan pilihan berkas crop tidak
+diganti oleh tahap-tahap ini; hanya posisi crop unit berpenanda mengikuti
+aturan `[gambar wafak]` pada §4. Auditnya:
 `AUDIT_ARAB_PENGGANTI_H62_2026-10-28.md`,
 `AUDIT_ARAB_PENGGANTI_H63_122_2026-10-28.md`,
-`AUDIT_ARAB_PENGGANTI_H63_REVISI_2026-10-28.md`, dan
-`AUDIT_ARAB_PENGGANTI_H66_69_REVISI_2026-10-28.md`.
+`AUDIT_ARAB_PENGGANTI_H63_REVISI_2026-10-28.md`,
+`AUDIT_ARAB_PENGGANTI_H66_69_REVISI_2026-10-28.md`, dan
+`AUDIT_ARAB_PENGGANTI_H82_83_97_98_REVISI_2026-10-28.md`.

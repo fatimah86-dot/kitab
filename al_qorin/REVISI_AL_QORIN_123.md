@@ -3466,7 +3466,9 @@ Waktu: tidak disebutkan dalam sumber unit ini : Media: mangkuk porselen Cina; za
 
 لِلْأَمْرَاضِ وَالْأَذَى الَّتِي عَجَزَتْ عَنْهَا الْأَطِبَّاءُ تَكْتُبُ وَخُمَّى وَتُسْقَى وَيُحْمَلُ، وَهَذَا مَا يُكْتَبُ وَمَعَهُ آيَاتُ الشِّفَاءِ وَمَا يُنَاسِبُ:
 
-[gambar wafak]
+![Crop halaman 66](wafaq_qorin/66.jpg)
+
+[Crop halaman 66 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 ### 2. Latin
 
@@ -3485,10 +3487,6 @@ Lisy syifaa-i min kulli daa-in wa jamii'il asqaami. Lil amraadhil adzaa 'ajazat 
 #### 1. Metode
 
 Praktik dari sumber (halaman 66): doa perlindungan dari segala yang dibenci (ta‘awwudz) dan bagian «untuk kesembuhan dari segala penyakit» yang ditulis, dipanaskan, dan digantung, disertai **rajah besar bergambar** (kolom-kolom berisi huruf dan garis). Rajah tidak digambar ulang; hanya dari pindaian. Dinisbatkan pada penulis, tanpa jaminan.
-
-![Crop halaman 66](wafaq_qorin/66.jpg)
-
-[Crop halaman 66 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.66 — wafaq berpetak — bingkai 1 tingkat, 3 lajur (sempit–lebar–sempit) × 3 baris; petak tengah berisi panel berbingkai ganda**
 
@@ -3528,7 +3526,9 @@ Waktu: tidak disebutkan dalam sumber unit ini : Media: doa perlindungan (ta‘aw
 
 اكْتُبِ الطَّلَاسِمَ الْآتِيَةَ فِي سَبْعِ وَرَقَاتٍ بَيْضَاءَ، وَضَعْ فِي كُلِّ وَرَقَةٍ جَاوِيّ وَلُبَانًا ذَكَرًا وَمُصْطَكَى وَعُودَ الْقَمَارِيِّ، وَارْفَعْهَا فِي النَّارِ يَتَلَقَّى دُخَانَهَا الْمَسْحُورُ أَوِ الْمَرْبُوطُ، وَاقْرَأْ عَلَيْهَا سُورَةَ يس (يس * وَالْقُرْآنِ الْحَكِيمِ) الْأُولَى وَالثَّانِيَةَ إِلَى (مُبِينٍ) الثَّانِيَةِ، وَهَكَذَا إِلَى أَنْ تَنْتَهِيَ الْأَوْرَاقُ السَّبْعُ حَتَّى نِهَايَةِ السُّورَةِ، فَإِنَّ الْمَسْحُورَ وَالْمَرْبُوطَ يَبْرَأُ بِإِذْنِ اللَّهِ تَعَالَى. وَهَذِهِ هِيَ الْأَسْمَاءُ:
 
-[gambar wafak]
+![Crop halaman 67](wafaq_qorin/67.jpg)
+
+[Crop halaman 67 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 لِإِبْطَالِ السِّحْرِ وَصَرْفِ الْعَوَارِضِ وَحَلِّ الْمَرْبُوطِ:
 
@@ -3551,10 +3551,6 @@ Fasal keempat belas: membatalkan sihir dan melepaskan (orang) yang terikat. Tuli
 #### 1. Metode
 
 Praktik dari sumber (halaman 67): menuliskan «طلاسم» pada tujuh lembar kertas putih, masing-masing dengan jawi, lubbān, mastika, dan ‘ūd; dibakar dan asapnya diarahkan ke orang yang tersihir/terikat sambil membaca surah Yasin sampai lembar habis; disertai rajah nama-nama. Lalu bagian kedua: menulis pada tiga lembar dengan campuran bahan (habbat al-barakah, fāsūkh Maghribi, pohon Maryam, mastika, kundur, sadab kering), dibakar dan diuapkan kepada pasien. Dinisbatkan pada penulis; bukan anjuran medis.
-
-![Crop halaman 67](wafaq_qorin/67.jpg)
-
-[Crop halaman 67 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.67 — asror huruf hijaiyah — deret dua baris (bukan wafaq berpetak)**
 
@@ -3586,7 +3582,9 @@ Waktu: tidak disebutkan dalam sumber unit ini : Media: tujuh lembar kertas putih
 
 ### 1. Arab
 
-[gambar wafak]
+![Crop halaman 68](wafaq_qorin/68.jpg)
+
+[Crop halaman 68 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 انْزِلْ يَا فَارِسُ وَأَنْتَ يَا خَادِمَ هَذَا الْيَوْمِ، وَاصْرِفُوا وَاطْرُدُوا الْأَرْوَاحَ السَّوْءَ وَالْعَوَارِضَ وَالْقَرَائِنَ وَالتَّوَابِعَ وَالْمَرَضَ وَكُلَّ شَغْبٍ وَسِحْرٍ وَعَكْسٍ وَعَيْنٍ وَنَفْسٍ وَرِيحٍ أَحْمَرَ وَدَاءٍ أَكْبَرَ وَنَظْرَةِ سَوْءٍ عَنْ هَذِهِ الْجُثَّةِ الْبَشَرِيَّةِ، جُثَّةِ فُلَانِ بْنِ فُلَانَةَ أَوْ فُلَانَةَ بِنْتِ فُلَانَةَ، بِحَقِّ سِيهِكْ لَهِكْ وَهِكْ لَهِكْ دَهَكْ رَهَكْ أَنُوخْ يَنُوخْ بَنُوخْ، وَبِحَقِّ الِاسْمِ الْأَعْظَمِ أَهْيَا شَرَاهِيَا أَدُونَايْ أَصْبَاؤُتْ آلَ شَدَّايْ، وَبِحَقِّ بَطْرٍ زَهَجٍ وَاحِ الْعَجَلِ ٣ السَّاعَةَ النَّوَاحَا ٣.
 
@@ -3626,10 +3624,6 @@ Titik baris 2: ل٠ م٠ ق٢أ ن١أ ز١أ ج١ب · غ١أ ه٠ ن١أ ئ٢ 
 
 Pencatatan bentuk huruf dan titiknya, bukan tafsir asma. Empat butir berkeyakinan rendah: «تهمصم», kelompok empat garis bergaris madda, «غ» (bisa jadi ع bila titiknya kotoran cetak), dan «ن» terakhir baris 1. Pembedaan pasangan tetap: ج/ح/خ dan س/ش dan ط/ظ dan ع/غ dan د/ذ dan ر/ز dan ف/ق tidak disamakan. Tidak ada huruf/titik yang dikarang, tidak digambar ulang, bukan pengesahan, tidak dianjurkan dipakai.
 
-![Crop halaman 68](wafaq_qorin/68.jpg)
-
-[Crop halaman 68 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
-
 **RAJAH HAL.68 — asma huruf talismani — dua baris di kepala halaman (bukan wafaq berpetak)**
 
 #### 2. Penentuan Jam
@@ -3656,7 +3650,9 @@ Waktu: tidak disebutkan dalam sumber unit ini : Media: rajah dua baris huruf/lam
 
 وَإِذَا أَرَدْتَ التَّجْرِبَةَ عَلِّقْهَا عَلَى دَجَاجَةٍ فَإِنَّهَا تَبِيضُ وَهِيَ تَحْمِلُ لِأَنَّهَا سِرٌّ عَجِيبٌ. وَهَذَا مَا يُكْتَبُ وَيُحْمَلُ بَعْدَ الطُّهْرِ مِنَ الْحَيْضِ:
 
-[gambar wafak]
+![Crop halaman 69](wafaq_qorin/69.jpg)
+
+[Crop halaman 69 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 إِنَّ اللَّهَ فَالِقُ الْحَبِّ وَالنَّوَى يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتِ
 
@@ -3677,10 +3673,6 @@ Waktu: tidak disebutkan dalam sumber unit ini : Media: rajah dua baris huruf/lam
 #### 1. Metode
 
 Praktik dari sumber (halaman 69): lanjutan kutipan (at-Ta’min 23:12–14), lalu «فائدة للحمل مرة أخرى»: menggantungkan tulisan pada ayam Betina agar bertelur, sebagai “percobaan”; disertai **dua tabel/wafaq 4×4 huruf** dan rajah bergambar, serta kutipan «إن الله فالق الحب والنوى». Tabel dan rajah tidak digambar ulang di sini; hanya dari pindaian. Dinisbatkan pada penulis.
-
-![Crop halaman 69](wafaq_qorin/69.jpg)
-
-[Crop halaman 69 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.69 — dua baris lambang talismani (bulan sabit, tiang bercincin, bulatan berekor) + dua wafaq berpetak 4×4 — wafaq kiri berisi rotasi huruf, wafaq kanan belum dapat d**
 
@@ -4365,15 +4357,21 @@ Waktu: bab perdamaian ditulis hari Kamis pada saat kekuatan bulan : Media: tulis
 
 ### 1. Arab
 
-...وَجَاوِي وَلُبَانِ ذَكَرٍ وَتُفَّاحِ الْجِنِّ وَبُخُورِ السَّوْدَانِ وَيُدْفَنُ عَلَى بَابِ مَنْ شِئْتَ. وَهَذَا مَا يُكْتَبُ: ٣٥ ٦٥ ١٣ ١٣ ٩٨ ٢٨ ٢٢ [رَسْمٌ: أَرْقَامٌ وَرُمُوزٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٨٢] وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلٍّ إِخْوَانًا عَلَى سُرُرٍ مُتَقَابِلِينَ. فَجَمَعْنَاهُمْ جَمْعًا وَهُوَ عَلَى جَمْعِهِمْ إِذَا يَشَاءُ قَدِيرٌ. تَوَكَّلُوا يَا خُدَّامَ هَذِهِ الْآيَاتِ وَهَيِّجُوا وَاجْلِبُوا وَاسْلُبُوا وَاجْذِبُوا قَلْبَ كَذَا إِلَى مَحَبَّةِ كَذَا الْوَحَا الْوَحَا الْعَجَلَ الْعَجَلَ السَّاعَةَ السَّاعَةَ.
+وَجَاوِيّ وَلُبَانٌ ذَكَرٌ وَتُفَّاحُ الْجِنِّ وَبُخُورُ السُّوْدَانِ وَيُدْفَنُ عَلَى بَابِ مَنْ شِئْتَ. وَهَذَا مَا يُكْتَبُ:
+
+![Crop halaman 82](wafaq_qorin/82.jpg)
+
+[Crop halaman 82 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
+
+وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلِّ إِخْوَانًا عَلَى سُرُرٍ مُتَقَابِلِينَ فَجَمَعْنَاهُمْ جَمْعًا وَهُوَ عَلَى جَمْعِهِمْ إِذَا شَاءَ قَدِيرٌ. تَوَكَّلُوا يَا خُدَّامَ هَذِهِ الْآيَاتِ وَهَيِّجُوا وَاجْلِبُوا وَاسْلُبُوا وَاجْذِبُوا قَلْبَ كَذَا إِلَى مَحَبَّةِ كَذَا الْوَحَا الْوَحَا الْعَجَلَ الْعَجَلَ السَّاعَةَ السَّاعَةَ.
 
 بَابُ مَحَبَّةٍ بِسُورَةِ الْفَاتِحَةِ:
 
-تَقْرَأُ سُورَةَ الْفَاتِحَةِ ٣١ مَرَّةً ثُمَّ فِي الْمَرَّةِ الْأَخِيرَةِ تُكَرِّرُ آيَاتِ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ٣١ مَرَّةً ثُمَّ تَقُولُ: اللَّهُمَّ كَمَا جَمَعْتَ بَيْنَ ذَاتِكَ وَصِفَاتِكَ وَأَسْمَائِكَ أَجْمِعْ بَيْنِي وَبَيْنَ رُوحَانِيَّةِ كَذَا بِحَقِّ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ إِلَى آخِرِهَا، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ.
+تَقْرَأُ سُورَةَ الْفَاتِحَةِ ٣١ مَرَّةً ثُمَّ فِي الْمَرَّةِ الْأَخِيرَةِ تُكَرِّرُ آيَاتِ: (إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ) ٣١ مَرَّةً ثُمَّ تَقُولُ: اللَّهُمَّ كَمَا جَمَعْتَ بَيْنَ ذَاتِكَ وَصِفَاتِكَ وَأَسْمَائِكَ اجْمَعْ بَيْنِي وَبَيْنَ رُوحَانِيَّةِ كَذَا بِحَقِّ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ إِلَى آخِرِهَا، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ.
 
 بَابُ تَلْبِيسِ الْجُثَّةِ:
 
-تُكْتَبُ عَلَى الْأَصَابِعِ هَذِهِ الْأَسْمَاءُ الْآتِيَةُ وَتُعَزِّمُ بِمَا يُكْتَبُ...
+تُكْتَبُ عَلَى الْأَصَابِعِ هَذِهِ الْأَسْمَاءُ الْآتِيَةُ وَتُعَزِّمُ بِمَا يُكْتَبُ
 
 ### 2. Latin
 
@@ -4393,10 +4391,6 @@ Bab محبة dengan surah al-Fatihah: engkau membaca surah al-Fatihah tiga puluh
 
 Unit ini memuat penutup rangkaian mahabbah dan dua bab pendek. Pada rangkaian pertama, bahan yang disebut adalah jāwī, lubbān dzakar, labu jin, dan bakhūr sawdān; tulisan deret angka dan ayat pengumpulan kemudian dikuburkan di pintu pihak sasaran menurut Terjemahan. Bab mahabbah dengan al-Fātiḥah menyebut pembacaan al-Fātiḥah tiga puluh satu kali, dengan pengulangan “iyyāka na‘budu wa iyyāka nasta‘īn” tiga puluh satu kali pada kali terakhir. Penutup halaman memulai bab talbīs al-juttsah: nama-nama ditulis pada jari dan azimah dibacakan dengan yang ditulis itu.
 
-![Crop halaman 82](wafaq_qorin/82.jpg)
-
-[Crop halaman 82 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
-
 #### 2. Penentuan Jam
 
 «tidak ada hitungan di halaman ini»
@@ -4415,19 +4409,25 @@ Waktu: tidak disebutkan dalam sumber unit ini : Media: tulisan deret angka dan a
 
 ### 1. Arab
 
-...وَاحِدًا وَعِشْرِينَ مَرَّةً وَالْبُخُورُ مَطْلُوقٌ وَهُوَ كُزْبَرَةٌ وَلُبَانُ ذَكَرٍ، فَإِنَّهُ يَلْبَسُ الْكَفَّ وَيَصْرَعُهُ وَيَرْمِيهِ إِلَى الْأَرْضِ. وَهَذَا مَا يُكْتَبُ وَبِهِ تُعَزِّمُ وَتَقُولُ:
+وَاحِدٍ وَعِشْرِينَ مَرَّةً وَالْبُخُورُ مَطْلُوقٌ وَهُوَ كُزْبَرَةٌ وَلُبَانٌ ذَكَرٌ، فَإِنَّهُ يَلْبَسُ الْكَفَّ وَيَصْرَعُهُ وَيَرْمِيهِ إِلَى الْأَرْضِ، وَهَذَا مَا يُكْتَبُ وَبِهِ تُعَزِّمُ وَتَقُولُ:
 
-يَطُو شَلْيَشٌ ٢ بِقَوْشَلْيَشٌ ٢ بِهُوشْكَيَشٌ ٢ اهْمَاكَيَشٌ ٢ بِهِمَا هُمَا أَجِبْ يَا أَبِي جَنَاحٍ وَأَلْبِسِ الْكَفَّ وَفَرِّقِ الْأَصَابِعَ وَارْمِ هَذِهِ الْجُثَّةَ إِلَى الْأَرْضِ يَا مَنْ هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ، أَجِبْ بِالَّذِي أَنْطَقَ سَمْعَكَ وَبَصَرَكَ وَخَلَقَكَ مِنْ نَارِ السَّمُومِ أَجِبْ بِالَّذِي تَجَلَّى لِلْجَبَلِ فَجَعَلَهُ دَكَّاءَ وَخَرَّ مُوسَى صَعِقًا.
+بَطُوشْلَيْشٍ ٢ بَقُوشْلَيْشٍ ٢ بِهُوشْكَيْشٍ ٢ أَهْمَاكَيْشٍ ٢ بِهِمَا هُمَا، أَجِبْ يَا أَبِي جَنَاحٍ وَالْبِسِ الْكَفَّ وَفَرِّقِ الْأَصَابِعَ وَارْمِ هَذِهِ الْجُثَّةَ إِلَى الْأَرْضِ، يَا مَنْ هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ، أَجِبْ بِالَّذِي شَقَّ سَمْعَكَ وَبَصَرَكَ وَخَلَقَكَ مِنْ نَارِ السَّمُومِ، أَجِبْ بِالَّذِي تَجَلَّى لِلْجَبَلِ فَجَعَلَهُ دَكًّا وَخَرَّ مُوسَى صَعِقًا.
 
 مِنْ لَطَائِفِ الْأَسْرَارِ
 
-فَائِدَةٌ لِلْأَمْنِ مِنَ الْخَوْفِ:
+فَائِدَةٌ لِلْأَمْنِ مِنَ الْخَوْفِ
 
-اكْتُبِ الطِّلَسْمَ الْآتِيَ مَعَ آيَاتِ الْخَوْفِ وَآيَةِ الْكُرْسِيِّ فِي كَاغَدٍ وَبَخِّرْهُ بِلُبَانٍ ذَكَرٍ وَجَاوِي وَمُصْطَكَى وَعُودٍ فَإِنَّهُ يُذْهِبُ الْخَوْفَ، وَهَذَا الطِّلَسْمُ كَمَا تَرَى:
+اكْتُبِ الطِّلَسْمَ الْآتِيَ مَعَ آيَاتِ الْخَوْفِ وَآيَةِ الْكُرْسِيِّ فِي كَاغَدٍ وَبَخِّرْهُ بِلُبَانٍ ذَكَرٍ وَجَاوِيٍّ وَمُصْطَكَى وَعُودٍ وَيُحْمَلُ فَإِنَّهُ يُذْهِبُ الْخَوْفَ، وَهَذَا الطِّلَسْمُ كَمَا تَرَى:
 
-[رَجْمٌ: سَطْرَا أَرْقَامٍ وَرُمُوزٍ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٨٣]
+مِنْ لَطَائِفِ الْأَسْرَارِ
 
-وَالشَّقِيقَةُ وَالرِّيحُ السَّوْءُ مِنْ فُلَانٍ أَوْ فُلَانَةَ...
+فَائِدَةٌ لِلْأَمْنِ مِنَ الْخَوْفِ
+
+اكْتُبِ الطِّلَسْمَ الْآتِيَ مَعَ آيَاتِ الْخَوْفِ وَآيَةِ الْكُرْسِيِّ فِي كَاغَدٍ وَبَخِّرْهُ بِلُبَانٍ ذَكَرٍ وَجَاوِيٍّ وَمُصْطَكَى وَعُودٍ وَيُحْمَلُ فَإِنَّهُ يُذْهِبُ الْخَوْفَ، وَهَذَا الطِّلَسْمُ كَمَا تَرَى
+
+![Crop halaman 83](wafaq_qorin/83.jpg)
+
+[Crop halaman 83 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 ### 2. Latin
 
@@ -4446,10 +4446,6 @@ Dari kelembutan rahasia-rahasia. Faedah untuk keamanan dari rasa takut: tulislah
 #### 1. Metode
 
 Unit ini melanjutkan bab talbīs al-juttsah dari M82: azimah dibaca dua puluh satu kali dan bakhurnya maṭlūq, yaitu kabarbarah dan lubbān dzakar. Faidah keamanan dari rasa takut memuat penulisan thilsim bersama ayat-ayat ketakutan dan Ayat al-Kursi pada kertas, lalu kertas itu diasapi dengan lubbān dzakar, jāwī, mastika, dan kayu ‘ūd. Tidak ada instruksi menggantung pada unit ini; bentuk thilsim berasal dari crop asli 83.jpg dan tidak digambar ulang.
-
-![Crop halaman 83](wafaq_qorin/83.jpg)
-
-[Crop halaman 83 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -5051,11 +5047,17 @@ Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam su
 
 الْفَصْلُ التَّاسِعَ عَشَرَ
 
-بَابُ اسْتِخْدَامِ الْمَلِكَةِ جَمْجَةَ -
+بَابُ اسْتِخْدَامِ الْمَلِكَةِ جَمْجَةَ نَجْمَةَ
 
-وَهِيَ سَرِيعَةُ الْإِجَابَةِ «…» [tidak disalin penuh] وَهُوَ أَنْ يَجْلِسَ فِي مَكَانٍ خَالٍ مِنَ النَّاسِ فِي يَوْمٍ لَا رِيحَ فِيهِ وَلَا مَطَرَ وَلَا سَحَابَ، وَيَكْتُبُ الْخَاتَمَ الْآتِيَ عَلَى كَفِّهِ وَيُبَخِّرُ بِالصَّنْدَلِ الْأَحْمَرِ وَيُعَزِّمُ عَلَيْهِ حَتَّى تَأْتِيَكَ حَمَامَةٌ بَيْضَاءُ تَنْزِلُ عَلَيْكَ وَتَطِيرُ إِلَى الْخَاتَمِ، وَانْصَرِفْ إِلَى الْيَوْمِ الثَّانِي. ثُمَّ ارْجِعْ إِلَى مَكَانِكَ وَبَخِّرْ وَعَزِّمْ حَتَّى تَأْتِيَكَ أَمِيرَةٌ جَمِيلَةٌ لَا وَصْفَ لَهَا. وَتَقُولُ لَكَ: مَا حَاجَتُكَ عِنْدِي؟ فَتَقُولُ لَهَا: أَعْطِينِي الْعَهْدَ بِحَقِّ الْعَهْدِ وَطَاعَةِ السَّيِّدِ سَمْسَمَائِيلَ فَإِنَّهَا تُعْطِيكَ الْعَهْدَ. فَإِذَا أَرَدْتَ حَاجَةً اقْرَأِ الدَّعْوَةَ سِرًّا أَوْ جَهْرًا فِي سَائِرِ الْأَعْمَالِ مِنْ خَيْرٍ أَوْ شَرٍّ وَوَكِّلْهَا بِهِ فَإِنَّهَا تَفْعَلُهُ سَرِيعًا. وَإِذَا أَرَدْتَ طَيَّ الْأَرْضِ فَعَلَتْهُ.
+وَهِيَ سَرِيعَةُ الْإِجَابَةِ
 
-وَهَذِهِ الدَّعْوَى تَقُولُ: الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ وَخَلَقَ «…» [tidak disalin penuh]
+وَهُوَ أَنْ تَجْلِسَ فِي مَكَانٍ خَالٍ مِنَ النَّاسِ فِي يَوْمٍ لَا رِيحَ فِيهِ وَلَا مَطَرَ وَلَا سَحَابَ وَتَكْتُبَ الْخَاتَمَ الْآتِيَ عَلَى كَفِّكَ وَتُبَخِّرَهُ بِالصَّنْدَلِ الْأَحْمَرِ وَتُعَزِّمَ عَلَيْهِ حَتَّى تَأْتِيَكَ حَمَامَةٌ بَيْضَاءُ تَنْزِلُ عَلَيْكَ وَتَطِيرُ إِلَى الْخَاتَمِ، وَانْصَرِفْ إِلَى الْيَوْمِ الثَّانِي ثُمَّ ارْجِعْ إِلَى مَكَانِكَ وَبَخِّرْ وَعَزِّمْ حَتَّى تَأْتِيَكَ أَمِيرَةٌ جَمِيلَةٌ لَا وَصْفَ لَهَا،
+
+وَتَقُولُ لَكَ مَا حَاجَتُكَ عِنْدِي فَتَقُولُ لَهَا أَعْطِينِي الْعَهْدَ بِحَقِّ الْعَهْدِ وَطَاعَةِ السَّيِّدِ سَمْسَمَائِيلَ فَإِنَّهَا تُعْطِيكَ الْعَهْدَ.
+
+فَإِذَا أَرَدْتَ حَاجَةً اقْرَأِ الدَّعْوَةَ سِرًّا أَوْ جَهْرًا فِي سَائِرِ الْأَعْمَالِ مِنْ خَيْرٍ أَوْ شَرٍّ وَوَكِّلْهَا بِهِ فَإِنَّهَا تَفْعَلُهُ سَرِيعًا وَإِذَا أَرَدْتَ طَيَّ الْأَرْضِ فَعَلْتَهُ وَهَذِهِ الدَّعْوَى تَقُولُ:
+
+الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ وَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ. عَزَمْتُ عَلَيْكُمَا يَا جَمْجَةُ يَا بِنْتَ الْمَلِكِ الْأَحْمَرِ أَيْنَمَا تَكُونِي فِي مَشَارِقِ الْأَرْضِ وَمَغَارِبِهَا أَنْ تَكُونِي مُسْرِعَتَيْنِ أَنْتِ وَأَبُوكِ طَوْعًا أَوْ كَرْهًا فَأْتِيَا فَاتَّبِعَا طَائِعَيْنِ. أَجِيبِي أَجِيبِي يَا جَمْجَةُ يَا بِنْتَ الْمَلِكِ الْأَحْمَرِ أَنْتِ وَأَبُوكِ بِحَقِّ الْمَلِكِ الْغَالِبِ عَلَيْكُمُ السَّيِّدِ سَمْسَمَائِيلَ عَلَيْهِ السَّلَامُ – وَقُلْ أُوحِيَ إِلَيَّ آخِرِهَا.
 
 ### 2. Latin
 
@@ -5095,13 +5097,13 @@ Waktu: hari tanpa angin, hujan, dan awan; dilanjutkan pada hari kedua : Media: d
 
 ### 1. Arab
 
-الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ. عَزَمْتُ عَلَيْكُمَا يَا جَمْجَةُ يَا بِنْتَ الْمَلِكِ الْأَحْمَرِ أَيْنَمَا تَكُونِي فِي مَشَارِقِ الْأَرْضِ وَمَغَارِبِهَا أَنْ تَكُونِي مُسْرِعَتَيْنِ أَنْتِ وَأَبُوكِ طَوْعًا أَوْ كَرْهًا فَأْتِيَا فَاتَّبِعَا طَائِعَيْنِ. أَجِيبِي أَجِيبِي يَا جَمْجَةُ يَا بِنْتَ الْمَلِكِ الْأَحْمَرِ أَنْتِ وَأَبُوكِ بِحَقِّ الْمَلِكِ الْغَالِبِ عَلَيْكُمُ السَّيِّدِ سَمْسَمَائِيلَ عَلَيْهِ السَّلَامُ - وَقُلْ أُوحِيَ إِلَيَّ... إِلَى آخِرِهَا.
+![Crop halaman 98](wafaq_qorin/98.jpg)
 
-[جَدْوَلُ أَرْقَامٍ وَحُرُوفٍ فِي ثَلَاثَةِ أَعْمِدَةٍ وَأَرْبَعَةِ صُفُوفٍ — رَاجِعْ صُورَةَ الصَّفْحَةِ ٩٨]
+[Crop halaman 98 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
-(بَابُ اسْتِخْدَامِ جَمْجَةَ بِنْتِ الْمَلِكِ الْأَحْمَرِ)
+(بَابُ اسْتِخْدَامِ نَجْمَةَ بِنْتِ الْمَلِكِ الْأَحْمَرِ)
 
-وَهِيَ سَرِيعَةُ الْإِجَابَةِ - وَهِيَ الَّتِي اسْتَخْدَمَهَا عَلِيُّ بْنُ الْحَجَّاجِ وَكَانَ يَفْعَلُ الْعَجَائِبَ وَالْغَرَائِبَ وَيُخْرِجُ بِهَا الْعَفَارِيتَ وَيُهْلِكُ بِهَا كُلَّ جَبَّارٍ عَنِيدٍ ظَالِمٍ وَكُلَّ مَا تُرِيدُ. فَاتَّقِ اللَّهَ فِي سِرِّكَ وَعَلَيْكَ عَهْدُ اللَّهِ أَنْ لَا تَفْعَلَ بِهَا إِلَّا فِي الْحَلَالِ وَأَنْ لَا تَصْرِفْهَا إِلَّا فِي طَاعَةِ اللَّهِ تَعَالَى. فَإِذَا أَرَدْتَ الْعَمَلَ بِهَا فَصُمْ لَهُ سَبْعَةَ أَيَّامٍ، ابْتَدِئْ مِنْ يَوْمِ الْأَحَدِ حَيْثُ لَا يَكُونُ فِيهِ رِيحٌ وَلَا غُيُومٌ وَلَا مَطَرٌ وَالْقَمَرُ فِي الزِّيَادَةِ. وَاجْلِسْ فِي...
+وَهِيَ سَرِيعَةُ الْإِجَابَةِ – وَهِيَ الَّتِي اسْتَخْدَمَهَا عَلِيُّ بْنُ الْحَجَّاجِ وَكَانَ يَفْعَلُ الْعَجَائِبَ وَالْغَرَائِبَ وَيُخْرِجُ بِهَا الْعَفَارِيتَ وَيُمْلِكُ بِهَا كُلَّ جَبَّارٍ عَنِيدٍ ظَالِمٍ وَكُلَّ مَا تُرِيدُ. فَاتَّقِ اللَّهَ فِي سِرِّكَ وَعَلَيْكَ عَهْدُ اللَّهِ أَنْ لَا تَفْعَلَ بِهَا إِلَّا فِي الْحَلَالِ وَلَا تَصْرِفْهَا فِي طَاعَةِ اللَّهِ تَعَالَى. فَإِذَا أَرَدْتَ الْعَمَلَ بِهَا فَصُمْ لِلَّهِ سَبْعَةَ أَيَّامٍ، أَبْتَدِئْ مِنْ يَوْمِ الْأَحَدِ حَيْثُ لَا يَكُونُ فِيهِ رِيحٌ وَلَا غُيُومٌ وَلَا مَطَرٌ وَالْقَمَرُ فِي الزِّيَادَةِ، وَأَجْلِسْ فِي مَكَانٍ وَحْدَكَ، وَاكْتُبِ الْخَاتَمَ الْآتِيَ فِي يَدِكَ الشِّمَالِ بِالصَّنْدَلِ الْأَحْمَرِ فَقَطْ وَعَزِّمْ عَلَيْهِ بِالْعَزِيمَةِ حَتَّى تَأْتِيَكَ حَمَامَةٌ بَيْضَاءُ تَنْزِلُ عَلَيْكَ فَالْمَحِ الْخَاتَمَ وَانْصَرِفْ. وَفِي الْيَوْمِ الثَّانِي أَجْلِسْ فِي الْمَحَلِّ الَّذِي كُنْتَ فِيهِ وَاكْتُبِ الْخَاتَمَ عَلَى كَفِّكَ الشِّمَالِ وَبَخِّرْ وَعَزِّمْ بِالْعَزِيمَةِ إِلَى أَنْ تَأْتِيَكَ امْرَأَةٌ ذَاتُ حُسْنٍ وَجَمَالٍ وَتَقُولُ لَكَ مَا حَاجَتُكَ، فَأَزْجِرْهَا بِالدَّعْوَةِ وَقُلْ لَهَا قَصْدِي مُرَافَقَتُكَ وَتَكُونِي لِي خَدِيمَةً وَمُعِينَةً فِيمَا أَتْلُوهُ مِنْكَ، فَإِنَّهَا تَشْتَرِطُ عَلَيْكَ شُرُوطًا وَاسْمَعْ لِقَوْلِهَا – فَإِنَّهَا تَقُولُ مَرْحَبًا بِكَ وَأَلْفُ لَا بِالزَّفِيقِ الْمُوَافِقِ وَتَمُدُّ لَكَ يَدَهَا الْيُمْنَى فَتَكُونُ مُحْضِرًا فِي يَدِكَ جَرِيدَةً خَضْرَاءَ وَتَمُدُّهَا لَهَا تُمْسِكُهَا فَتُعَاهِدُهَا عَلَيْهَا وَتَأْخُذُ عَلَيْهَا الْعَهْدَ وَالْمِيثَاقَ وَقُلْ لَهَا سَيْرِي فِي أَمَانِ اللَّهِ فَإِنَّهَا تَنْصَرِفُ فَالْمَحِ الْخَاتَمَ. (فَإِذَا أَرَدْتَ الْعَمَلَ بِهَا) فَأَكْتُبِ الْخَاتَمَ وَالدَّعْوَى حَوْلَهُ وَأَرْبَعَهُ مَعَكَ وَاتْلُ الدَّعْوَةَ فَإِنَّهَا تَأْتِيَكَ هِيَ وَأَعْوَانُهَا وَتَقِفُ عَلَى يَمِينِكَ وَخُدَّامُهَا مَعَهَا، فَإْمُرْهَا بِمَا تُرِيدُ فَإِنَّهَا تَحْكُمُ عَلَى جُنُودِ أَبِيهَا وَتُعْطِيكَ الْمَالَ وَتَأْتِي بِالطَّعَامِ وَهَى تُحْرِقُ جَمِيعَ الْجَانِّ وَتُهْلِكُ الظَّالِمَ وَتَجْلِبُ بِهَا بَنَاتِ الْمُلُوكِ وَتُظْهِرُ بِهَا الْخَبَايَا وَالْكُنُوزَ، فَاحْتَفِظْ عَلَى هَذِهِ الذَّخِيرَةِ.
 
 ### 2. Latin
 
@@ -5122,10 +5124,6 @@ Al-jaanna min maarijin min naarin 'azamtu 'alaikumaa yaa jamjatu yaa bnatal mali
 Praktik dari sumber (halaman 98): lanjutan bacaan pemanggilan yang menyebut «الملك الأحمر» dan «السيد سمسمائيل», lalu sebuah **jadwal angka/huruf (rajah)** yang tidak digambar ulang, lalu judul «باب استخدام جمجة بنت الملك الأحمر» dengan syarat: puasa tujuh hari mulai Ahad, hari tanpa angin/awan/hujan, bulan sedang bertambah, dan duduk di tempat sunyi. **Catatan editorial penting:** halaman ini berisi petunjuk meminta bantuan jin (استخدام الجن) — memanggil ratu jin, menulis خاتم di telapak tangan, membakar الصندل الأحمر, dan mengucapkan عزيمة. Praktik semacam ini dalam pandangan ulama termasuk sihir/kesyirikan dan **tidak saya anjurkan**; teks dicatat karena itu isi kitab yang sedang diedit, bukan karena disahkan.
 
 [Dinisbatkan pada penulis; tidak ada jaminan; dicatat tidak dianjurkan tidak disahkan]
-
-![Crop halaman 98](wafaq_qorin/98.jpg)
-
-[Crop halaman 98 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
