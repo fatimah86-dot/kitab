@@ -175,3 +175,11 @@ master riset 611 lapis di §1:
    Arab/Terjemahan/Metode sumber unit; tidak ada Khasiat atau bilangan baru.
 5. Dua puluh enam crop pengguna tetap menjadi satu-satunya gambar, ditengah
    seperti sebelumnya, sekarang pada Lapis 4 Syarah unit tujuannya.
+
+**Pembaruan Lapis 1 sampai halaman 62 (perintah pengguna berikutnya,
+2026-10-28):** teks Arab kiriman chat yang diarsipkan di
+`arab_replacement_h62/` menggantikan Lapis 1 SAMPUL dan M01–M62 pada master
+terintegrasi maupun edisi bersih. Kalimat pengantar sebelum `SAMPUL` tidak
+masuk dokumen. Arab M63–M122 tetap dari arsip TXT sebelumnya; Latin,
+Terjemahan, Syarah/catatan, Metode/Khususiyah, tabel, dan crop tidak ikut
+diganti. Auditnya: `AUDIT_ARAB_PENGGANTI_H62_2026-10-28.md`.

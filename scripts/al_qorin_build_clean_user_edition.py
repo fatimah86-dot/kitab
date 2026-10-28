@@ -26,6 +26,9 @@ import re
 from pathlib import Path
 
 from al_qorin_parse_user_arab_latin import ORDER, load_user_arab_latin
+from al_qorin_parse_user_arab_replacement_h62 import (
+    load_user_arab_replacement_h62,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 ALQ = ROOT / "al_qorin"
@@ -446,17 +449,21 @@ def main():
     if list(integrated) != ORDER:
         raise SystemExit("integrated unit order is not SAMPUL + M01-M122")
     user = load_user_arab_latin(ROOT)
+    arab_replacement_h62 = load_user_arab_replacement_h62(ROOT)["units"]
 
     clean_units = []
     khususiyah_count = 0
     crops = []
     for uid in ORDER:
         base = copy.deepcopy(integrated[uid])
-        arab = [strip_work_markers(x) for x in user["arab"]["units"][uid]]
+        # The later user submission supersedes Arabic through M62; the
+        # earlier archived user TXT remains the Arabic source thereafter.
+        arab_source = arab_replacement_h62.get(uid, user["arab"]["units"][uid])
+        arab = [strip_work_markers(x) for x in arab_source]
         latin = [clean_latin(x) for x in user["latin"]["units"][uid]]
         # Presentation cleaning must not become a silent source rewrite: after
         # removing the same explicit work/image-reference markers, the user
-        # files and source-locked integrated layers must still be identical.
+        # sources and source-locked integrated layers must still be identical.
         if arab != [strip_work_markers(x) for x in base["arab"]]:
             raise SystemExit(f"{uid}: user Arabic differs from source-locked integrated Arabic")
         if latin != [clean_latin(x) for x in base["latin"]]:

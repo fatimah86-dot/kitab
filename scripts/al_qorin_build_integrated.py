@@ -40,6 +40,10 @@ import json
 from pathlib import Path
 from al_qorin_transform import render_table, render_unit_md
 from al_qorin_parse_user_arab_latin import load_user_arab_latin
+from al_qorin_parse_user_arab_replacement_h62 import (
+    ORDER_H62,
+    load_user_arab_replacement_h62,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 work = ROOT / "al_qorin/work"
@@ -628,6 +632,25 @@ for uid in order:
         if key not in {"arab", "latin"} and revised[uid][key] != value:
             raise SystemExit(f"user Arab/Latin lock changed protected field: {uid}:{key}")
 
+# --- User-designated Arabic replacement through page 62 ---------------------
+# A later user submission supersedes Lapis 1 only for SAMPUL and M01-M62.
+# The archived prefatory sentence is excluded by its parser.  Latin and all
+# Indonesian/apparatus fields remain exactly as built above; Arabic for
+# M63-M122 remains the preceding user TXT lock.
+arab_replacement_h62 = load_user_arab_replacement_h62(ROOT)
+pre_arab_replacement = copy.deepcopy(revised)
+for uid in ORDER_H62:
+    changed = dict(pre_arab_replacement[uid])
+    changed["arab"] = list(arab_replacement_h62["units"][uid])
+    revised[uid] = changed
+for uid in order:
+    for key, value in pre_arab_replacement[uid].items():
+        allowed = uid in ORDER_H62 and key == "arab"
+        if not allowed and revised[uid][key] != value:
+            raise SystemExit(
+                f"user Arabic H62 replacement changed protected field: {uid}:{key}"
+            )
+
 units = [revised[uid] for uid in order]
 (work / "integrated_units.json").write_text(json.dumps(units, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -672,5 +695,8 @@ print(
     f"batch_final_m68_m70_m71={len(final_units)} "
     f"terjemahan_total_b01={len(translation_units)} "
     f"user_arab_latin_units={len(user_layers['arab']['units'])} "
+    f"user_arab_replacement_h62_units={len(arab_replacement_h62['units'])} "
+    f"user_arab_replacement_h62_paragraphs="
+    f"{sum(len(x) for x in arab_replacement_h62['units'].values())} "
     f"crops={sum(bool(u['crop_page']) for u in units)}"
 )

@@ -202,6 +202,26 @@ hasil, dan bukan pengganti penanganan medis.
     “tidak ada hitungan”; mode ini memakai `build_docx_al_qorin.py --clean`.
     Master riset 611 lapis dan preview lamanya dipertahankan sebagai
     apparatus terpisah.
+16. **Penggantian Arab SAMPUL–halaman 62 dari kiriman pengguna**
+    (2026-10-28): pengguna memerintahkan seluruh kalimat Arab sampai
+    halaman 62 diganti dengan teks chat berharakat yang ia kirim. Teks itu
+    diarsipkan di `incoming_user_2026-10-28/arab_replacement_h62/` (SHA-256
+    `2625d048…5448e4`) dan diparse oleh
+    `scripts/al_qorin_parse_user_arab_replacement_h62.py`. Heading
+    `SAMPUL` + nomor 1–62 lengkap terurut dan dipetakan ke SAMPUL + M01–M62;
+    hasil parse 63 unit/277 paragraf menggantikan 279 paragraf lama pada
+    Lapis 1 rentang yang sama (M12 dan M32 masing-masing tergabung satu
+    paragraf). Total Arab 123 unit kini 538 paragraf. Tahap ini dikunci di
+    builder terintegrasi dan builder edisi bersih, lalu diterapkan ke
+    `REVISI_AL_QORIN_123.md` serta `AL_QORIN_123_BERSIH.md`; kedua DOCX dan
+    preview riset dibangun ulang. Verifikasi menunjukkan tidak ada bidang
+    selain Arab SAMPUL–M62 yang berubah pada kedua Markdown. Latin,
+    Terjemahan, Syarah/catatan, Metode/Khususiyah, tabel, dan 26 crop tetap;
+    Arab M63–M122 tetap dari TXT item 15. Audit:
+    `AUDIT_ARAB_PENGGANTI_H62_2026-10-28.md`. Validasi pada checkout ini:
+    parser dan apply-check berhasil; discovery 27 test menghasilkan
+    20 lulus dan 7 test bergantung pada work JSON ter-ignore dilewati
+    karena berkas kerja itu tidak hadir di checkout ini.
 
 ## Yang belum selesai
 
@@ -240,6 +260,8 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_apply_pilot.py
 .venv/bin/python scripts/al_qorin_build_integrated.py
 .venv/bin/python scripts/al_qorin_build_clean_user_edition.py
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h62.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h62.py --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \
   --output al_qorin/AL_QORIN_123_BERSIH.docx
