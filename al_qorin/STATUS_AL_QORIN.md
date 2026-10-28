@@ -222,6 +222,16 @@ hasil, dan bukan pengganti penanganan medis.
     parser dan apply-check berhasil; discovery 27 test menghasilkan
     20 lulus dan 7 test bergantung pada work JSON ter-ignore dilewati
     karena berkas kerja itu tidak hadir di checkout ini.
+17. **Perbaikan arah run tanda kurung pada Lapis 1 DOCX** (2026-10-28):
+    audit XML menemukan semua tanda `()`, `[]`, `{}`, dan `«»` pada paragraf
+    Arab berada dalam run netral tanpa `w:rtl`, walaupun paragrafnya sudah
+    `w:bidi=1`; akibatnya Word dapat menempatkan/memantulkan tanda kurung
+    sebagai teks LTR di tengah kalimat RTL. Builder sekarang memaksa
+    `w:rtl` pada seluruh run Lapis 1 (dan sel tabel yang dominan Arab),
+    tanpa mengubah satu pun karakter atau urutan logis teks Markdown.
+    DOCX bersih dan DOCX master riset dibangun ulang; test arah kini
+    memeriksa 357 tanda kurung/penjodoh pada edisi bersih dan 373 pada
+    master riset, semuanya harus berada dalam run RTL.
 
 ## Yang belum selesai
 

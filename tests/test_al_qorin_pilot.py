@@ -1045,7 +1045,7 @@ class IntegratedDocxTests(unittest.TestCase):
             return el.get(qn("w:val")) if el is not None else None
 
         layer = sub = None
-        arab = latin = images = 0
+        arab = latin = images = arab_brackets = 0
         for p in self.doc.paragraphs:
             if p.style.name == "Heading 1":
                 layer = sub = None
@@ -1066,12 +1066,22 @@ class IntegratedDocxTests(unittest.TestCase):
             if layer == "1. Arab":
                 arab += 1
                 self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("1", "start"), p.text[:80])
+                for run in p.runs:
+                    bracket_count = sum(run.text.count(ch) for ch in "()[]{}«»")
+                    if bracket_count:
+                        arab_brackets += bracket_count
+                        self.assertIsNotNone(run._r.rPr, run.text)
+                        self.assertIsNotNone(
+                            run._r.rPr.find(qn("w:rtl")),
+                            f"Arabic bracket run is not RTL: {run.text!r}",
+                        )
             elif layer == "2. Latin":
                 latin += 1
                 self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("0", "left"), p.text[:80])
         self.assertEqual(images, 26)
         self.assertGreater(arab, 500)
         self.assertGreater(latin, 300)
+        self.assertEqual(arab_brackets, 373)
 
 
 class CleanUserEditionTests(unittest.TestCase):
@@ -1231,7 +1241,7 @@ class CleanUserEditionTests(unittest.TestCase):
             return el.get(qn("w:val")) if el is not None else None
 
         layer = None
-        arab = latin = images = 0
+        arab = latin = images = arab_brackets = 0
         for p in self.doc.paragraphs:
             if p.style.name == "Heading 1":
                 layer = None
@@ -1249,10 +1259,20 @@ class CleanUserEditionTests(unittest.TestCase):
             if layer == "1. Arab":
                 arab += 1
                 self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("1", "start"), p.text[:80])
+                for run in p.runs:
+                    bracket_count = sum(run.text.count(ch) for ch in "()[]{}«»")
+                    if bracket_count:
+                        arab_brackets += bracket_count
+                        self.assertIsNotNone(run._r.rPr, run.text)
+                        self.assertIsNotNone(
+                            run._r.rPr.find(qn("w:rtl")),
+                            f"Arabic bracket run is not RTL: {run.text!r}",
+                        )
             elif layer == "2. Latin":
                 latin += 1
                 self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("0", "left"), p.text[:80])
         self.assertEqual((arab, latin, images), (538, 315, 26))
+        self.assertEqual(arab_brackets, 357)
 
 
 class PreviewTests(unittest.TestCase):

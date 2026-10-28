@@ -67,7 +67,7 @@ Draf saat ini memakai `1. ARAB / 2. LATIN / 3. TERJEMAHAN / 4. SYARAH DAN PENJEL
 ## 3. Yang dipertahankan mutlak
 
 1. **Wafaq tetap tengah** — `w:jc=center` (paragraf gambar/tabel wafaq di tengah).
-2. **Arab kanan** — `w:jc=start` **+** `w:bidi` pada paragraf Arab. (Catatan audit: builder Anwar lama memakai `right`, bukan `start` — untuk Al-Qorin wajib `start` sesuai standar ini.)
+2. **Arab kanan** — `w:jc=start` **+** `w:bidi` pada paragraf Arab, dan `w:rtl` pada seluruh run Arab termasuk tanda baca netral/tanda kurung agar tanda penjodoh tidak terbalik penempatannya. (Catatan audit: builder Anwar lama memakai `right`, bukan `start` — untuk Al-Qorin wajib `start` sesuai standar ini.)
 3. **Latin kiri** — `direction:ltr` (paragraf Latin/Indonesia LTR, rata kiri).
 4. **Font Amiri tersemat.** Font Arab = **Amiri** dan disematkan (embedded) pada DOCX hasil. (Catatan audit: builder lama memakai “Traditional Arabic” tanpa penyematan font — wajib diganti; keberhasilan penyematan harus dibuktikan dari isi paket DOCX, bukan diklaim.)
 5. **Label `[CATATAN PENERJEMAH …]` dipertahankan.** Pada draf terhitung **25×** (mulai sekitar indeks 848.748). Jumlah dan bunyinya tidak boleh berkurang/berubah tanpa catatan.
@@ -140,7 +140,7 @@ Waktu: … : Media: … : Bukhur: …   <hanya yang disebut sumber unit>
 3. Blok **Qarinah qabliah/ba‘diah = 0**; laporan hitung sebelum–sesudah dilampirkan (termasuk penjelasan selisih 285 vs 288).
 4. `[CATATAN PENERJEMAH` tetap **25×** dengan bunyi sama (atau selisihnya dicatat & disetujui).
 5. Setiap unit dengan angka memakai format `penjumlahan … = …, bukan …`; setiap unit tanpa angka memuat persis `«tidak ada hitungan di halaman ini»`; tidak ada unit yang keduanya/mengarang.
-6. XML DOCX: paragraf Arab `w:jc=start` + `w:bidi`; Latin LTR kiri; wafaq `w:jc=center`; font Arab **Amiri** + bukti penyematan font di paket DOCX.
+6. XML DOCX: paragraf Arab `w:jc=start` + `w:bidi`, seluruh run Arab `w:rtl` termasuk run tanda kurung; Latin LTR kiri; wafaq `w:jc=center`; font Arab **Amiri** + bukti penyematan font di paket DOCX.
 7. Crop: setiap `<hal>.jpg` hanya muncul di halaman tujuannya, di tengah, setelah blok Metode; daftar halaman tanpa crop dilaporkan, bukan diisi gambar karangan.
 8. Tidak ada metode/jam/media/bukhur/khasiat/dalil baru di luar draf/scan unit bersangkutan (“jangan dikarang ulang”).
 

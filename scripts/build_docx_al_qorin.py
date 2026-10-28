@@ -3,7 +3,9 @@
 """Build an Al-Qorin DOCX from the locked 5-layer Markdown.
 
 Compliance points implemented here (see STANDAR_MUTLAK_AL_QORIN_123.md):
-- Arabic layer: w:bidi=1 and w:jc="start" (visual right in an RTL paragraph)
+- Arabic layer: w:bidi=1 and w:jc="start" (visual right in an RTL paragraph);
+  every Arabic-layer run also carries w:rtl so neutral punctuation and
+  mirrored brackets stay on the correct sides of Arabic phrases
 - Latin/other prose: w:bidi=0 and w:jc="left"
 - wafaq crop paragraphs and transcription-table cells: w:jc="center"
 - Amiri Regular/Bold/Italic/BoldItalic embedded as obfuscated OpenType parts
@@ -214,7 +216,11 @@ def body(doc_or_cell, text, ctx, *, first_para=None):
     p.paragraph_format.line_spacing = 1.12
     if ctx == "Arab":
         set_bidi(p, True); set_jc(p, "start")  # start = right in RTL, per locked standard
-        parse_inline(p, text, size=19, force_rtl=False)
+        # Brackets and other neutral punctuation are separate non-Arabic
+        # segments during inline rendering.  Forcing w:rtl on those segments
+        # prevents Word from placing/mirroring them as LTR text inside an
+        # otherwise RTL Arabic paragraph.
+        parse_inline(p, text, size=19, force_rtl=True)
     elif ctx == "caption" and text.strip().startswith("[Crop halaman"):
         set_bidi(p, False); set_jc(p, "center")
         parse_inline(p, text, size=10, italic=True, color=MUTED)
@@ -260,7 +266,7 @@ def add_table(doc, rows):
                 dominant_ar = len("".join(AR_RE.findall(part))) >= max(1, len(part.strip()) // 2) if part.strip() else False
                 set_bidi(p, dominant_ar)
                 p.paragraph_format.space_before = Pt(2); p.paragraph_format.space_after = Pt(2)
-                parse_inline(p, part, size=fsize)
+                parse_inline(p, part, size=fsize, force_rtl=dominant_ar)
     doc.add_paragraph().paragraph_format.space_after = Pt(2)
     return table
 
