@@ -46,6 +46,13 @@ Parser reproduksibelnya adalah
 Markdown keluaran memakai
 `scripts/al_qorin_apply_arab_replacement_h63_122.py`.
 
+## Addendum halaman 63 revisi
+
+Pengguna kemudian mengirim versi halaman 63 yang sudah direvisi. Arsip
+`arab_replacement_h63_revised/` kini menggantikan hanya segmen M63 dari
+arsip ini; segmen M64–M122 tetap mengikuti audit di atas. Rincian tahap
+lanjutan itu ada di `AUDIT_ARAB_PENGGANTI_H63_REVISI_2026-10-28.md`.
+
 ## Batas audit
 
 Penggantian ini adalah keputusan provenans dari pengguna. Audit di sini

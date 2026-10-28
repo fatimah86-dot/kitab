@@ -172,6 +172,32 @@ def clean_user_arab_replacement_h63_122():
     return cleaned
 
 
+H63_REVISED_ARCHIVE = (
+    ALQ / "incoming_user_2026-10-28/arab_replacement_h63_revised/"
+    "teks arab halaman 63 revisi.txt"
+)
+
+
+def user_arab_replacement_h63_revised():
+    lines = [
+        line.strip()
+        for line in H63_REVISED_ARCHIVE.read_text(encoding="utf-8-sig").splitlines()
+        if line.strip()
+    ]
+    if not lines or not lines[0].startswith("Halaman 63,"):
+        raise AssertionError("revised page-63 heading is missing")
+    paragraphs = lines[1:]
+    if len(paragraphs) != 7:
+        raise AssertionError("revised page-63 paragraph count changed")
+    return paragraphs
+
+
+def apply_user_arab_replacement_h63_revised(units_by_id):
+    if "M63" in units_by_id:
+        units_by_id["M63"]["arab"] = user_arab_replacement_h63_revised()
+    return units_by_id
+
+
 def deobfuscate(data, guid):
     key = bytes.fromhex(guid.strip("{}").replace("-", ""))
     key32 = key[::-1] + key[::-1]
@@ -406,6 +432,7 @@ class MarkdownStructureTests(unittest.TestCase):
         # reconstructed baseline before testing this historical stage.
         apply_user_arab_replacement_h62(baseline)
         apply_user_arab_replacement_h63_122(baseline)
+        apply_user_arab_replacement_h63_revised(baseline)
         integrated = {
             u["unit_id"]: u
             for u in json.loads(integrated_path.read_text(encoding="utf-8"))
@@ -566,6 +593,7 @@ class MarkdownStructureTests(unittest.TestCase):
             baseline[u["unit_id"]] = json.loads(json.dumps(u, ensure_ascii=False))
         apply_user_arab_replacement_h62(baseline)
         apply_user_arab_replacement_h63_122(baseline)
+        apply_user_arab_replacement_h63_revised(baseline)
         integrated = {
             u["unit_id"]: u
             for u in json.loads(integrated_path.read_text(encoding="utf-8"))
@@ -710,6 +738,7 @@ class MarkdownStructureTests(unittest.TestCase):
                 unit["metode"] = list(entry["metode"])
         apply_user_arab_replacement_h62(baseline)
         apply_user_arab_replacement_h63_122(baseline)
+        apply_user_arab_replacement_h63_revised(baseline)
 
         integrated = {
             u["unit_id"]: u
@@ -924,6 +953,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_batch(baseline, batch2_path)
         apply_user_arab_replacement_h62(baseline)
         apply_user_arab_replacement_h63_122(baseline)
+        apply_user_arab_replacement_h63_revised(baseline)
 
         integrated = {
             u["unit_id"]: u
@@ -1039,6 +1069,7 @@ class MarkdownStructureTests(unittest.TestCase):
         }
         apply_user_arab_replacement_h62(pilot)
         apply_user_arab_replacement_h63_122(pilot)
+        apply_user_arab_replacement_h63_revised(pilot)
         # The six Batch-01 units are historical pilot units and no selective or
         # semantic Lapis-4/5 batch targets them.  After applying the later
         # declared user Arabic replacement stages, their pre-Batch-01 records are
@@ -1150,7 +1181,7 @@ class IntegratedDocxTests(unittest.TestCase):
         self.assertEqual(images, 26)
         self.assertGreater(arab, 500)
         self.assertGreater(latin, 300)
-        self.assertEqual(arab_brackets, 468)
+        self.assertEqual(arab_brackets, 464)
 
 
 class CleanUserEditionTests(unittest.TestCase):
@@ -1257,6 +1288,10 @@ class CleanUserEditionTests(unittest.TestCase):
         clean = clean_user_arab_replacement_h63_122()
         self.assertEqual(list(exact), H63_122_UNITS)
         self.assertEqual(sum(len(x) for x in exact.values()), 267)
+        # A later one-page submission supersedes only this archive's M63.
+        revised_m63 = user_arab_replacement_h63_revised()
+        exact["M63"] = revised_m63
+        clean["M63"] = revised_m63
 
         def arab_paragraphs(block):
             match = re.search(
@@ -1302,6 +1337,34 @@ class CleanUserEditionTests(unittest.TestCase):
         clean_text = self.md_path.read_text(encoding="utf-8")
         for marker in ("[bersambung]", "[tidak disalin penuh]", "[baris tidak lengkap]"):
             self.assertNotIn(marker, clean_text)
+
+    def test_user_arab_replacement_h63_revised_is_locked_in_both_masters(self):
+        data = H63_REVISED_ARCHIVE.read_bytes()
+        self.assertEqual(
+            hashlib.sha256(data).hexdigest(),
+            "dfd59bc78950ed3b9cf08e952a35768419ee63984503bdf5be8f8aceaca29009",
+        )
+        expected = user_arab_replacement_h63_revised()
+        self.assertEqual(len(expected), 7)
+        for path in (ALQ / "REVISI_AL_QORIN_123.md", self.md_path):
+            blocks = {
+                uid: block
+                for uid, _heading, block in unit_blocks(
+                    path.read_text(encoding="utf-8")
+                )
+            }
+            match = re.search(
+                r"^### 1\. Arab\n(.*?)(?=^###\s+|\Z)",
+                blocks["M63"],
+                re.M | re.S,
+            )
+            self.assertIsNotNone(match)
+            actual = [
+                p.strip()
+                for p in match.group(1).strip().split("\n\n")
+                if p.strip()
+            ]
+            self.assertEqual(actual, expected, path.name)
 
     def test_clean_md_structure_crops_and_no_process_meta(self):
         self.assertEqual(
@@ -1397,7 +1460,7 @@ class CleanUserEditionTests(unittest.TestCase):
                 latin += 1
                 self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("0", "left"), p.text[:80])
         self.assertEqual((arab, latin, images), (544, 315, 26))
-        self.assertEqual(arab_brackets, 458)
+        self.assertEqual(arab_brackets, 454)
 
 
 class PreviewTests(unittest.TestCase):

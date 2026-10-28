@@ -230,8 +230,8 @@ hasil, dan bukan pengganti penanganan medis.
     sebagai teks LTR di tengah kalimat RTL. Builder sekarang memaksa
     `w:rtl` pada seluruh run Lapis 1 (dan sel tabel yang dominan Arab),
     tanpa mengubah satu pun karakter atau urutan logis teks Markdown.
-    DOCX bersih dan DOCX master riset dibangun ulang; sesudah item 18 test
-    arah memeriksa 458 tanda kurung/penjodoh pada edisi bersih dan 468
+    DOCX bersih dan DOCX master riset dibangun ulang; sesudah item 19 test
+    arah memeriksa 454 tanda kurung/penjodoh pada edisi bersih dan 464
     pada master riset, semuanya harus berada dalam run RTL.
 18. **Penggantian Arab halaman 63–122 dari kiriman pengguna**
     (2026-10-28): pengguna mengirim lanjutan ekstraksi Arab untuk halaman
@@ -253,6 +253,20 @@ hasil, dan bukan pengganti penanganan medis.
     tetap. Audit: `AUDIT_ARAB_PENGGANTI_H63_122_2026-10-28.md`.
     Validasi pada checkout ini: parser dan apply-check berhasil; discovery
     28 test menghasilkan 21 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati karena berkas kerja itu tidak hadir.
+19. **Revisi Arab halaman 63** (2026-10-28): pengguna memerintahkan
+    halaman 63 lama diganti dengan versi yang sudah direvisi. Kiriman
+    satu halaman itu diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h63_revised/` (SHA-256
+    `dfd59bc7…a29009`) dan diparse menjadi 1 unit/7 paragraf untuk M63.
+    Tahap ini dikunci sesudah penggantian halaman 63–122 pada builder
+    terintegrasi dan builder edisi bersih; kedua Markdown, kedua DOCX,
+    dan preview riset dibangun/diperbarui. Verifikasi terhadap HEAD
+    membuktikan hanya Lapis 1 M63 yang berubah, sedangkan total Arab
+    tetap 544 paragraf. Audit:
+    `AUDIT_ARAB_PENGGANTI_H63_REVISI_2026-10-28.md`. Validasi pada
+    checkout ini: parser dan apply-check berhasil; discovery 29 test
+    menghasilkan 22 lulus dan 7 test bergantung pada work JSON
     ter-ignore dilewati karena berkas kerja itu tidak hadir.
 
 ## Yang belum selesai
@@ -298,6 +312,8 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h62.py --check
 .venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h63_122.py
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h63_122.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h63_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h63_revised.py --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \
   --output al_qorin/AL_QORIN_123_BERSIH.docx
