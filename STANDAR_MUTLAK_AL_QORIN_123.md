@@ -71,6 +71,7 @@ Draf saat ini memakai `1. ARAB / 2. LATIN / 3. TERJEMAHAN / 4. SYARAH DAN PENJEL
 - **Sisip di tengah halaman, setelah blok Metode** (di dalam Lapis 4, sesudah subblok “1. Metode”, sebelum “2. Penentuan Jam”), dengan paragraf tengah (`w:jc=center`).
 - Jangan menggambar ulang wafaq/rajah. Jangan menyisipkan crop ke halaman yang bukan tujuannya.
 - **Status ketersediaan (audit 28-10-2026):** file bernama persis `49.jpg/58.jpg/64.jpg/66.jpg/69.jpg/121.jpg` **tidak ditemukan** di repo maupun lewat pencarian Drive; folder `Kunci Media` tidak berisi crop tersebut. Sumber crop (folder Drive / unggahan / ekstraksi dari berkas lain) harus ditegaskan pengguna sebelum penyisipan. Selama belum ada, unit dikerjakan tanpa mengarang gambar, dan kekurangan crop dicatat per halaman.
+- **Pembaruan pelaksanaan (28-10-2026):** pengguna kemudian mengunggah 26 crop presisi (`49, 58, 64–74, 76–78, 82–86, 98, 109, 116, 120, 121`) dan memerintahkan agar crop tersebut yang dipakai, **bukan** ekstraksi dari FINAL KHATAM. Set FINAL turunan pada tahap sebelumnya dinyatakan tergantikan; manifest kanonis sekarang adalah `al_qorin/wafaq_user_manifest.json` dan berkasnya di `al_qorin/wafaq_qorin/`.
 - Rujukan isi draf tentang rajah: “Rajah diperiksa: hal.65–73 (9 dari 23 halaman). Wafaq berpetak: hal.66 & 69; hal.65 & 67 salinan linear; hal.68, 70, 71, 73 tanpa wafaq berpetak; hal.72 tanpa rajah sama sekali.” — keterangan ini dipertahankan sebagai catatan sumber, bukan diganti klaim baru.
 
 ---
@@ -135,3 +136,4 @@ Waktu: … : Media: … : Bukhur: …   <hanya yang disebut sumber unit>
 ## 8. Riwayat kunci
 
 - 2026-10-28 — Standar diterima dari pengguna dan dikunci menjadi berkas ini **sebelum** penerjemahan/revisi apa pun. Pada tanggal ini Google Doc sumber hanya **dibaca** (metadata, ekstraksi teks, pencarian hitung); belum ada suntingan.
+- 2026-10-28 — Pengguna menegaskan sumber crop: 26 berkas crop presisi unggahan pengguna menggantikan ekstraksi FINAL KHATAM; `116.jpg` termasuk set wajib sisip.

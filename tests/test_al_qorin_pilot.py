@@ -18,9 +18,13 @@ from docx.oxml.ns import qn
 ROOT = Path(__file__).resolve().parents[1]
 ALQ = ROOT / "al_qorin"
 FULL_MD = ALQ / "REVISI_AL_QORIN_123_KERJA.md"
+INTEGRATED_MD = ALQ / "REVISI_AL_QORIN_123.md"
 PILOT_MD = ALQ / "REVISI_AL_QORIN_PILOT.md"
 PILOT_DOCX = ALQ / "AL_QORIN_PILOT_5_LAPIS.docx"
 MANIFEST = ALQ / "MANIFEST_WAFAQ_AL_QORIN.md"
+USER_MANIFEST_JSON = ALQ / "wafaq_user_manifest.json"
+EXPECTED_CROPS = [49, 58, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 76, 77, 78,
+                  82, 83, 84, 85, 86, 98, 109, 116, 120, 121]
 NO_CALC = "«tidak ada hitungan di halaman ini»"
 LAYERS = [
     "1. Arab",
@@ -57,8 +61,10 @@ class MarkdownStructureTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.full = FULL_MD.read_text(encoding="utf-8")
+        cls.integrated = INTEGRATED_MD.read_text(encoding="utf-8")
         cls.pilot = PILOT_MD.read_text(encoding="utf-8")
         cls.full_blocks = unit_blocks(cls.full)
+        cls.integrated_blocks = unit_blocks(cls.integrated)
         cls.pilot_blocks = unit_blocks(cls.pilot)
 
     def assert_block_shape(self, blocks):
@@ -78,6 +84,14 @@ class MarkdownStructureTests(unittest.TestCase):
         self.assertEqual([u for u, _h, _b in self.full_blocks], expected)
         self.assert_block_shape(self.full_blocks)
 
+    def test_integrated_123_and_pilot_substitution(self):
+        self.assertEqual([u for u, _h, _b in self.integrated_blocks],
+                         [u for u, _h, _b in self.full_blocks])
+        self.assert_block_shape(self.integrated_blocks)
+        integrated_by_id = {u: b.strip() for u, _h, b in self.integrated_blocks}
+        for uid, _h, block in self.pilot_blocks:
+            self.assertEqual(integrated_by_id[uid], block.strip(), uid)
+
     def test_full_logged_deletions_and_preserved_labels(self):
         self.assertFalse(any(line.strip().startswith("Qarinah ") for line in self.full.splitlines()))
         self.assertEqual(self.full.count("[CATATAN PENERJEMAH"), 25)
@@ -94,23 +108,28 @@ class MarkdownStructureTests(unittest.TestCase):
         for page in refs:
             self.assertTrue((ALQ / f"wafaq_qorin/{page}.jpg").exists())
 
-    def test_manifest_hashes_and_insertion_set(self):
+    def test_user_crop_manifest_hashes_and_insertion_set(self):
+        manifest = MANIFEST.read_text(encoding="utf-8")
+        self.assertIn("Crop Presisi Kiriman Pengguna", manifest)
         rows = []
-        for line in MANIFEST.read_text(encoding="utf-8").splitlines():
+        for line in manifest.splitlines():
             if re.match(r"^\|\s*\d+\s*\|", line):
-                cells = [c.strip() for c in line.strip().strip("|").split("|")]
-                rows.append(cells)
-        self.assertEqual(len(rows), 32)
-        insert_pages = []
-        for page, _unit, path, _dim, _size, insert, _cap, sha in rows:
+                rows.append([c.strip() for c in line.strip().strip("|").split("|")])
+        self.assertEqual(len(rows), 26)
+        for page, unit, path, _dim, _size, insert, sha in rows:
+            self.assertEqual(unit, f"M{int(page):02d}")
+            self.assertEqual(insert, "YA")
             p = ROOT / path.strip("`")
             self.assertTrue(p.exists(), path)
             self.assertTrue(hashlib.sha256(p.read_bytes()).hexdigest().startswith(sha.strip("`")))
-            if insert == "YA":
-                insert_pages.append(int(page))
-        self.assertEqual(len(insert_pages), 25)
-        refs = [int(x) for x in re.findall(r"wafaq_qorin/(\d+)\.jpg", self.full)]
-        self.assertEqual(refs, insert_pages)
+        data = json.loads(USER_MANIFEST_JSON.read_text(encoding="utf-8"))
+        self.assertEqual([c["page"] for c in data["crops"]], EXPECTED_CROPS)
+        for c in data["crops"]:
+            p = ROOT / c["file"]
+            self.assertEqual(hashlib.sha256(p.read_bytes()).hexdigest(), c["sha256"])
+        for md in (self.full, self.integrated):
+            refs = [int(x) for x in re.findall(r"wafaq_qorin/(\d+)\.jpg", md)]
+            self.assertEqual(refs, EXPECTED_CROPS)
 
     def test_pilot_source_layers_unchanged_when_work_data_present(self):
         revised_path = ALQ / "work/revised_units.json"
@@ -125,29 +144,85 @@ class MarkdownStructureTests(unittest.TestCase):
                 self.assertEqual(u[key], src[key], (u["unit_id"], key))
 
 
-class FullWorkingDocxTests(unittest.TestCase):
-    """The 123-unit DOCX is a mechanical working build, not a semantic final."""
+class IntegratedDocxTests(unittest.TestCase):
+    """The 123-unit DOCX is an integrated build, not proof of semantic completion."""
 
     @classmethod
     def setUpClass(cls):
-        cls.path = ALQ / "AL_QORIN_123_KERJA_5_LAPIS.docx"
+        cls.path = ALQ / "AL_QORIN_REVISI_123_5_LAPIS.docx"
         if not cls.path.exists():
-            raise unittest.SkipTest("full working DOCX has not been built")
+            raise unittest.SkipTest("integrated DOCX has not been built")
         cls.doc = Document(str(cls.path))
         with zipfile.ZipFile(str(cls.path)) as z:
             cls.names = z.namelist()
 
-    def test_full_working_docx_counts(self):
+    def test_integrated_docx_counts_and_user_media(self):
         self.assertEqual(sum(p.style.name == "Heading 1" for p in self.doc.paragraphs), 123)
         self.assertEqual(sum(p.style.name == "Heading 2" for p in self.doc.paragraphs), 615)
         self.assertEqual(sum(p.style.name == "Heading 3" for p in self.doc.paragraphs), 369)
         self.assertEqual(len(self.doc.tables), 4)
-        self.assertEqual(len([n for n in self.names if n.startswith("word/media/")]), 25)
+        self.assertEqual(len([n for n in self.names if n.startswith("word/media/")]), 26)
         self.assertEqual(len([n for n in self.names if n.startswith("word/fonts/")]), 4)
+        with zipfile.ZipFile(str(self.path)) as z:
+            media_hashes = [hashlib.sha256(z.read(f"word/media/image{i}.jpg")).hexdigest()
+                            for i in range(1, 27)]
+        crop_hashes = [hashlib.sha256((ALQ / f"wafaq_qorin/{p}.jpg").read_bytes()).hexdigest()
+                       for p in EXPECTED_CROPS]
+        self.assertEqual(media_hashes, crop_hashes)
         texts = [p.text for p in self.doc.paragraphs]
         self.assertEqual(sum(t.count(NO_CALC) for t in texts), 123)
         self.assertEqual(sum(t.count("[CATATAN PENERJEMAH") for t in texts), 25)
         self.assertFalse(any(t.strip().startswith("Qarinah ") for t in texts))
+
+    def test_integrated_direction_and_crop_placement(self):
+        def pval(p, tag):
+            if p._p.pPr is None:
+                return None
+            el = p._p.pPr.find(qn(tag))
+            return el.get(qn("w:val")) if el is not None else None
+
+        layer = sub = None
+        arab = latin = images = 0
+        for p in self.doc.paragraphs:
+            if p.style.name == "Heading 1":
+                layer = sub = None
+                continue
+            if p.style.name == "Heading 2":
+                layer, sub = p.text.strip(), None
+                continue
+            if p.style.name == "Heading 3":
+                sub = p.text.strip()
+                continue
+            if p._p.xpath('.//*[local-name()="blip"]'):
+                images += 1
+                self.assertEqual(sub, "1. Metode", "crop must follow Metode and precede Penentuan Jam")
+                self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("0", "center"))
+                continue
+            if not p.text.strip():
+                continue
+            if layer == "1. Arab":
+                arab += 1
+                self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("1", "start"), p.text[:80])
+            elif layer == "2. Latin":
+                latin += 1
+                self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("0", "left"), p.text[:80])
+        self.assertEqual(images, 26)
+        self.assertGreater(arab, 500)
+        self.assertGreater(latin, 300)
+
+
+class PreviewTests(unittest.TestCase):
+    def test_preview_counts_and_alias(self):
+        canonical = ALQ / "PREVIEW_INDEX_AL_QORIN_123.html"
+        alias = ALQ / "PREVIEW_INDEX_HAL01-65.html"
+        s = canonical.read_text(encoding="utf-8")
+        self.assertEqual(s, alias.read_text(encoding="utf-8"))
+        self.assertEqual(len(re.findall(r"<article id=", s)), 123)
+        self.assertEqual(len(re.findall(r"<section dir=", s)), 615)
+        self.assertEqual(len(re.findall(r'<figure class="wafaq"', s)), 26)
+        self.assertEqual([int(x) for x in re.findall(r"wafaq_qorin/(\d+)\.jpg", s)], EXPECTED_CROPS)
+        self.assertIn('dir="rtl" class="layer arab"', s)
+        self.assertIn('dir="ltr" class="layer"', s)
 
 
 class PilotDocxTests(unittest.TestCase):

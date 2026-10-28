@@ -567,7 +567,7 @@ Praktik dari sumber (halaman 58): menyelesaikan doa dengan qasam (نوح dan س�
 
 ![Crop halaman 58](wafaq_qorin/58.jpg)
 
-[Crop halaman 58 — Wafak halaman 58 — tabel dan keterangan asli — crop langsung, bukan gambar ulang.]
+[Crop halaman 58 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -617,7 +617,7 @@ Alif Lam Mim, Alif Lam Mim Shad, Alif Lam Mim Ra, Alif Lam Ra, Alif Lam Mim Ra, 
 
 ![Crop halaman 65](wafaq_qorin/65.jpg)
 
-[Crop halaman 65 — Rajah dan deret halaman 65 — crop langsung, bukan gambar ulang.]
+[Crop halaman 65 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.65 — خاتم سليمان — deretan lambang garis dan bintang di kaki halaman**
 
@@ -678,7 +678,7 @@ Praktik dari sumber (halaman 66): doa perlindungan dari segala yang dibenci (ta�
 
 ![Crop halaman 66](wafaq_qorin/66.jpg)
 
-[Crop halaman 66 — Wafak halaman 66 — crop langsung, bukan gambar ulang.]
+[Crop halaman 66 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.66 — wafaq berpetak — bingkai 1 tingkat, 3 lajur (sempit–lebar–sempit) × 3 baris; petak tengah berisi panel berbingkai ganda**
 
@@ -744,7 +744,7 @@ Praktik dari sumber (halaman 67): menuliskan «طلاسم» pada tujuh lembar ke
 
 ![Crop halaman 67](wafaq_qorin/67.jpg)
 
-[Crop halaman 67 — Rajah halaman 67 — crop langsung, bukan gambar ulang.]
+[Crop halaman 67 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.67 — asror huruf hijaiyah — deret dua baris (bukan wafaq berpetak)**
 
@@ -808,7 +808,7 @@ Praktik dari sumber (halaman 69): lanjutan kutipan (at-Ta’min 23:12–14), lal
 
 ![Crop halaman 69](wafaq_qorin/69.jpg)
 
-[Crop halaman 69 — Rajah dan dua wafak halaman 69 — crop langsung, bukan gambar ulang.]
+[Crop halaman 69 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.69 — dua baris lambang talismani (bulan sabit, tiang bercincin, bulatan berekor) + dua wafaq berpetak 4×4 — wafaq kiri berisi rotasi huruf, wafaq kanan belum dapat d**
 

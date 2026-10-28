@@ -1,0 +1,371 @@
+{
+ "source": "user-uploaded precision crops in Arena chat",
+ "rule": "filename number equals destination printed page and M-unit number",
+ "insertion": "centered after the Metode block, before Penentuan Jam",
+ "crops": [
+  {
+   "page": 49,
+   "unit_id": "M49",
+   "file": "al_qorin/wafaq_qorin/49.jpg",
+   "dims": [
+    972,
+    268
+   ],
+   "bytes": 51775,
+   "sha256": "3ea155bc544a4c4a81a695474b721b8f7e6e9b48039b31ceda299206b0848207",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/49.jpg"
+  },
+  {
+   "page": 58,
+   "unit_id": "M58",
+   "file": "al_qorin/wafaq_qorin/58.jpg",
+   "dims": [
+    1538,
+    776
+   ],
+   "bytes": 267739,
+   "sha256": "bc974a9d6d4b3e81b87b34a2cbfdd87a47d4d3790d29db996110a8e8db504e4f",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/58.jpg"
+  },
+  {
+   "page": 64,
+   "unit_id": "M64",
+   "file": "al_qorin/wafaq_qorin/64.jpg",
+   "dims": [
+    1113,
+    237
+   ],
+   "bytes": 58327,
+   "sha256": "9ba6086b54b523cb6bdc2552f3ad5086d4b823b77704f724e58f274e68f4921f",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/64.jpg"
+  },
+  {
+   "page": 65,
+   "unit_id": "M65",
+   "file": "al_qorin/wafaq_qorin/65.jpg",
+   "dims": [
+    1631,
+    253
+   ],
+   "bytes": 79661,
+   "sha256": "33ef2b0277361da2b158d1bdde0333d8cee4d657e41d202ecf1fcdbc6d238a9c",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/65.jpg"
+  },
+  {
+   "page": 66,
+   "unit_id": "M66",
+   "file": "al_qorin/wafaq_qorin/66.jpg",
+   "dims": [
+    1956,
+    1401
+   ],
+   "bytes": 302583,
+   "sha256": "58ad6ab8a40997226ddc626fe3e4ab51b6cccf72bd5d446e7e901d44e3551e5b",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/66.jpg"
+  },
+  {
+   "page": 67,
+   "unit_id": "M67",
+   "file": "al_qorin/wafaq_qorin/67.jpg",
+   "dims": [
+    1894,
+    557
+   ],
+   "bytes": 144053,
+   "sha256": "67652d9930327d9fde8287e7e4d1cc0e58a33beb1105fe9bd41b12fb8697f78b",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/67.jpg"
+  },
+  {
+   "page": 68,
+   "unit_id": "M68",
+   "file": "al_qorin/wafaq_qorin/68.jpg",
+   "dims": [
+    1804,
+    343
+   ],
+   "bytes": 139380,
+   "sha256": "e2836937cb2848b4405a952555bea74fd30fcc96a7b85b99d0b677d82e993135",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/68.jpg"
+  },
+  {
+   "page": 69,
+   "unit_id": "M69",
+   "file": "al_qorin/wafaq_qorin/69.jpg",
+   "dims": [
+    1874,
+    1571
+   ],
+   "bytes": 658366,
+   "sha256": "29b00ed86a957d2d42ee35bf991b4d4105b929780cf33da79dfcb43a8f13cf4e",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/69.jpg"
+  },
+  {
+   "page": 70,
+   "unit_id": "M70",
+   "file": "al_qorin/wafaq_qorin/70.jpg",
+   "dims": [
+    1981,
+    667
+   ],
+   "bytes": 266588,
+   "sha256": "ff84cbcce179d29a7d7fe05fbe8c3497be09a61f39bd0ac9d6df618f64ba4c0a",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/70.jpg"
+  },
+  {
+   "page": 71,
+   "unit_id": "M71",
+   "file": "al_qorin/wafaq_qorin/71.jpg",
+   "dims": [
+    1495,
+    883
+   ],
+   "bytes": 201314,
+   "sha256": "90f4994191807cd425147d96ee1435fc2645803701f710a1b934da931f4ffd94",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/71.jpg"
+  },
+  {
+   "page": 72,
+   "unit_id": "M72",
+   "file": "al_qorin/wafaq_qorin/72.jpg",
+   "dims": [
+    770,
+    204
+   ],
+   "bytes": 40357,
+   "sha256": "12ffe1a66d9cfc3eed9155591feb603f0b2f80db0684e4f661f35d5324179b84",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/72.jpg"
+  },
+  {
+   "page": 73,
+   "unit_id": "M73",
+   "file": "al_qorin/wafaq_qorin/73.jpg",
+   "dims": [
+    1090,
+    253
+   ],
+   "bytes": 59744,
+   "sha256": "c3ea944609d1361848065953024a5dfa925409f871c34dd21f5038dde81f9696",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/73.jpg"
+  },
+  {
+   "page": 74,
+   "unit_id": "M74",
+   "file": "al_qorin/wafaq_qorin/74.jpg",
+   "dims": [
+    1925,
+    768
+   ],
+   "bytes": 328818,
+   "sha256": "b004ca4ec89ffd112aeae8789c1bbbf88095cfbdaa277e56e5d20bcbd257989a",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/74.jpg"
+  },
+  {
+   "page": 76,
+   "unit_id": "M76",
+   "file": "al_qorin/wafaq_qorin/76.jpg",
+   "dims": [
+    1795,
+    645
+   ],
+   "bytes": 220248,
+   "sha256": "33c1109fa686fca2ebee32a75c70b9b0afa1b5efc9374d778f8138a052611f35",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/76.jpg"
+  },
+  {
+   "page": 77,
+   "unit_id": "M77",
+   "file": "al_qorin/wafaq_qorin/77.jpg",
+   "dims": [
+    939,
+    280
+   ],
+   "bytes": 60480,
+   "sha256": "11157857d2a56f6548625a52aaf79952d26ec527ead5ec45b8bfc7172fd0185c",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/77.jpg"
+  },
+  {
+   "page": 78,
+   "unit_id": "M78",
+   "file": "al_qorin/wafaq_qorin/78.jpg",
+   "dims": [
+    1696,
+    1249
+   ],
+   "bytes": 411321,
+   "sha256": "8f4666e2b2dfdd41c8d4edec4906dfd10bcbf70e86158ec4898a2afdcad87ca7",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/78.jpg"
+  },
+  {
+   "page": 82,
+   "unit_id": "M82",
+   "file": "al_qorin/wafaq_qorin/82.jpg",
+   "dims": [
+    957,
+    164
+   ],
+   "bytes": 45473,
+   "sha256": "8010db267792ea4c197cc0b3e57553157f7d59a6de4171f83ee6275cdb786911",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/82.jpg"
+  },
+  {
+   "page": 83,
+   "unit_id": "M83",
+   "file": "al_qorin/wafaq_qorin/83.jpg",
+   "dims": [
+    1997,
+    550
+   ],
+   "bytes": 211514,
+   "sha256": "bc7ef3d1f95cf3ba643506b99a96aeb200d236590865cd6b9de8a8cf85d54af4",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/83.jpg"
+  },
+  {
+   "page": 84,
+   "unit_id": "M84",
+   "file": "al_qorin/wafaq_qorin/84.jpg",
+   "dims": [
+    1799,
+    435
+   ],
+   "bytes": 181202,
+   "sha256": "5eaa45b7a76ac80d6fa48c67c3d6e640ca3d95ef2bbc9f60ae6da005076e0801",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/84.jpg"
+  },
+  {
+   "page": 85,
+   "unit_id": "M85",
+   "file": "al_qorin/wafaq_qorin/85.jpg",
+   "dims": [
+    1096,
+    210
+   ],
+   "bytes": 66869,
+   "sha256": "ee288ea88d1aada7d17541df9aab67bd19a1bf94c79352a39aabd35da257c2ff",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/home/user/kitab/al_qorin/wafaq_upload_user_pending/85.jpg"
+  },
+  {
+   "page": 86,
+   "unit_id": "M86",
+   "file": "al_qorin/wafaq_qorin/86.jpg",
+   "dims": [
+    1957,
+    737
+   ],
+   "bytes": 345884,
+   "sha256": "4855065350836bc1c15283ab9a08b32caaf7ba7513d602dcc83bac06a91bef6f",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/tmp/arena-coding-uploads/86.jpg"
+  },
+  {
+   "page": 98,
+   "unit_id": "M98",
+   "file": "al_qorin/wafaq_qorin/98.jpg",
+   "dims": [
+    1001,
+    591
+   ],
+   "bytes": 142785,
+   "sha256": "966838ebfe8247050e8914ca40158dd1e1e06d9a953e45394fddf7adb6c1ed5d",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/tmp/arena-coding-uploads/98.jpg"
+  },
+  {
+   "page": 109,
+   "unit_id": "M109",
+   "file": "al_qorin/wafaq_qorin/109.jpg",
+   "dims": [
+    1495,
+    1406
+   ],
+   "bytes": 558917,
+   "sha256": "67701ffdee06fd6d82c6e804202fa6490348254e040996899683c943ef42a0f8",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/tmp/arena-coding-uploads/109.jpg"
+  },
+  {
+   "page": 116,
+   "unit_id": "M116",
+   "file": "al_qorin/wafaq_qorin/116.jpg",
+   "dims": [
+    1948,
+    308
+   ],
+   "bytes": 229675,
+   "sha256": "5b2309c43c8673c860055f10bed40f9065c842fcb894b906bfd0e1d52dc71fba",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/tmp/arena-coding-uploads/116.jpg"
+  },
+  {
+   "page": 120,
+   "unit_id": "M120",
+   "file": "al_qorin/wafaq_qorin/120.jpg",
+   "dims": [
+    1812,
+    590
+   ],
+   "bytes": 365773,
+   "sha256": "78784e557c6b7ce728b688ea78bfa08b663884f82e6154db972110f3378a01fc",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/tmp/arena-coding-uploads/120.jpg"
+  },
+  {
+   "page": 121,
+   "unit_id": "M121",
+   "file": "al_qorin/wafaq_qorin/121.jpg",
+   "dims": [
+    1736,
+    942
+   ],
+   "bytes": 275377,
+   "sha256": "91e1843c76b7f7491e912f8495874ead2ea9efef17cbd7a646215741a7b5d564",
+   "insert": true,
+   "caption": "crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang",
+   "source_observed": "/tmp/arena-coding-uploads/121.jpg"
+  }
+ ]
+}

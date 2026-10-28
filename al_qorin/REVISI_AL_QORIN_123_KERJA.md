@@ -2847,7 +2847,7 @@ Praktik dari sumber: menulis ayat di antara kedua mata dan di tangan kanan, sert
 
 ![Crop halaman 49](wafaq_qorin/49.jpg)
 
-[Crop halaman 49 — Rajah halaman 49 — cap dalam PDF asli — crop langsung, bukan gambar ulang.]
+[Crop halaman 49 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -3255,7 +3255,7 @@ Praktik dari sumber (halaman 58): menyelesaikan doa dengan qasam (نوح dan س�
 
 ![Crop halaman 58](wafaq_qorin/58.jpg)
 
-[Crop halaman 58 — Wafak halaman 58 — tabel dan keterangan asli — crop langsung, bukan gambar ulang.]
+[Crop halaman 58 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -3585,7 +3585,7 @@ Praktik dari sumber (halaman 64): lanjutan «تبطيل السحر» dengan kuti
 
 ![Crop halaman 64](wafaq_qorin/64.jpg)
 
-[Crop halaman 64 — Rajah halaman 64 — crop langsung, bukan gambar ulang.]
+[Crop halaman 64 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -3639,7 +3639,7 @@ Alif Lam Mim, Alif Lam Mim Shad, Alif Lam Mim Ra, Alif Lam Ra, Alif Lam Mim Ra, 
 
 ![Crop halaman 65](wafaq_qorin/65.jpg)
 
-[Crop halaman 65 — Rajah dan deret halaman 65 — crop langsung, bukan gambar ulang.]
+[Crop halaman 65 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.65 — خاتم سليمان — deretan lambang garis dan bintang di kaki halaman**
 
@@ -3702,7 +3702,7 @@ Praktik dari sumber (halaman 66): doa perlindungan dari segala yang dibenci (ta�
 
 ![Crop halaman 66](wafaq_qorin/66.jpg)
 
-[Crop halaman 66 — Wafak halaman 66 — crop langsung, bukan gambar ulang.]
+[Crop halaman 66 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.66 — wafaq berpetak — bingkai 1 tingkat, 3 lajur (sempit–lebar–sempit) × 3 baris; petak tengah berisi panel berbingkai ganda**
 
@@ -3770,7 +3770,7 @@ Praktik dari sumber (halaman 67): menuliskan «طلاسم» pada tujuh lembar ke
 
 ![Crop halaman 67](wafaq_qorin/67.jpg)
 
-[Crop halaman 67 — Rajah halaman 67 — crop langsung, bukan gambar ulang.]
+[Crop halaman 67 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.67 — asror huruf hijaiyah — deret dua baris (bukan wafaq berpetak)**
 
@@ -3850,7 +3850,7 @@ Pencatatan bentuk huruf dan titiknya, bukan tafsir asma. Empat butir berkeyakina
 
 ![Crop halaman 68](wafaq_qorin/68.jpg)
 
-[Crop halaman 68 — Deret halaman 68 — crop langsung, bukan gambar ulang.]
+[Crop halaman 68 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.68 — asma huruf talismani — dua baris di kepala halaman (bukan wafaq berpetak)**
 
@@ -3908,7 +3908,7 @@ Praktik dari sumber (halaman 69): lanjutan kutipan (at-Ta’min 23:12–14), lal
 
 ![Crop halaman 69](wafaq_qorin/69.jpg)
 
-[Crop halaman 69 — Rajah dan dua wafak halaman 69 — crop langsung, bukan gambar ulang.]
+[Crop halaman 69 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.69 — dua baris lambang talismani (bulan sabit, tiang bercincin, bulatan berekor) + dua wafaq berpetak 4×4 — wafaq kiri berisi rotasi huruf, wafaq kanan belum dapat d**
 
@@ -3987,7 +3987,7 @@ Yang dapat dipastikan: jumlah baris (3), bahwa dua baris pertama berisi huruf be
 
 ![Crop halaman 70](wafaq_qorin/70.jpg)
 
-[Crop halaman 70 — Rajah halaman 70 — crop langsung, bukan gambar ulang.]
+[Crop halaman 70 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.70 — tiga baris tulisan talismani bersambung (bukan wafaq berpetak): dua baris huruf berloop + satu baris lambang/angka. Tidak ada bingkai petak di halaman ini**
 
@@ -4055,7 +4055,7 @@ Yang dapat dipastikan: bentuk geometris, jumlah 8 huruf ط, dan posisinya. Yang 
 
 ![Crop halaman 71](wafaq_qorin/71.jpg)
 
-[Crop halaman 71 — Rajah halaman 71 — crop langsung, bukan gambar ulang.]
+[Crop halaman 71 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.71 — rajah geometris: persegi panjang dengan dua diagonal yang membentuk belah ketupat (titik sudut menyentuh titik tengah sisi), dikelilingi delapan huruf «ط». Buka**
 
@@ -4123,7 +4123,7 @@ Yang pasti: ada enam unsur grafis pada satu garis dasar, semuanya tanpa titik, d
 
 ![Crop halaman 72](wafaq_qorin/72.jpg)
 
-[Crop halaman 72 — Deret dan simbol halaman 72 — crop langsung, bukan gambar ulang.]
+[Crop halaman 72 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.72 — hias garis (tashbik) berbentuk deret bulan sabit bertangkai di atas garis dasar panjang — BUKAN wafaq berpetak, BUKAN persegi ajaib**
 
@@ -4185,7 +4185,7 @@ Yang pasti: ada untai lambang, ada bintang, ada lima garis tegak, ada silang dan
 
 ![Crop halaman 73](wafaq_qorin/73.jpg)
 
-[Crop halaman 73 — Rajah halaman 73 — crop langsung, bukan gambar ulang.]
+[Crop halaman 73 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.73 — untai lambang talismani yang menyisip di baris arahan (bukan petak, bukan persegi ajaib)**
 
@@ -4261,7 +4261,7 @@ Tidak ada bingkai, tidak ada petak, tidak ada garis tabel -> tidak ada grid(wafa
 
 ![Crop halaman 74](wafaq_qorin/74.jpg)
 
-[Crop halaman 74 — Rajah dan nama halaman 74 — crop langsung, bukan gambar ulang.]
+[Crop halaman 74 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.74 — kaligrafi maghribi 5 baris (basmala bergaya + untai berulang) — bukan petak, bukan persegi ajaib**
 
@@ -4367,7 +4367,7 @@ Praktik dari sumber (halaman 76): setelah bacaan, menoleh ke kanan sambil menyeb
 
 ![Crop halaman 76](wafaq_qorin/76.jpg)
 
-[Crop halaman 76 — Rajah halaman 76 — crop langsung, bukan gambar ulang.]
+[Crop halaman 76 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -4421,7 +4421,7 @@ Praktik dari sumber (halaman 77): lanjutan «رفع النزيف» — menulis p
 
 ![Crop halaman 77](wafaq_qorin/77.jpg)
 
-[Crop halaman 77 — Rajah halaman 77 — crop langsung, bukan gambar ulang.]
+[Crop halaman 77 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -4471,7 +4471,7 @@ Praktik dari sumber (halaman 78): lanjutan bacaan «اسكن» yang menyebut nam
 
 ![Crop halaman 78](wafaq_qorin/78.jpg)
 
-[Crop halaman 78 — Wafak halaman 78 — crop langsung, bukan gambar ulang.]
+[Crop halaman 78 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -4673,7 +4673,7 @@ Praktik dari sumber (halaman 82): lanjutan bahan (jawi, lubbān, cendana, labu j
 
 ![Crop halaman 82](wafaq_qorin/82.jpg)
 
-[Crop halaman 82 — Deret halaman 82 — crop langsung, bukan gambar ulang.]
+[Crop halaman 82 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -4733,7 +4733,7 @@ Praktik dari sumber (halaman 83): lanjutan «تلبيس الجثة» — bahan (
 
 ![Crop halaman 83](wafaq_qorin/83.jpg)
 
-[Crop halaman 83 — Rajah halaman 83 — crop langsung, bukan gambar ulang.]
+[Crop halaman 83 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -4791,7 +4791,7 @@ Praktik dari sumber (halaman 84): **Fasal Ketujuh Belas — قضاء الحاج�
 
 ![Crop halaman 84](wafaq_qorin/84.jpg)
 
-[Crop halaman 84 — Rajah halaman 84 — crop langsung, bukan gambar ulang.]
+[Crop halaman 84 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -4847,7 +4847,7 @@ Praktik dari sumber (halaman 85): penutup bab محبة («محبة كذا في �
 
 ![Crop halaman 85](wafaq_qorin/85.jpg)
 
-[Crop halaman 85 — Rajah halaman 85 — crop langsung, bukan gambar ulang.]
+[Crop halaman 85 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -4903,7 +4903,7 @@ Praktik dari sumber (halaman 86): **فائدة لوضع الحمل كلمح ال
 
 ![Crop halaman 86](wafaq_qorin/86.jpg)
 
-[Crop halaman 86 — Rajah halaman 86 — crop langsung, bukan gambar ulang.]
+[Crop halaman 86 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -5481,7 +5481,7 @@ Praktik dari sumber (halaman 98): lanjutan bacaan pemanggilan yang menyebut «ا
 
 ![Crop halaman 98](wafaq_qorin/98.jpg)
 
-[Crop halaman 98 — Wafak halaman 98 — crop langsung, bukan gambar ulang.]
+[Crop halaman 98 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -6055,7 +6055,7 @@ Praktik dari sumber (halaman 109): lanjutan bacaan salam kepada «رجال ال�
 
 ![Crop halaman 109](wafaq_qorin/109.jpg)
 
-[Crop halaman 109 — Lingkaran halaman 109 — crop langsung, bukan gambar ulang.]
+[Crop halaman 109 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -6403,6 +6403,10 @@ Praktik dari sumber (halaman 116): **الفصل الثاني والعشرون �
 
 [Dinisbatkan pada penulis; tidak ada jaminan; dicatat tidak dianjurkan tidak disahkan]
 
+![Crop halaman 116](wafaq_qorin/116.jpg)
+
+[Crop halaman 116 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
+
 #### 2. Penentuan Jam
 
 «tidak ada hitungan di halaman ini»
@@ -6601,7 +6605,7 @@ Praktik dari sumber (halaman 120): **الفصل الثالث والعشرون �
 
 ![Crop halaman 120](wafaq_qorin/120.jpg)
 
-[Crop halaman 120 — Deret halaman 120 — crop langsung, bukan gambar ulang.]
+[Crop halaman 120 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 
@@ -6653,7 +6657,7 @@ Praktik dari sumber (halaman 121): **حجاب القرناء** — menulis Basma
 
 ![Crop halaman 121](wafaq_qorin/121.jpg)
 
-[Crop halaman 121 — Wafak halaman 121 — crop langsung, bukan gambar ulang.]
+[Crop halaman 121 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 #### 2. Penentuan Jam
 

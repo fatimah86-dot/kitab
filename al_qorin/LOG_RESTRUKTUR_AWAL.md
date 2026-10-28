@@ -7,7 +7,7 @@
 - Catatan penyunting terselamatkan (paragraf): 565; unit tanpa catatan: 0.
 - Label [CATATAN PENERJEMAH pada hasil: 25 (sumber: 25).
 - Unit 'tidak ada petunjuk praktik': 27; metode cadangan eksplisit: 0.
-- Crop wafaq tersisip: 25 (setelah blok Metode).
+- Crop wafaq tersisip: 26 (setelah blok Metode).
 - Saringan jam: unit mengandung istilah jam 3; mengandung pola aritmetika 0; keduanya (perlu telaah): 0.
 - Frasa «tidak ada hitungan di halaman ini» muncul: 123.
 

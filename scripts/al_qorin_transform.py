@@ -202,7 +202,9 @@ def render_table(rows):
 def main():
     header, units = parse()
     assert len(units) == 123, len(units)
-    cropmap = json.loads((WORK / "crop_manifest.json").read_text(encoding="utf-8"))["crops"]
+    # User-supplied precision crops are the only authorized image source.
+    # (The earlier FINAL-KHATAM-derived set was superseded by explicit instruction.)
+    cropmap = json.loads((ROOT / "al_qorin/wafaq_user_manifest.json").read_text(encoding="utf-8"))["crops"]
     insert_pages = {m["page"]: m for m in cropmap if m["insert"]}
     stats = Counter(); out_units = []
     jam_re = re.compile(r"\bjam\b|ساعة|sā‘ah|saa'ah|sa'ah", re.I)

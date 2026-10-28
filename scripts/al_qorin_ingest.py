@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """Ingest DRAF Al-Qorin DOCX -> unit JSON (lossless paragraph text) + inventories.
-Also maps FINAL KHATAM embedded images to nearest printed-page heading.
+
+The legacy FINAL-media mapping helper below is retained only as audit history;
+it is not run by default and is not used for crops. Authorized wafaq images are
+the user-uploaded precision crops staged by al_qorin_stage_user_crops.py.
 Read-only w.r.t. sources in google_drive/.
 """
 import json, re, sys, zipfile
@@ -135,5 +138,3 @@ def map_final_media():
 
 if __name__ == "__main__":
     ingest_draf()
-    print("---")
-    map_final_media()
