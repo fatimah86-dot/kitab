@@ -99,9 +99,9 @@ hasil, dan bukan pengganti penanganan medis.
    penghapusan, manifest/hash crop pengguna, substitusi pilot, batas sempit
    override selektif pasca-pilot, DOCX terintegrasi, preview,
    arah/alignment XML, tabel, media, dan embedding font. Test lama Anwar
-   tetap dijalankan; seluruh 21 test lulus sesudah integrasi selektif,
-   amandemen lapis kondisional, batch semantik M16–M64, dan batch semantik
-   M06–M15/M72–M121.
+   tetap dijalankan; seluruh 22 test lulus sesudah integrasi selektif,
+   amandemen lapis kondisional, batch semantik M16–M64, batch semantik
+   M06–M15/M72–M121, dan batch terakhir M68/M70/M71.
 9. **Amandemen lapis kondisional + arsip unggahan M65** (2026-10-28): sesuai
    keputusan pengguna, SAMPUL kini tampil 3 lapis (empat catatan sampul
    dipindah ke akhir Lapis 3), M01 (Muqodimah) dan M122 (Khatimah) tampil
@@ -138,16 +138,27 @@ hasil, dan bukan pengganti penanganan medis.
     Penentuan Jam, `rajah_blocks`, dan crop tidak berubah; unit tumpang-tindih
     selektif memakai baseline pasca-selektif. Rincian:
     `CATATAN_BATCH_M06_M15_M72_M121.md`.
+12. **Batch terakhir M68, M70, M71** (`overrides_batch_m68_m70_m71.json`,
+    tahap final sesudah semua batch sebelumnya): ketiga unit yang semula
+    hanya menerima penajaman selektif kini dikurasi setingkat pilot. Catatan
+    substantif dipilih dari baseline pasca-selektif; Khususiyah diperinci
+    dari Arab/Terjemahan dan crop `68.jpg`, `70.jpg`, `71.jpg`, termasuk QS
+    al-Kahf 18:25 (M68), tulisan spesifik kedua telapak dan bakhur (M70),
+    serta delapan posisi ṭā’ (M71). Satu koreksi Metode dibatasi pada
+    paragraf pertama M71: ayat disebut **dipanaskan** (bukan dibakar) dengan
+    bahan dari kambing hitam yang zat persisnya tidak dipastikan; paragraf
+    deskripsi transparan rajah sesudahnya dipertahankan byte-identik.
+    Dengan batch ini seluruh 123 unit telah masuk pilot atau salah satu
+    batch semantik Lapis 4/5. Rincian: `CATATAN_BATCH_TERAKHIR_M68_M70_M71.md`.
 
 ## Yang belum selesai
 
-- Sisa batch semantik Lapis 4/5 kini terutama M68, M70, dan M71: ketiganya
-  baru menerima penajaman selektif frasa/catatan tertentu dan belum masuk
-  batch kurasi catatan/Khususiyah setingkat pilot. Selain itu, pemeriksaan
-  ulang Penentuan Jam terhadap Arab serta pindai halaman tetap bersifat
-  dokumenter dan tidak boleh mengarang hitungan; selisih bacaan M104 dan
-  M107 juga sengaja belum dipakai untuk mengganti Lapis 1–3. Semua batch
-  semantik sejauh ini tidak menerjemahkan ulang Lapis 1–3, tidak menggambar
+- Tidak ada lagi unit yang menunggu batch semantik Lapis 4/5: seluruh 123
+  unit telah masuk pilot atau salah satu batch semantik. Batas kejujuran
+  tetap berlaku: pemeriksaan Penentuan Jam terhadap Arab serta pindai
+  halaman bersifat dokumenter dan tidak mengarang hitungan; selisih bacaan
+  M104 dan M107 sengaja belum dipakai untuk mengganti Lapis 1–3. Semua
+  batch semantik tidak menerjemahkan ulang Lapis 1–3, tidak menggambar
   ulang rajah, dan tidak menulis ulang ringkasan Metode draf selain stub/
   kontradiksi yang terbukti pada daftar izin masing-masing batch.
 - Pemetaan halaman cetak individual M01–M04 belum dibuktikan; tidak ada crop

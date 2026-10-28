@@ -27,6 +27,12 @@ rewrite Khususiyah phrases, and replace four Metode summaries that are a
 keyword stub or contradict the preserved Arab/Terjemahan on concrete material
 (M12, M79, M82, M83). The appended selective discrepancy notes on M104/M107
 must survive note selection.
+
+A final stage applies ``al_qorin/overrides_batch_m68_m70_m71.json`` to the
+three selective-only units that remained. Its baseline is post-batch2. It may
+only select already-salvaged editor notes, rewrite Khususiyah phrases, and
+replace the first Metode paragraph of M71; M71's transparent rajah paragraphs
+after the first must remain byte-identical.
 Output: al_qorin/REVISI_AL_QORIN_123.md and al_qorin/work/integrated_units.json
 """
 import copy
@@ -415,6 +421,134 @@ for uid in order:
     if current["khususiyah"] != expected_khususiyah:
         fail_batch2(f"{uid}: Khususiyah differs beyond the declared override")
 
+# --- Final semantic batch M68, M70, M71 -------------------------------------
+# These were the only selective-only units left after the earlier batches.
+# The baseline is post-batch2 (hence already post-selective). Notes may only
+# be selected from that baseline, Khususiyah phrases may be rewritten, and
+# M71 may replace only its first Metode paragraph: the transparent rajah
+# description paragraphs that follow are protected byte-for-byte.
+FINAL_OVERRIDES = ROOT / "al_qorin/overrides_batch_m68_m70_m71.json"
+FINAL_UNITS = {"M68", "M70", "M71"}
+FINAL_ENTRY_KEYS = {"dasar", "notes_groups", "khususiyah", "metode_first"}
+FINAL_KHUSUSIYAH_KEYS = {"waktu", "media", "bukhur"}
+FINAL_METODE_FIRST_UNITS = {"M71"}
+FINAL_CHANGE_KEYS = {"metode", "catatan_penyunting", "khususiyah"}
+
+
+def fail_final(message):
+    raise SystemExit(f"final semantic batch M68/M70/M71 override rejected: {message}")
+
+
+final_payload = json.loads(FINAL_OVERRIDES.read_text(encoding="utf-8"))
+final_units = final_payload.get("units")
+if not isinstance(final_units, dict):
+    fail_final("payload has no object field 'units'")
+if set(final_units) != FINAL_UNITS:
+    fail_final(
+        "payload units must be exactly M68, M70, and M71; "
+        f"missing={sorted(FINAL_UNITS - set(final_units))} "
+        f"extra={sorted(set(final_units) - FINAL_UNITS)}"
+    )
+
+pre_final_baseline = copy.deepcopy(revised)
+
+for uid, entry in final_units.items():
+    if not isinstance(entry, dict):
+        fail_final(f"{uid}: entry is not an object")
+    unknown_keys = sorted(set(entry) - FINAL_ENTRY_KEYS)
+    if unknown_keys:
+        fail_final(f"{uid}: unsupported keys {unknown_keys}")
+    if not str(entry.get("dasar", "")).strip():
+        fail_final(f"{uid}: missing non-empty audit basis ('dasar')")
+    if not any(k in entry for k in ("notes_groups", "khususiyah", "metode_first")):
+        fail_final(f"{uid}: entry declares no curation action")
+
+    unit = revised[uid]
+    baseline_notes = pre_final_baseline[uid]["catatan_penyunting"]
+    groups = entry.get("notes_groups")
+    if groups is not None:
+        if not isinstance(groups, list) or not groups:
+            fail_final(f"{uid}: 'notes_groups' must be a non-empty list")
+        flat = []
+        for g in groups:
+            if (not isinstance(g, list) or not g
+                    or any(not isinstance(i, int) or isinstance(i, bool) for i in g)):
+                fail_final(f"{uid}: each notes group must be a non-empty list of integers")
+            flat.extend(g)
+        if flat != sorted(flat) or len(set(flat)) != len(flat):
+            fail_final(f"{uid}: note indices must be unique and in ascending order")
+        if flat[0] < 1 or flat[-1] > len(baseline_notes):
+            fail_final(f"{uid}: note indices out of range (have {len(baseline_notes)})")
+        unit["catatan_penyunting"] = [
+            " ".join(baseline_notes[i - 1] for i in g) for g in groups
+        ]
+
+    khususiyah = entry.get("khususiyah")
+    if khususiyah is not None:
+        if not isinstance(khususiyah, dict) or not khususiyah:
+            fail_final(f"{uid}: 'khususiyah' must be a non-empty object")
+        unknown_khususiyah = sorted(set(khususiyah) - FINAL_KHUSUSIYAH_KEYS)
+        if unknown_khususiyah:
+            fail_final(f"{uid}: unsupported Khususiyah keys {unknown_khususiyah}")
+        for key, value in khususiyah.items():
+            if not isinstance(value, str) or not value.strip():
+                fail_final(f"{uid}: Khususiyah {key} must be non-empty text")
+            unit["khususiyah"][key] = value
+
+    metode_first = entry.get("metode_first")
+    if metode_first is not None:
+        if uid not in FINAL_METODE_FIRST_UNITS:
+            fail_final(
+                f"{uid}: Metode first-paragraph replacement is allowed only for "
+                f"{sorted(FINAL_METODE_FIRST_UNITS)}"
+            )
+        if not isinstance(metode_first, str) or not metode_first.strip():
+            fail_final(f"{uid}: 'metode_first' must be non-empty text")
+        baseline_metode = pre_final_baseline[uid]["metode"]
+        if len(baseline_metode) < 2:
+            fail_final(f"{uid}: baseline Metode has no protected suffix")
+        required = ("109 kali", "dipanaskan", "zat persisnya tidak dipastikan")
+        forbidden = ("dibakar dengan lemak", "pada enam sisi")
+        if any(phrase not in metode_first for phrase in required):
+            fail_final("M71: replacement first Metode paragraph is missing a source-bound phrase")
+        if any(phrase in metode_first for phrase in forbidden):
+            fail_final("M71: replacement first Metode paragraph still contains the old contradiction")
+        unit["metode"] = [metode_first] + list(baseline_metode[1:])
+
+for uid in order:
+    baseline = pre_final_baseline[uid]
+    current = revised[uid]
+    if uid not in FINAL_UNITS:
+        if current != baseline:
+            fail_final(f"{uid}: unit changed although it is outside M68/M70/M71")
+        continue
+    for key, baseline_value in baseline.items():
+        if key not in FINAL_CHANGE_KEYS and current[key] != baseline_value:
+            fail_final(f"{uid}: protected field changed: {key}")
+    if current["jam"] != baseline["jam"]:
+        fail_final(f"{uid}: Penentuan Jam changed")
+
+    entry = final_units[uid]
+    groups = entry.get("notes_groups")
+    if groups is None:
+        expected_notes = baseline["catatan_penyunting"]
+    else:
+        expected_notes = [
+            " ".join(baseline["catatan_penyunting"][i - 1] for i in g) for g in groups
+        ]
+    if current["catatan_penyunting"] != expected_notes:
+        fail_final(f"{uid}: editor notes differ beyond declared selection")
+    if "metode_first" in entry:
+        expected_metode = [entry["metode_first"]] + list(baseline["metode"][1:])
+        if current["metode"] != expected_metode:
+            fail_final(f"{uid}: Metode differs beyond the first-paragraph replacement")
+    elif current["metode"] != baseline["metode"]:
+        fail_final(f"{uid}: Metode changed outside the M71 first-paragraph exception")
+    expected_khususiyah = dict(baseline["khususiyah"])
+    expected_khususiyah.update(entry.get("khususiyah", {}))
+    if current["khususiyah"] != expected_khususiyah:
+        fail_final(f"{uid}: Khususiyah differs beyond the declared override")
+
 units = [revised[uid] for uid in order]
 (work / "integrated_units.json").write_text(json.dumps(units, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -434,10 +568,10 @@ md = ["# AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL", "",
       "> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil "
       "restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, "
       "penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari "
-      "paket unggahan 2026-10-28; batch semantik M16–M64 serta M06–M15 dan M72–M121 telah "
-      "dikurasi setingkat pilot (catatan dipilih dari catatan lama, Khususiyah tingkat frasa, "
-      "stub/kontradiksi Metode yang terbukti dikoreksi), sedangkan sisa unit non-pilot di luar "
-      "batch tersebut masih menunggu batch berikutnya. Crop "
+      "paket unggahan 2026-10-28; batch semantik M16–M64, M06–M15/M72–M121, dan batch "
+      "terakhir M68/M70/M71 telah dikurasi setingkat pilot (catatan dipilih dari catatan "
+      "lama, Khususiyah tingkat frasa, stub/kontradiksi Metode yang terbukti dikoreksi), "
+      "sehingga seluruh 123 unit telah masuk pilot atau salah satu batch semantik. Crop "
       "wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis "
       "kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), "
       "M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.", "",
@@ -454,5 +588,6 @@ print(
     f"selective_overrides={len(selective_units)} "
     f"batch_m16_m64={len(batch_units)} "
     f"batch_m06_m15_m72_m121={len(batch2_units)} "
+    f"batch_final_m68_m70_m71={len(final_units)} "
     f"crops={sum(bool(u['crop_page']) for u in units)}"
 )

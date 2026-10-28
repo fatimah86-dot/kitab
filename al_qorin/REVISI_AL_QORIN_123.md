@@ -1,6 +1,6 @@
 # AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL
 
-> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari paket unggahan 2026-10-28; batch semantik M16–M64 serta M06–M15 dan M72–M121 telah dikurasi setingkat pilot (catatan dipilih dari catatan lama, Khususiyah tingkat frasa, stub/kontradiksi Metode yang terbukti dikoreksi), sedangkan sisa unit non-pilot di luar batch tersebut masih menunggu batch berikutnya. Crop wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.
+> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari paket unggahan 2026-10-28; batch semantik M16–M64, M06–M15/M72–M121, dan batch terakhir M68/M70/M71 telah dikurasi setingkat pilot (catatan dipilih dari catatan lama, Khususiyah tingkat frasa, stub/kontradiksi Metode yang terbukti dikoreksi), sehingga seluruh 123 unit telah masuk pilot atau salah satu batch semantik. Crop wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.
 
 > Dokumen ini adalah revisi terjemahan dokumenter. Metode yang dinisbatkan kepada penulis kitab tidak disajikan sebagai anjuran, terapi, atau jaminan hasil, dan bukan pengganti penanganan medis.
 
@@ -3648,15 +3648,11 @@ Pencatatan bentuk huruf dan titiknya, bukan tafsir asma. Empat butir berkeyakina
 
 rangkaian «سيهك لهك…» dan «اهيا شراهيا…» adalah nama/azimat yang tidak dapat saya pastikan huruf dan maknanya; saya salin apa adanya dan tidak mengoreksi. «الجثة» di sini dipakai untuk tubuh, bukan jasad. Angka «٣» dipertahankan seperti tercetak.
 
-Harakat dan tanda baca Arab bersifat editorial.
-
-Rajah, wafaq, dan lambang pada halaman ini TIDAK digambar ulang di sini; bentuk aslinya wajib diambil dari pindaian halaman yang bersangkutan.
-
 «عَلَيْهَا» di sini berarti pada tubuh/perhiasan perempuan; saya terjemahkan apa adanya. «وَيُجَامِعُهَا» fi‘l mudhari‘. Ayat yang dikutip adalah QS al-Kahf 18:25, dan «الم» di akhir halaman menyambung ke halaman 69.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tulisan/rajah baris huruf pada halaman ini; ayat-ayat yang ditulis lalu digantungkan pada perempuan : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: rajah dua baris huruf/lambang sesudah kata «taktubu» (crop asli 68.jpg; beberapa unsur berkeyakinan rendah—lihat Metode/Catatan); bacaan ‘azm pengusiran dengan nama orang dan ibunya serta penanda tiga kali; ayat QS al-Kahf 18:25 dan «Alif Lām Mīm» ditulis lalu digantungkan pada perempuan : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M69 — Halaman 69, lanjutan ayat, uji pada ayam, dan dua wafaq
 
@@ -3783,15 +3779,11 @@ Yang dapat dipastikan: jumlah baris (3), bahwa dua baris pertama berisi huruf be
 
 «يُنَجَّمُ» tidak baku; kemungkinan «يُنَجَّم» = dijemur di bawah bintang/langit, dan saya catat sebagai bacaan terbuka. «أَطْبَاق» jamak «طبق».
 
-Harakat dan tanda baca Arab bersifat editorial.
-
-Rajah, wafaq, dan lambang pada halaman ini TIDAK digambar ulang di sini; bentuk aslinya wajib diambil dari pindaian halaman yang bersangkutan.
-
 «مَا بَانِي» adalah rangkaian azimat yang tidak dapat saya pastikan maknanya; «أْمُرْ» kemungkinan «وَأْمُرْ». «الذَّكَر» di sini bermakna kemaluan; saya terjemahkan netral.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: langsung sesudah bersih dari haid; satu dari tiga aṭbāq diminum setiap hari sebelum berbuka : Media: tiga aṭbāq yang dijemur di bawah langit; tulisan pada telapak tangan kanan dan kiri : Bukhur: jawi; kabīrah (Terjemahan kanonis menyebutnya “kayu besar”); kundur
+Waktu: langsung sesudah bersih dari haid; satu aṭbāq diminum setiap hari sebelum berbuka; ḥirz penutup juga digantung sesudah bersih dari haid : Media: tiga aṭbāq dibuat dan dijemur di bawah langit; telapak kanan: «mā bānī» ☆ ف ق ج; telapak kiri: ☆ م خ م ت; kedua telapak terbuka di atas bakaran sambil membaca QS Yā-Sīn 36:78 sampai akhir surah; rajah tiga baris huruf berloop/lambang untuk ḥirz kehamilan (crop asli 70.jpg; identitas kebanyakan lambang tidak pasti) : Bukhur: jāwī, kabīrah, dan kundur (tiga istilah sesudah kata al-bukhūr pada Arab; Terjemahan kanonis menyebut unsur tengahnya “kayu besar”)
 
 ## M71 — Halaman 71, حرف الطاء dan kotak berlambang ط
 
@@ -3825,7 +3817,7 @@ Faedah agar janin tidak gugur: ditulis dan digantung, dengan ayat-ayat penjagaan
 
 #### 1. Metode
 
-Praktik dari sumber (halaman 71): «فائدة لعدم سقوط الجنين» — menuliskan huruf ط dan «طسم» 109 kali serta basmalah di sekelilingnya, pada bulan ketiga kehamilan, lalu menggantungkannya pada bayi setelah lahir; disertai **kotak bergambar berlambang ط pada enam sisi**; dan «فائدة للحمل» dengan menulis ayat pada waktu zuhur, dibakar dengan lemak kambing hitam lalu diminum. Rajah kotak tidak digambar ulang. Dinisbatkan pada penulis.
+Praktik dari sumber (halaman 71): «fā’idah li-‘adam suqūṭ al-janīn» — huruf ṭā’ ditulis dengan ayat-ayat penjagaan di sekelilingnya, «ṭa sīn mīm» ditulis 109 kali mengelilinginya, lalu basmalah ditulis mengelilinginya; itu pada bulan ketiga kehamilan, dan sesudah bayi lahir tulisan dipindahkan dari perempuan kepada bayi. Rajah geometris berlambang ṭā’ tidak digambar ulang (crop asli 71.jpg). Faidah kehamilan kedua menyebut ayat-ayat ditulis pada waktu Zuhur di hari yang baik, dipanaskan dengan bahan dari kambing hitam yang zat persisnya tidak dipastikan (Terjemahan kanonis menyebut lemak), lalu diminum sesudah bersih dari haid. Dinisbatkan pada penulis; bukan nasihat medis.
 
 Halaman ini TIDAK memuat wafaq berpetak; berikut salinan transparannya (bukan rekonstruksi):
 
@@ -3851,15 +3843,11 @@ Yang dapat dipastikan: bentuk geometris, jumlah 8 huruf ط, dan posisinya. Yang 
 
 «طسم» adalah huruf pembuka surah; angka ١٠٩ tertulis dengan angka Arab dan juga lafaz «مِائَةَ مَرَّةٍ وَتِسْعَةً». «مُجَرَّبٌ صَحِيحٌ» klaim penulis, bukan hasil pengujian saya.
 
-Harakat dan tanda baca Arab bersifat editorial.
-
-Rajah, wafaq, dan lambang pada halaman ini TIDAK digambar ulang di sini; bentuk aslinya wajib diambil dari pindaian halaman yang bersangkutan.
-
 «بِلَيْنِ مَاعِزٍ» pada cetakan; lazimnya «لَيِّن/شَحْم» — saya pertahankan dan tandai. «يَوْمٍ سَعِيد» = hari yang baik.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: bulan ketiga kehamilan; waktu Zuhur pada hari yang baik («يَوْمٍ سَعِيدٍ»); diminum sesudah bersih dari haid : Media: huruf ṭā’ dengan «طسم» ditulis 109 kali dan basmalah mengelilinginya; ayat-ayat yang ditulis; bahan dari kambing hitam yang bentuk zatnya tidak dipastikan (Terjemahan kanonis menyebut lemak) : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: bulan ketiga kehamilan (faidah janin), lalu tulisan dipindahkan kepada bayi sesudah lahir; faidah kehamilan: waktu Zuhur pada hari yang baik («yawm sa‘īd») dan diminum sesudah bersih dari haid : Media: tulisan huruf ṭā’ dengan ayat-ayat penjagaan di sekelilingnya, «ṭa sīn mīm» 109 kali dan basmalah mengelilinginya; rajah persegi panjang berbelah ketupat dengan delapan posisi ṭā’ (crop asli 71.jpg; bagian tengah kosong pada pindaian); ayat faidah kehamilan dipanaskan dengan bahan dari kambing hitam yang zat persisnya tidak dipastikan (Terjemahan kanonis menyebut lemak; lihat Catatan) : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M72 — Halaman 72, lanjutan tulisan kehamilan dan rajah
 
