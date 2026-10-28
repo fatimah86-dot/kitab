@@ -1,6 +1,6 @@
 # AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL
 
-> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual, unit lain menunggu penyelesaian semantik per batch. Crop wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM.
+> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari paket unggahan 2026-10-28; unit lain masih menunggu penyelesaian semantik per batch. Crop wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM.
 
 > Dokumen ini adalah revisi terjemahan dokumenter. Metode yang dinisbatkan kepada penulis kitab tidak disajikan sebagai anjuran, terapi, atau jaminan hasil, dan bukan pengganti penanganan medis.
 
@@ -3824,7 +3824,7 @@ Rajah, wafaq, dan lambang pada halaman ini TIDAK digambar ulang di sini; bentuk 
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: Praktik dari sumber (halaman 68): tulisan «تكتب» dengan baris huruf, lalu «عزم» pengusiran (نزل يا فارس…) yang menyebut nama orang dan ibunya, dengan rangkaian nama dan «الأسم الأعظم»; kemudian «فائدة للحمل»: menulis ayat dan menggantungkannya pada perempuan, lalu berhubungan dengan suaminya. : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: tulisan/rajah baris huruf pada halaman ini; ayat-ayat yang ditulis lalu digantungkan pada perempuan : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M69 — Halaman 69, lanjutan ayat, uji pada ayam, dan dua wafaq
 
@@ -3959,7 +3959,7 @@ Rajah, wafaq, dan lambang pada halaman ini TIDAK digambar ulang di sini; bentuk 
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 70): «حمل حجاب» setelah bersih dari haid, membuat tiga «اطباق» dan menjemurnya di bawah langit, diminum satu setiap hari sebelum berbuka; lalu «إبطال الأسحار»: menulis huruf pada kedua telapak tangan, meletakkannya di atas bakaran, membaca «قال من يحيي العظام وهي رميم» sampai akhir surah Yasin hingga telapak “berbicara”, lalu meletakkannya pada kemaluan agar sihir terurai; ditutup dengan «للحمل» bagi perempuan yang belum hamil dan belum punya anak hidup. : Media: Praktik dari sumber (halaman 70): «حمل حجاب» setelah bersih dari haid, membuat tiga «اطباق» dan menjemurnya di bawah langit, diminum satu setiap hari sebelum berbuka; lalu «إبطال الأسحار»: menulis huruf pada kedua telapak tangan, meletakkannya di atas bakaran, membaca «قال من يحيي العظام وهي رميم» sampai akhir surah Yasin hingga telapak “berbicara”, lalu meletakkannya pada kemaluan agar sihir terurai; ditutup dengan «للحمل» bagi perempuan yang belum hamil dan belum punya anak hidup. : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: langsung sesudah bersih dari haid; satu dari tiga aṭbāq diminum setiap hari sebelum berbuka : Media: tiga aṭbāq yang dijemur di bawah langit; tulisan pada telapak tangan kanan dan kiri : Bukhur: jawi; kabīrah (Terjemahan kanonis menyebutnya “kayu besar”); kundur
 
 ## M71 — Halaman 71, حرف الطاء dan kotak berlambang ط
 
@@ -4027,7 +4027,7 @@ Rajah, wafaq, dan lambang pada halaman ini TIDAK digambar ulang di sini; bentuk 
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 71): «فائدة لعدم سقوط الجنين» — menuliskan huruf ط dan «طسم» 109 kali serta basmalah di sekelilingnya, pada bulan ketiga kehamilan, lalu menggantungkannya pada bayi setelah lahir; disertai kotak bergambar berlambang ط pada enam sisi; dan «فائدة للحمل» dengan menulis ayat pada waktu zuhur, dibakar dengan lemak kambing hitam lalu diminum. : Media: Praktik dari sumber (halaman 71): «فائدة لعدم سقوط الجنين» — menuliskan huruf ط dan «طسم» 109 kali serta basmalah di sekelilingnya, pada bulan ketiga kehamilan, lalu menggantungkannya pada bayi setelah lahir; disertai kotak bergambar berlambang ط pada enam sisi; dan «فائدة للحمل» dengan menulis ayat pada waktu zuhur, dibakar dengan lemak kambing hitam lalu diminum. Yang TIDAK dapat dipastikan: apakah ada huruf/bacaan lain yang tersembunyi di dalam belah ketupat — pada pindaian, bagian tengah hanya berisi bekas tinta samar/tembus pandang dari halaman seberang, bukan tulisan. : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: bulan ketiga kehamilan; waktu Zuhur pada hari yang baik («يَوْمٍ سَعِيدٍ»); diminum sesudah bersih dari haid : Media: huruf ṭā’ dengan «طسم» ditulis 109 kali dan basmalah mengelilinginya; ayat-ayat yang ditulis; bahan dari kambing hitam yang bentuk zatnya tidak dipastikan (Terjemahan kanonis menyebut lemak) : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M72 — Halaman 72, lanjutan tulisan kehamilan dan rajah
 
@@ -5757,6 +5757,8 @@ Rajah, da'irah, dan jadwal angka pada halaman ini TIDAK digambar ulang; bentuk a
 
 «الْمَلِكِ الْمَلِكِ» berulang pada cetakan (kemungkinan «الْمَلِكِ الْوَهَّاب» saja) — saya pertahankan pengulangannya dan menandainya. «الْأَثِيمِ» di sini janggal untuk Allah; kemungkinan salah cetak dari «الْعَظِيم» atau «الْأَمِين» — saya tidak mengubah, karena mengubah nama dalam bacaan bukan wewenang saya.
 
+Pembacaan ulang pindaian asli halaman cetak 104 memberi varian terbatas pada beberapa ungkapan Arab biasa: «بسلطان قوته» (bandingkan teks kanonis «بِسُلْطَانِ قَيُّومِهِ»), «والأنداد» (bandingkan «وَالْأَنْظَارِ»), serta susunan «سبحان المنزل للجبارين … سبحان الملك الوهاب» pada nama kedelapan. Varian ini dicatat sebagai selisih bacaan; Arab, Latin, dan Terjemahan kanonis tidak diganti dalam integrasi selektif ini, dan ejaan nama-nama non-Arab dari paket unggahan tidak diadopsi.
+
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
 Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
@@ -5825,7 +5827,7 @@ kalimat «مُبْتَدِئًا مِنْ يَوْمِ الْأَحَدِ وَا
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 105): أعداد الأسماء — nilai bilangan (hisab jummal) tiap nama menurut klaim penulis, lalu syarat: puasa tiga hari, menyebut nama sesuai bilangan hurufnya sampai pagi, dengan klaim «jawaban» datang «seperti kilat yang menyambar». : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: puasa tiga hari—Ahad, Senin, Selasa atau Selasa, Rabu, Kamis (kedua rangkaian pada cetakan dipertahankan); nama-nama disebut hingga pagi : Media: sepuluh nama yang dibaca menurut bilangan jummal masing-masing (1072, 535, 1403, 1598, 517, 646, 1813, 1314, 908, dan 1598) : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M106 — Halaman 106, klaim kegunaan dan nasihat penulis
 
@@ -5871,7 +5873,7 @@ Rajah, da'irah, dan jadwal angka pada halaman ini TIDAK digambar ulang; bentuk a
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 106): klaim bahwa membaca nama-nama itu pada malam keempat awal bulan memenuhi «segala keperluan dari kebaikan dan keburukan», berguna untuk «menjinakkan batu dan uang», berjalan di atas air, dan «menghilang» (الاختفاء); ditutup nasihat agar dipakai untuk kebaikan saja. : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: «لَيْلَةَ الْأَرْبِعِ» dari awal bulan—dipertahankan ganda sebagai malam keempat atau malam Rabu (الأربعاء) : Media: nama-nama yang dibaca : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M107 — Halaman 107, Fasal Kedua Puluh Satu: nama-nama Nabi Adam
 
@@ -5919,9 +5921,11 @@ Rajah, da'irah, dan jadwal angka pada halaman ini TIDAK digambar ulang; bentuk a
 
 «نَسْفِهَا» cetakan (mungkin «نَسْفِهَا» = menyapu, atau «شَقِّهَا»); «تَجْلِيَةِ أَحَدٍ مَكَانَهُ» = mengangkat seseorang pada tempatnya. Daftar ini adalah klaim kekuatan yang menurut penulis diperoleh dari nama-nama itu; saya catat, tidak menguji dan tidak menyarankan.
 
+Pembacaan ulang pindaian asli halaman cetak 107 mendukung bunyi «عَقِبَ كُلِّ فَرِيضَةٍ عَدَدُ ٢١ مَرَّةً» dalam riyāḍah 11 hari. Bacaan itu berbeda dari klausa Arab kanonis yang rusak dan memuat «١ مَرَّةً»; dalam integrasi selektif ini Lapis 1–3 tidak diganti, sehingga perbedaan tersebut hanya dinyatakan sebagai selisih bacaan. Kata Bukhur dalam klausa yang sama tetap tidak dipastikan.
+
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 107): الفصل الواحد والعشرون — فصل في الأسماء التي كانت مع آدم عليه السلام, yang menurut penulis berpindah dari hikmah ke hikmah sampai ke Ashif bin Barkhiya (yang disebut membawa singgasana Bilqis sekejap mata); dikatakan diambil dari «نقش بطرس ميخائيل»; dengan «رياضة» sebelas hari; lalu pergi ke tanah lapang, memukul tanah dengan telapak tangan, sehingga raja-raja jin hadir. : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: riyāḍah 11 hari; menurut pembacaan pindaian asli, dibaca 21 kali sesudah setiap salat fardu (selisih bacaan dari klausa kanonis yang rusak—lihat Catatan penyunting) : Media: tidak disebutkan dalam sumber unit ini : Bukhur: disebutkan, termasuk rujukan kepada Bukhur yang disebut terdahulu; kata/jenis persisnya tidak dipastikan
 
 ## M108 — Halaman 108, nama penghadir dan «رجال الغيب»
 
@@ -6025,7 +6029,7 @@ Rajah, da'irah, dan jadwal angka pada halaman ini TIDAK digambar ulang; bentuk a
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 109): lanjutan bacaan salam kepada «رجال الغيب» («يَا أَوْتَادُ أَعِيذُونِي…») dan perintah menghadap keperluan; lalu penjelasan bahwa mereka berpindah arah menurut hari dan bulan, dengan da'irah (lingkaran) bergambar berisi arah dan angka yang menjadi rujukan. : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: setiap hari dari setiap bulan; satu dari delapan arah ditentukan menurut hari pada da’irah : Media: da’irah bergambar delapan arah dengan angka Hindi di sekelilingnya : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M110 — Halaman 110, hadis Abu Nu‘aim tentang «abdāl»
 
@@ -6375,7 +6379,7 @@ Rajah, wafaq, dan jadwal angka/huruf pada halaman ini TIDAK digambar ulang; bent
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: Dua bab: (1) «باب لمنع القرينة أم الصبيان» — menulis Basmalah pada kertas putih, menulis huruf abjad (أبجد هوز…) mengelilinginya, menulis «هكذا كهو لهو» seratus kali, menulis «هيا شراهيا أدوناي أصباوث إل شداي» 41 kali, lalu menulis ayat-ayat (al-Kursi, al-Baqarah, at-Taubah, al-Hasyr, al-Hadid, al-Ikhlas, al-Mu‘awwidzatain); (2) «باب آخر للقرينة» untuk perempuan yang keguguran. : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: kertas putih berisi wafaq Basmalah dan huruf-huruf di sekelilingnya; «hākadzā kahwu lahū» ditulis 100 kali; rangkaian «hayyā syarāhiyā…» ditulis 41 kali; ayat-ayat penjagaan, Ayat Kursi, penutup al-Baqarah, at-Taubah, al-Hasyr, dan al-Hadid, ash-Shamadiyyah, serta al-Mu‘awwidzatain : Bukhur: disebutkan untuk fumigasi pada kedua bab, tetapi jenisnya tidak dirinci
 
 ## M117 — Halaman 117, bacaan penangkal dan Ayat Kursi
 
@@ -6575,7 +6579,7 @@ kutipan «لو أنزلنا هذا القرآن على جبل…» adalah QS al-
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: Daftar nama «qarinah» («أم الصبيات» dan lain-lain: بسمله، الراس، طرطر، برفوش، غيوش، مبروش، سلطعونس، جروش، بعدش، سرتاوش، دنوش…) lalu deret huruf dan angka yang panjang; kemudian «بجلب حب القرناء وأم الصبيان»: menulis Surah al-Buruj bersama Surah al-Hadid dengan huruf-huruf terpisah. : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: Surah al-Burūj dan al-Ḥadīd ditulis dalam huruf-huruf terpisah bersama kutipan al-Ḥasyr sampai akhir surah, lalu digantungkan pada anak atau maqrūn : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M121 — Halaman 121, حجاب القرناء dan wafaq Basmalah
 
@@ -6629,7 +6633,7 @@ Rajah, wafaq, dan jadwal angka/huruf pada halaman ini TIDAK digambar ulang; bent
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: Praktik dari sumber (halaman 121): حجاب القرناء — menulis Basmalah pada kertas, menulis huruf abjad mengelilinginya, menulis «هكذا كهو لهو» seratus kali, menulis «هيا شراهيا أدوناي أصباوث إل شداي» 41 kali, menulis ayat-ayat, lalu wafaq 3×3 bergambar berisi «بسم الله الرحمن الرحيم» dan angka-angka (dengan catatan tepi «وفق البسملة»). : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: wafaq Basmalah dengan huruf alif sampai ẓā’ mengelilinginya; «hākadzā kahwu lahū» ditulis 100 kali; rangkaian «hayyā syarāhiyā…» ditulis 41 kali; ayat-ayat penjagaan dan al-Mu‘awwidzatain; wafaq 3×3 bergambar : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M122 — الخاتمة, halaman penutup kitab (tanpa nomor)
 
@@ -6651,7 +6655,7 @@ Penutup. Segala puji bagi Allah yang telah memberiku taufik untuk mengeluarkan k
 
 #### 1. Metode
 
-Praktik: **penutup**. Halaman terakhir berjudul **الخاتمة** (tanpa nomor halaman yang terbaca). Berisi pujian kepada Allah karena telah menyelesaikan kitab, pernyataan penulis bahwa ia tidak dapat mengungkap lebih banyak rahasia, penyebutan dirinya (محمد سامي محمد …), lalu **wasiat** kepada pembaca: berwudu, salat dua rakaat, membaca al-Fatihah sepuluh kali, lalu bertanya kepada «asy-Syaikh» — ditutup «فافهما ترشد» (pahamilah keduanya, engkau akan mendapat petunjuk).
+Praktik: **penutup**. Halaman terakhir berjudul **الخاتمة** (tanpa nomor halaman yang terbaca). Berisi pujian kepada Allah karena telah menyelesaikan kitab dan pernyataan penulis bahwa ia tidak dapat mengungkap lebih banyak rahasia, lalu **wasiat** kepada pembaca sebelum memulai apa pun dalam kitab: salat dua rakaat karena Allah, berselawat kepada Nabi sepuluh kali, kemudian membaca al-Fatihah untuk Syekh Muhammad Sibami — ditutup «فافهما ترشد» (pahamilah keduanya, engkau akan mendapat petunjuk).
 
 #### 2. Penentuan Jam
 

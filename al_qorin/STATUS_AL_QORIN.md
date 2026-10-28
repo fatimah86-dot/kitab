@@ -1,8 +1,10 @@
 # STATUS PELAKSANAAN AL-QORIN — 28 Oktober 2026
 
 Status ini membedakan dengan tegas antara (a) restrukturisasi mekanis 123 unit,
-(b) pilot 12 unit yang diselesaikan manual, dan (c) penyelesaian semantik yang
-belum dikerjakan. **Belum ada klaim 123/123 selesai semantik.**
+(b) pilot 12 unit yang diselesaikan manual, (c) penajaman selektif sebagian
+Lapis 4/5 pada 12 unit sasaran dari paket unggahan 2026-10-28, dan
+(d) penyelesaian semantik menyeluruh yang belum dikerjakan. **Belum ada klaim
+123/123 selesai semantik.**
 
 Acuan terkunci: `../STANDAR_MUTLAK_AL_QORIN_123.md`.
 Dokumen ini adalah revisi terjemahan dokumenter; praktik yang dinisbatkan
@@ -20,6 +22,11 @@ hasil, dan bukan pengganti penanganan medis.
   `ac5ec9fc703df8434ea6c0e0363ecec38fd68dad170200d12d73dfbb4ae4c5c1`.
 - Crop wafaq: **26 berkas JPG presisi yang diunggah pengguna di chat**. FINAL
   KHATAM tidak lagi dipakai sebagai sumber crop.
+- Paket pengganti yang diunggah pengguna pada 2026-10-28 disimpan di
+  `incoming_user_2026-10-28/` sebagai **bahan kandidat/audit**, bukan master.
+  Auditnya menunjukkan MD unggahan hanya mempunyai 89 blok, 0 crop, dan 0
+  label, sedangkan DOCX pendamping hanya benar-benar memuat M104–M109 dalam
+  empat blok; karena itu paket tersebut tidak menimpa master kanonis.
 - Berkas biner Drive tidak di-commit; skrip mengharapkan salinan lokal draf dan
   PDF di `google_drive/` dengan nama yang sama seperti di Drive.
 
@@ -61,8 +68,18 @@ hasil, dan bukan pengganti penanganan medis.
    `REVISI_AL_QORIN_PILOT.md` dan `AL_QORIN_PILOT_5_LAPIS.docx`.
 5. **Master terintegrasi 123 unit** (`scripts/al_qorin_build_integrated.py`):
    12 unit pilot menggantikan versi mekanisnya di
-   `REVISI_AL_QORIN_123.md` setelah test memastikan Arab, Latin, Terjemahan,
-   Metode, Penentuan Jam, tabel, dan nomor crop tidak berubah oleh substitusi.
+   `REVISI_AL_QORIN_123.md` setelah builder memastikan Arab, Latin,
+   Terjemahan, Metode, Penentuan Jam, tabel, dan nomor crop tidak berubah oleh
+   substitusi pilot. Sesudah tahap pilot, builder menerapkan penajaman
+   selektif terbatas dari `overrides_upload_selektif_2026-10-28.json` hanya
+   pada M68, M70, M71, M104, M105, M106, M107, M109, M116, M120, M121, dan
+   M122. Tahap ini hanya boleh mengubah frasa Khususiyah, menambahkan Catatan
+   penyunting pada M104/M107, dan mengoreksi Metode M122 yang semula tidak
+   cocok dengan Arab/Terjemahannya. Snapshot pasca-pilot dipakai untuk
+   menegaskan bahwa heading, nomor halaman, Arab, Latin, Terjemahan,
+   Penentuan Jam, tabel/blok rajah, label yang tertanam dalam teks, dan crop
+   tidak berubah. Dengan pengecualian yang disengaja itu, blok terintegrasi
+   M122 berbeda dari pilot historis hanya pada subbagian Metode.
 6. **Builder Al-Qorin terpisah** (`scripts/build_docx_al_qorin.py`):
    Arab memakai `w:bidi=1` + `w:jc=start`; Latin memakai `w:bidi=0` +
    `w:jc=left`; paragraf crop dan sel tabel memakai `w:jc=center`; tabel
@@ -77,16 +94,20 @@ hasil, dan bukan pengganti penanganan medis.
    `PREVIEW_INDEX_HAL01-65.html`, dibuat di folder `al_qorin/` dengan isi sama;
    berkas root berjudul sama milik Anwar tidak ditimpa.
 8. **Test** (`tests/test_al_qorin_pilot.py`): struktur 123 unit, log
-   penghapusan, manifest/hash crop pengguna, substitusi pilot, DOCX
-   terintegrasi, preview, arah/alignment XML, tabel, media, dan embedding
-   font. Test lama Anwar tetap dijalankan.
+   penghapusan, manifest/hash crop pengguna, substitusi pilot, batas sempit
+   override selektif pasca-pilot, DOCX terintegrasi, preview,
+   arah/alignment XML, tabel, media, dan embedding font. Test lama Anwar
+   tetap dijalankan; seluruh 18 test lulus sesudah integrasi selektif.
 
 ## Yang belum selesai
 
-- Penyelesaian semantik manual untuk 111 unit di luar pilot: perapian Metode
-  mengikuti gaya HALAMAN 07, kurasi akhir Catatan penyunting, Khususiyah
-  tingkat frasa, dan pemeriksaan ulang Penentuan Jam terhadap Arab serta
-  pindai halaman — per batch, bukan klaim massal.
+- Penyelesaian semantik manual menyeluruh di luar pilot masih belum selesai:
+  perapian Metode mengikuti gaya HALAMAN 07, kurasi akhir Catatan penyunting,
+  Khususiyah tingkat frasa, dan pemeriksaan ulang Penentuan Jam terhadap Arab
+  serta pindai halaman harus diteruskan per batch. Penajaman selektif pada
+  sembilan unit non-pilot dalam daftar sasaran hanya menyentuh frasa/catatan
+  tertentu dan tidak menandai unit-unit itu selesai semantik; selisih bacaan
+  M104 dan M107 juga sengaja belum dipakai untuk mengganti Lapis 1–3.
 - Pemetaan halaman cetak individual M01–M04 belum dibuktikan; tidak ada crop
   pada rentang itu. Untuk M05–M121 nomor unit sama dengan halaman cetak, dan
   M122 adalah penutup tanpa nomor terbaca.

@@ -1,0 +1,96 @@
+{
+  "versi": 1,
+  "tanggal": "2026-10-28",
+  "deskripsi": "Integrasi selektif pasca-pilot dari paket unggahan pengguna. Hanya penajaman Lapis 4/5 yang dapat diverifikasi terhadap Arab, Latin, Terjemahan, Metode, dan Catatan penyunting kanonis atau terhadap pindaian kitab asli yang diterima. Berkas ini tidak mengizinkan perubahan Arab, Latin, Terjemahan, Penentuan Jam, tabel, heading, nomor halaman, atau crop.",
+  "batas": {
+    "lapis_1_3_dilarang_berubah": true,
+    "penentuan_jam_dilarang_berubah": true,
+    "metode_hanya_unit": ["M122"],
+    "catatan_hanya_ditambah": true
+  },
+  "units": {
+    "M68": {
+      "dasar": "Arab/Terjemahan kanonis menyebut ayat-ayat ditulis dan digantungkan pada perempuan.",
+      "khususiyah": {
+        "media": "tulisan/rajah baris huruf pada halaman ini; ayat-ayat yang ditulis lalu digantungkan pada perempuan"
+      }
+    },
+    "M70": {
+      "dasar": "Arab/Terjemahan kanonis menyebut penggunaan sesudah bersih dari haid, tiga aṭbāq diminum satu setiap hari sebelum berbuka, tulisan pada kedua telapak, dan Bukhur jawi, kabīrah, kundur.",
+      "khususiyah": {
+        "waktu": "langsung sesudah bersih dari haid; satu dari tiga aṭbāq diminum setiap hari sebelum berbuka",
+        "media": "tiga aṭbāq yang dijemur di bawah langit; tulisan pada telapak tangan kanan dan kiri",
+        "bukhur": "jawi; kabīrah (Terjemahan kanonis menyebutnya “kayu besar”); kundur"
+      }
+    },
+    "M71": {
+      "dasar": "Arab/Terjemahan/Catatan kanonis menyebut bulan ketiga kehamilan, waktu Zuhur, yawm sa‘īd, dan pemakaian sesudah bersih dari haid; bentuk zat dari kambing hitam dipertahankan tidak pasti.",
+      "khususiyah": {
+        "waktu": "bulan ketiga kehamilan; waktu Zuhur pada hari yang baik («يَوْمٍ سَعِيدٍ»); diminum sesudah bersih dari haid",
+        "media": "huruf ṭā’ dengan «طسم» ditulis 109 kali dan basmalah mengelilinginya; ayat-ayat yang ditulis; bahan dari kambing hitam yang bentuk zatnya tidak dipastikan (Terjemahan kanonis menyebut lemak)"
+      }
+    },
+    "M104": {
+      "dasar": "Pembacaan ulang pindaian asli halaman cetak 104 hanya mendukung varian terbatas pada ungkapan Arab biasa; nama-nama non-Arab tidak diganti.",
+      "catatan_tambah": [
+        "Pembacaan ulang pindaian asli halaman cetak 104 memberi varian terbatas pada beberapa ungkapan Arab biasa: «بسلطان قوته» (bandingkan teks kanonis «بِسُلْطَانِ قَيُّومِهِ»), «والأنداد» (bandingkan «وَالْأَنْظَارِ»), serta susunan «سبحان المنزل للجبارين … سبحان الملك الوهاب» pada nama kedelapan. Varian ini dicatat sebagai selisih bacaan; Arab, Latin, dan Terjemahan kanonis tidak diganti dalam integrasi selektif ini, dan ejaan nama-nama non-Arab dari paket unggahan tidak diadopsi."
+      ]
+    },
+    "M105": {
+      "dasar": "Arab/Terjemahan kanonis memuat dua rangkaian tiga hari yang bersamaan tercetak, bilangan jummal tiap nama, dan penyebutan sampai pagi; bilangan itu tidak dijumlahkan menjadi Penentuan Jam.",
+      "khususiyah": {
+        "waktu": "puasa tiga hari—Ahad, Senin, Selasa atau Selasa, Rabu, Kamis (kedua rangkaian pada cetakan dipertahankan); nama-nama disebut hingga pagi",
+        "media": "sepuluh nama yang dibaca menurut bilangan jummal masing-masing (1072, 535, 1403, 1598, 517, 646, 1813, 1314, 908, dan 1598)"
+      }
+    },
+    "M106": {
+      "dasar": "Arab dan Catatan penyunting kanonis mempertahankan keraguan antara malam keempat dan malam Rabu dari awal bulan.",
+      "khususiyah": {
+        "waktu": "«لَيْلَةَ الْأَرْبِعِ» dari awal bulan—dipertahankan ganda sebagai malam keempat atau malam Rabu (الأربعاء)",
+        "media": "nama-nama yang dibaca"
+      }
+    },
+    "M107": {
+      "dasar": "Pindaian asli halaman cetak 107 mendukung bacaan 21 kali sesudah setiap salat fardu dalam riyāḍah 11 hari, sedangkan klausa kanonis rusak dan kata Bukhur tidak pasti.",
+      "catatan_tambah": [
+        "Pembacaan ulang pindaian asli halaman cetak 107 mendukung bunyi «عَقِبَ كُلِّ فَرِيضَةٍ عَدَدُ ٢١ مَرَّةً» dalam riyāḍah 11 hari. Bacaan itu berbeda dari klausa Arab kanonis yang rusak dan memuat «١ مَرَّةً»; dalam integrasi selektif ini Lapis 1–3 tidak diganti, sehingga perbedaan tersebut hanya dinyatakan sebagai selisih bacaan. Kata Bukhur dalam klausa yang sama tetap tidak dipastikan."
+      ],
+      "khususiyah": {
+        "waktu": "riyāḍah 11 hari; menurut pembacaan pindaian asli, dibaca 21 kali sesudah setiap salat fardu (selisih bacaan dari klausa kanonis yang rusak—lihat Catatan penyunting)",
+        "bukhur": "disebutkan, termasuk rujukan kepada Bukhur yang disebut terdahulu; kata/jenis persisnya tidak dipastikan"
+      }
+    },
+    "M109": {
+      "dasar": "Arab/Terjemahan kanonis menyebut posisi harian dalam salah satu dari delapan arah, diketahui dari da’irah dan angka Hindi di sekelilingnya.",
+      "khususiyah": {
+        "waktu": "setiap hari dari setiap bulan; satu dari delapan arah ditentukan menurut hari pada da’irah",
+        "media": "da’irah bergambar delapan arah dengan angka Hindi di sekelilingnya"
+      }
+    },
+    "M116": {
+      "dasar": "Arab kanonis pada kedua bab memakai bentuk fumigasi وَيُبَخِّرُ/وَيُبَخَّرُ, tetapi tidak memberi jenis Bukhur; kertas dan isi tulisan dirinci pada Arab/Terjemahan.",
+      "khususiyah": {
+        "media": "kertas putih berisi wafaq Basmalah dan huruf-huruf di sekelilingnya; «hākadzā kahwu lahū» ditulis 100 kali; rangkaian «hayyā syarāhiyā…» ditulis 41 kali; ayat-ayat penjagaan, Ayat Kursi, penutup al-Baqarah, at-Taubah, al-Hasyr, dan al-Hadid, ash-Shamadiyyah, serta al-Mu‘awwidzatain",
+        "bukhur": "disebutkan untuk fumigasi pada kedua bab, tetapi jenisnya tidak dirinci"
+      }
+    },
+    "M120": {
+      "dasar": "Arab/Terjemahan kanonis menyebut al-Burūj dan al-Ḥadīd ditulis huruf demi huruf terpisah bersama kutipan sampai akhir surah, lalu digantungkan pada anak atau maqrūn.",
+      "khususiyah": {
+        "media": "Surah al-Burūj dan al-Ḥadīd ditulis dalam huruf-huruf terpisah bersama kutipan al-Ḥasyr sampai akhir surah, lalu digantungkan pada anak atau maqrūn"
+      }
+    },
+    "M121": {
+      "dasar": "Arab/Terjemahan kanonis menyebut wafaq Basmalah, huruf alif sampai ẓā’, dua hitungan tulisan 100 dan 41, ayat penjagaan, al-Mu‘awwidzatain, dan wafaq 3×3 bergambar.",
+      "khususiyah": {
+        "media": "wafaq Basmalah dengan huruf alif sampai ẓā’ mengelilinginya; «hākadzā kahwu lahū» ditulis 100 kali; rangkaian «hayyā syarāhiyā…» ditulis 41 kali; ayat-ayat penjagaan dan al-Mu‘awwidzatain; wafaq 3×3 bergambar"
+      }
+    },
+    "M122": {
+      "dasar": "Arab/Terjemahan kanonis pada penutup menyebut salat dua rakaat, selawat kepada Nabi sepuluh kali, lalu al-Fatihah untuk Syekh Muhammad Sibami; ringkasan Metode lama keliru menyebut wudu, al-Fatihah sepuluh kali, dan bertanya kepada asy-Syaikh.",
+      "metode": [
+        "Praktik: **penutup**. Halaman terakhir berjudul **الخاتمة** (tanpa nomor halaman yang terbaca). Berisi pujian kepada Allah karena telah menyelesaikan kitab dan pernyataan penulis bahwa ia tidak dapat mengungkap lebih banyak rahasia, lalu **wasiat** kepada pembaca sebelum memulai apa pun dalam kitab: salat dua rakaat karena Allah, berselawat kepada Nabi sepuluh kali, kemudian membaca al-Fatihah untuk Syekh Muhammad Sibami — ditutup «فافهما ترشد» (pahamilah keduanya, engkau akan mendapat petunjuk)."
+      ]
+    }
+  }
+}

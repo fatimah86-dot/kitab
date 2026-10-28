@@ -51,6 +51,25 @@ def unit_blocks(md):
     return blocks
 
 
+def subsection(block, heading):
+    m = re.search(
+        rf"^#### {re.escape(heading)}\n(.*?)(?=^#### |^### |\Z)",
+        block,
+        flags=re.M | re.S,
+    )
+    return m.group(1).strip() if m else None
+
+
+def without_subsection(block, heading):
+    return re.sub(
+        rf"(^#### {re.escape(heading)}\n)(.*?)(?=^#### |^### |\Z)",
+        rf"\1<removed-for-comparison>\n",
+        block,
+        count=1,
+        flags=re.M | re.S,
+    )
+
+
 def deobfuscate(data, guid):
     key = bytes.fromhex(guid.strip("{}").replace("-", ""))
     key32 = key[::-1] + key[::-1]
@@ -90,7 +109,36 @@ class MarkdownStructureTests(unittest.TestCase):
         self.assert_block_shape(self.integrated_blocks)
         integrated_by_id = {u: b.strip() for u, _h, b in self.integrated_blocks}
         for uid, _h, block in self.pilot_blocks:
-            self.assertEqual(integrated_by_id[uid], block.strip(), uid)
+            integrated = integrated_by_id[uid]
+            pilot = block.strip()
+            if uid != "M122":
+                self.assertEqual(integrated, pilot, uid)
+                continue
+
+            # Deliberate post-pilot exception: the historical pilot remains
+            # unchanged, while integrated M122 may differ only inside its
+            # Metode subsection. The old summary contradicted M122's own
+            # preserved Arab/Terjemahan.
+            self.assertEqual(
+                without_subsection(integrated, "1. Metode"),
+                without_subsection(pilot, "1. Metode"),
+                uid,
+            )
+            integrated_metode = subsection(integrated, "1. Metode")
+            pilot_metode = subsection(pilot, "1. Metode")
+            self.assertNotEqual(integrated_metode, pilot_metode, uid)
+            for phrase in (
+                "salat dua rakaat",
+                "berselawat kepada Nabi sepuluh kali",
+                "al-Fatihah untuk Syekh Muhammad Sibami",
+            ):
+                self.assertIn(phrase, integrated_metode, uid)
+            for phrase in (
+                "berwudu",
+                "al-Fatihah sepuluh kali",
+                "bertanya kepada",
+            ):
+                self.assertNotIn(phrase, integrated_metode, uid)
 
     def test_full_logged_deletions_and_preserved_labels(self):
         self.assertFalse(any(line.strip().startswith("Qarinah ") for line in self.full.splitlines()))
@@ -142,6 +190,103 @@ class MarkdownStructureTests(unittest.TestCase):
             src = revised[u["unit_id"]]
             for key in ("arab", "latin", "terjemahan", "metode", "rajah_blocks", "jam"):
                 self.assertEqual(u[key], src[key], (u["unit_id"], key))
+
+    def test_selective_upload_overrides_are_narrow_when_work_data_present(self):
+        override_path = ALQ / "overrides_upload_selektif_2026-10-28.json"
+        payload = json.loads(override_path.read_text(encoding="utf-8"))
+        selective = payload["units"]
+        expected_units = {
+            "M68", "M70", "M71", "M104", "M105", "M106", "M107", "M109",
+            "M116", "M120", "M121", "M122",
+        }
+        self.assertEqual(set(selective), expected_units)
+        for uid, entry in selective.items():
+            self.assertLessEqual(
+                set(entry),
+                {"dasar", "khususiyah", "catatan_tambah", "metode"},
+                uid,
+            )
+            self.assertTrue(str(entry.get("dasar", "")).strip(), uid)
+            if "metode" in entry:
+                self.assertEqual(uid, "M122")
+            if "khususiyah" in entry:
+                self.assertLessEqual(
+                    set(entry["khususiyah"]),
+                    {"waktu", "media", "bukhur"},
+                    uid,
+                )
+
+        revised_path = ALQ / "work/revised_units.json"
+        pilot_path = ALQ / "work/pilot_units.json"
+        integrated_path = ALQ / "work/integrated_units.json"
+        if not (revised_path.exists() and pilot_path.exists() and integrated_path.exists()):
+            self.skipTest("ignored work JSON not present in this checkout")
+
+        # Reconstruct the exact post-pilot baseline: revised mechanical units
+        # with the historical pilot units substituted, before selective edits.
+        baseline = {
+            u["unit_id"]: json.loads(json.dumps(u, ensure_ascii=False))
+            for u in json.loads(revised_path.read_text(encoding="utf-8"))
+        }
+        for u in json.loads(pilot_path.read_text(encoding="utf-8")):
+            baseline[u["unit_id"]] = json.loads(json.dumps(u, ensure_ascii=False))
+        integrated = {
+            u["unit_id"]: u
+            for u in json.loads(integrated_path.read_text(encoding="utf-8"))
+        }
+        order = ["SAMPUL"] + [f"M{i:02d}" for i in range(1, 123)]
+        self.assertEqual(set(integrated), set(order))
+
+        change_keys = {"metode", "catatan_penyunting", "khususiyah"}
+        for uid in order:
+            base = baseline[uid]
+            current = integrated[uid]
+            if uid not in expected_units:
+                self.assertEqual(current, base, uid)
+                continue
+
+            for key, value in base.items():
+                if key not in change_keys:
+                    self.assertEqual(current[key], value, (uid, key))
+            self.assertEqual(current["jam"], base["jam"], uid)
+
+            entry = selective[uid]
+            self.assertEqual(
+                current["catatan_penyunting"],
+                base["catatan_penyunting"] + list(entry.get("catatan_tambah", [])),
+                uid,
+            )
+            expected_khususiyah = dict(base["khususiyah"])
+            expected_khususiyah.update(entry.get("khususiyah", {}))
+            self.assertEqual(current["khususiyah"], expected_khususiyah, uid)
+            if uid == "M122":
+                self.assertEqual(current["metode"], entry["metode"], uid)
+                self.assertNotEqual(current["metode"], base["metode"], uid)
+            else:
+                self.assertEqual(current["metode"], base["metode"], uid)
+
+        # Guard the two scan-discrepancy notes and the rejected candidate
+        # arithmetic. M105's per-name jummal counts remain counts, not an
+        # invented hour calculation.
+        self.assertEqual(
+            integrated["M104"]["catatan_penyunting"][-1],
+            selective["M104"]["catatan_tambah"][0],
+        )
+        self.assertEqual(
+            integrated["M107"]["catatan_penyunting"][-1],
+            selective["M107"]["catatan_tambah"][0],
+        )
+        self.assertIn("21 kali", integrated["M107"]["khususiyah"]["waktu"])
+        self.assertIn(
+            "kata/jenis persisnya tidak dipastikan",
+            integrated["M107"]["khususiyah"]["bukhur"],
+        )
+        self.assertEqual(integrated["M105"]["jam"], [NO_CALC])
+        self.assertIn(
+            "1072, 535, 1403, 1598, 517, 646, 1813, 1314, 908, dan 1598",
+            integrated["M105"]["khususiyah"]["media"],
+        )
+        self.assertNotIn("11004", " ".join(integrated["M105"]["jam"]))
 
 
 class IntegratedDocxTests(unittest.TestCase):
