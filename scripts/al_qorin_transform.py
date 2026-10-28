@@ -199,6 +199,54 @@ def render_table(rows):
     body = ["| " + " | ".join(r) + " |" for r in rows[1:]]
     return "\n".join([head, sep] + body)
 
+
+# Conditional layer limits — user decision 2026-10-28 (amendment recorded in
+# STANDAR_MUTLAK_AL_QORIN_123.md). The keyword heuristic in the instruction
+# (SAMPUL markers / muqodimah-Khatimah markers / amalan verbs) is NOT applied
+# mechanically: measured over the vocalized canonical Arab it misclassifies
+# (e.g. M122 وَفَّقَنِي contains "وفق"; crop units M58/M85/M98 lack the listed
+# verbs; 72 units match no category). Classification is therefore this fixed,
+# evidence-checked map:
+#   SAMPUL -> layers 1-3 only. Cover text (القرين والرياضات / تأليف / دار الفكر);
+#             its genuine editor notes are relocated to the end of layer 3 so
+#             nothing is silently deleted (user decision).
+#   M01    -> layers 1-4 only. Explicit مُقَدِّمَةٌ with بسم الله / الحمد لله and
+#             no تكتب; only its empty Khususiyah layer is omitted.
+#   M122   -> layers 1-4 only. الخاتمة with الحمد لله and no تكتب; only its empty
+#             Khususiyah layer is omitted.
+# Every other unit renders the full five layers. Unit JSON keeps all fields;
+# only Markdown rendering is limited.
+LAYER_LIMITS = {"SAMPUL": 3, "M01": 4, "M122": 4}
+SAMPUL_NOTE_PREFIX = "Catatan penyunting sampul: "
+
+
+def render_unit_md(u):
+    limit = LAYER_LIMITS.get(u["unit_id"], 5)
+    md = [f"## {u['heading']}", "", "### 1. Arab", ""]
+    md += [x + "\n" for x in u["arab"]]
+    md += ["### 2. Latin", ""] + [x + "\n" for x in u["latin"]]
+    Terjemahan = list(u["terjemahan"])
+    if limit == 3:
+        Terjemahan += [SAMPUL_NOTE_PREFIX + n for n in u["catatan_penyunting"]]
+    md += ["### 3. Terjemahan", ""] + [x + "\n" for x in Terjemahan]
+    if limit >= 4:
+        md += ["### 4. Metode, Penentuan Jam, dan Catatan Penyunting", "", "#### 1. Metode", ""]
+        md += [x + "\n" for x in u["metode"]]
+        if u["crop_page"]:
+            md += [f"![Crop halaman {u['crop_page']}](wafaq_qorin/{u['crop_page']}.jpg)", "",
+                   f"[Crop halaman {u['crop_page']} — {u['crop_caption']}]", ""]
+        for blk in u["rajah_blocks"]:
+            for b in blk:
+                md += [b["md"] + "\n"] if b["type"] == "p" else [render_table(b["rows"]), ""]
+        md += ["#### 2. Penentuan Jam", ""] + [x + "\n" for x in u["jam"]]
+        md += ["#### Catatan penyunting", ""]
+        md += [x + "\n" for x in u["catatan_penyunting"]] or ["Tidak ada catatan penyunting tambahan pada unit ini.\n"]
+    if limit >= 5:
+        k = u["khususiyah"]
+        md += ["### 5. Khususiyah — Waktu : Media : Bukhur", "",
+               f"Waktu: {k['waktu']} : Media: {k['media']} : Bukhur: {k['bukhur']}", ""]
+    return md
+
 def main():
     header, units = parse()
     assert len(units) == 123, len(units)
@@ -270,30 +318,14 @@ def main():
     if len(head_plain) >= 4:
         md += ["> Catatan sumber (apa adanya): " + head_plain[2], "> " + head_plain[3], ""]
     for u in out_units:
-        md += [f"## {u['heading']}", "", "### 1. Arab", ""]
-        md += [x + "\n" for x in u["arab"]]
-        md += ["### 2. Latin", ""] + [x + "\n" for x in u["latin"]]
-        md += ["### 3. Terjemahan", ""] + [x + "\n" for x in u["terjemahan"]]
-        md += ["### 4. Metode, Penentuan Jam, dan Catatan Penyunting", "", "#### 1. Metode", ""]
-        md += [x + "\n" for x in u["metode"]]
-        if u["crop_page"]:
-            md += [f"![Crop halaman {u['crop_page']}](wafaq_qorin/{u['crop_page']}.jpg)", "",
-                   f"[Crop halaman {u['crop_page']} — {u['crop_caption']}]", ""]
-        for blk in u["rajah_blocks"]:
-            for b in blk:
-                md += [b["md"] + "\n"] if b["type"] == "p" else [render_table(b["rows"]), ""]
-        md += ["#### 2. Penentuan Jam", ""] + [x + "\n" for x in u["jam"]]
-        md += ["#### Catatan penyunting", ""]
-        md += [x + "\n" for x in u["catatan_penyunting"]] or ["Tidak ada catatan penyunting tambahan pada unit ini.\n"]
-        k = u["khususiyah"]
-        md += ["### 5. Khususiyah — Waktu : Media : Bukhur", "",
-               f"Waktu: {k['waktu']} : Media: {k['media']} : Bukhur: {k['bukhur']}", ""]
+        md += render_unit_md(u)
     text = "\n".join(md)
     OUT_MD.write_text(text, encoding="utf-8")
     # ----- log -----
     qlines = [l for l in text.splitlines() if l.strip().startswith("Qarinah ")]
     log = ["# LOG RESTRUKTUR AWAL AL-QORIN (mekanis, terlog)", "",
-           f"- Unit: {len(out_units)}; lapis per unit: 5 (baru).",
+           f"- Unit: {len(out_units)}; lapis per unit: 5, kecuali SAMPUL 3 serta M01/M122 4 "
+           "(aturan lapis kondisional 2026-10-28) = 611 lapis tampil.",
            f"- Paragraf mandiri Qarinah dihapus: L4 lama {stats['q_standalone_l4']} + L5 lama {stats['q_standalone_l5']} = {stats['q_standalone_l4']+stats['q_standalone_l5']}.",
            f"- Kalimat Qarinah sebaris yang dibuang dari paragraf campuran: {stats['q_inline_sentences']}.",
            f"- Baris hasil yang masih diawali 'Qarinah ': {len(qlines)}.",

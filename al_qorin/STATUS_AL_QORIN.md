@@ -45,7 +45,9 @@ hasil, dan bukan pengganti penanganan medis.
    dikeluarkan dari pohon kerja saat ini.
 3. **Restrukturisasi mekanis terlog** (`scripts/al_qorin_transform.py`) menjadi
    `REVISI_AL_QORIN_123_KERJA.md`:
-   - 123 unit × 5 lapis baru dalam urutan terkunci.
+   - 123 unit × 5 lapis baru dalam urutan terkunci (sejak amandemen lapis
+     kondisional 2026-10-28: SAMPUL tampil 3 lapis, M01 dan M122 tampil
+     4 lapis, sehingga total judul lapis tampil 611; data JSON tidak berubah).
    - Paragraf mandiri Qarinah yang dihapus: 569 (284 qabliah + 284 ba‘diah +
      1 paragraf gabungan di M01), ditambah 3 kalimat Qarinah sebaris dari
      paragraf campuran. Basis hitung terhadap angka perintah “288 paragraf”
@@ -89,7 +91,7 @@ hasil, dan bukan pengganti penanganan medis.
    DOCX dan membandingkannya dengan TTF lokal. Keluaran utama:
    `AL_QORIN_REVISI_123_5_LAPIS.docx`.
 7. **Preview HTML** (`scripts/build_preview_al_qorin.py`):
-   `PREVIEW_INDEX_AL_QORIN_123.html` memuat 123 artikel, 615 lapis, dan 26
+   `PREVIEW_INDEX_AL_QORIN_123.html` memuat 123 artikel, 611 lapis tampil, dan 26
    figure crop pengguna. Alias yang diminta,
    `PREVIEW_INDEX_HAL01-65.html`, dibuat di folder `al_qorin/` dengan isi sama;
    berkas root berjudul sama milik Anwar tidak ditimpa.
@@ -97,7 +99,17 @@ hasil, dan bukan pengganti penanganan medis.
    penghapusan, manifest/hash crop pengguna, substitusi pilot, batas sempit
    override selektif pasca-pilot, DOCX terintegrasi, preview,
    arah/alignment XML, tabel, media, dan embedding font. Test lama Anwar
-   tetap dijalankan; seluruh 18 test lulus sesudah integrasi selektif.
+   tetap dijalankan; seluruh 19 test lulus sesudah integrasi selektif dan
+   amandemen lapis kondisional.
+9. **Amandemen lapis kondisional + arsip unggahan M65** (2026-10-28): sesuai
+   keputusan pengguna, SAMPUL kini tampil 3 lapis (empat catatan sampul
+   dipindah ke akhir Lapis 3), M01 (Muqodimah) dan M122 (Khatimah) tampil
+   4 lapis, dan 120 unit lain tetap 5 lapis; diterapkan reproduksibel lewat
+   `LAYER_LIMITS`/`render_unit_md` bersama di `scripts/al_qorin_transform.py`.
+   Dua DOCX M65 dan gambar Khatam Sulaiman dari sesi lain diaudit lalu
+   diarsipkan di `incoming_user_2026-10-28/` (lihat `AUDIT_M65_UPLOAD.md`)
+   tanpa menimpa M65 kanonis, yang sudah memuat crop yang sama pada resolusi
+   lebih tinggi.
 
 ## Yang belum selesai
 

@@ -18,7 +18,7 @@ Output: al_qorin/REVISI_AL_QORIN_123.md and al_qorin/work/integrated_units.json
 import copy
 import json
 from pathlib import Path
-from al_qorin_transform import render_table
+from al_qorin_transform import render_table, render_unit_md
 
 ROOT = Path(__file__).resolve().parents[1]
 work = ROOT / "al_qorin/work"
@@ -166,30 +166,15 @@ md = ["# AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL", "",
       "restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, "
       "penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari "
       "paket unggahan 2026-10-28; unit lain masih menunggu penyelesaian semantik per batch. Crop "
-      "wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM.", "",
+      "wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis "
+      "kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), "
+      "M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.", "",
       "> Dokumen ini adalah revisi terjemahan dokumenter. Metode yang dinisbatkan kepada penulis "
       "kitab tidak disajikan sebagai anjuran, terapi, atau jaminan hasil, dan bukan pengganti "
       "penanganan medis.", ""]
 md += source_header + [""]
 for u in units:
-    md += [f"## {u['heading']}", "", "### 1. Arab", ""]
-    md += [x + "\n" for x in u["arab"]]
-    md += ["### 2. Latin", ""] + [x + "\n" for x in u["latin"]]
-    md += ["### 3. Terjemahan", ""] + [x + "\n" for x in u["terjemahan"]]
-    md += ["### 4. Metode, Penentuan Jam, dan Catatan Penyunting", "", "#### 1. Metode", ""]
-    md += [x + "\n" for x in u["metode"]]
-    if u["crop_page"]:
-        md += [f"![Crop halaman {u['crop_page']}](wafaq_qorin/{u['crop_page']}.jpg)", "",
-               f"[Crop halaman {u['crop_page']} — {u['crop_caption']}]", ""]
-    for blk in u["rajah_blocks"]:
-        for b in blk:
-            md += [b["md"] + "\n"] if b["type"] == "p" else [render_table(b["rows"]), ""]
-    md += ["#### 2. Penentuan Jam", ""] + [x + "\n" for x in u["jam"]]
-    md += ["#### Catatan penyunting", ""]
-    md += [x + "\n" for x in u["catatan_penyunting"]] or ["Tidak ada catatan penyunting tambahan pada unit ini.\n"]
-    k = u["khususiyah"]
-    md += ["### 5. Khususiyah — Waktu : Media : Bukhur", "",
-           f"Waktu: {k['waktu']} : Media: {k['media']} : Bukhur: {k['bukhur']}", ""]
+    md += render_unit_md(u)
 
 (ROOT / "al_qorin/REVISI_AL_QORIN_123.md").write_text("\n".join(md), encoding="utf-8")
 print(

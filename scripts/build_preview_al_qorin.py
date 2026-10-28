@@ -64,14 +64,16 @@ for idx, (heading, block) in enumerate(blocks):
         layer_html.append(
             f'<section dir="{direction}" class="{cls}"><h3 dir="ltr">{html.escape(name)}</h3>{content}</section>'
         )
-    assert len(layer_html) == 5, (uid, len(layer_html))
+    # Conditional layer rule (2026-10-28): SAMPUL 3 layers, M01/M122 4, rest 5.
+    expected_layers = {"SAMPUL": 3, "M01": 4, "M122": 4}.get(uid, 5)
+    assert len(layer_html) == expected_layers, (uid, len(layer_html), expected_layers)
     hidden = "" if idx == 0 else " hidden"
     articles.append(
         f'<article id="{slug}" data-idx="{idx}"{hidden}><h2 dir="ltr">{html.escape(heading)}</h2>'
         + "".join(layer_html) + "</article>"
     )
 
-assert total_layers == 615, total_layers
+assert total_layers == 611, total_layers
 assert fig_n == 26, fig_n
 
 out = f"""<!doctype html>
@@ -103,7 +105,7 @@ article[hidden]{{display:none}}footer{{max-width:980px;margin:24px auto;padding:
 <header>
 <h1>Al-Qorin war Riyadhah · Preview Revisi 123 Artikel</h1>
 <nav><button type="button" onclick="go(cur-1)">←</button><select id="sel" onchange="go(+this.value)">{''.join(nav_options)}</select><button type="button" onclick="go(cur+1)">→</button><a href="AL_QORIN_REVISI_123_5_LAPIS.docx" download>Unduh DOCX</a><a href="REVISI_AL_QORIN_123.md">Master Markdown</a></nav>
-<small>SAMPUL + M01–M122 · 5 lapis per unit · crop wafaq presisi kiriman pengguna.</small>
+<small>SAMPUL + M01–M122 · 5 lapis per unit (SAMPUL 3 lapis, M01 &amp; M122 4 lapis) · crop wafaq presisi kiriman pengguna.</small>
 </header>
 <main>
 <div class="notice" dir="ltr"><strong>Status:</strong> build terintegrasi 123 unit; 12 unit pilot telah dikurasi manual, lalu penajaman selektif Lapis 4/5 yang terverifikasi diterapkan hanya pada 12 unit sasaran dari paket unggahan 2026-10-28. Unit lain masih menunggu penyelesaian semantik per batch. Isi dinisbatkan kepada penulis kitab dan disajikan sebagai dokumen terjemahan—bukan anjuran, terapi, atau jaminan hasil.</div>

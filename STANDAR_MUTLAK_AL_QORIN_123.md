@@ -28,6 +28,19 @@ Berkas lain di Drive (`KITAB AL-QORIN - EDISI REVISI LENGKAP 5 LAPIS - FINAL KHA
   4. **Lapis 4 — 1. Metode / 2. Penentuan Jam / Catatan penyunting**
   5. **Lapis 5 — Khususiyah — Waktu : Media : Bukhur**
 - Urutan lapis tidak boleh ditukar. Lapis kosong tidak boleh dibiarkan tanpa keterangan baku (lihat aturan “tidak ada …” pada §3).
+- **Amandemen aturan lapis kondisional (keputusan pengguna, 2026-10-28):** tiga unit
+  dikecualikan dari kewajiban 5 lapis berdasarkan jenis isinya yang terbukti dari teks:
+  **SAMPUL hanya Lapis 1–3** (teks sampul: القرين والرياضات / تأليف / دار الفكر; catatan
+  penyunting sampul tidak dibuang, melainkan dipindah ke akhir Lapis 3 dengan penanda
+  “Catatan penyunting sampul:”), **M01 hanya Lapis 1–4** (Muqodimah — berjudul eksplisit
+  مُقَدِّمَةٌ, memuat بسم الله/الحمد لله, tanpa تكتب), dan **M122 hanya Lapis 1–4**
+  (Khatimah — الخاتمة, tanpa تكتب). Untuk M01/M122 yang dihilangkan hanya Lapis 5 yang
+  seluruh isinya “tidak disebutkan”; Metode dan Catatan penyunting tetap tampil penuh.
+  Klasifikasi ini adalah daftar tetap terverifikasi, **bukan** uji kata kunci mekanis:
+  pengujian harfiah atas Arab kanonis terbukti menyesatkan (mis. وَفَّقَنِي di M122 memuat
+  “وفق”; unit bercrop M58/M85/M98 tidak memuat kata kerja daftar; 72 unit tidak masuk
+  kategori mana pun). 120 unit lain tetap 5 lapis; total judul lapis tampil = **611**.
+  Data JSON unit tidak berubah — pembatasan hanya pada render Markdown/DOCX/HTML.
 
 ### Pemetaan dari judul lapis lama di draf (agar tidak mengarang)
 
@@ -123,7 +136,7 @@ Waktu: … : Media: … : Bukhur: …   <hanya yang disebut sumber unit>
 ## 7. Gerbang periksa (gagal satu = belum selesai)
 
 1. Jumlah unit = **123** (SAMPUL + M01–M122, berurutan, tanpa ganda/hilang).
-2. Setiap unit tepat **5 lapis** berurutan sesuai §1 (total judul lapis = **615**).
+2. Setiap unit tepat **5 lapis** berurutan sesuai §1, kecuali pengecualian kondisional §1 (SAMPUL 3 lapis; M01 dan M122 4 lapis), sehingga total judul lapis tampil = **611**.
 3. Blok **Qarinah qabliah/ba‘diah = 0**; laporan hitung sebelum–sesudah dilampirkan (termasuk penjelasan selisih 285 vs 288).
 4. `[CATATAN PENERJEMAH` tetap **25×** dengan bunyi sama (atau selisihnya dicatat & disetujui).
 5. Setiap unit dengan angka memakai format `penjumlahan … = …, bukan …`; setiap unit tanpa angka memuat persis `«tidak ada hitungan di halaman ini»`; tidak ada unit yang keduanya/mengarang.
@@ -137,3 +150,4 @@ Waktu: … : Media: … : Bukhur: …   <hanya yang disebut sumber unit>
 
 - 2026-10-28 — Standar diterima dari pengguna dan dikunci menjadi berkas ini **sebelum** penerjemahan/revisi apa pun. Pada tanggal ini Google Doc sumber hanya **dibaca** (metadata, ekstraksi teks, pencarian hitung); belum ada suntingan.
 - 2026-10-28 — Pengguna menegaskan sumber crop: 26 berkas crop presisi unggahan pengguna menggantikan ekstraksi FINAL KHATAM; `116.jpg` termasuk set wajib sisip.
+- 2026-10-28 — Amandemen lapis kondisional: pengguna memutuskan SAMPUL tampil 1–3, Muqodimah (M01) dan Khatimah (M122) tampil 1–4, unit amalan/lainnya tetap 1–5 lengkap dengan crop wafaq center; catatan sampul dipindah ke akhir Lapis 3 (lihat §1). Berkas M65 unggahan sesi lain diaudit dan diarsipkan tanpa menimpa M65 kanonis (lihat `al_qorin/incoming_user_2026-10-28/AUDIT_M65_UPLOAD.md`).

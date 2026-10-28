@@ -11,7 +11,7 @@ al_qorin/CATATAN_PILOT.md
 """
 import json
 from pathlib import Path
-from al_qorin_transform import render_table
+from al_qorin_transform import render_table, render_unit_md
 
 ROOT = Path(__file__).resolve().parents[1]
 UNITS = {u["unit_id"]: u for u in json.loads((ROOT / "al_qorin/work/revised_units.json").read_text(encoding="utf-8"))}
@@ -66,24 +66,7 @@ md = ["# AL-QORIN WAR RIYADHAH — PILOT REVISI STANDAR 123 ARTIKEL", "",
       "penanganan medis.", ""]
 md += source_header_lines() + [""]
 for u in pilot:
-    md += [f"## {u['heading']}", "", "### 1. Arab", ""]
-    md += [x + "\n" for x in u["arab"]]
-    md += ["### 2. Latin", ""] + [x + "\n" for x in u["latin"]]
-    md += ["### 3. Terjemahan", ""] + [x + "\n" for x in u["terjemahan"]]
-    md += ["### 4. Metode, Penentuan Jam, dan Catatan Penyunting", "", "#### 1. Metode", ""]
-    md += [x + "\n" for x in u["metode"]]
-    if u["crop_page"]:
-        md += [f"![Crop halaman {u['crop_page']}](wafaq_qorin/{u['crop_page']}.jpg)", "",
-               f"[Crop halaman {u['crop_page']} — {u['crop_caption']}]", ""]
-    for blk in u["rajah_blocks"]:
-        for b in blk:
-            md += [b["md"] + "\n"] if b["type"] == "p" else [render_table(b["rows"]), ""]
-    md += ["#### 2. Penentuan Jam", ""] + [x + "\n" for x in u["jam"]]
-    md += ["#### Catatan penyunting", ""]
-    md += [x + "\n" for x in u["catatan_penyunting"]] or ["Tidak ada catatan penyunting tambahan pada unit ini.\n"]
-    k = u["khususiyah"]
-    md += ["### 5. Khususiyah — Waktu : Media : Bukhur", "",
-           f"Waktu: {k['waktu']} : Media: {k['media']} : Bukhur: {k['bukhur']}", ""]
+    md += render_unit_md(u)
 (ROOT / "al_qorin/REVISI_AL_QORIN_PILOT.md").write_text("\n".join(md), encoding="utf-8")
 
 status = ["# CATATAN PILOT AL-QORIN", "",

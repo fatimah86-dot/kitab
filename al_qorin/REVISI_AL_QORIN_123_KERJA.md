@@ -61,35 +61,19 @@ Dar al-Fikr wa al-Tsaqafah.
 
 Muhammad Sami Muhammad Ahmad.
 
-### 4. Metode, Penentuan Jam, dan Catatan Penyunting
+Catatan penyunting sampul: Judul الرياضيات dalam ekstrak diperbaiki editorial menjadi الرياضات, berdasarkan pemakaian berulang رياضات/الرياضة dan uraian latihan dalam kiriman yang sama; bukan “matematika”.
 
-#### 1. Metode
+Catatan penyunting sampul: Bentuk asli tetap disimpan pada lapisan sumber.
 
-Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja (اكتب/اقرأ/احمل/بخور/صم/صل) pada bagian ARAB. Isi halaman berupa penjelasan, pujian, atau daftar nama, jadi bagian ini secara eksplisit menyatakan «tidak ada praktik».
+Catatan penyunting sampul: Gelar adalah teks sampul, bukan verifikasi gelar akademik.
 
-#### 2. Penentuan Jam
+Catatan penyunting sampul: Nama diri tanpa akhiran kasus/tanwin rekaan; سامى/احمد dinormalisasi ejaan menjadi سامي/أحمد.
 
-«tidak ada hitungan di halaman ini»
+Catatan penyunting sampul: Organisasi/lokasi belum diverifikasi.
 
-#### Catatan penyunting
+Catatan penyunting sampul: Akhir segmen tuntas boleh waqaf; frasa belum pasti tidak diberi pelafalan rekaan.
 
-Judul الرياضيات dalam ekstrak diperbaiki editorial menjadi الرياضات, berdasarkan pemakaian berulang رياضات/الرياضة dan uraian latihan dalam kiriman yang sama; bukan “matematika”.
-
-Bentuk asli tetap disimpan pada lapisan sumber.
-
-Gelar adalah teks sampul, bukan verifikasi gelar akademik.
-
-Nama diri tanpa akhiran kasus/tanwin rekaan; سامى/احمد dinormalisasi ejaan menjadi سامي/أحمد.
-
-Organisasi/lokasi belum diverifikasi.
-
-Akhir segmen tuntas boleh waqaf; frasa belum pasti tidak diberi pelafalan rekaan.
-
-Keberadaan wafak/rajah belum dapat dipastikan dari ekstrak teks saja.
-
-### 5. Khususiyah — Waktu : Media : Bukhur
-
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Catatan penyunting sampul: Keberadaan wafak/rajah belum dapat dipastikan dari ekstrak teks saja.
 
 ## M01 — PARAGRAF PUJIAN PERTAMA
 
@@ -198,10 +182,6 @@ Usulan ini dipilih dari bentuk ekstrak dan qarinah khusyuk; bukan kepastian, buk
 Akhir segmen tuntas boleh waqaf; frasa belum pasti tidak diberi pelafalan rekaan.
 
 Keberadaan wafak/rajah belum dapat dipastikan dari ekstrak teks saja.
-
-### 5. Khususiyah — Waktu : Media : Bukhur
-
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M02 — LANJUTAN PUJIAN
 
@@ -6712,7 +6692,3 @@ halaman ini {tanpa nomor halaman} yang terbaca pada pindaian; saya tidak memberi
 penutup kitab; tidak ada halaman berikutnya dalam pindaian 62 lembar.
 
 seluruh isi 97–121 berisi praktik yang tidak bersumber dari Al-Qur’an/Sunnah; saya mencatat dan menerjemahkan sebagai dokumen, bukan mengamalkan atau mengesahkannya. Harakat dan tanda baca Arab bersifat editorial. Rajah, wafaq, dan jadwal angka/huruf pada halaman ini TIDAK digambar ulang; bentuk aslinya wajib diambil dari pindaian halaman yang bersangkutan.
-
-### 5. Khususiyah — Waktu : Media : Bukhur
-
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini

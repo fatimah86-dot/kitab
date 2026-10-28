@@ -1,6 +1,6 @@
 # AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL
 
-> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari paket unggahan 2026-10-28; unit lain masih menunggu penyelesaian semantik per batch. Crop wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM.
+> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari paket unggahan 2026-10-28; unit lain masih menunggu penyelesaian semantik per batch. Crop wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.
 
 > Dokumen ini adalah revisi terjemahan dokumenter. Metode yang dinisbatkan kepada penulis kitab tidak disajikan sebagai anjuran, terapi, atau jaminan hasil, dan bukan pengganti penanganan medis.
 
@@ -63,29 +63,13 @@ Dar al-Fikr wa al-Tsaqafah.
 
 Muhammad Sami Muhammad Ahmad.
 
-### 4. Metode, Penentuan Jam, dan Catatan Penyunting
+Catatan penyunting sampul: Judul الرياضيات dalam ekstrak diperbaiki editorial menjadi الرياضات, berdasarkan pemakaian berulang رياضات/الرياضة dan uraian latihan dalam kiriman yang sama; bukan “matematika”. Bentuk asli tetap disimpan pada lapisan sumber.
 
-#### 1. Metode
+Catatan penyunting sampul: Gelar adalah teks sampul, bukan verifikasi gelar akademik.
 
-Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja (اكتب/اقرأ/احمل/بخور/صم/صل) pada bagian ARAB. Isi halaman berupa penjelasan, pujian, atau daftar nama, jadi bagian ini secara eksplisit menyatakan «tidak ada praktik».
+Catatan penyunting sampul: Nama diri tanpa akhiran kasus/tanwin rekaan; سامى/احمد dinormalisasi ejaan menjadi سامي/أحمد.
 
-#### 2. Penentuan Jam
-
-«tidak ada hitungan di halaman ini»
-
-#### Catatan penyunting
-
-Judul الرياضيات dalam ekstrak diperbaiki editorial menjadi الرياضات, berdasarkan pemakaian berulang رياضات/الرياضة dan uraian latihan dalam kiriman yang sama; bukan “matematika”. Bentuk asli tetap disimpan pada lapisan sumber.
-
-Gelar adalah teks sampul, bukan verifikasi gelar akademik.
-
-Nama diri tanpa akhiran kasus/tanwin rekaan; سامى/احمد dinormalisasi ejaan menjadi سامي/أحمد.
-
-Organisasi/lokasi belum diverifikasi.
-
-### 5. Khususiyah — Waktu : Media : Bukhur
-
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Catatan penyunting sampul: Organisasi/lokasi belum diverifikasi.
 
 ## M01 — PARAGRAF PUJIAN PERTAMA
 
@@ -184,10 +168,6 @@ Usulan rangkaian قدسي انسة الباب→قدس أنسه لباب: mengha
 Usulan بخض→بمحض berdasarkan ungkapan maḥḍ kemurnian dan idhafah ألطاف; huruf mim dipulihkan dan kha dibaca ha.
 
 المناحين→المناجين usulan ح→ج: مناجين isim fa‘il III ناجى, orang bermunajat. Usulan ini dipilih dari bentuk ekstrak dan qarinah khusyuk; bukan kepastian, bukan mengambil bacaan dari terjemahan lama.
-
-### 5. Khususiyah — Waktu : Media : Bukhur
-
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M02 — LANJUTAN PUJIAN
 
@@ -6666,7 +6646,3 @@ Praktik: **penutup**. Halaman terakhir berjudul **الخاتمة** (tanpa nomor 
 halaman ini {tanpa nomor halaman} yang terbaca pada pindaian; saya tidak memberi nomor 122. Nama yang terbaca «مَحْمُودٌ مَجْنُونٌ» (Mahmud yang gila) — bisa jadi bagian kalimat penulis tentang dirinya, dan pada baris wasiat nama yang muncul «مُحَمَّدٍ سِبَامِي» (Muhammad Sibami, sama dengan nama pada halaman 114). Saya pertahankan keduanya dan menandai bahwa bentuk persis nama dan gelar penulis pada halaman ini belum dapat saya pastikan; pada halaman-halaman lain nama penulis tertulis «محمد سامي محمد محمد». «فَافْهَمَا» (dual) merujuk dua hal: salat+selawat dan isyarat.
 
 penutup kitab; tidak ada halaman berikutnya dalam pindaian 62 lembar. seluruh isi 97–121 berisi praktik yang tidak bersumber dari Al-Qur’an/Sunnah; saya mencatat dan menerjemahkan sebagai dokumen, bukan mengamalkan atau mengesahkannya. Harakat dan tanda baca Arab bersifat editorial. Rajah, wafaq, dan jadwal angka/huruf pada halaman ini TIDAK digambar ulang; bentuk aslinya wajib diambil dari pindaian halaman yang bersangkutan.
-
-### 5. Khususiyah — Waktu : Media : Bukhur
-
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini

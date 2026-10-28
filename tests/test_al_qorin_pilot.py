@@ -87,11 +87,16 @@ class MarkdownStructureTests(unittest.TestCase):
         cls.pilot_blocks = unit_blocks(cls.pilot)
 
     def assert_block_shape(self, blocks):
+        # Conditional layer rule (2026-10-28): SAMPUL renders layers 1-3,
+        # M01 (Muqodimah) and M122 (Khatimah) render layers 1-4, rest 1-5.
+        limits = {"SAMPUL": 3, "M01": 4, "M122": 4}
         for uid, _heading, block in blocks:
-            self.assertEqual(re.findall(r"^### ([^\n]+)$", block, re.M), LAYERS, uid)
-            self.assertEqual(re.findall(r"^#### ([^\n]+)$", block, re.M), SUBS, uid)
-            self.assertEqual(block.count(NO_CALC), 1, uid)
-            for layer in LAYERS:
+            expected_layers = LAYERS[:limits.get(uid, 5)]
+            self.assertEqual(re.findall(r"^### ([^\n]+)$", block, re.M), expected_layers, uid)
+            self.assertEqual(re.findall(r"^#### ([^\n]+)$", block, re.M),
+                             [] if uid == "SAMPUL" else SUBS, uid)
+            self.assertEqual(block.count(NO_CALC), 0 if uid == "SAMPUL" else 1, uid)
+            for layer in expected_layers:
                 m = re.search(
                     rf"^### {re.escape(layer)}\n(.*?)(?=^### |\Z)", block, flags=re.M | re.S
                 )
@@ -139,6 +144,35 @@ class MarkdownStructureTests(unittest.TestCase):
                 "bertanya kepada",
             ):
                 self.assertNotIn(phrase, integrated_metode, uid)
+
+    def test_conditional_layer_rule_and_sampul_notes(self):
+        # User decision 2026-10-28: SAMPUL 1-3, M01/M122 1-4, others 1-5.
+        integrated_by_id = {u: b for u, _h, b in self.integrated_blocks}
+        sampul = integrated_by_id["SAMPUL"]
+        self.assertEqual(re.findall(r"^### ([^\n]+)$", sampul, re.M), LAYERS[:3])
+        self.assertNotIn("####", sampul)
+        for uid in ("M01", "M122"):
+            block = integrated_by_id[uid]
+            self.assertEqual(re.findall(r"^### ([^\n]+)$", block, re.M), LAYERS[:4], uid)
+            self.assertNotIn(LAYERS[4], block, uid)
+        # Total rendered layer headings: 123*5 - 2 (SAMPUL) - 1 (M01) - 1 (M122).
+        self.assertEqual(len(re.findall(r"^### ", self.integrated, re.M)), 611)
+        self.assertEqual(len(re.findall(r"^### ", self.full, re.M)), 611)
+
+        # SAMPUL editor notes must survive at the end of layer 3, marked.
+        pilot_path = ALQ / "work/pilot_units.json"
+        if not pilot_path.exists():
+            self.skipTest("ignored work JSON not present in this checkout")
+        pilot = {u["unit_id"]: u for u in json.loads(pilot_path.read_text(encoding="utf-8"))}
+        notes = pilot["SAMPUL"]["catatan_penyunting"]
+        self.assertGreaterEqual(len(notes), 4)
+        layer3 = re.search(
+            rf"^### {re.escape(LAYERS[2])}\n(.*?)(?=^### |\Z)", sampul, flags=re.M | re.S
+        ).group(1)
+        for note in notes:
+            self.assertIn("Catatan penyunting sampul: " + note, layer3)
+        # The relocated notes must not leak into layer 4/5 of any other unit.
+        self.assertEqual(self.integrated.count("Catatan penyunting sampul: "), len(notes))
 
     def test_full_logged_deletions_and_preserved_labels(self):
         self.assertFalse(any(line.strip().startswith("Qarinah ") for line in self.full.splitlines()))
@@ -303,8 +337,8 @@ class IntegratedDocxTests(unittest.TestCase):
 
     def test_integrated_docx_counts_and_user_media(self):
         self.assertEqual(sum(p.style.name == "Heading 1" for p in self.doc.paragraphs), 123)
-        self.assertEqual(sum(p.style.name == "Heading 2" for p in self.doc.paragraphs), 615)
-        self.assertEqual(sum(p.style.name == "Heading 3" for p in self.doc.paragraphs), 369)
+        self.assertEqual(sum(p.style.name == "Heading 2" for p in self.doc.paragraphs), 611)
+        self.assertEqual(sum(p.style.name == "Heading 3" for p in self.doc.paragraphs), 366)
         self.assertEqual(len(self.doc.tables), 4)
         self.assertEqual(len([n for n in self.names if n.startswith("word/media/")]), 26)
         self.assertEqual(len([n for n in self.names if n.startswith("word/fonts/")]), 4)
@@ -315,7 +349,8 @@ class IntegratedDocxTests(unittest.TestCase):
                        for p in EXPECTED_CROPS]
         self.assertEqual(media_hashes, crop_hashes)
         texts = [p.text for p in self.doc.paragraphs]
-        self.assertEqual(sum(t.count(NO_CALC) for t in texts), 123)
+        # SAMPUL renders no layer 4 under the conditional rule, hence 122.
+        self.assertEqual(sum(t.count(NO_CALC) for t in texts), 122)
         self.assertEqual(sum(t.count("[CATATAN PENERJEMAH") for t in texts), 25)
         self.assertFalse(any(t.strip().startswith("Qarinah ") for t in texts))
 
@@ -363,7 +398,7 @@ class PreviewTests(unittest.TestCase):
         s = canonical.read_text(encoding="utf-8")
         self.assertEqual(s, alias.read_text(encoding="utf-8"))
         self.assertEqual(len(re.findall(r"<article id=", s)), 123)
-        self.assertEqual(len(re.findall(r"<section dir=", s)), 615)
+        self.assertEqual(len(re.findall(r"<section dir=", s)), 611)
         self.assertEqual(len(re.findall(r'<figure class="wafaq"', s)), 26)
         self.assertEqual([int(x) for x in re.findall(r"wafaq_qorin/(\d+)\.jpg", s)], EXPECTED_CROPS)
         self.assertIn('dir="rtl" class="layer arab"', s)
@@ -386,13 +421,15 @@ class PilotDocxTests(unittest.TestCase):
 
     def test_heading_table_and_text_counts(self):
         self.assertEqual(sum(p.style.name == "Heading 1" for p in self.doc.paragraphs), 12)
-        self.assertEqual(sum(p.style.name == "Heading 2" for p in self.doc.paragraphs), 60)
-        self.assertEqual(sum(p.style.name == "Heading 3" for p in self.doc.paragraphs), 36)
+        # Pilot layer headings: SAMPUL 3 + M01 4 + M122 4 + 9 units x 5 = 56;
+        # subsections: 11 units with layer 4 x 3 = 33 (conditional rule).
+        self.assertEqual(sum(p.style.name == "Heading 2" for p in self.doc.paragraphs), 56)
+        self.assertEqual(sum(p.style.name == "Heading 3" for p in self.doc.paragraphs), 33)
         self.assertEqual([(len(t.rows), len(t.columns)) for t in self.doc.tables],
                          [(1, 2), (4, 3), (2, 10), (5, 4)])
         all_text = [p.text for p in self.doc.paragraphs]
         all_text += [c.text for t in self.doc.tables for r in t.rows for c in r.cells]
-        self.assertEqual(sum(t.count(NO_CALC) for t in all_text), 12)
+        self.assertEqual(sum(t.count(NO_CALC) for t in all_text), 11)
         self.assertFalse(any(t.strip().startswith("Qarinah ") for t in all_text))
         self.assertFalse(any("*" in t or "`" in t for t in all_text))
 

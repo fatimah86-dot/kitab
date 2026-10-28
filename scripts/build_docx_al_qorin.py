@@ -182,7 +182,7 @@ def style_document(doc):
         for attr in ("w:ascii", "w:hAnsi", "w:cs", "w:eastAsia"): rFonts.set(qn(attr), FONT)
     hdr = sec.header.paragraphs[0]
     set_bidi(hdr, False); set_jc(hdr, "left")
-    format_run(hdr.add_run("Al-Qorin war Riyadhah — revisi dokumenter 5 lapis"), size=9, italic=True, color=MUTED)
+    format_run(hdr.add_run("Al-Qorin war Riyadhah — revisi dokumenter"), size=9, italic=True, color=MUTED)
     ftr = sec.footer.paragraphs[0]
     set_bidi(ftr, False); set_jc(ftr, "center")
     format_run(ftr.add_run("Teks dinisbatkan kepada penulis kitab; bukan anjuran atau jaminan hasil.  "), size=9, italic=True, color=MUTED)
