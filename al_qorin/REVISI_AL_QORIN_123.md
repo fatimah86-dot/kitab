@@ -3707,21 +3707,21 @@ Waktu: tidak disebutkan dalam sumber unit ini : Media: tulisan yang digantungkan
 
 ### 1. Arab
 
-...ذَلِكُمُ اللَّهُ رَبُّكُمْ فَأَنَّى تُؤْفَكُونَ).
+مِنَ الْحَيِّ ذَلِكُمُ اللَّهُ رَبُّكُمْ فَأَنَّى تُؤْفَكُونَ.
 
-حَمْلُ حِجَابٍ بَعْدَ الطُّهْرِ مِنَ الْحَيْضِ مُبَاشَرَةً:
+حَمْلُ حِجَابٍ بَعْدَ الطُّهْرِ مِنَ الْحَيْضِ مُبَاشَرَةً وَيُعْمَلُ عَدَدَ ٣ أطباق وينيجم تحت السماء وتشرب كل يوم واحد قبل الافطار فإنها تحمل بإذن الله.
 
-وَيُعْمَلُ عَدَدَ ٣ أَطْبَاقٍ وَتُنَجَّمُ تَحْتَ السَّمَاءِ وَيُشْرَبُ كُلَّ يَوْمٍ وَاحِدٌ قَبْلَ الْإِفْطَارِ فَإِنَّهَا تَحْمِلُ بِإِذْنِ اللَّهِ.
+لِإِبْطَالِ الْأَسْحَارِ:
 
-إِبْطَالُ الْأَسْحَارِ:
-
-تُكْتَبُ عَلَى الْكَفِّ الْيُمْنَى مَا بَانِي ☆ ف ق ج ثُمَّ تُكْتَبُ عَلَى الْكَفِّ الْيُسْرَى ☆ م خ م ت ثُمَّ ضَعِ الْكَفَّيْنِ مَفْتُوحَتَيْنِ عَلَى الْبُخُورِ جَاوِي وَكُزْبَرَةٍ وَكُنْدُرٍ ثُمَّ تَقْرَأُ قَوْلَهُ تَعَالَى: (قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ) إِلَى آخِرِ سُورَةِ يس حَتَّى تَنْطِقَ الْكَفَّانِ وَأْمُرْ بِفَكِّ السِّحْرِ وَفَكِّ الْمَرْبُوطِ، تَنْزِلُ الْكَفَّانِ عَلَى الذَّكَرِ فَإِنَّهُ يَنْحَلُّ السِّحْرُ.
+تُكْتَبُ عَلَى الْكَفِّ الْيُمْنَى ٭ ف ق ج ثُمَّ تُكْتَبُ عَلَى الْكَفِّ الشِّمَالِ ٭ م خ م ت ثُمَّ ضَعِ الْكَفَّيْنِ مَفْتُوحَتَيْنِ عَلَى الْبُخُورِ جَاوِيّ وَكُزْبَرَةٍ وَكُنْدُرٍ ثُمَّ تَقْرَأُ قَوْلَهُ تَعَالَى: قَالَ مَنْ يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ إِلَى آخِرِ سُورَةِ يس حَتَّى تَنْطِقَ الْكَفُوفُ وَأْمُرْ بِفَكِّ السِّحْرِ وَفَكِّ الْمَرْبُوطِ تَنْزِلُ الْكَفَّيْنِ عَلَى الذَّكَرِ فَإِنَّهُ يَنْحَلُّ السِّحْرُ.
 
 لِلْحَمْلِ:
 
-لِلْمَرْأَةِ الَّتِي لَمْ تَحْمِلْ وَلَمْ يَعِشْ لَهَا الْأَوْلَادُ يُكْتَبُ لَهَا هَذَا الْحِرْزُ وَتَحْمِلُهُ بَعْدَ الطُّهْرِ مِنَ الْحَيْضِ فَإِنَّهَا تَحْمِلُ بِإِذْنِ اللَّهِ تَعَالَى. وَهَذَا مَا يُكْتَبُ:
+لِلْمَرْأَةِ الَّتِي لَمْ تَحْمِلْ وَلَمْ يَعِشْ لَهَا الْأَوْلَادُ يُكْتَبُ لَهَا هَذَا الْحِرْزُ وَتَحْمِلُهُ بَعْدَ الطُّهْرِ مِنَ الْحَيْضِ فَإِنَّهَا تَحْمِلُ بِإِذْنِ اللَّهِ تَعَالَى وَهَذَا مَا يُكْتَبُ:
 
-[رَسْمٌ: حُرُوفٌ وَأَشْكَالٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٧٠]
+![Crop halaman 70](wafaq_qorin/70.jpg)
+
+[Crop halaman 70 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 ### 2. Latin
 
@@ -3748,10 +3748,6 @@ Halaman ini TIDAK memuat wafaq berpetak; berikut salinan transparannya (bukan re
 Baris 1 (kanan→kiri, 11 unsur): «ع» berloop · «ص» (؟) · «ج» ١ bawah · «ش» ٣ atas · «ظ» ١ atas · «خ» ١ atas · «ز» ١ atas · garis berkelok ZZZ (lambang) · «هـ/ه» berloop · «ل» berekor panjang · «ج» kecil ١ bawah. Baris 2 (kanan→kiri, 10 unsur): «سل» · «ع» berloop ٢ titik (؟) · «ك» · «ل» berkait · «و» · «ك» · «م» berloop berekor · «د» · «ل» · «م» kecil. Baris 3: baris lambang — «٧/ز» · segitiga bertitik · segitiga terbalik · empat garis tegak · kotak bertitik · segitiga terbalik · «٣» berkelok · «٧» · bulatan. Tidak satu pun dibaca sebagai kata Arab.
 
 Yang dapat dipastikan: jumlah baris (3), bahwa dua baris pertama berisi huruf berloop dan baris ketiga berisi lambang/angka, serta titik-titik yang tampak pada B1-3/B1-4/B1-5/B1-6/B1-7. Yang rendah keyakinannya: hampir semua identitas huruf lain dan seluruh baris 3. Tidak ada wafaq berpetak sehingga tidak ada grid yang dibuat. Tidak mengarang huruf/titik, tidak menggambar ulang, tidak menafsirkan makna, bukan pengesahan, tidak dianjurkan dipakai. Teks terjemahan utama tidak disentuh.
-
-![Crop halaman 70](wafaq_qorin/70.jpg)
-
-[Crop halaman 70 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.70 — tiga baris tulisan talismani bersambung (bukan wafaq berpetak): dua baris huruf berloop + satu baris lambang/angka. Tidak ada bingkai petak di halaman ini**
 
@@ -3959,17 +3955,19 @@ Waktu: saat bersih dari haid : Media: mangkuk porselen; tulisan dengan susu kamb
 
 ### 1. Arab
 
-...فَحَمَلَتْهُ بِلَا حَوْلٍ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ).
+فَلَحَمَلَتْهُ بِلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ.
 
-(غَيْرُهُ مُجَرَّبٌ) لِلْمَرْأَةِ الَّتِي لَمْ تَحْمِلْ وَالْفَرَسِ وَالنَّاقَةِ وَالْبَقَرَةِ وَالْخَيْلِ وَجَمِيعِ الْأَشْجَارِ: تُكْتَبُ هَذِهِ الْأَسْمَاءُ وَأَنْتَ طَاهِرٌ وَتُعَلَّقُ عَلَيْهَا فَإِنَّهُمْ يَحْمِلُونَ بِإِذْنِ اللَّهِ تَعَالَى. وَهِيَ هَذِهِ الْأَسْمَاءُ الَّتِي تُكْتَبُ:
+(غَيْرُهُ مُجَرَّبٌ) لِلْمَرْأَةِ الَّتِي لَمْ تَحْمِلْ وَالْفَرَسِ وَالنَّاقَةِ وَالْبَقَرَةِ وَالْخَيْلِ وَجَمِيعِ الْأَشْجَارِ تَكْتُبُ هَذِهِ الْأَسْمَاءَ وَأَنْتَ طَاهِرٌ وَيُطْلَقُ عَلَيْهَا فَإِنَّهُمْ يَحْمِلُونَ بِإِذْنِ اللَّهِ تَعَالَى وَهِيَ هَذِهِ الْأَسْمَاءُ الَّتِي تُكْتَبُ:
 
-أَنَا عَدَدُ ١١ = أَنَا ٤ مَرَّةً هُوَ ١٢ مَرَّةً يَاهْ يَاهُ بَاهُو
+أَنَا عَدَدَ ١١ = أَنَا ١٤ مَرَّةً هُوَ ١١ مَرَّةً يَاهْ يَاهُو يَاهُو
 
-٩٩٩٩٩٩٩٩٩٩٩٩٩٩ يه يه يه يه يه يه يه يه يه يه يه يه يه يه يه يه
+٩٩٩٩٩٩٩٩٩٩٩٩٩ يه يه يه يه يه يه يه يه يه يه يه يه يه
 
-(غَيْرُهُ لِلْحَمْلِ مُجَرَّبٌ) اكْتُبْ هَذِهِ الْأَسْمَاءَ فِي نُسْخَتَيْنِ: وَاحِدَةٌ يَحْمِلُهَا الرَّجُلُ وَالثَّانِيَةُ تَحْمِلُهَا الْمَرْأَةُ، فَإِنَّ اللَّهَ تَعَالَى يُعْطِيهِمُ الْحَمْلَ بِإِذْنِ اللَّهِ تَعَالَى. الْبَسْمَلَةُ:
+(غَيْرُهُ لِلْحَمْلِ مُجَرَّبٌ) اكْتُبْ هَذِهِ الْأَسْمَاءِ فِي نُسْخَتَيْنِ وَاحِدَةٌ يَحْمِلُهَا الرَّجُلُ وَالثَّانِيَةُ تَحْمِلُهَا الْمَرْأَةُ فَإِنَّ اللَّهَ تَعَالَى يُعْطِيهِمُ الْحَمْلَ بِإِذْنِ اللَّهِ تَعَالَى الْبَسْمَلَةُ:
 
-[رَسْمٌ كَبِيرٌ: أَشْكَالٌ وَحُرُوفٌ — تُنْظَرُ صُورَةُ الصَّفْحَةِ ٧٤]
+![Crop halaman 74](wafaq_qorin/74.jpg)
+
+[Crop halaman 74 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 فَرْدٌ حَكَمٌ عَدْلٌ قُدُّوسٌ حَيٌّ قَيُّومٌ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ.
 
@@ -4004,10 +4002,6 @@ B4 — baris 4: ±8 unit bertangkai pendek (mirip «م/ع/د/ر»)
 B5 — baris 5: 4 unit besar berloop dengan ekor
 
 Tidak ada bingkai, tidak ada petak, tidak ada garis tabel -> tidak ada grid(wafaq_kiri, wafaq_kanan). Peningkatan 200->400 dpi tidak menambah satu pun titik yang terbukti. Usulan transparan, bukan pengesahan; teks utama tidak disentuh.
-
-![Crop halaman 74](wafaq_qorin/74.jpg)
-
-[Crop halaman 74 — crop presisi kiriman pengguna; nama berkas sama dengan halaman tujuan; bukan ekstraksi FINAL KHATAM dan bukan gambar ulang]
 
 **RAJAH HAL.74 — kaligrafi maghribi 5 baris (basmala bergaya + untai berulang) — bukan petak, bukan persegi ajaib**
 
