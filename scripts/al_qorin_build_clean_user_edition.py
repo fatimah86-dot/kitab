@@ -41,6 +41,9 @@ from al_qorin_parse_user_arab_replacement_h66_69_revised import (
 from al_qorin_parse_user_arab_replacement_h82_83_97_98_revised import (
     load_user_arab_replacement_h82_83_97_98_revised,
 )
+from al_qorin_parse_user_arab_replacement_h11_revised import (
+    load_user_arab_replacement_h11_revised,
+)
 from al_qorin_wafaq_markers import WAFAQ_MARKER
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -478,6 +481,10 @@ def main():
     arab_replacement.update(
         load_user_arab_replacement_h82_83_97_98_revised(ROOT)["units"]
     )
+    # A later one-page revision supersedes only M11.
+    arab_replacement["M11"] = load_user_arab_replacement_h11_revised(ROOT)[
+        "units"
+    ]["M11"]
     if list(arab_replacement) != ORDER:
         raise SystemExit("combined user Arabic replacements do not cover 123 units")
 

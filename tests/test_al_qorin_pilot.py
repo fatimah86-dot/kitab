@@ -289,6 +289,32 @@ def apply_user_arab_replacement_h82_83_97_98_revised(units_by_id):
     return units_by_id
 
 
+H11_REVISED_ARCHIVE = (
+    ALQ / "incoming_user_2026-10-28/arab_replacement_h11_revised/"
+    "teks arab halaman 11 revisi.txt"
+)
+
+
+def user_arab_replacement_h11_revised():
+    lines = [
+        line.strip()
+        for line in H11_REVISED_ARCHIVE.read_text(encoding="utf-8-sig").splitlines()
+        if line.strip()
+    ]
+    if not lines or lines[0] != "-١١- (Halaman 11)":
+        raise AssertionError("revised page-11 heading is missing")
+    paragraphs = lines[1:]
+    if len(paragraphs) != 3:
+        raise AssertionError("revised page-11 paragraph count changed")
+    return paragraphs
+
+
+def apply_user_arab_replacement_h11_revised(units_by_id):
+    if "M11" in units_by_id:
+        units_by_id["M11"]["arab"] = user_arab_replacement_h11_revised()
+    return units_by_id
+
+
 def rendered_arab_paragraphs(uid, paragraphs, research):
     """Return Markdown blocks after the user's wafaq-marker rendering rule."""
     rendered = []
@@ -556,6 +582,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h63_revised(baseline)
         apply_user_arab_replacement_h66_69_revised(baseline)
         apply_user_arab_replacement_h82_83_97_98_revised(baseline)
+        apply_user_arab_replacement_h11_revised(baseline)
         integrated = {
             u["unit_id"]: u
             for u in json.loads(integrated_path.read_text(encoding="utf-8"))
@@ -719,6 +746,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h63_revised(baseline)
         apply_user_arab_replacement_h66_69_revised(baseline)
         apply_user_arab_replacement_h82_83_97_98_revised(baseline)
+        apply_user_arab_replacement_h11_revised(baseline)
         integrated = {
             u["unit_id"]: u
             for u in json.loads(integrated_path.read_text(encoding="utf-8"))
@@ -866,6 +894,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h63_revised(baseline)
         apply_user_arab_replacement_h66_69_revised(baseline)
         apply_user_arab_replacement_h82_83_97_98_revised(baseline)
+        apply_user_arab_replacement_h11_revised(baseline)
 
         integrated = {
             u["unit_id"]: u
@@ -1083,6 +1112,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h63_revised(baseline)
         apply_user_arab_replacement_h66_69_revised(baseline)
         apply_user_arab_replacement_h82_83_97_98_revised(baseline)
+        apply_user_arab_replacement_h11_revised(baseline)
 
         integrated = {
             u["unit_id"]: u
@@ -1201,6 +1231,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h63_revised(pilot)
         apply_user_arab_replacement_h66_69_revised(pilot)
         apply_user_arab_replacement_h82_83_97_98_revised(pilot)
+        apply_user_arab_replacement_h11_revised(pilot)
         # The six Batch-01 units are historical pilot units and no selective or
         # semantic Lapis-4/5 batch targets them.  After applying the later
         # declared user Arabic replacement stages, their pre-Batch-01 records are
@@ -1319,7 +1350,7 @@ class IntegratedDocxTests(unittest.TestCase):
         self.assertEqual(images, 26)
         self.assertGreater(arab, 500)
         self.assertGreater(latin, 300)
-        self.assertEqual(arab_brackets, 438)
+        self.assertEqual(arab_brackets, 436)
 
 
 class CleanUserEditionTests(unittest.TestCase):
@@ -1384,6 +1415,9 @@ class CleanUserEditionTests(unittest.TestCase):
 
         expected_order = ["SAMPUL"] + [f"M{i:02d}" for i in range(1, 63)]
         self.assertEqual(list(replacement), expected_order)
+        self.assertEqual(sum(len(x) for x in replacement.values()), 277)
+        # A later one-page submission supersedes only this archive's M11.
+        replacement["M11"] = user_arab_replacement_h11_revised()
         self.assertEqual(sum(len(x) for x in replacement.values()), 277)
 
         def arab_paragraphs(block):
@@ -1613,6 +1647,36 @@ class CleanUserEditionTests(unittest.TestCase):
                     f"{path.name}:{uid}:crop-count",
                 )
 
+    def test_user_arab_replacement_h11_revised_is_locked_in_both_masters(self):
+        data = H11_REVISED_ARCHIVE.read_bytes()
+        self.assertEqual(
+            hashlib.sha256(data).hexdigest(),
+            "e9e6efe8277bcc03fd9e8e234c8dde81b34e1ecb880d539494a5bac505c53a1d",
+        )
+        expected = user_arab_replacement_h11_revised()
+        self.assertEqual(len(expected), 3)
+        self.assertNotIn("«...»", " ".join(expected))
+        self.assertTrue(expected[-1].endswith("..."))
+        for path in (ALQ / "REVISI_AL_QORIN_123.md", self.md_path):
+            blocks = {
+                uid: block
+                for uid, _heading, block in unit_blocks(
+                    path.read_text(encoding="utf-8")
+                )
+            }
+            match = re.search(
+                r"^### 1\. Arab\n(.*?)(?=^###\s+|\Z)",
+                blocks["M11"],
+                re.M | re.S,
+            )
+            self.assertIsNotNone(match)
+            actual = [
+                p.strip()
+                for p in match.group(1).strip().split("\n\n")
+                if p.strip()
+            ]
+            self.assertEqual(actual, expected, path.name)
+
     def test_clean_md_structure_crops_and_no_process_meta(self):
         self.assertEqual(
             [uid for uid, _h, _b in self.blocks],
@@ -1712,7 +1776,7 @@ class CleanUserEditionTests(unittest.TestCase):
                 latin += 1
                 self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("0", "left"), p.text[:80])
         self.assertEqual((arab, latin, images), (541, 315, 26))
-        self.assertEqual(arab_brackets, 432)
+        self.assertEqual(arab_brackets, 430)
 
 
 class PreviewTests(unittest.TestCase):
