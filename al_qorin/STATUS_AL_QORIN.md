@@ -230,8 +230,8 @@ hasil, dan bukan pengganti penanganan medis.
     sebagai teks LTR di tengah kalimat RTL. Builder sekarang memaksa
     `w:rtl` pada seluruh run Lapis 1 (dan sel tabel yang dominan Arab),
     tanpa mengubah satu pun karakter atau urutan logis teks Markdown.
-    DOCX bersih dan DOCX master riset dibangun ulang; sesudah item 19 test
-    arah memeriksa 454 tanda kurung/penjodoh pada edisi bersih dan 464
+    DOCX bersih dan DOCX master riset dibangun ulang; sesudah item 20 test
+    arah memeriksa 446 tanda kurung/penjodoh pada edisi bersih dan 456
     pada master riset, semuanya harus berada dalam run RTL.
 18. **Penggantian Arab halaman 63–122 dari kiriman pengguna**
     (2026-10-28): pengguna mengirim lanjutan ekstraksi Arab untuk halaman
@@ -263,10 +263,24 @@ hasil, dan bukan pengganti penanganan medis.
     terintegrasi dan builder edisi bersih; kedua Markdown, kedua DOCX,
     dan preview riset dibangun/diperbarui. Verifikasi terhadap HEAD
     membuktikan hanya Lapis 1 M63 yang berubah, sedangkan total Arab
-    tetap 544 paragraf. Audit:
+    pada tahap itu tetap 544 paragraf. Audit:
     `AUDIT_ARAB_PENGGANTI_H63_REVISI_2026-10-28.md`. Validasi pada
     checkout ini: parser dan apply-check berhasil; discovery 29 test
     menghasilkan 22 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati karena berkas kerja itu tidak hadir.
+20. **Revisi Arab halaman 66–69** (2026-10-28): pengguna memerintahkan
+    halaman 66, 67, 68, dan 69 diganti dengan versi revisi yang dikirim.
+    Teks itu diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h66_69_revised/` (SHA-256
+    `a8efbc0c…7e2a8`) dan diparse menjadi 4 unit/21 paragraf: M66 5,
+    M67 6, M68 5, dan M69 5. Jumlah itu menggantikan 23 paragraf lama,
+    sehingga total Arab 123 unit kini **542 paragraf**. Tahap ini dikunci
+    sesudah revisi M63 pada builder terintegrasi dan builder edisi bersih;
+    kedua Markdown, kedua DOCX, dan preview riset dibangun/diperbarui.
+    Verifikasi terhadap HEAD membuktikan hanya Lapis 1 M66–M69 yang
+    berubah. Audit: `AUDIT_ARAB_PENGGANTI_H66_69_REVISI_2026-10-28.md`.
+    Validasi pada checkout ini: parser dan apply-check berhasil; discovery
+    30 test menghasilkan 23 lulus dan 7 test bergantung pada work JSON
     ter-ignore dilewati karena berkas kerja itu tidak hadir.
 
 ## Yang belum selesai
@@ -314,6 +328,8 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h63_122.py --check
 .venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h63_revised.py
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h63_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h66_69_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h66_69_revised.py --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \
   --output al_qorin/AL_QORIN_123_BERSIH.docx

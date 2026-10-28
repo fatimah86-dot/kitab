@@ -35,6 +35,9 @@ from al_qorin_parse_user_arab_replacement_h63_122 import (
 from al_qorin_parse_user_arab_replacement_h63_revised import (
     load_user_arab_replacement_h63_revised,
 )
+from al_qorin_parse_user_arab_replacement_h66_69_revised import (
+    load_user_arab_replacement_h66_69_revised,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 ALQ = ROOT / "al_qorin"
@@ -463,6 +466,10 @@ def main():
     arab_replacement["M63"] = load_user_arab_replacement_h63_revised(ROOT)[
         "units"
     ]["M63"]
+    # A later four-page revision supersedes only M66-M69.
+    arab_replacement.update(
+        load_user_arab_replacement_h66_69_revised(ROOT)["units"]
+    )
     if list(arab_replacement) != ORDER:
         raise SystemExit("combined user Arabic replacements do not cover 123 units")
 

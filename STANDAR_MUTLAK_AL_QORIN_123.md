@@ -180,13 +180,15 @@ master riset 611 lapis di §1:
 2026-10-28):** teks Arab kiriman chat yang diarsipkan di
 `arab_replacement_h62/` menggantikan Lapis 1 SAMPUL dan M01–M62, lalu teks
 di `arab_replacement_h63_122/` menggantikan Lapis 1 M63–M122, pada master
-terintegrasi maupun edisi bersih; satu kiriman revisi berikutnya di
-`arab_replacement_h63_revised/` kemudian menggantikan hanya Lapis 1 M63.
-Kalimat pengantar/meta sebelum isi tidak masuk dokumen; pada edisi bersih
+terintegrasi maupun edisi bersih; kiriman revisi berikutnya di
+`arab_replacement_h63_revised/` kemudian menggantikan hanya Lapis 1 M63,
+dan `arab_replacement_h66_69_revised/` menggantikan hanya Lapis 1
+M66–M69. Kalimat pengantar/meta sebelum isi tidak masuk dokumen; pada edisi bersih
 penanda proses ekstraksi berbahasa Indonesia dalam kiriman halaman 63–122
 juga tidak ditampilkan. Latin,
 Terjemahan, Syarah/catatan, Metode/Khususiyah, tabel, dan crop tidak ikut
-diganti oleh kedua tahap ini. Auditnya:
+diganti oleh tahap-tahap ini. Auditnya:
 `AUDIT_ARAB_PENGGANTI_H62_2026-10-28.md`,
-`AUDIT_ARAB_PENGGANTI_H63_122_2026-10-28.md`, dan
-`AUDIT_ARAB_PENGGANTI_H63_REVISI_2026-10-28.md`.
+`AUDIT_ARAB_PENGGANTI_H63_122_2026-10-28.md`,
+`AUDIT_ARAB_PENGGANTI_H63_REVISI_2026-10-28.md`, dan
+`AUDIT_ARAB_PENGGANTI_H66_69_REVISI_2026-10-28.md`.
