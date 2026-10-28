@@ -195,7 +195,12 @@ kemudian menggantikan hanya Lapis 1 M70 dan M74,
 M78 dan M80, `arab_replacement_h81_revised/` kemudian menggantikan hanya
 Lapis 1 M81, `arab_replacement_h84_85_revised/` kemudian menggantikan
 hanya Lapis 1 M84 dan M85, dan `arab_replacement_h93_96_revised/`
-kemudian menggantikan hanya Lapis 1 M93 dan M96. Kalimat pengantar/meta
+kemudian menggantikan hanya Lapis 1 M93 dan M96. Tahap Arab terakhir
+berbeda asal: atas instruksi pengguna, revisi Fusha yang disusun agen di
+`arab_fusha_revised_remaining_2026-10-28/` menggantikan hanya Lapis 1
+M71, M72, M73, M77, M99, M107, M108, M110, M111, M112, M113, M114,
+M117, dan M118 berdasarkan pindaian kitab asli dan teks terkunci
+sebelumnya. Kalimat pengantar/meta
 sebelum isi tidak masuk
 dokumen; pada edisi bersih penanda proses ekstraksi berbahasa Indonesia
 dalam kiriman halaman 63–122 juga tidak ditampilkan. Latin, Terjemahan,
@@ -212,5 +217,6 @@ aturan `[gambar wafak]` pada §4. Auditnya:
 `AUDIT_ARAB_PENGGANTI_H76_REVISI_2026-10-28.md`,
 `AUDIT_ARAB_PENGGANTI_H78_80_REVISI_2026-10-28.md`,
 `AUDIT_ARAB_PENGGANTI_H81_REVISI_2026-10-28.md`,
-`AUDIT_ARAB_PENGGANTI_H84_85_REVISI_2026-10-28.md`, dan
-`AUDIT_ARAB_PENGGANTI_H93_96_REVISI_2026-10-28.md`.
+`AUDIT_ARAB_PENGGANTI_H84_85_REVISI_2026-10-28.md`,
+`AUDIT_ARAB_PENGGANTI_H93_96_REVISI_2026-10-28.md`, dan
+`AUDIT_ARAB_FUSHA_HALAMAN_TERSISA_2026-10-28.md`.

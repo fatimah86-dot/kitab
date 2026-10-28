@@ -62,6 +62,9 @@ from al_qorin_parse_user_arab_replacement_h84_85_revised import (
 from al_qorin_parse_user_arab_replacement_h93_96_revised import (
     load_user_arab_replacement_h93_96_revised,
 )
+from al_qorin_parse_agent_arab_fusha_remaining import (
+    load_agent_arab_fusha_remaining,
+)
 from al_qorin_wafaq_markers import WAFAQ_MARKER
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -533,6 +536,11 @@ def main():
     # A later two-page revision supersedes only M93 and M96.
     arab_replacement.update(
         load_user_arab_replacement_h93_96_revised(ROOT)["units"]
+    )
+    # The agent's Fusha revision supersedes only the fourteen remaining
+    # gap-inventory units.
+    arab_replacement.update(
+        load_agent_arab_fusha_remaining(ROOT)["units"]
     )
     if list(arab_replacement) != ORDER:
         raise SystemExit("combined user Arabic replacements do not cover 123 units")

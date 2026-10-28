@@ -423,6 +423,29 @@ hasil, dan bukan pengganti penanganan medis.
     `AUDIT_ARAB_PENGGANTI_H93_96_REVISI_2026-10-28.md`. Validasi:
     discovery 38 test menghasilkan 31 lulus dan 7 test bergantung pada
     work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+29. **Revisi Arab Fusha oleh agen untuk 14 halaman tersisa**
+    (2026-10-28): pengguna kemudian meminta agen mengerjakan sendiri
+    halaman 71, 72, 73, 77, 99, 107, 108, 110, 111, 112, 113, 114, 117,
+    dan 118 sesuai kaidah Arab Fusha. Agen membandingkan Lapis 1 lama
+    dengan pindaian kitab asli, lalu mengarsipkan hasilnya di
+    `arab_fusha_revised_remaining_2026-10-28/` (SHA-256
+    `74a56f22…d3adcb9`) sebagai 14 unit/53 paragraf. Jumlah paragraf
+    tiap unit dipertahankan sehingga total paragraf sumber Arab tetap
+    **560**; elipsis dan deskriptor gambar pada sasaran hilang.
+    M71/M72 memakai paragraf penanda persis dan M73/M77 memakai
+    penanda di dalam paragraf, sehingga unit berpenanda menjadi 17,
+    sedangkan crop pengguna yang tampil tetap 26 dan masing-masing
+    tepat satu kali. Sesudah tahap ini tidak ada lagi selisih
+    exact–clean pada rentang M63–M122. Blok Lapis 1 ter-render menjadi
+    bersih 566/riset 583 dan paragraf teks Arab DOCX tetap 549; karakter
+    kurung Arab pada kedua DOCX menjadi 350. Tahap ini dikunci sesudah
+    revisi M93/M96 pada builder terintegrasi dan builder edisi bersih;
+    kedua Markdown, kedua DOCX, dan preview riset dibangun/diperbarui.
+    Latin, Terjemahan, Syarah/catatan, Metode/Khususiyah, dan tabel
+    tidak diselaraskan ulang. Audit:
+    `AUDIT_ARAB_FUSHA_HALAMAN_TERSISA_2026-10-28.md`. Validasi:
+    discovery 39 test menghasilkan 32 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
 
 ## Yang belum selesai
 
@@ -440,10 +463,12 @@ hasil, dan bukan pengganti penanganan medis.
   bersih item 15 adalah penyajian bersih dari bahan yang ada, bukan tanda
   revisi total terjemahan/syarah gramatikal sudah selesai.
 - Seluruh Lapis 1 kini mengikuti arsip-arsip Arab yang ditunjuk pengguna
-  pada item 16 dan 18–28, tetapi setiap perbedaan bacaan/harakat di
-  dalamnya belum dibuktikan satu-satu terhadap pindaian kitab asli. Teks “full
-  khatam” yang diaudit pada item 14 tetap salinan baseline lama dan tidak
-  menjadi sumber penggantian.
+  pada item 16 dan 18–28 serta revisi Fusha agen pada item 29. Bacaan/
+  harakat kiriman pengguna belum dibuktikan satu-satu terhadap pindaian
+  kitab asli; 14 unit item 29 memang dibandingkan dengan pindaian, tetapi
+  nama asing dan rangkaian talismanik yang kabur tetap belum terverifikasi
+  secara filologis. Teks “full khatam” yang diaudit pada item 14 tetap
+  salinan baseline lama dan tidak menjadi sumber penggantian.
 - Render pembuka dari PDF asli memperlihatkan M01–M02 pada halaman cetak 2,
   M03 pada halaman cetak 3, dan M04 pada halaman cetak 4; metadata `page`
   pada data kerja untuk rentang itu belum diubah agar tidak menimbulkan
@@ -487,6 +512,8 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h84_85_revised.py --check
 .venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h93_96_revised.py
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h93_96_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_agent_arab_fusha_remaining.py
+.venv/bin/python scripts/al_qorin_apply_agent_arab_fusha_remaining.py --check
 .venv/bin/python scripts/al_qorin_wafaq_markers.py --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \

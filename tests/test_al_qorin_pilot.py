@@ -257,8 +257,8 @@ H82_83_97_98_REVISED_ARCHIVE = (
 H82_83_97_98_REVISED_UNITS = ["M82", "M83", "M97", "M98"]
 WAFAQ_MARKER = "[gambar wafak]"
 WAFAQ_MARKER_UNITS = {
-    "M66", "M67", "M68", "M69", "M70", "M74", "M76", "M78", "M82", "M83",
-    "M84", "M85", "M98"
+    "M66", "M67", "M68", "M69", "M70", "M71", "M72", "M73", "M74", "M76",
+    "M77", "M78", "M82", "M83", "M84", "M85", "M98"
 }
 
 
@@ -565,6 +565,97 @@ def apply_user_arab_replacement_h93_96_revised(units_by_id):
     return units_by_id
 
 
+FUSHA_REMAINING_ARCHIVE = (
+    ALQ / "arab_fusha_revised_remaining_2026-10-28/"
+    "teks arab fusha halaman tersisa.txt"
+)
+FUSHA_REMAINING_UNITS = [
+    "M71", "M72", "M73", "M77", "M99", "M107", "M108",
+    "M110", "M111", "M112", "M113", "M114", "M117", "M118",
+]
+FUSHA_REMAINING_COUNTS = {
+    "M71": 6,
+    "M72": 3,
+    "M73": 4,
+    "M77": 5,
+    "M99": 2,
+    "M107": 4,
+    "M108": 4,
+    "M110": 3,
+    "M111": 4,
+    "M112": 3,
+    "M113": 2,
+    "M114": 4,
+    "M117": 5,
+    "M118": 4,
+}
+FUSHA_REMAINING_MARKER_UNITS = {"M71", "M72", "M73", "M77"}
+
+
+def agent_arab_fusha_remaining():
+    replacement = {}
+    current = None
+    headings = {
+        f"Halaman {int(uid[1:])}": uid for uid in FUSHA_REMAINING_UNITS
+    }
+    for raw_line in FUSHA_REMAINING_ARCHIVE.read_text(
+        encoding="utf-8-sig"
+    ).splitlines():
+        line = raw_line.strip()
+        if line in headings:
+            current = headings[line]
+            replacement[current] = []
+            continue
+        if current is not None and line:
+            replacement[current].append(line)
+    if list(replacement) != FUSHA_REMAINING_UNITS:
+        raise AssertionError("Fusha remaining-pages headings are incomplete")
+    counts = {uid: len(paragraphs) for uid, paragraphs in replacement.items()}
+    if counts != FUSHA_REMAINING_COUNTS:
+        raise AssertionError("Fusha remaining-pages paragraph counts changed")
+    all_paragraphs = [
+        paragraph for paragraphs in replacement.values() for paragraph in paragraphs
+    ]
+    if any("..." in paragraph for paragraph in all_paragraphs):
+        raise AssertionError("Fusha remaining-pages revision contains an ellipsis")
+    if any(paragraph.startswith("[رَسْم") for paragraph in all_paragraphs):
+        raise AssertionError(
+            "Fusha remaining-pages revision contains a figure descriptor"
+        )
+    marker_counts = {
+        uid: sum(paragraph.count(WAFAQ_MARKER) for paragraph in paragraphs)
+        for uid, paragraphs in replacement.items()
+    }
+    expected_markers = {
+        uid: int(uid in FUSHA_REMAINING_MARKER_UNITS)
+        for uid in FUSHA_REMAINING_UNITS
+    }
+    if marker_counts != expected_markers:
+        raise AssertionError("Fusha remaining-pages wafaq marker counts changed")
+    if replacement["M71"].count(WAFAQ_MARKER) != 1:
+        raise AssertionError("M71: expected one exact wafaq marker")
+    if replacement["M72"].count(WAFAQ_MARKER) != 1:
+        raise AssertionError("M72: expected one exact wafaq marker")
+    for uid, index in (("M73", 3), ("M77", 4)):
+        inline_paragraph = replacement[uid][index]
+        if inline_paragraph == WAFAQ_MARKER or WAFAQ_MARKER not in inline_paragraph:
+            raise AssertionError(f"{uid}: expected an inline wafaq marker")
+        before, after = (
+            part.strip() for part in inline_paragraph.split(WAFAQ_MARKER, 1)
+        )
+        if not before or not after:
+            raise AssertionError(f"{uid}: inline wafaq marker lacks surrounding text")
+    return replacement
+
+
+def apply_agent_arab_fusha_remaining(units_by_id):
+    replacement = agent_arab_fusha_remaining()
+    for uid, paragraphs in replacement.items():
+        if uid in units_by_id:
+            units_by_id[uid]["arab"] = list(paragraphs)
+    return units_by_id
+
+
 def rendered_arab_paragraphs(uid, paragraphs, research):
     """Return Markdown blocks after the user's wafaq-marker rendering rule."""
     def text_block(paragraph):
@@ -853,6 +944,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h81_revised(baseline)
         apply_user_arab_replacement_h84_85_revised(baseline)
         apply_user_arab_replacement_h93_96_revised(baseline)
+        apply_agent_arab_fusha_remaining(baseline)
         integrated = {
             u["unit_id"]: u
             for u in json.loads(integrated_path.read_text(encoding="utf-8"))
@@ -1023,6 +1115,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h81_revised(baseline)
         apply_user_arab_replacement_h84_85_revised(baseline)
         apply_user_arab_replacement_h93_96_revised(baseline)
+        apply_agent_arab_fusha_remaining(baseline)
         integrated = {
             u["unit_id"]: u
             for u in json.loads(integrated_path.read_text(encoding="utf-8"))
@@ -1177,6 +1270,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h81_revised(baseline)
         apply_user_arab_replacement_h84_85_revised(baseline)
         apply_user_arab_replacement_h93_96_revised(baseline)
+        apply_agent_arab_fusha_remaining(baseline)
 
         integrated = {
             u["unit_id"]: u
@@ -1401,6 +1495,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h81_revised(baseline)
         apply_user_arab_replacement_h84_85_revised(baseline)
         apply_user_arab_replacement_h93_96_revised(baseline)
+        apply_agent_arab_fusha_remaining(baseline)
 
         integrated = {
             u["unit_id"]: u
@@ -1526,6 +1621,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h81_revised(pilot)
         apply_user_arab_replacement_h84_85_revised(pilot)
         apply_user_arab_replacement_h93_96_revised(pilot)
+        apply_agent_arab_fusha_remaining(pilot)
         # The six Batch-01 units are historical pilot units and no selective or
         # semantic Lapis-4/5 batch targets them.  After applying the later
         # declared user Arabic replacement stages, their pre-Batch-01 records are
@@ -1644,7 +1740,7 @@ class IntegratedDocxTests(unittest.TestCase):
         self.assertEqual(images, 26)
         self.assertGreater(arab, 500)
         self.assertGreater(latin, 300)
-        self.assertEqual(arab_brackets, 389)
+        self.assertEqual(arab_brackets, 350)
         self.assertIn(
             user_arab_replacement_h93_96_revised()["M93"][0],
             [p.text.strip() for p in self.doc.paragraphs],
@@ -1730,8 +1826,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, rendered_total in (
-            (self.md_path, 562),
-            (ALQ / "REVISI_AL_QORIN_123.md", 575),
+            (self.md_path, 566),
+            (ALQ / "REVISI_AL_QORIN_123.md", 583),
         ):
             blocks = {
                 uid: block
@@ -1797,6 +1893,11 @@ class CleanUserEditionTests(unittest.TestCase):
         revised_h93_96 = user_arab_replacement_h93_96_revised()
         exact.update(revised_h93_96)
         clean.update(revised_h93_96)
+        # The agent's later Fusha revision supersedes the fourteen
+        # remaining gap-inventory units without changing their counts.
+        revised_fusha_remaining = agent_arab_fusha_remaining()
+        exact.update(revised_fusha_remaining)
+        clean.update(revised_fusha_remaining)
         self.assertEqual(sum(len(x) for x in exact.values()), 283)
         rendered_exact = {
             uid: rendered_arab_paragraphs(uid, paragraphs, research=True)
@@ -1819,8 +1920,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, expected, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", rendered_exact, 575),
-            (self.md_path, rendered_clean, 562),
+            (ALQ / "REVISI_AL_QORIN_123.md", rendered_exact, 583),
+            (self.md_path, rendered_clean, 566),
         ):
             blocks = {
                 uid: block
@@ -1840,14 +1941,14 @@ class CleanUserEditionTests(unittest.TestCase):
                     f"{path.name}:{uid}",
                 )
 
-        # After the M96 revision, the clean presentation removes only the
-        # remaining Indonesian process markers in M107.
+        # The Fusha revision also supersedes M107, so no exact/clean
+        # presentation difference remains in the pages 63-122 suffix.
         changed = {
             uid
             for uid in H63_122_UNITS
             if clean[uid] != exact[uid]
         }
-        self.assertEqual(changed, {"M107"})
+        self.assertEqual(changed, set())
         clean_text = self.md_path.read_text(encoding="utf-8")
         for marker in ("[bersambung]", "[tidak disalin penuh]", "[baris tidak lengkap]"):
             self.assertNotIn(marker, clean_text)
@@ -1901,8 +2002,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
-            (self.md_path, False, 562),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 583),
+            (self.md_path, False, 566),
         ):
             blocks = {
                 uid: block
@@ -1943,8 +2044,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
-            (self.md_path, False, 562),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 583),
+            (self.md_path, False, 566),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2020,8 +2121,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
-            (self.md_path, False, 562),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 583),
+            (self.md_path, False, 566),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2069,8 +2170,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
-            (self.md_path, False, 562),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 583),
+            (self.md_path, False, 566),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2118,8 +2219,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
-            (self.md_path, False, 562),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 583),
+            (self.md_path, False, 566),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2167,8 +2268,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
-            (self.md_path, False, 562),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 583),
+            (self.md_path, False, 566),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2217,8 +2318,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
-            (self.md_path, False, 562),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 583),
+            (self.md_path, False, 566),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2273,8 +2374,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
-            (self.md_path, False, 562),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 583),
+            (self.md_path, False, 566),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2296,6 +2397,60 @@ class CleanUserEditionTests(unittest.TestCase):
                 self.assertEqual(
                     len(re.findall(r"wafaq_qorin/\d+\.jpg", blocks[uid])),
                     0,
+                    f"{path.name}:{uid}:crop-count",
+                )
+
+    def test_agent_arab_fusha_remaining_is_locked_in_both_masters(self):
+        data = FUSHA_REMAINING_ARCHIVE.read_bytes()
+        self.assertEqual(
+            hashlib.sha256(data).hexdigest(),
+            "74a56f2282db552e9d05f87d1811a107f86f7b323a81d4c2cec2a3c85d3adcb9",
+        )
+        expected = agent_arab_fusha_remaining()
+        self.assertEqual(sum(len(x) for x in expected.values()), 53)
+        self.assertNotIn(
+            "...", " ".join(p for ps in expected.values() for p in ps)
+        )
+        self.assertEqual(expected["M71"][3], WAFAQ_MARKER)
+        self.assertEqual(expected["M72"][1], WAFAQ_MARKER)
+        self.assertIn(WAFAQ_MARKER, expected["M73"][3])
+        self.assertIn(WAFAQ_MARKER, expected["M77"][4])
+
+        def arab_paragraphs(block):
+            match = re.search(
+                r"^### 1\. Arab\n(.*?)(?=^###\s+|\Z)", block, re.M | re.S
+            )
+            self.assertIsNotNone(match)
+            return [
+                p.strip()
+                for p in match.group(1).strip().split("\n\n")
+                if p.strip()
+            ]
+
+        for path, research, rendered_total in (
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 583),
+            (self.md_path, False, 566),
+        ):
+            text = path.read_text(encoding="utf-8")
+            self.assertNotIn(WAFAQ_MARKER, text)
+            blocks = {
+                uid: block
+                for uid, _heading, block in unit_blocks(text)
+            }
+            self.assertEqual(
+                sum(len(arab_paragraphs(block)) for block in blocks.values()),
+                rendered_total,
+                path.name,
+            )
+            for uid in FUSHA_REMAINING_UNITS:
+                self.assertEqual(
+                    arab_paragraphs(blocks[uid]),
+                    rendered_arab_paragraphs(uid, expected[uid], research),
+                    f"{path.name}:{uid}",
+                )
+                self.assertEqual(
+                    len(re.findall(r"wafaq_qorin/\d+\.jpg", blocks[uid])),
+                    int(uid in FUSHA_REMAINING_MARKER_UNITS),
                     f"{path.name}:{uid}:crop-count",
                 )
 
@@ -2398,7 +2553,7 @@ class CleanUserEditionTests(unittest.TestCase):
                 latin += 1
                 self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("0", "left"), p.text[:80])
         self.assertEqual((arab, latin, images), (549, 315, 26))
-        self.assertEqual(arab_brackets, 387)
+        self.assertEqual(arab_brackets, 350)
         self.assertIn(
             user_arab_replacement_h93_96_revised()["M93"][0],
             [p.text.strip() for p in self.doc.paragraphs],
