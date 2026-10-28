@@ -221,6 +221,13 @@ SAMPUL_NOTE_PREFIX = "Catatan penyunting sampul: "
 WAFAQ_MARKER = "[gambar wafak]"
 
 
+def markdown_arab_paragraph(paragraph):
+    """Escape a source-initial asterisk for Markdown presentation."""
+    if paragraph.startswith("* "):
+        return "\\*" + paragraph[1:]
+    return paragraph
+
+
 def render_unit_md(u):
     limit = LAYER_LIMITS.get(u["unit_id"], 5)
     md = [f"## {u['heading']}", "", "### 1. Arab", ""]
@@ -235,7 +242,7 @@ def render_unit_md(u):
                 part.strip() for part in paragraph.split(WAFAQ_MARKER, 1)
             )
             if before:
-                md += [before + "\n"]
+                md += [markdown_arab_paragraph(before) + "\n"]
             md += [
                 f"![Crop halaman {u['crop_page']}](wafaq_qorin/{u['crop_page']}.jpg)",
                 "",
@@ -243,10 +250,10 @@ def render_unit_md(u):
                 "",
             ]
             if after:
-                md += [after + "\n"]
+                md += [markdown_arab_paragraph(after) + "\n"]
             crop_rendered_in_arab = True
         else:
-            md += [paragraph + "\n"]
+            md += [markdown_arab_paragraph(paragraph) + "\n"]
     md += ["### 2. Latin", ""] + [x + "\n" for x in u["latin"]]
     Terjemahan = list(u["terjemahan"])
     if limit == 3:

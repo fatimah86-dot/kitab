@@ -193,9 +193,10 @@ kemudian menggantikan hanya Lapis 1 M70 dan M74,
 `arab_replacement_h76_revised/` kemudian menggantikan hanya Lapis 1 M76,
 `arab_replacement_h78_80_revised/` kemudian menggantikan hanya Lapis 1
 M78 dan M80, `arab_replacement_h81_revised/` kemudian menggantikan hanya
-Lapis 1 M81, dan `arab_replacement_h84_85_revised/` kemudian
-menggantikan hanya Lapis 1 M84 dan M85. Kalimat pengantar/meta sebelum
-isi tidak masuk
+Lapis 1 M81, `arab_replacement_h84_85_revised/` kemudian menggantikan
+hanya Lapis 1 M84 dan M85, dan `arab_replacement_h93_96_revised/`
+kemudian menggantikan hanya Lapis 1 M93 dan M96. Kalimat pengantar/meta
+sebelum isi tidak masuk
 dokumen; pada edisi bersih penanda proses ekstraksi berbahasa Indonesia
 dalam kiriman halaman 63–122 juga tidak ditampilkan. Latin, Terjemahan,
 Syarah/catatan, Metode/Khususiyah, tabel, dan pilihan berkas crop tidak
@@ -210,5 +211,6 @@ aturan `[gambar wafak]` pada §4. Auditnya:
 `AUDIT_ARAB_PENGGANTI_H70_74_REVISI_2026-10-28.md`,
 `AUDIT_ARAB_PENGGANTI_H76_REVISI_2026-10-28.md`,
 `AUDIT_ARAB_PENGGANTI_H78_80_REVISI_2026-10-28.md`,
-`AUDIT_ARAB_PENGGANTI_H81_REVISI_2026-10-28.md`, dan
-`AUDIT_ARAB_PENGGANTI_H84_85_REVISI_2026-10-28.md`.
+`AUDIT_ARAB_PENGGANTI_H81_REVISI_2026-10-28.md`,
+`AUDIT_ARAB_PENGGANTI_H84_85_REVISI_2026-10-28.md`, dan
+`AUDIT_ARAB_PENGGANTI_H93_96_REVISI_2026-10-28.md`.

@@ -517,8 +517,61 @@ def apply_user_arab_replacement_h84_85_revised(units_by_id):
     return units_by_id
 
 
+H93_96_REVISED_ARCHIVE = (
+    ALQ / "incoming_user_2026-10-28/arab_replacement_h93_96_revised/"
+    "teks arab halaman 93 dan 96 revisi.txt"
+)
+H93_96_REVISED_UNITS = ["M93", "M96"]
+H93_96_HEADINGS = {
+    "Halaman 93": "M93",
+    "Halaman 96": "M96",
+}
+
+
+def user_arab_replacement_h93_96_revised():
+    replacement = {}
+    current = None
+    for raw_line in H93_96_REVISED_ARCHIVE.read_text(
+        encoding="utf-8-sig"
+    ).splitlines():
+        line = raw_line.strip()
+        if line in H93_96_HEADINGS:
+            current = H93_96_HEADINGS[line]
+            replacement[current] = []
+            continue
+        if current is not None and line:
+            replacement[current].append(line)
+    if list(replacement) != H93_96_REVISED_UNITS:
+        raise AssertionError("revised pages 93/96 headings are incomplete")
+    counts = {uid: len(paragraphs) for uid, paragraphs in replacement.items()}
+    if counts != {"M93": 6, "M96": 7}:
+        raise AssertionError("revised pages 93/96 paragraph counts changed")
+    if any(
+        WAFAQ_MARKER in paragraph
+        for paragraphs in replacement.values()
+        for paragraph in paragraphs
+    ):
+        raise AssertionError("revised pages 93/96: unexpected wafaq marker")
+    if not replacement["M93"][0].startswith("* "):
+        raise AssertionError("M93: expected a literal leading asterisk")
+    return replacement
+
+
+def apply_user_arab_replacement_h93_96_revised(units_by_id):
+    replacement = user_arab_replacement_h93_96_revised()
+    for uid, paragraphs in replacement.items():
+        if uid in units_by_id:
+            units_by_id[uid]["arab"] = list(paragraphs)
+    return units_by_id
+
+
 def rendered_arab_paragraphs(uid, paragraphs, research):
     """Return Markdown blocks after the user's wafaq-marker rendering rule."""
+    def text_block(paragraph):
+        if paragraph.startswith("* "):
+            return "\\*" + paragraph[1:]
+        return paragraph
+
     rendered = []
     manifest = {}
     if research and any(WAFAQ_MARKER in paragraph for paragraph in paragraphs):
@@ -530,7 +583,7 @@ def rendered_arab_paragraphs(uid, paragraphs, research):
         }
     for paragraph in paragraphs:
         if WAFAQ_MARKER not in paragraph:
-            rendered.append(paragraph)
+            rendered.append(text_block(paragraph))
             continue
         if uid not in WAFAQ_MARKER_UNITS:
             raise AssertionError(f"unexpected wafaq marker unit: {uid}")
@@ -540,7 +593,7 @@ def rendered_arab_paragraphs(uid, paragraphs, research):
             part.strip() for part in paragraph.split(WAFAQ_MARKER, 1)
         )
         if before:
-            rendered.append(before)
+            rendered.append(text_block(before))
         page = int(uid[1:])
         if research:
             rendered.append(f"![Crop halaman {page}](wafaq_qorin/{page}.jpg)")
@@ -550,7 +603,7 @@ def rendered_arab_paragraphs(uid, paragraphs, research):
         else:
             rendered.append(f"![Wafaq halaman {page}](wafaq_qorin/{page}.jpg)")
         if after:
-            rendered.append(after)
+            rendered.append(text_block(after))
     return rendered
 
 
@@ -799,6 +852,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h78_80_revised(baseline)
         apply_user_arab_replacement_h81_revised(baseline)
         apply_user_arab_replacement_h84_85_revised(baseline)
+        apply_user_arab_replacement_h93_96_revised(baseline)
         integrated = {
             u["unit_id"]: u
             for u in json.loads(integrated_path.read_text(encoding="utf-8"))
@@ -968,6 +1022,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h78_80_revised(baseline)
         apply_user_arab_replacement_h81_revised(baseline)
         apply_user_arab_replacement_h84_85_revised(baseline)
+        apply_user_arab_replacement_h93_96_revised(baseline)
         integrated = {
             u["unit_id"]: u
             for u in json.loads(integrated_path.read_text(encoding="utf-8"))
@@ -1121,6 +1176,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h78_80_revised(baseline)
         apply_user_arab_replacement_h81_revised(baseline)
         apply_user_arab_replacement_h84_85_revised(baseline)
+        apply_user_arab_replacement_h93_96_revised(baseline)
 
         integrated = {
             u["unit_id"]: u
@@ -1344,6 +1400,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h78_80_revised(baseline)
         apply_user_arab_replacement_h81_revised(baseline)
         apply_user_arab_replacement_h84_85_revised(baseline)
+        apply_user_arab_replacement_h93_96_revised(baseline)
 
         integrated = {
             u["unit_id"]: u
@@ -1468,6 +1525,7 @@ class MarkdownStructureTests(unittest.TestCase):
         apply_user_arab_replacement_h78_80_revised(pilot)
         apply_user_arab_replacement_h81_revised(pilot)
         apply_user_arab_replacement_h84_85_revised(pilot)
+        apply_user_arab_replacement_h93_96_revised(pilot)
         # The six Batch-01 units are historical pilot units and no selective or
         # semantic Lapis-4/5 batch targets them.  After applying the later
         # declared user Arabic replacement stages, their pre-Batch-01 records are
@@ -1586,7 +1644,11 @@ class IntegratedDocxTests(unittest.TestCase):
         self.assertEqual(images, 26)
         self.assertGreater(arab, 500)
         self.assertGreater(latin, 300)
-        self.assertEqual(arab_brackets, 397)
+        self.assertEqual(arab_brackets, 389)
+        self.assertIn(
+            user_arab_replacement_h93_96_revised()["M93"][0],
+            [p.text.strip() for p in self.doc.paragraphs],
+        )
 
 
 class CleanUserEditionTests(unittest.TestCase):
@@ -1668,8 +1730,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, rendered_total in (
-            (self.md_path, 555),
-            (ALQ / "REVISI_AL_QORIN_123.md", 568),
+            (self.md_path, 562),
+            (ALQ / "REVISI_AL_QORIN_123.md", 575),
         ):
             blocks = {
                 uid: block
@@ -1731,7 +1793,11 @@ class CleanUserEditionTests(unittest.TestCase):
         revised_h84_85 = user_arab_replacement_h84_85_revised()
         exact.update(revised_h84_85)
         clean.update(revised_h84_85)
-        self.assertEqual(sum(len(x) for x in exact.values()), 276)
+        # A still later two-page submission supersedes M93 and M96.
+        revised_h93_96 = user_arab_replacement_h93_96_revised()
+        exact.update(revised_h93_96)
+        clean.update(revised_h93_96)
+        self.assertEqual(sum(len(x) for x in exact.values()), 283)
         rendered_exact = {
             uid: rendered_arab_paragraphs(uid, paragraphs, research=True)
             for uid, paragraphs in exact.items()
@@ -1753,8 +1819,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, expected, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", rendered_exact, 568),
-            (self.md_path, rendered_clean, 555),
+            (ALQ / "REVISI_AL_QORIN_123.md", rendered_exact, 575),
+            (self.md_path, rendered_clean, 562),
         ):
             blocks = {
                 uid: block
@@ -1774,14 +1840,14 @@ class CleanUserEditionTests(unittest.TestCase):
                     f"{path.name}:{uid}",
                 )
 
-        # After the final M97 revision, the clean presentation removes only
-        # the remaining Indonesian process markers in M96 and M107.
+        # After the M96 revision, the clean presentation removes only the
+        # remaining Indonesian process markers in M107.
         changed = {
             uid
             for uid in H63_122_UNITS
             if clean[uid] != exact[uid]
         }
-        self.assertEqual(changed, {"M96", "M107"})
+        self.assertEqual(changed, {"M107"})
         clean_text = self.md_path.read_text(encoding="utf-8")
         for marker in ("[bersambung]", "[tidak disalin penuh]", "[baris tidak lengkap]"):
             self.assertNotIn(marker, clean_text)
@@ -1835,8 +1901,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 568),
-            (self.md_path, False, 555),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
+            (self.md_path, False, 562),
         ):
             blocks = {
                 uid: block
@@ -1877,8 +1943,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 568),
-            (self.md_path, False, 555),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
+            (self.md_path, False, 562),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -1954,8 +2020,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 568),
-            (self.md_path, False, 555),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
+            (self.md_path, False, 562),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2003,8 +2069,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 568),
-            (self.md_path, False, 555),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
+            (self.md_path, False, 562),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2052,8 +2118,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 568),
-            (self.md_path, False, 555),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
+            (self.md_path, False, 562),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2101,8 +2167,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 568),
-            (self.md_path, False, 555),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
+            (self.md_path, False, 562),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2151,8 +2217,8 @@ class CleanUserEditionTests(unittest.TestCase):
             ]
 
         for path, research, rendered_total in (
-            (ALQ / "REVISI_AL_QORIN_123.md", True, 568),
-            (self.md_path, False, 555),
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
+            (self.md_path, False, 562),
         ):
             text = path.read_text(encoding="utf-8")
             self.assertNotIn(WAFAQ_MARKER, text)
@@ -2174,6 +2240,62 @@ class CleanUserEditionTests(unittest.TestCase):
                 self.assertEqual(
                     len(re.findall(r"wafaq_qorin/\d+\.jpg", blocks[uid])),
                     1,
+                    f"{path.name}:{uid}:crop-count",
+                )
+
+    def test_user_arab_replacement_h93_96_revised_is_locked_in_both_masters(self):
+        data = H93_96_REVISED_ARCHIVE.read_bytes()
+        self.assertEqual(
+            hashlib.sha256(data).hexdigest(),
+            "b6e7e4c4387cf6f3a8d154c9650254c2747c61a284cbef150d6813f781e2d01b",
+        )
+        expected = user_arab_replacement_h93_96_revised()
+        self.assertEqual(sum(len(x) for x in expected.values()), 13)
+        self.assertNotIn(
+            "...", " ".join(p for ps in expected.values() for p in ps)
+        )
+        self.assertTrue(expected["M93"][0].startswith("* "))
+        self.assertTrue(
+            rendered_arab_paragraphs("M93", expected["M93"], False)[0].startswith(
+                "\\* "
+            )
+        )
+
+        def arab_paragraphs(block):
+            match = re.search(
+                r"^### 1\. Arab\n(.*?)(?=^###\s+|\Z)", block, re.M | re.S
+            )
+            self.assertIsNotNone(match)
+            return [
+                p.strip()
+                for p in match.group(1).strip().split("\n\n")
+                if p.strip()
+            ]
+
+        for path, research, rendered_total in (
+            (ALQ / "REVISI_AL_QORIN_123.md", True, 575),
+            (self.md_path, False, 562),
+        ):
+            text = path.read_text(encoding="utf-8")
+            self.assertNotIn(WAFAQ_MARKER, text)
+            blocks = {
+                uid: block
+                for uid, _heading, block in unit_blocks(text)
+            }
+            self.assertEqual(
+                sum(len(arab_paragraphs(block)) for block in blocks.values()),
+                rendered_total,
+                path.name,
+            )
+            for uid in H93_96_REVISED_UNITS:
+                self.assertEqual(
+                    arab_paragraphs(blocks[uid]),
+                    rendered_arab_paragraphs(uid, expected[uid], research),
+                    f"{path.name}:{uid}",
+                )
+                self.assertEqual(
+                    len(re.findall(r"wafaq_qorin/\d+\.jpg", blocks[uid])),
+                    0,
                     f"{path.name}:{uid}:crop-count",
                 )
 
@@ -2275,8 +2397,12 @@ class CleanUserEditionTests(unittest.TestCase):
             elif layer == "2. Latin":
                 latin += 1
                 self.assertEqual((pval(p, "w:bidi"), pval(p, "w:jc")), ("0", "left"), p.text[:80])
-        self.assertEqual((arab, latin, images), (542, 315, 26))
-        self.assertEqual(arab_brackets, 391)
+        self.assertEqual((arab, latin, images), (549, 315, 26))
+        self.assertEqual(arab_brackets, 387)
+        self.assertIn(
+            user_arab_replacement_h93_96_revised()["M93"][0],
+            [p.text.strip() for p in self.doc.paragraphs],
+        )
 
 
 class PreviewTests(unittest.TestCase):
@@ -2291,6 +2417,7 @@ class PreviewTests(unittest.TestCase):
         self.assertEqual([int(x) for x in re.findall(r"wafaq_qorin/(\d+)\.jpg", s)], EXPECTED_CROPS)
         self.assertIn('dir="rtl" class="layer arab"', s)
         self.assertIn('dir="ltr" class="layer"', s)
+        self.assertIn(user_arab_replacement_h93_96_revised()["M93"][0], s)
 
 
 class PilotDocxTests(unittest.TestCase):

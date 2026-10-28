@@ -86,6 +86,7 @@ def parse_inline(p, s, *, size=12, color=INK, bold=False, italic=False, force_rt
             else: buf.append(s[idx]); idx += 1
             continue
         if s[idx] == "`": flush(); code = True; idx += 1
+        elif s.startswith("\\*", idx): buf.append("*"); idx += 2
         elif s.startswith("***", idx): flush(); b = not b; i = not i; idx += 3
         elif s.startswith("**", idx): flush(); b = not b; idx += 2
         elif s[idx] == "*": flush(); i = not i; idx += 1

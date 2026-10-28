@@ -59,6 +59,9 @@ from al_qorin_parse_user_arab_replacement_h81_revised import (
 from al_qorin_parse_user_arab_replacement_h84_85_revised import (
     load_user_arab_replacement_h84_85_revised,
 )
+from al_qorin_parse_user_arab_replacement_h93_96_revised import (
+    load_user_arab_replacement_h93_96_revised,
+)
 from al_qorin_wafaq_markers import WAFAQ_MARKER
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -70,6 +73,13 @@ UNSPECIFIED = "tidak disebutkan dalam sumber unit ini"
 MANUAL_KHUSUSIYAH = {"M04", "M38", "M122"}
 EXPECTED_CROPS = [49, 58, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 76, 77, 78,
                   82, 83, 84, 85, 86, 98, 109, 116, 120, 121]
+
+
+def markdown_arab_paragraph(paragraph):
+    """Escape a source-initial asterisk for Markdown presentation."""
+    if paragraph.startswith("* "):
+        return "\\*" + paragraph[1:]
+    return paragraph
 
 
 def normalize_spaces(text):
@@ -520,6 +530,10 @@ def main():
     arab_replacement.update(
         load_user_arab_replacement_h84_85_revised(ROOT)["units"]
     )
+    # A later two-page revision supersedes only M93 and M96.
+    arab_replacement.update(
+        load_user_arab_replacement_h93_96_revised(ROOT)["units"]
+    )
     if list(arab_replacement) != ORDER:
         raise SystemExit("combined user Arabic replacements do not cover 123 units")
 
@@ -585,14 +599,14 @@ def main():
                     part.strip() for part in paragraph.split(WAFAQ_MARKER, 1)
                 )
                 if before:
-                    lines += [before, ""]
+                    lines += [markdown_arab_paragraph(before), ""]
                 page = unit["crop_page"]
                 lines += [f"![Wafaq halaman {page}](wafaq_qorin/{page}.jpg)", ""]
                 if after:
-                    lines += [after, ""]
+                    lines += [markdown_arab_paragraph(after), ""]
                 crop_rendered_in_arab = True
             else:
-                lines += [paragraph, ""]
+                lines += [markdown_arab_paragraph(paragraph), ""]
         lines += ["### 2. Latin", ""]
         for paragraph in unit["latin"]:
             lines += [paragraph, ""]
