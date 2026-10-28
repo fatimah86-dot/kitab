@@ -1,6 +1,6 @@
 # AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL
 
-> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari paket unggahan 2026-10-28; unit lain masih menunggu penyelesaian semantik per batch. Crop wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.
+> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari paket unggahan 2026-10-28; batch semantik M16–M64 telah dikurasi setingkat pilot (catatan dipilih dari catatan lama, Khususiyah tingkat frasa, lima stub Metode dikoreksi), sedangkan unit lain di luar pilot/batch masih menunggu batch berikutnya. Crop wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.
 
 > Dokumen ini adalah revisi terjemahan dokumenter. Metode yang dinisbatkan kepada penulis kitab tidak disajikan sebagai anjuran, terapi, atau jaminan hasil, dan bukan pengganti penanganan medis.
 
@@ -1259,15 +1259,9 @@ Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja
 
 «مِلَّا» tidak terbaca pasti; kemungkinan «ما لا» atau «مِلَّا» (seluruhnya). Dipertahankan dengan catatan; tidak diubah. Kutipan Quran dicocokkan dengan QS 6:75 dan 6:79; keduanya dikutip penulis tanpa nama surah, penomoran ditambahkan editor dan disebutkan.
 
-pembagian wajah hati dimulai dari sisi jiwa.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 «يَتَصَرَّفُ» dibaca sesuai cetakan; «يتصرّف في الملك» berarti bertindak di alam.
 
-peralihan dari wajah jiwa ke wajah zat, lalu ke pasangan wajah berikutnya.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 «الصَّفَحَات» bisa «الصَّحَائِف» (lembaran); bentuk cetak dipertahankan. «نُبُوَّةَ التَّجَلِّي» susunan tidak lazim; tidak dilancarkan.
-
-pasangan wajah iman–asma menjadi dasar halaman 17.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -1313,11 +1307,7 @@ Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja
 
 «الْأَمْرِ الْعُلْيَا» tidak sesuai kaidah (seharusnya «الأعلى»); bentuk cetak dipertahankan, usulan «الأعلى» hanya dicatat. «يُتْلَى بِهِ» bisa dibaca «يُتَلَّى»; dipilih bentuk pasif.
 
-peralihan ke peran membaca dan memahami Quran sebagai wajah hati.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 «الْعَالَمُ الْأَمْرُ» susunan idhafah yang tidak baku; dipertahankan. «الْعُلْيَا» sifat mu’annats padahal mudhaf ilayh mudzakkar; dicatat sebagai kemungkinan salah cetak (usulan «الأعلى»).
-
-penulis menempatkan ittiba‘ sunnah sebagai isi wajah kedua, bukan klaim kasyaf lepas dari syariat.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
 
 kata sebelum «وَبِهِ يُشْهَدُ» tidak jelas; bagian yang terlihat dapat dibaca «على الجمع» dan ditandai kurung siku sebagai usulan, bukan bunyi pasti.
 
@@ -1367,15 +1357,9 @@ Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja
 
 «وَجْهُ الْفَتْق» berpasangan dengan «الرَّتْق» yang muncul di halaman 24; keduanya istilah kunci penulis. «عَوَالِمَ الْفِطْرَةِ» manshub sebagai maf‘ul bih kedua bagi «يشهد» memakai huruf jar tambahan; dipertahankan.
 
-pasangan ikhtira‘–ibda‘ dijelaskan lewat qudrah–idarah.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 ucapan «اتقوا فراسة المؤمن» dinisbatkan penulis kepada Nabi—semoga salawat dan salam dilimpahkan kepadanya; teks tidak memberi sanad, dan tidak diverifikasi secara eksternal dalam pekerjaan ini. Redaksi yang lazim memakai «اتقوا فراسة المؤمن»; dipertahankan seperti tercetak.
 
-peralihan dari wajah ke mata hati.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 kedua kutipan dicocokkan dengan QS 7:198 dan 22:46; penulis tidak menyebut nomor, penomoran ditambahkan editor dan disebut terbuka. «وَتَرَاهُمْ» pada cetakan dapat pula dibaca «وَتَرَاهُمْ» (engkau melihat mereka); harakat diambil sesuai bacaan yang lazim.
-
-penguat bahwa alat persepsi batin bukan mata fisik.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -1409,7 +1393,7 @@ Mata kedua: untuk susunan manusia dan alam bawah secara keseluruhan; dengannya d
 
 #### 1. Metode
 
-Petunjuk yang ada dalam sumber: meletakkan (ضع). Kutipan kata kunci Arab: «وأنواع الخلوات ويفهم سر الوضع الذي به وسع كرسيه السماوات». Rincian cara dan bahan ada pada bagian ARAB/LATIN di atas dan tidak ditambah di sini.
+Tidak ada petunjuk praktik pada halaman ini. Isi sumber adalah pembuka Bab Ketiga tentang rahasia hati dan “mata” batin menurut penulis; kata «الوضع» di dalamnya bagian dari uraian kosmologis tentang Kursi, bukan perintah meletakkan sesuatu. Semuanya dicatat sebagai uraian penulis, bukan metode.
 
 #### 2. Penentuan Jam
 
@@ -1419,11 +1403,7 @@ Petunjuk yang ada dalam sumber: meletakkan (ضع). Kutipan kata kunci Arab: «و
 
 «الْكَرُوبِيِّينَ» jamak yang tidak baku (lazimnya «الكَرُوبِيّين»); bentuk cetak dipertahankan. «أَسْرَارُ الْقُلُوبِ» idhafah; judul tanpa harakat lengkap pada cetakan.
 
-bab baru; pernyataan kosmologis penulis, bukan data astronomi modern — tidak diadopsi sebagai klaim sains.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 «وَالنَّسْرُ» (burung nasar) sangat janggal dalam konteks ini; kemungkinan «وَالسَّرُّ» (rahasia) atau kata lain. Dipertahankan sebagai bentuk cetak dan ditandai sebagai persoalan terbuka, bukan diganti. «أَوْ قَنَاةٍ» tidak jelas.
-
-campuran gambaran kosmologis dan ibadah; dinisbatkan pada penulis.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -1459,7 +1439,7 @@ Mata kedua, yaitu yang memandang dengan cahaya alam amr; dengannya ia menyaksika
 
 #### 1. Metode
 
-Petunjuk yang ada dalam sumber: menulis (يكتب). Kutipan kata kunci Arab: «به أسرار العلم القدري الذي يكتب أسباب أحكام القدرة ويشهد سر». Rincian cara dan bahan ada pada bagian ARAB/LATIN di atas dan tidak ditambah di sini.
+Tidak ada petunjuk praktik pada halaman ini. Isi sumber melanjutkan uraian “mata” batin, Lauh Mahfuz, dan sirr al-amr menurut penulis; kata «يكتب» di dalamnya predikat dalam uraian tentang ilmu qadari, bukan perintah menulis bagi pembaca. Semuanya dicatat sebagai uraian penulis, bukan metode.
 
 #### 2. Penentuan Jam
 
@@ -1469,11 +1449,7 @@ Petunjuk yang ada dalam sumber: menulis (يكتب). Kutipan kata kunci Arab: «�
 
 «وَهِيَ الَّتِي يَنْظُرُ بِهَا اللَّوْحُ الْمَحْفُوظُ» menempatkan Lauh sebagai subjek «ينظر», padahal lazimnya mata yang memandang; dipertahankan dan dicatat sebagai persoalan susunan. «لَا تُحْدِرُ حَرَكَاتُهُ حَتَّى يَخْلَعَهُ وَيُكَرِّمَهُ عَلَيْنَا» tidak jelas; tidak dilancarkan. Ucapan Abu Bakar dinisbatkan penulis; tidak diverifikasi sanadnya.
 
-pernyataan kasyaf penulis.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 «اسْتِغْرَاقٌ فِي الْمَالِ» janggal; konteks menuntut «في المَقام» atau «في الحال», tetapi yang tercetak «المال» dan dipertahankan.
-
-penjelasan tentang ahli fana; bukan penilaian editor atas klaim tersebut.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
 
 kalimat «وَكَيْفَ التَّقْسِيمُ الْإِسْرَافِيلُ» rusak susunannya; tidak diperbaiki dengan menambah kata. «مِنِّي يُوهَرُ» tidak terbaca pasti.
 
@@ -1481,7 +1457,7 @@ Perlu pemeriksaan gambar sebelum publish.(Harakat dan tanda baca Arab bersifat e
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: Petunjuk yang ada dalam sumber: menulis (يكتب). : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M21 — Halaman 21, penutup Bab Ketiga
 
@@ -1507,7 +1483,7 @@ Mata yang memandang dengan cahaya-cahaya kekuasaan secara keseluruhan; dengannya
 
 #### 1. Metode
 
-Petunjuk yang ada dalam sumber: membawa (حمل). Kutipan kata kunci Arab: «والمحيط بأخذ الموجودات وكيف حمله الثمانية الذي أنبأ الله عن». Rincian cara dan bahan ada pada bagian ARAB/LATIN di atas dan tidak ditambah di sini.
+Tidak ada petunjuk praktik pada halaman ini. Isi sumber adalah penutup Bab Ketiga: uraian penyingkapan ruh dan Arasy menurut penulis; kata «حمله» di dalamnya merujuk delapan malaikat pemikul Arasy, bukan perintah membawa sesuatu. Semuanya dicatat sebagai uraian penulis, bukan metode.
 
 #### 2. Penentuan Jam
 
@@ -1517,11 +1493,7 @@ Petunjuk yang ada dalam sumber: membawa (حمل). Kutipan kata kunci Arab: «و�
 
 «فَتُوبَتُهَا» kemungkinan «فَعُلْوِيُّهَا» (bagian atasnya) mengingat pasangan «سُفْلِيُّهَا»; bentuk cetak dipertahankan dan usulan dicatat. «لِعَتِيقِهَا» tidak jelas. «مَنْ أَسْرَارِ» seharusnya «مِنْ أَسْرَارِ»; dicatat sebagai kemungkinan salah cetak tanpa diubah.
 
-lanjutan gambaran ruh; berakhir dengan kalimat tentang kasyaf, bukan ilmu.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 «الْمُحِيطَ» manshub mengikuti «يشاهد»; «حمله الثمانية» jumlahnya delapan sesuai QS al-Haqqah 69:17 dan al-Zumar 39:75 (tanpa kutipan langsung oleh penulis).
-
-penutup Bab Ketiga dengan gambaran Arasy; berlanjut ke Bab Keempat di halaman 22.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -1565,11 +1537,7 @@ Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja
 
 «كَحَلْقَةٍ مُلْقَاةٍ فِي فَلَاةٍ» perumpamaan kecilnya makhluk dibanding Arasy; tidak diubah. «فَيَذْهَلُ» bisa «فيَذهَل» (tercengang) atau «يَزْهَل»; dipilih yang lazim.
 
-pembuka bab dengan pernyataan kerendahan kosmos; penulis tidak mengutip dalil di sini.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 «لِاخْتِصَاصِيَّةٍ» tidak jelas; dipertahankan tanpa dilancarkan. «الْوَاحِدُ» dibaca sebagai sifat/nama; «اخْتَارَ» fa‘ilnya Allah.
-
-penulis menempatkan para rasul sebagai puncak penyingkapan; klaim ini dinisbatkan padanya.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -1615,15 +1583,9 @@ Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja
 
 «الْحِسِّ» bisa pula «الْحَبْس» atau «الْحُسْن»; yang terbaca «الحس», dipertahankan. «الْأَسْرَارَ التَّدْبِيرَ» susunan tidak sejajar; tidak diperbaiki.
 
-pemuliaan Nabi lalu pembagian khazanah; ungkapan penulis, bukan hadis.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 «عَقِيلَةٌ» janggal; kemungkinan «مُقْفَلَة» (terkunci) mengingat «موثقا» pada lanjutan — dipertahankan dan dicatat sebagai persoalan. «يَتْلُوَاهُ» bentuk ganda; dipertahankan.
 
-perbandingan bacaan lahir dan batin; penulis tidak menafikan bacaan lahir.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 «مُؤْمِنًا» bisa dibaca «مؤمنا» (hal) atau «مؤمنا» sebagai sifat pelaku; dipilih sebagai hal. «وَمَا وَإِنَّ» ziyadah tidak jelas; dipertahankan.
-
-penekanan ittiba‘ sunnah sebagai syarat terbukanya khazanah.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -1663,11 +1625,7 @@ Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja
 
 «خَمْسِ الرَّتْقِ» berpasangan dengan «الفتق»; «خمس» di sini bagian dari istilah, tidak diterjemahkan sebagai bilangan hari. «الْقُدْرَة» pada «أسباب القدرة» bisa pula «الْقَدَر»; yang terbaca «القدرة», dipertahankan. Ucapan Abu Yazid dinisbatkan penulis; tidak diverifikasi sanadnya.
 
-penjelasan penulis atas ucapan sufi, bukan kutipan langsung dari kitab lain.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
-
 «الْمُحْدَثُونَ» dibaca sesuai cetakan; dalam hadis lazimnya «مُحَدَّثُون» (orang yang diajak bicara malaikat). Keduanya dicatat; teks tidak diubah tanpa bukti cetak tambahan. «الرَّاسِخُونَ الْأَقْدَامِ» susunan kiasan; dipertahankan.
-
-penutup rangkaian «أطوال» yang dimulai halaman 14; belum merupakan akhir kitab — halaman 25 dan seterusnya belum dikerjakan.(Harakat dan tanda baca Arab bersifat editorial; huruf yang diragukan dibahas di audit, bukan diganti diam-diam.)
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -1923,7 +1881,7 @@ kata «الْقِرَاءَة» tidak jelas pada cetakan (bisa «الْقِرَ�
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber: khalwat delapan puluh hari dengan zikir dan fikr; berbuka dengan roti gandum (sya‘ir) atau burghul. : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: khalwat delapan puluh hari : Media: roti gandum (sya‘īr) atau burghul/jarisya untuk berbuka (bentuk kata kedua tidak dipastikan—lihat Catatan penyunting) : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M30 — Halaman 30, pembuka Bab Keenam: jiwa, ruh, dan tubuh
 
@@ -2135,7 +2093,7 @@ redaksi «أبغضكم إلى الله» sesuai cetakan; sebagian riwayat memaka
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: Kutipan sumber tentang makan: «Tidak ada bejana yang dipenuhi anak Adam lebih buruk daripada perutnya»; «Hikmah tidak berdiam di perut yang penuh makanan»; «Yang paling dibenci Allah di antara kalian adalah yang banyak makan dan minum»; «Perut adalah rumah penyakit». : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M35 — Halaman 35, pembuka Bab Ketujuh: hijab makanan dan zikir
 
@@ -2174,8 +2132,6 @@ Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja
 #### Catatan penyunting
 
 «وَصِفَتُهَا» dan «مُحِيطُهَا» memakai dhamir mu’annats; rujukannya bisa «روح» atau «نفس», dan cetakan tidak menentukannya — dipertahankan. «الطَّائِفِ مِنْهُ» tidak jelas; tidak dilancarkan.
-
-Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 kata terakhir halaman terbaca «العِلَل الجسمانية»; cetakan agak kabur pada huruf pertama, sehingga «العلل» dinyatakan sebagai bacaan kerja. «الصَّادِّ» isim fa‘il dari صَدَّ.
 
@@ -2217,15 +2173,11 @@ Praktik yang disebut sumber (dinisbatkan kepada penulis, bukan anjuran medis): b
 
 «وَلْيَعْقِدْ» dan «وَلْيَجِدْ» pada cetakan tanpa titik yang jelas pada sebagian huruf; dibaca sesuai pola perintah. Ungkapan «من عرف نفسه» dinisbatkan penulis kepada Nabi—semoga salawat dan salam dilimpahkan kepadanya; saya tidak memverifikasi sanadnya dan tidak menambah teks.
 
-syarat batin sebelum latihan; penekanan pada niat dan keikhlasan.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 «بِمِلْحٍ» terbaca dengan huruf yang menyempit; kemungkinan «بِمِلْحٍ» (dengan garam) — dipertahankan dan dicatat. «رَكْعَتَانِ» marfu‘ sebagai mubtada’ tanpa khabar yang jelas; susunan cetak dipertahankan.
-
-peralihan dari syarat batin ke praktik lahiriah; semua dinisbatkan pada penulis, tanpa jaminan manfaat.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: Praktik yang disebut sumber (dinisbatkan kepada penulis, bukan anjuran medis): berbuka dengan roti gandum (sya‘ir) bercampur garam dan sedikit minyak; zikir «يا أحد»; salat fardu beserta sunahnya; dua rakaat duha dan dua rakaat zawal; memutus hubungan duniawi dan duduk di tempat sepi yang suci setelah mandi. : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tanpa penetapan hari tertentu menurut sumber; salat fardu beserta sunahnya, ditambah dua rakaat duha dan dua rakaat zawal : Media: roti gandum (sya‘īr) bercampur garam dan sedikit minyak untuk berbuka; zikir «يا أحد»; tempat sepi yang suci sesudah mandi : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M37 — Halaman 37, tanda sepuluh pertama dan aturan zikir jahr
 
@@ -2261,15 +2213,11 @@ Praktik dari sumber: berzikir jahr sejauh terdengar sendiri, lalu dengan suara y
 
 «حَقِيقِ الْمَقَامِ» susunan idhafah tidak lazim (mungkin «حقيقة المقام»); dipertahankan. «الْعَشَرَةِ الْأُوَلِ» memakai bentuk mu’annats; sesuai cetakan.
 
-gejala awal latihan; penulis menyebutnya tanda, bukan diagnosis — tidak dijadikan klaim medis.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 «فَيَشْكُلُ» terbaca demikian; mungkin «فَيَشْكُل» (menjadi sulit) atau «يُشْكِل»; dipertahankan sebagai bacaan kerja. «بِالْتِفَاتِهِ» dibaca dengan kasrah pada ta’.
-
-penyesuaian kekuatan zikir dengan keadaan; penulis memberi patokan praktis, bukan janji pengalaman.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: sepuluh hari pertama latihan (pada sebagian orang sekitar hari kedua puluh); keadaan dapat berganti selama tiga hari atau sekitar itu : Media: zikir jahr bertahap: sejauh terdengar sendiri, lalu terdengar orang terdekat sampai tenang, kemudian kembali ke kadar semula : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M38 — Halaman 38, larangan menghijab diri dan warna cahaya
 
@@ -2295,7 +2243,7 @@ Kemudian setelah itu, sebelum (terlihat) suatu misykat, tampaklah bagimu cahaya 
 
 #### 1. Metode
 
-Petunjuk yang ada dalam sumber: meletakkan (ضع). Kutipan kata kunci Arab: «ام وأرواحها، وإذا كان أحمر أضعف البنية وأوضح قواها في صور». Rincian cara dan bahan ada pada bagian ARAB/LATIN di atas dan tidak ditambah di sini.
+Peringatan dari sumber (dinisbatkan kepada penulis): dalam rangkaian riyadhah ini penulis memperingatkan agar pelaku tidak berhenti dan tidak terhijab oleh tanda atau cahaya yang tampak (putih, hijau, merah), dan agar pikiran tidak sibuk menoleh kepadanya. Gambaran pengalaman itu adalah klaim penulis dan tidak disahkan editor.
 
 #### 2. Penentuan Jam
 
@@ -2305,11 +2253,7 @@ Petunjuk yang ada dalam sumber: meletakkan (ضع). Kutipan kata kunci Arab: «ا
 
 «وَلَا يَتَشَكَّلُ» dibaca sebagai larangan; kemungkinan «لا يَتَشكَّل» (tidak berbentuk) juga terbuka — dicatat. Klaim melihat Nabi dalam keadaan terjaga dinisbatkan penulis kepada ahli riyadhah; bukan pengesahan editor dan tidak dijadikan janji.
 
-peringatan agar tidak terhenti pada pengalaman; berlanjut ke gambaran cahaya.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 «مِشْكَاةٍ ذَاتِيَّةٌ» susunan tidak sejajar; dipertahankan. «الِاسْتِاذُ الْعِلْمُ» dan «فَتَيْهِ» tidak terbaca pasti; saya biarkan bertitik dan tidak mengarang kata pengganti. «أحمر» pada cetakan memuat tanda kecil yang tidak mengubah kata.
-
-uraian warna cahaya sebagai lambang; penulis tidak menjadikannya ukuran sahih-tidaknya pengalaman.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -2349,15 +2293,11 @@ Praktik dari sumber: bila kantuk menyerang, berbaring ke sisi kanan; setelah hil
 
 «وَعَزَّ» mungkin «وَعَزَّ» (menjadi berat) atau «وَغَرَّ»; dipilih yang pertama dan dicatat. «الطُّهُورِ» bisa «الطُّهور» (kesucian) atau «الظُّهور»; dipertahankan.
 
-penulis menuturkan pengalaman pendengaran batin; bukan klaim yang disahkan editor.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 «يُجِيبُ إِلَيْهِ» dan «يُذَكِّرُ إِلَيْهِ» pemakaian huruf jar tidak lazim; dipertahankan. «نِهَايَتُهُ تِسْعَةٌ» bersambung ke halaman 40 («وتسعون يوما»). «رِيَاضَتَكَ» pada cetakan tampak «رياضتك»; harakat editorial.
-
-syarat penyempurnaan latihan walau tanda sudah tampak; berlanjut ke hitungan hari.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber: bila kantuk menyerang, berbaring ke sisi kanan; setelah hilang, bangun dan berwudu lalu kembali berzikir; menyempurnakan delapan puluh hari meski tanda sudah muncul. : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: selama penyempurnaan delapan puluh hari, meski tanda sudah muncul; bila kantuk menyerang : Media: berbaring ke sisi kanan sampai kantuk hilang, lalu bangun, berwudu, dan kembali berzikir : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M40 — Halaman 40, hitungan sembilan puluh hari dan nama-nama penawar
 
@@ -2393,15 +2333,11 @@ Praktik dari sumber: sembilan puluh hari, dua puluh hari pertama puasa tanpa was
 
 «وَيُبْصِرُ الْأَدْهَانَ» janggal; mungkin «وَيُبَشِّر» atau «ويَمْسَح»; dipertahankan dan ditandai. «الْبَادِرَةَ» bisa «الْبَارِدَة»; cetakan condong ke yang pertama.
 
-rincian puasa bertahap; dicatat sebagai isi kitab, bukan anjuran medis, dan penulis tidak menjanjikan hasil.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 «وَلَا يَتَضَرَّعُ بِسَمَاعٍ ثُمَّ خَرَجَ إِلَيْهِ» tidak utuh maknanya; dipertahankan tanpa ditambal. «وَلِمَا يُكْثِرُ» kemungkinan «وَلْيُكْثِرْ»; saya pertahankan bentuk cetak.
-
-nama-nama Allah dipakai sebagai penawar keadaan; dinisbatkan pada penulis, bukan resep medis.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber: sembilan puluh hari, dua puluh hari pertama puasa tanpa washal; dua puluh kedua washal dua malam (Jumat dan Senin); dua puluh ketiga washal tiap malam dan mandi tiap hari; dua puluh keempat memakai air tawar hangat, minyak lembap, dan wangi-wangian; tidak makan dari yang tidak diketahui, menghadap kiblat, menjauhi perempuan, dan menyebut nama-nama Allah (السريع، الحبيب، القابض) saat keadaan mendesak. : Media: Praktik dari sumber: sembilan puluh hari, dua puluh hari pertama puasa tanpa washal; dua puluh kedua washal dua malam (Jumat dan Senin); dua puluh ketiga washal tiap malam dan mandi tiap hari; dua puluh keempat memakai air tawar hangat, minyak lembap, dan wangi-wangian; tidak makan dari yang tidak diketahui, menghadap kiblat, menjauhi perempuan, dan menyebut nama-nama Allah (السريع، الحبيب، القابض) saat keadaan mendesak. : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: 90 hari: 20 hari pertama puasa tanpa washal; 20 kedua washal pada malam Jumat dan Senin; 20 ketiga washal tiap malam dan mandi tiap hari; 20 keempat menurut rincian sumber : Media: air tawar hangat, minyak lembap, dan wangi-wangian pada tahap keempat; nama-nama Allah as-Sarī‘, al-Ḥabīb, dan al-Qābiḍ saat keadaan mendesak; menghadap kiblat : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M41 — Halaman 41, fasal kedelapan: sampai kepada hikmah
 
@@ -2441,15 +2377,11 @@ Praktik dari sumber: zikir «أستغفر الله الذي لا إله إلا �
 
 «مَنْ يَشْغَلُ ذَلِكَ» susunan tidak baku (lazimnya «يشتغل بذلك»); dipertahankan. Zikir istighfar diambil apa adanya dari cetakan.
 
-fasal baru; penulis mengaitkan hikmah dengan zikir, puasa, dan khalwat.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 «مَهْمَا انْتَقَضَ» dibaca «انتَقَض» (batal); bentuk cetak tanpa titik jelas pada satu huruf, dicatat. «كَانَ» di akhir halaman menggantung dan bersambung ke halaman 42.
-
-syarat sosial dan makan; berlanjut ke halaman berikutnya.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber: zikir «أستغفر الله الذي لا إله إلا هو الحي القيوم» bersamaan puasa; menjaga kesucian; salat berjamaah; meninggalkan bicara yang tidak perlu dan gibah; bersedekah; memperbanyak salawat hari Jumat; menjaga separuh perut saat puasa. : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: selama puasa dan salat berjamaah; memperbanyak salawat pada hari Jumat : Media: zikir «أستغفر الله الذي لا إله إلا هو الحي القيوم»; menjaga kesucian dan separuh perut saat puasa; sedekah : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M42 — Halaman 42, wirid Jumat, sedekah, dan riyadhah tiga hari
 
@@ -2485,15 +2417,11 @@ Praktik dari sumber: memperbanyak salawat hari Jumat; sedekah setiap hari sebesa
 
 awal halaman menyambung kalimat halaman 42 tentang qarin yang mengajak kebaikan; subjeknya tidak diulang, dan saya tidak menambahkan kata. «بِمَا أَكَلَهُ» bisa «بما أَكَل» (sebanyak yang ia makan); dipertahankan.
 
-wirid harian dan sedekah; semua berstatus anjuran penulis.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 hitungan 131 dan nama «السلام» diambil apa adanya dari cetakan; saya tidak menghitung ulang nilai numeriknya dan tidak mengesahkannya. «بِمَا يُعَادِلُ اسْمَهُ» konsep hisab huruf; tidak diverifikasi.
-
-praktik ringkas; penulis memberi contoh, bukan jaminan hasil.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber: memperbanyak salawat hari Jumat; sedekah setiap hari sebesar makanan yang dimakan; riyadhah kecil tiga hari khalwat tanpa memakan yang bernyawa; berzikir dengan satu atau dua nama Allah yang setara nilai nama sendiri; contoh nama Muhammad dengan «السلام» 131 kali setelah tiap salat fardu. : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: hari Jumat untuk memperbanyak salawat; sedekah setiap hari; riyadhah kecil tiga hari; sesudah tiap salat fardu untuk contoh zikir yang diberikan : Media: sedekah sebesar makanan yang dimakan; pantang yang bernyawa selama khalwat tiga hari; satu atau dua nama Allah yang dinilai penulis setara nilai nama sendiri (contoh as-Salām 131 kali—hitungan tidak diverifikasi) : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M43 — Halaman 43, fasal kesembilan: qarin dan hadis Aisyah
 
@@ -2533,11 +2461,7 @@ Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja
 
 sanad disebut penulis sebagai riwayat Muslim dan Ahmad; saya mencatatnya sebagai atribusi penulis dan tidak memverifikasi takhrij dalam pekerjaan ini. «أَغِرْتِ» dibaca sesuai cetakan; bentuk lain yang lazim «أَغِرْتِ» (apakah engkau cemburu).
 
-penetapan qarin dari jin sebagai dasar fasal; klaim «حتى أسلم» mengikuti redaksi cetakan.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 lafal «عَانَنِي» pada cetakan dapat dibaca «أَعَانَنِي»; keduanya dicatat, dan teks tidak diubah. «وُكِّلَ» mabni majhul.
-
-penguat bahwa qarin tidak berkuasa penuh atas nabi dan orang yang ditolong; berlanjut ke halaman 43 tentang wirid.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -2579,11 +2503,7 @@ Tidak ada petunjuk praktik pada halaman ini: tidak ditemukan kata perintah kerja
 
 «النَّهَامِـرِ» tidak dapat dipastikan (mungkin «النَّهَامِر» atau nama kabilah lain); ditandai dan tidak diganti. «يَسْتَصَاوِعُونَ» bentuk tidak lazim; kemungkinan «يَتَصَاوَتُون» (saling memanggil); dipertahankan.
 
-definisi qarin menurut penulis, klaimnya tidak diverifikasi.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 «الْمُشَارِ يخ» pada cetakan terpotong dan tidak terbaca pasti; kemungkinan «الْمُشَارِ إِلَيْهِ» atau kata lain — ditandai, tidak diganti. «يُنْتَمَى» mungkin «يَنْتَمِي»; dipertahankan.
-
-penulis membuka masalah dan mendahulukan tanya; jawaban dijanjikan pada fasal berikutnya.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -2629,8 +2549,6 @@ daftar kelompok jin dan akibatnya; seluruhnya klaim penulis — bukan diagnosis,
 
 cetakan «فلا يطرق جانبيها طارق»; «وفرارًا» pada cetakan bisa «وَفَرَّ قَرَارًا» — dua bacaan terbuka. «وخطته الماشية» (bukan «خططته») dibaca apa adanya. «يَحْنَقُ» (marah) dipilih; kemungkinan «يُحَنِّق». «وَلَا وُجُوعَ» tidak baku (lazimnya «وَلَا رُجُوع»); dipertahankan. «الْمَاشِيَةُ» bisa «الْمَاشِيَة» (hewan ternak) atau «الْمَاسِحَة»; dipilih yang pertama dan dicatat.
 
-lanjutan daftar; berlanjut ke halaman 46.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
 Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
@@ -2659,7 +2577,7 @@ Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam su
 
 #### 1. Metode
 
-Petunjuk yang ada dalam sumber: mengikat (عقد). Kutipan kata kunci Arab: «هط الثالث عشر) يصنع السحر فيعقد الرجل عند زوجته». Rincian cara dan bahan ada pada bagian ARAB/LATIN di atas dan tidak ditambah di sini.
+Tidak ada petunjuk praktik untuk pembaca pada halaman ini. Isi sumber adalah daftar klaim penulis tentang kelompok jin kesepuluh sampai ketiga belas dan akibat yang dinisbatkan kepada mereka; kata «عقد» di dalamnya menjelaskan klaim “terikat”, bukan perintah mengikat. Semua dicatat sebagai klaim penulis, bukan diagnosis dan bukan dasar menuduh siapa pun.
 
 #### 2. Penentuan Jam
 
@@ -2672,8 +2590,6 @@ Petunjuk yang ada dalam sumber: mengikat (عقد). Kutipan kata kunci Arab: «ه
 rincian klaim penulis; tidak dijadikan diagnosis dan tidak dipakai untuk menuduh siapa pun.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 «طَالِعِ السُّنْبُلَة» (cetakan tampak «السنبة») adalah istilah astrologi (bintang gandum); dipertahankan sebagai istilah. «الثَّالِثَ عَشَرَ» pada cetakan tampak «الثالث عشر»; saya baca sebagai urutan ketiga belas, bukan «الثالث» biasa.
-
-rincian klaim tentang sihir; bukan diagnosis dan tidak untuk menuduh.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -2751,11 +2667,7 @@ Praktik dari sumber: penulis menjanjikan penjelasan tujuh puluh kelompok jin dan
 
 «أَنَّ أَرَدْتَ» susunan tidak baku (lazimnya «إن أراد»); dipertahankan. Angka tujuh puluh ribu dan tujuh puluh ribu tidak diverifikasi dan hanya dicatat sebagai klaim penulis.
 
-pembuka fasal pengobatan; berlanjut ke pengelompokan tempat tinggal.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 «فَرِيقَتْ» tidak baku (mungkin «فَرَّقَتْ» atau «فَارَقَتْ»); dipertahankan dan dicatat. «بِقُرْ» kemungkinan «بِقُرْب» yang terpotong; saya pertahankan bentuk cetak dan tidak menambah huruf.
-
-pengelompokan menurut tempat; berlanjut ke halaman 49.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
@@ -2799,15 +2711,11 @@ Praktik dari sumber: menulis ayat di antara kedua mata dan di tangan kanan, sert
 
 «التَّوَاقِيفِ» dan «السَّبَاسِبِ» tidak dapat dipastikan; keduanya dipertahankan tanpa diganti dan ditandai sebagai bacaan terbuka. «وَالشُّمُوخِ الْعَلِيقِ» susunan tidak jelas; dibiarkan.
 
-lanjutan pengelompokan tempat; pernyataan bahaya dinisbatkan pada penulis.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
-
 akhir halaman memuat lambang/rajah tercetak. Saya tidak menggambar ulang dan tidak menebak bentuknya; untuk penerbitan, gambar asli halaman 49 wajib dipakai. Kutipan Quran pada halaman ini merujuk QS as-Sajdah 32:18 («أفمن كان مؤمناً كمن كان فاسقاً لا يستوون») dan potongan «تزلزلا» tidak saya temukan redaksinya seperti itu, sehingga hanya dicatat dan tidak dikoreksi.
-
-awal bagian pengobatan; sisanya di halaman 50 yang belum dikerjakan.Harakat dan tanda baca Arab bersifat editorial; kata yang tidak terbaca pasti ditandai «…» dan dibahas di audit, bukan diganti diam-diam.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: Praktik dari sumber: menulis ayat di antara kedua mata dan di tangan kanan, serta menyebut «خاتم سليمان» dengan tujuh huruf. : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: ayat ditulis di antara kedua mata; Khatam Sulaiman bertanduk tujuh dengan huruf pada tiap tanduk ditulis pada tangan kanan; lambang/rajah akhir halaman (crop asli 49.jpg) : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M50 — Halaman 50, lanjutan pengobatan: tulisan, bakaran, dan tujuh بروات
 
@@ -2843,15 +2751,13 @@ Praktik dari sumber (halaman 50): menulis «خاتم» pada kertas, menuliskan a
 
 «أَخَلِّ» tidak jelas; mungkin «أَصْل» atau «أَهِلّ». «فَتِيلَةٍ زَرْقَاءَ» dibaca «sumbu biru»; bisa juga «زَيْتُونِيَّة» — dipertahankan.
 
-Harakat dan tanda baca Arab bersifat editorial; kata yang tidak pasti dibiarkan apa adanya dan dicatat di audit, bukan diganti diam-diam.
-
 «بَرَوَات» (jamak) dipertahankan; kemungkinan «بُرْهَات/بَرْهَت». «وَتَزَاحَمَهُ» janggal; dibiarkan. «سُورَةِ قُرَيْشٍ» disebut, bukan «قريش» sebagai nama lain.
 
 penutup rangkaian pengobatan hal.49–50; semua praktik dinisbatkan pada penulis dan tidak menjamin kesembuhan.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: Praktik dari sumber (halaman 50): menulis «خاتم» pada kertas, menuliskan ayat «إنا أعتدنا للظالمين نارًا أحاط بهم سرادقها» pada sumbu/fatilah, dibakar dengan قطران lalu didekatkan ke hidung orang yang kerasukan sambil membaca surah al-Jinn dan banyak بخور; lalu berdialog dengan jin yang berbicara, dan menulis tujuh «بروات» berisi nama tujuh raja, digantungkan bersama خاتم سليمان, آية الكرسي, الفلق, المعوذتين, الإخلاص dan surah Quraisy. : Bukhur: Praktik dari sumber (halaman 50): menulis «خاتم» pada kertas, menuliskan ayat «إنا أعتدنا للظالمين نارًا أحاط بهم سرادقها» pada sumbu/fatilah, dibakar dengan قطران lalu didekatkan ke hidung orang yang kerasukan sambil membaca surah al-Jinn dan banyak بخور; lalu berdialog dengan jin yang berbicara, dan menulis tujuh «بروات» berisi nama tujuh raja, digantungkan bersama خاتم سليمان, آية الكرسي, الفلق, المعوذتين, الإخلاص dan surah Quraisy.
+Waktu: saat tidur untuk membakhurkan tujuh barawāt : Media: sumbu (kain) biru bertuliskan ayat «إنا أعتدنا للظالمين نارًا…» tiga kali, dicelup ter (qaṭrān) dan didekatkan ke hidung orang yang terkena; bacaan surah al-Jinn; tujuh barawāt bertuliskan nama tujuh raja; Khatam Sulaiman bersama Ayat Kursi, al-Falaq, al-Mu‘awwidzatain, al-Ikhlāṣ, dan Quraisy ditulis lalu digantungkan : Bukhur: banyak bakaran wangi (bakhur) menyertai bacaan, dan tujuh barawāt dibakhurkan saat tidur; jenisnya tidak dirinci
 
 ## M51 — Halaman 51, aturan siang–malam dan bahan bakaran
 
@@ -2887,13 +2793,11 @@ Praktik dari sumber (halaman 51): memulai dengan bacaan dan «عزيمة», lalu
 
 «فَدَائِمًا» mungkin «فَإِذَا»; «فَعَالِجَةً» mungkin «فَعَالِجْهُ»; keduanya dibiarkan dan dicatat.
 
-Harakat dan tanda baca Arab bersifat editorial; kata yang tidak pasti dibiarkan apa adanya dan dicatat di audit, bukan diganti diam-diam.
-
 nama-nama bahan tidak semuanya pasti: «الْمُبْيَضَّةُ السَّائِلَة» dan «السَّوْدَان» dibiarkan sebagai istilah cetak; «الْجَاوَى» bisa «الجاوي». «الْمُصْطَكَى» = mastika.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 51): memulai dengan bacaan dan «عزيمة», lalu bertanya kepada jin yang berbicara: apakah ia dari golongan siang atau malam; siang diobati siang dan malam diobati malam; menyediakan بخور (mimun, الأحمر/العنبر, الجاوى, المصطكى, الفلفل, كبابة, dan semacamnya) serta menuliskan hijab yang digantungkan. : Media: tidak disebutkan dalam sumber unit ini : Bukhur: Praktik dari sumber (halaman 51): memulai dengan bacaan dan «عزيمة», lalu bertanya kepada jin yang berbicara: apakah ia dari golongan siang atau malam; siang diobati siang dan malam diobati malam; menyediakan بخور (mimun, الأحمر/العنبر, الجاوى, المصطكى, الفلفل, كبابة, dan semacamnya) serta menuliskan hijab yang digantungkan.
+Waktu: penghuni siang diobati pada siang dan penghuni malam pada malam (yang malam ditinggalkan sampai malam) : Media: bacaan dan ‘azīmah; khatam dibentuk dalam ḥirz dan digantungkan di tempat itu : Bukhur: menurut golongan: untuk Maimūn «al-mubyaḍḍah as-sā’ilah» atau «bakhūr as-sūdān»; untuk al-Aḥmar ‘ilk Rūmī/muql merah dan jāwī; untuk (jin) bumi muṣṭakā atau semacamnya, fulful, atau kabābah (sebagian istilah tidak pasti)
 
 ## M52 — Halaman 52, Fasal Kedua Belas: syarat kerja satu sampai sembilan
 
@@ -2941,11 +2845,9 @@ Praktik dari sumber (halaman 52): syarat kerja — tempat bersih dan tidak ada p
 
 penomoran cetakan melompat — sesudah syarat pertama langsung «الثالث»; kemungkinan syarat kedua hilang dalam cetakan, dan hal itu dibiarkan. «لَا تَبِقْ» kemungkinan «لَا تُبْقِ». «حَائِلٍ» dibaca penghalang.
 
-Harakat dan tanda baca Arab bersifat editorial; kata yang tidak pasti dibiarkan apa adanya dan dicatat di audit, bukan diganti diam-diam.
-
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 52): syarat kerja — tempat bersih dan tidak ada perempuan haid, bekerja dalam keadaan tertutup (ستر), tidak banyak bicara, mengobati penghuni siang pada siang dan penghuni malam pada malam, mengangkat suara dengan selawat, menghadirkan bakhur, «عزم» dan «شرطة», tidak menggantung hirz, dan bekerja di bawah atap atau penghalang antara engkau dan langit. : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: penghuni siang pada siang dan penghuni malam pada malam : Media: tempat bersih tanpa perempuan haid; keadaan tertutup (satr); selawat dengan suara diangkat; ‘azm dan syarṭah; tanpa menggantung ḥirz; bekerja di bawah atap atau penghalang dari langit : Bukhur: dihadirkan selama pekerjaan; jenisnya tidak dirinci pada unit ini
 
 ## M53 — Halaman 53, syarat sepuluh sampai lima belas
 
@@ -2989,13 +2891,11 @@ Praktik dari sumber (halaman 53): tidak mengobati di depan pintu rumah, mengatur
 
 «بَانَ كَانَ» janggal; mungkin «بَيَانُ كَانَ» atau «فَإِنَّ». «الْمُعَزِّمِ» dibaca mu‘azzim (ahli azimat) — dibedakan dari «عَزَائِم».
 
-Harakat dan tanda baca Arab bersifat editorial; kata yang tidak pasti dibiarkan apa adanya dan dicatat di audit, bukan diganti diam-diam.
-
 «بِكْيَةِ نَارٍ» dibiarkan; kemungkinan «بِكَيَّةِ نَار» (besi panas) — maknanya ditandai terbuka. «الطَّيَّارَةِ» jamak/jenis jin terbang.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 53): tidak mengobati di depan pintu rumah, mengatur posisi duduk/berbaring orang yang terkena, tidak mendudukkan perempuan yang terkena di samping perempuan lain kecuali sesama jenis, empat «عزائم» dengan pembakaran dan minyak serta tulisan hijab, waktu pengobatan pagi–setelah Asar–setelah Magrib, dan larangan menggauli istri selama masa pengobatan. : Media: Praktik dari sumber (halaman 53): tidak mengobati di depan pintu rumah, mengatur posisi duduk/berbaring orang yang terkena, tidak mendudukkan perempuan yang terkena di samping perempuan lain kecuali sesama jenis, empat «عزائم» dengan pembakaran dan minyak serta tulisan hijab, waktu pengobatan pagi–setelah Asar–setelah Magrib, dan larangan menggauli istri selama masa pengobatan. : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: pagi, sesudah Asar, sesudah Magrib, dan waktu sahur; selama pengobatan suami tidak menggauli istri yang terkena : Media: empat ‘azā’im dengan pengasapan; minyak-minyakan yang disertai tulisan; tulisan hijab; pengaturan duduk/berbaring dan pendamping sesama jenis; tidak di depan pintu rumah : Bukhur: wajib menyertai yang dibacakan azimat; jenisnya tidak dirinci
 
 ## M54 — Halaman 54, syarat enam belas sampai delapan belas dan ringkasan
 
@@ -3029,11 +2929,9 @@ Praktik dari sumber (halaman 54): syarat 16–18 — tidak memandikan orang yang
 
 «إِنْ قَدَرُوا» terulang dua kali pada cetakan — dipertahankan; «فَلْيُغَسِّلْهُ غَيْرُهُ» bentuk tidak lazim. «الْعُنْدُ وَالْأَصَال» tidak jelas; kemungkinan waktu petang — ditandai terbuka.
 
-Harakat dan tanda baca Arab bersifat editorial; kata yang tidak pasti dibiarkan apa adanya dan dicatat di audit, bukan diganti diam-diam.
-
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 54): syarat 16–18 — tidak memandikan orang yang terkena tanpa penutup, baik lelaki memandikan lelaki maupun perempuan memandikan perempuan, dan mandi sebelum bekerja; ringkasan syarat (kebersihan, tidak haid, tertutup, tidak banyak bicara, mengobati siang/malam, selawat, bakhur, tidak menggantung hirz, di bawah atap, tidak di depan pintu, duduk, sesama jenis, empat عزائم, waktu-waktu tertentu, tidak berhubungan selama pengobatan, menjauhi kay). : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: mandi sebelum bekerja; penghuni siang pada siang dan penghuni malam pada malam; jin terbang pada petang dan malam : Media: memandikan orang yang terkena dengan penutup dan oleh sesama jenis; pakaian kasar; ‘azīmah yang kuat; syarat kerja ringkasan (bersih, satr, selawat, tanpa ḥirz gantung, di bawah atap) : Bukhur: hadir dan mengepul; jenisnya tidak dirinci
 
 ## M55 — Halaman 55, hijab البقرة–يس, qarin yang mencintai, dan susunan bacaan
 
@@ -3069,13 +2967,11 @@ Praktik dari sumber (halaman 55): hijab berisi خواتم سورة البقرة 
 
 «نَفْسَهُ» pada awal halaman menyambung kalimat halaman 54 yang terpotong; saya pertahankan tanpa menambah kata. «خَوَاتِمُ سُورَةِ الْبَقَرَةِ» = potongan-potongan awal/akhir surah; bukan penggalan yang saya karang.
 
-Harakat dan tanda baca Arab bersifat editorial; kata yang tidak pasti dibiarkan apa adanya dan dicatat di audit, bukan diganti diam-diam.
-
 «إِيهَا» kemungkinan «أَيُّهَا» (tanpa ya) — dibiarkan. «الْإِنْسِيّ» di sini berarti jin berjenis perempuan dari golongan manusia-jin; saya terjemahkan «jin perempuan». «يَجُوَارُ» kemungkinan «يُجَاوِر»; «يَخْرَبَ» kemungkinan «يَخْرَبَ/يُخَرِّب». «وَقَتَلْتَ» bisa «لِقَتْلِهِ»; ditandai terbuka.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: larangan pendamping pada unit ini: tidak keluar pada malam hari dan tidak mendekati perempuan pada hari-hari haid : Media: hijab berisi khawātim surah al-Baqarah dan surah Yāsīn; susunan bacaan al-Fātiḥah, awal al-Baqarah, empat khawātim pertama dan empat terakhir al-Baqarah dengan Ayat Kursi di tengah, dan akhir al-Ḥasyr : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M56 — Halaman 56, penutup Fasal Kedua Belas
 
@@ -3113,13 +3009,11 @@ kutipan «لو أنزلنا هذا القرآن على جبل» mengacu QS al-Ha
 
 penutup fasal dan pengakuan keterbatasan pengetahuan; ini alasan saya tidak mengarang angka kabilah.
 
-Harakat dan tanda baca Arab bersifat editorial; kata yang tidak pasti dibiarkan apa adanya dan dicatat di audit, bukan diganti diam-diam.
-
 «سَاعْطِي» kemungkinan «سَأُعْطِي»; dipertahankan bentuk cetak. «الرِّبَاط» di sini istilah teknis yang tidak saya pastikan maknanya (ikatan/pertalian); ditandai terbuka.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: rangkaian bacaan dari «لو أنزلنا هذا القرآن على جبل…» sampai akhir al-Ikhlāṣ dan al-Mu‘awwidzatain diulang tiga kali sebagai penutup susunan unit sebelumnya : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M57 — Halaman 57, Fasal Ketiga Belas: doa untuk segala penyakit
 
@@ -3159,13 +3053,11 @@ Praktik dari sumber (halaman 57): membaca doa panjang untuk pengobatan segala pe
 
 ada kesalahan cetak yang saya biarkan: «الْمُبْلِي» (lazimnya «الْمُبْتَلِي»), «الْمُؤَلِّم» ditulis dengan bentuk yang menyerupai «المؤلم». «أَخِرَ السُّورَةِ» jelas merujuk QS at-Taubah 9:128.
 
-Harakat dan tanda baca Arab bersifat editorial; kata yang tidak pasti dibiarkan apa adanya dan dicatat di audit, bukan diganti diam-diam.
-
 «وَالْمَمَاتُ وَالْحَيَا» ditulis tanpa alif pada cetakan; «الْحَيَاة» dimaksudkan dan tidak saya tambahkan. «ذِكْرِكَ الْأَسْنَى» dipertahankan.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: doa panjang dibuka basmalah dan selawat, memuat kutipan akhir surah (dirujuk catatan ke at-Taubah 9:128), al-Ikhlāṣ, al-Mu‘awwidzatain, al-Fātiḥah, Āli ‘Imrān, dan al-Ḥasyr, lalu rangkaian asma dan qasam : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M58 — Halaman 58, penutup doa dan wafaq مخمس (rajah)
 
@@ -3211,7 +3103,7 @@ Praktik dari sumber (halaman 58): menyelesaikan doa dengan qasam (نوح dan س�
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: penutup doa dengan qasam; wafaq mukhammas 5×5 «untuk segala penyakit» berisi angka dan kata at-taukīl (crop asli 58.jpg; beberapa sel tidak pasti—lihat Catatan penyunting) : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M59 — Halaman 59, qarin dan kritik terhadap pengakuan palsu
 
@@ -3251,13 +3143,11 @@ Praktik dari sumber (halaman 59): peringatan penulis terhadap orang yang mengaku
 
 «حَصَرَهَا عِنْدَ اللَّهِ وَحْدَةٌ» susunannya rusak; saya pertahankan dan tidak menambal. «الْأَطِبَّاء» jamak; «يَدْعُونَ الْعِلْم» = mengaku berilmu.
 
-Harakat dan tanda baca Arab bersifat editorial; kata dan angka yang tidak pasti dibiarkan apa adanya dan dicatat di audit.
-
 «الْحَقِيقَةَ» mungkin mestinya «الْحَقِيقَةُ»; dipertahankan. «أَسْمَاءُ الْقَمَرِ» bisa berarti nama-nama (jin) yang dinisbatkan kepada bulan.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 59): peringatan penulis terhadap orang yang mengaku berhubungan dengan jin tetapi tidak menyembuhkan; lalu daftar pengetahuan yang harus dikuasai: hari-hari, buruj, nama-nama bulan, nama sulthan malaikat, nama tujuh raja, nama tujuh ruhani, nama tujuh bintang (دراري), dan seterusnya. : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: daftar pengetahuan prasyarat yang dituntut penulis: hari-hari, buruj, nama-nama bulan, sulṭān malaikat, tujuh raja, tujuh rūḥānī, tujuh bintang (darārī), dan empat kepala : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M60 — Halaman 60, hari-hari, planet, logam, dan awal buruj
 
@@ -3317,13 +3207,11 @@ Praktik dari sumber (halaman 60): daftar hari satu sampai tujuh beserta planet (
 
 tabel pengetahuan astrologi penulis; bukan dalil syar‘i dan tidak menjamin apa pun.
 
-Harakat dan tanda baca Arab bersifat editorial; kata dan angka yang tidak pasti dibiarkan apa adanya dan dicatat di audit.
-
 pada cetakan tertulis «٤ - الثور» lalu «٤ - السرطان»; saya baca sebagai urutan ٢ untuk الثور — perbedaan ini dinyatakan terbuka. «الْجَوْزَاء» bisa «الجوزاء/الجوزاء».
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 60): daftar hari satu sampai tujuh beserta planet (الشمس، القمر، المريخ، عطارد، المشتري، الزهرة، زحل) dan logam yang dinisbatkan kepadanya (الذهب، الفضة، الحديد، الزئبق، القصدير، النحاس، الرصاص); lalu awal daftar buruj. : Media: Praktik dari sumber (halaman 60): daftar hari satu sampai tujuh beserta planet (الشمس، القمر، المريخ، عطارد، المشتري، الزهرة، زحل) dan logam yang dinisbatkan kepadanya (الذهب، الفضة، الحديد، الزئبق، القصدير، النحاس، الرصاص); lalu awal daftar buruj. : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tujuh hari Ahad–Sabtu dengan planet yang dinisbatkan penulis: Matahari, Bulan, Mars, Merkurius, Jupiter, Venus, Saturnus : Media: logam padanan tiap hari menurut penulis: emas, perak, besi, air raksa, timah, tembaga, timbal; awal daftar buruj: Aries, Taurus, Gemini, Cancer : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M61 — Halaman 61, buruj lima sampai dua belas dan nama-nama bintang
 
@@ -3369,13 +3257,11 @@ pada cetakan buruj bermula «٥ - الأسد» sehingga «الحمل» dihitung 
 
 tabel; angka dipertahankan seperti tercetak.
 
-Harakat dan tanda baca Arab bersifat editorial; kata dan angka yang tidak pasti dibiarkan apa adanya dan dicatat di audit.
-
 nama-nama ini sulit dipastikan hurufnya pada pindaian; saya menulis apa yang terbaca dan tidak mengoreksi menjadi nama yang saya kenal. Kemungkinan bacaan lain: «لِيَاخِيم/لِيَاخِم», «لِيَاشْلِش/لِيَاسْلِس», «شَلْيَاء/سَلْيَاء».
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: rujukan buruj 5–12 (Leo, Virgo, Libra, Scorpio, Sagitarius, Capricorn, Aquarius, Pisces), tujuh bintang/planet, dan dua kolom nama bulan (ejaan banyak nama tidak pasti) : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M62 — Halaman 62, sulthan malaikat dan tujuh raja
 
@@ -3433,13 +3319,11 @@ Praktik dari sumber (halaman 62): daftar empat sulthan malaikat (جبريل، م
 
 «عَزْرَائِيل» ditulis demikian pada cetakan (bentuk lain: «عِزْرَائِيل»). «الْقَوِيُّ الْأَمِين» mengikuti cetakan, bukan susunan yang lazim dalam ayat.
 
-Harakat dan tanda baca Arab bersifat editorial; kata dan angka yang tidak pasti dibiarkan apa adanya dan dicatat di audit.
-
 «مَذْهَب» bisa «مُذْهِب»; «شَمْهُورَش» pada halaman 51 juga disebut «شمهورش» — dua ejaan, keduanya dipertahankan. «مَسْئُول» ditulis dengan hamzah pada cetakan.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: Praktik dari sumber (halaman 62): daftar empat sulthan malaikat (جبريل، ميكائيل، عزرائيل، اسرافيل) beserta tugas yang dinisbatkan, lalu daftar tujuh raja jin dengan hari yang menjadi tanggung jawabnya (الأحد…السبت). : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tujuh raja menurut hari: Madzhab (Ahad), Marrah (Senin), al-Aḥmar (Selasa), Barqān (Rabu), Syamhūrasy (Kamis), al-Abyaḍ (Jumat), Maimūn (Sabtu); ejaan dipertahankan : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M63 — Halaman 63, empat kepala, tujuh ruhani, dan pembatalan sihir
 
@@ -3485,13 +3369,11 @@ Praktik dari sumber (halaman 63): daftar empat «رؤوس» (مازر، كطم،
 
 «كَطْمُ» bisa «كُطْم»; «طَيْكَل» bisa «طَيْكِل»; «عُنْيَائِيل» bisa «عِنْيَائِيل». Nama-nama ini dipertahankan seperti tercetak dan tidak saya samakan dengan ejaan lain.
 
-Harakat dan tanda baca Arab bersifat editorial; kata dan angka yang tidak pasti dibiarkan apa adanya dan dicatat di audit.
-
 «الْعُمَّارَ» = penghuni (jin); «اصْرِفِ» dibaca sebagai perintah menahan/menolak. Nama-nama pada baris terakhir sangat sulit dipastikan; saya menulis apa yang terbaca dan tidak mengoreksi. Tanda «٢» di antara nama saya anggap pemisah cetak, bukan angka.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: Praktik dari sumber (halaman 63): daftar empat «رؤوس» (مازر، كطم، قندورة، طيکل) dan tujuh ruhani (روفائيل، جبرائيل، سمسمائيل، ميكائيل، صرفيائيل، عنيائيل، كسفيائيل); lalu petunjuk memanggil «ملك اليوم» dan «ملك الروحاني» dengan bakhur dan عزيمة, serta judul «تبطيل السحر وبخور لجميع الرياح مجرب» dengan sederet nama.
+Waktu: pada hari apa pun dari tujuh hari, menurut raja hari dan raja rūḥānī yang bersangkutan : Media: daftar empat ru’ūs dan tujuh rūḥānī (ejaan dipertahankan); bantuan empat kepala beserta planet-planet; ‘azīmah; rangkaian nama pada judul «tabṭīl as-siḥr wa bakhūr li-jamī‘ ar-riyāḥ mujarrab» : Bukhur: disebutkan bersama ‘azīmah dan pada judul bakhur untuk segala angin; jenisnya tidak dirinci
 
 ## M64 — Halaman 64, pembatalan sihir dan lambang خاتم سليمان
 
@@ -3535,15 +3417,11 @@ Praktik dari sumber (halaman 64): lanjutan «تبطيل السحر» dengan kuti
 
 «مَكْرُو مَاكِرِهِ» pada cetakan tidak baku (mungkin «مَكْرِ مَاكِرِهِ»); dipertahankan. «الْقَرَانِّ» bisa «الْقُرَّان/الْقِرَان». Kutipan: QS Yunus 10:81 (redaksi «ما جئتم به السحر»), al-Furqan 25:23, Fatir 35:10 — saya catat rujukannya sebagai bantuan, bukan koreksi teks.
 
-Harakat dan tanda baca Arab bersifat editorial; kata dan angka yang tidak pasti dibiarkan apa adanya dan dicatat di audit.
-
-Khaatamu sulaimaana: [rasm/pola pada gambar halaman 64].
-
 baris «خاتم سليمان» memuat lambang gambar (bintang lima, garis, dan huruf-huruf yang tidak dapat saya pastikan). Saya tidak menggambar ulang dan tidak menebak; untuk penerbitan wajib memakai pindaian halaman 64. «وَاذْهَبْ» bisa «وَأَذْهِبْ»; «مَاذَا؟» kemungkinan jejak cetak rusak; «صَدْوِ كَرَاهِيَةٍ» tidak jelas. «مُجَرَّبٌ صَحِيحٌ» adalah klaim penulis, bukan hasil uji saya.
 
 ### 5. Khususiyah — Waktu : Media : Bukhur
 
-Waktu: tidak disebutkan dalam sumber unit ini : Media: tidak disebutkan dalam sumber unit ini : Bukhur: tidak disebutkan dalam sumber unit ini
+Waktu: tidak disebutkan dalam sumber unit ini : Media: kutipan Quran dan doa «allāhumma-ṣrif warfa‘ wa-dzhab…»; baris lambang Khatam Sulaiman bergambar (crop asli 64.jpg); tulisan ditulis dan dibawa sebagai jimat dengan minyak misik, za‘farān, dan air mawar : Bukhur: tidak disebutkan dalam sumber unit ini
 
 ## M65 — Halaman 65, tulisan pengobatan dan lambang خاتم سليمان
 

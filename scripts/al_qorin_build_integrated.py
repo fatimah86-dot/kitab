@@ -13,6 +13,12 @@ verified selective-upload overrides in
 only Khususiyah, append editor notes, and replace the demonstrably mismatched
 M122 Metode summary. Every protected layer/field is re-asserted against a
 post-pilot baseline before anything is rendered.
+
+A second post-pilot stage applies the semantic batch overrides in
+``al_qorin/overrides_batch_m16_m64.json`` (M16-M64). It may only select/group
+already-salvaged editor notes, rewrite Khususiyah phrases, and replace five
+keyword-stub Metode summaries (M19, M20, M21, M38, M46); it is likewise
+re-asserted field-by-field against its pre-batch baseline.
 Output: al_qorin/REVISI_AL_QORIN_123.md and al_qorin/work/integrated_units.json
 """
 import copy
@@ -146,6 +152,126 @@ for uid in order:
     if current["khususiyah"] != expected_khususiyah:
         fail_selective(f"{uid}: Khususiyah differs beyond the declared override")
 
+# --- Semantic batch M16-M64 ------------------------------------------------
+# Pilot-level curation for one contiguous batch: editor notes may only be
+# selected/grouped from the notes already salvaged for that unit (no new note
+# text), Khususiyah phrases may be rewritten, and Metode may be replaced only
+# where the mechanical keyword stub demonstrably misread a narrative verb as
+# an instruction. Everything else is re-asserted against a pre-batch snapshot.
+BATCH_OVERRIDES = ROOT / "al_qorin/overrides_batch_m16_m64.json"
+BATCH_UNITS = {f"M{i:02d}" for i in range(16, 65)}
+BATCH_ENTRY_KEYS = {"dasar", "notes_groups", "khususiyah", "metode"}
+BATCH_KHUSUSIYAH_KEYS = {"waktu", "media", "bukhur"}
+BATCH_METODE_UNITS = {"M19", "M20", "M21", "M38", "M46"}
+BATCH_CHANGE_KEYS = {"metode", "catatan_penyunting", "khususiyah"}
+
+
+def fail_batch(message):
+    raise SystemExit(f"semantic batch M16-M64 override rejected: {message}")
+
+
+batch_payload = json.loads(BATCH_OVERRIDES.read_text(encoding="utf-8"))
+batch_units = batch_payload.get("units")
+if not isinstance(batch_units, dict):
+    fail_batch("payload has no object field 'units'")
+if set(batch_units) != BATCH_UNITS:
+    fail_batch(
+        "payload units must be exactly M16-M64; "
+        f"missing={sorted(BATCH_UNITS - set(batch_units))} "
+        f"extra={sorted(set(batch_units) - BATCH_UNITS)}"
+    )
+
+pre_batch_baseline = copy.deepcopy(revised)
+
+for uid, entry in batch_units.items():
+    if not isinstance(entry, dict):
+        fail_batch(f"{uid}: entry is not an object")
+    unknown_keys = sorted(set(entry) - BATCH_ENTRY_KEYS)
+    if unknown_keys:
+        fail_batch(f"{uid}: unsupported keys {unknown_keys}")
+    if not str(entry.get("dasar", "")).strip():
+        fail_batch(f"{uid}: missing non-empty audit basis ('dasar')")
+    if not any(k in entry for k in ("notes_groups", "khususiyah", "metode")):
+        fail_batch(f"{uid}: entry declares no curation action")
+
+    unit = revised[uid]
+    baseline_notes = pre_batch_baseline[uid]["catatan_penyunting"]
+    groups = entry.get("notes_groups")
+    if groups is not None:
+        if not isinstance(groups, list) or not groups:
+            fail_batch(f"{uid}: 'notes_groups' must be a non-empty list")
+        flat = []
+        for g in groups:
+            if (not isinstance(g, list) or not g
+                    or any(not isinstance(i, int) or isinstance(i, bool) for i in g)):
+                fail_batch(f"{uid}: each notes group must be a non-empty list of integers")
+            flat.extend(g)
+        if flat != sorted(flat) or len(set(flat)) != len(flat):
+            fail_batch(f"{uid}: note indices must be unique and in ascending order")
+        if flat[0] < 1 or flat[-1] > len(baseline_notes):
+            fail_batch(f"{uid}: note indices out of range (have {len(baseline_notes)})")
+        unit["catatan_penyunting"] = [
+            " ".join(baseline_notes[i - 1] for i in g) for g in groups
+        ]
+
+    khususiyah = entry.get("khususiyah")
+    if khususiyah is not None:
+        if not isinstance(khususiyah, dict) or not khususiyah:
+            fail_batch(f"{uid}: 'khususiyah' must be a non-empty object")
+        unknown_khususiyah = sorted(set(khususiyah) - BATCH_KHUSUSIYAH_KEYS)
+        if unknown_khususiyah:
+            fail_batch(f"{uid}: unsupported Khususiyah keys {unknown_khususiyah}")
+        for key, value in khususiyah.items():
+            if not isinstance(value, str) or not value.strip():
+                fail_batch(f"{uid}: Khususiyah {key} must be non-empty text")
+            unit["khususiyah"][key] = value
+
+    metode = entry.get("metode")
+    if metode is not None:
+        if uid not in BATCH_METODE_UNITS:
+            fail_batch(f"{uid}: Metode replacement is allowed only for {sorted(BATCH_METODE_UNITS)}")
+        if (not isinstance(metode, list) or not metode
+                or any(not isinstance(x, str) or not x.strip() for x in metode)):
+            fail_batch(f"{uid}: 'metode' must be a non-empty list of text")
+        joined = " ".join(metode)
+        if "Petunjuk yang ada dalam sumber:" in joined:
+            fail_batch(f"{uid}: replacement Metode still contains the keyword stub")
+        if uid in {"M19", "M20", "M21", "M46"} and "Tidak ada petunjuk praktik" not in joined:
+            fail_batch(f"{uid}: replacement Metode must state that there is no practice instruction")
+        if uid == "M38" and "Peringatan dari sumber" not in joined:
+            fail_batch("M38: replacement Metode must be framed as the source's warning")
+        unit["metode"] = list(metode)
+
+for uid in order:
+    baseline = pre_batch_baseline[uid]
+    current = revised[uid]
+    if uid not in BATCH_UNITS:
+        if current != baseline:
+            fail_batch(f"{uid}: unit changed although it is outside M16-M64")
+        continue
+    for key, baseline_value in baseline.items():
+        if key not in BATCH_CHANGE_KEYS and current[key] != baseline_value:
+            fail_batch(f"{uid}: protected field changed: {key}")
+    if current["jam"] != baseline["jam"]:
+        fail_batch(f"{uid}: Penentuan Jam changed")
+
+    entry = batch_units[uid]
+    groups = entry.get("notes_groups")
+    if groups is None:
+        expected_notes = baseline["catatan_penyunting"]
+    else:
+        expected_notes = [
+            " ".join(baseline["catatan_penyunting"][i - 1] for i in g) for g in groups
+        ]
+    if current["catatan_penyunting"] != expected_notes:
+        fail_batch(f"{uid}: editor notes differ beyond declared grouping")
+    if uid not in BATCH_METODE_UNITS and current["metode"] != baseline["metode"]:
+        fail_batch(f"{uid}: Metode changed outside the stub-correction allow-list")
+    expected_khususiyah = dict(baseline["khususiyah"])
+    expected_khususiyah.update(entry.get("khususiyah", {}))
+    if current["khususiyah"] != expected_khususiyah:
+        fail_batch(f"{uid}: Khususiyah differs beyond the declared override")
+
 units = [revised[uid] for uid in order]
 (work / "integrated_units.json").write_text(json.dumps(units, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -165,7 +291,9 @@ md = ["# AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL", "",
       "> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil "
       "restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, "
       "penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari "
-      "paket unggahan 2026-10-28; unit lain masih menunggu penyelesaian semantik per batch. Crop "
+      "paket unggahan 2026-10-28; batch semantik M16–M64 telah dikurasi setingkat pilot "
+      "(catatan dipilih dari catatan lama, Khususiyah tingkat frasa, lima stub Metode "
+      "dikoreksi), sedangkan unit lain di luar pilot/batch masih menunggu batch berikutnya. Crop "
       "wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis "
       "kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), "
       "M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.", "",
@@ -180,5 +308,6 @@ for u in units:
 print(
     f"integrated units={len(units)} pilot_substituted={len(pilot)} "
     f"selective_overrides={len(selective_units)} "
+    f"batch_m16_m64={len(batch_units)} "
     f"crops={sum(bool(u['crop_page']) for u in units)}"
 )
