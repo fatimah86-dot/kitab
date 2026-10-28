@@ -108,7 +108,7 @@ article[hidden]{{display:none}}footer{{max-width:980px;margin:24px auto;padding:
 <small>SAMPUL + M01–M122 · 5 lapis per unit (SAMPUL 3 lapis, M01 &amp; M122 4 lapis) · crop wafaq presisi kiriman pengguna.</small>
 </header>
 <main>
-<div class="notice" dir="ltr"><strong>Status:</strong> build terintegrasi 123 unit; 12 unit pilot telah dikurasi manual, penajaman selektif Lapis 4/5 diterapkan pada 12 unit sasaran terverifikasi, dan batch semantik M16–M64 telah dikurasi setingkat pilot (catatan dipilih, Khususiyah tingkat frasa, lima stub Metode dikoreksi). Unit lain di luar pilot/batch masih menunggu batch berikutnya. Isi dinisbatkan kepada penulis kitab dan disajikan sebagai dokumen terjemahan—bukan anjuran, terapi, atau jaminan hasil.</div>
+<div class="notice" dir="ltr"><strong>Status:</strong> build terintegrasi 123 unit; 12 unit pilot telah dikurasi manual, penajaman selektif Lapis 4/5 diterapkan pada 12 unit sasaran terverifikasi, dan batch semantik M16–M64 serta M06–M15 dan M72–M121 telah dikurasi setingkat pilot (catatan dipilih, Khususiyah tingkat frasa, stub/kontradiksi Metode yang terbukti dikoreksi). Sisa unit non-pilot di luar batch tersebut masih menunggu batch berikutnya. Isi dinisbatkan kepada penulis kitab dan disajikan sebagai dokumen terjemahan—bukan anjuran, terapi, atau jaminan hasil.</div>
 {''.join(articles)}
 </main>
 <footer dir="ltr">Pratinjau dibuat dari <code>REVISI_AL_QORIN_123.md</code>. Nama berkas alias <code>PREVIEW_INDEX_HAL01-65.html</code> di folder ini menunjuk isi yang sama; berkas root dengan nama itu adalah pratinjau Anwar dan tidak ditimpa.</footer>

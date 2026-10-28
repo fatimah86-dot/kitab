@@ -19,6 +19,14 @@ A second post-pilot stage applies the semantic batch overrides in
 already-salvaged editor notes, rewrite Khususiyah phrases, and replace five
 keyword-stub Metode summaries (M19, M20, M21, M38, M46); it is likewise
 re-asserted field-by-field against its pre-batch baseline.
+
+A third stage applies ``al_qorin/overrides_batch_m06_m15_m72_m121.json``
+(M06-M15 and M72-M121). Its baseline is therefore post-pilot, post-selective,
+and post-M16-M64. It may only select/group already-salvaged editor notes,
+rewrite Khususiyah phrases, and replace four Metode summaries that are a
+keyword stub or contradict the preserved Arab/Terjemahan on concrete material
+(M12, M79, M82, M83). The appended selective discrepancy notes on M104/M107
+must survive note selection.
 Output: al_qorin/REVISI_AL_QORIN_123.md and al_qorin/work/integrated_units.json
 """
 import copy
@@ -272,6 +280,141 @@ for uid in order:
     if current["khususiyah"] != expected_khususiyah:
         fail_batch(f"{uid}: Khususiyah differs beyond the declared override")
 
+# --- Semantic batch M06-M15 and M72-M121 ------------------------------------
+# This stage runs last so its baseline already contains pilot substitution,
+# selective-upload notes/Khususiyah, and the M16-M64 batch. Editor notes may
+# only be selected/grouped from that baseline (no new note text), Khususiyah
+# phrases may be rewritten, and Metode may be replaced only for one keyword
+# stub and three concrete Arab/Terjemahan contradictions. The selective
+# discrepancy notes appended to M104/M107 are explicitly required to survive.
+BATCH2_OVERRIDES = ROOT / "al_qorin/overrides_batch_m06_m15_m72_m121.json"
+BATCH2_UNITS = {f"M{i:02d}" for i in range(6, 16)} | {f"M{i:02d}" for i in range(72, 122)}
+BATCH2_ENTRY_KEYS = {"dasar", "notes_groups", "khususiyah", "metode"}
+BATCH2_KHUSUSIYAH_KEYS = {"waktu", "media", "bukhur"}
+BATCH2_METODE_UNITS = {"M12", "M79", "M82", "M83"}
+BATCH2_CHANGE_KEYS = {"metode", "catatan_penyunting", "khususiyah"}
+BATCH2_APPENDED_NOTE_UNITS = {"M104", "M107"}
+
+
+def fail_batch2(message):
+    raise SystemExit(f"semantic batch M06-M15/M72-M121 override rejected: {message}")
+
+
+batch2_payload = json.loads(BATCH2_OVERRIDES.read_text(encoding="utf-8"))
+batch2_units = batch2_payload.get("units")
+if not isinstance(batch2_units, dict):
+    fail_batch2("payload has no object field 'units'")
+if set(batch2_units) != BATCH2_UNITS:
+    fail_batch2(
+        "payload units must be exactly M06-M15 and M72-M121; "
+        f"missing={sorted(BATCH2_UNITS - set(batch2_units))} "
+        f"extra={sorted(set(batch2_units) - BATCH2_UNITS)}"
+    )
+
+pre_batch2_baseline = copy.deepcopy(revised)
+
+for uid, entry in batch2_units.items():
+    if not isinstance(entry, dict):
+        fail_batch2(f"{uid}: entry is not an object")
+    unknown_keys = sorted(set(entry) - BATCH2_ENTRY_KEYS)
+    if unknown_keys:
+        fail_batch2(f"{uid}: unsupported keys {unknown_keys}")
+    if not str(entry.get("dasar", "")).strip():
+        fail_batch2(f"{uid}: missing non-empty audit basis ('dasar')")
+    if not any(k in entry for k in ("notes_groups", "khususiyah", "metode")):
+        fail_batch2(f"{uid}: entry declares no curation action")
+
+    unit = revised[uid]
+    baseline_notes = pre_batch2_baseline[uid]["catatan_penyunting"]
+    groups = entry.get("notes_groups")
+    if groups is not None:
+        if not isinstance(groups, list) or not groups:
+            fail_batch2(f"{uid}: 'notes_groups' must be a non-empty list")
+        flat = []
+        for g in groups:
+            if (not isinstance(g, list) or not g
+                    or any(not isinstance(i, int) or isinstance(i, bool) for i in g)):
+                fail_batch2(f"{uid}: each notes group must be a non-empty list of integers")
+            flat.extend(g)
+        if flat != sorted(flat) or len(set(flat)) != len(flat):
+            fail_batch2(f"{uid}: note indices must be unique and in ascending order")
+        if flat[0] < 1 or flat[-1] > len(baseline_notes):
+            fail_batch2(f"{uid}: note indices out of range (have {len(baseline_notes)})")
+        if uid in BATCH2_APPENDED_NOTE_UNITS and len(baseline_notes) not in flat:
+            fail_batch2(f"{uid}: appended selective discrepancy note must be retained")
+        unit["catatan_penyunting"] = [
+            " ".join(baseline_notes[i - 1] for i in g) for g in groups
+        ]
+
+    khususiyah = entry.get("khususiyah")
+    if khususiyah is not None:
+        if not isinstance(khususiyah, dict) or not khususiyah:
+            fail_batch2(f"{uid}: 'khususiyah' must be a non-empty object")
+        unknown_khususiyah = sorted(set(khususiyah) - BATCH2_KHUSUSIYAH_KEYS)
+        if unknown_khususiyah:
+            fail_batch2(f"{uid}: unsupported Khususiyah keys {unknown_khususiyah}")
+        for key, value in khususiyah.items():
+            if not isinstance(value, str) or not value.strip():
+                fail_batch2(f"{uid}: Khususiyah {key} must be non-empty text")
+            unit["khususiyah"][key] = value
+
+    metode = entry.get("metode")
+    if metode is not None:
+        if uid not in BATCH2_METODE_UNITS:
+            fail_batch2(f"{uid}: Metode replacement is allowed only for {sorted(BATCH2_METODE_UNITS)}")
+        if (not isinstance(metode, list) or not metode
+                or any(not isinstance(x, str) or not x.strip() for x in metode)):
+            fail_batch2(f"{uid}: 'metode' must be a non-empty list of text")
+        joined = " ".join(metode)
+        if "Petunjuk yang ada dalam sumber:" in joined:
+            fail_batch2(f"{uid}: replacement Metode still contains the keyword stub")
+        required_by_unit = {
+            "M12": ("sebelum fajar", "delapan puluh hari", "bukan anjuran"),
+            "M79": ("pelepah hijau", "cendana", "tujuh puluh kali"),
+            "M82": ("dikuburkan di pintu", "tiga puluh satu kali"),
+            "M83": ("diasapi", "Tidak ada instruksi menggantung"),
+        }
+        forbidden_by_unit = {
+            "M79": ("kertas hijau",),
+            "M82": ("penulisan di kuburan",),
+            "M83": ("dibakar dan digantung",),
+        }
+        if any(phrase not in joined for phrase in required_by_unit.get(uid, ())):
+            fail_batch2(f"{uid}: replacement Metode is missing a source-bound phrase")
+        if any(phrase in joined for phrase in forbidden_by_unit.get(uid, ())):
+            fail_batch2(f"{uid}: replacement Metode still contains the old contradiction")
+        unit["metode"] = list(metode)
+
+for uid in order:
+    baseline = pre_batch2_baseline[uid]
+    current = revised[uid]
+    if uid not in BATCH2_UNITS:
+        if current != baseline:
+            fail_batch2(f"{uid}: unit changed although it is outside M06-M15/M72-M121")
+        continue
+    for key, baseline_value in baseline.items():
+        if key not in BATCH2_CHANGE_KEYS and current[key] != baseline_value:
+            fail_batch2(f"{uid}: protected field changed: {key}")
+    if current["jam"] != baseline["jam"]:
+        fail_batch2(f"{uid}: Penentuan Jam changed")
+
+    entry = batch2_units[uid]
+    groups = entry.get("notes_groups")
+    if groups is None:
+        expected_notes = baseline["catatan_penyunting"]
+    else:
+        expected_notes = [
+            " ".join(baseline["catatan_penyunting"][i - 1] for i in g) for g in groups
+        ]
+    if current["catatan_penyunting"] != expected_notes:
+        fail_batch2(f"{uid}: editor notes differ beyond declared grouping")
+    if uid not in BATCH2_METODE_UNITS and current["metode"] != baseline["metode"]:
+        fail_batch2(f"{uid}: Metode changed outside the correction allow-list")
+    expected_khususiyah = dict(baseline["khususiyah"])
+    expected_khususiyah.update(entry.get("khususiyah", {}))
+    if current["khususiyah"] != expected_khususiyah:
+        fail_batch2(f"{uid}: Khususiyah differs beyond the declared override")
+
 units = [revised[uid] for uid in order]
 (work / "integrated_units.json").write_text(json.dumps(units, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -291,9 +434,10 @@ md = ["# AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL", "",
       "> Build terintegrasi mengikuti `../STANDAR_MUTLAK_AL_QORIN_123.md`: 123 unit hasil "
       "restrukturisasi terlog dari draf (4); 12 unit pilot telah dikurasi manual. Sesudah pilot, "
       "penajaman selektif Lapis 4/5 diterapkan hanya pada 12 unit sasaran yang terverifikasi dari "
-      "paket unggahan 2026-10-28; batch semantik M16–M64 telah dikurasi setingkat pilot "
-      "(catatan dipilih dari catatan lama, Khususiyah tingkat frasa, lima stub Metode "
-      "dikoreksi), sedangkan unit lain di luar pilot/batch masih menunggu batch berikutnya. Crop "
+      "paket unggahan 2026-10-28; batch semantik M16–M64 serta M06–M15 dan M72–M121 telah "
+      "dikurasi setingkat pilot (catatan dipilih dari catatan lama, Khususiyah tingkat frasa, "
+      "stub/kontradiksi Metode yang terbukti dikoreksi), sedangkan sisa unit non-pilot di luar "
+      "batch tersebut masih menunggu batch berikutnya. Crop "
       "wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis "
       "kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), "
       "M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.", "",
@@ -309,5 +453,6 @@ print(
     f"integrated units={len(units)} pilot_substituted={len(pilot)} "
     f"selective_overrides={len(selective_units)} "
     f"batch_m16_m64={len(batch_units)} "
+    f"batch_m06_m15_m72_m121={len(batch2_units)} "
     f"crops={sum(bool(u['crop_page']) for u in units)}"
 )

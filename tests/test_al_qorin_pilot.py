@@ -293,16 +293,23 @@ class MarkdownStructureTests(unittest.TestCase):
         self.assertEqual(set(integrated), set(order))
 
         change_keys = {"metode", "catatan_penyunting", "khususiyah"}
-        # Batch M16-M64 runs after the selective stage, so its units are no
-        # longer byte-identical to the post-pilot baseline; they are guarded
-        # by the dedicated batch test below. Here we only require that the
-        # selective stage's protected fields still match for them.
+        # Later semantic batches run after the selective stage, so their units
+        # are no longer byte-identical to the post-pilot baseline; they are
+        # guarded by dedicated batch tests below. Here we only require that
+        # protected fields still match, and for selective units that the final
+        # notes/Khususiyah equal the post-selective values after any declared
+        # later-batch note selection (M104/M107 appended notes must survive).
         batch_units = {f"M{i:02d}" for i in range(16, 65)}
+        batch2_path = ALQ / "overrides_batch_m06_m15_m72_m121.json"
+        batch2 = {}
+        if batch2_path.exists():
+            batch2 = json.loads(batch2_path.read_text(encoding="utf-8"))["units"]
+        later_units = batch_units | set(batch2)
         for uid in order:
             base = baseline[uid]
             current = integrated[uid]
             if uid not in expected_units:
-                if uid in batch_units:
+                if uid in later_units:
                     for key, value in base.items():
                         if key not in change_keys:
                             self.assertEqual(current[key], value, (uid, key))
@@ -317,17 +324,25 @@ class MarkdownStructureTests(unittest.TestCase):
             self.assertEqual(current["jam"], base["jam"], uid)
 
             entry = selective[uid]
-            self.assertEqual(
-                current["catatan_penyunting"],
-                base["catatan_penyunting"] + list(entry.get("catatan_tambah", [])),
-                uid,
+            expected_notes = base["catatan_penyunting"] + list(
+                entry.get("catatan_tambah", [])
             )
+            later = batch2.get(uid, {})
+            if later.get("notes_groups") is not None:
+                expected_notes = [
+                    " ".join(expected_notes[i - 1] for i in g)
+                    for g in later["notes_groups"]
+                ]
+            self.assertEqual(current["catatan_penyunting"], expected_notes, uid)
             expected_khususiyah = dict(base["khususiyah"])
             expected_khususiyah.update(entry.get("khususiyah", {}))
+            expected_khususiyah.update(later.get("khususiyah", {}))
             self.assertEqual(current["khususiyah"], expected_khususiyah, uid)
             if uid == "M122":
                 self.assertEqual(current["metode"], entry["metode"], uid)
                 self.assertNotEqual(current["metode"], base["metode"], uid)
+            elif "metode" in later:
+                self.assertEqual(current["metode"], later["metode"], uid)
             else:
                 self.assertEqual(current["metode"], base["metode"], uid)
 
@@ -460,6 +475,176 @@ class MarkdownStructureTests(unittest.TestCase):
         self.assertIn("crop asli 64.jpg", integrated["M64"]["khususiyah"]["media"])
         self.assertEqual(integrated["M64"]["crop_page"], 64)
 
+    def test_batch_m06_m15_m72_m121_overrides_are_narrow_when_work_data_present(self):
+        override_path = ALQ / "overrides_batch_m06_m15_m72_m121.json"
+        payload = json.loads(override_path.read_text(encoding="utf-8"))
+        batch2 = payload["units"]
+        expected_units = (
+            {f"M{i:02d}" for i in range(6, 16)}
+            | {f"M{i:02d}" for i in range(72, 122)}
+        )
+        metode_allowed = {"M12", "M79", "M82", "M83"}
+        self.assertEqual(set(batch2), expected_units)
+        for uid, entry in batch2.items():
+            self.assertLessEqual(
+                set(entry),
+                {"dasar", "notes_groups", "khususiyah", "metode"},
+                uid,
+            )
+            self.assertTrue(str(entry.get("dasar", "")).strip(), uid)
+            self.assertTrue(
+                any(k in entry for k in ("notes_groups", "khususiyah", "metode")),
+                uid,
+            )
+            if "metode" in entry:
+                self.assertIn(uid, metode_allowed, uid)
+                self.assertNotIn(
+                    "Petunjuk yang ada dalam sumber:",
+                    " ".join(entry["metode"]),
+                    uid,
+                )
+            if "khususiyah" in entry:
+                self.assertLessEqual(
+                    set(entry["khususiyah"]),
+                    {"waktu", "media", "bukhur"},
+                    uid,
+                )
+
+        revised_path = ALQ / "work/revised_units.json"
+        pilot_path = ALQ / "work/pilot_units.json"
+        integrated_path = ALQ / "work/integrated_units.json"
+        selective_path = ALQ / "overrides_upload_selektif_2026-10-28.json"
+        batch1_path = ALQ / "overrides_batch_m16_m64.json"
+        if not (
+            revised_path.exists()
+            and pilot_path.exists()
+            and integrated_path.exists()
+            and selective_path.exists()
+            and batch1_path.exists()
+        ):
+            self.skipTest("ignored work JSON not present in this checkout")
+
+        def cloned(units):
+            return {
+                u["unit_id"]: json.loads(json.dumps(u, ensure_ascii=False))
+                for u in units
+            }
+
+        def apply_notes(unit, groups):
+            old = unit["catatan_penyunting"]
+            unit["catatan_penyunting"] = [
+                " ".join(old[i - 1] for i in g) for g in groups
+            ]
+
+        # Reconstruct the builder's exact pre-batch2 baseline: mechanical
+        # units + pilot substitution + selective overrides + M16-M64 batch.
+        baseline = cloned(json.loads(revised_path.read_text(encoding="utf-8")))
+        for uid, unit in cloned(
+            json.loads(pilot_path.read_text(encoding="utf-8"))
+        ).items():
+            baseline[uid] = unit
+        selective = json.loads(selective_path.read_text(encoding="utf-8"))["units"]
+        for uid, entry in selective.items():
+            unit = baseline[uid]
+            unit["khususiyah"].update(entry.get("khususiyah", {}))
+            unit["catatan_penyunting"] += list(entry.get("catatan_tambah", []))
+            if "metode" in entry:
+                unit["metode"] = list(entry["metode"])
+        batch1 = json.loads(batch1_path.read_text(encoding="utf-8"))["units"]
+        for uid, entry in batch1.items():
+            unit = baseline[uid]
+            if entry.get("notes_groups") is not None:
+                apply_notes(unit, entry["notes_groups"])
+            unit["khususiyah"].update(entry.get("khususiyah", {}))
+            if "metode" in entry:
+                unit["metode"] = list(entry["metode"])
+
+        integrated = {
+            u["unit_id"]: u
+            for u in json.loads(integrated_path.read_text(encoding="utf-8"))
+        }
+        order = ["SAMPUL"] + [f"M{i:02d}" for i in range(1, 123)]
+        self.assertEqual(set(integrated), set(order))
+        # No spill outside the declared 60-unit batch.
+        for uid in order:
+            if uid not in expected_units:
+                self.assertEqual(integrated[uid], baseline[uid], uid)
+
+        change_keys = {"metode", "catatan_penyunting", "khususiyah"}
+        for uid in sorted(expected_units):
+            base = baseline[uid]
+            current = integrated[uid]
+            entry = batch2[uid]
+            for key, value in base.items():
+                if key not in change_keys:
+                    self.assertEqual(current[key], value, (uid, key))
+            self.assertEqual(current["jam"], base["jam"], uid)
+
+            groups = entry.get("notes_groups")
+            if groups is None:
+                expected_notes = base["catatan_penyunting"]
+            else:
+                flat = [i for g in groups for i in g]
+                self.assertEqual(flat, sorted(set(flat)), uid)
+                self.assertGreaterEqual(flat[0], 1, uid)
+                self.assertLessEqual(
+                    flat[-1], len(base["catatan_penyunting"]), uid
+                )
+                if uid in {"M104", "M107"}:
+                    self.assertIn(len(base["catatan_penyunting"]), flat, uid)
+                expected_notes = [
+                    " ".join(base["catatan_penyunting"][i - 1] for i in g)
+                    for g in groups
+                ]
+            self.assertEqual(current["catatan_penyunting"], expected_notes, uid)
+            for paragraph in current["catatan_penyunting"]:
+                for old in base["catatan_penyunting"]:
+                    if old in paragraph:
+                        break
+                else:
+                    self.fail(f"{uid}: note paragraph not composed of old notes")
+
+            expected_khususiyah = dict(base["khususiyah"])
+            expected_khususiyah.update(entry.get("khususiyah", {}))
+            self.assertEqual(current["khususiyah"], expected_khususiyah, uid)
+            if uid in metode_allowed:
+                self.assertEqual(current["metode"], entry["metode"], uid)
+            else:
+                self.assertEqual(current["metode"], base["metode"], uid)
+
+        # Spot-check the semantic corrections and selective overlaps.
+        self.assertIn("kata “hari” tidak ada", integrated["M07"]["khususiyah"]["waktu"])
+        self.assertIn("sebelum fajar", integrated["M12"]["metode"][0])
+        self.assertIn("delapan puluh hari", integrated["M12"]["metode"][0])
+        self.assertIn("kabarbarah", integrated["M75"]["khususiyah"]["bukhur"])
+        self.assertIn("pelepah hijau", integrated["M79"]["metode"][0])
+        self.assertIn("cendana", integrated["M79"]["khususiyah"]["bukhur"])
+        self.assertNotIn("kertas hijau", " ".join(integrated["M79"]["metode"]))
+        self.assertIn("dikuburkan di pintu", integrated["M82"]["metode"][0])
+        self.assertIn("diasapi", integrated["M83"]["metode"][0])
+        self.assertIn("saat baik", integrated["M84"]["khususiyah"]["waktu"])
+        self.assertIn("tujuh puluh dua kali", integrated["M84"]["khususiyah"]["media"])
+        self.assertIn("mulai hari Ahad", integrated["M98"]["khususiyah"]["waktu"])
+        self.assertEqual(integrated["M98"]["crop_page"], 98)
+        self.assertEqual(
+            integrated["M104"]["catatan_penyunting"][-1],
+            selective["M104"]["catatan_tambah"][0],
+        )
+        self.assertEqual(
+            integrated["M107"]["catatan_penyunting"][-1],
+            selective["M107"]["catatan_tambah"][0],
+        )
+        self.assertEqual(integrated["M105"]["jam"], [NO_CALC])
+        self.assertIn(
+            "1072, 535, 1403, 1598, 517, 646, 1813, 1314, 908, dan 1598",
+            integrated["M105"]["khususiyah"]["media"],
+        )
+        self.assertTrue(
+            any(
+                "tidak dianjurkan" in n
+                for n in integrated["M121"]["catatan_penyunting"]
+            )
+        )
 
 class IntegratedDocxTests(unittest.TestCase):
     """The 123-unit DOCX is an integrated build, not proof of semantic completion."""

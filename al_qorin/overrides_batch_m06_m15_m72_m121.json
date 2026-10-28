@@ -1,0 +1,963 @@
+{
+  "keterangan": "Batch semantik M06–M15 dan M72–M121: seleksi/pengelompokan Catatan penyunting dari catatan lama, Khususiyah tingkat frasa dari Arab/Terjemahan unit, dan empat koreksi Metode sumber-terikat (M12, M79, M82, M83). Tidak ada perubahan Arab/Latin/Terjemahan, rajah_blocks, crop, atau Penentuan Jam.",
+  "units": {
+    "M06": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ],
+        [
+          7
+        ],
+        [
+          8
+        ],
+        [
+          9
+        ],
+        [
+          10
+        ],
+        [
+          11
+        ]
+      ]
+    },
+    "M07": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          7
+        ],
+        [
+          8
+        ],
+        [
+          9
+        ],
+        [
+          10
+        ],
+        [
+          11
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "khalwat/riyadhah empat puluh dan kelipatannya menurut penjelasan penulis (angka 40, 60, 90 serta satu dan dua minggu dipertahankan; kata “hari” tidak ada pada frasa kunci—lihat Catatan penyunting)"
+      }
+    },
+    "M08": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ],
+        [
+          8
+        ],
+        [
+          9
+        ],
+        [
+          10
+        ],
+        [
+          11
+        ],
+        [
+          12
+        ],
+        [
+          13
+        ],
+        [
+          14
+        ]
+      ]
+    },
+    "M09": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ],
+        [
+          7
+        ]
+      ]
+    },
+    "M10": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          6
+        ],
+        [
+          7
+        ]
+      ]
+    },
+    "M11": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "makan malam sesudah terbenam/Magrib; rangkaian 12 rakaat sesudah makan dan rangkaian 12 rakaat sesudah Isya, witir, lalu tidur dalam keadaan berwudu",
+        "media": "batas makan ±24 ūqiyah bagi salik berkeluarga; roti hangat dipecah sambil membaca awal surah al-Mulk; tanpa lemak hewani; Ayat al-Kursi tiga kali pada rangkaian sesudah makan dan tujuh kali pada rangkaian sesudah Isya menurut ringkasan Metode"
+      }
+    },
+    "M12": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Metode lama diganti hanya karena stub/kontradiksi material terbukti dari Arab/Terjemahan unit yang dipertahankan.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "bangun sebelum fajar; zikir hingga Subuh dan terbit; isyraq; zawal; Zuhur–Asar–Magrib; tahapan malam ke-7 lalu tiap pekan hingga 80 hari",
+        "media": "zikir menghadap kiblat; isyraq empat rakaat dengan al-Fātiḥah dan al-Ikhlāṣ tiga kali; zawal empat rakaat dengan al-Fātiḥah, Ayat al-Kursi, dan al-Ikhlāṣ; roti sesudah Magrib seperti M11"
+      },
+      "metode": [
+        "Penulis melanjutkan jadwal riyadhah salik berkeluarga: bangun sebelum fajar untuk zikir menghadap kiblat hingga Subuh, tetap berzikir sampai matahari terbit, salat isyraq empat rakaat, berzikir lagi, salat zawal empat rakaat, lalu Zuhur, duduk sampai Asar, salat Asar, dan kembali berzikir sampai Magrib; roti sesudah Magrib diperlakukan seperti pada M11. Tahapan berbuka berubah pada malam ketujuh, lalu sesudah dua, tiga, empat, lima, dan enam pekan sampai genap delapan puluh hari. Uraian ini adalah penjelasan riyadhah dari penulis dalam kerangka dokumenter; klaim pengalaman batin sesudahnya dinisbatkan kepada penulis dan bukan anjuran atau jaminan hasil."
+      ]
+    },
+    "M13": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          3
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ],
+        [
+          6
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "berbuka sesudah Isya; pengurangan setengah dirham tiap malam; malam Jumat sesudah empat puluh pertama; total delapan puluh hari",
+        "media": "dua roti hangat dan sedikit air; surah Yāsīn; zikir “Subḥānallāh al-‘Aliyy al-Wahhāb”; konteks makanan halal, menyendiri dari suara, dan duduk dalam gelap"
+      }
+    },
+    "M14": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          3
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "selama riyadhah, sebagai respons ketika tabir/lintasan muncul",
+        "media": "berwudu atau mandi; zikir Yā Hādī, Yā Laṭīf, Yā Fansyah (bacaan tidak pasti), Yā Qawiyy, Yā Qādir, dan Yā Dzā al-Quwwah sesuai jenis tabir"
+      }
+    },
+    "M15": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          3
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "media": "syarat salik yang dinyatakan enam oleh sumber: tidak makan dari sumber tak diketahui, tidak menerima sebelum waktunya, tidak bergerak tanpa sebab, tidak tanpa wudu, tidak tidur lalai, tidak berbicara kecuali darurat, dan tidak meninggalkan kesucian (redaksi memuat tujuh frasa; lihat Catatan penyunting)"
+      }
+    },
+    "M72": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "tulisan berisi basmalah, taṣliyah, al-Fātiḥah, deretan huruf, ḥauqalah, dan potongan Āli ‘Imrān 3:37–41, al-A‘rāf 7:189, serta ayat lain; enam unsur grafis tanpa petak (crop asli 72.jpg; identitas deret tidak dinormalkan)"
+      }
+    },
+    "M73": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "saat bersih dari haid",
+        "media": "mangkuk porselen; tulisan dengan susu kambing hitam menurut Metode kanonis; rangkaian ayat penciptaan dan ayat kehamilan; rajah lambang (crop asli 73.jpg; beberapa huruf tidak pasti)"
+      }
+    },
+    "M74": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "nama-nama ditulis lalu digantungkan; dua naskah nama masing-masing dibawa lelaki dan perempuan; rajah penutup besar tanpa petak (crop asli 74.jpg)"
+      }
+    },
+    "M75": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "bacaan pembakaran ‘āriḍ pada waktu matahari terbenam, sebelum terbenam (redaksi dipertahankan)",
+        "media": "ucapan pembakaran dengan nama orang yang terkena dan ibunya; untuk istiḥḍār: tempat bersih tertutup gelap, menghadap kiblat, “mā syā’ Allāh” tiga kali, tahlil tujuh kali, ḥauqalah tujuh kali, dan surah al-Jinn tujuh kali",
+        "bukhur": "‘ankabūt (laba-laba) dan kabarbarah (istilah bahan tidak dipastikan)"
+      }
+    },
+    "M76": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "tiga malam berturut-turut; satu lembar dibakar setiap malam",
+        "media": "tiga lembar kertas bertinta misik hitam; rajah baris huruf/angka dan bentuk (crop asli 76.jpg); unit juga memuat kelanjutan formula istiġāṡah dari M75"
+      }
+    },
+    "M77": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "wadah bersih ditulis dengan misik hitam, dipanaskan lalu dipindahkan/diminumkan menurut sumber; tulisan lanjutan dan rajah huruf/angka/ayat (crop asli 77.jpg); hijab sakit kepala ditulis dan digantungkan di kepala"
+      }
+    },
+    "M78": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "bacaan “uskun” dengan ayat-ayat (al-An‘ām 6:13; Yā-Sīn 36:38; al-Furqān 25:45–46); wafaq sel berisi “‘alli” dan angka dengan nama Mikail dan tulisan lain (crop asli 78.jpg)"
+      }
+    },
+    "M79": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Metode lama diganti hanya karena stub/kontradiksi material terbukti dari Arab/Terjemahan unit yang dipertahankan.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "puasa/riyadhah hari Sabtu; pelepah ditulis pagi hari; qasam sesudah Isya",
+        "media": "pelepah hijau bertuliskan surah al-‘Ādiyāt sampai akhir, dipegang di tangan; qasam tujuh puluh kali",
+        "bukhur": "cendana dibakar dalam mangkuk pembakar baru di atas api kuat"
+      },
+      "metode": [
+        "Bab “mengirim bantuan yang kuat” dalam sumber memuat rangkaian: puasa/riyadhah pada hari Sabtu; pelepah hijau ditulis dengan surah al-‘Ādiyāt sampai akhir pada pagi hari; sesudah Isya cendana dibakar dalam mangkuk pembakar baru di atas api kuat sementara pelepah dipegang di tangan; qasam dibaca tujuh puluh kali sampai pelepah disebut bergetar, lalu pelepah dilepaskan ke arah yang dituju dan tidak diambil kembali."
+      ]
+    },
+    "M80": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "lanjutan qasam M79; untuk sengatan: al-Fātiḥah tujuh kali tanpa basmalah dan tanpa ta’mīn, lalu qasam al-ladġ"
+      }
+    },
+    "M81": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "bab perdamaian ditulis hari Kamis pada saat kekuatan bulan",
+        "media": "tulisan ayat-ayat perdamaian digantungkan oleh perempuan (faidah kembalinya suami); tulisan bab perdamaian suami-istri",
+        "bukhur": "‘ammāl sandawaris (istilah sumber tidak dipastikan)"
+      }
+    },
+    "M82": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Metode lama diganti hanya karena stub/kontradiksi material terbukti dari Arab/Terjemahan unit yang dipertahankan.",
+      "notes_groups": [
+        [
+          2
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "media": "tulisan deret angka dan ayat pengumpulan (al-Ḥijr 15:47 dan ayat lain) dikuburkan di pintu pihak sasaran menurut Terjemahan; rajah angka/rumus (crop asli 82.jpg); al-Fātiḥah 31 kali dengan pengulangan ayat “iyyāka na‘budu…” 31 kali pada kali terakhir; nama-nama ditulis pada jari untuk bab berikutnya",
+        "bukhur": "jāwī, lubbān dzakar, labu jin, dan bakhūr sawdān (istilah bahan dipertahankan; lihat catatan angka/nama)"
+      },
+      "metode": [
+        "Unit ini memuat penutup rangkaian mahabbah dan dua bab pendek. Pada rangkaian pertama, bahan yang disebut adalah jāwī, lubbān dzakar, labu jin, dan bakhūr sawdān; tulisan deret angka dan ayat pengumpulan kemudian dikuburkan di pintu pihak sasaran menurut Terjemahan. Bab mahabbah dengan al-Fātiḥah menyebut pembacaan al-Fātiḥah tiga puluh satu kali, dengan pengulangan “iyyāka na‘budu wa iyyāka nasta‘īn” tiga puluh satu kali pada kali terakhir. Penutup halaman memulai bab talbīs al-juttsah: nama-nama ditulis pada jari dan azimah dibacakan dengan yang ditulis itu."
+      ]
+    },
+    "M83": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Metode lama diganti hanya karena stub/kontradiksi material terbukti dari Arab/Terjemahan unit yang dipertahankan.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "media": "nama-nama pada jari dan azimah dua puluh satu kali; untuk rasa takut: thilsim, ayat-ayat ketakutan, dan Ayat al-Kursi ditulis pada kertas; dua baris angka/rumus (crop asli 83.jpg)",
+        "bukhur": "maṭlūq yaitu kabarbarah dan lubbān dzakar (bab pertama); kertas faidah rasa takut diasapi dengan lubbān dzakar, jāwī, mastika, dan kayu ‘ūd"
+      },
+      "metode": [
+        "Unit ini melanjutkan bab talbīs al-juttsah dari M82: azimah dibaca dua puluh satu kali dan bakhurnya maṭlūq, yaitu kabarbarah dan lubbān dzakar. Faidah keamanan dari rasa takut memuat penulisan thilsim bersama ayat-ayat ketakutan dan Ayat al-Kursi pada kertas, lalu kertas itu diasapi dengan lubbān dzakar, jāwī, mastika, dan kayu ‘ūd. Tidak ada instruksi menggantung pada unit ini; bentuk thilsim berasal dari crop asli 83.jpg dan tidak digambar ulang."
+      ]
+    },
+    "M84": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "bab mahabbah ditulis pada saat baik/mubarak",
+        "media": "tulisan basmalah/tasliyah dan formula kebutuhan digantungkan; thilsim mahabbah dengan ayat di sekelilingnya digantung dan ayat dibaca tujuh puluh dua kali dengan taukil setiap kali; rajah angka/huruf (crop asli 84.jpg)",
+        "bukhur": "bakhūr ṭayyib (bakaran wangi) tanpa nama bahan"
+      }
+    },
+    "M85": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "media": "kelanjutan formula mahabbah M84; untuk peminangan: thilsim pada kertas dengan taukil dan nama pemohon serta yang diminta, ayat dibaca tujuh puluh dua kali, kertas dibawa pemohon; rajah angka/huruf (crop asli 85.jpg)",
+        "bukhur": "diasapi/dibakar dengan wangi-wangian tanpa nama bahan"
+      }
+    },
+    "M86": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "media": "hijab persalinan ditulis dan digantungkan pada perut; ayat bumi diratakan (al-Insyiqāq 84:3–4), perumpamaan Maryam melahirkan Isa, dan pembukaan surat Sulaiman; empat wafaq kecil di kepala halaman (crop asli 86.jpg)"
+      }
+    },
+    "M87": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M88": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M89": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "tidak disebutkan dalam sumber unit ini"
+      }
+    },
+    "M90": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M91": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M92": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M93": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          6
+        ]
+      ]
+    },
+    "M94": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M95": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M96": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M97": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "hari tanpa angin, hujan, dan awan; dilanjutkan pada hari kedua",
+        "media": "duduk di tempat kosong dari manusia; khatam ditulis di telapak tangan; azimah Ratu Jamjah dibaca berulang (rincian bab dipotong tegas pada catatan sumber)",
+        "bukhur": "kayu cendana merah; hari kedua disebut membakar wangi-wangian tanpa nama bahan"
+      }
+    },
+    "M98": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          5
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "puasa tujuh hari mulai hari Ahad, saat tidak ada angin/awan/hujan dan bulan bertambah",
+        "media": "azimah dengan bilangan dan huruf pada tujuh hari pertama; rajah di kepala halaman (crop asli 98.jpg; nama/bacaan sebagian tidak pasti)"
+      }
+    },
+    "M99": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "hari pertama dan hari kedua pada tempat yang sama",
+        "media": "khatam ditulis pada tangan/telapak kiri; azimah/da‘wah diulang; pelepah hijau disebut hadir di tangan kanan",
+        "bukhur": "kayu cendana merah (hari pertama); wangi-wangian tanpa nama bahan (hari kedua)"
+      }
+    },
+    "M100": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "bacaan azimah lanjutan dengan rangkaian nama (Yahyūkh, Ar‘ūkh, Syamhisy, Harmisy) dalam rangkaian Abū Zanāṣir Syam‘alah"
+      }
+    },
+    "M101": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "bacaan Asmā’ as-Sulaimāniyyah (nama-nama thilsim lanjutan bab)"
+      }
+    },
+    "M102": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "menghadap kiblat; “mā syā’ Allāh” tiga kali, tahlil tujuh kali, ḥauqalah tujuh kali, surah al-Jinn tujuh kali; seruan ke kanan tujuh kali dan formula ke kiri tujuh kali"
+      }
+    },
+    "M103": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "bacaan Basmalah atas perapian (al-kānūn) dengan seruan kepada khadimnya (penutup fasal 19)"
+      }
+    },
+    "M104": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Baseline adalah hasil pasca-integrasi selektif; Khususiyah selektif tidak ditimpa dan catatan beda pindaian M104/M107 dipertahankan bila ada.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ]
+    },
+    "M105": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Baseline adalah hasil pasca-integrasi selektif; Khususiyah selektif tidak ditimpa dan catatan beda pindaian M104/M107 dipertahankan bila ada.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M106": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Baseline adalah hasil pasca-integrasi selektif; Khususiyah selektif tidak ditimpa dan catatan beda pindaian M104/M107 dipertahankan bila ada.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ]
+      ]
+    },
+    "M107": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Baseline adalah hasil pasca-integrasi selektif; Khususiyah selektif tidak ditimpa dan catatan beda pindaian M104/M107 dipertahankan bila ada.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ],
+        [
+          5
+        ]
+      ]
+    },
+    "M108": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "dua rakaat dan dua langkah ke arah mereka; ucapan “as-salāmu ‘alaikum yā rijāl al-ghaib” dan tiga nama pembuka rangkaian tawasul"
+      }
+    },
+    "M109": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Baseline adalah hasil pasca-integrasi selektif; Khususiyah selektif tidak ditimpa dan catatan beda pindaian M104/M107 dipertahankan bila ada.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M110": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M111": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "doa perluasan tawasul dibaca; Metode mencatat pembacaan tiga kali dalam konteks penyebutan keperluan (redaksi Terjemahan dipertahankan)"
+      }
+    },
+    "M112": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "doa tawasul lanjutan (nama nabi, malaikat, sahabat, wali/ulama)"
+      }
+    },
+    "M113": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "daftar nama tawasul lanjutan hingga rangkaian Asmā’ al-Ḥusnā"
+      }
+    },
+    "M114": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "waktu": "tidak disebutkan dalam sumber unit ini"
+      }
+    },
+    "M115": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "berwudu, dua rakaat, menghadap arah kaum rijāl al-ghaib, al-Fātiḥah dihadiahkan, lalu salam"
+      }
+    },
+    "M116": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Baseline adalah hasil pasca-integrasi selektif; Khususiyah selektif tidak ditimpa dan catatan beda pindaian M104/M107 dipertahankan bila ada.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ]
+      ]
+    },
+    "M117": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "doa besar lanjutan hijab dengan rangkaian Asmā’ al-Ḥusnā dan ayat-ayat hijab"
+      }
+    },
+    "M118": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "doa lanjutan dengan rangkaian Asmā’, ayat takdir, ḥauqalah, dan bacaan ayat/rukun iman"
+      }
+    },
+    "M119": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ],
+      "khususiyah": {
+        "media": "doa penjagaan dari ṭawāriq al-lail wa an-nahār; akhir at-Taubah, akhir al-Ḥasyr, al-Mu‘awwidzatain, dan al-Ikhlāṣ menurut ringkasan Metode (nama surah terakhir pada Terjemahan tidak pasti)"
+      }
+    },
+    "M120": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Baseline adalah hasil pasca-integrasi selektif; Khususiyah selektif tidak ditimpa dan catatan beda pindaian M104/M107 dipertahankan bila ada.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          4
+        ]
+      ]
+    },
+    "M121": {
+      "dasar": "Catatan substantif dipilih dari catatan lama; boilerplate generik serta fragmen Latin/dikte dibuang bila ada. Khususiyah diturunkan dari Arab/Terjemahan/Metode unit; Lapis 1–3, rajah_blocks, crop, dan Penentuan Jam tidak diubah. Baseline adalah hasil pasca-integrasi selektif; Khususiyah selektif tidak ditimpa dan catatan beda pindaian M104/M107 dipertahankan bila ada.",
+      "notes_groups": [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ]
+      ]
+    }
+  }
+}

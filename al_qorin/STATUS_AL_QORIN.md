@@ -99,8 +99,9 @@ hasil, dan bukan pengganti penanganan medis.
    penghapusan, manifest/hash crop pengguna, substitusi pilot, batas sempit
    override selektif pasca-pilot, DOCX terintegrasi, preview,
    arah/alignment XML, tabel, media, dan embedding font. Test lama Anwar
-   tetap dijalankan; seluruh 20 test lulus sesudah integrasi selektif,
-   amandemen lapis kondisional, dan batch semantik M16–M64.
+   tetap dijalankan; seluruh 21 test lulus sesudah integrasi selektif,
+   amandemen lapis kondisional, batch semantik M16–M64, dan batch semantik
+   M06–M15/M72–M121.
 9. **Amandemen lapis kondisional + arsip unggahan M65** (2026-10-28): sesuai
    keputusan pengguna, SAMPUL kini tampil 3 lapis (empat catatan sampul
    dipindah ke akhir Lapis 3), M01 (Muqodimah) dan M122 (Khatimah) tampil
@@ -121,20 +122,34 @@ hasil, dan bukan pengganti penanganan medis.
     Builder menegaskan Arab/Latin/Terjemahan, Penentuan Jam, tabel/blok
     rajah, dan crop tidak berubah; ringkasan Metode draf selain lima stub itu
     dipertahankan. Rincian: `CATATAN_BATCH_M16_M64.md`.
+11. **Batch semantik M06–M15 dan M72–M121**
+    (`overrides_batch_m06_m15_m72_m121.json`, tahap ketiga sesudah pilot,
+    selektif, dan M16–M64): 60 unit dikurasi setingkat pilot. Catatan
+    penyunting hanya dipilih dari catatan lama (tanpa teks catatan baru;
+    boilerplate generik, fragmen Latin, dan dikte saraf dibuang; peringatan
+    editorial serta catatan beda pindaian M104/M107 dipertahankan).
+    Khususiyah ditulis pada tingkat frasa dari Arab/Terjemahan unit,
+    termasuk jadwal riyadhah M11–M15, waktu terbenam dan bakhur M75,
+    saat baik/bakhur M84, dan mulai Ahad M98. Empat Metode dikoreksi hanya
+    karena stub atau kontradiksi material terbukti: M12 (stub kata kunci →
+    jadwal 80 hari), M79 (pelepah hijau + cendana, bukan kertas/kemenyan),
+    M82 (dikuburkan di pintu sasaran), dan M83 (kertas diasapi; tidak ada
+    instruksi menggantung). Builder/test menegaskan Arab/Latin/Terjemahan,
+    Penentuan Jam, `rajah_blocks`, dan crop tidak berubah; unit tumpang-tindih
+    selektif memakai baseline pasca-selektif. Rincian:
+    `CATATAN_BATCH_M06_M15_M72_M121.md`.
 
 ## Yang belum selesai
 
-- Penyelesaian semantik batch berikutnya masih tersisa untuk unit di luar
-  pilot dan batch M16–M64 (terutama M06–M15 dan M72–M103/M108–M121 di luar
-  sasaran selektif): perapian Metode mengikuti gaya HALAMAN 07, kurasi akhir
-  Catatan penyunting, Khususiyah tingkat frasa, dan pemeriksaan ulang
-  Penentuan Jam terhadap Arab serta pindai halaman harus diteruskan per
-  batch dengan pagar yang sama. Penajaman selektif pada unit sasaran
-  unggahan hanya menyentuh frasa/catatan tertentu dan tidak menandai
-  unit-unit itu selesai semantik; selisih bacaan M104 dan M107 juga sengaja
-  belum dipakai untuk mengganti Lapis 1–3. Batch M16–M64 sendiri tidak
-  menerjemahkan ulang Lapis 1–3 dan tidak menulis ulang ringkasan Metode
-  draf selain lima stub yang terbukti salah baca kata kunci.
+- Sisa batch semantik Lapis 4/5 kini terutama M68, M70, dan M71: ketiganya
+  baru menerima penajaman selektif frasa/catatan tertentu dan belum masuk
+  batch kurasi catatan/Khususiyah setingkat pilot. Selain itu, pemeriksaan
+  ulang Penentuan Jam terhadap Arab serta pindai halaman tetap bersifat
+  dokumenter dan tidak boleh mengarang hitungan; selisih bacaan M104 dan
+  M107 juga sengaja belum dipakai untuk mengganti Lapis 1–3. Semua batch
+  semantik sejauh ini tidak menerjemahkan ulang Lapis 1–3, tidak menggambar
+  ulang rajah, dan tidak menulis ulang ringkasan Metode draf selain stub/
+  kontradiksi yang terbukti pada daftar izin masing-masing batch.
 - Pemetaan halaman cetak individual M01–M04 belum dibuktikan; tidak ada crop
   pada rentang itu. Untuk M05–M121 nomor unit sama dengan halaman cetak, dan
   M122 adalah penutup tanpa nomor terbaca.
