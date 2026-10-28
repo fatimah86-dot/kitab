@@ -66,6 +66,10 @@ from al_qorin_parse_user_arab_replacement_h70_74_revised import (
     ORDER_REVISED as ORDER_H70_74_REVISED,
     load_user_arab_replacement_h70_74_revised,
 )
+from al_qorin_parse_user_arab_replacement_h76_revised import (
+    ORDER_REVISED as ORDER_H76_REVISED,
+    load_user_arab_replacement_h76_revised,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 work = ROOT / "al_qorin/work"
@@ -778,6 +782,23 @@ for uid in order:
                 f"{uid}:{key}"
             )
 
+# A later one-page user revision supersedes only M76 within the
+# pages 63-122 stage.  Every other unit and field remains protected.
+arab_replacement_h76_revised = load_user_arab_replacement_h76_revised(ROOT)
+pre_arab_replacement_h76_revised = copy.deepcopy(revised)
+for uid in ORDER_H76_REVISED:
+    changed = dict(pre_arab_replacement_h76_revised[uid])
+    changed["arab"] = list(arab_replacement_h76_revised["units"][uid])
+    revised[uid] = changed
+for uid in order:
+    for key, value in pre_arab_replacement_h76_revised[uid].items():
+        allowed = uid in ORDER_H76_REVISED and key == "arab"
+        if not allowed and revised[uid][key] != value:
+            raise SystemExit(
+                "user revised M76 replacement changed protected field: "
+                f"{uid}:{key}"
+            )
+
 units = [revised[uid] for uid in order]
 (work / "integrated_units.json").write_text(json.dumps(units, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -844,5 +865,7 @@ print(
     f"{len(arab_replacement_h70_74_revised['units'])} "
     f"user_arab_replacement_h70_74_revised_paragraphs="
     f"{sum(len(x) for x in arab_replacement_h70_74_revised['units'].values())} "
+    f"user_arab_replacement_h76_revised_paragraphs="
+    f"{len(arab_replacement_h76_revised['units']['M76'])} "
     f"crops={sum(bool(u['crop_page']) for u in units)}"
 )

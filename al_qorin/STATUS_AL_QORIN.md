@@ -336,6 +336,21 @@ hasil, dan bukan pengganti penanganan medis.
     `AUDIT_ARAB_PENGGANTI_H70_74_REVISI_2026-10-28.md`. Validasi:
     discovery 33 test menghasilkan 26 lulus dan 7 test bergantung pada
     work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+24. **Revisi Arab halaman 76** (2026-10-28): sesudah menerima daftar
+    halaman yang masih memuat bagian tidak terbaca, pengguna mengirim
+    revisi halaman 76 untuk menggantikan versi lama. Teks itu
+    diarsipkan di `incoming_user_2026-10-28/arab_replacement_h76_revised/`
+    (SHA-256 `73b037d8…a7bf9f`) dan diparse menjadi 1 unit/8 paragraf,
+    menggantikan 5 paragraf lama sehingga total paragraf sumber Arab
+    menjadi **550**. Revisi ini menghapus elipsis penutup lama dan
+    memuat satu `[gambar wafak]`; crop lama 76 dipindahkan ke posisi
+    penanda pada Lapis 1 dan lokasi lamanya dihapus, sehingga 26 crop
+    tetap tampil satu kali. Tahap ini dikunci sesudah revisi M70/M74
+    pada builder terintegrasi dan builder edisi bersih; kedua Markdown,
+    kedua DOCX, dan preview riset dibangun/diperbarui. Audit:
+    `AUDIT_ARAB_PENGGANTI_H76_REVISI_2026-10-28.md`. Validasi:
+    discovery 34 test menghasilkan 27 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
 
 ## Yang belum selesai
 
@@ -353,7 +368,7 @@ hasil, dan bukan pengganti penanganan medis.
   bersih item 15 adalah penyajian bersih dari bahan yang ada, bukan tanda
   revisi total terjemahan/syarah gramatikal sudah selesai.
 - Seluruh Lapis 1 kini mengikuti arsip-arsip Arab yang ditunjuk pengguna
-  pada item 16 dan 18–23, tetapi setiap perbedaan bacaan/harakat di
+  pada item 16 dan 18–24, tetapi setiap perbedaan bacaan/harakat di
   dalamnya belum dibuktikan satu-satu terhadap pindaian kitab asli. Teks “full
   khatam” yang diaudit pada item 14 tetap salinan baseline lama dan tidak
   menjadi sumber penggantian.
@@ -390,6 +405,8 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h11_revised.py --check
 .venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h70_74_revised.py
 .venv/bin/python scripts/al_qorin_apply_arab_replacement_h70_74_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h76_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h76_revised.py --check
 .venv/bin/python scripts/al_qorin_wafaq_markers.py --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \
