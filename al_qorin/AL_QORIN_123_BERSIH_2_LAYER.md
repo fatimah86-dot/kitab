@@ -2262,15 +2262,19 @@ Tujuan: Pengobatan segala penyakit.
 
 2. Latin:
 
-Wa bihaqqi shafiyyika nuuhin wa safiinatihi wa maa tanaasala bainahumaa minal anbiyaa-i wal mursaliina isyfinii bisyifaa-ika wa daawinii bidawaa-ika wa 'aafinii bi'aafiyatika wa bimu'aafaatika fa-innaka laa ilaaha illaa anta wa laa rabba siwaaka wakhwiqlahu wa shallal laahu 'alaa sayyidinaa muhammadin wa 'alaa aalihi wa shahbihi.
+Wa bihaqqi shafiyyika Nuuhin wa safiinatihi wa maa tanaasala bainahumaa minal anbiyaa-i wal mursaliina, isyfinii bisyifaa-ika wa daawinii bidawaa-ika wa 'aafinii bi'aafiyatika wa bimu'aafaatika fa-innaka laa ilaaha illaa anta wa laa rabba siwaaka wahfazh-hu, wa shallal laahu 'alaa sayyidinaa Muhammadin wa 'alaa aalihi wa shahbihi.
 
-«Mukhammasun lijamii'il amraadhi yahyi wa yusyfaa».
+Mukhammasun lijamii'il amraadh yumhaa wa yusyfaa.
+
+[Wafaq mukhammas 5x5: yunzharul jadwalul ashliyyu fii shuuratish shafhati 58]
 
 3. Terjemahan:
 
-“… dan dengan hak orang pilihan-Mu Nuh serta bahteranya, dan para nabi serta rasul yang berketurunan di antara keduanya. Sembuhkanlah aku dengan kesembuhan-Mu, obatilah aku dengan obat-Mu, dan sehatkanlah aku dengan kesehatan serta pemberian kesehatan-Mu, karena tidak ada tuhan selain Engkau dan tidak ada Tuhan selain Engkau; dan jagalah dia.” Semoga Allah melimpahkan salawat kepada junjungan kami Muhammad, keluarganya, dan para sahabatnya. Objek “dia” pada kata terakhir doa tidak disebutkan secara tegas.
+Dan dengan hak orang pilihan-Mu Nuh dan bahteranya dan apa yang berketurunan di antara keduanya dari para Nabi dan Rasul, sembuhkanlah aku dengan kesembuhan-Mu dan obatilah aku dengan obat-Mu dan sehatkanlah aku dengan kesehatan-Mu dan dengan pemberian kesehatan-Mu, karena sesungguhnya tidak ada tuhan selain Engkau dan tidak ada Tuhan selain-Mu dan jagalah dia, dan semoga Allah bershalawat kepada junjungan kami Muhammad dan kepada keluarga dan sahabatnya.
 
-Judul dalam Arab final berbunyi: “Mukhammas untuk segala penyakit; [tulisannya] dihapus/dilarutkan dan [orangnya] disembuhkan.” Paragraf Arab berikutnya adalah deskriptor: “Wafaq mukhammas 5×5; tabel aslinya dilihat pada gambar halaman 58.” Isi yang terbaca, baris demi baris dari kanan ke kiri, adalah: ١١ | ١٥ | ٨٤٢٨ | ٣ | ٧ // ٤ | ٨ | ١٢ | ١٦ | ٨٤٢٤ // ١٧ | ٨٤٢٥ | التوكيل | ٩ | ١٣ // ٥ | ١٠٤ (tidak pasti) | ١٨ | ٨٤٢٦ | ١٠١ // ٨٤٢٧ | ٦ | ١٠ | ٢٠ | ١٩. Judul dan susunan ini dipertahankan sebagai deskripsi wafaq penulis, bukan sebagai anjuran atau bukti kesembuhan.
+Mukhammas (wafaq 5x5) untuk semua penyakit, dihapus (dilarutkan) dan disembuhkan.
+
+[Wafaq mukhammas 5x5: lihat tabel asli di gambar Halaman 58]
 
 ![Wafaq halaman 58](wafaq_qorin/58.jpg)
 
@@ -2278,13 +2282,49 @@ Judul dalam Arab final berbunyi: “Mukhammas untuk segala penyakit; [tulisannya
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: بِحَقِّ صَفِيِّكَ نُوحٍ وَسَفِينَتِهِ - مُخَمَّسٌ لِجَمِيعِ الْأَمْرَاضِ - التَّوْكِيل
+Media:
 
-Langkah 1: اشْفِنِي بِشِفَائِكَ وَدَاوِنِي بِدَوَائِكَ وَعَافِنِي بِعَافِيَتِكَ - Baca penutup doa dengan qasam Nuh dan bahteranya
+- Penutup doa dengan qasam
 
-Langkah 2: مُخَمَّسٌ لِجَمِيعِ الْأَمْرَاضِ يُمْحَى وَيُشْفَى - Sertakan wafaq mukhammas 5×5 berisi angka dan kata «التوكيل»
+- وَفْقٌ مُخَمَّسٌ ٥×٥ (Wafaq kotak 5x5) - gambar tabel asli ada di foto Hal 58
 
-Tujuan: لِجَمِيعِ الْأَمْرَاضِ - untuk segala penyakit
+- يُمْحَى وَيُشْفَى (dihapus/dilarutkan dengan air lalu diminum/dipakai)
+
+Langkah ke-1 - Penutup Doa:
+
+وَبِحَقِّ صَفِيِّكَ نُوحٍ وَسَفِينَتِهِ...
+
+Baca/tulis doa penutup dengan hak Nuh dan bahteranya sampai وَاحْفَظْهُ lalu shalawat.
+
+Langkah ke-2 - Tulis Wafaq Mukhammas:
+
+Tulis Wafaq Mukhammas 5x5 seperti di gambar asli Hal 58. Di naskah tertulis judulnya:
+
+«مُخَمَّسٌ لِجَمِيعِ الْأَمْرَاضِ»
+
+Isi tabel yang terbaca di foto (baris per baris, kanan ke kiri):
+
+Baris 1: ١١ | ١٥ | ٨٤٢٨ | ٣ | ٧
+
+Baris 2: ٤ | ٨ | ١٢ | ١٦ | ٨٤٢٤
+
+Baris 3: ١٧ | ٨٤٢٥ | التوكيل | ٩ | ١٣
+
+Baris 4: ٥ | ١٠٤ | ١٨ | ٨٤٢٦ | ١٠١
+
+Baris 5: ٨٤٢٧ | ٦ | ١٠ | ٢٠ | ١٩
+
+*Angka harus presisi 1000x1000 dari foto asli, jangan karang.
+
+Langkah ke-3 - Cara pakai tertulis:
+
+يُمْحَى وَيُشْفَى
+
+Dihapus/dilarutkan dengan air (yumha) lalu diminumkan atau dipakai untuk orang sakit, maka disembuhkan menurut klaim naskah.
+
+Tujuan tertulis:
+
+لِجَمِيعِ الْأَمْرَاضِ - untuk semua penyakit menurut judul yang tertulis di naskah.
 
 ## Halaman 59 — qarin dan kritik terhadap pengakuan palsu
 

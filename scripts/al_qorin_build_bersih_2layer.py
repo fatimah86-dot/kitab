@@ -7,7 +7,8 @@ never overwrites that input or either canonical clean file.  It writes a
 new ``_2_LAYER`` Markdown edition in which each unit is reorganized as:
 
 * LAYER 1 — KETERANGAN HALAMAN: the existing Arab, Latin, and Terjemahan
-  bodies copied without textual changes;
+  bodies copied without textual changes, apart from the later
+  user-supplied Pola 58 Latin/Terjemahan replacement recorded below;
 * an optional one-line italic footnote, extracted only when the old clean
   Syarah explicitly marks an Arabic word/phrase as an unclear print or
   unsettled reading;
@@ -106,17 +107,9 @@ STEP_OVERRIDES: dict[int, tuple[str, ...]] = {
     ),
 }
 
-# User-supplied FINAL pattern pages 58, 64, and 65 use the same form: short
+# User-supplied FINAL pattern pages 64 and 65 use the same form: short
 # Arabic quotation first, then the Indonesian action stated by the page.
 PRACTICE_OVERRIDES: dict[int, tuple[str, tuple[str, ...], str]] = {
-    58: (
-        "بِحَقِّ صَفِيِّكَ نُوحٍ وَسَفِينَتِهِ - مُخَمَّسٌ لِجَمِيعِ الْأَمْرَاضِ - التَّوْكِيل",
-        (
-            "اشْفِنِي بِشِفَائِكَ وَدَاوِنِي بِدَوَائِكَ وَعَافِنِي بِعَافِيَتِكَ - Baca penutup doa dengan qasam Nuh dan bahteranya",
-            "مُخَمَّسٌ لِجَمِيعِ الْأَمْرَاضِ يُمْحَى وَيُشْفَى - Sertakan wafaq mukhammas 5×5 berisi angka dan kata «التوكيل»",
-        ),
-        "لِجَمِيعِ الْأَمْرَاضِ - untuk segala penyakit",
-    ),
     64: (
         "قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ - اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ - خَاتَمُ سُلَيْمَانَ - مِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ",
         (
@@ -211,6 +204,66 @@ Tanduk 7 = ص ض (di naskah tertulis 8 huruf untuk 7 tanduk, kemungkinan `ص ض`
 *CATATAN PENERJEMAH:*
 
 Ini adalah kutipan isi naskah Hal 49 apa adanya. `التَّوَابِعِ` dan `السَّبَاسِبِ` dibiarkan tanpa diganti karena bacaan tidak pasti. Tulisan `تَزَلْزَلَ نُزُلًا` di naskah tidak dilancarkan. Rajah Khatam Sulaiman 7 tanduk memang ada di akhir halaman. Tidak dianjurkan dan tidak disahkan sebagai amalan medis, hanya dokumentasi isi kitab. Untuk kasus kerasukan/sakit, rujuk ke tenaga medis dan ulama."""
+
+# The user-supplied complete Pola 58 keeps the locked Arabic body from the
+# source and replaces only that unit's Latin and Terjemahan in this
+# two-layer edition.  Its Layer 2 is likewise kept as one supplied block,
+# including the five-row reading of the 5x5 wafaq.
+POLA_58_LATIN = """Wa bihaqqi shafiyyika Nuuhin wa safiinatihi wa maa tanaasala bainahumaa minal anbiyaa-i wal mursaliina, isyfinii bisyifaa-ika wa daawinii bidawaa-ika wa 'aafinii bi'aafiyatika wa bimu'aafaatika fa-innaka laa ilaaha illaa anta wa laa rabba siwaaka wahfazh-hu, wa shallal laahu 'alaa sayyidinaa Muhammadin wa 'alaa aalihi wa shahbihi.
+
+Mukhammasun lijamii'il amraadh yumhaa wa yusyfaa.
+
+[Wafaq mukhammas 5x5: yunzharul jadwalul ashliyyu fii shuuratish shafhati 58]"""
+
+POLA_58_TERJEMAHAN = """Dan dengan hak orang pilihan-Mu Nuh dan bahteranya dan apa yang berketurunan di antara keduanya dari para Nabi dan Rasul, sembuhkanlah aku dengan kesembuhan-Mu dan obatilah aku dengan obat-Mu dan sehatkanlah aku dengan kesehatan-Mu dan dengan pemberian kesehatan-Mu, karena sesungguhnya tidak ada tuhan selain Engkau dan tidak ada Tuhan selain-Mu dan jagalah dia, dan semoga Allah bershalawat kepada junjungan kami Muhammad dan kepada keluarga dan sahabatnya.
+
+Mukhammas (wafaq 5x5) untuk semua penyakit, dihapus (dilarutkan) dan disembuhkan.
+
+[Wafaq mukhammas 5x5: lihat tabel asli di gambar Halaman 58]"""
+
+POLA_58_TATACARA_LENGKAP = """Media:
+
+- Penutup doa dengan qasam
+
+- وَفْقٌ مُخَمَّسٌ ٥×٥ (Wafaq kotak 5x5) - gambar tabel asli ada di foto Hal 58
+
+- يُمْحَى وَيُشْفَى (dihapus/dilarutkan dengan air lalu diminum/dipakai)
+
+Langkah ke-1 - Penutup Doa:
+
+وَبِحَقِّ صَفِيِّكَ نُوحٍ وَسَفِينَتِهِ...
+
+Baca/tulis doa penutup dengan hak Nuh dan bahteranya sampai وَاحْفَظْهُ lalu shalawat.
+
+Langkah ke-2 - Tulis Wafaq Mukhammas:
+
+Tulis Wafaq Mukhammas 5x5 seperti di gambar asli Hal 58. Di naskah tertulis judulnya:
+
+«مُخَمَّسٌ لِجَمِيعِ الْأَمْرَاضِ»
+
+Isi tabel yang terbaca di foto (baris per baris, kanan ke kiri):
+
+Baris 1: ١١ | ١٥ | ٨٤٢٨ | ٣ | ٧
+
+Baris 2: ٤ | ٨ | ١٢ | ١٦ | ٨٤٢٤
+
+Baris 3: ١٧ | ٨٤٢٥ | التوكيل | ٩ | ١٣
+
+Baris 4: ٥ | ١٠٤ | ١٨ | ٨٤٢٦ | ١٠١
+
+Baris 5: ٨٤٢٧ | ٦ | ١٠ | ٢٠ | ١٩
+
+*Angka harus presisi 1000x1000 dari foto asli, jangan karang.
+
+Langkah ke-3 - Cara pakai tertulis:
+
+يُمْحَى وَيُشْفَى
+
+Dihapus/dilarutkan dengan air (yumha) lalu diminumkan atau dipakai untuk orang sakit, maka disembuhkan menurut klaim naskah.
+
+Tujuan tertulis:
+
+لِجَمِيعِ الْأَمْرَاضِ - untuk semua penyakit menurut judul yang tertulis di naskah."""
 
 # Tujuan is never inferred from a general theme.  Each entry below is the
 # purpose/topic explicitly carried by the prose of the old practice section
@@ -625,6 +678,13 @@ def convert_practice(page: int, body: str) -> Practice | None:
             purpose="",
             raw_block=POLA_49_TATACARA_LENGKAP,
         )
+    if page == 58:
+        return Practice(
+            media="",
+            steps=("Langkah ke-1", "Langkah ke-2", "Langkah ke-3"),
+            purpose="",
+            raw_block=POLA_58_TATACARA_LENGKAP,
+        )
     if page in PRACTICE_OVERRIDES:
         media, steps, purpose = PRACTICE_OVERRIDES[page]
         return Practice(media=media, steps=steps, purpose=purpose)
@@ -697,6 +757,9 @@ def build_markdown(source_text: str, stats: Stats) -> str:
         arab = unit.sections["1. Arab"]
         latin = unit.sections["2. Latin"]
         terjemahan = unit.sections["3. Terjemahan"]
+        if unit.page == 58:
+            latin = POLA_58_LATIN
+            terjemahan = POLA_58_TERJEMAHAN
         syarah_without_images, syarah_images = extract_syarah_images(unit.sections["4. Syarah"])
         stats.moved_syarah_images += len(syarah_images)
         footnote = extract_footnote(syarah_without_images)
@@ -791,6 +854,12 @@ def validate_output(source_text: str, output: str, stats: Stats) -> None:
     for unit in source_units:
         if bodies[(unit.page, "1. Arab")] != unit.sections["1. Arab"]:
             raise AssertionError(f"Arab body changed on page {unit.page}")
+        if unit.page == 58:
+            if bodies[(unit.page, "2. Latin")] != POLA_58_LATIN:
+                raise AssertionError("Pola 58 Latin body is not exact")
+            if not bodies[(unit.page, "3. Terjemahan")].startswith(POLA_58_TERJEMAHAN):
+                raise AssertionError("Pola 58 Terjemahan body is not exact")
+            continue
         if bodies[(unit.page, "2. Latin")] != unit.sections["2. Latin"]:
             raise AssertionError(f"Latin body changed on page {unit.page}")
         translation_out = bodies[(unit.page, "3. Terjemahan")]
@@ -814,6 +883,25 @@ def validate_output(source_text: str, output: str, stats: Stats) -> None:
             pola_steps = [int(n) for n in re.findall(r"Langkah ke-(\d+)", block)]
             if pola_steps != [1, 2, 3]:
                 raise AssertionError("complete Pola 49 steps are not sequential")
+            continue
+        if "Langkah ke-2 - Tulis Wafaq Mukhammas:" in block:
+            required = (
+                "Media:",
+                "Langkah ke-1 - Penutup Doa:",
+                "Langkah ke-2 - Tulis Wafaq Mukhammas:",
+                "Baris 1: ١١ | ١٥ | ٨٤٢٨ | ٣ | ٧",
+                "Baris 2: ٤ | ٨ | ١٢ | ١٦ | ٨٤٢٤",
+                "Baris 3: ١٧ | ٨٤٢٥ | التوكيل | ٩ | ١٣",
+                "Baris 4: ٥ | ١٠٤ | ١٨ | ٨٤٢٦ | ١٠١",
+                "Baris 5: ٨٤٢٧ | ٦ | ١٠ | ٢٠ | ١٩",
+                "Langkah ke-3 - Cara pakai tertulis:",
+                "Tujuan tertulis:",
+            )
+            if any(text not in block for text in required):
+                raise AssertionError("complete Pola 58 Layer 2 block is incomplete")
+            pola_steps = [int(n) for n in re.findall(r"Langkah ke-(\d+)", block)]
+            if pola_steps != [1, 2, 3]:
+                raise AssertionError("complete Pola 58 steps are not sequential")
             continue
         labels = [block.find(label) for label in ("Media:", "Langkah 1:", "Tujuan:")]
         if min(labels) < 0 or labels != sorted(labels):
