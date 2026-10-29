@@ -33,19 +33,23 @@ Setiap unit memakai struktur:
 
 ```text
 ## Halaman N — …
-### LAYER 1 - KETERANGAN HALAMAN
-#### 1. Arab
-#### 2. Latin
-#### 3. Terjemahan
-#### [crop bila crop lama berada pada Syarah]
-#### [footnote satu baris bila ada]
-### LAYER 2 - TATACARA PRAKTIK   (kondisional)
-**Media:** …
-**Langkah:**
-1. …
-2. …
-**Tujuan:** …
+### LAYER 1 - KETERANGAN HALAMAN:
+1. Arab:
+2. Latin:
+3. Terjemahan:
+[crop bila crop lama berada pada Syarah]
+*[Footnote: …]*                  (bila ada)
+### LAYER 2 - TATACARA PRAKTIK:   (kondisional)
+Media: …
+Langkah 1: …
+Langkah 2: …
+Tujuan: …
 ```
+
+Pola label ini mengikuti contoh **HAL 49 FINAL 2 LAYER** dari
+pengguna. Layer 1 tetap memuat seluruh badan Arab, Latin, dan
+Terjemahan halaman; contoh tindakan di dalamnya tidak memotong
+keterangan halaman menjadi hanya kutipan praktik.
 
 ### Layer 1
 
@@ -97,7 +101,7 @@ builder DOCX yang dipakai tidak membuat catatan kaki Word bawaan.
 ### Layer 2
 
 Sumber bersih Halaman mempunyai 76 bagian praktik lama. Keluaran
-mempertahankan **73 Layer 2** dengan total **263 langkah bernomor**.
+mempertahankan **73 Layer 2** dengan total **264 label `Langkah N:`**.
 Tiga bagian lama tidak dijadikan Layer 2 karena prosanya sendiri
 menyatakan tidak ada tatacara/praktik baru pada halaman itu:
 
@@ -107,22 +111,27 @@ menyatakan tidak ada tatacara/praktik baru pada halaman itu:
 
 Aturan konversinya:
 
-- `**Media:**` memakai field Media lama. Field Bukhur dilipat ke
-  Media sebagai `Bukhur: …`. Tujuh unit tanpa field Media diberi isi
-  hanya dari medium/rujukan yang sudah dinyatakan pada bagiannya:
-  Halaman 4, 7, 38, 61, 62, 107, dan 122.
-- `**Langkah:**` menyusun prosa praktik lama menjadi langkah bernomor
-  berdasarkan urutan kalimat/klausa. Kalimat dokumenter seperti
-  atribusi, “bukan anjuran”, “tidak ada jaminan”, “tidak
-  diverifikasi”, dan penilaian sumber akidah tidak dibawa ke langkah.
+- `Media:` memakai field Media lama. Field Bukhur dilipat ke Media
+  sebagai `Bukhur: …`. Tujuh unit tanpa field Media diberi isi hanya
+  dari medium/rujukan yang sudah dinyatakan pada bagiannya: Halaman
+  4, 7, 38, 61, 62, 107, dan 122.
+- `Langkah N:` menyusun prosa praktik lama berdasarkan urutan
+  kalimat/klausa. Kalimat dokumenter seperti atribusi, “bukan
+  anjuran”, “tidak ada jaminan”, “tidak diverifikasi”, dan penilaian
+  sumber akidah tidak dibawa ke langkah.
 - Field Waktu tidak dibuat sebagai heading keempat. Bila isinya belum
-  tercakup secara substansial oleh prosa langkah, ia dimasukkan
-  sebagai langkah pertama berlabel “Waktu yang dinyatakan: …”.
-- `**Tujuan:**` memakai pemetaan eksplisit per halaman di builder,
+  tercakup secara substansial oleh prosa langkah, ia dimasukkan pada
+  `Langkah 1:` dengan awalan “Waktu yang dinyatakan: …”.
+- `Tujuan:` memakai pemetaan eksplisit per halaman di builder,
   berdasarkan tujuan/topik yang dinyatakan prosa praktik lama atau
   judul bab yang dikutip di dalamnya. Halaman 7, 41, dan 105 ditulis
   “Tidak dinyatakan secara tersendiri pada halaman ini” karena bagian
   praktik lamanya tidak menyatakan tujuan tersendiri.
+- Halaman 49 memakai redaksi Layer 2 dari contoh FINAL pengguna
+  secara verbatim. Halaman 58, 64, dan 65 memakai override dengan
+  pola yang sama: Media berupa frasa Arab pendek, setiap langkah
+  diawali kutipan Arab pendek lalu tindakan Indonesia, dan Tujuan
+  diawali frasa Arab tujuan dari halaman itu.
 - Halaman 98 dan 105 hanya mempunyai field Waktu/Media (Halaman 105
   prosanya hanya kalimat dokumenter), sehingga langkahnya dibentuk
   langsung dari kedua field tersebut tanpa menambah bahan atau hasil.
@@ -137,12 +146,13 @@ Aturan konversinya:
 
 | Berkas | Ukuran | SHA-256 |
 |---|---:|---|
-| `AL_QORIN_123_BERSIH_2_LAYER.md` | 606.158 byte | `97a62d12fc0e116cd7cd6a424fd9c6f21a116c09b0ddb490c6b594c6183aa244` |
-| `AL_QORIN_123_BERSIH_2_LAYER.docx` | 6.893.816 byte | `03d6c7ae72dc824bc284daa6a614093f9f8c961c9fa0397d1d0a8ba0046de3b3` |
+| `AL_QORIN_123_BERSIH_2_LAYER.md` | 606.531 byte | `3aec2501e13bb9842c28037db208994420708005a44f64893e9474fe87f12c15` |
+| `AL_QORIN_123_BERSIH_2_LAYER.docx` | 6.893.928 byte | `1a546274dcd1715709b759a113d43714a91978572cb8184f575f409b03730109` |
 
 Builder Markdown menolak menulis selain nama berakhiran
 `_2_LAYER.md` dan menolak jalur master kanonis/turunan yang dilindungi.
-Parser DOCX hanya ditambah cabang konteks untuk heading `LAYER …`;
+Parser DOCX hanya ditambah cabang konteks untuk heading `LAYER …`
+dan label polos `1. Arab:`, `2. Latin:`, serta `3. Terjemahan:`;
 perilaku heading lama dipertahankan.
 
 ## QA
@@ -151,25 +161,30 @@ Pemeriksaan builder dan pemeriksaan independen membuktikan:
 
 - 123 unit dengan heading yang sama persis: SAMPUL diikuti Halaman
   1–122;
-- 123 heading Layer 1 dan masing-masing 123 subheading Arab, Latin,
-  dan Terjemahan;
+- 123 heading Layer 1 dan masing-masing 123 label `1. Arab:`,
+  `2. Latin:`, dan `3. Terjemahan:`; tidak ada heading `####` atau
+  label Media/Langkah/Tujuan berbold yang tersisa;
 - badan Arab dan Latin setiap unit sama byte-for-byte dengan sumber
   setelah pemangkasan baris kosong tepi; badan Terjemahan merupakan
   awalan persis dari badan keluaran sebelum crop/footnote tambahan;
-- 73 heading Layer 2; setiap blok mempunyai Media, Langkah, dan Tujuan
-  dalam urutan itu, dengan nomor langkah berurutan mulai dari 1;
+- 73 heading Layer 2; setiap blok mempunyai `Media:`, `Langkah 1:`,
+  langkah lanjutan yang berurutan, dan `Tujuan:` dalam urutan itu;
+  redaksi Layer 2 Halaman 49 serta Tujuan Halaman 58, 64, dan 65
+  ditemukan persis satu kali dalam Markdown dan DOCX;
 - 58 footnote dan semuanya satu baris;
 - daftar 26 rujukan crop sama persis dengan sumber; 9 crop Syarah
   berpindah ke Layer 1 dan tidak ada crop yang hilang atau diganti;
 - parser DOCX memberi konteks Arab pada paragraf pertama di bawah
-  semua subheading `1. Arab`, konteks Latin pada semua `2. Latin`, dan
-  konteks Terjemahan pada semua `3. Terjemahan`;
+  semua label `1. Arab:`, konteks Latin pada semua `2. Latin:`, dan
+  konteks Terjemahan pada semua `3. Terjemahan:`;
 - DOCX memuat 123 Heading 1, 196 Heading 2 (123 Layer 1 + 73 Layer 2),
-  369 Heading 3, 26 gambar inline/media, dan 4 bagian font tertanam;
+  369 Heading 3 untuk label Layer 1, 73 paragraf Media, 264 paragraf
+  Langkah, 73 paragraf Tujuan, 26 gambar inline/media, dan 4 bagian
+  font tertanam;
 - hash media DOCX sama dengan himpunan hash 26 berkas crop sumber;
 - XML DOCX memuat penanda arah `w:bidi` dan `w:rtl`; parser konteks
   menghasilkan 549 paragraf Arab, 315 paragraf Latin, 379 paragraf
-  Terjemahan, dan 292 paragraf Layer 2;
+  Terjemahan, dan 410 paragraf Layer 2;
 - pembangunan Markdown diulang dan menghasilkan SHA-256 yang sama;
 - discovery test repo: 40 test terdaftar, 33 lulus, dan 7 dilewati
   karena work JSON ter-ignore tidak hadir;

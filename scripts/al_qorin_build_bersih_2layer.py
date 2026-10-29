@@ -91,8 +91,11 @@ MEDIA_OVERRIDES: dict[int, str] = {
     122: "Salat dua rakaat, selawat, dan bacaan al-Fatihah.",
 }
 
-# Two field-only sections need their stated time/media expressed as steps.
+# A few sections need their stated time/media expressed directly as steps.
+# Page 7 also needs an override so clauses inside an old caveat sentence do
+# not become invented instructions.
 STEP_OVERRIDES: dict[int, tuple[str, ...]] = {
+    7: ("Menjalani khalwat/riyadhah empat puluh hari dan kelipatannya.",),
     98: (
         "Berpuasa tujuh hari mulai hari Ahad, saat tidak ada angin, awan, atau hujan dan bulan sedang bertambah.",
         "Mengikuti azimah dengan bilangan dan huruf pada tujuh hari pertama, dengan rajah di kepala halaman.",
@@ -100,6 +103,47 @@ STEP_OVERRIDES: dict[int, tuple[str, ...]] = {
     105: (
         "Berpuasa tiga hari pada rangkaian Ahad–Senin–Selasa atau Selasa–Rabu–Kamis, sebagaimana kedua rangkaian pada cetakan dipertahankan.",
         "Membaca sepuluh nama menurut bilangan jummal masing-masing (1072, 535, 1403, 1598, 517, 646, 1813, 1314, 908, dan 1598) hingga pagi.",
+    ),
+}
+
+# User-supplied FINAL pattern pages.  Halaman 49 reproduces the wording of
+# that supplied Layer 2; Halaman 58, 64, and 65 use the same form: short
+# Arabic quotation first, then the Indonesian action stated by the page.
+PRACTICE_OVERRIDES: dict[int, tuple[str, tuple[str, ...], str]] = {
+    49: (
+        "بَيْنَ عَيْنَيْهِ - فِي يَدِهِ الْيُمْنَى - خَاتَمُ سُلَيْمَانَ ٧ قرون",
+        (
+            "اكتب بين عينيه (افمن كان مؤمنا كمن كان فاسقا) الى (نزلا) - Tulis di dahi antara dua mata",
+            "وفي يده اليمنى خاتم سليمان - Tulis di tangan kanan Rajah Khatam Sulaiman",
+            "في باطن كل قرن حرف من حروف ف ج ش ث خ ذ ص ض - Di tiap tanduk tulis 1 huruf",
+        ),
+        "علاج الصرع النوع الاول dari 43 jenis",
+    ),
+    58: (
+        "بِحَقِّ صَفِيِّكَ نُوحٍ وَسَفِينَتِهِ - مُخَمَّسٌ لِجَمِيعِ الْأَمْرَاضِ - التَّوْكِيل",
+        (
+            "اشْفِنِي بِشِفَائِكَ وَدَاوِنِي بِدَوَائِكَ وَعَافِنِي بِعَافِيَتِكَ - Baca penutup doa dengan qasam Nuh dan bahteranya",
+            "مُخَمَّسٌ لِجَمِيعِ الْأَمْرَاضِ يُمْحَى وَيُشْفَى - Sertakan wafaq mukhammas 5×5 berisi angka dan kata «التوكيل»",
+        ),
+        "لِجَمِيعِ الْأَمْرَاضِ - untuk segala penyakit",
+    ),
+    64: (
+        "قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ - اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ - خَاتَمُ سُلَيْمَانَ - مِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ",
+        (
+            "قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ إِنَّ اللَّهَ سَيُبْطِلُهُ - Baca kutipan Quran tentang sihir Musa dan ayat-ayat sesudahnya",
+            "اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ عَنْ فُلَانٍ كُلَّ سِحْرٍ - Baca doa agar sihir dan segala yang menyakiti Fulan dihilangkan",
+            "يُكْتَبُ وَيُحْمَلُ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ - Tulis dan bawa rangkaian itu dengan misk, za‘faran, dan air mawar, disertai lambang Khatam Sulaiman",
+        ),
+        "تَبْطِيلُ السِّحْرِ - pembatalan sihir",
+    ),
+    65: (
+        "إِنَاءٍ صِينِيٍّ - بِزَعْفَرَانٍ وَمَاءِ وَرْدٍ - بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ - خَاتَمُ سُلَيْمَانَ",
+        (
+            "يُكْتَبُ فِي إِنَاءٍ صِينِيٍّ بِزَعْفَرَانٍ وَمَاءِ وَرْدٍ - Tulis ayat-ayat dalam wadah porselen dengan za‘faran dan air mawar",
+            "وَيُمْحَى بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ - Hapus/larutkan tulisan dengan air sumur yang tidak melihat dua benda bercahaya",
+            "الم الم المص المر - Sertakan rangkaian huruf pembuka surah dan doa, lalu akhiri dengan lambang Khatam Sulaiman",
+        ),
+        "لِلتَّدَاوِي مِنَ الْمَرَضِ - untuk berobat dari penyakit",
     ),
 }
 
@@ -508,6 +552,9 @@ def token_overlap(a: str, b: str) -> float:
 def convert_practice(page: int, body: str) -> Practice | None:
     if NO_NEW_PRACTICE_RE.search(body):
         return None
+    if page in PRACTICE_OVERRIDES:
+        media, steps, purpose = PRACTICE_OVERRIDES[page]
+        return Practice(media=media, steps=steps, purpose=purpose)
 
     fields: dict[str, str] = {}
     prose: list[str] = []
@@ -585,17 +632,17 @@ def build_markdown(source_text: str, stats: Stats) -> str:
 
         out.append(f"## {unit.heading}")
         out.append("")
-        out.append("### LAYER 1 - KETERANGAN HALAMAN")
+        out.append("### LAYER 1 - KETERANGAN HALAMAN:")
         out.append("")
-        out.append("#### 1. Arab")
+        out.append("1. Arab:")
         out.append("")
         out.append(arab)
         out.append("")
-        out.append("#### 2. Latin")
+        out.append("2. Latin:")
         out.append("")
         out.append(latin)
         out.append("")
-        out.append("#### 3. Terjemahan")
+        out.append("3. Terjemahan:")
         out.append("")
         out.append(terjemahan)
         for image in syarah_images:
@@ -615,16 +662,14 @@ def build_markdown(source_text: str, stats: Stats) -> str:
                 stats.layer2_units += 1
                 stats.practice_steps += len(practice.steps)
                 out.append("")
-                out.append("### LAYER 2 - TATACARA PRAKTIK")
+                out.append("### LAYER 2 - TATACARA PRAKTIK:")
                 out.append("")
-                out.append(f"**Media:** {practice.media}")
-                out.append("")
-                out.append("**Langkah:**")
+                out.append(f"Media: {practice.media}")
                 out.append("")
                 for idx, step in enumerate(practice.steps, 1):
-                    out.append(f"{idx}. {step}")
-                out.append("")
-                out.append(f"**Tujuan:** {practice.purpose}")
+                    out.append(f"Langkah {idx}: {step}")
+                    out.append("")
+                out.append(f"Tujuan: {practice.purpose}")
         out.append("")
 
     output = "\n".join(out).rstrip() + "\n"
@@ -640,9 +685,9 @@ def output_layer1_bodies(output: str) -> dict[tuple[int, str], str]:
         page = 0 if heading == "SAMPUL" else int(re.match(r"Halaman\s+(\d+)", heading).group(1))  # type: ignore[union-attr]
         end = unit_matches[idx + 1].start() if idx + 1 < len(unit_matches) else len(output)
         block = output[match.end() : end]
-        h4 = list(re.finditer(r"^####\s+(.+)$", block, flags=re.M))
-        for j, hm in enumerate(h4):
-            body_end = h4[j + 1].start() if j + 1 < len(h4) else len(block)
+        labels = list(re.finditer(r"^([123]\. (?:Arab|Latin|Terjemahan)):$", block, flags=re.M))
+        for j, hm in enumerate(labels):
+            body_end = labels[j + 1].start() if j + 1 < len(labels) else len(block)
             if hm.group(1).strip() == "3. Terjemahan":
                 layer2 = block.find("\n### LAYER 2", hm.end())
                 if layer2 != -1:
@@ -657,13 +702,13 @@ def validate_output(source_text: str, output: str, stats: Stats) -> None:
         raise AssertionError("image/crop reference list changed")
     if "### 4. Syarah" in output or "Khususiyah dan Tatacara Praktik" in output:
         raise AssertionError("old Syarah/Khususiyah heading remains")
-    if len(re.findall(r"^### LAYER 1 - KETERANGAN HALAMAN$", output, flags=re.M)) != 123:
+    if len(re.findall(r"^### LAYER 1 - KETERANGAN HALAMAN:$", output, flags=re.M)) != 123:
         raise AssertionError("Layer 1 heading count is not 123")
-    if len(re.findall(r"^### LAYER 2 - TATACARA PRAKTIK$", output, flags=re.M)) != stats.layer2_units:
+    if len(re.findall(r"^### LAYER 2 - TATACARA PRAKTIK:$", output, flags=re.M)) != stats.layer2_units:
         raise AssertionError("Layer 2 heading count does not match stats")
     for name in ("1. Arab", "2. Latin", "3. Terjemahan"):
-        if len(re.findall(rf"^#### {re.escape(name)}$", output, flags=re.M)) != 123:
-            raise AssertionError(f"subheading count is not 123: {name}")
+        if len(re.findall(rf"^{re.escape(name)}:$", output, flags=re.M)) != 123:
+            raise AssertionError(f"Layer 1 label count is not 123: {name}")
 
     _, source_units = split_units(source_text)
     bodies = output_layer1_bodies(output)
@@ -676,12 +721,14 @@ def validate_output(source_text: str, output: str, stats: Stats) -> None:
         if not translation_out.startswith(unit.sections["3. Terjemahan"]):
             raise AssertionError(f"Terjemahan body changed on page {unit.page}")
 
-    for block in re.split(r"^### LAYER 2 - TATACARA PRAKTIK$", output, flags=re.M)[1:]:
+    for block in re.split(r"^### LAYER 2 - TATACARA PRAKTIK:$", output, flags=re.M)[1:]:
         block = block.split("\n## ", 1)[0]
-        if "**Media:**" not in block or "**Langkah:**" not in block or "**Tujuan:**" not in block:
-            raise AssertionError("a Layer 2 block lacks Media/Langkah/Tujuan")
-        if not re.search(r"^1\.\s+\S", block, flags=re.M):
-            raise AssertionError("a Layer 2 block lacks numbered steps")
+        labels = [block.find(label) for label in ("Media:", "Langkah 1:", "Tujuan:")]
+        if min(labels) < 0 or labels != sorted(labels):
+            raise AssertionError("a Layer 2 block lacks ordered Media/Langkah/Tujuan")
+        step_numbers = [int(n) for n in re.findall(r"^Langkah\s+(\d+):", block, flags=re.M)]
+        if not step_numbers or step_numbers != list(range(1, len(step_numbers) + 1)):
+            raise AssertionError("a Layer 2 block lacks sequential Langkah labels")
         if META_RE.search(block):
             found = META_RE.search(block).group(0)  # type: ignore[union-attr]
             raise AssertionError(f"documentary meta wording remains in Layer 2: {found!r}")

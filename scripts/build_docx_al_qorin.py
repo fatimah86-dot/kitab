@@ -150,8 +150,12 @@ def parse_md(path: Path, only_units=None):
             s = raw.rstrip()
             st = s.strip()
             m3 = re.match(r"^###\s+(.+)$", st); m4 = re.match(r"^####\s+(.+)$", st)
+            m_label = re.match(r"^(1\. Arab|2\. Latin|3\. Terjemahan):$", st) if two_layer else None
             mi = IMG_RE.match(st)
-            if m4:
+            if m_label:
+                flush(); events.append(("h3", st))
+                ctx = {"1. Arab:": "Arab", "2. Latin:": "latin", "3. Terjemahan:": "terjemahan"}[st]
+            elif m4:
                 flush(); h = m4.group(1).strip(); events.append(("h3", h))
                 if two_layer and h == "1. Arab":
                     ctx = "Arab"
