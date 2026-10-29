@@ -138,6 +138,27 @@ TRANSLATION_TOTAL_LATER = {
         "M102": 2,
         "M103": 2,
     },
+    8: {
+        "M104": 2,
+        "M105": 2,
+        "M106": 2,
+        "M107": 2,
+        "M108": 2,
+        "M109": 3,
+        "M110": 2,
+        "M111": 4,
+        "M112": 2,
+        "M113": 2,
+        "M114": 2,
+        "M115": 2,
+        "M116": 2,
+        "M117": 2,
+        "M118": 2,
+        "M119": 2,
+        "M120": 2,
+        "M121": 2,
+        "M122": 1,
+    },
 }
 LAYERS = [
     "1. Arab",
@@ -911,12 +932,19 @@ class MarkdownStructureTests(unittest.TestCase):
 
             # Deliberate post-pilot exceptions: the historical pilot remains
             # unchanged, while integrated M122 may differ inside its Metode
-            # subsection and in Lapis 1, which the pages 63-122 submission
-            # later replaced. The old Metode summary contradicted M122's own
-            # preserved Arab/Terjemahan.
+            # subsection, in Lapis 1 (later replaced by the pages 63-122
+            # submission), and in Lapis 3 (later rewritten by
+            # total-translation Batch 08). The old Metode summary
+            # contradicted M122's own preserved Arab and resulting text.
             self.assertEqual(
-                without_subsection(without_layer(integrated, LAYERS[0]), "1. Metode"),
-                without_subsection(without_layer(pilot, LAYERS[0]), "1. Metode"),
+                without_subsection(
+                    without_layer(without_layer(integrated, LAYERS[0]), LAYERS[2]),
+                    "1. Metode",
+                ),
+                without_subsection(
+                    without_layer(without_layer(pilot, LAYERS[0]), LAYERS[2]),
+                    "1. Metode",
+                ),
                 uid,
             )
             integrated_metode = subsection(integrated, "1. Metode")

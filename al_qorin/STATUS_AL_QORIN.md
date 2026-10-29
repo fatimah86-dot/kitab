@@ -528,22 +528,37 @@ hasil, dan bukan pengganti penanganan medis.
     `CATATAN_BATCH_TERJEMAHAN_TOTAL_07.md`. Validasi akhir: discovery 40
     test menghasilkan 33 lulus dan 7 test bergantung pada work JSON
     ter-ignore dilewati.
+36. **Revisi total terjemahan Batch 08 (M104–M122)** (2026-10-30):
+    sembilan belas unit penutup diterjemahkan ulang hanya pada Lapis 3
+    dari Arab final terkunci dan halaman cetak 104–122 pada PDF asli
+    (halaman PDF 53–62, SHA-256 `ac5ec9fc…c5c1`). Override
+    `overrides_terjemahan_total_batch08.json` memuat 40 paragraf dan
+    mempertahankan label catatan penerjemah pada M104–M121, angka
+    jummal tanpa hitung ulang, deskriptor da'irah/wafaq, daftar nama
+    tawasul, deret huruf/angka, dan crop 109, 116, 120, serta 121.
+    Scope-proof terhadap commit Batch 07 membuktikan tidak ada
+    perubahan di luar Lapis 3 sasaran; kedua DOCX dan kedua preview
+    dibangun ulang. Catatan: `CATATAN_BATCH_TERJEMAHAN_TOTAL_08.md`.
+    Dengan item ini rangkaian Batch 01–08 telah mengkhatamkan
+    revisi total Lapis 3 untuk SAMPUL dan M01–M122 (seluruh 123 unit).
+    Validasi akhir: discovery 40 test menghasilkan 33 lulus dan 7 test
+    bergantung pada work JSON ter-ignore dilewati.
 
 ## Yang belum selesai
 
-- Tidak ada lagi unit yang menunggu batch semantik Lapis 4/5: seluruh 123
-  unit telah masuk pilot atau salah satu batch semantik. Namun **revisi
-  total terjemahan belum khatam**: SAMPUL dan M01–M103 telah selesai melalui
-  Batch 01–07; 19 unit M104–M122 menunggu Batch 08 sesuai
-  `AUDIT_REVISI_TOTAL_TERJEMAHAN_123.md`. Batas kejujuran
-  tetap berlaku: pemeriksaan Penentuan Jam terhadap Arab serta pindai
-  halaman bersifat dokumenter dan tidak mengarang hitungan; selisih bacaan
-  M104 dan M107 sengaja belum dipakai untuk mengganti Lapis 1–3. Semua
-  batch semantik tidak menerjemahkan ulang Lapis 1–3, tidak menggambar
-  ulang rajah, dan tidak menulis ulang ringkasan Metode draf selain stub/
-  kontradiksi yang terbukti pada daftar izin masing-masing batch. Edisi
-  bersih item 15 adalah penyajian bersih dari bahan yang ada, bukan tanda
-  revisi total terjemahan/syarah gramatikal sudah selesai.
+- Tidak ada lagi unit yang menunggu batch semantik Lapis 4/5 atau batch
+  revisi total terjemahan: seluruh 123 unit telah masuk pilot atau salah
+  satu batch semantik, dan **revisi total terjemahan telah khatam** untuk
+  SAMPUL dan M01–M122 melalui Batch 01–08. Batas kejujuran tetap berlaku:
+  pemeriksaan Penentuan Jam terhadap Arab serta pindai halaman bersifat
+  dokumenter dan tidak mengarang hitungan; selisih bacaan M104 dan M107
+  didokumentasikan dan tidak dipakai untuk mengganti Arab final. Semua
+  batch semantik tidak menggambar ulang rajah dan tidak menulis ulang
+  ringkasan Metode draf selain stub/kontradiksi yang terbukti pada daftar
+  izin masing-masing batch. Khatamnya Lapis 3 bukan tanda bahwa Latin,
+  Metode, Penentuan Jam, Syarah/Catatan penyunting, atau Lapis 5 telah
+  direvisi total terhadap Arab final; edisi bersih tetap merupakan
+  penyajian bersih dari lapisan-lapisan bahan yang ada.
 - Seluruh Lapis 1 kini mengikuti arsip-arsip Arab yang ditunjuk pengguna
   pada item 16 dan 18–28 serta revisi Fusha agen pada item 29. Bacaan/
   harakat kiriman pengguna belum dibuktikan satu-satu terhadap pindaian
@@ -603,6 +618,7 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 5 --check
 .venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 6 --check
 .venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 7 --check
+.venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 8 --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \
   --output al_qorin/AL_QORIN_123_BERSIH.docx
