@@ -1868,15 +1868,77 @@ Namun penulis menyatakan ada tujuh puluh deskripsi dan hal-hal yang dibutuhkan m
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: بَيْنَ عَيْنَيْهِ - فِي يَدِهِ الْيُمْنَى - خَاتَمُ سُلَيْمَانَ ٧ قرون
+*Judul di naskah:* ذكر التوابع العفاريت و السباسب و علاج الصرع
 
-Langkah 1: اكتب بين عينيه (افمن كان مؤمنا كمن كان فاسقا) الى (نزلا) - Tulis di dahi antara dua mata
+*Teks Arab asli rujukan:*
 
-Langkah 2: وفي يده اليمنى خاتم سليمان - Tulis di tangan kanan Rajah Khatam Sulaiman
+> فَمَهْمَا انْصَرَعَ رَجُلٌ أَوِ امْرَأَةٌ أَوْ صَبِيٌّ أَوْ صَبِيَّةٌ فَاكْتُبْ لَهُ بَيْنَ عَيْنَيْهِ: (أَمْ مَنْ كَانَ مُؤْمِنًا كَمَنْ كَانَ فَاسِقًا) إِلَى قَوْلِهِ (تَزَلْزَلَ نُزُلًا) وَفِي يَدِهِ الْيُمْنَى خَاتَمُ سُلَيْمَانَ وَلَهُ سَبْعَةُ قُرُونٍ فِي بَاطِنِ كُلِّ قَرْنٍ مِنْهَا حَرْفٌ مِنْ حُرُوفِ: ف ج ش ث خ ذ ص ض
 
-Langkah 3: في باطن كل قرن حرف من حروف ف ج ش ث خ ذ ص ض - Di tiap tanduk tulis 1 huruf
+*TATACARA PRAKTIK LENGKAP MENURUT NASKAH HAL 49:*
 
-Tujuan: علاج الصرع النوع الاول dari 43 jenis
+*1. Konteks yang ditulis penulis (bukan tatacara, tapi latar):*
+
+- `بَعْضُ التَّوَابِعِ الْعَفَارِيتُ` - sebagian tawabi' ifrit yang menyerupai manusia, tinggal dekat pohon tinggi dan masuk ke kebun
+
+- `بَعْضُ السَّبَاسِبِ سَكَنُوا الْجِبَالَ وَالْخَرَائِبَ` - sebagian sabasib tinggal di gunung dan reruntuhan kosong
+
+- Penulis menyatakan `كَثْرَةُ هَؤُلَاءِ مُضِرَّةٌ بِالرِّجَالِ وَالنِّسَاءِ` - kebanyakan mereka berbahaya bagi manusia
+
+- Penulis menyebut ada `سَبْعُونَ وَصْفًا` - 70 deskripsi, dan `ثَلَاثَةٌ وَأَرْبَعُونَ نَوْعًا` - 43 jenis kerasukan, tiap jenis ada obatnya
+
+*2. Media yang disebut untuk pengobatan pertama:*
+
+- Dahinya pasien: `بَيْنَ عَيْنَيْهِ` - di antara dua mata (di dahi tengah)
+
+- Tangan kanannya: `فِي يَدِهِ الْيُمْنَى`
+
+*3. Langkah ke-1 - Tulis di antara dua mata:*
+
+`فَاكْتُبْ لَهُ بَيْنَ عَيْنَيْهِ: (أَمْ مَنْ كَانَ مُؤْمِنًا كَمَنْ كَانَ فَاسِقًا) إِلَى قَوْلِهِ (تَزَلْزَلَ نُزُلًا)`
+
+Yang dimaksud adalah ayat dari Surah As-Sajdah ayat 18-20:
+
+> أَفَمَنْ كَانَ مُؤْمِنًا كَمَنْ كَانَ فَاسِقًا ۚ لَا يَسْتَوُونَ (18) أَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ جَنَّاتُ الْمَأْوَىٰ نُزُلًا بِمَا كَانُوا يَعْمَلُونَ (19)
+
+Di naskah tertulis sampai `تَزَلْزَلَ نُزُلًا` - kemungkinan salah cetak/kurang jelas, yang benar `نُزُلًا`.
+
+*4. Langkah ke-2 - Tulis di tangan kanan:*
+
+`وَفِي يَدِهِ الْيُمْنَى خَاتَمُ سُلَيْمَانَ وَلَهُ سَبْعَةُ قُرُونٍ`
+
+Tulis Rajah Khatam Sulaiman yang memiliki 7 tanduk (seperti gambar bintang/segel di akhir Hal 49)
+
+*5. Langkah ke-3 - Isi 7 tanduk:*
+
+`فِي بَاطِنِ كُلِّ قَرْنٍ مِنْهَا حَرْفٌ مِنْ حُرُوفِ: ف ج ش ث خ ذ ص ض`
+
+Di dalam setiap tanduk dari 7 tanduk itu, tulis satu huruf:
+
+Tanduk 1 = ف
+
+Tanduk 2 = ج
+
+Tanduk 3 = ش
+
+Tanduk 4 = ث
+
+Tanduk 5 = خ
+
+Tanduk 6 = ذ
+
+Tanduk 7 = ص ض (di naskah tertulis 8 huruf untuk 7 tanduk, kemungkinan `ص ض` dihitung 1 atau ada salah cetak - dicatat apa adanya)
+
+*6. Penutup naskah:*
+
+`هَذِهِ الْخَوَاتِمُ خَاتَمُ سُلَيْمَانَ` - inilah segel-segel itu, Khatam Sulaiman.
+
+*7. Tujuan tertulis:*
+
+`عِلَاجِ الصَّرْعِ` - pengobatan untuk orang yang kerasukan (rajul, imra'ah, shabi, shabiyah) - ini jenis pertama dari 43 jenis yang disebut penulis.
+
+*CATATAN PENERJEMAH:*
+
+Ini adalah kutipan isi naskah Hal 49 apa adanya. `التَّوَابِعِ` dan `السَّبَاسِبِ` dibiarkan tanpa diganti karena bacaan tidak pasti. Tulisan `تَزَلْزَلَ نُزُلًا` di naskah tidak dilancarkan. Rajah Khatam Sulaiman 7 tanduk memang ada di akhir halaman. Tidak dianjurkan dan tidak disahkan sebagai amalan medis, hanya dokumentasi isi kitab. Untuk kasus kerasukan/sakit, rujuk ke tenaga medis dan ulama.
 
 ## Halaman 50 — lanjutan pengobatan: tulisan, bakaran, dan tujuh بروات
 

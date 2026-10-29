@@ -26,6 +26,14 @@ Keputusan format yang diterapkan:
 3. Seluruh heading dan isi utama Syarah dihapus. Yang boleh tersisa
    hanya footnote satu baris untuk kata/frasa Arab yang pada Syarah
    lama secara eksplisit dinyatakan tidak jelas cetakan/bacaannya.
+4. Instruksi terbaru khusus Halaman 49 mengganti override pendeknya
+   dengan blok **Pola 49 TATACARA PRAKTIK LENGKAP** yang diberikan
+   pengguna secara verbatim, termasuk konteks, pemetaan tujuh tanduk,
+   tujuan tertulis, dan `CATATAN PENERJEMAH` di dalamnya. Pengecualian
+   ini tidak mengubah Layer 1 Halaman 49 atau 72 Layer 2 lainnya.
+   Teks pola lengkap baru untuk Halaman 109, 116, dan 121 tidak
+   diberikan pada instruksi ini, sehingga ketiga halaman itu tetap
+   memakai Layer 2 generik sebelumnya.
 
 ## Format keluaran
 
@@ -46,10 +54,13 @@ Langkah 2: …
 Tujuan: …
 ```
 
-Pola label ini mengikuti contoh **HAL 49 FINAL 2 LAYER** dari
-pengguna. Layer 1 tetap memuat seluruh badan Arab, Latin, dan
-Terjemahan halaman; contoh tindakan di dalamnya tidak memotong
-keterangan halaman menjadi hanya kutipan praktik.
+Pola label generik ini mengikuti contoh **HAL 49 FINAL 2 LAYER** dari
+pengguna dan berlaku pada 72 unit Layer 2 selain Halaman 49. Layer 1
+tetap memuat seluruh badan Arab, Latin, dan Terjemahan halaman;
+contoh tindakan di dalamnya tidak memotong keterangan halaman menjadi
+hanya kutipan praktik. Khusus Halaman 49, instruksi terbaru mengganti
+bagian sesudah heading Layer 2 dengan blok verbatim berjudul
+*TATACARA PRAKTIK LENGKAP MENURUT NASKAH HAL 49*.
 
 ### Layer 1
 
@@ -101,9 +112,14 @@ builder DOCX yang dipakai tidak membuat catatan kaki Word bawaan.
 ### Layer 2
 
 Sumber bersih Halaman mempunyai 76 bagian praktik lama. Keluaran
-mempertahankan **73 Layer 2** dengan total **264 label `Langkah N:`**.
-Tiga bagian lama tidak dijadikan Layer 2 karena prosanya sendiri
-menyatakan tidak ada tatacara/praktik baru pada halaman itu:
+mempertahankan **73 Layer 2** dengan total **264 langkah praktik**:
+261 label generik `Langkah N:` pada 72 unit dan tiga label
+`Langkah ke-1` sampai `Langkah ke-3` dalam blok Pola 49. Dengan
+demikian ada 72 label generik `Media:` dan 72 label generik
+`Tujuan:`; Halaman 49 memakai subbagian media dan tujuan tertulis
+dalam blok lengkapnya sendiri. Tiga bagian lama tidak dijadikan
+Layer 2 karena prosanya sendiri menyatakan tidak ada
+tatacara/praktik baru pada halaman itu:
 
 - Halaman 103;
 - Halaman 113;
@@ -127,11 +143,18 @@ Aturan konversinya:
   judul bab yang dikutip di dalamnya. Halaman 7, 41, dan 105 ditulis
   “Tidak dinyatakan secara tersendiri pada halaman ini” karena bagian
   praktik lamanya tidak menyatakan tujuan tersendiri.
-- Halaman 49 memakai redaksi Layer 2 dari contoh FINAL pengguna
-  secara verbatim. Halaman 58, 64, dan 65 memakai override dengan
-  pola yang sama: Media berupa frasa Arab pendek, setiap langkah
-  diawali kutipan Arab pendek lalu tindakan Indonesia, dan Tujuan
-  diawali frasa Arab tujuan dari halaman itu.
+- Halaman 49 memakai blok **Pola 49 TATACARA PRAKTIK LENGKAP** dari
+  instruksi terbaru pengguna secara verbatim; override pendek
+  sebelumnya telah dihapus dari builder. Blok itu memuat judul dan
+  teks Arab rujukan, konteks tawabi'/sabasib, media antara dua mata
+  dan tangan kanan, tiga langkah, pemetaan Tanduk 1–7 termasuk
+  catatan delapan huruf untuk tujuh tanduk, penutup, tujuan
+  `عِلَاجِ الصَّرْعِ`, dan catatan penerjemah yang membingkainya
+  sebagai dokumentasi serta merujuk kasus sakit/kerasukan kepada
+  tenaga medis dan ulama. Halaman 58, 64, dan 65 tetap memakai
+  override pola FINAL pendek: Media berupa frasa Arab pendek, setiap
+  langkah diawali kutipan Arab pendek lalu tindakan Indonesia, dan
+  Tujuan diawali frasa Arab tujuan dari halaman itu.
 - Halaman 98 dan 105 hanya mempunyai field Waktu/Media (Halaman 105
   prosanya hanya kalimat dokumenter), sehingga langkahnya dibentuk
   langsung dari kedua field tersebut tanpa menambah bahan atau hasil.
@@ -139,21 +162,27 @@ Aturan konversinya:
   72, dan 74 tidak dijadikan langkah. Crop rajahnya tetap tampil di
   Layer 1; Media tetap menyebut rajah/tulisan yang relevan.
 - Tidak ada Syarah akidah dan tidak ada penjelasan panjang baru di
-  Layer 1 atau Layer 2. Tujuan dicatat sebagai tujuan yang dirumuskan
-  naskah, bukan sebagai pengesahan hasil.
+  Layer 1 atau pada 72 Layer 2 generik. Satu-satunya pengecualian
+  adalah konteks dan catatan penerjemah yang memang termasuk dalam
+  blok Pola 49 lengkap yang diberikan pengguna. Tujuan dicatat
+  sebagai tujuan yang dirumuskan naskah, bukan sebagai pengesahan
+  hasil atau anjuran medis.
 
 ## Keluaran
 
 | Berkas | Ukuran | SHA-256 |
 |---|---:|---|
-| `AL_QORIN_123_BERSIH_2_LAYER.md` | 606.531 byte | `3aec2501e13bb9842c28037db208994420708005a44f64893e9474fe87f12c15` |
-| `AL_QORIN_123_BERSIH_2_LAYER.docx` | 6.893.928 byte | `1a546274dcd1715709b759a113d43714a91978572cb8184f575f409b03730109` |
+| `AL_QORIN_123_BERSIH_2_LAYER.md` | 610.051 byte | `e62145d4fd411f00ddd48648e4b15822270468541e891c0a18d649a9eee56371` |
+| `AL_QORIN_123_BERSIH_2_LAYER.docx` | 6.896.312 byte | `00aaccd65a2208d01339b0e19859ff5f832064432e52e99f044c57063a4f16c0` |
 
 Builder Markdown menolak menulis selain nama berakhiran
 `_2_LAYER.md` dan menolak jalur master kanonis/turunan yang dilindungi.
-Parser DOCX hanya ditambah cabang konteks untuk heading `LAYER …`
-dan label polos `1. Arab:`, `2. Latin:`, serta `3. Terjemahan:`;
-perilaku heading lama dipertahankan.
+Parser DOCX memakai cabang konteks untuk heading `LAYER …` dan label
+polos `1. Arab:`, `2. Latin:`, serta `3. Terjemahan:`. Untuk blok
+Pola 49, parser juga membuang penanda blockquote Markdown `>` sebelum
+teks masuk ke Word dan memberi konteks Arab RTL/kanan kepada lima
+paragraf Layer 2 yang seluruh hurufnya Arab; perilaku heading lama
+dipertahankan.
 
 ## QA
 
@@ -167,10 +196,13 @@ Pemeriksaan builder dan pemeriksaan independen membuktikan:
 - badan Arab dan Latin setiap unit sama byte-for-byte dengan sumber
   setelah pemangkasan baris kosong tepi; badan Terjemahan merupakan
   awalan persis dari badan keluaran sebelum crop/footnote tambahan;
-- 73 heading Layer 2; setiap blok mempunyai `Media:`, `Langkah 1:`,
-  langkah lanjutan yang berurutan, dan `Tujuan:` dalam urutan itu;
-  redaksi Layer 2 Halaman 49 serta Tujuan Halaman 58, 64, dan 65
-  ditemukan persis satu kali dalam Markdown dan DOCX;
+- 73 heading Layer 2; 72 blok generik mempunyai `Media:`,
+  `Langkah 1:`, langkah lanjutan yang berurutan, dan `Tujuan:` dalam
+  urutan itu. Blok Halaman 49 sama persis dengan konstanta
+  `POLA_49_TATACARA_LENGKAP`, memuat `Langkah ke-1` sampai
+  `Langkah ke-3` secara berurutan, dan redaksi pendek Halaman 49
+  sebelumnya tidak ditemukan lagi. Tujuan Halaman 58, 64, dan 65
+  tetap ditemukan dalam Markdown dan DOCX;
 - 58 footnote dan semuanya satu baris;
 - daftar 26 rujukan crop sama persis dengan sumber; 9 crop Syarah
   berpindah ke Layer 1 dan tidak ada crop yang hilang atau diganti;
@@ -178,13 +210,20 @@ Pemeriksaan builder dan pemeriksaan independen membuktikan:
   semua label `1. Arab:`, konteks Latin pada semua `2. Latin:`, dan
   konteks Terjemahan pada semua `3. Terjemahan:`;
 - DOCX memuat 123 Heading 1, 196 Heading 2 (123 Layer 1 + 73 Layer 2),
-  369 Heading 3 untuk label Layer 1, 73 paragraf Media, 264 paragraf
-  Langkah, 73 paragraf Tujuan, 26 gambar inline/media, dan 4 bagian
-  font tertanam;
+  369 Heading 3 untuk label Layer 1, 72 paragraf `Media:`, 261
+  paragraf generik `Langkah N:`, 72 paragraf `Tujuan:`, tiga subjudul
+  `Langkah ke-N` pada Pola 49, 26 gambar inline/media, dan 4 bagian
+  font tertanam; tidak ada paragraf DOCX yang masih diawali penanda
+  blockquote `>`;
+- dibandingkan dengan keluaran format FINAL sebelumnya, hanya unit
+  Halaman 49 yang berubah pada Markdown dan DOCX; Layer 1 Halaman 49
+  identik, sedangkan seluruh unit lain identik;
 - hash media DOCX sama dengan himpunan hash 26 berkas crop sumber;
 - XML DOCX memuat penanda arah `w:bidi` dan `w:rtl`; parser konteks
-  menghasilkan 549 paragraf Arab, 315 paragraf Latin, 379 paragraf
-  Terjemahan, dan 410 paragraf Layer 2;
+  menghasilkan 554 paragraf Arab, 315 paragraf Latin, 379 paragraf
+  Terjemahan, dan 436 paragraf Layer 2 non-Arab-murni. Lima paragraf
+  Arab murni dalam Pola 49 mempunyai `w:bidi=1`, `w:jc=start`, dan
+  `w:rtl` pada run teksnya;
 - pembangunan Markdown diulang dan menghasilkan SHA-256 yang sama;
 - discovery test repo: 40 test terdaftar, 33 lulus, dan 7 dilewati
   karena work JSON ter-ignore tidak hadir;

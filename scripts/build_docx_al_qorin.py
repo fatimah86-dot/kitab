@@ -141,6 +141,10 @@ def parse_md(path: Path, only_units=None):
             if buf:
                 text = " ".join(buf).strip()
                 event_ctx = ctx
+                if two_layer and ctx == "khususiyah":
+                    plain = re.sub(r"^[>\s`*_-]+", "", text)
+                    if AR_RE.search(plain) and not re.search(r"[A-Za-z]", plain):
+                        event_ctx = "Arab"
                 if ctx == "caption" and not text.startswith("[Crop halaman"):
                     event_ctx = ctx_before_image
                 events.append(("para", event_ctx, text)); buf.clear()
@@ -182,7 +186,7 @@ def parse_md(path: Path, only_units=None):
             elif not st or st.startswith("<!--") or st == "---":
                 flush()
             else:
-                buf.append(st)
+                buf.append(re.sub(r"^>\s?", "", st))
         flush()
         # group table rows
         grouped, rows = [], []
