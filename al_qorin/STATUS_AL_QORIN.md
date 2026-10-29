@@ -446,14 +446,31 @@ hasil, dan bukan pengganti penanganan medis.
     `AUDIT_ARAB_FUSHA_HALAMAN_TERSISA_2026-10-28.md`. Validasi:
     discovery 39 test menghasilkan 32 lulus dan 7 test bergantung pada
     work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+30. **Revisi total terjemahan Batch 02 (M06–M15)** (2026-10-29):
+    pengguna meminta pekerjaan dilanjutkan sampai terjemahan kitab
+    khatam. Sepuluh unit M06–M15 diterjemahkan ulang dari
+    Arab final yang telah terkunci dan dibandingkan dengan halaman cetak
+    6–15 pada PDF asli (SHA-256 `ac5ec9fc…c5c1`). Override
+    `overrides_terjemahan_total_batch02.json` memuat 47 paragraf dan
+    hanya mengganti Lapis 3; jumlah paragraf lama dipertahankan per
+    unit. Applier umum `al_qorin_apply_translation_total_batches.py`
+    menerapkan payload persis ke master riset dan hasil
+    `clean_translation` ke master bersih, sedangkan builder terintegrasi
+    kini menerapkan Batch 02–08 yang tersedia sesudah seluruh tahap
+    Arab final. Scope-proof terhadap commit sebelumnya membuktikan
+    tidak ada perubahan di luar Lapis 3 sasaran. Kedua DOCX dan kedua
+    preview riset dibangun ulang. Catatan:
+    `CATATAN_BATCH_TERJEMAHAN_TOTAL_02.md`. Validasi akhir: discovery
+    40 test menghasilkan 33 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati karena berkas kerja itu tidak hadir.
 
 ## Yang belum selesai
 
 - Tidak ada lagi unit yang menunggu batch semantik Lapis 4/5: seluruh 123
   unit telah masuk pilot atau salah satu batch semantik. Namun **revisi
-  total terjemahan belum khatam**: baru SAMPUL dan M01–M05 yang selesai pada
-  Batch 01; 117 unit lain menunggu Batch 02–08 sesuai
-  `AUDIT_REVISI_TOTAL_TERJEMAHAN_123.md`, dimulai dari M06–M15. Batas kejujuran
+  total terjemahan belum khatam**: SAMPUL dan M01–M15 telah selesai melalui
+  Batch 01–02; 107 unit M16–M122 menunggu Batch 03–08 sesuai
+  `AUDIT_REVISI_TOTAL_TERJEMAHAN_123.md`, dimulai dari M16–M32. Batas kejujuran
   tetap berlaku: pemeriksaan Penentuan Jam terhadap Arab serta pindai
   halaman bersifat dokumenter dan tidak mengarang hitungan; selisih bacaan
   M104 dan M107 sengaja belum dipakai untuk mengganti Lapis 1–3. Semua
@@ -515,6 +532,7 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_parse_agent_arab_fusha_remaining.py
 .venv/bin/python scripts/al_qorin_apply_agent_arab_fusha_remaining.py --check
 .venv/bin/python scripts/al_qorin_wafaq_markers.py --check
+.venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 2 --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \
   --output al_qorin/AL_QORIN_123_BERSIH.docx

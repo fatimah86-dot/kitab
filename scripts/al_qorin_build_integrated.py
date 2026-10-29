@@ -905,6 +905,101 @@ for uid in order:
                 f"{uid}:{key}"
             )
 
+# --- Total translation revision, Batches 02-08 ------------------------------
+# These batches are deliberately applied only after every Arabic source-lock
+# and replacement stage above.  They were translated against the final locked
+# Arabic, unlike Batch 01 which belongs to the earlier six-unit sequence.
+# A later batch file may rewrite only Lapis 3 for its declared unit range;
+# existing Lapis-3 paragraph counts and translator labels are hard guards.
+# The builder does not impose a renewed 1:1:1 guard here because subsequent
+# user/agent Arabic substitutions fragmented selected Lapis-1 paragraphs
+# without resegmenting Latin or Terjemahan.
+translation_total_ranges = {
+    2: [f"M{i:02d}" for i in range(6, 16)],
+    3: [f"M{i:02d}" for i in range(16, 33)],
+    4: [f"M{i:02d}" for i in range(33, 50)],
+    5: [f"M{i:02d}" for i in range(50, 72)],
+    6: [f"M{i:02d}" for i in range(72, 87)],
+    7: [f"M{i:02d}" for i in range(87, 104)],
+    8: [f"M{i:02d}" for i in range(104, 123)],
+}
+translation_total_later_units = {}
+
+
+def fail_translation_later(message):
+    raise SystemExit(f"translation total later-batch validation: {message}")
+
+
+for later_batch_number, expected_units in translation_total_ranges.items():
+    later_batch_path = (
+        ROOT
+        / f"al_qorin/overrides_terjemahan_total_batch{later_batch_number:02d}.json"
+    )
+    if not later_batch_path.exists():
+        continue
+    later_batch_data = json.loads(later_batch_path.read_text(encoding="utf-8"))
+    later_batch_units = later_batch_data.get("units")
+    if not isinstance(later_batch_units, dict) or list(later_batch_units) != expected_units:
+        fail_translation_later(
+            f"Batch {later_batch_number:02d} targets must be exactly {expected_units}"
+        )
+    overlap = sorted(set(later_batch_units) & set(translation_total_later_units))
+    if overlap:
+        fail_translation_later(f"duplicate later-batch targets: {overlap}")
+
+    pre_batch = copy.deepcopy(revised)
+    for uid, entry in later_batch_units.items():
+        if set(entry) != {"dasar", "terjemahan"}:
+            fail_translation_later(
+                f"{uid}: a later batch may declare only dasar + terjemahan"
+            )
+        if not isinstance(entry["dasar"], str) or len(entry["dasar"]) < 60:
+            fail_translation_later(
+                f"{uid}: dasar must record the scan/style basis"
+            )
+        baseline = pre_batch[uid]
+        replacement = entry["terjemahan"]
+        if (
+            not isinstance(replacement, list)
+            or not replacement
+            or any(not isinstance(x, str) or not x.strip() for x in replacement)
+        ):
+            fail_translation_later(
+                f"{uid}: terjemahan must be a non-empty string list"
+            )
+        if len(replacement) != len(baseline["terjemahan"]):
+            fail_translation_later(f"{uid}: Terjemahan paragraph count changed")
+        label = "[CATATAN PENERJEMAH"
+        if " \n".join(replacement).count(label) != " \n".join(
+            baseline["terjemahan"]
+        ).count(label):
+            fail_translation_later(f"{uid}: translator-label count changed")
+        changed = dict(baseline)
+        changed["terjemahan"] = list(replacement)
+        revised[uid] = changed
+
+    for uid in order:
+        baseline = pre_batch[uid]
+        current = revised[uid]
+        if uid not in later_batch_units:
+            if current != baseline:
+                fail_translation_later(
+                    f"{uid}: spill outside Batch {later_batch_number:02d}"
+                )
+            continue
+        for key, value in baseline.items():
+            if key == "terjemahan":
+                if current[key] != later_batch_units[uid]["terjemahan"]:
+                    fail_translation_later(
+                        f"{uid}: Terjemahan differs from Batch "
+                        f"{later_batch_number:02d} payload"
+                    )
+            elif current[key] != value:
+                fail_translation_later(
+                    f"{uid}: protected field changed: {key}"
+                )
+    translation_total_later_units.update(later_batch_units)
+
 units = [revised[uid] for uid in order]
 (work / "integrated_units.json").write_text(json.dumps(units, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -929,7 +1024,9 @@ md = ["# AL-QORIN WAR RIYADHAH — REVISI 123 ARTIKEL", "",
       "lama, Khususiyah tingkat frasa, stub/kontradiksi Metode yang terbukti dikoreksi), "
       "sehingga seluruh 123 unit telah masuk pilot atau salah satu batch semantik. Revisi "
       "total terjemahan bergaya Anwar telah dimulai dengan Batch 01 untuk SAMPUL dan "
-      "M01–M05 (hanya Lapis 3 yang ditulis ulang; Arab/Latin dipertahankan). Crop "
+      f"M01–M05; batch lanjutan yang tersedia mencakup {len(translation_total_later_units)} unit "
+      "dan diterapkan sesudah seluruh kunci Arab final (hanya Lapis 3 yang ditulis ulang; "
+      "Arab/Latin dipertahankan). Crop "
       "wafaq adalah crop presisi kiriman pengguna, bukan ekstraksi FINAL KHATAM. Aturan lapis "
       "kondisional 2026-10-28: SAMPUL tampil 3 lapis (catatan sampul di akhir Terjemahan), "
       "M01 (Muqodimah) dan M122 (Khatimah) tampil 4 lapis, unit lain 5 lapis.", "",
@@ -948,6 +1045,7 @@ print(
     f"batch_m06_m15_m72_m121={len(batch2_units)} "
     f"batch_final_m68_m70_m71={len(final_units)} "
     f"terjemahan_total_b01={len(translation_units)} "
+    f"terjemahan_total_later={len(translation_total_later_units)} "
     f"user_arab_latin_units={len(user_layers['arab']['units'])} "
     f"user_arab_replacement_h62_units={len(arab_replacement_h62['units'])} "
     f"user_arab_replacement_h62_paragraphs="

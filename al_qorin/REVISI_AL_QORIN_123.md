@@ -557,21 +557,21 @@ Wa haadzaa idzaa tarakar riyaadhatanhalla lahul 'ilmu wa idzanhallar riyaadhata 
 
 ### 3. Terjemahan
 
-Golongan kedua ialah ketika susunan tabiat-tabiat yang Allah—Mahasuci dan Mahatinggi Dia—jadikan sebagai penopang tubuh mengalami perubahan pada dirinya; pada tabiat-tabiat itulah terdapat rahasia kehidupan.
+Bagian kedua ialah keadaan ketika susunan tabiat-tabiat yang Allah—Mahasuci dan Mahatinggi Dia—jadikan penopang tubuh menjadi kacau padanya; pada tabiat-tabiat itulah rahasia kehidupan berada.
 
-Lalu akal menghilang, daya pikir rusak, dan daya khayal menguat sehingga ia melihat rupa-rupa atau khayalan-khayalan. Menurut penulis, keadaan ini tidak berguna untuk kebenaran keadaan-keadaan ruhani setelah rusaknya daya rasa batin.
+Akal pun lenyap dari kesadaran, daya pikir rusak, dan daya khayal menguat, sehingga ia melihat sosok-sosok atau khayalan-khayalan. Menurut penulis, orang dalam keadaan ini tidak memperoleh manfaat dari kebenaran ahwal setelah rusaknya dzauq (rasa batin).
 
-Golongan ketiga ialah ketika, menurut pengarang, terbayang baginya dari setan cahaya-cahaya bumi—susunan sumber selanjutnya berbunyi ‘ra'aa 'ainahu’, yang hubungan maknanya belum mantap—di dalam kegelapan, serta rupa-rupa seperti malaikat, atau muncul sebagai pihak yang berbicara dari dirinya sendiri.
+Bagian ketiga ialah keadaan ketika, menurut penulis, setan membayangkan cahaya-cahaya kepadanya, atau ia melihat dengan matanya dalam kegelapan sosok-sosok seperti malaikat, atau tampil pihak yang berbicara dari dirinya sendiri.
 
-Lalu ia berkata kepadanya, ‘Ini cahaya-cahaya malakut,’ sehingga menimbulkan ketenteraman dalam batinnya. Setelah itu datang masa kelesuan yang mengikutinya, sampai ia meninggalkan amal.
+Pihak itu berkata kepadanya, “Ini cahaya-cahaya malakut,” lalu menimbulkan ketenangan dalam batinnya. Sesudah itu datang masa lesu yang menyusulnya sampai ia meninggalkan amal.
 
-Orang ini, menurut penulis, tidak merasakan pemulihan melalui tajalli setelah jiwanya bersandar pada cahaya-cahaya api. Maka keadaannya seperti ungkapan yang penulis nisbahkan kepada Nabi, ‘Tidak ada tanah yang berhasil ditempuhnya, dan tidak pula punggung tunggangan yang disisakannya.’
+Menurut penulis, orang ini tidak merasakan kesejukan tajalli setelah jiwanya condong kepada cahaya-cahaya api. Keadaannya seperti ucapan yang teks ini nisbatkan kepada Nabi ﷺ: “Ia tidak berhasil menempuh tanah perjalanan dan tidak menyisakan punggung tunggangan.”
 
-Apabila melihat keadaan itu, ia keluar dari riyadhah. Menurut penulis, orang ini tidak mampu kembali kecuali melalui bimbingan seorang syekh, atau mengikuti kitab ini dan isinya menurut pengenalan/pemahaman yang semestinya.
+Apabila ia melihat keadaan itu, ia keluar dari riyadhah. Menurut penulis, ia tidak dapat kembali kecuali melalui bimbingan seorang syekh atau dengan mengikuti kitab ini beserta isinya bil-‘urf—maksud tepat frasa ini tidak dijelaskan dan tetap dipertahankan sebagai istilah sumber.
 
-Ada pula golongan keempat yang tidak berada di bawah cakupan pengetahuan itu: orang yang Allah tingkatkan dalam khalwatnya melalui rahasia pemeliharaan-Nya, karena kemurnian niat dan ketulusan tekadnya. Ini, menurut penulis, rahasia pengkhususan yang hanya Allah Taala mengetahuinya.
+Ada pula bagian keempat yang tidak masuk dalam jangkauan ilmu yang sedang dibicarakan: orang yang Allah naikkan dalam khalwatnya melalui rahasia ‘inayah, karena kemurnian niat dan ketulusan tekadnya. Menurut penulis, ini adalah rahasia pengistimewaan yang hanya diketahui Allah Taala.
 
-Bagi orang ini, apabila ia meninggalkan riyadhah, pengetahuan terurai baginya; dan apabila ‘inhalla ar-riyaadhata’—susunan sumber yang belum mantap—tersingkapkan baginya kasyaf, maka ia«…» [bersambung ke segmen berikutnya]
+Apabila orang ini meninggalkan riyadhah, ilmu terurai baginya; dan apabila riyadhah telah terurai, kasyaf menjadi jelas baginya, lalu ia …
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -647,19 +647,19 @@ Wa dzaalika maa bayyanahu 'alaihi kitaabullaahi ta'aalaa fii qaulihi ta'aalaa fi
 
 ### 3. Terjemahan
 
-«…» [lanjutan dari segmen sebelumnya] berada di antara pengetahuan yang dengannya diperoleh pemahaman dari Allah, dan kasyaf yang dengannya diketahui hakikat-hakikat rahasia Allah dalam tahap-tahap segala yang ada.
+… berada di antara ilmu yang dengannya ia memahami dari Allah dan kasyaf yang dengannya ia mengetahui hakikat rahasia-rahasia Allah pada tahap-tahap segala maujud.
 
-Ketahuilah bahwa apa yang engkau dengar dari inti tindakan mereka mengambil—semoga Allah meridai mereka—tentang praktik empat puluh hari dan selainnya, menurut penulis tidak tepat bagi pemula dalam tobat, zuhud, tawakal, dan hal-hal sejenis dari maqam kalangan khusus.
+Ketahuilah bahwa apa yang engkau dengar mengenai pokok pengambilan mereka—semoga Allah meridai mereka—terhadap arba‘iniyyah (riyadhah empat puluh) dan selainnya, menurut penulis tidak sah atau tidak layak bagi para pemula dalam tobat, zuhud, tawakal, dan maqam-maqam semacam itu yang termasuk maqam kalangan khusus.
 
-Bahkan, dalam susunan pengarang, ia terus-menerus mengalami lapar demi hilangnya syahwat; dalam perjalanannya tidak tampak sesuatu selain lapar, kepahitan-kepahitan, dan pembakaran panas-panas. Pengarang menyebut hal itu mujahadah, bukan riyadhah.
+Melainkan orang itu akan terus berada dalam kelaparannya demi hilangnya syahwat. Menurut penulis, dalam suluknya ia tidak melihat sesuatu pun selain lapar yang berbaur kepahitan-kepahitan dan panas-panas yang membakar; keadaan itu disebut mujahadah, bukan riyadhah.
 
-Rahasia-rahasia riyadhah, menurut penulis, hanya tersingkap bagi orang yang telah mendapatkan kemanisan tajalli dan ketenteraman malakut, lalu kembali dengan hadirnya pengetahuan setelah lenyapnya kesadaran dalam keadaan batin itu.
+Rahasia-rahasia riyadhah hanya tersingkap, menurut penulis, bagi orang yang telah merasakan manisnya tajalli dan ketenangan malakut, kemudian kembali dengan hadirnya ilmu sesudah lenyapnya hal.
 
-Apabila ia merindukan semilir cahaya-cahaya malakut, ia mencari ketenteramannya dari cahaya-cahaya riyadhah. Menurut penulis, riyadhah tidak sah kecuali dengan empat puluh, sebab itu merupakan satu tahap yang lengkap dan suatu ketetapan.
+Apabila ia merindukan hembusan cahaya-cahaya malakut, ia mencari ketenangannya dari cahaya-cahaya riyadhah. Penulis menyatakan bahwa riyadhah tidak sah kecuali empat puluh, karena empat puluh itu merupakan satu tahap yang sempurna dan suatu ketetapan.
 
-Apabila melampaui empat puluh, pengarang menyebutnya keterpautan cinta sampai enam puluh; apabila melampaui enam puluh hingga sembilan puluh, ia menyebutnya keterasingan. Jika satu pekan, ia menyebutnya kekhusyukan; jika dua pekan, ia menyebutnya khalwat.
+Jika ia melampaui empat puluh sampai enam puluh, penulis menyebutnya ta‘asyuq (keterikatan cinta). Jika ia melampaui enam puluh sampai sembilan puluh, ia menyebutnya tawahhusy (pengasingan atau menjauh). Jika satu pekan, ia menyebutnya khusyuk; dan jika dua pekan, ia menyebutnya khalwat.
 
-Dalil yang penulis kemukakan untuk hal itu ialah Kitab Allah Taala, dalam firman-Nya mengenai kisah Musa alaihissalam: ‘Kami menjanjikan kepada Musa tiga puluh malam dan Kami sempurnakan dengan sepuluh, sehingga genaplah waktu yang ditetapkan Tuhannya empat puluh malam.’
+Penulis mengemukakan bahwa Kitab Allah Taala menjelaskan hal itu dalam firman-Nya mengenai kisah Musa—‘alaihis salam—: “Kami telah menjanjikan kepada Musa tiga puluh malam dan Kami menyempurnakannya dengan sepuluh, sehingga genaplah miqat Tuhannya selama empat puluh malam.”
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -733,19 +733,19 @@ Wa dzaalika maa qaalahu 'alaihis salaamu fii tadbiirin nuthfati arba'iina wal 'a
 
 ### 3. Terjemahan
 
-Dan perkataan para ahli hakikat yang dikemukakan penulis: ‘Siapa yang memurnikan pengabdian kepada Allah selama empat puluh pagi, mata-mata air hikmah tampak dari hatinya pada lisannya.’
+Dan ucapan beliau kepada para ahli hakikat yang dikutip penulis: “Siapa yang mengikhlaskan diri kepada Allah selama empat puluh pagi, mata-mata air hikmah akan tampak dari hatinya pada lisannya.”
 
-Sebagian orang yang berbuat ihsan—semoga Allah meridai mereka—menyebutkan bahwa rahasia hal itu terdapat pada perkataan yang dinisbahkan dalam sumber: ‘Tanah pembentuk Adam alaihissalam diperam dengan tangan-Nya selama empat puluh hari’; ada pula ungkapan ‘pagi’.
+Sebagian al-muhsinin—semoga Allah meridai mereka—menyebutkan bahwa rahasia hal itu terdapat pada ucapan yang teks ini nisbatkan kepada beliau: “Tanah pembentuk Adam—‘alaihis salam—diperam dengan tangan-Nya selama empat puluh hari,” dan dikatakan pula “empat puluh pagi.”
 
-Maka empat puluh pagi itu dijadikan hijab-hijab bagi Adam alaihissalam dari hadirat rabbani, untuk tampaknya hikmah. Rahasianya, menurut uraian penulis yang susunannya belum mantap, ialah bahwa ia memberi warna pada dasar penyaksian untuk kelupaan, melalui yang diketahui, dari pengetahuan itu sendiri.
+Menurut uraian penulis, empat puluh pagi itu dijadikan hijab-hijab bagi Adam—‘alaihis salam—dari hadirat Rabbaniyah agar hikmah tampak. Rahasianya, dalam susunan sumber yang belum sepenuhnya mantap, ialah bahwa Dia memberi corak atas dasar syuhud karena terlupanya yang diketahui dari ilmu.
 
-Lalu diperoleh pengetahuan tentang nama-nama. Yang kedua ialah sujud para malaikat, karena dua hal: hakikat kuasa yang tampak pada nama-nama, dan pengusiran setan dari hadirat rabbani ke tingkatan yang paling rendah.
+Lalu tercapailah ilmu nama-nama. Yang kedua ialah sujud para malaikat karena dua perkara: hakikat kekuasaan yang tampak dalam nama-nama dan pengusiran setan dari hadirat Rabbaniyah ke lapisan yang paling bawah.
 
-Yang ketiga berkaitan dengan sari/pati surga dan para perempuan melalui keturunan ‘atas kalian, orang-orang yang membenci’—demikian hubungan kata dalam bacaan sumber yang belum mantap—serta tampaknya tobat setelah maksiat. Yang keempat ialah dunia, untuk tampaknya hikmah, pelaksanaan syariat-syariat, dan tampaknya tauhid. Demikian empat rahasia hakikat empat puluh menurut penulis.
+Yang ketiga berkaitan dengan kedurhakaannya di surga dan kelupaan melalui keturunan—frasa ‘alayhim al-mubghidhin hubungannya belum mantap—serta tampaknya tobat sesudah maksiat. Yang keempat ialah dunia, agar hikmah tampak, syariat-syariat dijalankan, dan tauhid tampak. Inilah empat rahasia hakikat empat puluh menurut penulis.
 
-Ada sepuluh hijab untuk setiap tahap dari tahap-tahap ini. Adapun antara ‘sawaa'i qiinatihi’—bacaan kata sumber yang makna dan susunannya belum ditetapkan—dan hadirat ilahi terdapat dua ratus empat puluh hijab.
+Ada sepuluh hijab bagi setiap tahap dari tahap-tahap ini. Adapun antara sawa’ tanah liatnya—istilah dan susunan ini belum dapat ditetapkan maksud tepatnya—dan hadirat Ilahiyah terdapat dua ratus empat puluh hijab.
 
-Itulah yang penulis nisbahkan sebagai perkataan beliau tentang pengaturan nutfah selama empat puluh, alaqah empat puluh, mudghah empat puluh, tulang-tulang empat puluh, dan daging«…» [bersambung ke segmen berikutnya]
+Penulis menghubungkan hal itu dengan apa yang, menurut teks, beliau katakan tentang pengaturan nutfah selama empat puluh, ‘alaqah empat puluh, mudghah empat puluh, tulang-tulang empat puluh, dan daging …
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -821,17 +821,17 @@ Wa shihhatu dzaalika zhuhuuru talaqqil hikmati min qalbihi 'alaa lisaanihi idz h
 
 ### 3. Terjemahan
 
-«…» [lanjutan dari segmen sebelumnya] empat puluh, dan pembentukan empat puluh. Maka itulah dua ratus empat puluh hijab antara hamba dan hadirat ilahi, demi pemakmuran alam bawah, pembentangan harapan-harapan, dan terlupakannya tempat kembali, melalui rahasia ujian serta hakikat pemberian karunia.
+… empat puluh, dan pembentukan selama empat puluh. Maka itulah dua ratus empat puluh hijab antara hamba dan hadirat Ilahiyah, untuk pemakmuran alam bawah, pembentangan angan-angan, dan terlupakannya tempat kembali, melalui rahasia ujian dan hakikat anugerah.
 
-Apabila orang yang menempuh jalan menuju Allah Taala telah melewati tahap-tahap penghijab dan rintangan-rintangan yang bersifat tanah ini, menurut penulis tampak baginya hakikat-hakikat malakut, karunia-karunia zat, kelembutan-kelembutan ilahi, dan hakikat rincian-rincian yang gaib.
+Apabila salik yang berjalan menuju Allah Taala telah melampaui tahap-tahap penghijab dan rintangan-rintangan tanah ini, menurut penulis akan tampak baginya hakikat-hakikat malakut, anugerah-anugerah dzatiyah, kelembutan-kelembutan Ilahiyah, dan hakikat seluk-beluk yang gaib.
 
-Hal itu karena jiwa senantiasa berbicara, bercakap pada permulaan-permulaan di alamnya. Kemudian Allah Taala, dalam ungkapan simbolis pengarang, membalikkan kenyataan-kenyataan sifat sutranya, tanah kelembutannya, dengan “kasiir an-nuur” dan pembicaraan jiwa, suatu wadah halus yang menerima cahaya-cahaya. Hubungan sejumlah kata dalam susunan ini masih memerlukan tashih.
+Hal itu karena jiwa senantiasa berbicara dan bercakap tentang permulaan-permulaan di alamnya. Dalam ungkapan simbolis penulis, Allah Taala membalikkan a‘yan kehalusan sutranya—yaitu tanah kelembutannya—dengan kasr an-nur, dan pembicaraan jiwa menjadi wadah halus yang siap menerima cahaya-cahaya. Hubungan beberapa istilah teknis dalam kalimat ini belum mantap.
 
-Untuk hembusan rabbani bagi rahasia sapaan yang luhur, dalam firman-Nya, ‘Wahai jiwa yang tenteram.’ Rahasia penyempurnaannya pada sapaan yang lebih ringan ialah firman-Nya, ‘Kembalilah.’
+Wadah itu dipersiapkan bagi hembusan Rabbaniyah, yakni bagi rahasia sapaan yang luhur dalam firman-Nya: “Wahai jiwa yang tenteram.” Rahasia penyempurnaan jiwa pada sapaan yang lebih mudah ialah firman-Nya: “Kembalilah.”
 
-Di dalamnya terdapat hikmah. Tanda orang yang empat puluhnya telah lengkap beserta tugas-tugasnya, menurut penulis, ialah menjauh dari negeri tipu daya dan kembali menuju negeri kekekalan.
+Di dalamnya terdapat hikmah. Menurut penulis, tanda orang yang empat puluhnya telah sempurna beserta tugas-tugasnya ialah menjauh dari negeri tipu daya dan kembali menuju negeri kekekalan.
 
-Tanda benarnya hal itu, menurut penulis, ialah tampaknya penerimaan hikmah dari hatinya pada lisannya, karena hikmah itu cahaya anugerah. Ketahuilah bahwa tahap-tahap penyusunan dan hakikat-hakikat pengurutan ini berasal dari keseluruhan keterikatanmu.
+Tanda benarnya hal itu, menurut penulis, ialah tampaknya penerimaan hikmah dari hatinya pada lisannya, karena hikmah itu adalah cahaya anugerah. Ketahuilah bahwa tahap-tahap penyusunan dan hakikat-hakikat keteraturan ini berasal dari keseluruhan ikatan-ikatanmu.
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -909,13 +909,13 @@ Wa qad qussimat inhidaarur riyaadhaati 'alaa tsalaatsati aqsaam: al-qismul awwal
 
 ### 3. Terjemahan
 
-Bab kedua. Empat puluh (tahap) pertama adalah tabir-tabir akal; empat puluh (tahap) ‘alaqah adalah tabir-tabir ruh; empat puluh (tahap) mudhghah adalah tabir-tabir jiwa; empat puluh (tahap) tulang adalah tabir-tabir hati; empat puluh (tahap) daging adalah tabir-tabir tubuh; empat puluh (tahap) penciptaan adalah tabir-tabir susunan.
+Bab Kedua. Empat puluh pertama adalah hijab-hijab akal; empat puluh ‘alaqah adalah hijab-hijab ruh; empat puluh mudghah adalah hijab-hijab jiwa; empat puluh tulang adalah hijab-hijab hati; empat puluh daging adalah hijab-hijab tubuh; dan empat puluh pembentukan adalah hijab-hijab susunan.
 
-Inilah enam fase; dan orang-orang yang menempuh jalan menuju Allah—Mahatinggi—ada tiga kelompok: para salik, para murid, dan para ‘arif.
+Inilah enam tahap. Orang-orang yang berjalan menuju Allah Taala terbagi menjadi tiga golongan: para salik, para murid, dan para ‘arif.
 
-Para salik: dengan tubuh-tubuh dan hati-hati. Para murid: dengan jiwa-jiwa dan ruh-ruh. Para ‘arif: dengan «…» [tidak disalin penuh pada sumber kerja] dan rahasia-rahasia.
+Para salik berjalan dengan tubuh-tubuh dan hati-hati. Para murid berjalan dengan jiwa-jiwa dan ruh-ruh. Para ‘arif berjalan dengan at-tamkhikh—istilah sumber yang maknanya belum dapat ditetapkan—dan rahasia-rahasia.
 
-Sungguh telah dibagi penurunan riyadhah-riyadhah ini menjadi tiga bagian: bagian pertama riyadhah para salik, bagian kedua riyadhah para murid, bagian ketiga riyadhah para ‘arif.
+Penulis menyatakan bahwa inhidaar (penurunan atau penahapan menurun) riyadhah telah dibagi menjadi tiga bagian: bagian pertama ialah riyadhah para salik, bagian kedua riyadhah para murid, dan bagian ketiga riyadhah para ‘arif.
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -963,11 +963,11 @@ Fa-idzaa faragha qaama yushallii tsnatay 'asyrata rak'atan bi-aayatil kursiyyi t
 
 ### 3. Terjemahan
 
-Adapun riyadhah para salik ialah bahwa ia memasuki riyadhah dengan maksud memperbaiki kedudukan, sedangkan tubuhnya merupakan wadah kecenderungan duniawi, serta (dengan) mencari tambahan untuk akhirat.
+Adapun riyadhah para salik menurut penulis ialah memasuki riyadhah dengan tujuan meluruskan maqam, dengan “jasm maddat asy-syahwah ad-dunyawiyyah” —susunan kata ini belum mantap—serta mencari tambahan bagi akhirat.
 
-Para salik dalam hal itu terbagi dua: orang yang berkeluarga atau yang menyendiri. Jika ia berkeluarga, maka paling banyak makannya dua puluh empat auqiyah; hendaklah makan malamnya setiap malam setelah terbenam matahari: ia mengambil roti hangat, memecahnya menjadi suapan-suapan kecil sambil membaca «Mahasuci Dia yang di tangan-Nya kekuasaan»; ia menaruh pada wadahnya «…» [tidak disalin penuh pada sumber kerja]; maka apabila telah salat Magrib ia mengerjakan salat sunah, duduk menghadap kiblat setelah menyebut nama Allah, memperbanyak mengunyah, memuji Allah sesudahnya, dan begitu seterusnya sampai makanan terakhir, tanpa lemak hewani.
+Penulis membagi para salik dalam hal ini menjadi dua: orang yang berkeluarga dan orang yang tidak berkeluarga. Jika ia berkeluarga, makanannya paling banyak dua puluh empat uqiyah. Hendaklah potongan makan malamnya disiapkan setiap malam sesudah matahari terbenam: ia mengambil roti panas dan memecahnya menjadi potongan-potongan kecil sambil membaca “Tabārakal-ladzī biyadihil-mulk”, lalu meletakkannya dalam wadah tertutup. Sesudah salat Magrib, ia menunaikan salat sunah, duduk menghadap kiblat, mengulurkan tangannya dari bawah penutup sesudah membaca basmalah, memperbanyak kunyahan, dan memuji Allah sesudah setiap suapan. Demikian seterusnya sampai makanan terakhir, tanpa lauk berlemak. Sesudah selesai, ia berdiri dan salat dua belas rakaat dengan Ayat Kursi dibaca tiga kali pada setiap rakaat. Jika waktu menuju Isya yang terakhir masih tersisa, penulis menggambarkannya menyibukkan diri dengan zikir: “Mahasuci Allah, segala puji bagi Allah, tidak ada tuhan selain Allah, Allah Mahabesar; tidak ada daya dan tidak ada kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung.”
 
-Maka apabila selesai, ia berdiri salat dua belas rakaat dengan Ayat al-Kursi tiga kali pada setiap rakaat. Jika masih ada waktu Isya akhir, ia menyibukkan diri dengan zikir dan sebutannya: «Mahasuci Allah, segala puji bagi Allah, tiada tuhan selain Allah, Allah Mahabesar, tiada daya dan tiada kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung.» Dan pada setiap malam, apabila telah salat Isya akhir, ia mengerjakan setelahnya dua belas rakaat dengan Ayat al-Kursi tujuh kali setiap malam, kemudian witir, lalu tidur dalam keadaan suci dengan wudu, menghadap kiblat, dan menjaga «…» [bersambung ke segmen berikutnya]
+Setiap malam, sesudah salat Isya yang terakhir, ia menunaikan dua belas rakaat sesudahnya dengan Ayat Kursi dibaca tujuh kali setiap malam, kemudian witir dan tidur dalam keadaan suci berwudu, menghadap kiblat, dengan kelangsungan …
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -1011,11 +1011,11 @@ Al-anwaari fayaraa fii baathinihi mir-aatan shaqliyyatan wa dzawaatil 'aalami mu
 
 ### 3. Terjemahan
 
-«…» [lanjutan dari segmen sebelumnya] zikir. Dan jika ia mendatangi istrinya, ia bangun, mandi, lalu kembali kepada zikir yang sedang ia lakukan. Ia bangun sebelum fajar, duduk berzikir menghadap kiblat hingga ia salat Subuh; ia terus duduk menghadap kiblat berzikir kepada Allah—Mahatinggi—sampai matahari terbit, lalu salat empat rakaat untuk isyraq dengan al-Fatihah dan al-Ikhlas tiga kali; kemudian ia duduk dan berzikir kepada Allah—Mahatinggi—lalu salat empat rakaat pada waktu zawal dengan al-Fatihah, Ayat al-Kursi, dan al-Ikhlas; kemudian salat Zuhur, lalu duduk sampai Asar, salat Asar, kembali berzikir dengan cara yang kami sebutkan sampai Magrib, lalu memperlakukan roti seperti itu pula, dan ia terus-menerus dalam keadaan ini.
+… zikir. Jika ia mendatangi istrinya, ia bangun, mandi, lalu kembali kepada zikir yang sedang dilakukannya. Ia bangun sebelum fajar dan duduk untuk berzikir menghadap kiblat talqiyatan—istilah sumber yang maksud tepatnya belum mantap—sampai ia salat Subuh. Ia tetap duduk menghadap kiblat sambil berzikir kepada Allah Taala sampai matahari terbit, kemudian salat Isyraq empat rakaat dengan Al-Fatihah dan Al-Ikhlas tiga kali. Sesudah itu ia duduk dan berzikir kepada Allah Taala, kemudian salat Zawal empat rakaat dengan Al-Fatihah, Ayat Kursi, dan Al-Ikhlas. Ia lalu salat Zuhur, duduk sampai Asar, salat Asar, dan kembali berzikir menurut cara yang penulis sebutkan sampai Magrib. Ia memperlakukan roti dengan cara yang sama dan terus berada dalam keadaan tersebut.
 
-Maka apabila berada pada malam ketujuh, ia salat dari wiridnya dua kali salam, dan setelah itu ia berbuka; setelah dua pekan ia salat empat kali salam lalu berbuka; setelah tiga pekan ia salat wirid lalu berbuka; setelah empat pekan ia salat Isya akhir dan wirid lalu berbuka; setelah lima pekan ia menambah dari tempatnya sejak waktu berbukanya setiap malam; setelah enam pekan ia melewati malam demi malam sampai genap delapan puluh hari. Pada empat puluh (hari) pertama gugur darinya beban amal-amal dan ia membaikinya; pada empat puluh kedua ia memperbaiki jiwanya dengan amal-amal dan tenggelam dalam cahaya-cahaya «…» [bersambung ke segmen berikutnya]
+Pada malam ketujuh, ia salat wirid dua kali salam, kemudian berbuka. Sesudah dua pekan, ia salat empat kali salam, kemudian berbuka. Sesudah tiga pekan, ia salat wirid, kemudian berbuka. Sesudah empat pekan, ia salat Isya yang terakhir dan wirid, kemudian berbuka. Sesudah lima pekan, ia menambahkan—menurut susunan sumber—dari tempat tinggalnya sejak waktu berbukanya setiap malam; hubungan frasa ini belum mantap. Sesudah enam pekan, ia melewati malam demi malam sampai genap delapan puluh hari. Menurut penulis, pada empat puluh pertama beban amal-amal gugur darinya dan ia merasakan amal itu nikmat; pada empat puluh kedua jiwanya menjadi baik dengan amal-amal itu dan tenggelam dalam cahaya segala cahaya.
 
-«…» [tidak disalin penuh pada sumber kerja]cahaya-cahaya, lalu ia melihat dalam batinnya sebuah cermin yang jernih dan segala wujud alam tampak menjelma di dalamnya; ia lalu memikirkan apa yang tampak baginya pada cermin hatinya, sehingga firasatnya tidak keliru. Adapun empat puluh yang kedua, ia tidak terpisah darinya sampai ia mendengar seluruh alam berzikir bersamanya dengan suara-suara yang berbeda; ini kemudian merupakan pembukaan «…» [bersambung ke segmen berikutnya]
+Penulis menggambarkan bahwa ia lalu melihat dalam batinnya sebuah cermin yang mengilap dan wujud-wujud alam tampak menjelma di dalamnya. Ia merenungkan apa yang tampak baginya dalam cermin hatinya, dan penulis menyatakan firasatnya tidak keliru. Adapun mengenai empat puluh yang kedua, penulis menyatakan bahwa ia tidak terpisah darinya sampai mendengar seluruh alam berzikir bersamanya dengan suara-suara yang berbeda-beda. Inilah kemudian suatu pembukaan …
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -1063,11 +1063,11 @@ Wa huwa an yaraa fii baathinihi mir-aatan shaqliyyatan wa dzawaatil 'aalami muta
 
 ### 3. Terjemahan
 
-«…» [lanjutan dari segmen sebelumnya] zikir-zikir; hal itu dengan kemuliaan memakan yang halal, meninggalkan sebab-sebab (keduniaan), memakan segala sesuatu (yang halal) seluruhnya, mengalahkan hati dengan keikhlasan, menyendiri dari suara-suara, dan duduk dalam kegelapan. Inilah riyadhah salik yang berkeluarga yang telah disebutkan di awal.
+… zikir-zikir. Hal itu terjadi dengan kemuliaan makan yang halal, meninggalkan sebab-sebab duniawi, mengambil segala keperluannya sekaligus—hubungan frasa ini belum mantap—mengalahkan hati dengan keikhlasan, menyendiri dari suara-suara, dan duduk dalam kegelapan. Inilah riyadhah salik berkeluarga yang telah disebutkan pada bagian pertama.
 
-Adapun bagian kedua, yaitu yang tidak berkeluarga: sesungguhnya riyadhah itu dengan tujuan yang sama, hanya saja kekuatan makanannya lebih banyak daripada yang pertama, yakni hanya dengan memakan roti, tetapi dua roti, dan berbuka setelah Isya; ia minum air sedikit, dan roti itu hangat agar ia mengurangi tidur; hendaklah ia membaca Surah Yasin, dan hendaklah wiridnya seperti yang pertama; ia mengurangi setiap malam setengah dirham dari roti; setelah empat puluh pertama ia melewati malam Jumat lalu memperhitungkannya; zikirnya ialah «Mahasuci Allah Yang Mahatinggi lagi Maha Pemberi»; itu selama delapan puluh hari. Ini tidak menyempurnakan empat puluh kecuali cahaya firasat hati telah tampak baginya dari dalam batinnya.
+Adapun bagian kedua ialah orang yang tidak berkeluarga. Riyadhahnya memakai tujuan yang pertama, hanya saja porsi makanannya lebih banyak daripada golongan pertama, yakni ia hanya makan roti, tetapi dua roti, dan berbuka sesudah Isya. Ia minum sedikit air, dan roti itu harus hangat agar ia mengurangi tidur. Hendaklah ia membaca surah Yasin, wiridnya seperti wirid golongan pertama, dan setiap malam mengurangi setengah dirham dari rotinya. Sesudah empat puluh pertama, ia melewati malam Jumat lalu “fayahtasib”—rujukan perbuatan ini belum jelas. Zikirnya ialah “Subhānallāhil-‘Aliyyil-Wahhāb” (Mahasuci Allah Yang Mahatinggi lagi Maha Pemberi), selama delapan puluh hari. Penulis menyatakan bahwa orang ini tidak menyelesaikan empat puluh melainkan cahaya-cahaya firasat hati telah tersingkap baginya dari dalam batinnya.
 
-Yaitu bahwa ia melihat dalam batinnya sebuah cermin jernih dan segala wujud alam tampak menjelma di dalamnya, lalu ia memikirkan apa yang tampak baginya pada cermin hatinya, sehingga firasatnya tidak keliru. Adapun empat puluh yang kedua, ia tidak terpisah darinya sampai ia mendengar seluruh alam berzikir bersamanya dengan suara-suara yang berbeda.
+Gambaran itu, menurut penulis, ialah bahwa ia melihat dalam batinnya sebuah cermin yang mengilap dan wujud-wujud alam tampak menjelma di dalamnya. Ia merenungkan apa yang tampak baginya dalam cermin hatinya, sehingga firasatnya tidak keliru. Adapun empat puluh yang kedua, penulis menyatakan ia tidak terpisah darinya sampai mendengar seluruh alam berzikir bersamanya dengan suara-suara yang berbeda-beda.
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -1115,11 +1115,11 @@ Wa yahjubus saalikuts tsaanii bitsalaatsati hujubin: al-awwalu syahwatuth tha'aa
 
 ### 3. Terjemahan
 
-Jalan terdekat dari yang pertama: tabir salik pertama berupa tiga panjang; ia dikalahkan oleh syahwat. Maka apabila terlintas padanya lintasan syahwat, hendaklah ia berwudu dan berzikir «Ya Hadi» dengan zikir yang kuat, karena hal itu akan menenangkannya.
+Jalan yang lebih dekat daripada yang pertama: hijab salik pertama berada pada tiga tahap dan ia dikalahkan oleh syahwat. Apabila lintasan syahwat terlintas kepadanya, hendaklah ia berwudu dan berzikir “Yā Hādī” (Wahai Pemberi petunjuk) dengan zikir yang kuat; menurut penulis, gejolak itu akan mereda darinya.
 
-Tabir kedua ialah bahwa pikiran-pikiran saling bertentangan padanya; maka apabila pikiran menumpuk, hendaklah ia berwudu dan berzikir «Ya Lathif», karena hal itu menenangkannya. Tabir ketiga ialah kesempitan jiwa dalam penjara riyadhah dan kekeruhan waktu; maka apabila ia merasakan itu, hendaklah ia mandi dan berzikir «Ya Fansyah», karena itu menenangkan kegelisahannya.
+Hijab kedua ialah datangnya bermacam-macam pikiran kepadanya. Apabila pikiran-pikiran itu menumpuk, hendaklah ia berwudu dan berzikir “Yā Lathīf” (Wahai Yang Mahalembut); menurut penulis, pikiran itu akan mereda darinya. Hijab ketiga ialah sempitnya jiwa dalam penjara riyadhah dan keruhnya waktu. Apabila ia merasakan hal itu, hendaklah ia mandi dan berzikir “Yā Fattāh” (Wahai Pembuka); menurut penulis, kegelisahan hatinya akan tenang.
 
-Salik kedua ditabiri tiga tabir: pertama syahwat makanan; maka apabila ia merasakan itu, hendaklah ia berwudu dan berzikir «Ya Qawiyy», karena hal itu menghilangkannya; dan apabila telah hilang, ia kembali kepada zikir yang ditetapkan. Tabir kedua ialah penguasaan lintasan-lintasan (pikiran) atas lima zikir; maka apabila ia merasakan itu, ia bangun, berwudu, dan berzikir «Ya Qadir», karena hal itu hilang ketika itu. Tabir ketiga: tampak baginya bayangan-bayangan setan yang hakikatnya tidak tetap, baik secara ilmu maupun kasyaf, melainkan hanya promosi setan karena khalwat; maka siapa yang merasakan itu hendaklah ia mandi dan berzikir «Ya Dhal Quwwah», karena hal itu hilang darinya. Jumlah lintasan tidak dapat diliputi, maka hendaklah ia menyebut apa yang datang padanya dalam «…» [bersambung ke segmen berikutnya]
+Salik kedua terhijab oleh tiga hijab. Hijab pertama ialah syahwat terhadap makanan; apabila ia merasakannya, hendaklah ia berwudu dan berzikir “Yā Qawiyy” (Wahai Yang Mahakuat). Menurut penulis, syahwat itu akan hilang darinya, dan apabila telah hilang ia kembali kepada zikir yang telah ditetapkan. Hijab [kedua] ialah penguasaan lintasan-lintasan pikiran untuk memadamkan zikir; apabila ia merasakannya, ia berdiri, berwudu, dan berzikir “Yā Qadīr” (Wahai Yang Mahakuasa), dan menurut penulis keadaan itu hilang saat itu juga. Hijab ketiga menampakkan kepadanya khayalan-khayalan setani yang hakikatnya tidak terbukti, baik melalui ilmu maupun kasyaf, melainkan berupa promosi setan karena khalwat. Siapa yang merasakan hal itu, hendaklah ia mandi dan berzikir “Yā Dzal-Quwwah” (Wahai Pemilik kekuatan); menurut penulis, hal itu akan hilang darinya. Jumlah lintasan-lintasan pikiran tidak dapat diliputi, maka hendaklah ia menyebut apa yang datang kepadanya pada …
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 
@@ -1163,11 +1163,11 @@ Fa-idzaa tammas saaliku haadzihir riyaadhaati wa akhlasha ilallaahi ta'aalaa fii
 
 ### 3. Terjemahan
 
-«…» [lanjutan dari segmen sebelumnya] neraca syariat yang dipilih dengannya. Seandainya kami menjelaskan itu secara terperinci, kami akan keluar dari kelembutan ringkasan karena membawa banyak (uraian); sungguh kami telah merangkum hal itu dalam «Haqa'iq Daraj al-Maqamat» dan pembatasan panjangnya waridat pada perbedaan tajalli.
+… neraca syariat yang terpilih dengannya. Seandainya kami menjelaskan hal itu secara terperinci, kami akan keluar dari kelembutan keringkasan karena memindahkan uraian yang banyak. Sungguh, kami telah merangkum hal itu dalam Haqā’iq Daraj al-Maqāmāt dan dalam pembatasan tahap-tahap al-wāridāt menurut perbedaan tajalli.
 
-Salik ini terikat enam syarat, di antaranya: ia tidak makan dari (sumber) yang tidak diketahui, tidak menerima apa yang datang kepadanya sebelum waktunya, tidak bergerak tanpa sebab, tidak tinggal tanpa wudu, tidak tidur dalam keadaan lalai, tidak berbicara kecuali karena darurat, dan tidak meninggalkan kesucian. Inilah tugas-tugas para salik pemula.
+Salik ini terikat oleh enam syarat, di antaranya: ia tidak makan dari yang ma‘lum (telah diketahui; rujukan makanan atau sumbernya tidak dinyatakan lengkap), tidak menerima sesuatu yang datang kepadanya sebelum waktunya, tidak bergerak karena suatu sebab, tidak menetap tanpa wudu, tidak tidur dalam keadaan lalai, tidak berbicara kecuali karena keadaan darurat, dan tidak berpisah dari kesucian. Inilah tugas-tugas para salik pemula.
 
-Maka apabila salik telah menyempurnakan riyadhah-riyadhah ini dan mengikhlaskan (diri) kepada Allah—Mahatinggi—dalam khalwat-khalwat ini, cahaya-cahaya kerinduan menariknya sehingga ia naik ke derajat-derajat murid. Mereka terbagi tiga: bagian pertama murid yang mencari hakikat hatinya; bagian kedua murid yang mencari penyingkapan atas hakikat jiwanya; bagian ketiga murid yang mencari hakikat suatu kedudukan dalam kedekatan dengan Tuhannya. Baginya dua fase yang berurutan; mereka adalah ahli mawajid, mawarid, penyingkapan rahasia, dan penjelmaan cahaya-cahaya hati. Bagian pertama, yaitu yang mencari tambahan bagi hakikat hatinya; hal itu karena hati memiliki dua wajah.
+Apabila salik telah menyempurnakan riyadhah-riyadhah ini dan mengikhlaskan diri kepada Allah Taala dalam khalwat-khalwat ini, cahaya ar-rahabāt (kekaguman yang disertai rasa takut) menariknya dan ia naik ke derajat para murid. Para murid terbagi tiga bagian: bagian pertama ialah murid yang mencari hakikat-hakikat hatinya; bagian kedua ialah murid yang mencari penyingkapan atas hakikat-hakikat jiwanya; bagian ketiga ialah murid yang mencari hakikat suatu maqam dalam kedekatan kepada Tuhannya. Ia mempunyai dua tahap yang berurutan; mereka adalah ahli al-mawājid dan al-mawārid, penyingkapan rahasia, dan tajalli cahaya-cahaya hati. Bagian pertama ialah murid yang mencari hakikat-hakikat hatinya; hal itu karena hati mempunyai dua wajah.
 
 ### 4. Metode, Penentuan Jam, dan Catatan Penyunting
 

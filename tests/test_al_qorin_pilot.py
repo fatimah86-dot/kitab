@@ -27,6 +27,20 @@ EXPECTED_CROPS = [49, 58, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 76, 77, 78
                   82, 83, 84, 85, 86, 98, 109, 116, 120, 121]
 NO_CALC = "«tidak ada hitungan di halaman ini»"
 TRANSLATION_B01 = {"SAMPUL", "M01", "M02", "M03", "M04", "M05"}
+TRANSLATION_TOTAL_LATER = {
+    2: {
+        "M06": 8,
+        "M07": 7,
+        "M08": 7,
+        "M09": 6,
+        "M10": 4,
+        "M11": 3,
+        "M12": 3,
+        "M13": 3,
+        "M14": 3,
+        "M15": 3,
+    },
+}
 LAYERS = [
     "1. Arab",
     "2. Latin",
@@ -1656,6 +1670,58 @@ class MarkdownStructureTests(unittest.TestCase):
         self.assertIn("al-jadīdān", integrated["M03"]["terjemahan"][5])
         self.assertIn("di dunia dan di akhirat", integrated["M04"]["terjemahan"][7])
         self.assertIn("intisyāt", integrated["M05"]["terjemahan"][3])
+
+    def test_translation_total_later_batches_lock_both_masters(self):
+        import sys
+
+        scripts = str(ROOT / "scripts")
+        if scripts not in sys.path:
+            sys.path.insert(0, scripts)
+        from al_qorin_build_clean_user_edition import clean_translation
+
+        def layer3_paragraphs(block):
+            match = re.search(
+                r"^### 3\. Terjemahan\n\n(.*?)(?=^### |\Z)",
+                block,
+                flags=re.M | re.S,
+            )
+            self.assertIsNotNone(match)
+            return [
+                part.strip()
+                for part in match.group(1).strip().split("\n\n")
+                if part.strip()
+            ]
+
+        research = {uid: b for uid, _h, b in unit_blocks(self.integrated)}
+        clean_md = (ALQ / "AL_QORIN_123_BERSIH.md").read_text(encoding="utf-8")
+        clean = {uid: b for uid, _h, b in unit_blocks(clean_md)}
+        seen = set()
+        for batch_number, expected_counts in TRANSLATION_TOTAL_LATER.items():
+            path = ALQ / f"overrides_terjemahan_total_batch{batch_number:02d}.json"
+            payload = json.loads(path.read_text(encoding="utf-8"))
+            batch = payload["units"]
+            self.assertEqual(list(batch), list(expected_counts), batch_number)
+            self.assertTrue(seen.isdisjoint(batch), batch_number)
+            seen.update(batch)
+            for uid, expected_count in expected_counts.items():
+                entry = batch[uid]
+                self.assertEqual(set(entry), {"dasar", "terjemahan"}, uid)
+                self.assertGreaterEqual(len(entry["dasar"]), 60, uid)
+                self.assertEqual(len(entry["terjemahan"]), expected_count, uid)
+                self.assertEqual(layer3_paragraphs(research[uid]), entry["terjemahan"], uid)
+                expected_clean = [
+                    clean_translation(paragraph)
+                    for paragraph in entry["terjemahan"]
+                ]
+                expected_clean = [x for x in expected_clean if x]
+                self.assertEqual(layer3_paragraphs(clean[uid]), expected_clean, uid)
+                self.assertEqual(len(expected_clean), expected_count, uid)
+                label = "[CATATAN PENERJEMAH"
+                self.assertEqual(
+                    " \n".join(layer3_paragraphs(clean[uid])).count(label),
+                    " \n".join(entry["terjemahan"]).count(label),
+                    uid,
+                )
 
 
 class IntegratedDocxTests(unittest.TestCase):
