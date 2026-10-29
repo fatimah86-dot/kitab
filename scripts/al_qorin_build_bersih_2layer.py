@@ -107,29 +107,6 @@ STEP_OVERRIDES: dict[int, tuple[str, ...]] = {
     ),
 }
 
-# User-supplied FINAL pattern pages 64 and 65 use the same form: short
-# Arabic quotation first, then the Indonesian action stated by the page.
-PRACTICE_OVERRIDES: dict[int, tuple[str, tuple[str, ...], str]] = {
-    64: (
-        "قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ - اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ - خَاتَمُ سُلَيْمَانَ - مِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ",
-        (
-            "قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ إِنَّ اللَّهَ سَيُبْطِلُهُ - Baca kutipan Quran tentang sihir Musa dan ayat-ayat sesudahnya",
-            "اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ عَنْ فُلَانٍ كُلَّ سِحْرٍ - Baca doa agar sihir dan segala yang menyakiti Fulan dihilangkan",
-            "يُكْتَبُ وَيُحْمَلُ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ - Tulis dan bawa rangkaian itu dengan misk, za‘faran, dan air mawar, disertai lambang Khatam Sulaiman",
-        ),
-        "تَبْطِيلُ السِّحْرِ - pembatalan sihir",
-    ),
-    65: (
-        "إِنَاءٍ صِينِيٍّ - بِزَعْفَرَانٍ وَمَاءِ وَرْدٍ - بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ - خَاتَمُ سُلَيْمَانَ",
-        (
-            "يُكْتَبُ فِي إِنَاءٍ صِينِيٍّ بِزَعْفَرَانٍ وَمَاءِ وَرْدٍ - Tulis ayat-ayat dalam wadah porselen dengan za‘faran dan air mawar",
-            "وَيُمْحَى بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ - Hapus/larutkan tulisan dengan air sumur yang tidak melihat dua benda bercahaya",
-            "الم الم المص المر - Sertakan rangkaian huruf pembuka surah dan doa, lalu akhiri dengan lambang Khatam Sulaiman",
-        ),
-        "لِلتَّدَاوِي مِنَ الْمَرَضِ - untuk berobat dari penyakit",
-    ),
-}
-
 # The later user-supplied complete Pola 49 replaces the former short
 # Halaman 49 override.  It is kept as one verbatim Layer-2 block; the unit's
 # Layer 1 remains the full, unchanged page description.
@@ -264,6 +241,66 @@ Dihapus/dilarutkan dengan air (yumha) lalu diminumkan atau dipakai untuk orang s
 Tujuan tertulis:
 
 لِجَمِيعِ الْأَمْرَاضِ - untuk semua penyakit menurut judul yang tertulis di naskah."""
+
+# The connected user-supplied Pola 64+65 replaces only the two Layer-2
+# blocks.  The Layer-1 text accompanying that pattern is abbreviated and
+# omits locked repetitions, so both full Layer-1 bodies remain copied from
+# the source.  For the same reason, the Halaman 65 letter sequence below
+# uses the full locked sequence rather than the abbreviated sequence in
+# the pattern; the workflow-only crop note is not document content.
+POLA_64_TATACARA_LENGKAP = """Media:
+
+- Tulisan doa + 3 ayat pembatal sihir
+
+- خَاتَمُ سُلَيْمَانَ (gambar di Hal 64)
+
+- مِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ (misik, za'faran, air mawar)
+
+Langkah 1: Tulis ayat:
+
+قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ إِنَّ اللَّهَ سَيُبْطِلُهُ - وَقَدِمْنَا إِلَى مَا عَمِلُوا - إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ
+
+Langkah 2: Tulis doa:
+
+اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ عَنْ فُلَانٍ...
+
+Langkah 3: Tulis Khatam Sulaiman di bawah doa (lihat foto asli Hal 64)
+
+Langkah 4: Cara pakai:
+
+يُكْتَبُ وَيُحْمَلُ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ - Ditulis dengan misik, za'faran, air mawar, lalu dibawa.
+
+Tujuan: وَالنَّظْرَةِ السَّوْءِ وَالسِّحْرِ وَالتَّعْطِيلِ - untuk pandangan buruk, sihir, ta'thil menurut penulis."""
+
+POLA_65_TATACARA_LENGKAP = """Media:
+
+- إِنَاءٍ صِينِيٍّ (wadah porselen Cina)
+
+- زَعْفَرَانٍ وَمَاءِ وَرْدٍ (za'faran & air mawar untuk tinta)
+
+- مَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ (air sumur yang tidak terkena matahari & bulan)
+
+- خَاتَمُ سُلَيْمَانَ (gambar di Hal 65)
+
+Langkah 1: Tulis di dalam wadah porselen Cina dengan za'faran + air mawar:
+
+Ayat-ayat: ذَلِكَ تَخْفِيفٌ... يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ... وَلَهُ مَا سَكَنَ... إِنْ يَشَأْ يُسْكِنِ الرِّيحَ...
+
+Langkah 2: Tulis di bawahnya rangkaian huruf:
+
+الم الم المص المر الر المر كهيعص طه طسم الم الم الم الم الم يس ص حم حم عسق حم حم حم حم حم ق ن (seperti tercetak)
+
+Langkah 3: Tulis doa:
+
+بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ... اللَّهُمَّ اشْفِنِي أَنْتَ الشَّافِي...
+
+Langkah 4: Tulis Khatam Sulaiman di akhir (lihat foto Hal 65)
+
+Langkah 5: Cara pakai:
+
+يُمْحَى بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ - Dihapus/dilarutkan dengan air sumur tersebut, lalu airnya diminumkan/dipakai.
+
+Tujuan: لِلتَّدَاوِي مِنَ الْمَرَضِ - untuk berobat dari penyakit menurut penulis."""
 
 # Tujuan is never inferred from a general theme.  Each entry below is the
 # purpose/topic explicitly carried by the prose of the old practice section
@@ -685,9 +722,20 @@ def convert_practice(page: int, body: str) -> Practice | None:
             purpose="",
             raw_block=POLA_58_TATACARA_LENGKAP,
         )
-    if page in PRACTICE_OVERRIDES:
-        media, steps, purpose = PRACTICE_OVERRIDES[page]
-        return Practice(media=media, steps=steps, purpose=purpose)
+    if page == 64:
+        return Practice(
+            media="",
+            steps=("Langkah 1", "Langkah 2", "Langkah 3", "Langkah 4"),
+            purpose="",
+            raw_block=POLA_64_TATACARA_LENGKAP,
+        )
+    if page == 65:
+        return Practice(
+            media="",
+            steps=("Langkah 1", "Langkah 2", "Langkah 3", "Langkah 4", "Langkah 5"),
+            purpose="",
+            raw_block=POLA_65_TATACARA_LENGKAP,
+        )
 
     fields: dict[str, str] = {}
     prose: list[str] = []

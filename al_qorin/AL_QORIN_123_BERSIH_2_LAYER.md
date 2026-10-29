@@ -2590,15 +2590,29 @@ Doa berikutnya berbunyi: “Ya Allah, palingkanlah, angkatlah, dan hilangkanlah 
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ - اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ - خَاتَمُ سُلَيْمَانَ - مِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ
+Media:
 
-Langkah 1: قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ إِنَّ اللَّهَ سَيُبْطِلُهُ - Baca kutipan Quran tentang sihir Musa dan ayat-ayat sesudahnya
+- Tulisan doa + 3 ayat pembatal sihir
 
-Langkah 2: اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ عَنْ فُلَانٍ كُلَّ سِحْرٍ - Baca doa agar sihir dan segala yang menyakiti Fulan dihilangkan
+- خَاتَمُ سُلَيْمَانَ (gambar di Hal 64)
 
-Langkah 3: يُكْتَبُ وَيُحْمَلُ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ - Tulis dan bawa rangkaian itu dengan misk, za‘faran, dan air mawar, disertai lambang Khatam Sulaiman
+- مِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ (misik, za'faran, air mawar)
 
-Tujuan: تَبْطِيلُ السِّحْرِ - pembatalan sihir
+Langkah 1: Tulis ayat:
+
+قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ إِنَّ اللَّهَ سَيُبْطِلُهُ - وَقَدِمْنَا إِلَى مَا عَمِلُوا - إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ
+
+Langkah 2: Tulis doa:
+
+اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ عَنْ فُلَانٍ...
+
+Langkah 3: Tulis Khatam Sulaiman di bawah doa (lihat foto asli Hal 64)
+
+Langkah 4: Cara pakai:
+
+يُكْتَبُ وَيُحْمَلُ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ - Ditulis dengan misik, za'faran, air mawar, lalu dibawa.
+
+Tujuan: وَالنَّظْرَةِ السَّوْءِ وَالسِّحْرِ وَالتَّعْطِيلِ - untuk pandangan buruk, sihir, ta'thil menurut penulis.
 
 ## Halaman 65 — tulisan pengobatan dan lambang خاتم سليمان
 
@@ -2632,15 +2646,35 @@ Rangkaian huruf pembuka surah dalam teks ialah: Alif Lam Mim; Alif Lam Mim; Alif
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: إِنَاءٍ صِينِيٍّ - بِزَعْفَرَانٍ وَمَاءِ وَرْدٍ - بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ - خَاتَمُ سُلَيْمَانَ
+Media:
 
-Langkah 1: يُكْتَبُ فِي إِنَاءٍ صِينِيٍّ بِزَعْفَرَانٍ وَمَاءِ وَرْدٍ - Tulis ayat-ayat dalam wadah porselen dengan za‘faran dan air mawar
+- إِنَاءٍ صِينِيٍّ (wadah porselen Cina)
 
-Langkah 2: وَيُمْحَى بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ - Hapus/larutkan tulisan dengan air sumur yang tidak melihat dua benda bercahaya
+- زَعْفَرَانٍ وَمَاءِ وَرْدٍ (za'faran & air mawar untuk tinta)
 
-Langkah 3: الم الم المص المر - Sertakan rangkaian huruf pembuka surah dan doa, lalu akhiri dengan lambang Khatam Sulaiman
+- مَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ (air sumur yang tidak terkena matahari & bulan)
 
-Tujuan: لِلتَّدَاوِي مِنَ الْمَرَضِ - untuk berobat dari penyakit
+- خَاتَمُ سُلَيْمَانَ (gambar di Hal 65)
+
+Langkah 1: Tulis di dalam wadah porselen Cina dengan za'faran + air mawar:
+
+Ayat-ayat: ذَلِكَ تَخْفِيفٌ... يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ... وَلَهُ مَا سَكَنَ... إِنْ يَشَأْ يُسْكِنِ الرِّيحَ...
+
+Langkah 2: Tulis di bawahnya rangkaian huruf:
+
+الم الم المص المر الر المر كهيعص طه طسم الم الم الم الم الم يس ص حم حم عسق حم حم حم حم حم ق ن (seperti tercetak)
+
+Langkah 3: Tulis doa:
+
+بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ... اللَّهُمَّ اشْفِنِي أَنْتَ الشَّافِي...
+
+Langkah 4: Tulis Khatam Sulaiman di akhir (lihat foto Hal 65)
+
+Langkah 5: Cara pakai:
+
+يُمْحَى بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ - Dihapus/dilarutkan dengan air sumur tersebut, lalu airnya diminumkan/dipakai.
+
+Tujuan: لِلتَّدَاوِي مِنَ الْمَرَضِ - untuk berobat dari penyakit menurut penulis.
 
 ## Halaman 66 — doa perlindungan dan rajah الشفاء
 
