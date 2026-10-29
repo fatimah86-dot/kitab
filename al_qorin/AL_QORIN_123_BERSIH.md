@@ -1032,11 +1032,11 @@ Al-wajhul awwalul iimaanu: al-iimaanu wa huwal ladzii kataballaahu fii qalbihil 
 
 ### 3. Terjemahan
 
-Wajah jiwa, yaitu yang dengannya ia menangkap jejak-jejak malakut, hakikat jabarut, dan penjelmaan cahaya-cahaya; kepadanya isyarat firman-Nya—Mahatinggi—: «Dan demikianlah Kami perlihatkan kepada Ibrahim kerajaan langit dan bumi» (QS al-An‘am 6:75). Sebagian muhaqqiq berkata: yang dimaksud adalah wajah hati, karena sisi penubuhan tidak menangkap kecuali yang memiliki wajah dan mata, sedangkan hati dapat menangkap apa yang menjadi wajahnya. Di antaranya firman-Nya—Mahatinggi—: «Aku menghadapkan wajahku kepada Yang menciptakan langit dan bumi dengan lurus» (QS al-An‘am 6:79); sebagian mereka berkata: yang dimaksud adalah wajah hatinya.
+Wajah jiwa ialah sisi yang dengannya ia mengetahui bekas-bekas malakut, hakikat-hakikat jabarut, dan tajalli cahaya-cahaya. Kepadanyalah isyarat firman Allah Taala: “Dan demikianlah Kami memperlihatkan kepada Ibrahim malakut langit dan bumi.” Sebagian al-muhaqqiq berkata bahwa yang dimaksud ialah wajah hati, karena wajah penjasadan hanya mengetahui sesuatu yang mempunyai wajah dan ‘ayn, sedangkan wajah hati mengetahui “mil’a wajhin lahu”—susunan frasa ini belum mantap. Termasuk dalam pengertian itu firman-Nya: “Aku menghadapkan wajahku kepada Zat yang menciptakan langit dan bumi dengan lurus.” Sebagian mereka berkata bahwa yang dimaksud ialah wajah hatinya.
 
-Wajah kedua: yang dimaksud adalah zat kemanusiaan, yaitu yang dengannya ia bertindak dalam kerajaan (alam) dan menangkap jejak-jejak alam penyaksian serta hakikat-hakikat perputaran perbuatan. Kemudian ada dua wajah lagi.
+Wajah kedua dimaksudkan sebagai zat insani. Dengannya manusia bertindak dalam al-mulk dan mengetahui bekas-bekas alam kesaksian serta hakikat beragamnya perbuatan. Kemudian ada dua wajah lain.
 
-Wajah pertama, iman: yaitu iman yang Allah tuliskan dalam hatinya, dan ia adalah lathifah kemanusiaan yang rabbani, yang menangkap cahaya-cahaya lembaran (wahyu) dan kenabian tajalli; hal itu bagi pemilik keadaan dalam muamalat dan ahli manazalat. Wajah kedua, nama-nama: yaitu yang Allah titipkan padanya ilmu dan kelembutan nama-nama, yang membentuk makna-makna bagaimana ia muncul dari hakikat ruh dan peredaran perbuatan menurut tuntutan ilmu; dan ia yang «…»
+Wajah pertama ialah iman: iman yang Allah tuliskan di dalam hatinya. Ia adalah lathifah insani yang Rabbani, yang mengetahui cahaya-cahaya as-shafahat (halaman-halaman) dan “kenabian tajalli”—susunan istilah ini dipertahankan apa adanya. Hal itu bagi para pemilik ahwal dalam muamalat dan para ahli munazalat. Wajah kedua ialah nama-nama: Allah menitipkan ilmu dan kelembutan nama-nama di dalamnya. Makna-makna mengambil bentuk melalui wajah ini ketika muncul dari hakikat ruh dan berlangsungnya perbuatan sesuai tuntutan ilmu. Ia pula yang …
 
 ### 4. Syarah
 
@@ -1066,11 +1066,11 @@ Al-wajhatul uulaa wa huwal ladzii yatajallaa fiihi 'aalamul ikhtiraa'il khaariju
 
 ### 3. Terjemahan
 
-Ia menyingkap hakikat-hakikat wujud: bagaimana ia berdiri dengan nama-nama dan perbuatan-perbuatan, dan bagaimana (wujud itu) dari yang menyatukan Allah—Mahatinggi—atas kelangsungan keberadaannya; baik tauhid nama-nama maupun tauhid perbuatan. Kemudian wajah-wajah lain: wajah untuk menyaksikan perkara yang Mahatinggi, yaitu yang dengannya Kitab Allah—Mahatinggi—dibaca dan dengannya kelembutan al-Qur'an yang agung dipahami; dengannya ia bertindak dalam ilmu pemahaman dan terbuka baginya lapangan takwil, sehingga Kitab Allah—Mahatinggi—dipahami sesuai kadar yang Allah—Mahatinggi—khususkan kepadanya menurut yang Dia kehendaki.
+… menyingkapkan hakikat segala maujud: bagaimana maujud itu tegak dengan nama-nama dan perbuatan-perbuatan, dan bagaimana kelangsungan wujudnya berasal dari Zat yang mengesakannya, yaitu Allah Taala—baik dalam tauhid nama-nama maupun tauhid perbuatan. Kemudian ada dua wajah lain: wajah untuk menyaksikan al-amr al-‘ulya, yang dengannya Kitab Allah Taala dibaca dan kelembutan Al-Qur'an yang agung dipahami. Dengannya seseorang bergerak dalam ilmu pemahaman dan menjadi lapang di arena takwil, sehingga Kitab Allah Taala dipahami menurut kadar yang Allah khususkan baginya, sesuai dengan yang Dia kehendaki.
 
-Wajah kedua, yaitu alam perkara yang Mahatinggi, yakni yang terbit dari kalimat pertama; ia yang menyaksikan hakikat dan rahasia sunnah, dan ia yang mengikuti Rasul—semoga Allah melimpahkan salawat dan salam kepadanya—dalam perbuatan, ucapan, perintah, dan larangannya. Dengannya diketahui kedudukan Rasul—semoga Allah melimpahkan salawat dan salam kepadanya—dalam al-Qur'an dari Allah—Mahasuci dan Mahatinggi. Maka ia menjaga adab pada lahir dan batin; ia memahami dari Rasul—semoga Allah melimpahkan salawat dan salam kepadanya—apa yang beliau kehendaki dalam hukum-hukum sunnahnya dan kelembutan hikmahnya. Kemudian ada dua wajah lagi.
+Wajah kedua ialah alam perintah yang tertinggi, yaitu yang terbit dari Kalimat pertama. Dengannya seseorang menyaksikan hakikat dan rahasia sunah serta mengikuti Rasul ﷺ dalam perbuatan, ucapan, perintah, dan larangan beliau. Dengannya pula diketahui kedudukan Rasul ﷺ dalam Al-Qur'an dari Allah, Mahasuci dan Mahatinggi Dia, sehingga orang itu senantiasa beradab lahir dan batin serta memahami dari Rasul ﷺ maksud beliau dalam hukum-hukum sunahnya dan kelembutan hikmahnya. Kemudian ada dua wajah lain.
 
-Wajah pertama, yaitu yang padanya tampak alam penciptaan baru (ikhtira‘) yang keluar dari lembaran contoh; bahkan ia adalah penampakan kekuasaan atas [penghimpunan], dan dengannya disaksikan «…»
+Wajah pertama ialah sisi tempat alam ikhtira‘ (penciptaan baru) bertajalli; alam itu berada di luar ribq al-mitsal (lingkaran perumpamaan). Bahkan ia adalah penampakan kekuasaan atas [al-jam‘]—kata dalam kurung siku pada sumber belum pasti—dan dengannya disaksikan …
 
 ### 4. Syarah
 
@@ -1100,11 +1100,11 @@ Wa minhu qawluhu 'azza wa jalla: «Wa taraahum yanzhuruuna ilaika wa hum laa yub
 
 ### 3. Terjemahan
 
-«…» hakikat alam pada generasi pertama (dzurriyah) sebelum mereka masuk ke alam perwujudan dan pembentukan, sehingga di sisinya menjadi agung perkara Allah—Mahatinggi—dan ketetapan-Nya secara keseluruhan. Wajah kedua, wajah fatq (pembukaan): yaitu yang pada cerminnya tampak alam ibda‘ (penciptaan tanpa bahan), karena ia terkait dengan pengaturan, sebagaimana alam ikhtira‘ terkait dengan kekuasaan; dengannya ia menyaksikan alam-alam fitrah dan bagaimana ia tersusun dengan rahasia kehendak yang Mahatinggi; dan Allah—Mahasuci—menjadikan «…»
+… hakikat alam pada keturunan pertama sebelum mereka berada dalam alam penggambaran dan pembentukan, sehingga perkara Allah Taala dan ketetapan-Nya menjadi agung di sisinya secara keseluruhan. Wajah kedua ialah wajah al-fatq (pembukaan), yaitu cermin tempat alam ibda‘ bertajalli. Alam ibda‘ bergantung pada kehendak, sebagaimana alam ikhtira‘ bergantung pada kekuasaan. Dengannya ia menyaksikan alam-alam fitrah dan bagaimana alam itu tersusun melalui rahasia kehendak tertinggi. Allah Mahasuci menjadikan …
 
-«…»rahasia-rahasia penyatuannya dalam alam penghimpunan. Dialah yang Mahasuci dalam panjang-panjang wujud; dan jika wujud bertambah dengan perbedaan tatanannya, ia tampak dengan hikmah tersembunyi dan kekhususan qadari. Inilah wajah-wajah hati; kemudian ia memiliki dua mata. Di antaranya sabda beliau—semoga Allah melimpahkan salawat dan salam kepadanya—: «Takutlah pada firasat orang mukmin, karena ia melihat dengan cahaya Allah—Mahatinggi».
+… rahasia tauhidnya dalam alam al-jam‘ (penghimpunan). Dialah yang mahasuci pada tahap-tahap segala maujud. Sekalipun susunan “menambah wujud” di atas perbedaan tatanannya belum mantap, maksud penulis ialah bahwa wujud itu muncul dengan hikmah tersembunyi dan pengistimewaan qadari. Inilah wajah-wajah hati; kemudian hati mempunyai dua mata. Termasuk dalil yang dikemukakan penulis ialah ucapan yang ia nisbatkan kepada Nabi ﷺ: “Waspadalah terhadap firasat orang mukmin, karena ia memandang dengan cahaya Allah Taala.”
 
-Dan di antaranya firman-Nya—Yang Mahaperkasa lagi Mahaagung—: «Dan engkau melihat mereka memandang kepadamu, padahal mereka tidak melihat» (QS al-A‘raf 7:198); dan Dia—Mahatinggi—berfirman: «Maka sesungguhnya bukan mata yang buta, tetapi yang buta adalah hati yang ada dalam dada» (QS al-Hajj 22:46). Inilah isyarat-isyarat mata hati; kemudian ada dua mata lagi.
+Termasuk pula firman Allah ‘Azza wa Jalla: “Engkau melihat mereka memandang kepadamu, padahal mereka tidak melihat.” Allah Taala juga berfirman: “Sesungguhnya bukan penglihatan mata yang buta, melainkan hati yang di dalam dada itulah yang buta.” Inilah isyarat-isyarat mengenai mata hati. Kemudian ada dua mata lain.
 
 ### 4. Syarah
 
@@ -1134,9 +1134,9 @@ Al-'ainuts tsaaniyatu: lit tarkiibil insaaniyyi wal 'aalamis sufliyyi 'alal juml
 
 ### 3. Terjemahan
 
-Bab ketiga: rahasia-rahasia hati. Yang pertama adalah bagi jiwa; ia menyingkap alam langit, tingkat-tingkat falak, tasbih para karubiyyin, bagaimana Allah—Mahatinggi—menyusun peredaran falak-falaknya, perbedaan bentuk para malaikatnya, dan macam-macam peribadatan penghuninya. Inilah rahasia hati yang pertama.
+Bab Ketiga: Rahasia-rahasia Hati. Mata pertama adalah bagi jiwa. Menurut penulis, mata ini menyingkapkan alam langit, tingkatan falak, tasbih para Karubiyyin, cara Allah Taala menyusun peredaran falaknya, perbedaan bentuk para malaikatnya, dan beragam ibadah penghuninya. Inilah rahasia hati yang pertama.
 
-Mata kedua: untuk susunan manusia dan alam bawah secara keseluruhan; dengannya disingkap rahasia-rahasia Allah—Mahatinggi—yang dengan-Nya Dia menegakkan bumi-bumi, dan (rahasia) burung nasar yang dengannya Allah mengangkat langit-langit dengan tiang-tiang kekuasaan dan penopang kehendak. Ini senantiasa dalam peredaran atau saluran yang digilirkan oleh tangan-tangan pikiran dan macam-macam tangan pengaturan. Kemudian dua mata lagi: mata yang memandang dengan cahaya-cahaya iman, yang dengannya ia menyaksikan alam-alam Kursi dan bagaimana Allah menitipkan padanya bentuk-bentuk wujud dan macam-macam khalwat; dan dipahami rahasia peletakan yang dengannya Kursi-Nya meliputi langit dan bumi.
+Mata kedua adalah bagi susunan insani dan alam bawah secara keseluruhan. Dengannya tersingkap rahasia-rahasia Allah Taala yang dengan rahasia itu Dia mengukuhkan bumi-bumi, serta rahasia yang dengannya Allah mengangkat langit dengan penopang kekuasaan dan tiang kehendak. Hal ini senantiasa berada dalam peredaran atau suatu qanah—istilah sumber ini belum jelas—yang dipergilirkan oleh tangan-tangan pikiran dan berbagai “tangan” pengaturan. Kemudian ada dua mata lain: mata yang memandang dengan cahaya iman. Dengannya, menurut penulis, ia menyaksikan alam-alam Kursi dan cara Allah menitipkan di dalamnya bentuk-bentuk segala maujud serta berbagai khalwat; ia juga memahami rahasia penempatan yang dengannya Kursi-Nya meliputi langit dan bumi.
 
 ### 4. Syarah
 
@@ -1164,11 +1164,11 @@ Al-'ainuts tsaaniyatu wa hiyal latii tanzhuru binuuri 'aalamil amri wa hiyal lat
 
 ### 3. Terjemahan
 
-Mata kedua: memandang dengan cahaya-cahaya nama-nama; dengannya Lauh Mahfuz terpandang dan disingkap rahasia apa yang Allah—Mahatinggi—titipkan padanya berupa macam-macam kehendak-Nya dalam fase-fase wujudnya sesuai yang dibagikan baginya. Penyingkapannya dengan kekuasaan rabbani; dan ini «…» pergerakannya sehingga Ia melepaskannya dan memuliakannya atas kita, seperti ucapan Abu Bakar—semoga Allah meridainya—: «Aku tidak melihat sesuatu kecuali aku melihat Allah sebelumnya»; maka ia melihat segala sesuatu dengan Allah—Mahatinggi.
+Mata kedua memandang dengan cahaya nama-nama. Menurut penulis, dengannya Lauh Mahfuz dipandang—susunan Arab pada bagian ini belum mantap—dan tersingkap rahasia yang Allah Taala titipkan di dalamnya berupa ragam kehendak-Nya pada tahap-tahap maujud-Nya, menurut bagian yang ditetapkan baginya. Penyingkapannya terjadi dengan kekuasaan Rabbani. Frasa berikutnya, yang menyebut gerakan-gerakannya “tidak ditentukan sampai Ia melepaskannya dan memuliakannya di atas kami”, hubungannya belum dapat ditetapkan. Penulis mengaitkannya dengan ucapan yang ia nisbatkan kepada Abu-Bakr—semoga Allah meridainya—: “Aku tidak melihat sesuatu melainkan aku melihat Allah sebelumnya,” sehingga orang itu melihat segala sesuatu dengan Allah Taala.
 
-Kemudian dua mata lagi: mata yang dengannya ia memandang rahasia perkara (amr), yaitu batin kekuasaan; dengannya Allah—Mahatinggi—menyingkap rahasia ilmu qadari yang menulis sebab-sebab hukum kekuasaan, dan ia menyaksikan rahasia apa yang Allah—Mahatinggi—titipkan berupa rahasia amr dan batin qadar yang tersusun. Mereka itulah yang disergap fana dalam perbuatan dan tenggelam dalam «…» (maqam); mereka adalah yang berbicara dengan prinsip-prinsip hikmah.
+Kemudian ada dua mata lain. Pertama, mata untuk memandang rahasia al-amr, yaitu batin kekuasaan. Dengannya Allah Taala menyingkapkan rahasia ilmu qadari yang menulis sebab-sebab ketetapan kekuasaan. Orang itu menyaksikan rahasia yang Allah Taala titipkan dari rahasia al-amr dan batin qadar yang tertata. Menurut penulis, merekalah orang-orang yang diliputi fana dalam perbuatan dan tenggelam dalam al-hal; mereka adalah orang-orang yang mengucapkan prinsip-prinsip hikmah.
 
-Mata kedua, yaitu yang memandang dengan cahaya alam amr; dengannya ia menyaksikan hakikat-hakikat bentuk dan bagaimana pembagian «…» Israfil, yaitu sosok yang memandang dari-Ku «…» dengan peniupan, lalu ia menyaksikan hakikat-hakikat peniupan.
+Mata kedua memandang dengan cahaya alam al-amr. Dengannya disaksikan hakikat bentuk-bentuk dan cara pembagian bagi Israfil. Ia adalah sosok yang menunggu saat diperintahkan meniup; dan ia menyaksikan hakikat peniupan itu.
 
 ### 4. Syarah
 
@@ -1194,9 +1194,9 @@ Wa kasyfu arwaahil maujuudaati fatuubatuhaa wa sufliyyuhaa li'atiiqihaa wa kaifi
 
 ### 3. Terjemahan
 
-Dan penyingkapan ruh-ruh wujud: maka bagian atasnya dan bagian bawahnya, bagi yang tua dan yang muda, kualitasnya, yang kecil dan yang besar, yang ruhani dan yang jasmani; setiap ruh memiliki lubang pada bentuk-bentuk, dan disingkap dalam suatu hakikat; disingkap lubang yang tersambung dengan ahli keterputusan dan lubang yang rendah pada ahli kesengsaraan; dan (ada) penguasa setiap jiwa sesuai jumlah jiwa wujud; mereka memandang hikmah ilahiah. Ini termasuk rahasia lathifah yang tidak ditangkap dengan ilmu, melainkan dengan kasyaf. Kemudian ia memiliki dua mata lagi.
+Menurut penulis, tersingkap pula ruh-ruh segala maujud—yang atas dan bawah, yang padat dan halus, yang kecil dan besar, yang ruhani dan jasmani. Setiap ruh mempunyai lubang pada ash-Shur dan hakikatnya tersingkap baginya. Tersingkap pula lubang-lubang yang terhubung dengan ahli ketaatan dan lubang-lubang yang khusus bagi ahli kesengsaraan. Malaikat-malaikat setiap jiwa, sebanyak jiwa segala maujud, memandang hikmah Ilahiyah. Penulis menyatakan bahwa ini termasuk rahasia al-lathifah, yang tidak diketahui dengan ilmu melainkan dengan kasyaf. Kemudian ia mempunyai dua mata lain.
 
-Mata yang memandang dengan cahaya-cahaya kekuasaan secara keseluruhan; dengannya ia menyaksikan Arasy Yang Maha Pengasih, Yang meliputi dengan pengambilan wujud-wujud, dan bagaimana delapan (malaikat) memikulnya, yang Allah beritakan tentang mereka dalam Kitab-Nya yang mulia.
+Salah satunya ialah mata yang memandang dengan cahaya kekuasaan secara menyeluruh. Dengannya, menurut penulis, ia menyaksikan Arasy ar-Rahman dan yang meliputi asal-usul segala maujud, serta cara delapan malaikat memikul Arasy itu—delapan malaikat yang Allah beritakan dalam Kitab-Nya yang mulia.
 
 ### 4. Syarah
 
@@ -1224,9 +1224,9 @@ Al-'ainuts tsaaniyatu tanzhuru bi-anwaaril iftiyaaqi wa hiyal latii yudraku biha
 
 ### 3. Terjemahan
 
-Bab keempat: Penyingkapan dari Allah. Ketahuilah bahwa Kursi, Lauh, Pena, langit-langit, dan bumi, dalam perbandingan dengan salah satu tiang Arasy yang delapan, adalah seperti cincin yang dilemparkan di hamparan bumi; maka ia tercengang dalam mata tauhid dan tenggelam dalam taman-taman tajrid dan tafrid.
+Bab Keempat: Kasyaf dari Allah. Ketahuilah bahwa Kursi, Lauh, Pena, langit, dan bumi—dibandingkan dengan satu penopang dari delapan penopang Arasy—seperti cincin yang dilemparkan di tanah lapang. Seseorang pun menjadi terpesona dalam mata tauhid dan tenggelam dalam taman-taman tajrid dan tafrid.
 
-Mata kedua memandang dengan cahaya-cahaya keterbukaan; dengannya ditangkap lathifah yang Allah titipkan dalam hati orang-orang mukmin sehingga mereka menangkap hal itu secara ilmu dan kasyaf. Seandainya bukan karena lathifah ini—dengan kekhususan (yang ada padanya)—tentu kita tidak akan menangkap yang menangkap itu, baik zatnya maupun selainnya. Maka apabila ia lemah menangkap zat dirinya yang wujud dan indrawi, dan zat selainnya, baik secara kasyaf maupun ilmiah, bagaimana ia akan menangkap hakikat-hakikat tauhid atau memahami dari Allah—Mahatinggi—melalui lisan Nabi-Nya—semoga Allah melimpahkan salawat dan salam kepadanya? Adapun lathifah itu adalah sesuatu yang Allah—Mahatinggi—Yang Maha Esa titipkan; Dia memilih siapa yang Dia kehendaki dari hamba-hamba-Nya secara keseluruhan: di antara mereka ada yang disingkapkan kepadanya secara keseluruhan, ada yang disingkapkan kepadanya secara terperinci, dan ada yang disingkapkan kepadanya secara keseluruhan dan terperinci; mereka itulah para rasul—semoga salawat dan salam dilimpahkan kepada mereka.
+Mata kedua memandang dengan cahaya kerinduan. Dengannya diketahui al-lathifah yang Allah titipkan dalam hati orang-orang mukmin sehingga mereka mengetahui hal itu melalui ilmu dan kasyaf. Seandainya bukan karena lathifah khusus ini, kita tidak akan mengetahui pengetahui itu, baik zatnya maupun selainnya. Jika seseorang tidak mampu mengetahui zat dirinya yang wujud dan dapat diindra, serta zat selainnya, melalui kasyaf atau pengetahuan, bagaimana ia mengetahui hakikat tauhid atau memahami firman Allah Taala melalui lisan Nabi-Nya ﷺ? Lathifah ini dititipkan Allah Yang Maha Esa; Dia memilihnya bagi siapa yang Dia kehendaki di antara hamba-hamba-Nya secara keseluruhan. Sebagian mereka disingkapkan baginya secara keseluruhan, sebagian secara terperinci, dan sebagian secara keseluruhan sekaligus terperinci—menurut penulis, mereka itulah para rasul, semoga salawat dan salam tercurah kepada mereka.
 
 ### 4. Syarah
 
@@ -1254,11 +1254,11 @@ Al-khizaanatuts tsaaniyatu wa hiya khizaanatu 'aalamil amri wa hiyal latii fiiha
 
 ### 3. Terjemahan
 
-Dan yang paling agung di antara mereka dalam hal itu adalah orang bijak kami, Nabi kami Muhammad—semoga Allah melimpahkan salawat dan salam kepadanya. Kemudian padanya ada dua khazanah: khazanah jiwa menurut perbedaan isyarat dalam alam huruf, yaitu yang memunculkan makna-makna yang menunjukkan hakikat-hakikat tertentu; dan khazanah kedua, khazanah indra, yaitu yang padanya dititipkan rahasia-rahasia industri, rahasia pengaturan alami, dan perbedaan fase syahwat dalam macam-macam pasangan.
+Yang paling agung di antara mereka dalam hal itu ialah kekasih dan Nabi kita, Muhammad ﷺ. Kemudian di dalamnya ada dua khazanah. Pertama, khazanah jiwa dalam beragam isyarat di alam huruf; khazanah ini memunculkan makna-makna yang menunjukkan hakikat-hakikat khusus. Kedua, khazanah indra; di dalamnya Allah menitipkan rahasia karya-karya, rahasia pengaturan alami, dan perbedaan tahap syahwat dalam berbagai jenis campuran.
 
-Yang lembut untuk yang lembut dan yang kasar untuk yang kasar. Kemudian padanya ada dua khazanah: khazanah perkara yang paling tinggi, yaitu yang padanya terdapat Kitab Allah—Mahatinggi—dan ia terikat sampai dibacakan oleh pembaca, lalu terbuka dan al-Qur'an tampak dalam zat-zat huruf. Maka siapa yang membaca secara lahir seperti orang yang membuka (sesuatu) yang terikat; dan siapa yang membaca secara batin, maka pembukaannya terus-menerus. Inilah yang menyaksikan hakikat-hakikat ayat sebagai ayat-ayat yang lahir dan alam-alam kekuasaan yang menundukkan.
+Yang halus bagi yang halus dan yang padat bagi yang padat. Kemudian di dalamnya ada dua khazanah lagi. Pertama, khazanah perintah tertinggi, tempat Kitab Allah Taala berada. Khazanah itu terkunci sampai pembaca membacanya, lalu ia terbuka dan Al-Qur'an muncul dalam wujud huruf-huruf. Siapa yang membaca secara lahir bagaikan membuka sesuatu yang terikat; siapa yang membaca secara batin, pembukaannya berlangsung terus. Orang inilah, menurut penulis, yang menyaksikan hakikat ayat-ayat sebagai ayat-ayat yang tampak dan alam-alam kekuasaan yang maha menundukkan.
 
-Khazanah kedua, yaitu khazanah alam amr; padanya terdapat rahasia-rahasia sunnah, dan dengannya pembenaran (tashdiq); ia terkunci sampai bergerak suatu gerakan yang terkait dengan sunnah sebagai mukmin, lalu terbukalah pintunya. Dan sesungguhnya gerakan-gerakannya dalam sunnah pada waktu tertentu, dibukakan baginya suatu pembukaan; dan apa «…» dan sesungguhnya seluruh gerakannya dengan sunnah, pintu itu senantiasa terbuka. Maka jika ia mengambil sisi lahir sunnah «…»
+Khazanah kedua ialah khazanah alam perintah, tempat rahasia sunah berada dan yang dengannya terjadi pembenaran. Ia terkunci sampai orang itu melakukan gerakan yang berkaitan dengan sunah dalam keadaan beriman, lalu pintunya terbuka. Jika gerakan-gerakannya menurut sunah hanya pada waktu-waktu tertentu, pembukaan baginya bersifat sementara; jika seluruh gerakannya menurut sunah, pintunya senantiasa terbuka. Jika ia mengambil sisi lahir sunah …
 
 ### 4. Syarah
 
@@ -1284,9 +1284,9 @@ Al-khizaanatuts tsaaniyatu fiihaa sirrul fatqi wa hiyal latii fiihaa asraarul ir
 
 ### 3. Terjemahan
 
-Dan batinnya, maka dibukakan baginya sisi lahir dan batin pintu itu. Kemudian padanya ada dua khazanah: khazanah lima ratq (ikatan), yaitu yang padanya terdapat rahasia-rahasia qadar. Maka apabila ia memikirkan sebab-sebab kekuasaan, dibukakan baginya sisi lahir pintu; maka apabila ia naik ke hakikat sebab-sebab, dibukakan baginya pintu batin, sehingga ia menyaksikan qadar dan bagaimana ia mengatur wujud-wujud sesuai pilihan ilahi. Dari sini Abu Yazid—semoga Allah meridainya—berkata: «Aku berdiam empat puluh tahun, aku keluar dari rumahku tanpa tahu ke mana aku pergi.» Maknanya: tidak terpecah oleh gerakan-gerakan qadar yang mendahului; apabila ia memandang, (ia) tidak melampaui pengangkatan qadar.
+… dan sisi batinnya, maka sisi lahir dan sisi batin pintu itu dibukakan baginya. Kemudian ia mempunyai dua khazanah. Pertama, khazanah rasa ar-ratq (penutupan), tempat rahasia qadar berada. Jika ia memikirkan sebab-sebab kekuasaan, sisi lahir pintu dibukakan baginya; jika ia naik kepada hakikat sebab-sebab itu, pintu batin dibukakan baginya. Menurut penulis, ia kemudian menyaksikan qadar dan cara qadar menggerakkan segala maujud sesuai pilihan Ilahi. Dari sinilah penulis mengutip ucapan Abu Yazid—semoga Allah meridainya—: “Aku tinggal selama empat puluh tahun; aku keluar dari rumahku tanpa mengetahui ke mana aku pergi.” Maknanya ialah tidak adanya pemisahan dalam gerak qadar yang telah mendahului; apabila ia memandang, ia tidak melampaui raf‘ al-qadar—maksud tepat frasa penutup ini belum mantap.
 
-Khazanah kedua: padanya terdapat rahasia fatq (pembukaan), yaitu yang padanya terdapat rahasia-rahasia kehendak. Maka apabila ia memandang perbedaan napas-napas, penataan indra-indra, dan bagaimana alam makhluk berada dalam lautan penciptaan, lalu ia memandang itu secara ilmu, dibukakan baginya pintu hikmah. Ia dibukakan bagi pemilik ilham, yaitu orang-orang yang Allah munculkan (muhaddatsun) yang disebut Nabi—semoga Allah melimpahkan salawat dan salam kepadanya; bagi pemilik kasyaf, yaitu para pemilik tahqiq; dan bagi pemilik firasat, yaitu orang-orang yang kokoh langkahnya dalam hakikat iman. Maka siapa yang sempurna baginya panjang-panjang ini, dibukakan baginya pintu secara batin dan lahir.
+Khazanah kedua memuat rahasia al-fatq (pembukaan), yaitu tempat rahasia kehendak berada. Jika ia memandang perbedaan napas, tersusunnya indra, dan cara makhluk berenang dalam lautan penciptaan, lalu memandang hal itu sebagai pengetahuan, pintu hikmah dibukakan baginya. Menurut penulis, khazanah ini dibuka bagi pemilik ilham—mereka adalah al-muhaddatsun yang disebutkan Nabi ﷺ—bagi pemilik kasyaf—mereka adalah para ahli tahqiq—dan bagi pemilik firasat—mereka yang kokoh pijakannya dalam hakikat iman. Siapa yang tahap-tahap ini telah sempurna baginya, sebuah pintu dibukakan baginya secara batin dan lahir.
 
 ### 4. Syarah
 
@@ -1314,11 +1314,11 @@ Wa hum khawaashshul auliyaa-i wa jawaahirul ashfiyaa-i.
 
 ### 3. Terjemahan
 
-Kemudian khazanah nama-nama, yaitu yang padanya Allah—Mahatinggi—menitipkan rahasia nama-nama-Nya yang terbaik dan nama-nama seluruh makhluk-Nya, secara keseluruhan dan terperinci.
+Kemudian khazanah nama-nama, yaitu tempat Allah Taala menitipkan rahasia nama-nama-Nya yang paling baik dan nama-nama seluruh makhluk-Nya, baik secara keseluruhan maupun secara terperinci.
 
-Maka siapa yang perbuatan-perbuatan menguasainya, dibukakan baginya sisi lahir pintu, sehingga ia menangkap nama-nama wujud dengan berbagai macamnya; dan siapa yang keadaan menguasainya, disingkapkan baginya dalam keadaan nama-nama Allah «al-khazarnad» sesuai kemampuan keadaan itu atas hakikat kejujuran, sehingga Allah—Mahatinggi—menyelaraskan dengan nama-nama-Nya yang tersimpan.
+Siapa yang dikuasai oleh perbuatan-perbuatan, sisi lahir pintu dibukakan baginya sehingga ia mengetahui nama-nama segala maujud dalam berbagai jenisnya. Siapa yang dikuasai oleh al-hal, menurut penulis, dalam keadaan nama-nama Allah yang paling baik akan disingkapkan baginya menurut kuatnya keadaan itu dalam hakikat kejujuran, dan Allah Taala akan bertajalli dengan nama-nama-Nya yang tersimpan.
 
-Mereka itulah orang-orang khusus di antara para wali dan permata para insan pilihan.
+Mereka adalah orang-orang khusus di antara para wali dan permata orang-orang pilihan yang suci.
 
 ### 4. Syarah
 
@@ -1354,11 +1354,11 @@ Fa-idzaa aradta an ta'lama haadzihil khazaa-ina maujuudatan fil quluubi am laa f
 
 ### 3. Terjemahan
 
-Bab kelima: khazanah tauhid. Khazanah tauhid ialah yang kepadanya menghadapkan wajahnya ahli kejujuran bersama Allah—Mahatinggi—ketika mereka mendapati diri dalam mengabdi kepada Tuhan mereka; juga ahli tahqiq dalam hakikat mereka, dan ahli keadaan dalam keadaan mereka, ketika Allah mengetahui kesungguhan dan keikhlasan amal mereka.
+Bab Kelima: Khazanah Tauhid. Khazanah tauhid adalah khazanah yang menghadapkan wujudnya kepada ahli kejujuran bersama Allah Taala ketika mereka bersungguh-sungguh melayani Tuhan mereka, kepada ahli tahqiq dalam hakikat mereka, dan kepada ahli hal dalam keadaan mereka, ketika Allah mengetahui kesungguhan dan keikhlasan amal mereka.
 
-Maka dibukakan bagi mereka khazanah ini agar hembusan kedekatan memberi, sehingga keridaan dikenali pada napas-napas orang yang berjalan menuju Allah—Mahatinggi—lalu ia menyegarkan dan melegakan mereka. Maka siapa yang tetap keridaannya atas ketetapan, bersama kesabaran, tawakal, dan keyakinan, ia pun terbentang dengan ruh taman ma‘rifat dari khazanah tauhid.
+Khazanah ini dibukakan bagi mereka agar hembusan kedekatan berembus. Keridaan pun diketahui pada napas para penempuh jalan menuju Allah Taala; ia menghidupkan dan menyenangkan mereka. Siapa yang keridaannya terhadap qada tetap teguh bersama kesabaran, tawakal, dan keyakinan, menurut penulis ia beristirahat dengan kesegaran taman makrifat dari khazanah tauhid.
 
-Maka apabila engkau ingin mengetahui apakah khazanah-khazanah ini ada di dalam hati atau tidak, ketahuilah bahwa hati adalah tempat diturunkannya al-Qur'an yang agung; ia adalah hakikat yang menerima Kitab Allah—Yang Mahaperkasa lagi Mahaagung—dengan rahasia iman yang tersimpan di dalamnya. Al-Qur'an adalah himpunan segala sesuatu dalam nama-nama, perbuatan-perbuatan, dan selain itu, yang tidak diketahui kecuali oleh Allah—Mahatinggi—; karena itu Dia berfirman dalam Kitab-Nya yang mulia: «Kami tidak melupakan sesuatu pun dalam Kitab» (QS al-An‘am 6:38). Hati adalah pembawa al-Qur'an dan setiap «…»
+Jika engkau ingin mengetahui apakah khazanah-khazanah ini ada dalam hati atau tidak, ketahuilah bahwa hati adalah tempat Al-Qur'an yang agung diturunkan. Ia merupakan hakikat yang dapat menerima Kitab Allah ‘Azza wa Jalla melalui rahasia iman yang tersimpan di dalamnya. Al-Qur'an adalah himpunan segala sesuatu dalam nama-nama, perbuatan-perbuatan, dan hal lain yang hanya diketahui Allah Taala. Karena itu Dia berfirman dalam Kitab-Nya yang mulia: “Kami tidak meninggalkan sesuatu pun dalam Kitab itu.” Hati adalah pembawa Al-Qur'an, dan setiap …
 
 ### 4. Syarah
 
@@ -1392,11 +1392,11 @@ Fal-waadil awwalu: huwa waadil afkaari wa tasiilu fiihi maa-ut tauhiidi «fatanz
 
 ### 3. Terjemahan
 
-«…» sesuatu di dalam hati, yakni hakikat segala sesuatu ada di dalam hati. Allah—Mahasuci dan Mahatinggi—berfirman: «Dan tidak ada sesuatu pun melainkan pada sisi Kami-lah khazanahnya» (QS al-Hijr 15:21). Hati adalah khazanah-khazanah apa yang ada dalam Kitab yang mulia. Allah—Mahatinggi—berfirman: «Dan Kami tidak menurunkannya melainkan dengan ukuran yang tertentu» (QS al-Hijr 15:21). Dan (yang demikian itu karena) luasnya rahmat: seandainya yang bersifat hati itu tampak kepada alam-alam sekaligus, niscaya tubuh akan hancur dan indra rusak. Kemudian padanya ada delapan lembah, dan Allah—Mahatinggi dan Mahasuci—memenuhinya dengan air ilmu, setiap lembah sesuai daya tampungnya.
+… sesuatu di dalam hati, yakni hakikat segala sesuatu berada di dalam hati. Allah, Mahasuci dan Mahatinggi Dia, berfirman: “Tidak ada sesuatu pun melainkan khazanahnya berada di sisi Kami.” Penulis menyatakan bahwa hati adalah khazanah bagi apa yang ada dalam Kitab yang mulia. Allah Taala berfirman: “Kami tidak menurunkannya melainkan menurut kadar tertentu.” Hal itu dipaparkan sebagai bentangan rahmat: seandainya ia tampak sekaligus kepada alam-alam hati, tubuh akan lenyap dan indra akan rusak. Kemudian di dalam hati terdapat delapan lembah; Allah, Mahaberkah dan Mahatinggi Dia, mengisi setiap lembah dengan air ilmu menurut daya tampungnya.
 
-Dan firman-Nya—Mahatinggi—: «Dia menurunkan air dari langit, maka mengalirlah lembah-lembah menurut ukurannya, lalu air yang mengalir itu membawa buih yang mengapung; dan dari apa yang mereka lebur dalam api» sampai firman-Nya «Demikianlah Allah membuat perumpamaan bagi yang benar dan yang batil» (QS ar-Ra‘d 13:17); dan demikian pula firman-Nya: «Allah membuat perumpamaan-perumpamaan». Yang dimaksud dengan lembah-lembah adalah lembah-lembah hati, dengan air adalah ilmu, dan bahwa bertambah apa yang menutupi ilmu.
+Firman Allah Taala: “Dia menurunkan air dari langit, lalu lembah-lembah mengalir menurut kadarnya, dan aliran itu membawa buih yang mengambang; dan dari apa yang mereka nyalakan api padanya” sampai firman-Nya, “Demikianlah Allah membuat perumpamaan tentang yang benar dan yang batil,” dan firman-Nya, “Allah membuat perumpamaan-perumpamaan.” Menurut penafsiran penulis, yang dimaksud dengan lembah-lembah ialah lembah-lembah hati, yang dimaksud dengan air ialah ilmu, dan maksudnya adalah untuk menghilangkan apa yang menghijab ilmu.
 
-Lembah pertama: yaitu lembah pikiran-pikiran, dan di dalamnya mengalir air tauhid, «maka engkau memandang» di dalamnya kefanaan dalam menyaksikan hadirat rabbani. Lembah kedua: yaitu lembah pengaturan, dan airnya adalah tenggelam dalam wujud. Lembah ketiga: yaitu lembah zikir, airnya rahmat, dan jembatannya «…»
+Lembah pertama ialah lembah pikiran; air tauhid mengalir di dalamnya, dan di sana ia memandang fana dalam penyaksian hadirat Rabbani. Lembah kedua ialah lembah pengaturan; airnya ialah tenggelam dalam wujud. Lembah ketiga ialah lembah zikir; airnya ialah rahmat, dan jembatan adalah …
 
 ### 4. Syarah
 
@@ -1432,9 +1432,9 @@ Fahaadzihi haqiiqatul qalbi wa taqallubuhu fii haadzihil athwaaril ma'luumati wa
 
 ### 3. Terjemahan
 
-«…» keikhlasan, kemurnian, dan pemurnian. Lembah keempat: yaitu lembah pandangan ke dalam hakikat-hakikat jiwa; airnya ilmu dan jembatannya kejujuran. Lembah kelima: yaitu «wirid» kehadiran; airnya cinta dan jembatannya kerinduan. Lembah keenam: yaitu lembah amal; airnya taufik dan jembatannya penyerahan. Lembah ketujuh: yaitu lembah hikmah; airnya pemeliharaan dan jembatannya takwa. Lembah kedelapan: yaitu lembah hakikat; airnya kebenaran dan jembatannya pembukaan rabbani.
+… keikhlasan, kemurnian, dan pemurnian. Lembah keempat ialah lembah pandangan ke dalam hakikat jiwa; airnya ilmu dan jembatan kejujuran. Lembah kelima ialah lembah kehadiran; airnya cinta dan jembatan kerinduan. Lembah keenam ialah lembah amal; airnya taufik dan jembatan penyerahan diri. Lembah ketujuh ialah lembah hikmah; airnya pemeliharaan Allah dan jembatan takwa. Lembah kedelapan ialah lembah hakikat; airnya al-Haqq dan jembatan pembukaan Rabbani.
 
-Inilah hakikat hati dan perpindahannya dalam fase-fase yang diketahui dan rahasia-rahasia yang dipahami. Kami hanya memberi perhatian pada alam-alam hati agar diketahui kemuliaan kedudukannya dan kedekatannya dengan Tuhannya, karena ujian dengan hati tidak terjadi kecuali pada hati. Allah—Mahatinggi—berfirman: «Mereka itulah orang-orang yang Allah telah menguji hati mereka untuk ketakwaan; bagi mereka ampunan dan pahala yang besar» (QS al-Hujurat 49:3). Di antaranya sabda beliau—semoga Allah melimpahkan salawat dan salam kepadanya—: «Hati orang mukmin berada di antara dua jari «…»»
+Inilah hakikat hati dan gerak baliknya pada tahap-tahap yang diketahui dan rahasia-rahasia yang dipahami tersebut. Kami mengingatkan tentang alam-alam hati agar kemuliaan kedudukannya dan kedekatannya kepada Tuhannya diketahui, karena ujian melalui hati hanya menimpa hati. Allah Taala berfirman: “Mereka itulah orang-orang yang hati mereka telah Allah uji untuk ketakwaan; mereka memperoleh ampunan dan pahala yang besar.” Termasuk dalam pengertian ini ucapan yang teks nisbatkan kepada Nabi ﷺ: “Hati orang mukmin berada di antara dua jari …”
 
 ### 4. Syarah
 
@@ -1462,11 +1462,11 @@ Wa liyakun an yalzamal muriidul khalwata tsamaaniina yauman wa fikruhu «biqtida
 
 ### 3. Terjemahan
 
-«…» dari jari-jari Yang Maha Pengasih; Dia membaliknya sebagaimana Dia kehendaki. Hendaklah penuntut bersungguh-sungguh dalam menyingkapnya dan merealisasikan sifatnya. «Bacaan» ini tidak ditangkap oleh ahli riyadhah dan para pemilik manazalat.
+… dari jari-jari ar-Rahman; Dia membaliknya sebagaimana Dia kehendaki. Hendaklah penuntut bersungguh-sungguh menyingkapkannya dan mewujudkan sifatnya. Menurut penulis, maqam-maqam ini tidak dicapai oleh ahli riyadhah dan para pemilik munazalat.
 
-Adapun murid yang mencari hatinya, maka riyadhahnya ialah hendaklah tauhid terwujud di antaranya dan Allah—Mahatinggi—agar disingkapkan dengan petunjuk-Nya hakikat-hakikat «menurut tujuannya»; lalu ia naik dengan hatinya sebagai peneguhan atas kehidupan keyakinan dan kasyaf, dan dengan mengerjakan riyadhah beserta syaratnya yang ada dalam kitab kami «Khawaṣṣ al-Qur'an fī ‘Ilāj ‘Abīd al-Raḥmān», yang akan kami selesaikan secara terperinci.
+Adapun murid yang mencari hatinya, riyadhahnya ialah mewujudkan niatnya dan tauhid kepada Allah Taala agar, dengan petunjuk-Nya, hakikat tujuannya tersingkap. Ia naik dengan hatinya dalam peneguhan atas haqq al-yaqin dan kasyaf melalui pelaksanaan riyadhah dengan syarat-syarat yang terdapat dalam kitab penulis, Khawash Al-Qur'an fi ‘Ilaj ‘Abid ar-Rahman, yang penulis katakan akan ia selesaikan secara terperinci.
 
-Hendaklah murid mewajibkan atas dirinya khalwat delapan puluh hari, sedangkan pikirannya «dengan pemantapan», dan berbukanya atas roti gandum (sya‘ir) atau dari «burghul/jarisya».
+Hendaklah murid menetap dalam khalwat selama delapan puluh hari sementara pikirannya bi-inqidah—secara harfiah “dengan penyalaan”, tetapi maksud teknisnya tidak dijelaskan—dan berbukanya dengan roti jelai atau burgul jarish (gandum pecah yang dimasak).
 
 ### 4. Syarah
 
@@ -1504,9 +1504,9 @@ Wa qaala shallallaahu 'alaihi wa sallama: «Man 'arafa nafsahu faqad 'arafa rabb
 
 ### 3. Terjemahan
 
-Bab keenam: rahasia-rahasia jiwa. Ketahuilah bahwa riyadhah ini mengajarimu menyingkap hakikat «dirinya». Hal itu karena jiwa adalah golongan «makhluk» dan objek yang paling mulia, sebab ia berakal dengan Allah—Mahasuci dan Mahatinggi—dengan ilmu yang tidak dicapai tubuh karena kekasarannya; kepadanya bermuara pengetahuan ilmiah, dan padanya terjadi kenaikan menuju pengenalan Sang Pencipta—Mahatinggi kekuasaan-Nya—maka ia adalah jalan yang lurus dan jalan yang tegak. Karena itu Allah—Mahatinggi—berfirman: «Dan pada dirimu sendiri; maka apakah kamu tidak memperhatikan?» (QS adz-Dzariyat 51:21).
+Bab Keenam: Rahasia-rahasia Jiwa. Ketahuilah bahwa riyadhah ini, menurut penulis, mengajarkan kepadamu cara mengawasi hakikat jiwamu. Jiwa adalah asal makhluk dan yang paling mulia di antara hal-hal yang diletakkan, karena ia mengetahui Allah—Mahasuci dan Mahatinggi Dia—dengan pengetahuan yang tidak dicapai tubuh karena kepadatannya. Kepada jiwa berakhir pengetahuan ilmiah, dan di dalamnya terjadi kenaikan menuju pengenalan kepada Sang Pencipta—mahabesar kekuasaan-Nya. Ia adalah jalan yang tegak dan lurus. Karena itu Allah Taala berfirman: “Dan pada dirimu sendiri, apakah kamu tidak memperhatikan?”
 
-Dan beliau—semoga Allah melimpahkan salawat dan salam kepadanya—bersabda: «Siapa yang mengenal dirinya, sungguh ia mengenal Tuhannya.» Jiwa adalah contoh yang Allah—Mahasuci—titipkan dalam kerangka ini; Dia menjadikannya tempat syahwat dan akhlak tercela. Ruh yang lembut Allah—Mahatinggi—titipkan pada tubuh-tubuh, Dia kaitkan dengannya kehidupan badan, dan menjadikannya tempat akhlak terpuji dan keutamaan «yang mulia». Keduanya, Allah menitipkan pada keduanya rahasia penundukan sebagian atas sebagian lain; tubuh adalah sumber bagi keduanya, dan keseluruhan dari itu diungkapkan dengan «manusia».
+Penulis juga mengutip ucapan yang ia nisbatkan kepada Nabi ﷺ: “Siapa mengenal dirinya, ia mengenal Tuhannya.” Jiwa adalah pola yang Allah—Mahasuci Dia—titipkan dalam kerangka ini dan Ia menjadikannya tempat syahwat serta akhlak tercela. Ruh adalah lathifah yang Allah Taala titipkan dalam tubuh dan Ia kaitkan dengannya kehidupan badan; Ia menjadikannya tempat akhlak terpuji dan keutamaan yang indah. Pada keduanya Allah menitipkan rahasia penundukan satu terhadap yang lain. Tubuh mengikuti keduanya, dan keseluruhan itu disebut manusia.
 
 ### 4. Syarah
 
@@ -1530,9 +1530,9 @@ Wa dzaalika anna arwaahal mu'minaini tabiitu saajidatan tahtal 'arsyi kamaa wara
 
 ### 3. Terjemahan
 
-Contohnya adalah indra pendengaran, indra penglihatan, indra penciuman, indra pengecapan, dan indra peraba; keseluruhan itu diungkapkan dengan «wajah». Ruh-ruhlah yang naik ke hadirat-hadiratnya yang Allah tampakkan darinya dalam keadaan tidur, dengan kejujuran dan kesahihan tujuannya; kemudian ia kembali ke tubuh-tubuh selama ajalnya belum ditetapkan, di alam gaib yang hanya Allah—Mahasuci dan Mahatinggi—yang menguasainya. Allah—Mahatinggi—berfirman: «Allah memegang jiwa ketika matinya dan jiwa yang belum mati dalam tidurnya» (QS az-Zumar 39:42) — ayat.
+Contohnya ialah indra pendengaran, indra penglihatan, indra penciuman, indra perasa, dan indra sentuhan; keseluruhan itu diungkapkan dengan al-wajh. Menurut penulis, ruh adalah yang naik ke hadirat-hadiratnya—hadirat tempat Allah menampakkannya—dalam keadaan tidur, karena kejujuran dan lurusnya tujuannya. Kemudian ruh kembali kepada tubuh selama ajalnya belum ditetapkan dalam alam gaib yang hanya dimiliki al-Haqq, Mahasuci dan Mahatinggi Dia. Allah Taala berfirman: “Allah memegang jiwa ketika matinya dan jiwa yang belum mati ketika tidurnya”—demikian ayat yang dikutip penulis.
 
-Hal itu karena ruh-ruh orang mukmin bermalam dalam keadaan bersujud di bawah Arasy sebagaimana disebutkan dalam hadis. Adapun keberadaan jiwa dan ruh sebagai kelembutan-kelembutan tubuh dalam bentuk-bentuk: malaikat dan setan keduanya bersifat lembut, hanya saja setan adalah tempat hawa nafsu, sedangkan malaikat adalah tempat akhlak terpuji dan keutamaan agama; maka itu adalah nisbah ruh, dan itu pula nisbah setan—yakni ruh, jiwa, dan tubuh.
+Hal itu, menurut penulis, karena ruh orang-orang mukmin bermalam dalam keadaan sujud di bawah Arasy, sebagaimana ia sebutkan terdapat dalam hadis. Mengenai jiwa dan ruh sebagai kelembutan tubuh dalam bentuk-bentuk: malaikat dan setan sama-sama bersifat halus, hanya setan adalah tempat hawa nafsu, sedangkan malaikat adalah tempat akhlak terpuji dan keutamaan keagamaan. Penulis menyimpulkan bahwa yang pertama adalah nisbah ruh dan yang kedua adalah nisbah setan—lalu mengulangi rangkaian ruh, jiwa, dan tubuh dalam susunan yang tidak sepenuhnya jelas.
 
 ### 4. Syarah
 
@@ -1558,11 +1558,11 @@ Wa ammas sirru fa-innahaa lathiifatun awda'ahaallaahu subhaanahu wa ta'aalaa haa
 
 ### 3. Terjemahan
 
-Karena Allah—Mahatinggi—berfirman: «Pada hari ketika manusia berdiri menghadap Tuhan seluruh alam» (QS al-Muthaffifin 83:6). Itu menjadi dalil bahwa penghimpunan (mahsyar) terjadi atas zat manusia beserta apa yang dikandungnya, yaitu tubuh, jiwa, dan ruh. Adapun makna sabda beliau—semoga keselamatan dilimpahkan kepadanya—: «Siapa yang mengenal dirinya, sungguh «…»»
+Karena Allah Taala berfirman: “Pada hari ketika manusia berdiri menghadap Tuhan seluruh alam.” Menurut penulis, ayat itu menunjukkan bahwa mahsyar terjadi atas zat manusia dengan seluruh kandungannya: tubuh, jiwa, dan ruh. Adapun makna ucapan yang penulis nisbatkan kepadanya—‘alaihis salam—“Siapa mengenal dirinya, sungguh ia …”
 
-«…»mengenal Tuhannya.» Sebagian mereka berkata: siapa yang mengenal bahwa jiwa adalah tempat bencana, keburukan, dan syahwat, lalu ia menjauhi itu dengan berbagai penyelisihan (hawa nafsu) dan pelaksanaan riyadhah, maka hal itu menjadi sebab tersingkapnya malakut dan kedekatan kepada Allah—Mahatinggi—. Siapa yang dekat dengan hadirat, dekat dengan Sang Raja, sehingga ia mengenal Tuhannya dengan pertimbangan ini; inilah yang ditempuh ahli hakikat dari kalangan sufi—semoga Allah meridai mereka.
+“… mengenal Tuhannya,” sebagian mereka berkata: orang itu ialah siapa yang mengetahui bahwa jiwa adalah tempat penyakit, sifat tercela, dan syahwat, lalu menjauhi semuanya dengan berbagai bentuk penentangan terhadap hawa nafsu dan dengan mewujudkan riyadhah. Menurut mereka, hal itu menjadi sebab tersingkapnya malakut dan dekatnya seseorang kepada Allah Taala. Siapa yang dekat kepada hadirat akan dekat kepada Sang Raja, sehingga ia mengenal Tuhannya dari sisi ini. Penulis menyatakan inilah pendapat yang ditempuh para ahli hakikat dari kalangan sufi—semoga Allah meridai mereka.
 
-Adapun «sirr» (rahasia), ia adalah lathifah yang Allah—Mahasuci dan Mahatinggi—titipkan pada manusia ini; ia lebih mulia daripada ruh, sebagaimana ruh lebih mulia daripada hati, karena «sirr» menurut mereka adalah cermin tajalli, sebagaimana ruh adalah cermin cinta, sedangkan jiwa dan hati adalah cermin ma‘rifat. Karena itu sebagian mereka berkata: «Rahasia-rahasia kami masih perawan, belum dibuka oleh «mereka»».
+Adapun as-sirr adalah lathifah yang Allah—Mahasuci dan Mahatinggi Dia—titipkan kepada manusia ini. Ia lebih mulia daripada ruh, sebagaimana ruh lebih mulia daripada hati, karena menurut mereka as-sirr adalah cermin tajalli, ruh adalah cermin cinta, serta jiwa dan hati adalah cermin makrifat. Karena itu sebagian mereka berkata: “Rahasia-rahasia kami masih perawan; dugaan belum memecahkannya,”
 
 ### 4. Syarah
 
