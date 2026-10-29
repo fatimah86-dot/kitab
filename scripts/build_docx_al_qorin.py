@@ -134,6 +134,7 @@ def parse_md(path: Path, only_units=None):
         elif s and not s.startswith("<!--"): fevents.append(("para", s))
     for u in units:
         events, buf, ctx = [], [], "front"
+        two_layer = False
         ctx_before_image = ctx
         def flush():
             nonlocal ctx
@@ -152,11 +153,22 @@ def parse_md(path: Path, only_units=None):
             mi = IMG_RE.match(st)
             if m4:
                 flush(); h = m4.group(1).strip(); events.append(("h3", h))
-                ctx = "metode" if h.startswith("1.") else ("jam" if h.startswith("2.") else "catatan")
+                if two_layer and h == "1. Arab":
+                    ctx = "Arab"
+                elif two_layer and h == "2. Latin":
+                    ctx = "latin"
+                elif two_layer and h == "3. Terjemahan":
+                    ctx = "terjemahan"
+                else:
+                    ctx = "metode" if h.startswith("1.") else ("jam" if h.startswith("2.") else "catatan")
             elif m3:
                 flush(); h = m3.group(1).strip(); events.append(("h2", h))
-                ctx = ("Arab" if h.startswith("1.") else "latin" if h.startswith("2.") else
-                       "terjemahan" if h.startswith("3.") else "layer4" if h.startswith("4.") else "khususiyah")
+                if h.startswith("LAYER "):
+                    two_layer = True
+                    ctx = "terjemahan" if h.startswith("LAYER 1") else "khususiyah"
+                else:
+                    ctx = ("Arab" if h.startswith("1.") else "latin" if h.startswith("2.") else
+                           "terjemahan" if h.startswith("3.") else "layer4" if h.startswith("4.") else "khususiyah")
             elif mi:
                 flush(); events.append(("image", mi.group(1).strip()))
                 ctx_before_image = ctx; ctx = "caption"
