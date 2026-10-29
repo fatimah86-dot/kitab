@@ -78,6 +78,30 @@ TRANSLATION_TOTAL_LATER = {
         "M48": 2,
         "M49": 2,
     },
+    5: {
+        "M50": 2,
+        "M51": 2,
+        "M52": 1,
+        "M53": 2,
+        "M54": 1,
+        "M55": 2,
+        "M56": 2,
+        "M57": 2,
+        "M58": 2,
+        "M59": 2,
+        "M60": 2,
+        "M61": 2,
+        "M62": 2,
+        "M63": 2,
+        "M64": 2,
+        "M65": 2,
+        "M66": 2,
+        "M67": 2,
+        "M68": 2,
+        "M69": 2,
+        "M70": 2,
+        "M71": 2,
+    },
 }
 LAYERS = [
     "1. Arab",
@@ -809,26 +833,39 @@ class MarkdownStructureTests(unittest.TestCase):
                 self.assertNotEqual(integrated, pilot, uid)
                 continue
             if uid == "M58":
-                # Batch M16-M64 later refined only M58's Khususiyah layer and
-                # the user's H62 submission later replaced Lapis 1; every
-                # other part must remain byte-identical to the pilot.
+                # Batch M16-M64 later refined only M58's Khususiyah layer,
+                # the user's H62 submission later replaced Lapis 1, and
+                # total-translation Batch 05 later rewrote only Lapis 3;
+                # every other part must remain byte-identical to the pilot.
                 self.assertEqual(
-                    without_layer(without_layer(integrated, LAYERS[0]), LAYERS[4]),
-                    without_layer(without_layer(pilot, LAYERS[0]), LAYERS[4]),
+                    without_layer(
+                        without_layer(without_layer(integrated, LAYERS[0]), LAYERS[2]),
+                        LAYERS[4],
+                    ),
+                    without_layer(
+                        without_layer(without_layer(pilot, LAYERS[0]), LAYERS[2]),
+                        LAYERS[4],
+                    ),
                     uid,
                 )
                 self.assertIn("wafaq mukhammas 5×5", integrated, uid)
                 self.assertIn("crop asli 58.jpg", integrated, uid)
                 continue
             if uid in {"M65", "M66", "M67", "M69"}:
-                # Later user submissions replaced Lapis 1.  For M66/M67/M69
-                # the same crop also moved from Metode to the revised
-                # page's [gambar wafak] position inside Lapis 1; compare all
-                # remaining rendered text after removing that one figure.
+                # Later user submissions replaced Lapis 1, and
+                # total-translation Batch 05 later rewrote only Lapis 3.
+                # For M66/M67/M69 the same crop also moved from Metode to
+                # the revised page's [gambar wafak] position inside Lapis 1;
+                # compare all remaining rendered text after removing that
+                # one figure and the two legitimately replaced layers.
                 integrated_cmp = without_layer(
-                    without_crop_figure(integrated), LAYERS[0]
+                    without_layer(without_crop_figure(integrated), LAYERS[0]),
+                    LAYERS[2],
                 )
-                pilot_cmp = without_layer(without_crop_figure(pilot), LAYERS[0])
+                pilot_cmp = without_layer(
+                    without_layer(without_crop_figure(pilot), LAYERS[0]),
+                    LAYERS[2],
+                )
                 self.assertEqual(integrated_cmp, pilot_cmp, uid)
                 self.assertNotEqual(integrated, pilot, uid)
                 continue
