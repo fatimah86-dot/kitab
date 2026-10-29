@@ -515,14 +515,27 @@ hasil, dan bukan pengganti penanganan medis.
     dibangun ulang. Catatan: `CATATAN_BATCH_TERJEMAHAN_TOTAL_06.md`.
     Validasi akhir: discovery 40 test menghasilkan 33 lulus dan 7 test
     bergantung pada work JSON ter-ignore dilewati.
+35. **Revisi total terjemahan Batch 07 (M87–M103)** (2026-10-30):
+    tujuh belas unit diterjemahkan ulang hanya pada Lapis 3 dari Arab
+    final terkunci dan halaman cetak 87–103 pada PDF asli (halaman PDF
+    44–52, SHA-256 `ac5ec9fc…c5c1`). Override
+    `overrides_terjemahan_total_batch07.json` memuat 36 paragraf dan
+    mempertahankan label catatan penerjemah pada M97–M103, varian
+    riwayat dan ejaan nama talismanik, pengulangan tata cara M98/M99,
+    serta crop 98. Scope-proof terhadap commit Batch 06 membuktikan
+    tidak ada perubahan di luar Lapis 3 sasaran; kedua DOCX dan kedua
+    preview dibangun ulang. Catatan:
+    `CATATAN_BATCH_TERJEMAHAN_TOTAL_07.md`. Validasi akhir: discovery 40
+    test menghasilkan 33 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati.
 
 ## Yang belum selesai
 
 - Tidak ada lagi unit yang menunggu batch semantik Lapis 4/5: seluruh 123
   unit telah masuk pilot atau salah satu batch semantik. Namun **revisi
-  total terjemahan belum khatam**: SAMPUL dan M01–M86 telah selesai melalui
-  Batch 01–06; 36 unit M87–M122 menunggu Batch 07–08 sesuai
-  `AUDIT_REVISI_TOTAL_TERJEMAHAN_123.md`, dimulai dari M87–M103. Batas kejujuran
+  total terjemahan belum khatam**: SAMPUL dan M01–M103 telah selesai melalui
+  Batch 01–07; 19 unit M104–M122 menunggu Batch 08 sesuai
+  `AUDIT_REVISI_TOTAL_TERJEMAHAN_123.md`. Batas kejujuran
   tetap berlaku: pemeriksaan Penentuan Jam terhadap Arab serta pindai
   halaman bersifat dokumenter dan tidak mengarang hitungan; selisih bacaan
   M104 dan M107 sengaja belum dipakai untuk mengganti Lapis 1–3. Semua
@@ -589,6 +602,7 @@ hasil, dan bukan pengganti penanganan medis.
 .venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 4 --check
 .venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 5 --check
 .venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 6 --check
+.venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 7 --check
 .venv/bin/python scripts/build_docx_al_qorin.py --clean \
   --input al_qorin/AL_QORIN_123_BERSIH.md \
   --output al_qorin/AL_QORIN_123_BERSIH.docx
