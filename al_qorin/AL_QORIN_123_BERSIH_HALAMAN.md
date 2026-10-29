@@ -206,9 +206,9 @@ Catatan tashih: kemunculan «صم» pada kata «الصمدية» bukan kata peri
 
 ### 2. Latin
 
-Alladzii [من: vokalisasi belum ditetapkan] riwaaqit takwiini 'alakhtilaafi athwaari maqaamaatil qaashidiin.
+Alladzii manna biriwaaqit takwiini 'alakhtilaafi athwaari maqaamaatil qaashidiin.
 
-Wa basatha saahatat tahkiimi bishafaa'i jawaahiri anfaasi arwaahil mutamakkininal qadiirul ladzii wasama sulthaanal 'aqli [بية: bacaan belum ditetapkan] al'ajzi wa akhrasa fashiihaatil alsuni biyadil qahr.
+Wa basatha saahatat tahkiimi bishafaa'i jawaahiri anfaasi arwaahil mutamakkininal qadiirul ladzii wasama sulthaanal 'aqli bi-aayatil 'ajzi wa akhrasa fashiihaatil alsuni biyadil qahr.
 
 Ahmaduhu hamdal muqarrabiina wa u'minu iimaanal 'aarifiina wa ahtadii hidaayatal muriidiin.
 
@@ -218,15 +218,15 @@ Wa asyhadu anna Muhammadan 'abduhu wa rasuuluhul ladziikhtaarahu min jawaahiril 
 
 Shallallaahu 'alaihi haamilil qur'aani wa ta'aaqabal jadiidaan.
 
-Wa ba'du fa'inna jamaa'atan minal muhibbiinash shaadiqiina wal mukhlishiinal khaalishiina raghibuu an ubayyina lahum kaifiyyatar riyaadhaati wa tarbiyata asraarihaa fii [اصوال: bacaan belum ditetapkan] almawjuudaati wa maa sirrul bidaayaati minhaa wan nihaayaat.
+Wa ba'du fa'inna jamaa'atan minal muhibbiinash shaadiqiina wal mukhlishiinal khaalishiina raghibuu an ubayyina lahum kaifiyyatar riyaadhaati wa tarbiyata asraarihaa fii ushuulil-mawjuudaati wa maa sirrul bidaayaati minhaa wan nihaayaat.
 
 Fa'ajabtuhum ilaa dzaalika ijaabata man watsiqa bihabli maulaahu fii sirri sirrihi wa 'alaaniyatihi wa najwaahu ba'da anittakhadztu 'ubuudiyyatadz dzulli bayaanal istikhaarah.
 
 ### 3. Terjemahan
 
-yang—kata «man/min» sebelum “serambi penciptaan” belum dapat ditetapkan bacaannya—sesuai dengan perbedaan tingkatan maqam para pencari (al-qāṣidīn).
+yang telah menganugerahkan serambi penciptaan sesuai dengan perbedaan tingkatan maqam para pencari (al-qāṣidīn).
 
-Dia membentangkan arena penetapan (at-taḥkīm) dengan kejernihan permata embusan ruh orang-orang yang telah mantap. Dialah Yang Mahakuasa, yang menandai kekuasaan akal dengan «bīyah» kelemahan dan membungkam kefasihan lidah-lidah dengan tangan keperkasaan-Nya.
+Dia membentangkan arena penetapan (at-taḥkīm) dengan kejernihan permata embusan ruh orang-orang yang telah mantap. Dialah Yang Mahakuasa, yang menandai kekuasaan akal dengan tanda kelemahan dan membungkam kefasihan lidah-lidah dengan tangan keperkasaan-Nya.
 
 Aku memuji-Nya dengan pujian al-muqarrabīn, beriman dengan iman para ‘ārif, dan mengikuti petunjuk para murid.
 
@@ -236,13 +236,13 @@ Aku bersaksi bahwa Muhammad adalah hamba dan Rasul-Nya, yang dipilih-Nya dari pe
 
 Semoga Allah melimpahkan salawat atas beliau … para pembawa Al-Qur’an … dan silih bergantinya siang dan malam (al-jadīdān).
 
-Wa ba‘du (selanjutnya): sekelompok pecinta yang tulus dan orang-orang mukhlis yang murni meminta agar aku menjelaskan kepada mereka tata cara riyadhah, pembinaan rahasia-rahasianya dalam «aṣwāl» segala maujud, serta rahasia awal dan akhir riyadhah itu.
+Wa ba‘du (selanjutnya): sekelompok pecinta yang tulus dan orang-orang mukhlis yang murni meminta agar aku menjelaskan kepada mereka tata cara riyadhah, pembinaan rahasia-rahasianya dalam prinsip-prinsip segala maujud, serta rahasia awal dan akhir riyadhah itu.
 
 Maka aku memenuhi permintaan mereka seperti orang yang berpegang pada tali Tuannya—dalam rahasia batinnya, keterbukaannya, dan bisikan munajatnya—setelah aku menjadikan penghambaan yang merendah sebagai keterangan istikharahku.
 
 ### 4. Syarah
 
-Huruf من jelas dalam teks, tetapi مِنْ sebagai preposisi atau مَنَّ sebagai fi‘il tidak boleh dipilih hanya agar lancar. Karena itu من dipertahankan tanpa vokalisasi final; bukan kata tidak terbaca.
+Arab final membaca مَنَّ sebagai fi‘il (manna, “telah menganugerahkan”), bukan مِنْ sebagai preposisi; vokalisasi itu diikuti pada Latin dan Terjemahan.
 
 القدير pola فعيل dipertahankan, dibaca pujian tersendiri, kaitan nahwu belum final.
 
@@ -262,7 +262,7 @@ Usulan راغبوا→رغبوا (alif berlebih), agar menjadi kerja lampau I ya
 
 تربيت dibaca usulan تربية, mashdar II ربّى, pembinaan, bukan otomatis ترتيب “susunan” dari terjemahan lama.
 
-اصوال jelas sebagai teks, kandidat أصول/أحوال belum dipilih.
+Arab final membaca أُصُولِ (ushūl, “prinsip-prinsip/dasar-dasar”), sehingga kandidat أحوال tidak dipakai.
 
 Usulan بحل→بحبل menambahkan ba yang mungkin hilang, berdasarkan ungkapan kepercayaan pada tali/pegangan; tetap editorial, makna حل alternatif belum dipastikan.
 
@@ -820,9 +820,9 @@ Kata selepas «بال» pada baris ketiga terbaca «التَّمْخِيخ»; ma
 
 Wa ammaa riyaadhaatus saalikiin fahuwa an yadkhular riyaadhata biqashdi tashhiihil maqaami wa jismuhu maaddatush syahwatid dunyawiyyah wa thalabul maziidi lil-aakhirah.
 
-Was-saalikuuna fii dzaalika 'alaa qismain: immaa muta-ahhilan aw khaaliyan. Fa-in kaana muta-ahhilan fa-aktsaru aklihi arba'atun wa 'isyruuuuna uuqiyyatan, wal yakun fakhmuhu kulla lailatin ba'dal ghuruubi ya'khudzur raghiifal haarra wa yaksiruhu luqaimaatin shaghiirah, wa huwa yaqra'u «Tabaarakal ladzii biyadihil mulk», wa yaj'alu fii inaa'ihi «…», fa-idzaa shallal maghriba raka'as sunnata wa yajlisu mustaqbilal qiblati ba'dat tasmiyati wa yuktsirul madhgha wa yahmadullaaha bi-atsarihaa, wa hakadzaa ilaa aakhivil ma'kuuli bighairi aadamin dasim.
+Was-saalikuuna fii dzaalika 'alaa qismain: immaa muta-ahhilan aw khaaliyan. Fa-in kaana muta-ahhilan fa-aktsaru aklihi arba'atun wa 'isyruuuuna uuqiyyatan, wal yakun fakhmuhu kulla lailatin ba'dal ghuruubi ya'khudzur raghiifal haarra wa yaksiruhu luqaimaatin shaghiirah, wa huwa yaqra'u «Tabaarakal ladzii biyadihil mulk», wa yaj'alu fii aaniyatin mughaththaatin. Fa-idzaa shallal maghriba raka'as sunnata wa yajlisu mustaqbilal qiblati yumuddu yadahu min tahtil ghithaa'i ba'dat tasmiyati wa yuktsirul madhgha wa yahmadullaaha bi-atsarihaa, wa hakadzaa ilaa aakhivil ma'kuuli bighairi aadamin dasim.
 
-Fa-idzaa faragha qaama yushallii tsnatay 'asyrata rak'atan bi-aayatil kursiyyi tsalaatsa marraatin fii kulli rak'atin. Fa-in baqiyal 'isyaa'ul aakhiru fayasytaghilu bi-adzkaarin wa dzikrihi: Subhaanallaahi wal hamdulillaahi wa laa ilaaha illallaahu wallaahu akbar, wa laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiim. Wa fii kulli lailatin fa-idzaa shallal 'isyaa'al aakhirata raka'a ba'dahaa tsnatay 'asyrata rak'atan bi-aayatil kursiyyi sab'a marraatin fii kulli lailatin, tsumma yuutiru wa yanaamu 'alaa thahaaratil wudhuu'i wastiqbaalil qiblati wastidaamati«…»
+Fa-idzaa faragha qaama yushallii tsnatay 'asyrata rak'atan bi-aayatil kursiyyi tsalaatsa marraatin fii kulli rak'atin. Fa-in baqiyal 'isyaa'ul aakhiru fayasytaghilu bi-adzkaarin wa dzikrihi: Subhaanallaahi wal hamdulillaahi wa laa ilaaha illallaahu wallaahu akbar, wa laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiim. Wa fii kulli lailatin fa-idzaa shallal 'isyaa'al aakhirata raka'a ba'dahaa tsnatay 'asyrata rak'atan bi-aayatil kursiyyi sab'a marraatin fii kulli lailatin, tsumma yuutiru wa yanaamu 'alaa thahaaratil wudhuu'i wastiqbaalil qiblati wastidaamati...
 
 ### 3. Terjemahan
 
@@ -836,7 +836,7 @@ Setiap malam, sesudah salat Isya yang terakhir, ia menunaikan dua belas rakaat s
 
 «وجسمه مادة الشهوة» dibaca apa adanya; hubungan antarklausa tidak diratakan menjadi kalimat yang lebih lancar.
 
-«فَخْمُهُ» dan kata setelah «في إنائه» tidak terbaca pasti pada cetakan; yang kedua ditandai elipsis, bukan diisi dengan kata karangan. «آدم» di sini dibaca «آدَم» (lemak) sesuai konteks makanan; harakat editorial.
+«فَخْمُهُ» tidak terbaca pasti pada cetakan. Sesudah kata wadah, Arab final membaca «مُغَطَّاةٍ» dan klausa tangan dari bawah penutup, sehingga keduanya kini ditransliterasikan. «آدم» di sini dibaca «آدَم» (lemak) sesuai konteks makanan; harakat editorial.
 
 «اثنتي عشرة» dibaca sesuai kaidah (bukan «اثني»); «الْعِشَاءُ الْآخِرُ/الْآخِرَةُ» mengikuti cetakan.
 
@@ -860,9 +860,9 @@ Hitungan makan ±24 auqiyah bagi yang berkeluarga, memecah roti hangat menjadi s
 
 Adz-dzikri, wa in ataa ahlahu qaama waghtasala wa raja'a ilaa maa kaana 'alaihi minadz dzikri, wa yaquumu qablal fajri fayajlisu lidz dzikri mustaqbilal qiblati talqiyatan ilaa an yushalliyash shubha, falaa yazaalu mustaqbilan jaalisan yadzkurullaaha ta'aalaa ilaa thuluu'isy syamsi wa yarka'u lil-isyraaqi arba'a raka'aatin bil-faatihati wal-ikhlaashi tsalaatsan, tsumma yajlisu wa yadzkurullaaha ta'aalaa, fayarka'uz zawaala arba'a raka'aatin bil-faatihati wa aayatil kursiyyi wal-ikhlaash, tsumma yushallizh zhuhra tsumma yajlisu ilal 'ashri fayushallil 'ashra wa yarji'u iladz dzikri 'alash shifati allatii dzakarnaahaa ilal maghribi fayaf'alu bir raghiifi kadzaalika wa yudaawimu 'alaa haadzihil haalah.
 
-Fa-idzaa kaana fii lailatis saabi'ati yushallii minal wirdi tasliimataini wa ba'da dzaalika yufthiru, wa ba'da usbuu'aini yushallii arba'a tasliimaatin tsumma yufthiru, wa ba'da tsalaatsati asaabii'a yushallil wirda tsumma yufthiru, wa ba'da arba'ati asaabii'a yushallil 'isyaa'al aakhirata wal wirda tsumma yufthiru, wa ba'da khamsati asaabii'a yaziidu min manzilihi min waqti fithrihi kulla lailatin, wa ba'da sittati asaabii'a yathwii lailatan ba'da lailatin ilaa tamaami tsamaaniina yauman, 'alal arba'iinal uulaa tasquthu 'anhu tsiqlul a'maali wa yastathiibuhaa, wa fil arba'iinal tsaaniyati yuthayyibu nafsahu bil-a'maali wa yastaghriqu fii anwaari«…»
+Fa-idzaa kaana fii lailatis saabi'ati yushallii minal wirdi tasliimataini wa ba'da dzaalika yufthiru, wa ba'da usbuu'aini yushallii arba'a tasliimaatin tsumma yufthiru, wa ba'da tsalaatsati asaabii'a yushallil wirda tsumma yufthiru, wa ba'da arba'ati asaabii'a yushallil 'isyaa'al aakhirata wal wirda tsumma yufthiru, wa ba'da khamsati asaabii'a yaziidu min manzilihi min waqti fithrihi kulla lailatin, wa ba'da sittati asaabii'a yathwii lailatan ba'da lailatin ilaa tamaami tsamaaniina yauman, 'alal arba'iinal uulaa tasquthu 'anhu tsiqlul a'maali wa yastathiibuhaa, wa fil arba'iinal tsaaniyati yuthayyibu nafsahu bil-a'maali wa yastaghriqu fii anwaari
 
-Al-anwaari fayaraa fii baathinihi mir-aatan shaqliyyatan wa dzawaatil 'aalami mutajalliyatan fiihaa fayatafakkaru bimaa zhahara lahu fii mir-aati qalbihi falaa takhthii'u firaasatuhu. Wa ammal arba'iinal tsaaniyata falaa yanfashilu 'anhaa hattaa yasma'al 'aalamu kulluhu yadzkuru ma'ahu dzikrahu bikhtilaafi ashwaatin, haadzaa tsumma fathan«…»
+Al-anwaari fayaraa fii baathinihi mir-aatan shaqliyyatan wa dzawaatil 'aalami mutajalliyatan fiihaa fayatafakkaru bimaa zhahara lahu fii mir-aati qalbihi falaa takhthii'u firaasatuhu. Wa ammal arba'iinal tsaaniyata falaa yanfashilu 'anhaa hattaa yasma'al 'aalamu kulluhu yadzkuru ma'ahu dzikrahu bikhtilaafi ashwaatin, haadzaa tsumma fathan...
 
 ### 3. Terjemahan
 
@@ -946,7 +946,7 @@ Wa aqrabu thariiqin minal awwali fahijaabus saalikil awwali bitsalaatsati athwaa
 
 Wal hijaabuts tsaanii huwa an takhtalifa 'alaihil afkaaru, fa-idzaa taraakamat 'alaihil fikru falyatawadhdha' wa yadzkur yaa Lathiifu fa-innahaa taskunu 'anhu. Wal hijaabuts tsaalitsu dhiiqatun nafsi fii sijnir riyaadhah wa takaddurul waqti, fa-idzaa wajada dzaalika falyaghtasil wa yadzkur yaa Faansyaah, fa-innahu yaskunu ja'syuhu.
 
-Wa yahjubus saalikuts tsaanii bitsalaatsati hujubin: al-awwalu syahwatuth tha'aami, fa-idzaa wajada dzaalika falyatawadhdha' wa liyadzkur yaa Qawiyyu fa-innahaa tadzhabu 'anhu, fa-idzaa dzahabat 'anhu 'aada iladz dzikril marsuumi. Wal hijaabu [ts-tsaanii] istiilaa-ul khawaathiri likhamsil dzikri, fa-idzaa wajada dzaalika qaama wa tawadhdha'a wa dzakara yaa Qadiiru fa-innahu yadzhabu 'inda dzaalika. Wal hijaabuts tsaalitsu yuzhhiru lahu khayaalaatin syaithaaniyyatan laa tatsbutu haqaaiquhaa laa 'ilman wa laa kasyfan bal tarwiijusy syaithaani li-ajlil khalwati, faman wajada dzaalika falyaghtasil wa yadzkur yaa Dzal quwwati fa-innahu yadzhabu 'anhu dzaalika, laa yuhaathu bihaa 'adadul khawaathiri falyadzkur maa yaridu 'alaihi fii«…»
+Wa yahjubus saalikuts tsaanii bitsalaatsati hujubin: al-awwalu syahwatuth tha'aami, fa-idzaa wajada dzaalika falyatawadhdha' wa liyadzkur yaa Qawiyyu fa-innahaa tadzhabu 'anhu, fa-idzaa dzahabat 'anhu 'aada iladz dzikril marsuumi. Wal hijaabu [ts-tsaanii] istiilaa-ul khawaathiri likhamsil dzikri, fa-idzaa wajada dzaalika qaama wa tawadhdha'a wa dzakara yaa Qadiiru fa-innahu yadzhabu 'inda dzaalika. Wal hijaabuts tsaalitsu yuzhhiru lahu khayaalaatin syaithaaniyyatan laa tatsbutu haqaaiquhaa laa 'ilman wa laa kasyfan bal tarwiijusy syaithaani li-ajlil khalwati, faman wajada dzaalika falyaghtasil wa yadzkur yaa Dzal quwwati fa-innahu yadzhabu 'anhu dzaalika, laa yuhaathu bihaa 'adadul khawaathiri falyadzkur maa yaridu 'alaihi fii...
 
 ### 3. Terjemahan
 
@@ -1028,7 +1028,7 @@ Wajhun nafsi wa huwal ladzii yudriku bihi aatsaaral malakuuti wa haqaa-iqal jaba
 
 Wal wajhuts tsaanii araada bihidz dzaatal insaaniyyata wa huwal ladzii yatasharrafu bihi fil mulki wa yudriku bihi aatsaara 'aalamisy syahaadati wa haqaa-iqa tashaariifil af'aali, tsumma wajhaani aakharaani.
 
-Al-wajhul awwalul iimaanu: al-iimaanu wa huwal ladzii kataballaahu fii qalbihil iimaana wa huwal lathiifatul insaaniyyatur rabbaaniyyatu wa huwal ladzii yudriku anwaarash shafahaati wa nubuwwatat tajallii, wa dzaalika li-arbaabil ahwaali fil mu'aamalaati wa ahlil munaazalaati. Wal wajhuts tsaanil asmaa-u: wa huwal ladzii awda'allaahu fiihil 'ilma wa lathaa-ifal asmaa-i wa huwal ladzii yusyakkiful ma'aanii kaifa barazat 'an haqaa-iqir ruuhi wa tasharrufil fi'li 'alaa muqtadhal 'ilmi wa huwal ladzii«…»
+Al-wajhul awwalul iimaanu: al-iimaanu wa huwal ladzii kataballaahu fii qalbihil iimaana wa huwal lathiifatul insaaniyyatur rabbaaniyyatu wa huwal ladzii yudriku anwaarash shafahaati wa nubuwwatat tajallii, wa dzaalika li-arbaabil ahwaali fil mu'aamalaati wa ahlil munaazalaati. Wal wajhuts tsaanil asmaa-u: wa huwal ladzii awda'allaahu fiihil 'ilma wa lathaa-ifal asmaa-i wa huwal ladzii yusyakkiful ma'aanii kaifa barazat 'an haqaa-iqir ruuhi wa tasharrufil fi'li 'alaa muqtadhal 'ilmi wa huwal ladzii...
 
 ### 3. Terjemahan
 
@@ -1092,7 +1092,7 @@ Kata sebelum «وَبِهِ يُشْهَدُ» tidak jelas; bagian yang terlihat
 
 ### 2. Latin
 
-Haqaa-iqal 'aalami fidz dzurriyyatil uulaa qabla huluulihim fii 'aalamit tashawwuri wat tasyakkuli fayu'azhzhamu 'indahu amrullaahi ta'aalaa wa qadaruhu min haitsul jumlati. Al-wajhuts tsaanii wajhul fatqi: wa huwal ladzii yatajallaa fii mir-aatihi 'aalamul ibdaa'i idz huwa manuuthun bil-idaarati kamaa anna 'aalamal ikhtiraa'i manuuthun bil-qudrati wa huwal ladzii yasyhadu bihi 'awaalimal fithrati wa kaifa yatarattabu bisirril iraadatil 'ulyaa wa ja'alallaahu subhaanahu«…»
+Haqaa-iqal 'aalami fidz dzurriyyatil uulaa qabla huluulihim fii 'aalamit tashawwuri wat tasyakkuli fayu'azhzhamu 'indahu amrullaahi ta'aalaa wa qadaruhu min haitsul jumlati. Al-wajhuts tsaanii wajhul fatqi: wa huwal ladzii yatajallaa fii mir-aatihi 'aalamul ibdaa'i idz huwa manuuthun bil-idaarati kamaa anna 'aalamal ikhtiraa'i manuuthun bil-qudrati wa huwal ladzii yasyhadu bihi 'awaalimal fithrati wa kaifa yatarattabu bisirril iraadatil 'ulyaa wa ja'alallaahu subhaanahu
 
 Asraara tauhiidihaa fii 'aalamil jam'i wa huwal ladzii tanazzaha fii athwaalil maujuudaati wa in zaadatil wujuuda 'alal ikhtilaafi nizhaamihaa barazat bihikmatin khafiyyatin wakhtishaashin qadariyyin, fahaadzihi wujuuhul qalbi tsumma lahu 'ainaani, wa minhu qawluhu shallallaahu 'alaihi wa sallama: «Ittaqu firaasatal mu'mini fa-innahu yanzhuru binuurillaahi ta'aalaa».
 
@@ -1250,7 +1250,7 @@ Wa a'zhzhumuhum fii dzaalika hakiimunaa nabiyyunaa Muhammadun shallallaahu 'alai
 
 Allathiifu lil-lathiifi wal katsiifu lil-katsiifi, tsumma fiihi khizaanataani: khizaanatul amril a'laa wa hiyal latii fiihaa kitaabullaahi ta'aalaa wa huwa 'aqiilatun ilaa an yatluwaahut taalii fatanfatihu wa yabruzul qur'aanu fii dzaawaatil huruufi, faman talaa zhaahiran kaman fataha muutsaqan wa man talaa baathinan kaanat daa-imatal fathi, wa haadzal ladzii yusyaahidu haqaa-iqal aayaati aayaatin zhaahiratan wa 'awaalima qudratin qaahiratin.
 
-Al-khizaanatuts tsaaniyatu wa hiya khizaanatu 'aalamil amri wa hiyal latii fiihaa asraarus sunnati wa bihat tashdiiqi wa hiya muqfalatun ilaa an tataharraka harakatun manuuthatun bis sunnati mu'minan fayuf-tahu baabuhaa, wa inna harakaatihi fis sunnati muuqitan futihat lahu fathan, wa maa wa inna harakaatihi kullahaa bis sunnati lam yazalil baabu maftuuhan fa-in akhadza bizhaahiris sunnati«…»
+Al-khizaanatuts tsaaniyatu wa hiya khizaanatu 'aalamil amri wa hiyal latii fiihaa asraarus sunnati wa bihat tashdiiqi wa hiya muqfalatun ilaa an tataharraka harakatun manuuthatun bis sunnati mu'minan fayuf-tahu baabuhaa, wa inna harakaatihi fis sunnati muuqitan futihat lahu fathan, wa maa wa inna harakaatihi kullahaa bis sunnati lam yazalil baabu maftuuhan fa-in akhadza bizhaahiris sunnati...
 
 ### 3. Terjemahan
 
@@ -1350,7 +1350,7 @@ Al-baabul khaamisu: khizaanatut tauhiid. Wa khizaanatut tauhiidi wa hiyal latii 
 
 Fayuf-tahu lahum haadzihil khizaanatu liyahaba nasiimul qurbi, fayu'rafur ridhaa 'alaa anfaasis saa-iriina ilallaahi ta'aalaa fatan'asyuhum wa turaffihuhum, faman tsabata ridhaahu bilqadhaa-i ma'ash shabri wat tawakkuli wal yaqiini istansyaraha biruuhi jannatil ma'aarifi min khizaanatit tauhiid.
 
-Fa-idzaa aradta an ta'lama haadzihil khazaa-ina maujuudatan fil quluubi am laa fa'lam annal qalba munzalatun 'alaihil qur'aanul 'azhiimu fahuwa haqiiqatun qaabilatun likitaabillaahi 'azza wa jalla bisirril iimaanil maknuuni fiihi. Wal qur'aanu majma'u kulli syai-in fil asmaa-i wal af'aali wa ghairi dzaalika mimmaa laa ya'lamuhu illallaahu ta'aalaa, wa lidzaalika qaala fii kitaabihil 'aziizi: «Maa farrathnaa fil kitaabi min syai-in», wal qalbu haamilul qur'aani wa kullu«…»
+Fa-idzaa aradta an ta'lama haadzihil khazaa-ina maujuudatan fil quluubi am laa fa'lam annal qalba munzalatun 'alaihil qur'aanul 'azhiimu fahuwa haqiiqatun qaabilatun likitaabillaahi 'azza wa jalla bisirril iimaanil maknuuni fiihi. Wal qur'aanu majma'u kulli syai-in fil asmaa-i wal af'aali wa ghairi dzaalika mimmaa laa ya'lamuhu illallaahu ta'aalaa, wa lidzaalika qaala fii kitaabihil 'aziizi: «Maa farrathnaa fil kitaabi min syai-in», wal qalbu haamilul qur'aani wa kullu...
 
 ### 3. Terjemahan
 
@@ -1388,7 +1388,7 @@ Syai-in fil qalbi ay haqiiqatu kulli syai-in fil qalbi, wallaahu subhaanahu wa t
 
 Wa qawluhu ta'aalaa: «Anzala minas samaa-i maa-an fasaalat awdiyatun biqadarihaa fahtamalas sailu zabadan raabiyan wa mimmaa yuuqiduuna 'alaihi fin naar» ilaa qawlihi «Kadzaalika yadhribullaahul haqqa wal baathila», wa kadzaalika qawluhu: «Yadhribullaahul amtsaala». Wa innamaa araada bil awdiyati awdiyatal quluubi wa bil maa-il 'ilma wa an yaziida maa yahjubul 'ilma.
 
-Fal-waadil awwalu: huwa waadil afkaari wa tasiilu fiihi maa-ut tauhiidi «fatanzhuru fiihil fanaa-a fii syuhuudil hadhratir rabbaaniyyati. Wal waadits tsaanii: hiya waadit tadbiiri wa maa-uhul istighraaqu fil wujuudi. Wal waadits tsaalitsu: huwa waadidz dzikri wa maa-uhur rahmatu wa qantharatuhu«…»
+Fal-waadil awwalu: huwa waadil afkaari wa tasiilu fiihi maa-ut tauhiidi «fatanzhuru fiihil fanaa-a fii syuhuudil hadhratir rabbaaniyyati. Wal waadits tsaanii: hiya waadit tadbiiri wa maa-uhul istighraaqu fil wujuudi. Wal waadits tsaalitsu: huwa waadidz dzikri wa maa-uhur rahmatu wa qantharatuhu...
 
 ### 3. Terjemahan
 
@@ -1550,7 +1550,7 @@ Hadis tentang ruh mukmin bersujud di bawah Arasy disebut tanpa sanad dan tidak t
 
 ### 2. Latin
 
-Li-annallaaha ta'aalaa qaala: «Yauma yaquumun naasu lirabbil 'aalamiin» wa dzaalika daliilun 'alaa annal mahsyara 'alaa dzaatil insaani bimaa hawat min jismin wa nafsin wa ruuhin. Wa ammaa ma'naa qawlihi 'alaihis salaamu: «Man 'arafa nafsahu faqad«…»
+Li-annallaaha ta'aalaa qaala: «Yauma yaquumun naasu lirabbil 'aalamiin» wa dzaalika daliilun 'alaa annal mahsyara 'alaa dzaatil insaani bimaa hawat min jismin wa nafsin wa ruuhin. Wa ammaa ma'naa qawlihi 'alaihis salaamu: «Man 'arafa nafsahu faqad
 
 «'Arafa rabbahu» qaala ba'dhuhum: man 'arafa annahaa mahallul aafaati war radzaa-ili wasy syahawaati fayajtanibu dzaalika bi-anwaa'il mukhaalafaati wa tahqiiqir riyaadhaati fayakuunu dzaalika sababan likasyfil malakuuti wal qurbi minallaahi ta'aalaa, faman qaruba minal hadhrati qaruba minal maliki faya'rifu rabbahu bihaadzal i'tibaari, wa maa dzahaba ilaihi ahlul haqaa-iqi minash shuufiyyiina radhiyallaahu 'anhum.
 
@@ -1640,7 +1640,7 @@ Redaksi «أبغضكم إلى الله» sesuai cetakan; sebagian riwayat memaka
 
 Al-baabus saabi': ru'yatun nabiyyi 'alaihish shalaatu was salaam. I'lam anna katsratath tha'aami wa 'adamadz dzikri wa katsiiran min dzaalika mimmaa yahjubu 'an ruuhil malakuutil ladzii huwa haqiiqatuhu wa shifatuhaa wa 'aalimuhaa wa muhiithuhaa wa hiya makhluuqun muhdatsun min nisbatihaa wa kadzaalika idzaa yakuunu mahjuuban 'anillaahi ta'aalaa wa 'an syawaahidi hikmatihi wath thaa-ifi minhu, wa haadzaa minal maghruuriinal ladzii hajabahumul jahlu 'an thariiqillaahi ta'aalaa wa hajabahumul basyaru 'an thariiqil 'ilmil mublighi ilaa haadzihil hujjatil waadhihah.
 
-Wa hajabahumusy syaithaanu 'anittibaa'i aatsaaril huda, wa bihijaabil kibri fahum baina hijaabin tsalaatsatin: hijaabusy syaithaanish shaaddu 'anil 'ulamaa-i, wa hijaabun nafsis shaaddu 'anil 'ilmi, wa hijaabul jahaalatisf shaaddu 'anish shiraathil mustaqiimi, wa dzaalika annal 'ilalal jismaaniyyata«…»
+Wa hajabahumusy syaithaanu 'anittibaa'i aatsaaril huda, wa bihijaabil kibri fahum baina hijaabin tsalaatsatin: hijaabusy syaithaanish shaaddu 'anil 'ulamaa-i, wa hijaabun nafsis shaaddu 'anil 'ilmi, wa hijaabul jahaalatisf shaaddu 'anish shiraathil mustaqiimi, wa dzaalika annal 'ilalal jismaaniyyata...
 
 ### 3. Terjemahan
 
@@ -2484,9 +2484,9 @@ Peringatan penulis terhadap orang yang mengaku berhubungan dengan jin tetapi tid
 
 ### 2. Latin
 
-Ar-ru-uusul arba'atu. «Al-ayyaamu» «…» khalaqal laahul ayyaama sab'atan wa awwaluhaa: 1 - al-ahadu - wa huwa yaumusy syamsi - wa ma'dinuhudz dzahabu; 2 - al-itsnaani - wa huwa yaumul qamari - wa ma'dinuhul fidhdhatu; 3 - ats-tsulaatsaa-u - wa huwa yaumul mirriikhi - wa ma'dinuhul hadiidu; 4 - al-arbi'aa-u - wa huwa yaumu 'uthaaridin - wa ma'dinuhuz zi-baqu; 5 - al-khamiisu - wa huwa yaumul musytarii - wa ma'dinuhul qashdiiru; 6 - al-jumu'atu - wa huwa yaumuz zuharati - wa ma'dinuhun nahaasu; 7 - as-sabtu - wa huwa yaumu zuhalin - wa ma'dinuhur rashasha.
+Ar-ru-uusul arba'atu. «Al-ayyaamu» khalaqal laahul ayyaama sab'atan wa awwaluhaa: 1 - al-ahadu - wa huwa yaumusy syamsi - wa ma'dinuhudz dzahabu; 2 - al-itsnaani - wa huwa yaumul qamari - wa ma'dinuhul fidhdhatu; 3 - ats-tsulaatsaa-u - wa huwa yaumul mirriikhi - wa ma'dinuhul hadiidu; 4 - al-arbi'aa-u - wa huwa yaumu 'uthaaridin - wa ma'dinuhuz zi-baqu; 5 - al-khamiisu - wa huwa yaumul musytarii - wa ma'dinuhul qashdiiru; 6 - al-jumu'atu - wa huwa yaumuz zuharati - wa ma'dinuhun nahaasu; 7 - as-sabtu - wa huwa yaumu zuhalin - wa ma'dinuhur rashasha.
 
-Haadzihi hiyal ayyaamu wa likulli yaumin darajun minad daraaris sab'ati wad daraaris sab'atu hiyal latii tahkumu maa yaduuru fil ardhi wa fil insaani mitslal makdi wal jazri wa ghairihaa. «Al-abraaju» «…» 1 - burjul hamali 2 - ats-tsauru 3 - al-jauzaa-u 4 - as-sarathaanu.
+Haadzihi hiyal ayyaamu wa likulli yaumin darajun minad daraaris sab'ati wad daraaris sab'atu hiyal latii tahkumu maa yaduuru fil ardhi wa fil insaani mitslal makdi wal jazri wa ghairihaa. «Al-abraaju» 1 - burjul hamali 2 - ats-tsauru 3 - al-jauzaa-u 4 - as-sarathaanu.
 
 ### 3. Terjemahan
 
@@ -2528,9 +2528,9 @@ Daftar hari satu sampai tujuh beserta planet (الشمس، القمر، المر
 
 ### 2. Latin
 
-5 - al-asadu 6 - as-sunbulatu 7 - al-miizaamu 8 - al-'aqrabu 9 - al-qawsu 10 - al-jadyu 11 - ad-dalwu 12 - al-huutu. «Asmaa-ud daraaris sab'ati» «…» 1 - asy syamsu 2 - al-qamaru 3 - al-mirriikhu 4 - 'uthaaridun 5 - al-musytarii 6 - az-zuharatu 7 - zuhalun.
+5 - al-asadu 6 - as-sunbulatu 7 - al-miizaamu 8 - al-'aqrabu 9 - al-qawsu 10 - al-jadyu 11 - ad-dalwu 12 - al-huutu. «Asmaa-ud daraaris sab'ati» 1 - asy syamsu 2 - al-qamaru 3 - al-mirriikhu 4 - 'uthaaridun 5 - al-musytarii 6 - az-zuharatu 7 - zuhalun.
 
-Asmaa-ul qamari «…» asmaa-ul qamari maqluubuhu. Liyaakhiim - liyaaghuur - liyaafuur - liyaawarsy - liyaaruugh - liyaaruusy - liyaasyrisy. Syalyaa-u - suuraaniil - ghuuraaniil - nuuraaniil - duuqaanil - ghilaasiil - mikhaaniil.
+Asmaa-ul qamari bi-maqluubihii. Liyaakhiim - liyaaghuur - liyaafuur - liyaawarsy - liyaaruugh - liyaaruusy - liyaasyrisy. Syalyaa-u - suuraaniil - ghuuraaniil - nuuraaniil - duuqaanil - ghilaasiil - mikhaaniil.
 
 ### 3. Terjemahan
 
@@ -2584,9 +2584,9 @@ Daftar buruj 5–12 (الأسد، السنبلة، الميزان، العقرب
 
 ### 2. Latin
 
-«Asmaa-us salaathiinil malaa-ikati» «…» 1 - jibriilul qawiyyul amiinu; 2 - miikaa-iilu malakul arzaaqi; 3 - 'azraa-iilu muwakkalun bil arwaahi; 4 - israafiilu muwakkalun bin nafkhi fish shuuri.
+«Asmaa-us salaathiinil malaa-ikati» 1 - jibriilul qawiyyul amiinu; 2 - miikaa-iilu malakul arzaaqi; 3 - 'azraa-iilu muwakkalun bil arwaahi; 4 - israafiilu muwakkalun bin nafkhi fish shuuri.
 
-«Asmaa-ul muluukis sab'ati» «…» 1 - madzhabun - mas-uulun 'an yaumil ahadi; 2 - marratun - mas-uulun 'an yaumil itsnaini; 3 - al-ahmaru - mas-uulun 'an yaumits tsulaatsaa-i; 4 - barqaanu - mas-uulun 'an yaumil arbi'aa-i; 5 - syamhuurusyu - mas-uulun 'an yaumil khamiisi; 6 - al-abyadhu - mas-uulun 'an yaumil jumu'ati; 7 - maimuunun - mas-uulun 'an yaumis sabti.
+«Asmaa-ul muluukis sab'ati» 1 - madzhabun - mas-uulun 'an yaumil ahadi; 2 - marratun - mas-uulun 'an yaumil itsnaini; 3 - al-ahmaru - mas-uulun 'an yaumits tsulaatsaa-i; 4 - barqaanu - mas-uulun 'an yaumil arbi'aa-i; 5 - syamhuurusyu - mas-uulun 'an yaumil khamiisi; 6 - al-abyadhu - mas-uulun 'an yaumil jumu'ati; 7 - maimuunun - mas-uulun 'an yaumis sabti.
 
 ### 3. Terjemahan
 
@@ -2626,7 +2626,7 @@ Daftar empat sulthan malaikat (جبريل، ميكائيل، عزرائيل، ا
 
 ### 2. Latin
 
-«Asmaa-ur ru-uusil arba'ati» «…» 1 - maazarun 2 - kathmun 3 - qanduuratu 4 - thaykalu. «Asmaa-ur ruuhaniyyatis sab'ati» «…» 1 - ruufaa-iilu 2 - jibraa-iilu 3 - samsamaa-iilu 4 - miikaa-iilu 5 - sharfiyaa-iilu 6 - 'unyaa-iilu 7 - kasfiyaa-iilu.
+«Asmaa-ur ru-uusil arba'ati» 1 - maazarun 2 - kathmun 3 - qanduuratu 4 - thaykalu. «Asmaa-ur ruuhaniyyatis sab'ati» 1 - ruufaa-iilu 2 - jibraa-iilu 3 - samsamaa-iilu 4 - miikaa-iilu 5 - sharfiyaa-iilu 6 - 'unyaa-iilu 7 - kasfiyaa-iilu.
 
 Haakadzaa akhiyal mu'minu aqdimu laka kulla syai-in 'anil ayyaami fa-in aradta 'ilaaja ahadin fii ayyi yaumin minasy syuruuthil (al-ayyaamis) sab'ati 'alaika bi-ahdhaaril malakil 'ulwiyyil yaumi wal malakir ruuhaniyyi bil isti'aanati bir ru-uusil arba'ati ma'al kawaakibi wal bukhuuri wal 'aziimati wash rifil 'ummaara tsumma ibda-il 'ilaaja minal qariini fahuwa yuthii'u haadzihil asmaa-a kullahaa. Wa naktafii bihaadzal qadri fii kitaabin aakhara. (Tabthiilus sihri wa bakhuurun lijamii'ir riyaahi mujarrabun) Tansyiluukun? thalmaasi'un? athsahu? askamuuyah? 'akhbiirah? hakmuwaa? tanassshiihi?
 
@@ -3088,7 +3088,7 @@ Lanjutan kutipan QS al-Hajj 22:5, al-Qiyamah, dan al-Insan tentang penciptaan; l
 
 Fahamalat-hu bilaa haulin wa laa quwwata illaa billaahil 'aliyyil 'azhiimi. (Ghairatun mujarrabun) lil mar-atil latii lam tahmil wal farasi wan naaqati wal baqarati wal khaili wa jamii'il asyjaari tuktabu haadzihil asmaa-u wa anta thaahirun wa yu'allaqu 'alaihaa fa-innahum yahmiluuna bi-idznillaahi ta'aalaa wa hiya haadzihid asmaa-ul latii tuktabu.
 
-Ana 'adadun 11 = ana 4 imratun huwa 12 marratan yaah yaahu baahu. (sembilan«…») yah yah yah (berulang). (Ghairuhu lil hamli mujarrabun) uktub haadzihil asmaa-a fii nuskhataini waahidatan yahmiluhar rajulu wats tsaaniyata tahmiluhal mar-atu fa-innallaaha ta'aalaa yu'thiihimul hamla bi-idznillaahi ta'aalaa al-basmalatu. Fardun hakamun qidhaa qudduusun hajasun qayyuumun wa laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiimi.
+Ana 'adadun 11 = ana 4 imratun huwa 12 marratan yaah yaahu baahu. 9999999999999 yah yah yah yah yah yah yah yah yah yah yah yah yah. (Ghairuhu lil hamli mujarrabun) uktub haadzihil asmaa-a fii nuskhataini waahidatan yahmiluhar rajulu wats tsaaniyata tahmiluhal mar-atu fa-innallaaha ta'aalaa yu'thiihimul hamla bi-idznillaahi ta'aalaa al-basmalatu. Fardun hakamun qidhaa qudduusun hajasun qayyuumun wa laa haula wa laa quwwata illaa billaahil 'aliyyil 'azhiimi.
 
 ### 3. Terjemahan
 
@@ -3912,7 +3912,7 @@ Pada cetakan kata «الإنس» ditulis «الأنس» berulang kali; ditulis �
 
 ### 2. Latin
 
-A'uudzu nafsii wa u'iidzu shahbii «…» min kulli jinniyyin bihaadzal qubbi «…» hattaa auuba saaliman wa rakbi. Fasami'a qaari-an yaqra-u (yaa ma'syaral jinni wal insi inistatha'tum an tanfudzuu min aqthaaris samaawaati wal ardhi fanfudzuu) falammaa qadima makkata khabbara kuffaara quraisyin bimaa sami'a faqaaluu: shaba'ta yaa abaa kilaabin! inna haadzaa yaz'umu anna muhammadan shallallaahu 'alaihi wa sallama unzila 'alaihi «qul» wallaahi laqad sami'tuhu wa sami'ahu haa-ulaa-i ma'iya, tsumma aslama wa hasuna islaamuhu wa haajara ilal madiinati wa banaa bihaa masjidan yu'rafu bihi.
+A'uudzu nafsii wa u'iidzu shahbii / min kulli jinniyyin bihaadzal qubbi / hattaa auuba saaliman wa rakbi. Fasami'a qaari-an yaqra-u (yaa ma'syaral jinni wal insi inistatha'tum an tanfudzuu min aqthaaris samaawaati wal ardhi fanfudzuu) falammaa qadima makkata khabbara kuffaara quraisyin bimaa sami'a faqaaluu: shaba'ta yaa abaa kilaabin! inna haadzaa yaz'umu anna muhammadan shallallaahu 'alaihi wa sallama unzila 'alaihi «qul» wallaahi laqad sami'tuhu wa sami'ahu haa-ulaa-i ma'iya, tsumma aslama wa hasuna islaamuhu wa haajara ilal madiinati wa banaa bihaa masjidan yu'rafu bihi.
 
 Wa lammaa ra-atil jinnu annal ansa tasta'iidzu bihim zaada thughyaanuhum wa 'utuwwuhum wa bihaadzaa yujiibuunal 'azma war raaqii bi-asmaa-ihim wa asmaa-i muluukihim fa-innahu yuqsimu 'alaihim bi-asmaa-i man yu'azh zhimuunahu fayahshulu lahum dzaalika minar ri-aasati wasy syarafi 'alal ansi maa yahmiluhum 'alaa an yu'thuuhum ba'dha su'lihim wa hum ya'lamuuna annal ansa asyrafu minhum wa a'zhamu qadran fa-idzaa khadha'atil ansu lahum wasta'aadzat bihim kaana manzilata akaabirin naasi idzaa khadha'a lishighaarihim liyaqdhiya lahu haajatahu wa laakin man yastathii'u an yahkuma 'alaa muluukil jaanni falaa budda an yakuuna 'indahu da'watu kulli malikin fiihim aw 'alaa qadril istithaa'ati.
 
@@ -3948,9 +3948,9 @@ Teks ini menjelaskan mekanisme praktik perjumpaan dengan jin, bukan menganjurkan
 
 ### 2. Latin
 
-Al-fashlut taasi'a 'asyara. - Baabu istikhdaamil malikati jamjata - wa hiya sarii'atul ijaabati «…» wa huwa an yajlisa fii makaanin khaalin minan naasi fii yaumin laa riiha fiihi wa laa mathara wa laa sahaaba wa yaktubal khaatamal aatiya 'alaa kaffihi wa yubakhkhiru bish shandali ah mari wa ya'zimu 'alaihi hattaa ta'tiyaka hamaamatun baidhaa-u tanzilu 'alaika wa tuthiiru ilal khaatami wansharif ilal yaumits tsaani tsummarji' ilaa makaanika wa bakhkhir wa 'azzim hattaa ta'tiyaka amiiratun jamiilatun laa washfa lahaa. Wa taquulu laka: maa haajatuka 'indii? fataquulu lahaa: a'thiinil 'ahda bihaqqil 'ahdi wa thaa'atis sayyidi samsamaa-iila fa-innahaa tu'thiikal 'ahda. Fa-idzaa aradta haajatan aqarrad da'wata sirran aw jahran fii saa-iril a'maali min khairin aw syarrin wa wakkilhaa bihi fa-innahaa taf'aluhu sarii'an wa idzaa aradta thayyal ardhi fa'alathu.
+Al-fashlut taasi'a 'asyara. - Baabu istikhdaamil malikati jamjata - wa hiya sarii'atul ijaabati wa huwa an yajlisa fii makaanin khaalin minan naasi fii yaumin laa riiha fiihi wa laa mathara wa laa sahaaba wa yaktubal khaatamal aatiya 'alaa kaffihi wa yubakhkhiru bish shandali ah mari wa ya'zimu 'alaihi hattaa ta'tiyaka hamaamatun baidhaa-u tanzilu 'alaika wa tuthiiru ilal khaatami wansharif ilal yaumits tsaani tsummarji' ilaa makaanika wa bakhkhir wa 'azzim hattaa ta'tiyaka amiiratun jamiilatun laa washfa lahaa. Wa taquulu laka: maa haajatuka 'indii? fataquulu lahaa: a'thiinil 'ahda bihaqqil 'ahdi wa thaa'atis sayyidi samsamaa-iila fa-innahaa tu'thiikal 'ahda. Fa-idzaa aradta haajatan aqarrad da'wata sirran aw jahran fii saa-iril a'maali min khairin aw syarrin wa wakkilhaa bihi fa-innahaa taf'aluhu sarii'an wa idzaa aradta thayyal ardhi fa'alathu.
 
-Wa haadzihid da'waa taquulu: al-hamdu lillaahil ladzii khalaqal insaana min shalshaalin kal fakhkhaari wa khalaqa «…»
+Wa haadzihid da'waa taquulu: al-hamdu lillaahil ladzii khalaqal insaana min shalshaalin kal fakhkhaari wa khalaqa al-jaanna min maarijin min naarin. 'Azamtu 'alaikumaa yaa jamjatu yaa bnatal malikil ahmari ainamaa takuunii fii masyaariqil ardhi wa maghaaribihaa an takuunii musri'ataini anti wa abuuki thau'an aw karhan fa'tiyaa fattabi'aa thaa'i'aini. Ajiibii ajiibii yaa jamjatu yaa bnatal malikil ahmari anti wa abuuki bihaqqil malikil ghaalibi 'alaikumus sayyidi samsamaa-iila 'alaihis salaamu – wa qul uuhiya ilayya aakhirihaa.
 
 ### 3. Terjemahan
 
@@ -3986,7 +3986,7 @@ Kalimat ini adalah pembuka bacaan (دعوى) yang terpotong di akhir halaman dan
 
 Al-jaanna min maarijin min naarin 'azamtu 'alaikumaa yaa jamjatu yaa bnatal malikil ah mari ainamaa takuunii fii masyaariqil ardhi wa maghaaribihaa an takuunii musri'ataini anti wa abuuki thau'an aw karhan fa'tiyaa fattabi'aa thaa'i'aini ahyi ahy aa-un yaa jamjatu yaa bnatal malikil ah mari anti wa abuuki bihaqqil malikil ghaalibi 'alaikumus sayyidi samsamaa-iila 'alaihis salaamu - wa qul uuhiya ilaa akh baarihaa.
 
-(Bab penggunaan Jamjah putri Raja Merah.) Dan ia cepat menjawab; dialah yang dipakai oleh ‘Ali bin al-Hajjaj, dan ia melakukan hal-hal ajaib dan aneh, mengeluarkan ‘ifrit dengan perantaranya, dan membinasakan setiap orang yang congkak, keras kepala, dan zalim dengan perantaranya, dan segala yang engkau kehendaki. Maka bertakwalah kepada Allah dalam rahasiamu; atasmu perjanjian Allah bahwa engkau tidak menggunakannya kecuali dalam (perkara) halal, dan jangan mengarahkannya (kecuali) dalam ketaatan kepada Allah—Mahatinggi. Maka apabila engkau hendak mengamalkannya, berpuasalah untuknya tujuh hari, mulai dari hari Ahad, ketika tidak ada angin, tidak ada awan, tidak ada hujan, dan bulan sedang bertambah; dan duduklah di «…»
+(Baabu istikhdaami najmata bintil malikil ahmari) Wa hiya sarii'atul ijaabati – wa hiyal latistakhdamahaa 'aliyyu bnul hajjaaji wa kaana yaf'alul 'ajaa-iba wal gharaa-iba wa yukhriju bihal 'afaariita wa yumliku bihaa kulla jabbaarin 'aniidin zhaalimin wa kulla maa turiidu. Fattaqillaaha fii sirrika wa 'alaika 'ahdullaahi an laa taf'ala bihaa illaa fil halaali wa laa tashrifhaa fii thaa'atillaahi ta'aalaa. Fa-idzaa aradtal 'amala bihaa fashum lillaahi sab'ata ayyaamin, ibtadi' min yaumil ahadi haitsu laa yakuunu fiihi riihun wa laa ghuyuumun wa laa matharun wal qamaru fiz ziyaadati, wa ajlis fii makaanin wahdaka, waktubil khaatamal aatiya fii yadikasy syimaali bish shandalil ahmari faqath wa 'azzim 'alaihi bil 'aziimati hattaa ta'tiyaka hamaamatun baidhaa-u tanzilu 'alaika falmahil khaatama wansharif. Wa fil yaumits tsaanii ajlis fil mahallil ladzii kunta fiihi waktubil khaatama 'alaa kaffikasy syimaali wa bakhkhir wa 'azzim bil 'aziimati ilaa an ta'tiyaka imra-atun dzaatu husnin wa jamaalin wa taquulu laka maa haajatuka, fa-azjirhaa bid da'wati wa qul lahaa qashdii muraafaqatuka wa takuunii lii khadiimatan wa mu'iinatan fiimaa atluuhu minka, fa-innahaa tasytarithu 'alaika syuruuthan wasma' liqawlihaa – fa-innahaa taquulu marhaban bika wa alfu laa biz zafiiqil muwaafiqi wa tamuddu laka yadahal yumnaa fatakuunu muhdiran fii yadika jariidatan khadhraa-a wa tamudduhaa lahaa tumsikuha fatu'aahidahaa 'alaihaa wa ta'khudzu 'alaihal 'ahda wal miitsaaqa wa qul lahaa siirii fii amaanillaahi fa-innahaa tansharifu falmahil khaatama. (Fa-idzaa aradtal 'amala bihaa) faktubil khaatama wad da'waa hawlahu wa arba'ahu ma'aka watlud da'wata fa-innahaa ta'tiyaka hiya wa a'waanuhaa wa taqifu 'alaa yamiinika wa khuddaamuhaa ma'ahaa, fa-murhaa bimaa turiidu fa-innahaa tahkumu 'alaa junuudi abiihaa wa tu'thiikal maala wa ta'tii bith tha'aami wa hiya tuhriqu jamii'al jaanni wa tuhlikuzh zhaalima wa tajlibu bihaa banaatil muluuki wa tuzhhiru bihal khabaayaa wal kunuuza, fahtafizh 'alaa haadzihidz dzakhiirah.
 
 ### 3. Terjemahan
 
@@ -4504,7 +4504,7 @@ Lanjutan pembagian «نقباء/نجباء/أبدال/أخيار/عمد» besert
 
 ### 2. Latin
 
-«…» wath thahaari wa ash haabil akhyaari wa aali baitihil abraari an takfura 'annadz dzunuuba wal awzaara wah rusnaa min jamii'il akhwaali wal akhthaari wa amminnaa min syarrizh zhaalimiina wath thhaaghiina wal fujjaari wa matti'naa biru'yatika wa ru'yati man naraahu fii daaril qaraari wa taqabbal minnaa maa 'amilnaa min saa-iril a'maalinaa fis sirri wal ijhaari waghrir lanaa bimaghfiratika annaka ghafuurun rahiimun ghaffaarun birahmatika yaa arhamar raahimiina wa atawassalu ilaika biwaahidin akhyaarika wa sab'ati akhyaarika wa 'asyarati rijaalika wa arba'iina budalaa-ika wa sab'iina nujabaa-ika wa tsalaatsimi-ati nuqabaa-ika an tardhaa 'annaa biridhaa-ika wa shabbirnaa 'alaa qadhaa-ika wa balaa-ika wa arzuqnaa syukra ni'maa-ika wasyfinaa bisyifaa-ika wa daawinaa bidawaa-ika waj'alnaa min auliyaa-ika wa laa tukhrijnaa 'an baabika birahmatika yaa arhamar raahimiin. Allaahumma atawassalu ilaika biyahyaa bni zakariyyaa war rabii'i bni khaitsama wa ibraahiima bni adhama wal fudhaila bni 'iyaadh wa abii 'abdillaahin naffaathi wa manshuuri bni 'ammaarin wa maaliki bni diinaarin wa habiibin najjaari wal baiti wat tammaari wal qaadhii bikaarin wa tsaabitin bananiyyi wa thaanuusal yamaaniyyi.
+... wath thahaari wa ash haabil akhyaari wa aali baitihil abraari an takfura 'annadz dzunuuba wal awzaara wah rusnaa min jamii'il akhwaali wal akhthaari wa amminnaa min syarrizh zhaalimiina wath thhaaghiina wal fujjaari wa matti'naa biru'yatika wa ru'yati man naraahu fii daaril qaraari wa taqabbal minnaa maa 'amilnaa min saa-iril a'maalinaa fis sirri wal ijhaari waghrir lanaa bimaghfiratika annaka ghafuurun rahiimun ghaffaarun birahmatika yaa arhamar raahimiina wa atawassalu ilaika biwaahidin akhyaarika wa sab'ati akhyaarika wa 'asyarati rijaalika wa arba'iina budalaa-ika wa sab'iina nujabaa-ika wa tsalaatsimi-ati nuqabaa-ika an tardhaa 'annaa biridhaa-ika wa shabbirnaa 'alaa qadhaa-ika wa balaa-ika wa arzuqnaa syukra ni'maa-ika wasyfinaa bisyifaa-ika wa daawinaa bidawaa-ika waj'alnaa min auliyaa-ika wa laa tukhrijnaa 'an baabika birahmatika yaa arhamar raahimiin. Allaahumma atawassalu ilaika biyahyaa bni zakariyyaa war rabii'i bni khaitsama wa ibraahiima bni adhama wal fudhaila bni 'iyaadh wa abii 'abdillaahin naffaathi wa manshuuri bni 'ammaarin wa maaliki bni diinaarin wa habiibin najjaari wal baiti wat tammaari wal qaadhii bikaarin wa tsaabitin bananiyyi wa thaanuusal yamaaniyyi.
 
 Wa muhammadinil 'asqalaaniyyi wabni sulaimaanad daaraaniyyi wa sayyidii madyanin tilimsaaniyyi wabii idriisal khaulaaniyyi wa 'abdillaahil madaniyyi wa uwaisin qaraniyyi wasy syaikhin nizhaamiyyi wabii yaziidal bith aahiyyi wabii turaabin nakhsyabiyyi wabii ma'aalii imaamil haramainil juwainiyyi wa 'abdil 'aziizid dariiniyyi wa habiibil 'ajamiyyi wal hasanil bashriyyi.
 
