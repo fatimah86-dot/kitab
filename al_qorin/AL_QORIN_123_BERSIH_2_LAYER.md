@@ -286,11 +286,17 @@ Muhammad Sami Muhammad Ahmad.
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Bacaan al-Fatihah.
+Media:
 
-Langkah 1: Membaca al-Fatihah yang dihadiahkan kepada Nabi Muhammad, keluarga beliau, dan pengarang sebelum memulai.
+- Bacaan al-Fatihah
 
-Tujuan: Menghadiahkan bacaan al-Fatihah kepada Nabi Muhammad, keluarga beliau, dan pengarang sebelum memulai.
+Langkah ke-1:
+
+Membaca al-Fatihah yang dihadiahkan kepada Nabi Muhammad, keluarga beliau, dan pengarang sebelum memulai.
+
+Tujuan:
+
+Menghadiahkan bacaan al-Fatihah kepada Nabi Muhammad, keluarga beliau, dan pengarang sebelum memulai.
 
 ## Halaman 5 — BAB PERTAMA
 
@@ -474,11 +480,19 @@ Penulis mengemukakan bahwa Kitab Allah Taala menjelaskan hal itu dalam firman-Ny
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tidak ada media material yang dinyatakan secara tersendiri; yang dinyatakan ialah khalwat/riyadhah.
+Media:
 
-Langkah 1: Menjalani khalwat/riyadhah empat puluh hari dan kelipatannya.
+- Tidak ada media material yang dinyatakan secara tersendiri
 
-Tujuan: Tidak dinyatakan secara tersendiri pada halaman ini.
+- yang dinyatakan ialah khalwat/riyadhah
+
+Langkah ke-1:
+
+Menjalani khalwat/riyadhah empat puluh hari dan kelipatannya.
+
+Tujuan:
+
+Tidak dinyatakan secara tersendiri pada halaman ini.
 
 ## Halaman 8 — BAB PERTAMA
 
@@ -668,25 +682,51 @@ Setiap malam, sesudah salat Isya yang terakhir, ia menunaikan dua belas rakaat s
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Batas makan ±24 ūqiyah bagi salik berkeluarga; roti hangat dipecah sambil membaca awal surah al-Mulk; tanpa lemak hewani; Ayat al-Kursi tiga kali pada rangkaian sesudah makan dan tujuh kali pada rangkaian sesudah Isya.
+Media:
 
-Langkah 1: Hitungan makan ±24 auqiyah bagi yang berkeluarga.
+- Batas makan ±24 ūqiyah bagi salik berkeluarga
 
-Langkah 2: Memecah roti hangat menjadi suapan kecil sambil membaca Surah al-Mulk.
+- roti hangat dipecah sambil membaca awal surah al-Mulk
 
-Langkah 3: Salat sunah setelah Maghrib.
+- tanpa lemak hewani
 
-Langkah 4: Duduk menghadap kiblat.
+- Ayat al-Kursi tiga kali pada rangkaian sesudah makan dan tujuh kali pada rangkaian sesudah Isya
 
-Langkah 5: Memperbanyak mengunyah.
+Langkah ke-1:
 
-Langkah 6: Tidak memakai lemak hewani.
+Hitungan makan ±24 auqiyah bagi yang berkeluarga.
 
-Langkah 7: Lalu 12 rakaat dengan Ayat al-Kursi tiga kali tiap rakaat, zikir dan witir.
+Langkah ke-2:
 
-Langkah 8: Tidur dalam keadaan bersuci menghadap kiblat.
+Memecah roti hangat menjadi suapan kecil sambil membaca Surah al-Mulk.
 
-Tujuan: Menjalani jadwal riyadhah salik berkeluarga yang dirinci pada halaman ini.
+Langkah ke-3:
+
+Salat sunah setelah Maghrib.
+
+Langkah ke-4:
+
+Duduk menghadap kiblat.
+
+Langkah ke-5:
+
+Memperbanyak mengunyah.
+
+Langkah ke-6:
+
+Tidak memakai lemak hewani.
+
+Langkah ke-7:
+
+Lalu 12 rakaat dengan Ayat al-Kursi tiga kali tiap rakaat, zikir dan witir.
+
+Langkah ke-8:
+
+Tidur dalam keadaan bersuci menghadap kiblat.
+
+Tujuan:
+
+Menjalani jadwal riyadhah salik berkeluarga yang dirinci pada halaman ini.
 
 ## Halaman 12 — kelanjutan wirid harian dan empat puluh kedua
 
@@ -718,27 +758,55 @@ Penulis menggambarkan bahwa ia lalu melihat dalam batinnya sebuah cermin yang me
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Zikir menghadap kiblat; isyraq empat rakaat dengan al-Fātiḥah dan al-Ikhlāṣ tiga kali; zawal empat rakaat dengan al-Fātiḥah, Ayat al-Kursi, dan al-Ikhlāṣ; roti sesudah Magrib seperti Halaman 11.
+Media:
 
-Langkah 1: Bangun sebelum fajar untuk zikir menghadap kiblat hingga Subuh.
+- Zikir menghadap kiblat
 
-Langkah 2: Tetap berzikir sampai matahari terbit.
+- isyraq empat rakaat dengan al-Fātiḥah dan al-Ikhlāṣ tiga kali
 
-Langkah 3: Salat isyraq empat rakaat.
+- zawal empat rakaat dengan al-Fātiḥah, Ayat al-Kursi, dan al-Ikhlāṣ
 
-Langkah 4: Berzikir lagi, salat zawal empat rakaat.
+- roti sesudah Magrib seperti Halaman 11
 
-Langkah 5: Lalu Zuhur, duduk sampai Asar.
+Langkah ke-1:
 
-Langkah 6: Salat Asar, dan kembali berzikir sampai Magrib.
+Bangun sebelum fajar untuk zikir menghadap kiblat hingga Subuh.
 
-Langkah 7: Roti sesudah Magrib diperlakukan seperti pada Halaman 11.
+Langkah ke-2:
 
-Langkah 8: Tahapan berbuka berubah pada malam ketujuh.
+Tetap berzikir sampai matahari terbit.
 
-Langkah 9: Lalu sesudah dua, tiga, empat, lima, dan enam pekan sampai genap delapan puluh hari.
+Langkah ke-3:
 
-Tujuan: Melanjutkan jadwal riyadhah sampai genap delapan puluh hari.
+Salat isyraq empat rakaat.
+
+Langkah ke-4:
+
+Berzikir lagi, salat zawal empat rakaat.
+
+Langkah ke-5:
+
+Lalu Zuhur, duduk sampai Asar.
+
+Langkah ke-6:
+
+Salat Asar, dan kembali berzikir sampai Magrib.
+
+Langkah ke-7:
+
+Roti sesudah Magrib diperlakukan seperti pada Halaman 11.
+
+Langkah ke-8:
+
+Tahapan berbuka berubah pada malam ketujuh.
+
+Langkah ke-9:
+
+Lalu sesudah dua, tiga, empat, lima, dan enam pekan sampai genap delapan puluh hari.
+
+Tujuan:
+
+Melanjutkan jadwal riyadhah sampai genap delapan puluh hari.
 
 ## Halaman 13 — syarat dan penutup riyadhah salik
 
@@ -772,19 +840,39 @@ Gambaran itu, menurut penulis, ialah bahwa ia melihat dalam batinnya sebuah cerm
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Dua roti hangat dan sedikit air; surah Yāsīn; zikir “Subḥānallāh al-‘Aliyy al-Wahhāb”; konteks makanan halal, menyendiri dari suara, dan duduk dalam gelap.
+Media:
 
-Langkah 1: Membatasi makan pada dua roti.
+- Dua roti hangat dan sedikit air
 
-Langkah 2: Berbuka setelah Isya, sedikit minum, roti hangat.
+- surah Yāsīn
 
-Langkah 3: Mengurangi tidur, membaca Surah Yasin.
+- zikir “Subḥānallāh al-‘Aliyy al-Wahhāb”
 
-Langkah 4: Mengurangi roti setengah dirham tiap malam, melewati malam Jumat.
+- konteks makanan halal, menyendiri dari suara, dan duduk dalam gelap
 
-Langkah 5: Berzikir Subhanallah al-'Ali al-Wahhab sampai delapan puluh hari.
+Langkah ke-1:
 
-Tujuan: Menyelesaikan rangkaian riyadhah sampai delapan puluh hari.
+Membatasi makan pada dua roti.
+
+Langkah ke-2:
+
+Berbuka setelah Isya, sedikit minum, roti hangat.
+
+Langkah ke-3:
+
+Mengurangi tidur, membaca Surah Yasin.
+
+Langkah ke-4:
+
+Mengurangi roti setengah dirham tiap malam, melewati malam Jumat.
+
+Langkah ke-5:
+
+Berzikir Subhanallah al-'Ali al-Wahhab sampai delapan puluh hari.
+
+Tujuan:
+
+Menyelesaikan rangkaian riyadhah sampai delapan puluh hari.
 
 ## Halaman 14 — tiga tabir salik pertama dan kedua
 
@@ -818,13 +906,23 @@ Salik kedua terhijab oleh tiga hijab. Hijab pertama ialah syahwat terhadap makan
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Berwudu atau mandi; zikir Yā Hādī, Yā Laṭīf, Yā Fansyah (bacaan tidak pasti), Yā Qawiyy, Yā Qādir, dan Yā Dzā al-Quwwah sesuai jenis tabir.
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Selama riyadhah, sebagai respons ketika tabir/lintasan muncul.
+- Berwudu atau mandi
 
-Langkah 2: Berwudu dan berzikir dengan nama-nama tertentu (يا هادي، يا لطيف، يا فانساح، يا قوي، يا قدير، يا ذا القوة) ketika gejolak syahwat, pikiran bertumpuk, atau suasana hati keruh.
+- zikir Yā Hādī, Yā Laṭīf, Yā Fansyah (bacaan tidak pasti), Yā Qawiyy, Yā Qādir, dan Yā Dzā al-Quwwah sesuai jenis tabir
 
-Tujuan: Merespons tabir/lintasan yang muncul selama riyadhah.
+Langkah ke-1:
+
+Waktu yang dinyatakan: Selama riyadhah, sebagai respons ketika tabir/lintasan muncul.
+
+Langkah ke-2:
+
+Berwudu dan berzikir dengan nama-nama tertentu (يا هادي، يا لطيف، يا فانساح، يا قوي، يا قدير، يا ذا القوة) ketika gejolak syahwat, pikiran bertumpuk, atau suasana hati keruh.
+
+Tujuan:
+
+Merespons tabir/lintasan yang muncul selama riyadhah.
 
 ## Halaman 15 — enam syarat dan pembagian murid
 
@@ -856,11 +954,17 @@ Apabila salik telah menyempurnakan riyadhah-riyadhah ini dan mengikhlaskan diri 
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Syarat salik yang dinyatakan enam oleh sumber: tidak makan dari sumber tak diketahui, tidak menerima sebelum waktunya, tidak bergerak tanpa sebab, tidak tanpa wudu, tidak tidur lalai, tidak berbicara kecuali darurat, dan tidak meninggalkan kesucian.
+Media:
 
-Langkah 1: Enam syarat salik (tidak makan dari yang tidak diketahui, tidak menerima yang datang sebelum waktunya, tidak bergerak tanpa sebab, tidak tinggal tanpa wudu, tidak tidur sembarangan, tidak berbicara kecuali darurat, tidak meninggalkan kesucian).
+- Syarat salik yang dinyatakan enam oleh sumber: tidak makan dari sumber tak diketahui, tidak menerima sebelum waktunya, tidak bergerak tanpa sebab, tidak tanpa wudu, tidak tidur lalai, tidak berbicara kecuali darurat, dan tidak meninggalkan kesucian
 
-Tujuan: Memenuhi syarat salik yang dinyatakan naskah.
+Langkah ke-1:
+
+Enam syarat salik (tidak makan dari yang tidak diketahui, tidak menerima yang datang sebelum waktunya, tidak bergerak tanpa sebab, tidak tinggal tanpa wudu, tidak tidur sembarangan, tidak berbicara kecuali darurat, tidak meninggalkan kesucian).
+
+Tujuan:
+
+Memenuhi syarat salik yang dinyatakan naskah.
 
 ## Halaman 16 — wajah jiwa, zat, iman, dan nama-nama
 
@@ -1272,13 +1376,21 @@ Hendaklah murid menetap dalam khalwat selama delapan puluh hari sementara pikira
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Roti gandum (sya‘īr) atau burghul/jarisya untuk berbuka.
+Media:
 
-Langkah 1: Khalwat delapan puluh hari dengan zikir dan fikr.
+- Roti gandum (sya‘īr) atau burghul/jarisya untuk berbuka
 
-Langkah 2: Berbuka dengan roti gandum (sya‘ir) atau burghul.
+Langkah ke-1:
 
-Tujuan: Menjalani khalwat delapan puluh hari.
+Khalwat delapan puluh hari dengan zikir dan fikr.
+
+Langkah ke-2:
+
+Berbuka dengan roti gandum (sya‘ir) atau burghul.
+
+Tujuan:
+
+Menjalani khalwat delapan puluh hari.
 
 ## Halaman 30 — pembuka Bab Keenam: jiwa, ruh, dan tubuh
 
@@ -1456,19 +1568,37 @@ Ia tidak diarahkan menetapkan hari-hari tertentu sebagaimana pada riyadhah-riyad
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Roti gandum (sya‘īr) bercampur garam dan sedikit minyak untuk berbuka; zikir «يا أحد»; tempat sepi yang suci sesudah mandi.
+Media:
 
-Langkah 1: Berbuka dengan roti gandum (sya‘ir) bercampur garam dan sedikit minyak.
+- Roti gandum (sya‘īr) bercampur garam dan sedikit minyak untuk berbuka
 
-Langkah 2: Zikir «يا أحد».
+- zikir «يا أحد»
 
-Langkah 3: Salat fardu beserta sunahnya.
+- tempat sepi yang suci sesudah mandi
 
-Langkah 4: Dua rakaat duha dan dua rakaat zawal.
+Langkah ke-1:
 
-Langkah 5: Memutus hubungan duniawi dan duduk di tempat sepi yang suci setelah mandi.
+Berbuka dengan roti gandum (sya‘ir) bercampur garam dan sedikit minyak.
 
-Tujuan: Memenuhi syarat khalwat dan aturan berbuka yang dinyatakan.
+Langkah ke-2:
+
+Zikir «يا أحد».
+
+Langkah ke-3:
+
+Salat fardu beserta sunahnya.
+
+Langkah ke-4:
+
+Dua rakaat duha dan dua rakaat zawal.
+
+Langkah ke-5:
+
+Memutus hubungan duniawi dan duduk di tempat sepi yang suci setelah mandi.
+
+Tujuan:
+
+Memenuhi syarat khalwat dan aturan berbuka yang dinyatakan.
 
 ## Halaman 37 — tanda sepuluh pertama dan aturan zikir jahr
 
@@ -1494,17 +1624,29 @@ Siapa yang mendapatinya diarahkan bersungguh-sungguh berzikir dengan suara keras
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Zikir jahr bertahap: sejauh terdengar sendiri, lalu terdengar orang terdekat sampai tenang, kemudian kembali ke kadar semula.
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Sepuluh hari pertama latihan (pada sebagian orang sekitar hari kedua puluh); keadaan dapat berganti selama tiga hari atau sekitar itu.
+- Zikir jahr bertahap: sejauh terdengar sendiri, lalu terdengar orang terdekat sampai tenang, kemudian kembali ke kadar semula
 
-Langkah 2: Berzikir jahr sejauh terdengar sendiri.
+Langkah ke-1:
 
-Langkah 3: Lalu dengan suara yang terdengar orang dekat.
+Waktu yang dinyatakan: Sepuluh hari pertama latihan (pada sebagian orang sekitar hari kedua puluh); keadaan dapat berganti selama tiga hari atau sekitar itu.
 
-Langkah 4: Lalu kembali kepada kadar semula bila sudah tenang.
+Langkah ke-2:
 
-Tujuan: Mengatur kadar zikir jahr sampai keadaan tenang.
+Berzikir jahr sejauh terdengar sendiri.
+
+Langkah ke-3:
+
+Lalu dengan suara yang terdengar orang dekat.
+
+Langkah ke-4:
+
+Lalu kembali kepada kadar semula bila sudah tenang.
+
+Tujuan:
+
+Mengatur kadar zikir jahr sampai keadaan tenang.
 
 ## Halaman 38 — larangan menghijab diri dan warna cahaya
 
@@ -1532,11 +1674,17 @@ Sesudah itu, menurut penulis, di hadapan suatu misykah dzatiyah tampak cahaya pu
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tidak ada media material yang dinyatakan secara tersendiri.
+Media:
 
-Langkah 1: Selama riyadhah, pelaku diperingatkan agar tidak berhenti atau terhijab oleh tanda dan cahaya yang tampak—putih, hijau, dan merah—serta tidak menyibukkan pikiran dengan menoleh kepadanya.
+- Tidak ada media material yang dinyatakan secara tersendiri
 
-Tujuan: Tidak berhenti atau terhijab oleh tanda dan cahaya yang tampak selama riyadhah.
+Langkah ke-1:
+
+Selama riyadhah, pelaku diperingatkan agar tidak berhenti atau terhijab oleh tanda dan cahaya yang tampak—putih, hijau, dan merah—serta tidak menyibukkan pikiran dengan menoleh kepadanya.
+
+Tujuan:
+
+Tidak berhenti atau terhijab oleh tanda dan cahaya yang tampak selama riyadhah.
 
 ## Halaman 39 — tanda mendengar zikir sendiri dan genap delapan puluh hari
 
@@ -1562,17 +1710,29 @@ Jika pelaku riyadhah melihat dirinya demikian—jernih warnanya serta melihat la
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Berbaring ke sisi kanan sampai kantuk hilang, lalu bangun, berwudu, dan kembali berzikir.
+Media:
 
-Langkah 1: Bila kantuk menyerang.
+- Berbaring ke sisi kanan sampai kantuk hilang, lalu bangun, berwudu, dan kembali berzikir
 
-Langkah 2: Berbaring ke sisi kanan.
+Langkah ke-1:
 
-Langkah 3: Setelah hilang, bangun dan berwudu lalu kembali berzikir.
+Bila kantuk menyerang.
 
-Langkah 4: Menyempurnakan delapan puluh hari meski tanda sudah muncul.
+Langkah ke-2:
 
-Tujuan: Menyempurnakan delapan puluh hari.
+Berbaring ke sisi kanan.
+
+Langkah ke-3:
+
+Setelah hilang, bangun dan berwudu lalu kembali berzikir.
+
+Langkah ke-4:
+
+Menyempurnakan delapan puluh hari meski tanda sudah muncul.
+
+Tujuan:
+
+Menyempurnakan delapan puluh hari.
 
 ## Halaman 40 — hitungan sembilan puluh hari dan nama-nama penawar
 
@@ -1598,21 +1758,41 @@ Pelaku riyadhah ini diarahkan tidak makan “dari yang diketahui”—redaksi Ar
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Air tawar hangat, minyak lembap, dan wangi-wangian pada tahap keempat; nama-nama Allah as-Sarī‘, al-Ḥabīb, dan al-Qābiḍ saat keadaan mendesak; menghadap kiblat.
+Media:
 
-Langkah 1: Sembilan puluh hari, dua puluh hari pertama puasa tanpa washal.
+- Air tawar hangat, minyak lembap, dan wangi-wangian pada tahap keempat
 
-Langkah 2: Dua puluh kedua washal dua malam (Jumat dan Senin).
+- nama-nama Allah as-Sarī‘, al-Ḥabīb, dan al-Qābiḍ saat keadaan mendesak
 
-Langkah 3: Dua puluh ketiga washal tiap malam dan mandi tiap hari.
+- menghadap kiblat
 
-Langkah 4: Dua puluh keempat memakai air tawar hangat, minyak lembap, dan wangi-wangian.
+Langkah ke-1:
 
-Langkah 5: Tidak makan dari yang tidak diketahui.
+Sembilan puluh hari, dua puluh hari pertama puasa tanpa washal.
 
-Langkah 6: Menghadap kiblat, menjauhi perempuan, dan menyebut nama-nama Allah (السريع، الحبيب، القابض) saat keadaan mendesak.
+Langkah ke-2:
 
-Tujuan: Menjalani tahapan sembilan puluh hari yang dirinci naskah.
+Dua puluh kedua washal dua malam (Jumat dan Senin).
+
+Langkah ke-3:
+
+Dua puluh ketiga washal tiap malam dan mandi tiap hari.
+
+Langkah ke-4:
+
+Dua puluh keempat memakai air tawar hangat, minyak lembap, dan wangi-wangian.
+
+Langkah ke-5:
+
+Tidak makan dari yang tidak diketahui.
+
+Langkah ke-6:
+
+Menghadap kiblat, menjauhi perempuan, dan menyebut nama-nama Allah (السريع، الحبيب، القابض) saat keadaan mendesak.
+
+Tujuan:
+
+Menjalani tahapan sembilan puluh hari yang dirinci naskah.
 
 ## Halaman 41 — fasal kedelapan: sampai kepada hikmah
 
@@ -1642,23 +1822,45 @@ Salik diarahkan tidak meninggalkan kesucian ini setiap kali kesuciannya batal da
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Zikir «أستغفر الله الذي لا إله إلا هو الحي القيوم»; menjaga kesucian dan separuh perut saat puasa; sedekah.
+Media:
 
-Langkah 1: Zikir «أستغفر الله الذي لا إله إلا هو الحي القيوم» bersamaan puasa.
+- Zikir «أستغفر الله الذي لا إله إلا هو الحي القيوم»
 
-Langkah 2: Menjaga kesucian.
+- menjaga kesucian dan separuh perut saat puasa
 
-Langkah 3: Salat berjamaah.
+- sedekah
 
-Langkah 4: Meninggalkan bicara yang tidak perlu dan gibah.
+Langkah ke-1:
 
-Langkah 5: Bersedekah.
+Zikir «أستغفر الله الذي لا إله إلا هو الحي القيوم» bersamaan puasa.
 
-Langkah 6: Memperbanyak salawat hari Jumat.
+Langkah ke-2:
 
-Langkah 7: Menjaga separuh perut saat puasa.
+Menjaga kesucian.
 
-Tujuan: Tidak dinyatakan secara tersendiri pada halaman ini.
+Langkah ke-3:
+
+Salat berjamaah.
+
+Langkah ke-4:
+
+Meninggalkan bicara yang tidak perlu dan gibah.
+
+Langkah ke-5:
+
+Bersedekah.
+
+Langkah ke-6:
+
+Memperbanyak salawat hari Jumat.
+
+Langkah ke-7:
+
+Menjaga separuh perut saat puasa.
+
+Tujuan:
+
+Tidak dinyatakan secara tersendiri pada halaman ini.
 
 ## Halaman 42 — wirid Jumat, sedekah, dan riyadhah tiga hari
 
@@ -1684,19 +1886,37 @@ Jika engkau menginginkan riyadhah kecil, teks menetapkannya sebagai khalwat tiga
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Sedekah sebesar makanan yang dimakan; pantang yang bernyawa selama khalwat tiga hari; satu atau dua nama Allah yang dinilai penulis setara nilai nama sendiri.
+Media:
 
-Langkah 1: Memperbanyak salawat hari Jumat.
+- Sedekah sebesar makanan yang dimakan
 
-Langkah 2: Sedekah setiap hari sebesar makanan yang dimakan.
+- pantang yang bernyawa selama khalwat tiga hari
 
-Langkah 3: Riyadhah kecil tiga hari khalwat tanpa memakan yang bernyawa.
+- satu atau dua nama Allah yang dinilai penulis setara nilai nama sendiri
 
-Langkah 4: Berzikir dengan satu atau dua nama Allah yang setara nilai nama sendiri.
+Langkah ke-1:
 
-Langkah 5: Contoh nama Muhammad dengan «السلام» 131 kali setelah tiap salat fardu.
+Memperbanyak salawat hari Jumat.
 
-Tujuan: Menjalani wirid Jumat, sedekah harian, dan riyadhah kecil tiga hari.
+Langkah ke-2:
+
+Sedekah setiap hari sebesar makanan yang dimakan.
+
+Langkah ke-3:
+
+Riyadhah kecil tiga hari khalwat tanpa memakan yang bernyawa.
+
+Langkah ke-4:
+
+Berzikir dengan satu atau dua nama Allah yang setara nilai nama sendiri.
+
+Langkah ke-5:
+
+Contoh nama Muhammad dengan «السلام» 131 kali setelah tiap salat fardu.
+
+Tujuan:
+
+Menjalani wirid Jumat, sedekah harian, dan riyadhah kecil tiga hari.
 
 ## Halaman 43 — fasal kesembilan: qarin dan hadis Aisyah
 
@@ -1966,17 +2186,39 @@ Jika ia terlihat tersungkur, rangkaian ini mengarahkan agar ia ditanya tentang p
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Sumbu (kain) biru bertuliskan ayat «إنا أعتدنا للظالمين نارًا…» tiga kali, dicelup ter (qaṭrān) dan didekatkan ke hidung orang yang terkena; bacaan surah al-Jinn; tujuh barawāt bertuliskan nama tujuh raja; Khatam Sulaiman bersama Ayat Kursi, al-Falaq, al-Mu‘awwidzatain, al-Ikhlāṣ, dan Quraisy ditulis lalu digantungkan; Bukhur: Banyak bakaran wangi (bakhur) menyertai bacaan, dan tujuh barawāt dibakhurkan saat tidur; jenisnya tidak dirinci.
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Saat tidur untuk membakhurkan tujuh barawāt.
+- Sumbu (kain) biru bertuliskan ayat «إنا أعتدنا للظالمين نارًا…» tiga kali, dicelup ter (qaṭrān) dan didekatkan ke hidung orang yang terkena
 
-Langkah 2: Ditulis «خاتم» pada kertas, menuliskan ayat «إنا أعتدنا للظالمين نارًا أحاط بهم سرادقها» pada sumbu/fatilah.
+- bacaan surah al-Jinn
 
-Langkah 3: Dibakar dengan قطران lalu didekatkan ke hidung orang yang kerasukan sambil membaca surah al-Jinn dan banyak بخور.
+- tujuh barawāt bertuliskan nama tujuh raja
 
-Langkah 4: Lalu berdialog dengan jin yang berbicara, dan ditulis tujuh «بروات» berisi nama tujuh raja, digantungkan bersama خاتم سليمان, آية الكرسي, الفلق, المعوذتين, الإخلاص dan surah Quraisy.
+- Khatam Sulaiman bersama Ayat Kursi, al-Falaq, al-Mu‘awwidzatain, al-Ikhlāṣ, dan Quraisy ditulis lalu digantungkan
 
-Tujuan: Lanjutan pengobatan orang yang kerasukan.
+- Bukhur: Banyak bakaran wangi (bakhur) menyertai bacaan, dan tujuh barawāt dibakhurkan saat tidur
+
+- jenisnya tidak dirinci
+
+Langkah ke-1:
+
+Waktu yang dinyatakan: Saat tidur untuk membakhurkan tujuh barawāt.
+
+Langkah ke-2:
+
+Ditulis «خاتم» pada kertas, menuliskan ayat «إنا أعتدنا للظالمين نارًا أحاط بهم سرادقها» pada sumbu/fatilah.
+
+Langkah ke-3:
+
+Dibakar dengan قطران lalu didekatkan ke hidung orang yang kerasukan sambil membaca surah al-Jinn dan banyak بخور.
+
+Langkah ke-4:
+
+Lalu berdialog dengan jin yang berbicara, dan ditulis tujuh «بروات» berisi nama tujuh raja, digantungkan bersama خاتم سليمان, آية الكرسي, الفلق, المعوذتين, الإخلاص dan surah Quraisy.
+
+Tujuan:
+
+Lanjutan pengobatan orang yang kerasukan.
 
 ## Halaman 51 — aturan siang–malam dan bahan bakaran
 
@@ -2002,17 +2244,37 @@ Bukhur, menurut penulis, tidak tersembunyi bagimu jika ia mengaku sebagai Maimun
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Bacaan dan ‘azīmah; khatam dibentuk dalam ḥirz dan digantungkan di tempat itu; Bukhur: Menurut golongan: untuk Maimūn «al-mubyaḍḍah as-sā’ilah» atau «bakhūr as-sūdān»; untuk al-Aḥmar ‘ilk Rūmī/muql merah dan jāwī; untuk (jin) bumi muṣṭakā atau semacamnya, fulful, atau kabābah (sebagian istilah tidak pasti).
+Media:
 
-Langkah 1: Memulai dengan bacaan dan «عزيمة».
+- Bacaan dan ‘azīmah
 
-Langkah 2: Lalu bertanya kepada jin yang berbicara: apakah ia dari golongan siang atau malam.
+- khatam dibentuk dalam ḥirz dan digantungkan di tempat itu
 
-Langkah 3: Siang diobati siang dan malam diobati malam.
+- Bukhur: Menurut golongan: untuk Maimūn «al-mubyaḍḍah as-sā’ilah» atau «bakhūr as-sūdān»
 
-Langkah 4: Menyediakan بخور (mimun, الأحمر/العنبر, الجاوى, المصطكى, الفلفل, كبابة, dan semacamnya) serta menuliskan hijab yang digantungkan.
+- untuk al-Aḥmar ‘ilk Rūmī/muql merah dan jāwī
 
-Tujuan: Mengobati golongan siang pada siang dan golongan malam pada malam.
+- untuk (jin) bumi muṣṭakā atau semacamnya, fulful, atau kabābah (sebagian istilah tidak pasti)
+
+Langkah ke-1:
+
+Memulai dengan bacaan dan «عزيمة».
+
+Langkah ke-2:
+
+Lalu bertanya kepada jin yang berbicara: apakah ia dari golongan siang atau malam.
+
+Langkah ke-3:
+
+Siang diobati siang dan malam diobati malam.
+
+Langkah ke-4:
+
+Menyediakan بخور (mimun, الأحمر/العنبر, الجاوى, المصطكى, الفلفل, كبابة, dan semacamnya) serta menuliskan hijab yang digantungkan.
+
+Tujuan:
+
+Mengobati golongan siang pada siang dan golongan malam pada malam.
 
 ## Halaman 52 — Fasal Kedua Belas: syarat kerja satu sampai sembilan
 
@@ -2050,23 +2312,55 @@ Fasal Kedua Belas. Penulis menyebut syarat-syarat berikut sebagai poros pekerjaa
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tempat bersih tanpa perempuan haid; keadaan tertutup (satr); selawat dengan suara diangkat; ‘azm dan syarṭah; tanpa menggantung ḥirz; bekerja di bawah atap atau penghalang dari langit; Bukhur: Dihadirkan selama pekerjaan; jenisnya tidak dirinci pada unit ini.
+Media:
 
-Langkah 1: Syarat kerja — tempat bersih dan tidak ada perempuan haid.
+- Tempat bersih tanpa perempuan haid
 
-Langkah 2: Bekerja dalam keadaan tertutup (ستر).
+- keadaan tertutup (satr)
 
-Langkah 3: Tidak banyak bicara.
+- selawat dengan suara diangkat
 
-Langkah 4: Mengobati penghuni siang pada siang dan penghuni malam pada malam.
+- ‘azm dan syarṭah
 
-Langkah 5: Mengangkat suara dengan selawat.
+- tanpa menggantung ḥirz
 
-Langkah 6: Menghadirkan bakhur, «عزم» dan «شرطة».
+- bekerja di bawah atap atau penghalang dari langit
 
-Langkah 7: Tidak menggantung hirz, dan bekerja di bawah atap atau penghalang antara engkau dan langit.
+- Bukhur: Dihadirkan selama pekerjaan
 
-Tujuan: Memenuhi syarat kerja pengobatan yang dinyatakan naskah.
+- jenisnya tidak dirinci pada unit ini
+
+Langkah ke-1:
+
+Syarat kerja — tempat bersih dan tidak ada perempuan haid.
+
+Langkah ke-2:
+
+Bekerja dalam keadaan tertutup (ستر).
+
+Langkah ke-3:
+
+Tidak banyak bicara.
+
+Langkah ke-4:
+
+Mengobati penghuni siang pada siang dan penghuni malam pada malam.
+
+Langkah ke-5:
+
+Mengangkat suara dengan selawat.
+
+Langkah ke-6:
+
+Menghadirkan bakhur, «عزم» dan «شرطة».
+
+Langkah ke-7:
+
+Tidak menggantung hirz, dan bekerja di bawah atap atau penghalang antara engkau dan langit.
+
+Tujuan:
+
+Memenuhi syarat kerja pengobatan yang dinyatakan naskah.
 
 ## Halaman 53 — syarat sepuluh sampai lima belas
 
@@ -2100,15 +2394,37 @@ Kedua belas: pengobatan jin menurut teks berada pada empat hal—‘aza'im, peng
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Empat ‘azā’im dengan pengasapan; minyak-minyakan yang disertai tulisan; tulisan hijab; pengaturan duduk/berbaring dan pendamping sesama jenis; tidak di depan pintu rumah; Bukhur: Wajib menyertai yang dibacakan azimat; jenisnya tidak dirinci.
+Media:
 
-Langkah 1: Tidak mengobati di depan pintu rumah.
+- Empat ‘azā’im dengan pengasapan
 
-Langkah 2: Mengatur posisi duduk/berbaring orang yang terkena.
+- minyak-minyakan yang disertai tulisan
 
-Langkah 3: Tidak mendudukkan perempuan yang terkena di samping perempuan lain kecuali sesama jenis, empat «عزائم» dengan pembakaran dan minyak serta tulisan hijab, waktu pengobatan pagi–setelah Asar–setelah Magrib, dan larangan menggauli istri selama masa pengobatan.
+- tulisan hijab
 
-Tujuan: Memenuhi syarat kerja pengobatan yang dinyatakan naskah.
+- pengaturan duduk/berbaring dan pendamping sesama jenis
+
+- tidak di depan pintu rumah
+
+- Bukhur: Wajib menyertai yang dibacakan azimat
+
+- jenisnya tidak dirinci
+
+Langkah ke-1:
+
+Tidak mengobati di depan pintu rumah.
+
+Langkah ke-2:
+
+Mengatur posisi duduk/berbaring orang yang terkena.
+
+Langkah ke-3:
+
+Tidak mendudukkan perempuan yang terkena di samping perempuan lain kecuali sesama jenis, empat «عزائم» dengan pembakaran dan minyak serta tulisan hijab, waktu pengobatan pagi–setelah Asar–setelah Magrib, dan larangan menggauli istri selama masa pengobatan.
+
+Tujuan:
+
+Memenuhi syarat kerja pengobatan yang dinyatakan naskah.
 
 ## Halaman 54 — syarat enam belas sampai delapan belas dan ringkasan
 
@@ -2134,13 +2450,31 @@ Keenam belas: orang yang terkena tidak mandi tanpa penutup. Ketujuh belas: pada 
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Memandikan orang yang terkena dengan penutup dan oleh sesama jenis; pakaian kasar; ‘azīmah yang kuat; syarat kerja ringkasan (bersih, satr, selawat, tanpa ḥirz gantung, di bawah atap); Bukhur: Hadir dan mengepul; jenisnya tidak dirinci.
+Media:
 
-Langkah 1: Syarat 16–18 — tidak memandikan orang yang terkena tanpa penutup, baik lelaki memandikan lelaki maupun perempuan memandikan perempuan, dan mandi sebelum bekerja.
+- Memandikan orang yang terkena dengan penutup dan oleh sesama jenis
 
-Langkah 2: Ringkasan syarat (kebersihan, tidak haid, tertutup, tidak banyak bicara, mengobati siang/malam, selawat, bakhur, tidak menggantung hirz, di bawah atap, tidak di depan pintu, duduk, sesama jenis, empat عزائم, waktu-waktu tertentu, tidak berhubungan selama pengobatan, menjauhi kay).
+- pakaian kasar
 
-Tujuan: Memenuhi syarat kerja pengobatan yang dinyatakan naskah.
+- ‘azīmah yang kuat
+
+- syarat kerja ringkasan (bersih, satr, selawat, tanpa ḥirz gantung, di bawah atap)
+
+- Bukhur: Hadir dan mengepul
+
+- jenisnya tidak dirinci
+
+Langkah ke-1:
+
+Syarat 16–18 — tidak memandikan orang yang terkena tanpa penutup, baik lelaki memandikan lelaki maupun perempuan memandikan perempuan, dan mandi sebelum bekerja.
+
+Langkah ke-2:
+
+Ringkasan syarat (kebersihan, tidak haid, tertutup, tidak banyak bicara, mengobati siang/malam, selawat, bakhur, tidak menggantung hirz, di bawah atap, tidak di depan pintu, duduk, sesama jenis, empat عزائم, waktu-waktu tertentu, tidak berhubungan selama pengobatan, menjauhi kay).
+
+Tujuan:
+
+Memenuhi syarat kerja pengobatan yang dinyatakan naskah.
 
 ## Halaman 55 — hijab البقرة–يس, qarin yang mencintai, dan susunan bacaan
 
@@ -2166,17 +2500,31 @@ Ketahuilah, wahai saudaraku yang mukmin, penulis mengklaim bahwa qarin dari jin 
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Hijab berisi khawātim surah al-Baqarah dan surah Yāsīn; susunan bacaan al-Fātiḥah, awal al-Baqarah, empat khawātim pertama dan empat terakhir al-Baqarah dengan Ayat Kursi di tengah, dan akhir al-Ḥasyr.
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Larangan pendamping pada unit ini: tidak keluar pada malam hari dan tidak mendekati perempuan pada hari-hari haid.
+- Hijab berisi khawātim surah al-Baqarah dan surah Yāsīn
 
-Langkah 2: Hijab berisi خواتم سورة البقرة dan سورة يس untuk menghalangi ‘ifrit.
+- susunan bacaan al-Fātiḥah, awal al-Baqarah, empat khawātim pertama dan empat terakhir al-Baqarah dengan Ayat Kursi di tengah, dan akhir al-Ḥasyr
 
-Langkah 3: Penjelasan bahwa qarin jin yang mencintai seseorang menghalangi pernikahan dan membuat pasangan melihat hal menakutkan.
+Langkah ke-1:
 
-Langkah 4: Susunan bacaan: الفاتحة, awal البقرة, empat خواتم pertama dan empat خواتم terakhir البقرة, آية الكرسي di tengah, dan akhir سورة الحشر.
+Waktu yang dinyatakan: Larangan pendamping pada unit ini: tidak keluar pada malam hari dan tidak mendekati perempuan pada hari-hari haid.
 
-Tujuan: Menghalangi ‘ifrit dan membaca susunan bacaan yang dinyatakan.
+Langkah ke-2:
+
+Hijab berisi خواتم سورة البقرة dan سورة يس untuk menghalangi ‘ifrit.
+
+Langkah ke-3:
+
+Penjelasan bahwa qarin jin yang mencintai seseorang menghalangi pernikahan dan membuat pasangan melihat hal menakutkan.
+
+Langkah ke-4:
+
+Susunan bacaan: الفاتحة, awal البقرة, empat خواتم pertama dan empat خواتم terakhir البقرة, آية الكرسي di tengah, dan akhir سورة الحشر.
+
+Tujuan:
+
+Menghalangi ‘ifrit dan membaca susunan bacaan yang dinyatakan.
 
 ## Halaman 56 — penutup Fasal Kedua Belas
 
@@ -2204,13 +2552,21 @@ Penulis berkata bahwa ia mencukupkan diri dengan penjelasan ini dan akan memberi
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Rangkaian bacaan dari «لو أنزلنا هذا القرآن على جبل…» sampai akhir al-Ikhlāṣ dan al-Mu‘awwidzatain diulang tiga kali sebagai penutup susunan unit sebelumnya.
+Media:
 
-Langkah 1: Mengulang bacaan susunan itu tiga kali dan menempatkan «نهاية القرين» pada tempat yang halal.
+- Rangkaian bacaan dari «لو أنزلنا هذا القرآن على جبل…» sampai akhir al-Ikhlāṣ dan al-Mu‘awwidzatain diulang tiga kali sebagai penutup susunan unit sebelumnya
 
-Langkah 2: Penulis menyatakan sulitnya mengetahui jumlah kabilah jin dan bahwa ia mencukupkan diri pada keterangan ini serta berjanji memberi sebagian faedah.
+Langkah ke-1:
 
-Tujuan: Menutup susunan bacaan dan menempatkan «نهاية القرين» pada tempat yang halal.
+Mengulang bacaan susunan itu tiga kali dan menempatkan «نهاية القرين» pada tempat yang halal.
+
+Langkah ke-2:
+
+Penulis menyatakan sulitnya mengetahui jumlah kabilah jin dan bahwa ia mencukupkan diri pada keterangan ini serta berjanji memberi sebagian faedah.
+
+Tujuan:
+
+Menutup susunan bacaan dan menempatkan «نهاية القرين» pada tempat yang halal.
 
 ## Halaman 57 — Fasal Ketiga Belas: doa untuk segala penyakit
 
@@ -2240,13 +2596,21 @@ Fasal Ketiga Belas: Faedah untuk Berobat dari Segala Penyakit. Dengan nama Allah
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Doa panjang dibuka basmalah dan selawat, memuat kutipan akhir surah (dirujuk catatan ke at-Taubah 9:128), al-Ikhlāṣ, al-Mu‘awwidzatain, al-Fātiḥah, Āli ‘Imrān, dan al-Ḥasyr, lalu rangkaian asma dan qasam.
+Media:
 
-Langkah 1: Membaca doa panjang untuk pengobatan segala penyakit, dibuka dengan basmalah, selawat, kutipan ayat (آخر السورة, الإخلاص, المعوذتين, الفاتحة, آل عمران, الحشر).
+- Doa panjang dibuka basmalah dan selawat, memuat kutipan akhir surah (dirujuk catatan ke at-Taubah 9:128), al-Ikhlāṣ, al-Mu‘awwidzatain, al-Fātiḥah, Āli ‘Imrān, dan al-Ḥasyr, lalu rangkaian asma dan qasam
 
-Langkah 2: Lalu rangkaian asma dan qasam (بحق خليلك إبراهيم…).
+Langkah ke-1:
 
-Tujuan: Pengobatan segala penyakit.
+Membaca doa panjang untuk pengobatan segala penyakit, dibuka dengan basmalah, selawat, kutipan ayat (آخر السورة, الإخلاص, المعوذتين, الفاتحة, آل عمران, الحشر).
+
+Langkah ke-2:
+
+Lalu rangkaian asma dan qasam (بحق خليلك إبراهيم…).
+
+Tujuan:
+
+Pengobatan segala penyakit.
 
 ## Halaman 58 — penutup doa dan wafaq مخمس (rajah)
 
@@ -2354,13 +2718,21 @@ Untuk mengetahui hakikatnya, penulis menyatakan engkau harus mengetahui beberapa
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Daftar pengetahuan prasyarat yang dituntut penulis: hari-hari, buruj, nama-nama bulan, sulṭān malaikat, tujuh raja, tujuh rūḥānī, tujuh bintang (darārī), dan empat kepala.
+Media:
 
-Langkah 1: Peringatan penulis terhadap orang yang mengaku berhubungan dengan jin tetapi tidak menyembuhkan.
+- Daftar pengetahuan prasyarat yang dituntut penulis: hari-hari, buruj, nama-nama bulan, sulṭān malaikat, tujuh raja, tujuh rūḥānī, tujuh bintang (darārī), dan empat kepala
 
-Langkah 2: Lalu daftar pengetahuan yang harus dikuasai: hari-hari, buruj, nama-nama bulan, nama sulthan malaikat, nama tujuh raja, nama tujuh ruhani, nama tujuh bintang (دراري), dan seterusnya.
+Langkah ke-1:
 
-Tujuan: Menguasai daftar pengetahuan prasyarat yang dituntut penulis.
+Peringatan penulis terhadap orang yang mengaku berhubungan dengan jin tetapi tidak menyembuhkan.
+
+Langkah ke-2:
+
+Lalu daftar pengetahuan yang harus dikuasai: hari-hari, buruj, nama-nama bulan, nama sulthan malaikat, nama tujuh raja, nama tujuh ruhani, nama tujuh bintang (دراري), dan seterusnya.
+
+Tujuan:
+
+Menguasai daftar pengetahuan prasyarat yang dituntut penulis.
 
 ## Halaman 60 — hari-hari, planet, logam, dan awal buruj
 
@@ -2408,15 +2780,27 @@ Inilah hari-hari itu. Menurut penulis setiap hari mempunyai satu derajat dari tu
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Logam padanan tiap hari menurut penulis: emas, perak, besi, air raksa, timah, tembaga, timbal; awal daftar buruj: Aries, Taurus, Gemini, Cancer.
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Tujuh hari Ahad–Sabtu dengan planet yang disebutkan: Matahari, Bulan, Mars, Merkurius, Jupiter, Venus, Saturnus.
+- Logam padanan tiap hari menurut penulis: emas, perak, besi, air raksa, timah, tembaga, timbal
 
-Langkah 2: Daftar hari satu sampai tujuh beserta planet (الشمس، القمر، المريخ، عطارد، المشتري، الزهرة، زحل) dan logam padanannya (الذهب، الفضة، الحديد، الزئبق، القصدير، النحاس، الرصاص).
+- awal daftar buruj: Aries, Taurus, Gemini, Cancer
 
-Langkah 3: Lalu awal daftar buruj.
+Langkah ke-1:
 
-Tujuan: Mengetahui padanan hari, planet, logam, dan awal buruj.
+Waktu yang dinyatakan: Tujuh hari Ahad–Sabtu dengan planet yang disebutkan: Matahari, Bulan, Mars, Merkurius, Jupiter, Venus, Saturnus.
+
+Langkah ke-2:
+
+Daftar hari satu sampai tujuh beserta planet (الشمس، القمر، المريخ، عطارد، المشتري، الزهرة، زحل) dan logam padanannya (الذهب، الفضة، الحديد، الزئبق، القصدير، النحاس، الرصاص).
+
+Langkah ke-3:
+
+Lalu awal daftar buruj.
+
+Tujuan:
+
+Mengetahui padanan hari, planet, logam, dan awal buruj.
 
 ## Halaman 61 — buruj lima sampai dua belas dan nama-nama bintang
 
@@ -2450,15 +2834,25 @@ Asmaa-ul qamari bi-maqluubihii. Liyaakhiim - liyaaghuur - liyaafuur - liyaawarsy
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Daftar buruj 5–12, tujuh bintang/planet, dan dua kolom nama bulan.
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Rujukan buruj 5–12 (Leo, Virgo, Libra, Scorpio, Sagitarius, Capricorn, Aquarius, Pisces), tujuh bintang/planet, dan dua kolom nama bulan (ejaan banyak nama tidak pasti).
+- Daftar buruj 5–12, tujuh bintang/planet, dan dua kolom nama bulan
 
-Langkah 2: Daftar buruj 5–12 (الأسد، السنبلة، الميزان، العقرب، القوس، الجدي، الدلو، الحوت), daftar tujuh bintang (الشمس…زحل), dan dua kolom nama bulan: «أسماء القمر» dan «أسماء القمر مقلوبه».
+Langkah ke-1:
 
-Langkah 3: Nama-nama ini tidak dikoreksi ejaannya.
+Waktu yang dinyatakan: Rujukan buruj 5–12 (Leo, Virgo, Libra, Scorpio, Sagitarius, Capricorn, Aquarius, Pisces), tujuh bintang/planet, dan dua kolom nama bulan (ejaan banyak nama tidak pasti).
 
-Tujuan: Mengetahui buruj 5–12, tujuh bintang/planet, dan nama-nama bulan.
+Langkah ke-2:
+
+Daftar buruj 5–12 (الأسد، السنبلة، الميزان، العقرب، القوس، الجدي، الدلو، الحوت), daftar tujuh bintang (الشمس…زحل), dan dua kolom nama bulan: «أسماء القمر» dan «أسماء القمر مقلوبه».
+
+Langkah ke-3:
+
+Nama-nama ini tidak dikoreksi ejaannya.
+
+Tujuan:
+
+Mengetahui buruj 5–12, tujuh bintang/planet, dan nama-nama bulan.
 
 ## Halaman 62 — sulthan malaikat dan tujuh raja
 
@@ -2506,15 +2900,25 @@ Tujuan: Mengetahui buruj 5–12, tujuh bintang/planet, dan nama-nama bulan.
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Daftar empat sulthan malaikat dan tujuh raja menurut hari.
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Tujuh raja menurut hari: Madzhab (Ahad), Marrah (Senin), al-Aḥmar (Selasa), Barqān (Rabu), Syamhūrasy (Kamis), al-Abyaḍ (Jumat), Maimūn (Sabtu); ejaan dipertahankan.
+- Daftar empat sulthan malaikat dan tujuh raja menurut hari
 
-Langkah 2: Daftar empat sulthan malaikat (جبريل، ميكائيل، عزرائيل، اسرافيل) beserta tugas yang disebutkan.
+Langkah ke-1:
 
-Langkah 3: Lalu daftar tujuh raja jin dengan hari yang menjadi tanggung jawabnya (الأحد…السبت).
+Waktu yang dinyatakan: Tujuh raja menurut hari: Madzhab (Ahad), Marrah (Senin), al-Aḥmar (Selasa), Barqān (Rabu), Syamhūrasy (Kamis), al-Abyaḍ (Jumat), Maimūn (Sabtu); ejaan dipertahankan.
 
-Tujuan: Mengetahui empat sulthan malaikat dan tujuh raja menurut hari.
+Langkah ke-2:
+
+Daftar empat sulthan malaikat (جبريل، ميكائيل، عزرائيل، اسرافيل) beserta tugas yang disebutkan.
+
+Langkah ke-3:
+
+Lalu daftar tujuh raja jin dengan hari yang menjadi tanggung jawabnya (الأحد…السبت).
+
+Tujuan:
+
+Mengetahui empat sulthan malaikat dan tujuh raja menurut hari.
 
 ## Halaman 63 — empat kepala, tujuh ruhani, dan pembatalan sihir
 
@@ -2550,15 +2954,35 @@ Demikianlah, saudaraku yang mukmin, penulis menyajikan kepadamu segala hal tenta
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Daftar empat ru’ūs dan tujuh rūḥānī (ejaan dipertahankan); bantuan empat kepala beserta planet-planet; ‘azīmah; rangkaian nama pada judul «tabṭīl as-siḥr wa bakhūr li-jamī‘ ar-riyāḥ mujarrab»; Bukhur: Disebutkan bersama ‘azīmah dan pada judul bakhur untuk segala angin; jenisnya tidak dirinci.
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Pada hari apa pun dari tujuh hari, menurut raja hari dan raja rūḥānī yang bersangkutan.
+- Daftar empat ru’ūs dan tujuh rūḥānī (ejaan dipertahankan)
 
-Langkah 2: Daftar empat «رؤوس» (مازر، كطم، قندورة، طيکل) dan tujuh ruhani (روفائيل، جبرائيل، سمسمائيل، ميكائيل، صرفيائيل، عنيائيل، كسفيائيل).
+- bantuan empat kepala beserta planet-planet
 
-Langkah 3: Lalu petunjuk memanggil «ملك اليوم» dan «ملك الروحاني» dengan bakhur dan عزيمة, serta judul «تبطيل السحر وبخور لجميع الرياح مجرب» dengan sederet nama.
+- ‘azīmah
 
-Tujuan: Memulai pengobatan qarin dan pembatalan sihir.
+- rangkaian nama pada judul «tabṭīl as-siḥr wa bakhūr li-jamī‘ ar-riyāḥ mujarrab»
+
+- Bukhur: Disebutkan bersama ‘azīmah dan pada judul bakhur untuk segala angin
+
+- jenisnya tidak dirinci
+
+Langkah ke-1:
+
+Waktu yang dinyatakan: Pada hari apa pun dari tujuh hari, menurut raja hari dan raja rūḥānī yang bersangkutan.
+
+Langkah ke-2:
+
+Daftar empat «رؤوس» (مازر، كطم، قندورة، طيکل) dan tujuh ruhani (روفائيل، جبرائيل، سمسمائيل، ميكائيل، صرفيائيل، عنيائيل، كسفيائيل).
+
+Langkah ke-3:
+
+Lalu petunjuk memanggil «ملك اليوم» dan «ملك الروحاني» dengan bakhur dan عزيمة, serta judul «تبطيل السحر وبخور لجميع الرياح مجرب» dengan sederet nama.
+
+Tujuan:
+
+Memulai pengobatan qarin dan pembatalan sihir.
 
 ## Halaman 64 — pembatalan sihir dan lambang خاتم سليمان
 
@@ -2598,21 +3022,23 @@ Media:
 
 - مِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ (misik, za'faran, air mawar)
 
-Langkah 1: Tulis ayat:
+Langkah ke-1 - Tulis ayat:
 
 قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ إِنَّ اللَّهَ سَيُبْطِلُهُ - وَقَدِمْنَا إِلَى مَا عَمِلُوا - إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ
 
-Langkah 2: Tulis doa:
+Langkah ke-2 - Tulis doa:
 
 اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ عَنْ فُلَانٍ...
 
-Langkah 3: Tulis Khatam Sulaiman di bawah doa (lihat foto asli Hal 64)
+Langkah ke-3 - Tulis Khatam Sulaiman di bawah doa (lihat foto asli Hal 64)
 
-Langkah 4: Cara pakai:
+Langkah ke-4 - Cara pakai:
 
 يُكْتَبُ وَيُحْمَلُ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ - Ditulis dengan misik, za'faran, air mawar, lalu dibawa.
 
-Tujuan: وَالنَّظْرَةِ السَّوْءِ وَالسِّحْرِ وَالتَّعْطِيلِ - untuk pandangan buruk, sihir, ta'thil menurut penulis.
+Tujuan:
+
+وَالنَّظْرَةِ السَّوْءِ وَالسِّحْرِ وَالتَّعْطِيلِ - untuk pandangan buruk, sihir, ta'thil menurut penulis.
 
 ## Halaman 65 — tulisan pengobatan dan lambang خاتم سليمان
 
@@ -2656,25 +3082,27 @@ Media:
 
 - خَاتَمُ سُلَيْمَانَ (gambar di Hal 65)
 
-Langkah 1: Tulis di dalam wadah porselen Cina dengan za'faran + air mawar:
+Langkah ke-1 - Tulis di dalam wadah porselen Cina dengan za'faran + air mawar:
 
 Ayat-ayat: ذَلِكَ تَخْفِيفٌ... يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ... وَلَهُ مَا سَكَنَ... إِنْ يَشَأْ يُسْكِنِ الرِّيحَ...
 
-Langkah 2: Tulis di bawahnya rangkaian huruf:
+Langkah ke-2 - Tulis di bawahnya rangkaian huruf:
 
 الم الم المص المر الر المر كهيعص طه طسم الم الم الم الم الم يس ص حم حم عسق حم حم حم حم حم ق ن (seperti tercetak)
 
-Langkah 3: Tulis doa:
+Langkah ke-3 - Tulis doa:
 
 بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ... اللَّهُمَّ اشْفِنِي أَنْتَ الشَّافِي...
 
-Langkah 4: Tulis Khatam Sulaiman di akhir (lihat foto Hal 65)
+Langkah ke-4 - Tulis Khatam Sulaiman di akhir (lihat foto Hal 65)
 
-Langkah 5: Cara pakai:
+Langkah ke-5 - Cara pakai:
 
 يُمْحَى بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ - Dihapus/dilarutkan dengan air sumur tersebut, lalu airnya diminumkan/dipakai.
 
-Tujuan: لِلتَّدَاوِي مِنَ الْمَرَضِ - untuk berobat dari penyakit menurut penulis.
+Tujuan:
+
+لِلتَّدَاوِي مِنَ الْمَرَضِ - untuk berobat dari penyakit menurut penulis.
 
 ## Halaman 66 — doa perlindungan dan rajah الشفاء
 
@@ -2706,11 +3134,21 @@ Bagian berikutnya berjudul “Untuk kesembuhan dari setiap penyakit dan semua sa
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Doa perlindungan (ta‘awwudz); bagian «untuk kesembuhan dari segala penyakit» yang ditulis; rajah besar bergambar (kolom-kolom berisi huruf dan garis).
+Media:
 
-Langkah 1: Doa perlindungan dari segala yang dibenci (ta‘awwudz) dan bagian «untuk kesembuhan dari segala penyakit» yang ditulis, dipanaskan, dan digantung, disertai **rajah besar bergambar** (kolom-kolom berisi huruf dan garis).
+- Doa perlindungan (ta‘awwudz)
 
-Tujuan: Perlindungan dari segala yang dibenci dan kesembuhan dari segala penyakit.
+- bagian «untuk kesembuhan dari segala penyakit» yang ditulis
+
+- rajah besar bergambar (kolom-kolom berisi huruf dan garis)
+
+Langkah ke-1:
+
+Doa perlindungan dari segala yang dibenci (ta‘awwudz) dan bagian «untuk kesembuhan dari segala penyakit» yang ditulis, dipanaskan, dan digantung, disertai **rajah besar bergambar** (kolom-kolom berisi huruf dan garis).
+
+Tujuan:
+
+Perlindungan dari segala yang dibenci dan kesembuhan dari segala penyakit.
 
 ## Halaman 67 — Fasal Keempat Belas: إبطال السحر وحل المربوط
 
@@ -2746,19 +3184,41 @@ Judul berikutnya: “Untuk membatalkan sihir, memalingkan para ‘aridh, dan mel
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tujuh lembar kertas putih; tiga lembar kertas; rajah nama-nama; Bukhur: Jawi, lubbān, mastika, dan ‘ūd; habbat al-barakah, fāsūkh Maghribi, pohon Maryam, mastika, kundur, dan sadab kering.
+Media:
 
-Langkah 1: Menuliskan «طلاسم» pada tujuh lembar kertas putih, masing-masing dengan jawi, lubbān, mastika, dan ‘ūd.
+- Tujuh lembar kertas putih
 
-Langkah 2: Dibakar dan asapnya diarahkan ke orang yang tersihir/terikat sambil membaca surah Yasin sampai lembar habis.
+- tiga lembar kertas
 
-Langkah 3: Disertai rajah nama-nama.
+- rajah nama-nama
 
-Langkah 4: Lalu bagian kedua: ditulis pada tiga lembar dengan campuran bahan (habbat al-barakah, fāsūkh Maghribi, pohon Maryam, mastika, kundur, sadab kering).
+- Bukhur: Jawi, lubbān, mastika, dan ‘ūd
 
-Langkah 5: Dibakar dan diuapkan kepada pasien.
+- habbat al-barakah, fāsūkh Maghribi, pohon Maryam, mastika, kundur, dan sadab kering
 
-Tujuan: Membatalkan sihir dan melepaskan orang yang terikat.
+Langkah ke-1:
+
+Menuliskan «طلاسم» pada tujuh lembar kertas putih, masing-masing dengan jawi, lubbān, mastika, dan ‘ūd.
+
+Langkah ke-2:
+
+Dibakar dan asapnya diarahkan ke orang yang tersihir/terikat sambil membaca surah Yasin sampai lembar habis.
+
+Langkah ke-3:
+
+Disertai rajah nama-nama.
+
+Langkah ke-4:
+
+Lalu bagian kedua: ditulis pada tiga lembar dengan campuran bahan (habbat al-barakah, fāsūkh Maghribi, pohon Maryam, mastika, kundur, sadab kering).
+
+Langkah ke-5:
+
+Dibakar dan diuapkan kepada pasien.
+
+Tujuan:
+
+Membatalkan sihir dan melepaskan orang yang terikat.
 
 ## Halaman 68 — عزم pengusiran dan fadilah kehamilan
 
@@ -2792,17 +3252,33 @@ Di awal halaman Lapis 1 memuat rajah halaman 68 melalui crop pengguna. ‘Azm se
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Rajah dua baris huruf/lambang sesudah kata «taktubu»; bacaan ‘azm pengusiran dengan nama orang dan ibunya serta penanda tiga kali; ayat QS al-Kahf 18:25 dan «Alif Lām Mīm» ditulis lalu digantungkan pada perempuan.
+Media:
 
-Langkah 1: Tulisan «تكتب» dengan baris huruf.
+- Rajah dua baris huruf/lambang sesudah kata «taktubu»
 
-Langkah 2: Lalu «عزم» pengusiran (نزل يا فارس…) yang menyebut nama orang dan ibunya, dengan rangkaian nama dan «الأسم الأعظم».
+- bacaan ‘azm pengusiran dengan nama orang dan ibunya serta penanda tiga kali
 
-Langkah 3: Kemudian «فائدة للحمل»: ditulis ayat dan menggantungkannya pada perempuan.
+- ayat QS al-Kahf 18:25 dan «Alif Lām Mīm» ditulis lalu digantungkan pada perempuan
 
-Langkah 4: Lalu berhubungan dengan suaminya.
+Langkah ke-1:
 
-Tujuan: Pengusiran dan kehamilan.
+Tulisan «تكتب» dengan baris huruf.
+
+Langkah ke-2:
+
+Lalu «عزم» pengusiran (نزل يا فارس…) yang menyebut nama orang dan ibunya, dengan rangkaian nama dan «الأسم الأعظم».
+
+Langkah ke-3:
+
+Kemudian «فائدة للحمل»: ditulis ayat dan menggantungkannya pada perempuan.
+
+Langkah ke-4:
+
+Lalu berhubungan dengan suaminya.
+
+Tujuan:
+
+Pengusiran dan kehamilan.
 
 ## Halaman 69 — lanjutan ayat, uji pada ayam, dan dua wafaq
 
@@ -2834,15 +3310,29 @@ Di titik ini Lapis 1 memuat dua baris lambang talismanik dan dua wafaq halaman 6
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tulisan yang digantungkan; dua tabel/wafaq 4×4 huruf; rajah bergambar.
+Media:
 
-Langkah 1: Lanjutan kutipan (at-Ta’min 23:12–14).
+- Tulisan yang digantungkan
 
-Langkah 2: Lalu «فائدة للحمل مرة أخرى»: menggantungkan tulisan pada ayam Betina agar bertelur, sebagai “percobaan”.
+- dua tabel/wafaq 4×4 huruf
 
-Langkah 3: Disertai **dua tabel/wafaq 4×4 huruf** dan rajah bergambar, serta kutipan «إن الله فالق الحب والنوى».
+- rajah bergambar
 
-Tujuan: Kehamilan.
+Langkah ke-1:
+
+Lanjutan kutipan (at-Ta’min 23:12–14).
+
+Langkah ke-2:
+
+Lalu «فائدة للحمل مرة أخرى»: menggantungkan tulisan pada ayam Betina agar bertelur, sebagai “percobaan”.
+
+Langkah ke-3:
+
+Disertai **dua tabel/wafaq 4×4 huruf** dan rajah bergambar, serta kutipan «إن الله فالق الحب والنوى».
+
+Tujuan:
+
+Kehamilan.
 
 ## Halaman 70 — حجاب kehamilan dan إبطال الأسحار
 
@@ -2880,21 +3370,47 @@ Ibthaalul as-haari: tuktabu 'alalkaffil yamiini maa baani (bintang) fa qaaf jim,
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tiga aṭbāq dibuat dan dijemur di bawah langit; telapak kanan: «mā bānī» ☆ ف ق ج; telapak kiri: ☆ م خ م ت; kedua telapak terbuka di atas bakaran sambil membaca QS Yā-Sīn 36:78 sampai akhir surah; rajah tiga baris huruf berloop/lambang untuk ḥirz kehamilan; Bukhur: Jāwī, kabīrah, dan kundur.
+Media:
 
-Langkah 1: «حمل حجاب» setelah bersih dari haid, membuat tiga «اطباق» dan menjemurnya di bawah langit.
+- Tiga aṭbāq dibuat dan dijemur di bawah langit
 
-Langkah 2: Diminum satu setiap hari sebelum berbuka.
+- telapak kanan: «mā bānī» ☆ ف ق ج
 
-Langkah 3: Lalu «إبطال الأسحار»: ditulis huruf pada kedua telapak tangan, meletakkannya di atas bakaran.
+- telapak kiri: ☆ م خ م ت
 
-Langkah 4: Membaca «قال من يحيي العظام وهي رميم» sampai akhir surah Yasin hingga telapak “berbicara”.
+- kedua telapak terbuka di atas bakaran sambil membaca QS Yā-Sīn 36:78 sampai akhir surah
 
-Langkah 5: Lalu meletakkannya pada kemaluan agar sihir terurai.
+- rajah tiga baris huruf berloop/lambang untuk ḥirz kehamilan
 
-Langkah 6: Ditutup dengan «للحمل» bagi perempuan yang belum hamil dan belum punya anak hidup.
+- Bukhur: Jāwī, kabīrah, dan kundur
 
-Tujuan: Kehamilan dan mengurai sihir.
+Langkah ke-1:
+
+«حمل حجاب» setelah bersih dari haid, membuat tiga «اطباق» dan menjemurnya di bawah langit.
+
+Langkah ke-2:
+
+Diminum satu setiap hari sebelum berbuka.
+
+Langkah ke-3:
+
+Lalu «إبطال الأسحار»: ditulis huruf pada kedua telapak tangan, meletakkannya di atas bakaran.
+
+Langkah ke-4:
+
+Membaca «قال من يحيي العظام وهي رميم» sampai akhir surah Yasin hingga telapak “berbicara”.
+
+Langkah ke-5:
+
+Lalu meletakkannya pada kemaluan agar sihir terurai.
+
+Langkah ke-6:
+
+Ditutup dengan «للحمل» bagi perempuan yang belum hamil dan belum punya anak hidup.
+
+Tujuan:
+
+Kehamilan dan mengurai sihir.
 
 ## Halaman 71 — حرف الطاء dan kotak berlambang ط
 
@@ -2928,15 +3444,29 @@ Faa-idatun lil hamli: tuktabu haadzihil aayaatu waqtazh zhuhri fii yaumin sa'iid
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tulisan huruf ṭā’ dengan ayat-ayat penjagaan di sekelilingnya, «ṭa sīn mīm» 109 kali dan basmalah mengelilinginya; rajah persegi panjang berbelah ketupat dengan delapan posisi ṭā’; ayat faidah kehamilan dipanaskan dengan bahan dari kambing hitam yang zat persisnya tidak dipastikan.
+Media:
 
-Langkah 1: «Fā’idah li-‘adam suqūṭ al-janīn» — huruf ṭā’ ditulis dengan ayat-ayat penjagaan di sekelilingnya, «ṭa sīn mīm» ditulis 109 kali mengelilinginya.
+- Tulisan huruf ṭā’ dengan ayat-ayat penjagaan di sekelilingnya, «ṭa sīn mīm» 109 kali dan basmalah mengelilinginya
 
-Langkah 2: Lalu basmalah ditulis mengelilinginya.
+- rajah persegi panjang berbelah ketupat dengan delapan posisi ṭā’
 
-Langkah 3: Itu pada bulan ketiga kehamilan, dan sesudah bayi lahir tulisan dipindahkan dari perempuan kepada bayi.
+- ayat faidah kehamilan dipanaskan dengan bahan dari kambing hitam yang zat persisnya tidak dipastikan
 
-Tujuan: Mencegah jatuhnya janin dan faidah kehamilan.
+Langkah ke-1:
+
+«Fā’idah li-‘adam suqūṭ al-janīn» — huruf ṭā’ ditulis dengan ayat-ayat penjagaan di sekelilingnya, «ṭa sīn mīm» ditulis 109 kali mengelilinginya.
+
+Langkah ke-2:
+
+Lalu basmalah ditulis mengelilinginya.
+
+Langkah ke-3:
+
+Itu pada bulan ketiga kehamilan, dan sesudah bayi lahir tulisan dipindahkan dari perempuan kepada bayi.
+
+Tujuan:
+
+Mencegah jatuhnya janin dan faidah kehamilan.
 
 ## Halaman 72 — lanjutan tulisan kehamilan dan rajah
 
@@ -2964,13 +3494,23 @@ Pada titik ini baris rajah halaman 72 ditampilkan melalui crop pengguna. Rangkai
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tulisan berisi basmalah, taṣliyah, al-Fātiḥah, deretan huruf, ḥauqalah, dan potongan Āli ‘Imrān 3:37–41, al-A‘rāf 7:189, serta ayat lain; enam unsur grafis tanpa petak.
+Media:
 
-Langkah 1: Lanjutan tulisan kehamilan — basmalah, «التصلية», al-Fatihah, deretan huruf, hauqalah, potongan QS Ali Imran (3:37–41), al-A‘raf (7:189), dan potongan ayat lain.
+- Tulisan berisi basmalah, taṣliyah, al-Fātiḥah, deretan huruf, ḥauqalah, dan potongan Āli ‘Imrān 3:37–41, al-A‘rāf 7:189, serta ayat lain
 
-Langkah 2: Disertai rajah bergambar di tengah halaman.
+- enam unsur grafis tanpa petak
 
-Tujuan: Kehamilan.
+Langkah ke-1:
+
+Lanjutan tulisan kehamilan — basmalah, «التصلية», al-Fatihah, deretan huruf, hauqalah, potongan QS Ali Imran (3:37–41), al-A‘raf (7:189), dan potongan ayat lain.
+
+Langkah ke-2:
+
+Disertai rajah bergambar di tengah halaman.
+
+Tujuan:
+
+Kehamilan.
 
 ## Halaman 73 — ayat penciptaan dan tulisan pada mangkuk
 
@@ -3006,15 +3546,31 @@ Faa-idatun lil hamli: tuktabu maa ya'tii fii shah nin shiiniyyin fii waqtit tath
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Mangkuk porselen; tulisan dengan susu kambing hitam menurut uraian sumber; rangkaian ayat penciptaan dan ayat kehamilan; rajah lambang.
+Media:
 
-Langkah 1: Lanjutan kutipan QS al-Hajj 22:5, al-Qiyamah, dan al-Insan tentang penciptaan.
+- Mangkuk porselen
 
-Langkah 2: Lalu «فائدة للحمل»: ditulis pada mangkuk porselen pada waktu bersih dari haid, mengukir tulisan dengan susu kambing hitam.
+- tulisan dengan susu kambing hitam menurut uraian sumber
 
-Langkah 3: Disertai rajah bergambar dan rangkaian ayat (al-Fatihah, Ali Imran, al-A‘raf, Maryam).
+- rangkaian ayat penciptaan dan ayat kehamilan
 
-Tujuan: Kehamilan.
+- rajah lambang
+
+Langkah ke-1:
+
+Lanjutan kutipan QS al-Hajj 22:5, al-Qiyamah, dan al-Insan tentang penciptaan.
+
+Langkah ke-2:
+
+Lalu «فائدة للحمل»: ditulis pada mangkuk porselen pada waktu bersih dari haid, mengukir tulisan dengan susu kambing hitam.
+
+Langkah ke-3:
+
+Disertai rajah bergambar dan rangkaian ayat (al-Fatihah, Ali Imran, al-A‘raf, Maryam).
+
+Tujuan:
+
+Kehamilan.
 
 ## Halaman 74 — tulisan untuk manusia dan hewan, dan rajah penutup
 
@@ -3052,17 +3608,33 @@ Rangkaian yang ditulis dimulai dengan redaksi yang tidak transparan: “Ana, bil
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Nama-nama ditulis lalu digantungkan; dua naskah nama masing-masing dibawa lelaki dan perempuan; rajah penutup besar tanpa petak.
+Media:
 
-Langkah 1: «غيرة مجرب» — nama-nama ditulis dan digantungkan untuk perempuan yang belum hamil, juga untuk kuda, unta, sapi, dan pohon.
+- Nama-nama ditulis lalu digantungkan
 
-Langkah 2: Lalu rangkaian «أنا عدد ١١ …» dan «يه يه …».
+- dua naskah nama masing-masing dibawa lelaki dan perempuan
 
-Langkah 3: Kemudian «غيره للحمل مجرب» — dua naskah nama, satu dibawa lelaki dan satu dibawa perempuan.
+- rajah penutup besar tanpa petak
 
-Langkah 4: Ditutup dengan rajah besar bergambar dan «فرد حكم قدها قدوس حجس قيوم».
+Langkah ke-1:
 
-Tujuan: Kehamilan.
+«غيرة مجرب» — nama-nama ditulis dan digantungkan untuk perempuan yang belum hamil, juga untuk kuda, unta, sapi, dan pohon.
+
+Langkah ke-2:
+
+Lalu rangkaian «أنا عدد ١١ …» dan «يه يه …».
+
+Langkah ke-3:
+
+Kemudian «غيره للحمل مجرب» — dua naskah nama, satu dibawa lelaki dan satu dibawa perempuan.
+
+Langkah ke-4:
+
+Ditutup dengan rajah besar bergambar dan «فرد حكم قدها قدوس حجس قيوم».
+
+Tujuan:
+
+Kehamilan.
 
 ## Halaman 75 — Fasal Kelima Belas: احتراق العارض dan استحضار
 
@@ -3096,17 +3668,33 @@ Istihdhaaru fardin min afraadil jinni: awwalan tadkhulu makaanan thaahiran wa an
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Ucapan pembakaran dengan nama orang yang terkena dan ibunya; untuk istiḥḍār: tempat bersih tertutup gelap, menghadap kiblat, “mā syā’ Allāh” tiga kali, tahlil tujuh kali, ḥauqalah tujuh kali, dan surah al-Jinn tujuh kali; Bukhur: ‘ankabūt (laba-laba) dan kabarbarah (istilah bahan tidak dipastikan).
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Bacaan pembakaran ‘āriḍ pada waktu matahari terbenam, sebelum terbenam (redaksi dipertahankan).
+- Ucapan pembakaran dengan nama orang yang terkena dan ibunya
 
-Langkah 2: **Fasal Kelima Belas — احتراق العارض.** Bacaan pembakaran ‘āridh («احرق من عصر ياطوش…») dengan penyebutan nama pasien dan ibunya.
+- untuk istiḥḍār: tempat bersih tertutup gelap, menghadap kiblat, “mā syā’ Allāh” tiga kali, tahlil tujuh kali, ḥauqalah tujuh kali, dan surah al-Jinn tujuh kali
 
-Langkah 3: Lalu «استحضار فرد من أفراد الجن»: masuk tempat tertutup dan gelap.
+- Bukhur: ‘ankabūt (laba-laba) dan kabarbarah (istilah bahan tidak dipastikan)
 
-Langkah 4: Menghadap kiblat, membaca «ما شاء الله» tiga kali, hauqalah, dan surah al-Jinn tujuh kali.
+Langkah ke-1:
 
-Tujuan: Pembakaran ‘āriḍ dan menghadirkan individu jin.
+Waktu yang dinyatakan: Bacaan pembakaran ‘āriḍ pada waktu matahari terbenam, sebelum terbenam (redaksi dipertahankan).
+
+Langkah ke-2:
+
+**Fasal Kelima Belas — احتراق العارض.** Bacaan pembakaran ‘āridh («احرق من عصر ياطوش…») dengan penyebutan nama pasien dan ibunya.
+
+Langkah ke-3:
+
+Lalu «استحضار فرد من أفراد الجن»: masuk tempat tertutup dan gelap.
+
+Langkah ke-4:
+
+Menghadap kiblat, membaca «ما شاء الله» tiga kali, hauqalah, dan surah al-Jinn tujuh kali.
+
+Tujuan:
+
+Pembakaran ‘āriḍ dan menghadirkan individu jin.
 
 ## Halaman 76 — menghadap kanan–kiri dan باب لرفع النزيف
 
@@ -3146,19 +3734,37 @@ Kemudian penulis mengarahkan pelaku menghadapkan wajah ke kanan dan mengucapkan 
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tiga lembar kertas bertinta misik hitam; rajah baris huruf/angka dan bentuk; unit juga memuat kelanjutan formula istiġāṡah dari Halaman 75.
+Media:
 
-Langkah 1: Setelah bacaan, menoleh ke kanan sambil menyebut «أعان الله من أعاني على خير…» tujuh kali.
+- Tiga lembar kertas bertinta misik hitam
 
-Langkah 2: Lalu ke kiri dengan «بصيفديش».
+- rajah baris huruf/angka dan bentuk
 
-Langkah 3: Disebut akan mendengar suara salam dari jin mukmin.
+- unit juga memuat kelanjutan formula istiġāṡah dari Halaman 75
 
-Langkah 4: Lalu «باب لرفع النزيف»: ditulis pada tiga lembar kertas dengan misik hitam.
+Langkah ke-1:
 
-Langkah 5: Dibakar setiap malam selama tiga malam, dengan **rajah baris huruf** dan bacaan penutup.
+Setelah bacaan, menoleh ke kanan sambil menyebut «أعان الله من أعاني على خير…» tujuh kali.
 
-Tujuan: Mendengar salam yang disebut naskah dan mengangkat perdarahan.
+Langkah ke-2:
+
+Lalu ke kiri dengan «بصيفديش».
+
+Langkah ke-3:
+
+Disebut akan mendengar suara salam dari jin mukmin.
+
+Langkah ke-4:
+
+Lalu «باب لرفع النزيف»: ditulis pada tiga lembar kertas dengan misik hitam.
+
+Langkah ke-5:
+
+Dibakar setiap malam selama tiga malam, dengan **rajah baris huruf** dan bacaan penutup.
+
+Tujuan:
+
+Mendengar salam yang disebut naskah dan mengangkat perdarahan.
 
 ## Halaman 77 — رفع النزيف lanjutan dan باب لزوال الصداع
 
@@ -3196,15 +3802,29 @@ Abwaabun lizawaalish shudaa'il muzmini: yuktabu maa ya'tii wa yuhmalu 'alar ra's
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Wadah bersih ditulis dengan misik hitam, dipanaskan lalu dipindahkan/diminumkan menurut sumber; tulisan lanjutan dan rajah huruf/angka/ayat; hijab sakit kepala ditulis dan digantungkan di kepala.
+Media:
 
-Langkah 1: Lanjutan «رفع النزيف» — ditulis pada mangkuk bersih dengan misik hitam lalu dipanaskan dan diminumkan.
+- Wadah bersih ditulis dengan misik hitam, dipanaskan lalu dipindahkan/diminumkan menurut sumber
 
-Langkah 2: Dengan potongan QS al-Baqarah 2:2, Ali Imran 3:144, dan rangkaian nama.
+- tulisan lanjutan dan rajah huruf/angka/ayat
 
-Langkah 3: Lalu **باب لزوال الصداع المزمن** — ditulis dan menggantungkan pada kepala, dengan huruf-huruf dan potongan QS al-An‘am 6:13.
+- hijab sakit kepala ditulis dan digantungkan di kepala
 
-Tujuan: Mengangkat perdarahan dan menghilangkan sakit kepala kronis.
+Langkah ke-1:
+
+Lanjutan «رفع النزيف» — ditulis pada mangkuk bersih dengan misik hitam lalu dipanaskan dan diminumkan.
+
+Langkah ke-2:
+
+Dengan potongan QS al-Baqarah 2:2, Ali Imran 3:144, dan rangkaian nama.
+
+Langkah ke-3:
+
+Lalu **باب لزوال الصداع المزمن** — ditulis dan menggantungkan pada kepala, dengan huruf-huruf dan potongan QS al-An‘am 6:13.
+
+Tujuan:
+
+Mengangkat perdarahan dan menghilangkan sakit kepala kronis.
 
 ## Halaman 78 — سكن الصداع dan wafaq ميكائيل
 
@@ -3232,13 +3852,23 @@ Uskun ayyuhal waji'u uskun kamaa sakana kullu syai-in li'azhamatihi. Uskun bihaq
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Bacaan “uskun” dengan ayat-ayat (al-An‘ām 6:13; Yā-Sīn 36:38; al-Furqān 25:45–46); wafaq sel berisi “‘alli” dan angka dengan nama Mikail dan tulisan lain.
+Media:
 
-Langkah 1: Lanjutan bacaan «اسكن» yang menyebut nama pasien dan ibunya, kutipan QS ar-Ra‘d 13:16, al-Furqan 25:45–46, dan al-Hasyr 59:21.
+- Bacaan “uskun” dengan ayat-ayat (al-An‘ām 6:13; Yā-Sīn 36:38; al-Furqān 25:45–46)
 
-Langkah 2: Ditutup «وهذا هو الوفق» dengan **wafaq 3×3 bergambar** berisi angka dan kata «عل» serta nama ميكائيل di sekitarnya.
+- wafaq sel berisi “‘alli” dan angka dengan nama Mikail dan tulisan lain
 
-Tujuan: Menenangkan sakit kepala.
+Langkah ke-1:
+
+Lanjutan bacaan «اسكن» yang menyebut nama pasien dan ibunya, kutipan QS ar-Ra‘d 13:16, al-Furqan 25:45–46, dan al-Hasyr 59:21.
+
+Langkah ke-2:
+
+Ditutup «وهذا هو الوفق» dengan **wafaq 3×3 bergambar** berisi angka dan kata «عل» serta nama ميكائيل di sekitarnya.
+
+Tujuan:
+
+Menenangkan sakit kepala.
 
 ## Halaman 79 — Fasal Keenam Belas: إرسال عون شديد
 
@@ -3270,19 +3900,37 @@ Inilah qasamnya; engkau mengucapkan: “Sari' (dua kali), Rafi' (dua kali), Maji
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Pelepah hijau bertuliskan surah al-‘Ādiyāt sampai akhir, dipegang di tangan; qasam tujuh puluh kali; Bukhur: Cendana dibakar dalam mangkuk pembakar baru di atas api kuat.
+Media:
 
-Langkah 1: Bab “mengirim bantuan yang kuat” dalam sumber memuat rangkaian: puasa/riyadhah pada hari Sabtu.
+- Pelepah hijau bertuliskan surah al-‘Ādiyāt sampai akhir, dipegang di tangan
 
-Langkah 2: Pelepah hijau ditulis dengan surah al-‘Ādiyāt sampai akhir pada pagi hari.
+- qasam tujuh puluh kali
 
-Langkah 3: Sesudah Isya cendana dibakar dalam mangkuk pembakar baru di atas api kuat sementara pelepah dipegang di tangan.
+- Bukhur: Cendana dibakar dalam mangkuk pembakar baru di atas api kuat
 
-Langkah 4: Qasam dibaca tujuh puluh kali sampai pelepah disebut bergetar.
+Langkah ke-1:
 
-Langkah 5: Lalu pelepah dilepaskan ke arah yang dituju dan tidak diambil kembali.
+Bab “mengirim bantuan yang kuat” dalam sumber memuat rangkaian: puasa/riyadhah pada hari Sabtu.
 
-Tujuan: Mengirim bantuan yang kuat ke arah yang dituju.
+Langkah ke-2:
+
+Pelepah hijau ditulis dengan surah al-‘Ādiyāt sampai akhir pada pagi hari.
+
+Langkah ke-3:
+
+Sesudah Isya cendana dibakar dalam mangkuk pembakar baru di atas api kuat sementara pelepah dipegang di tangan.
+
+Langkah ke-4:
+
+Qasam dibaca tujuh puluh kali sampai pelepah disebut bergetar.
+
+Langkah ke-5:
+
+Lalu pelepah dilepaskan ke arah yang dituju dan tidak diambil kembali.
+
+Tujuan:
+
+Mengirim bantuan yang kuat ke arah yang dituju.
 
 ## Halaman 80 — pengiriman dan قسم لسعة العقارب
 
@@ -3316,15 +3964,27 @@ Qismun lis'agatil 'aqaaribi wal afaa'ii: taqra-ul faatihata sab'atan biduuni bas
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Lanjutan qasam Halaman 79; untuk sengatan: al-Fātiḥah tujuh kali tanpa basmalah dan tanpa ta’mīn, lalu qasam al-ladġ.
+Media:
 
-Langkah 1: Lanjutan «انصرف بسلام…» dengan menyebut nama «مهرائيل» agar melakukan perintah dan tidak menyalahi.
+- Lanjutan qasam Halaman 79
 
-Langkah 2: Lalu **قسم لسعة العقارب والإفاعي** (qasam untuk sengatan kalajengking dan gigitan ular) — membaca al-Fatihah tujuh kali tanpa basmalah dan tanpa ta‘min.
+- untuk sengatan: al-Fātiḥah tujuh kali tanpa basmalah dan tanpa ta’mīn, lalu qasam al-ladġ
 
-Langkah 3: Lalu rangkaian qasam dengan nama «أحمد الرفاعي».
+Langkah ke-1:
 
-Tujuan: Menyelesaikan pengiriman dan membaca qasam untuk sengatan kalajengking/gigitan ular.
+Lanjutan «انصرف بسلام…» dengan menyebut nama «مهرائيل» agar melakukan perintah dan tidak menyalahi.
+
+Langkah ke-2:
+
+Lalu **قسم لسعة العقارب والإفاعي** (qasam untuk sengatan kalajengking dan gigitan ular) — membaca al-Fatihah tujuh kali tanpa basmalah dan tanpa ta‘min.
+
+Langkah ke-3:
+
+Lalu rangkaian qasam dengan nama «أحمد الرفاعي».
+
+Tujuan:
+
+Menyelesaikan pengiriman dan membaca qasam untuk sengatan kalajengking/gigitan ular.
 
 ## Halaman 81 — qasam lanjutan dan فائدة لرجوع المرأة
 
@@ -3360,15 +4020,29 @@ Faa-idatun lirujuu'il mar-atil latii zaujuhaa: yuktabul maadhii wa yahmiluhal ma
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tulisan ayat-ayat perdamaian digantungkan oleh perempuan (faidah kembalinya suami); tulisan bab perdamaian suami-istri; Bukhur: ‘ammāl sandawaris (istilah sumber tidak dipastikan).
+Media:
 
-Langkah 1: Lanjutan qasam sengatan dengan nama-nama (غالب، علي بن أبي طالب، اللوح المحفوظ، طيسن…).
+- Tulisan ayat-ayat perdamaian digantungkan oleh perempuan (faidah kembalinya suami)
 
-Langkah 2: Lalu **فائدة لرجوع المرأة التي زوجها** — ditulis dan menggantungkan agar suami kembali, serta untuk perempuan yang takut suaminya menolak.
+- tulisan bab perdamaian suami-istri
 
-Langkah 3: Ditutup dengan judul «باب للصلح بين الزوجين» yang ditulis pada hari Kamis.
+- Bukhur: ‘ammāl sandawaris (istilah sumber tidak dipastikan)
 
-Tujuan: Melanjutkan qasam sengatan serta mengembalikan pasangan sebagaimana dirumuskan naskah.
+Langkah ke-1:
+
+Lanjutan qasam sengatan dengan nama-nama (غالب، علي بن أبي طالب، اللوح المحفوظ، طيسن…).
+
+Langkah ke-2:
+
+Lalu **فائدة لرجوع المرأة التي زوجها** — ditulis dan menggantungkan agar suami kembali, serta untuk perempuan yang takut suaminya menolak.
+
+Langkah ke-3:
+
+Ditutup dengan judul «باب للصلح بين الزوجين» yang ditulis pada hari Kamis.
+
+Tujuan:
+
+Melanjutkan qasam sengatan serta mengembalikan pasangan sebagaimana dirumuskan naskah.
 
 ## Halaman 82 — باب محبة dan محبة بسورة الفاتحة
 
@@ -3406,19 +4080,41 @@ Daftar lanjutan dalam rangkaian ini menyebut jawi, luban dzakar (kemenyan jantan
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tulisan deret angka dan ayat pengumpulan (al-Ḥijr 15:47 dan ayat lain) dikuburkan di pintu pihak sasaran menurut Terjemahan; rajah angka/rumus; al-Fātiḥah 31 kali dengan pengulangan ayat “iyyāka na‘budu…” 31 kali pada kali terakhir; nama-nama ditulis pada jari untuk bab berikutnya; Bukhur: Jāwī, lubbān dzakar, labu jin, dan bakhūr sawdān.
+Media:
 
-Langkah 1: Unit ini memuat penutup rangkaian mahabbah dan dua bab pendek.
+- Tulisan deret angka dan ayat pengumpulan (al-Ḥijr 15:47 dan ayat lain) dikuburkan di pintu pihak sasaran menurut Terjemahan
 
-Langkah 2: Pada rangkaian pertama, bahan yang disebut adalah jāwī, lubbān dzakar, labu jin, dan bakhūr sawdān.
+- rajah angka/rumus
 
-Langkah 3: Tulisan deret angka dan ayat pengumpulan kemudian dikuburkan di pintu pihak sasaran menurut Terjemahan.
+- al-Fātiḥah 31 kali dengan pengulangan ayat “iyyāka na‘budu…” 31 kali pada kali terakhir
 
-Langkah 4: Bab mahabbah dengan al-Fātiḥah menyebut pembacaan al-Fātiḥah tiga puluh satu kali, dengan pengulangan “iyyāka na‘budu wa iyyāka nasta‘īn” tiga puluh satu kali pada kali terakhir.
+- nama-nama ditulis pada jari untuk bab berikutnya
 
-Langkah 5: Penutup halaman memulai bab talbīs al-juttsah: nama-nama ditulis pada jari dan azimah dibacakan dengan yang ditulis itu.
+- Bukhur: Jāwī, lubbān dzakar, labu jin, dan bakhūr sawdān
 
-Tujuan: Mahabbah.
+Langkah ke-1:
+
+Unit ini memuat penutup rangkaian mahabbah dan dua bab pendek.
+
+Langkah ke-2:
+
+Pada rangkaian pertama, bahan yang disebut adalah jāwī, lubbān dzakar, labu jin, dan bakhūr sawdān.
+
+Langkah ke-3:
+
+Tulisan deret angka dan ayat pengumpulan kemudian dikuburkan di pintu pihak sasaran menurut Terjemahan.
+
+Langkah ke-4:
+
+Bab mahabbah dengan al-Fātiḥah menyebut pembacaan al-Fātiḥah tiga puluh satu kali, dengan pengulangan “iyyāka na‘budu wa iyyāka nasta‘īn” tiga puluh satu kali pada kali terakhir.
+
+Langkah ke-5:
+
+Penutup halaman memulai bab talbīs al-juttsah: nama-nama ditulis pada jari dan azimah dibacakan dengan yang ditulis itu.
+
+Tujuan:
+
+Mahabbah.
 
 ## Halaman 83 — تلبيس الجثة lanjutan dan طلسم للأمن من الخوف
 
@@ -3460,17 +4156,37 @@ Lanjutan rangkaian Talbis al-Jutstsah menyebut pengulangan 21 kali; bukhurnya ma
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Nama-nama pada jari dan azimah dua puluh satu kali; untuk rasa takut: thilsim, ayat-ayat ketakutan, dan Ayat al-Kursi ditulis pada kertas; dua baris angka/rumus; Bukhur: Maṭlūq yaitu kabarbarah dan lubbān dzakar (bab pertama); kertas faidah rasa takut diasapi dengan lubbān dzakar, jāwī, mastika, dan kayu ‘ūd.
+Media:
 
-Langkah 1: Unit ini melanjutkan bab talbīs al-juttsah dari Halaman 82: azimah dibaca dua puluh satu kali dan bakhurnya maṭlūq, yaitu kabarbarah dan lubbān dzakar.
+- Nama-nama pada jari dan azimah dua puluh satu kali
 
-Langkah 2: Faidah keamanan dari rasa takut memuat penulisan thilsim bersama ayat-ayat ketakutan dan Ayat al-Kursi pada kertas.
+- untuk rasa takut: thilsim, ayat-ayat ketakutan, dan Ayat al-Kursi ditulis pada kertas
 
-Langkah 3: Lalu kertas itu diasapi dengan lubbān dzakar, jāwī, mastika, dan kayu ‘ūd.
+- dua baris angka/rumus
 
-Langkah 4: Tidak ada instruksi menggantung pada unit ini.
+- Bukhur: Maṭlūq yaitu kabarbarah dan lubbān dzakar (bab pertama)
 
-Tujuan: Talbīs al-juttsah dan keamanan dari rasa takut.
+- kertas faidah rasa takut diasapi dengan lubbān dzakar, jāwī, mastika, dan kayu ‘ūd
+
+Langkah ke-1:
+
+Unit ini melanjutkan bab talbīs al-juttsah dari Halaman 82: azimah dibaca dua puluh satu kali dan bakhurnya maṭlūq, yaitu kabarbarah dan lubbān dzakar.
+
+Langkah ke-2:
+
+Faidah keamanan dari rasa takut memuat penulisan thilsim bersama ayat-ayat ketakutan dan Ayat al-Kursi pada kertas.
+
+Langkah ke-3:
+
+Lalu kertas itu diasapi dengan lubbān dzakar, jāwī, mastika, dan kayu ‘ūd.
+
+Langkah ke-4:
+
+Tidak ada instruksi menggantung pada unit ini.
+
+Tujuan:
+
+Talbīs al-juttsah dan keamanan dari rasa takut.
 
 ## Halaman 84 — قضاء الحاجة dan باب محبة
 
@@ -3508,17 +4224,35 @@ Baabu mahabbatin yuktabu wa yuhmalu: tuktabuth thilsimul aatii wal aayaatu haula
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Tulisan basmalah/tasliyah dan formula kebutuhan digantungkan; thilsim mahabbah dengan ayat di sekelilingnya digantung dan ayat dibaca tujuh puluh dua kali dengan taukil setiap kali; rajah angka/huruf; Bukhur: Bakhūr ṭayyib (bakaran wangi) tanpa nama bahan.
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Bab mahabbah ditulis pada saat baik/mubarak.
+- Tulisan basmalah/tasliyah dan formula kebutuhan digantungkan
 
-Langkah 2: **Fasal Ketujuh Belas — قضاء الحاجة**: ditulis dan menggantungkan dengan basmalah serta dialog «دخلت عليكم دخول الأسد… أنتم النار وأنا الماء أطفيئكم».
+- thilsim mahabbah dengan ayat di sekelilingnya digantung dan ayat dibaca tujuh puluh dua kali dengan taukil setiap kali
 
-Langkah 3: Lalu **باب محبة يكتب ويحمل** — ditulis طلسم dengan ayat «يحبونهم كحب الله» 72 kali dan **rajah bergambar**.
+- rajah angka/huruf
 
-Langkah 4: Ditutup potongan QS at-Taubah 9:60.
+- Bukhur: Bakhūr ṭayyib (bakaran wangi) tanpa nama bahan
 
-Tujuan: Memenuhi kebutuhan dan mahabbah.
+Langkah ke-1:
+
+Waktu yang dinyatakan: Bab mahabbah ditulis pada saat baik/mubarak.
+
+Langkah ke-2:
+
+**Fasal Ketujuh Belas — قضاء الحاجة**: ditulis dan menggantungkan dengan basmalah serta dialog «دخلت عليكم دخول الأسد… أنتم النار وأنا الماء أطفيئكم».
+
+Langkah ke-3:
+
+Lalu **باب محبة يكتب ويحمل** — ditulis طلسم dengan ayat «يحبونهم كحب الله» 72 kali dan **rajah bergambar**.
+
+Langkah ke-4:
+
+Ditutup potongan QS at-Taubah 9:60.
+
+Tujuan:
+
+Memenuhi kebutuhan dan mahabbah.
 
 ## Halaman 85 — باب للخطوبة dengan طلسم
 
@@ -3552,17 +4286,35 @@ Rangkaian ayat yang menyertainya berbunyi: “Wahai orang-orang yang beriman, ja
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Kelanjutan formula mahabbah Halaman 84; untuk peminangan: thilsim pada kertas dengan taukil dan nama pemohon serta yang diminta, ayat dibaca tujuh puluh dua kali, kertas dibawa pemohon; rajah angka/huruf; Bukhur: Diasapi/dibakar dengan wangi-wangian tanpa nama bahan.
+Media:
 
-Langkah 1: Penutup bab محبة («محبة كذا في قلب كذا…») lalu **باب للخطوبة** — ditulis طلسم pada kertas bersama nama pemohon dan yang diminta.
+- Kelanjutan formula mahabbah Halaman 84
 
-Langkah 2: Membakar dengan bakhur wangi.
+- untuk peminangan: thilsim pada kertas dengan taukil dan nama pemohon serta yang diminta, ayat dibaca tujuh puluh dua kali, kertas dibawa pemohon
 
-Langkah 3: Membaca ayat 72 kali hingga terkabul.
+- rajah angka/huruf
 
-Langkah 4: Disertai **rajah/baris angka bergambar** dan kutipan QS al-Baqarah 2:132.
+- Bukhur: Diasapi/dibakar dengan wangi-wangian tanpa nama bahan
 
-Tujuan: Mahabbah dan pertunangan.
+Langkah ke-1:
+
+Penutup bab محبة («محبة كذا في قلب كذا…») lalu **باب للخطوبة** — ditulis طلسم pada kertas bersama nama pemohon dan yang diminta.
+
+Langkah ke-2:
+
+Membakar dengan bakhur wangi.
+
+Langkah ke-3:
+
+Membaca ayat 72 kali hingga terkabul.
+
+Langkah ke-4:
+
+Disertai **rajah/baris angka bergambar** dan kutipan QS al-Baqarah 2:132.
+
+Tujuan:
+
+Mahabbah dan pertunangan.
 
 ## Halaman 86 — فائدة لوضع الحمل dan خاتم سليمان
 
@@ -3598,15 +4350,29 @@ Arab final kemudian menempatkan keterangan dalam kurung: “Baris angka dan simb
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Hijab persalinan ditulis dan digantungkan pada perut; ayat bumi diratakan (al-Insyiqāq 84:3–4), perumpamaan Maryam melahirkan Isa, dan pembukaan surat Sulaiman; empat wafaq kecil di kepala halaman.
+Media:
 
-Langkah 1: **فائدة لوضع الحمل كلمح البصر** — ditulis dan menggantungkan pada perut agar melahirkan tanpa susah.
+- Hijab persalinan ditulis dan digantungkan pada perut
 
-Langkah 2: Dengan kutipan QS al-Insyiqaq 84:1–4 dan pernyataan bahwa Maryam melahirkan Isa.
+- ayat bumi diratakan (al-Insyiqāq 84:3–4), perumpamaan Maryam melahirkan Isa, dan pembukaan surat Sulaiman
 
-Langkah 3: Lalu **baris angka besar** dan **lambang خاتم سليمان bergambar** serta doa penutup.
+- empat wafaq kecil di kepala halaman
 
-Tujuan: Memudahkan persalinan.
+Langkah ke-1:
+
+**فائدة لوضع الحمل كلمح البصر** — ditulis dan menggantungkan pada perut agar melahirkan tanpa susah.
+
+Langkah ke-2:
+
+Dengan kutipan QS al-Insyiqaq 84:1–4 dan pernyataan bahwa Maryam melahirkan Isa.
+
+Langkah ke-3:
+
+Lalu **baris angka besar** dan **lambang خاتم سليمان bergambar** serta doa penutup.
+
+Tujuan:
+
+Memudahkan persalinan.
 
 ## Halaman 87 — Fasal Ketujuh Belas: القرين والجن
 
@@ -3910,25 +4676,53 @@ Inilah da'wah yang diucapkan menurut penulis: “Segala puji bagi Allah yang men
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Duduk di tempat kosong dari manusia; khatam ditulis di telapak tangan; azimah Ratu Jamjah dibaca berulang; Bukhur: Kayu cendana merah; hari kedua disebut membakar wangi-wangian tanpa nama bahan.
+Media:
 
-Langkah 1: **Fasal XIX — باب استخدام الملكة جمجة**.
+- Duduk di tempat kosong dari manusia
 
-Langkah 2: Duduk sendirian di tempat sepi pada hari tanpa angin, hujan, dan awan.
+- khatam ditulis di telapak tangan
 
-Langkah 3: Ditulis «الخاتم» di telapak tangan.
+- azimah Ratu Jamjah dibaca berulang
 
-Langkah 4: Membakar kayu cendana merah (الصندل الأحمر).
+- Bukhur: Kayu cendana merah
 
-Langkah 5: Mengulang «عزيمة» sampai datang burung merpati putih.
+- hari kedua disebut membakar wangi-wangian tanpa nama bahan
 
-Langkah 6: Lalu pada hari kedua datang sosok perempuan.
+Langkah ke-1:
 
-Langkah 7: Meminta «العهد» dengan perantaraan nama سمسمائيل.
+**Fasal XIX — باب استخدام الملكة جمجة**.
 
-Langkah 8: Sesudah itu disebut cukup membacakan «الدعوة» untuk segala urusan «baik atau buruk», termasuk «طي الأرض».
+Langkah ke-2:
 
-Tujuan: Menggunakan Ratu Jamjah dan meminta perjanjian.
+Duduk sendirian di tempat sepi pada hari tanpa angin, hujan, dan awan.
+
+Langkah ke-3:
+
+Ditulis «الخاتم» di telapak tangan.
+
+Langkah ke-4:
+
+Membakar kayu cendana merah (الصندل الأحمر).
+
+Langkah ke-5:
+
+Mengulang «عزيمة» sampai datang burung merpati putih.
+
+Langkah ke-6:
+
+Lalu pada hari kedua datang sosok perempuan.
+
+Langkah ke-7:
+
+Meminta «العهد» dengan perantaraan nama سمسمائيل.
+
+Langkah ke-8:
+
+Sesudah itu disebut cukup membacakan «الدعوة» untuk segala urusan «baik atau buruk», termasuk «طي الأرض».
+
+Tujuan:
+
+Menggunakan Ratu Jamjah dan meminta perjanjian.
 
 ## Halaman 98 — lanjutan bacaan dan syarat penggunaan
 
@@ -3956,13 +4750,23 @@ Pada hari kedua penulis mengarahkan pelaku duduk di tempat semula, menulis khata
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Azimah dengan bilangan dan huruf pada tujuh hari pertama; rajah di kepala halaman.
+Media:
 
-Langkah 1: Berpuasa tujuh hari mulai hari Ahad, saat tidak ada angin, awan, atau hujan dan bulan sedang bertambah.
+- Azimah dengan bilangan dan huruf pada tujuh hari pertama
 
-Langkah 2: Mengikuti azimah dengan bilangan dan huruf pada tujuh hari pertama, dengan rajah di kepala halaman.
+- rajah di kepala halaman
 
-Tujuan: Memenuhi syarat penggunaan lanjutan yang dinyatakan.
+Langkah ke-1:
+
+Berpuasa tujuh hari mulai hari Ahad, saat tidak ada angin, awan, atau hujan dan bulan sedang bertambah.
+
+Langkah ke-2:
+
+Mengikuti azimah dengan bilangan dan huruf pada tujuh hari pertama, dengan rajah di kepala halaman.
+
+Tujuan:
+
+Memenuhi syarat penggunaan lanjutan yang dinyatakan.
 
 ## Halaman 99 — tata cara lengkap dan janji hasil
 
@@ -3990,27 +4794,57 @@ Untuk penggunaan selanjutnya, penulis mengarahkan agar khatam ditulis dengan da'
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Khatam ditulis pada tangan/telapak kiri; azimah/da‘wah diulang; pelepah hijau disebut hadir di tangan kanan; Bukhur: Kayu cendana merah (hari pertama); wangi-wangian tanpa nama bahan (hari kedua).
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Hari pertama dan hari kedua pada tempat yang sama.
+- Khatam ditulis pada tangan/telapak kiri
 
-Langkah 2: Lanjutan tata cara — ditulis خاتم di telapak tangan kiri.
+- azimah/da‘wah diulang
 
-Langkah 3: Membakar الصندل الأحمر.
+- pelepah hijau disebut hadir di tangan kanan
 
-Langkah 4: Mengulang عزيمة hingga merpati putih datang.
+- Bukhur: Kayu cendana merah (hari pertama)
 
-Langkah 5: Hari kedua mengulanginya hingga datang perempuan cantik.
+- wangi-wangian tanpa nama bahan (hari kedua)
 
-Langkah 6: Meminta syarat-syaratnya.
+Langkah ke-1:
 
-Langkah 7: Mengambil janji.
+Waktu yang dinyatakan: Hari pertama dan hari kedua pada tempat yang sama.
 
-Langkah 8: Lalu disebut bahwa ia datang bersama pembantunya.
+Langkah ke-2:
 
-Langkah 9: Memberi harta dan makanan, membinasakan orang zalim, dan menampakkan harta terpendam.
+Lanjutan tata cara — ditulis خاتم di telapak tangan kiri.
 
-Tujuan: Menghadirkan sosok yang disebut naskah dan mengambil perjanjian.
+Langkah ke-3:
+
+Membakar الصندل الأحمر.
+
+Langkah ke-4:
+
+Mengulang عزيمة hingga merpati putih datang.
+
+Langkah ke-5:
+
+Hari kedua mengulanginya hingga datang perempuan cantik.
+
+Langkah ke-6:
+
+Meminta syarat-syaratnya.
+
+Langkah ke-7:
+
+Mengambil janji.
+
+Langkah ke-8:
+
+Lalu disebut bahwa ia datang bersama pembantunya.
+
+Langkah ke-9:
+
+Memberi harta dan makanan, membinasakan orang zalim, dan menampakkan harta terpendam.
+
+Tujuan:
+
+Menghadirkan sosok yang disebut naskah dan mengambil perjanjian.
 
 ## Halaman 100 — bacaan عزيمة penutup bab جمجة
 
@@ -4042,11 +4876,17 @@ Aqsamtu 'alaika yaa sayyidii simsmaa-iilal malikil muwakkal bifalakil mirriikhi 
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Bacaan azimah lanjutan dengan rangkaian nama (Yahyūkh, Ar‘ūkh, Syamhisy, Harmisy) dalam rangkaian Abū Zanāṣir Syam‘alah.
+Media:
 
-Langkah 1: **Isi halaman ini adalah bacaan «عزيمة»** (mantra pemanggilan) yang diucapkan dalam praktik halaman 97–99 — menyebut nama سمسمائيل sebagai «الملك الموكل بفلك المريخ» dan memerintahkan جمجة bint al-Malik al-Ahmar memenuhi keperluan, ditutup tiga nama tanpa arti yang jelas (دحليم ٣ شمهمسة ٣ قطوشى ٣).
+- Bacaan azimah lanjutan dengan rangkaian nama (Yahyūkh, Ar‘ūkh, Syamhisy, Harmisy) dalam rangkaian Abū Zanāṣir Syam‘alah
 
-Tujuan: Mengucapkan azimah dalam rangkaian penggunaan Jamjah.
+Langkah ke-1:
+
+**Isi halaman ini adalah bacaan «عزيمة»** (mantra pemanggilan) yang diucapkan dalam praktik halaman 97–99 — menyebut nama سمسمائيل sebagai «الملك الموكل بفلك المريخ» dan memerintahkan جمجة bint al-Malik al-Ahmar memenuhi keperluan, ditutup tiga nama tanpa arti yang jelas (دحليم ٣ شمهمسة ٣ قطوشى ٣).
+
+Tujuan:
+
+Mengucapkan azimah dalam rangkaian penggunaan Jamjah.
 
 ## Halaman 101 — bab menghadirkan individu jin
 
@@ -4076,17 +4916,29 @@ Musy lamuuh wa washiilun wa iyyaahu laamuuana qah kamduuyaa marh ajib ayyuhal ma
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Bacaan Asmā’ as-Sulaimāniyyah (nama-nama thilsim lanjutan bab).
+Media:
 
-Langkah 1: **باب إحضار فرد من أفراد الجن** — bacaan «أسماء سليمانية» untuk menghadirkan jin mana pun dengan cepat.
+- Bacaan Asmā’ as-Sulaimāniyyah (nama-nama thilsim lanjutan bab)
 
-Langkah 2: Menyebut «الملك الأعظم السيد شرنطيا ئيل», memohon dihadirkan «الروح الفلانية» untuk memenuhi keperluan pada saat itu, dan ditutup penegasan bahwa sumpah itu besar.
+Langkah ke-1:
 
-Langkah 3: Halaman ini **berhenti di tengah bacaan**.
+**باب إحضار فرد من أفراد الجن** — bacaan «أسماء سليمانية» untuk menghadirkan jin mana pun dengan cepat.
 
-Langkah 4: Lanjutannya ada di halaman 102.
+Langkah ke-2:
 
-Tujuan: Menghadirkan individu jin untuk memenuhi keperluan.
+Menyebut «الملك الأعظم السيد شرنطيا ئيل», memohon dihadirkan «الروح الفلانية» untuk memenuhi keperluan pada saat itu, dan ditutup penegasan bahwa sumpah itu besar.
+
+Langkah ke-3:
+
+Halaman ini **berhenti di tengah bacaan**.
+
+Langkah ke-4:
+
+Lanjutannya ada di halaman 102.
+
+Tujuan:
+
+Menghadirkan individu jin untuk memenuhi keperluan.
 
 ## Halaman 102 — penutup tata cara menghadirkan jin
 
@@ -4112,15 +4964,29 @@ Penulis menyatakan dalam kurung bahwa pelaku akan mendengar suara berkata, “As
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Menghadap kiblat; “mā syā’ Allāh” tiga kali, tahlil tujuh kali, ḥauqalah tujuh kali, surah al-Jinn tujuh kali; seruan ke kanan tujuh kali dan formula ke kiri tujuh kali.
+Media:
 
-Langkah 1: Lanjutan tata cara menghadirkan seorang jin — masuk ke tempat yang gelap dan tertutup rapat.
+- Menghadap kiblat
 
-Langkah 2: Menghadap kiblat, membaca «ماشاء الله» tiga kali, tahlil dan hauqalah serta Surah al-Jinn masing-masing tujuh kali.
+- “mā syā’ Allāh” tiga kali, tahlil tujuh kali, ḥauqalah tujuh kali, surah al-Jinn tujuh kali
 
-Langkah 3: Lalu menoleh ke kanan dan ke kiri dengan bacaan tertentu sampai terdengar suara yang memberi salam.
+- seruan ke kanan tujuh kali dan formula ke kiri tujuh kali
 
-Tujuan: Menghadirkan individu jin sampai terdengar suara salam.
+Langkah ke-1:
+
+Lanjutan tata cara menghadirkan seorang jin — masuk ke tempat yang gelap dan tertutup rapat.
+
+Langkah ke-2:
+
+Menghadap kiblat, membaca «ماشاء الله» tiga kali, tahlil dan hauqalah serta Surah al-Jinn masing-masing tujuh kali.
+
+Langkah ke-3:
+
+Lalu menoleh ke kanan dan ke kiri dengan bacaan tertentu sampai terdengar suara yang memberi salam.
+
+Tujuan:
+
+Menghadirkan individu jin sampai terdengar suara salam.
 
 ## Halaman 103 — Fasal Kedua Puluh: sepuluh nama (1–4)
 
@@ -4232,13 +5098,21 @@ Penulis menyatakan: apabila seseorang hendak “menggunakan/mengarahkan” nama-
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Sepuluh nama yang dibaca menurut bilangan jummal masing-masing (1072, 535, 1403, 1598, 517, 646, 1813, 1314, 908, dan 1598).
+Media:
 
-Langkah 1: Berpuasa tiga hari pada rangkaian Ahad–Senin–Selasa atau Selasa–Rabu–Kamis, sebagaimana kedua rangkaian pada cetakan dipertahankan.
+- Sepuluh nama yang dibaca menurut bilangan jummal masing-masing (1072, 535, 1403, 1598, 517, 646, 1813, 1314, 908, dan 1598)
 
-Langkah 2: Membaca sepuluh nama menurut bilangan jummal masing-masing (1072, 535, 1403, 1598, 517, 646, 1813, 1314, 908, dan 1598) hingga pagi.
+Langkah ke-1:
 
-Tujuan: Tidak dinyatakan secara tersendiri pada halaman ini.
+Berpuasa tiga hari pada rangkaian Ahad–Senin–Selasa atau Selasa–Rabu–Kamis, sebagaimana kedua rangkaian pada cetakan dipertahankan.
+
+Langkah ke-2:
+
+Membaca sepuluh nama menurut bilangan jummal masing-masing (1072, 535, 1403, 1598, 517, 646, 1813, 1314, 908, dan 1598) hingga pagi.
+
+Tujuan:
+
+Tidak dinyatakan secara tersendiri pada halaman ini.
 
 ## Halaman 106 — klaim kegunaan dan nasihat penulis
 
@@ -4264,13 +5138,21 @@ Nama-nama itu juga diklaim untuk al-ikhtifa' (menghilang). Penulis menyeru orang
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Nama-nama yang dibaca.
+Media:
 
-Langkah 1: Membaca nama-nama itu pada malam keempat awal bulan memenuhi «segala keperluan dari kebaikan dan keburukan», berguna untuk «menjinakkan batu dan uang», berjalan di atas air, dan «menghilang» (الاختفاء).
+- Nama-nama yang dibaca
 
-Langkah 2: Ditutup nasihat agar dipakai untuk kebaikan saja.
+Langkah ke-1:
 
-Tujuan: Memenuhi keperluan yang dinyatakan naskah.
+Membaca nama-nama itu pada malam keempat awal bulan memenuhi «segala keperluan dari kebaikan dan keburukan», berguna untuk «menjinakkan batu dan uang», berjalan di atas air, dan «menghilang» (الاختفاء).
+
+Langkah ke-2:
+
+Ditutup nasihat agar dipakai untuk kebaikan saja.
+
+Tujuan:
+
+Memenuhi keperluan yang dinyatakan naskah.
 
 ## Halaman 107 — Fasal Kedua Puluh Satu: nama-nama Nabi Adam
 
@@ -4302,19 +5184,37 @@ Min syaqqil ardhi wa nasfihaa wa tahwiilil kunuuzi wal amwaalil mathmuurati fil 
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Nama-nama yang disebut bersama Nabi Adam; Bukhur: Disebutkan, termasuk rujukan kepada Bukhur yang disebut terdahulu; kata/jenis persisnya tidak dipastikan.
+Media:
 
-Langkah 1: Waktu yang dinyatakan: Riyāḍah 11 hari; menurut pembacaan cetakan asli, dibaca 21 kali sesudah setiap salat fardu.
+- Nama-nama yang disebut bersama Nabi Adam
 
-Langkah 2: **الفصل الواحد والعشرون — فصل في الأسماء التي كانت مع آدم عليه السلام**, yang menurut penulis berpindah dari hikmah ke hikmah sampai ke Ashif bin Barkhiya (yang disebut membawa singgasana Bilqis sekejap mata).
+- Bukhur: Disebutkan, termasuk rujukan kepada Bukhur yang disebut terdahulu
 
-Langkah 3: Dikatakan diambil dari «نقش بطرس ميخائيل».
+- kata/jenis persisnya tidak dipastikan
 
-Langkah 4: Dengan «رياضة» sebelas hari.
+Langkah ke-1:
 
-Langkah 5: Lalu pergi ke tanah lapang, memukul tanah dengan telapak tangan, sehingga raja-raja jin hadir.
+Waktu yang dinyatakan: Riyāḍah 11 hari; menurut pembacaan cetakan asli, dibaca 21 kali sesudah setiap salat fardu.
 
-Tujuan: Menghadirkan raja-raja jin.
+Langkah ke-2:
+
+**الفصل الواحد والعشرون — فصل في الأسماء التي كانت مع آدم عليه السلام**, yang menurut penulis berpindah dari hikmah ke hikmah sampai ke Ashif bin Barkhiya (yang disebut membawa singgasana Bilqis sekejap mata).
+
+Langkah ke-3:
+
+Dikatakan diambil dari «نقش بطرس ميخائيل».
+
+Langkah ke-4:
+
+Dengan «رياضة» sebelas hari.
+
+Langkah ke-5:
+
+Lalu pergi ke tanah lapang, memukul tanah dengan telapak tangan, sehingga raja-raja jin hadir.
+
+Tujuan:
+
+Menghadirkan raja-raja jin.
 
 ## Halaman 108 — nama penghadir dan «رجال الغيب»
 
@@ -4344,15 +5244,27 @@ Penulis menambahkan klaim untuk membangun kota dan benteng, taghyib al-madhi (se
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Dua rakaat dan dua langkah ke arah mereka; ucapan “as-salāmu ‘alaikum yā rijāl al-ghaib” dan tiga nama pembuka rangkaian tawasul.
+Media:
 
-Langkah 1: Lanjutan daftar kegunaan.
+- Dua rakaat dan dua langkah ke arah mereka
 
-Langkah 2: Tiga nama untuk menghadirkan («خليسان، وكونجان، بسطارماز»).
+- ucapan “as-salāmu ‘alaikum yā rijāl al-ghaib” dan tiga nama pembuka rangkaian tawasul
 
-Langkah 3: Lalu **فائدة في معرفة رجال الغيب** — keyakinan tentang «orang-orang gaib» (quthb, ghauts, abdāl, nuqabā’) dan bacaan salam kepada mereka, dengan klaim bahwa keperluan terpenuhi setelah salat dua rakaat dan melangkah dua langkah ke arah mereka.
+Langkah ke-1:
 
-Tujuan: Menghadirkan dengan tiga nama dan mengetahui rijāl al-ghaib.
+Lanjutan daftar kegunaan.
+
+Langkah ke-2:
+
+Tiga nama untuk menghadirkan («خليسان، وكونجان، بسطارماز»).
+
+Langkah ke-3:
+
+Lalu **فائدة في معرفة رجال الغيب** — keyakinan tentang «orang-orang gaib» (quthb, ghauts, abdāl, nuqabā’) dan bacaan salam kepada mereka, dengan klaim bahwa keperluan terpenuhi setelah salat dua rakaat dan melangkah dua langkah ke arah mereka.
+
+Tujuan:
+
+Menghadirkan dengan tiga nama dan mengetahui rijāl al-ghaib.
 
 ## Halaman 109 — salam lanjutan dan da'irah arah
 
@@ -4384,13 +5296,35 @@ Penulis berkata akan menyebutkan cara mengenal mereka: menurutnya mereka setiap 
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Da’irah bergambar delapan arah dengan angka Hindi di sekelilingnya.
+Media:
 
-Langkah 1: Lanjutan bacaan salam kepada «رجال الغيب» («يَا أَوْتَادُ أَعِيذُونِي…») dan perintah menghadap keperluan.
+- Bacaan lanjutan kepada Awtad: يَا أَوْتَادُ، أَعِيذُونِي أَغِيثُونِي أَنْظُرُوا إِلَيَّ
 
-Langkah 2: Lalu penjelasan bahwa mereka berpindah arah menurut hari dan bulan, dengan **da'irah (lingkaran) bergambar** berisi arah dan angka yang menjadi rujukan.
+- Da'irah delapan arah (gambar di Hal 109)
 
-Tujuan: Menyampaikan salam kepada rijāl al-ghaib dan menghadap keperluan.
+- Angka Hindi yang tertulis di bawah arah-arah di sekeliling da'irah
+
+Langkah ke-1 - Baca lanjutan sapaan kepada Awtad:
+
+يَا أَوْتَادُ، أَعِيذُونِي أَغِيثُونِي أَنْظُرُوا إِلَيَّ بِوَحْدَانِيَّةِ اللَّهِ وَبِحُرْمَةِ سَيِّدِنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.
+
+Teks melanjutkan bacaan salam kepada «رجال الغيب» dengan sapaan kepada Awtad di atas.
+
+Langkah ke-2 - Menghadap keperluan:
+
+ثُمَّ تَوَجَّهْ إِلَى حَاجَتِكَ فَإِنَّهَا تُقْضَى بِإِذْنِ اللَّهِ تَعَالَى.
+
+Sesudah sapaan itu, teks memerintahkan menghadap keperluan; penulis menyatakan keperluan itu ditunaikan dengan izin Allah Ta'ala.
+
+Langkah ke-3 - Kenali arah dari da'irah:
+
+وَسَأَذْكُرُ لَكَ مَعْرِفَتَهُمْ، لِأَنَّهُمْ فِي كُلِّ يَوْمٍ مِنْ كُلِّ شَهْرٍ يَكُونُونَ فِي جِهَةٍ مِنَ الْجِهَاتِ الثَّمَانِيَةِ. تَعْرِفُ ذَلِكَ مِنَ الدَّائِرَةِ وَأَيَّامُ الشَّهْرِ مَعْرُوفَةٌ بِالْعَدَدِ الْهِنْدِيِّ الْمَرْقُومِ تَحْتَ الْجِهَاتِ الْمَوْضُوعَةِ حَوْلَ الدَّائِرَةِ كَمَا تَرَى فَافْهَمْ تُرْشَدْ.
+
+Penulis menjelaskan bahwa mereka berada pada satu dari delapan arah setiap hari dari setiap bulan. Arah itu dikenali dari da'irah, sedangkan hari-hari bulan dikenali dari angka Hindi yang tertulis di bawah arah-arah di sekeliling lingkaran (lihat gambar Hal 109).
+
+Tujuan:
+
+Menyampaikan salam kepada rijāl al-ghaib dan menghadap keperluan.
 
 ## Halaman 110 — hadis Abu Nu‘aim tentang «abdāl»
 
@@ -4452,13 +5386,23 @@ Penulis kemudian memperkenalkan sebuah doa dengan klaim bahwa orang yang membawa
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Doa perluasan tawasul dibaca; Metode mencatat pembacaan tiga kali dalam konteks penyebutan keperluan (redaksi Terjemahan dipertahankan).
+Media:
 
-Langkah 1: Lanjutan pembagian «نقباء/نجباء/أبدال/أخيار/عمد» beserta tempatnya dan urutan «ابتلاء» ketika ada keperluan.
+- Doa perluasan tawasul dibaca
 
-Langkah 2: Lalu **doa** yang menurut penulis «dihafal di darat dan laut», yang jika dibaca tiga kali keperluannya terkabul sebelum ia bangkit.
+- Metode mencatat pembacaan tiga kali dalam konteks penyebutan keperluan (redaksi Terjemahan dipertahankan)
 
-Tujuan: Memenuhi keperluan melalui doa yang dibaca tiga kali.
+Langkah ke-1:
+
+Lanjutan pembagian «نقباء/نجباء/أبدال/أخيار/عمد» beserta tempatnya dan urutan «ابتلاء» ketika ada keperluan.
+
+Langkah ke-2:
+
+Lalu **doa** yang menurut penulis «dihafal di darat dan laut», yang jika dibaca tiga kali keperluannya terkabul sebelum ia bangkit.
+
+Tujuan:
+
+Memenuhi keperluan melalui doa yang dibaca tiga kali.
 
 ## Halaman 112 — lanjutan doa dan tawasul
 
@@ -4488,17 +5432,29 @@ Doa berlanjut: “—yang suci, para sahabatnya yang pilihan, dan Ahlulbaitnya y
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Doa tawasul lanjutan (nama nabi, malaikat, sahabat, wali/ulama).
+Media:
 
-Langkah 1: **Doa**.
+- Doa tawasul lanjutan (nama nabi, malaikat, sahabat, wali/ulama)
 
-Langkah 2: Halaman ini melanjutkan doa yang terpotong di halaman 111: tawasul dengan «أهل الطهار» dan para wali, permohonan ampun.
+Langkah ke-1:
 
-Langkah 3: Lalu tawasul dengan sejumlah nama (أبدال، رجال، أخيار) dan nama-nama tokoh sufi.
+**Doa**.
 
-Langkah 4: Doa ini sebagian besar berisi permohonan yang lazim.
+Langkah ke-2:
 
-Tujuan: Melanjutkan doa tawasul dan permohonan ampun.
+Halaman ini melanjutkan doa yang terpotong di halaman 111: tawasul dengan «أهل الطهار» dan para wali, permohonan ampun.
+
+Langkah ke-3:
+
+Lalu tawasul dengan sejumlah nama (أبدال، رجال، أخيار) dan nama-nama tokoh sufi.
+
+Langkah ke-4:
+
+Doa ini sebagian besar berisi permohonan yang lazim.
+
+Tujuan:
+
+Melanjutkan doa tawasul dan permohonan ampun.
 
 ## Halaman 113 — daftar nama dalam doa
 
@@ -4580,19 +5536,33 @@ Penulis melanjutkan bahwa ketika menghadap mereka sambil bertawasul kepada Allah
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Berwudu, dua rakaat, menghadap arah kaum rijāl al-ghaib, al-Fātiḥah dihadiahkan, lalu salam.
+Media:
 
-Langkah 1: Berwudu, salat dua rakaat.
+- Berwudu, dua rakaat, menghadap arah kaum rijāl al-ghaib, al-Fātiḥah dihadiahkan, lalu salam
 
-Langkah 2: Menghadap ke arah mereka.
+Langkah ke-1:
 
-Langkah 3: Membaca al-Fatihah lalu «menghadiahkannya» kepada mereka.
+Berwudu, salat dua rakaat.
 
-Langkah 4: Mengucapkan salam kepada «rijal al-ghaib» dengan menyebut quthb/ghauts/abdāl, menyebutkan keperluan, dan — menurut penulis — tidak ada bedanya engkau menghadap atau tidak.
+Langkah ke-2:
 
-Langkah 5: Dicatat sebagai praktik yang **tidak bersumber** dari Al-Qur’an/Sunnah.
+Menghadap ke arah mereka.
 
-Tujuan: Menghadap rijāl al-ghaib dan menyebutkan keperluan.
+Langkah ke-3:
+
+Membaca al-Fatihah lalu «menghadiahkannya» kepada mereka.
+
+Langkah ke-4:
+
+Mengucapkan salam kepada «rijal al-ghaib» dengan menyebut quthb/ghauts/abdāl, menyebutkan keperluan, dan — menurut penulis — tidak ada bedanya engkau menghadap atau tidak.
+
+Langkah ke-5:
+
+Dicatat sebagai praktik yang **tidak bersumber** dari Al-Qur’an/Sunnah.
+
+Tujuan:
+
+Menghadap rijāl al-ghaib dan menyebutkan keperluan.
 
 ## Halaman 116 — Fasal Kedua Puluh Dua: القرينة dan wafaq Basmalah
 
@@ -4628,23 +5598,59 @@ Baabun aakharu lil qariinati: tuktabu wa yuhmalu lil mar-atil latii tusqithul au
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Kertas putih berisi wafaq Basmalah dan huruf-huruf di sekelilingnya; «hākadzā kahwu lahū» ditulis 100 kali; rangkaian «hayyā syarāhiyā…» ditulis 41 kali; ayat-ayat penjagaan, Ayat Kursi, penutup al-Baqarah, at-Taubah, al-Hasyr, dan al-Hadid, ash-Shamadiyyah, serta al-Mu‘awwidzatain; Bukhur: Disebutkan untuk fumigasi pada kedua bab, tetapi jenisnya tidak dirinci.
+Media:
 
-Langkah 1: **الفصل الثاني والعشرون — القرينة**.
+- وَرَقَةٍ بَيْضَاءَ (kertas putih)
 
-Langkah 2: Dua bab: (1) «باب لمنع القرينة أم الصبيان» — ditulis Basmalah pada kertas putih.
+- وَفْقُ الْبَسْمَلَةِ الشَّرِيفَةِ الْأُنْثَى
 
-Langkah 3: Ditulis huruf abjad (أبجد هوز…) mengelilinginya.
+- Huruf yang ditulis mengelilingi wafaq: ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن هـ و ل ا ي
 
-Langkah 4: Ditulis «هكذا كهو لهو» seratus kali.
+- Rangkaian: كَهْو لَهُو هَيَّا شَرَاهِيَا أَدُونَايْ أَصْبَاوُثْ آلْ شَدَّايْ
 
-Langkah 5: Ditulis «هيا شراهيا أدوناي أصباوث إل شداي» 41 kali.
+- آيَاتِ الْحِفْظِ كُلَّهَا، وَآيَةَ الْكُرْسِيِّ، وَآخِرَ سُورَةِ الْبَقَرَةِ، وَآخِرَ سُورَةِ التَّوْبَةِ، وَآخِرَ سُورَةِ الْحَشْرِ، وَآخِرَ سُورَةِ الْحَدِيدِ إِلَى ذَاتِ الصُّدُورِ، وَالصَّمَدِيَّةَ، وَالْمُعَوِّذَتَيْنِ
 
-Langkah 6: Lalu menulis ayat-ayat (al-Kursi, al-Baqarah, at-Taubah, al-Hasyr, al-Hadid, al-Ikhlas, al-Mu‘awwidzatain).
+- Bukhur untuk pengasapan; jenisnya tidak dirinci pada halaman ini
 
-Langkah 7: (2) «باب آخر للقرينة» untuk perempuan yang keguguran.
+Langkah ke-1 - Tulis wafaq Basmalah pada kertas putih:
 
-Tujuan: Mencegah qarinah Umm ash-Shibyān dan bab qarinah bagi perempuan yang keguguran.
+تُكْتَبُ وَفْقُ الْبَسْمَلَةِ الشَّرِيفَةِ الْأُنْثَى فِي وَرَقَةٍ بَيْضَاءَ
+
+Bab pertama berjudul `بَابٌ لِمَنْعِ الْقَرِينَةِ أُمِّ الصِّبْيَانِ`; wafaq Basmalah asy-Syarifah al-Untsa ditulis pada kertas putih.
+
+Langkah ke-2 - Tulis huruf mengelilingi wafaq:
+
+ثُمَّ يُكْتَبُ حَوْلَهُ مَا يَأْتِي وَهُوَ هَذَا: ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن هـ و ل ا ي.
+
+Tulis seluruh urutan huruf itu di sekeliling wafaq.
+
+Langkah ke-3 - Tulis rangkaian Kahwu lahuu:
+
+ثُمَّ اكْتُبْ مِائَةَ مَرَّةٍ هَكَذَا: كَهْو لَهُو هَيَّا شَرَاهِيَا أَدُونَايْ أَصْبَاوُثْ آلْ شَدَّايْ (٤١ مَرَّةً).
+
+Redaksi final memuat hitungan 100 kali dan 41 kali dalam satu rangkaian; hubungan kedua hitungan itu tidak diputuskan di sini.
+
+Langkah ke-4 - Tulis ayat-ayat penjagaan:
+
+وَاكْتُبْ آيَاتِ الْحِفْظِ كُلَّهَا، وَآيَةَ الْكُرْسِيِّ، وَآخِرَ سُورَةِ الْبَقَرَةِ، وَآخِرَ سُورَةِ التَّوْبَةِ، وَآخِرَ سُورَةِ الْحَشْرِ، وَآخِرَ سُورَةِ الْحَدِيدِ إِلَى ذَاتِ الصُّدُورِ، وَالصَّمَدِيَّةَ، وَالْمُعَوِّذَتَيْنِ.
+
+Tulis semua ayat penjagaan, Ayat Kursi, akhir surah al-Baqarah, akhir surah at-Taubah, akhir surah al-Hasyr, akhir surah al-Hadid sampai `ذَاتِ الصُّدُورِ`, ash-Shamadiyyah, dan al-Mu'awwidzatain.
+
+Langkah ke-5 - Diasapi lalu dibawa:
+
+وَيُبَخَّرُ وَيَحْمِلُهُ الْمَقْرُونُ وَالْمَرْأَةُ الَّتِي تُسْقِطُ الْأَوْلَادَ.
+
+Tulisan itu diasapi, lalu menurut penulis dibawa oleh orang yang disebut al-maqrun dan oleh perempuan yang menggugurkan anak-anak.
+
+Langkah ke-6 - Bab lain untuk al-Qarinah:
+
+بَابٌ آخَرُ لِلْقَرِينَةِ: يُكْتَبُ وَيُحْمَلُ لِلْمَرْأَةِ الَّتِي تُسْقِطُ الْأَوْلَادَ وَخِلَافِهِ، وَيُبَخَّرُ وَتَحْمِلُهُ الْمَرْأَةُ. وَهَذَا مَا يُكْتَبُ:
+
+Bab kedua menyatakan tulisan berikutnya ditulis, diasapi, dan dibawa oleh perempuan yang menggugurkan anak-anak dan selainnya. Halaman ini berhenti pada pembuka itu; isi yang ditulis berlanjut pada Halaman 117.
+
+Tujuan tertulis:
+
+بَابٌ لِمَنْعِ الْقَرِينَةِ أُمِّ الصِّبْيَانِ - mencegah al-Qarinah Umm ash-Shibyan; dan bab lain untuk al-Qarinah bagi perempuan yang menggugurkan anak-anak.
 
 ## Halaman 117 — bacaan penangkal dan Ayat Kursi
 
@@ -4678,15 +5684,25 @@ Penulis kemudian mengutip Ayat Kursi: “Allah, tidak ada tuhan selain Dia, Yang
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Doa besar lanjutan hijab dengan rangkaian Asmā’ al-Ḥusnā dan ayat-ayat hijab.
+Media:
 
-Langkah 1: Teks bacaan penangkal yang dimulai dengan Basmalah, deretan kata tanpa makna Arab («ارقا شرقا عرموقاش…»), sumpah kepada «para jin» agar menjauh dari pemegang kitab, disusul Ayat Kursi dan ayat-ayat perlindungan.
+- Doa besar lanjutan hijab dengan rangkaian Asmā’ al-Ḥusnā dan ayat-ayat hijab
 
-Langkah 2: Teks ini **bukan** ayat dan bukan doa yang bersumber dari Sunnah.
+Langkah ke-1:
 
-Langkah 3: Dicatat apa adanya.
+Teks bacaan penangkal yang dimulai dengan Basmalah, deretan kata tanpa makna Arab («ارقا شرقا عرموقاش…»), sumpah kepada «para jin» agar menjauh dari pemegang kitab, disusul Ayat Kursi dan ayat-ayat perlindungan.
 
-Tujuan: Menangkal jin dari pemegang kitab dan membaca ayat perlindungan.
+Langkah ke-2:
+
+Teks ini **bukan** ayat dan bukan doa yang bersumber dari Sunnah.
+
+Langkah ke-3:
+
+Dicatat apa adanya.
+
+Tujuan:
+
+Menangkal jin dari pemegang kitab dan membaca ayat perlindungan.
 
 ## Halaman 118 — ayat-ayat penjagaan dan doa perlindungan
 
@@ -4744,13 +5760,23 @@ Frasa perlindungan diulang dalam bentuk lebih panjang: “Jagalah dia dari para 
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Doa penjagaan dari ṭawāriq al-lail wa an-nahār; akhir at-Taubah, akhir al-Ḥasyr, al-Mu‘awwidzatain, dan al-Ikhlāṣ (nama surah terakhir pada Terjemahan tidak pasti).
+Media:
 
-Langkah 1: Penutup doa penjagaan dari «طوارق الليل والنهار»، lalu perintah membaca Surah at-Taubah, al-Hasyr, al-Mu‘awwidzatain, dan al-Ikhlas, ditutup dengan menyebut «خاتم سليمان» dan penilaian penulis «مجرب صحيح» (sudah dicoba dan benar).
+- Doa penjagaan dari ṭawāriq al-lail wa an-nahār
 
-Langkah 2: Klaim «mujarrab shahih» itu **penilaian penulis**.
+- akhir at-Taubah, akhir al-Ḥasyr, al-Mu‘awwidzatain, dan al-Ikhlāṣ (nama surah terakhir pada Terjemahan tidak pasti)
 
-Tujuan: Penjagaan dari gangguan malam dan siang.
+Langkah ke-1:
+
+Penutup doa penjagaan dari «طوارق الليل والنهار»، lalu perintah membaca Surah at-Taubah, al-Hasyr, al-Mu‘awwidzatain, dan al-Ikhlas, ditutup dengan menyebut «خاتم سليمان» dan penilaian penulis «مجرب صحيح» (sudah dicoba dan benar).
+
+Langkah ke-2:
+
+Klaim «mujarrab shahih» itu **penilaian penulis**.
+
+Tujuan:
+
+Penjagaan dari gangguan malam dan siang.
 
 ## Halaman 120 — Fasal Kedua Puluh Tiga: nama-nama القرينة
 
@@ -4786,15 +5812,25 @@ Bijalbi hub bil qurnaai wa ummish shibyaani: tuktabu suuratul buruuji ma'a suura
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Surah al-Burūj dan al-Ḥadīd ditulis dalam huruf-huruf terpisah bersama kutipan al-Ḥasyr sampai akhir surah, lalu digantungkan pada anak atau maqrūn.
+Media:
 
-Langkah 1: **الفصل الثالث والعشرون — أسماء القرينة**.
+- Surah al-Burūj dan al-Ḥadīd ditulis dalam huruf-huruf terpisah bersama kutipan al-Ḥasyr sampai akhir surah, lalu digantungkan pada anak atau maqrūn
 
-Langkah 2: Daftar nama «qarinah» («أم الصبيات» dan lain-lain: بسمله، الراس، طرطر، برفوش، غيوش، مبروش، سلطعونس، جروش، بعدش، سرتاوش، دنوش…) lalu **deret huruf dan angka** yang panjang.
+Langkah ke-1:
 
-Langkah 3: Kemudian «بجلب حب القرناء وأم الصبيان»: ditulis Surah al-Buruj bersama Surah al-Hadid dengan huruf-huruf terpisah.
+**الفصل الثالث والعشرون — أسماء القرينة**.
 
-Tujuan: Mengetahui nama-nama qarinah dan menulis al-Burūj/al-Ḥadīd untuk digantungkan.
+Langkah ke-2:
+
+Daftar nama «qarinah» («أم الصبيات» dan lain-lain: بسمله، الراس، طرطر، برفوش، غيوش، مبروش، سلطعونس، جروش، بعدش، سرتاوش، دنوش…) lalu **deret huruf dan angka** yang panjang.
+
+Langkah ke-3:
+
+Kemudian «بجلب حب القرناء وأم الصبيان»: ditulis Surah al-Buruj bersama Surah al-Hadid dengan huruf-huruf terpisah.
+
+Tujuan:
+
+Mengetahui nama-nama qarinah dan menulis al-Burūj/al-Ḥadīd untuk digantungkan.
 
 ## Halaman 121 — حجاب القرناء dan wafaq Basmalah
 
@@ -4826,19 +5862,51 @@ Hijaabul qarnaa-i: uktub wafqal basmalatis syariifati(l) untsaa tsummak tub haul
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Wafaq Basmalah dengan huruf alif sampai ẓā’ mengelilinginya; «hākadzā kahwu lahū» ditulis 100 kali; rangkaian «hayyā syarāhiyā…» ditulis 41 kali; ayat-ayat penjagaan dan al-Mu‘awwidzatain; wafaq 3×3 bergambar.
+Media:
 
-Langkah 1: **حجاب القرناء** — ditulis Basmalah pada kertas.
+- وَفْقَ الْبَسْمَلَةِ الشَّرِيفَةِ الْأُنْثَى
 
-Langkah 2: Ditulis huruf abjad mengelilinginya.
+- الْأَحْرُفَ الْأَعْجَمِيَّةَ: ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ
 
-Langkah 3: Ditulis «هكذا كهو لهو» seratus kali.
+- Rangkaian: كَهْو لَهُو (هَيَّا شَرَاهِيَا أَدُونَايْ أَصْبَاوُثْ آلْ شَدَّايْ)
 
-Langkah 4: Ditulis «هيا شراهيا أدوناي أصباوث إل شداي» 41 kali.
+- آيَاتِ الْحِفْظِ وَالْمُعَوِّذَتَيْنِ
 
-Langkah 5: Ditulis ayat-ayat, lalu **wafaq 3×3 bergambar** berisi «بسم الله الرحمن الرحيم» dan angka-angka (dengan catatan tepi «وفق البسملة»).
+- Wafaq mutsallats 3 × 3 pada gambar Hal 121, dengan catatan tepi `وَفْقُ الْبَسْمَلَةِ`
 
-Tujuan: Membuat ḥijāb al-qarnā’.
+Langkah ke-1 - Tulis wafaq Basmalah:
+
+اكْتُبْ وَفْقَ الْبَسْمَلَةِ الشَّرِيفَةِ الْأُنْثَى
+
+Tulis wafaq Basmalah asy-Syarifah al-Untsa.
+
+Langkah ke-2 - Tulis huruf mengelilingi wafaq:
+
+ثُمَّ اكْتُبْ حَوْلَهُ الْأَحْرُفَ الْأَعْجَمِيَّةَ الْآتِيَةَ وَهِيَ - ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ -
+
+Tulis urutan huruf itu di sekeliling wafaq.
+
+Langkah ke-3 - Tulis rangkaian Kahwu lahuu:
+
+ثُمَّ اكْتُبْ مِائَةَ جِيمٍ هَكَذَا: كَهْو لَهُو (هَيَّا شَرَاهِيَا أَدُونَايْ أَصْبَاوُثْ آلْ شَدَّايْ) تُكَرِّرُ ٤١ مَرَّةً.
+
+Frasa `مِائَةَ جِيمٍ` dibiarkan apa adanya karena cetakan/bacaannya tidak jelas; rangkaian dalam kurung dinyatakan diulang 41 kali.
+
+Langkah ke-4 - Tulis ayat penjagaan dan al-Mu'awwidzatain:
+
+وَاكْتُبْ مَعَهَا آيَاتِ الْحِفْظِ وَالْمُعَوِّذَتَيْنِ وَصِلْهُمْ.
+
+Tulis bersamanya ayat-ayat penjagaan dan al-Mu'awwidzatain; kata `وَصِلْهُمْ` diterjemahkan “sambungkanlah mereka/itu” tanpa rincian rujukan pada halaman ini.
+
+Langkah ke-5 - Ikuti wafaq 3 × 3 pada halaman:
+
+[وَفْقٌ مُثَلَّثٌ ٣ × ٣ مَرْسُومٌ فِي الصَّفْحَةِ: فِي صُفُوفِهِ «بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ» وَأَرْقَامٌ، وَعَلَى هَامِشِهِ كَلِمَةُ «وَفْقُ الْبَسْمَلَةِ» — رَاجِعْ صُورَةَ الصَّفْحَةِ ١٢١]
+
+Gambar pada halaman memuat wafaq mutsallats 3 × 3 dengan Basmalah dan angka pada barisnya, serta kata `وَفْقُ الْبَسْمَلَةِ` pada tepi (lihat crop Hal 121).
+
+Tujuan tertulis:
+
+حِجَابُ الْقُرَنَاءِ - membuat ḥijāb al-quranā’ menurut judul halaman.
 
 ## Halaman 122 — الخاتمة, halaman penutup kitab (tanpa nomor)
 
@@ -4862,10 +5930,18 @@ Al-khaatimatu. Al-hamdu lillaahil ladzii waffaqanii li-ikhraaji haadzal kitaabi 
 
 ### LAYER 2 - TATACARA PRAKTIK:
 
-Media: Salat dua rakaat, selawat, dan bacaan al-Fatihah.
+Media:
 
-Langkah 1: Salat dua rakaat, berselawat kepada Nabi sepuluh kali.
+- Salat dua rakaat, selawat, dan bacaan al-Fatihah
 
-Langkah 2: Kemudian membaca al-Fatihah untuk Syekh Muhammad Sibami.
+Langkah ke-1:
 
-Tujuan: Menghadiahkan al-Fatihah untuk Syekh Muhammad Sibami.
+Salat dua rakaat, berselawat kepada Nabi sepuluh kali.
+
+Langkah ke-2:
+
+Kemudian membaca al-Fatihah untuk Syekh Muhammad Sibami.
+
+Tujuan:
+
+Menghadiahkan al-Fatihah untuk Syekh Muhammad Sibami.

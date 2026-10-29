@@ -14,8 +14,11 @@ new ``_2_LAYER`` Markdown edition in which each unit is reorganized as:
   unsettled reading;
 * LAYER 2 — TATACARA PRAKTIK, only where the old clean edition already
   records an actual procedure/requirement/reading.  Its prose is retained
-  only as Media, ordered Langkah, and Tujuan; documentary meta-sentences
-  and pure figure/dot inventories are not carried into the steps.
+  in the completed pattern style—bulleted Media, ordered
+  ``Langkah ke-N`` headings with their existing step wording, and a
+  separate Tujuan—while documentary meta-sentences and pure figure/dot
+  inventories are not carried into the steps.  The manually completed
+  key pages recorded below use the same layout.
 
 All unit headings and crop/image references are preserved.  Images that
 were located in the old Syarah are moved to the end of Layer 1 (after
@@ -256,21 +259,23 @@ POLA_64_TATACARA_LENGKAP = """Media:
 
 - مِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ (misik, za'faran, air mawar)
 
-Langkah 1: Tulis ayat:
+Langkah ke-1 - Tulis ayat:
 
 قَالَ مُوسَى مَا جِئْتُمْ بِهِ السِّحْرُ إِنَّ اللَّهَ سَيُبْطِلُهُ - وَقَدِمْنَا إِلَى مَا عَمِلُوا - إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ
 
-Langkah 2: Tulis doa:
+Langkah ke-2 - Tulis doa:
 
 اللَّهُمَّ اصْرِفْ وَارْفَعْ وَاذْهَبْ عَنْ فُلَانٍ...
 
-Langkah 3: Tulis Khatam Sulaiman di bawah doa (lihat foto asli Hal 64)
+Langkah ke-3 - Tulis Khatam Sulaiman di bawah doa (lihat foto asli Hal 64)
 
-Langkah 4: Cara pakai:
+Langkah ke-4 - Cara pakai:
 
 يُكْتَبُ وَيُحْمَلُ بِمِسْكٍ وَزَعْفَرَانٍ وَمَاءِ وَرْدٍ - Ditulis dengan misik, za'faran, air mawar, lalu dibawa.
 
-Tujuan: وَالنَّظْرَةِ السَّوْءِ وَالسِّحْرِ وَالتَّعْطِيلِ - untuk pandangan buruk, sihir, ta'thil menurut penulis."""
+Tujuan:
+
+وَالنَّظْرَةِ السَّوْءِ وَالسِّحْرِ وَالتَّعْطِيلِ - untuk pandangan buruk, sihir, ta'thil menurut penulis."""
 
 POLA_65_TATACARA_LENGKAP = """Media:
 
@@ -282,25 +287,162 @@ POLA_65_TATACARA_LENGKAP = """Media:
 
 - خَاتَمُ سُلَيْمَانَ (gambar di Hal 65)
 
-Langkah 1: Tulis di dalam wadah porselen Cina dengan za'faran + air mawar:
+Langkah ke-1 - Tulis di dalam wadah porselen Cina dengan za'faran + air mawar:
 
 Ayat-ayat: ذَلِكَ تَخْفِيفٌ... يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ... وَلَهُ مَا سَكَنَ... إِنْ يَشَأْ يُسْكِنِ الرِّيحَ...
 
-Langkah 2: Tulis di bawahnya rangkaian huruf:
+Langkah ke-2 - Tulis di bawahnya rangkaian huruf:
 
 الم الم المص المر الر المر كهيعص طه طسم الم الم الم الم الم يس ص حم حم عسق حم حم حم حم حم ق ن (seperti tercetak)
 
-Langkah 3: Tulis doa:
+Langkah ke-3 - Tulis doa:
 
 بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ... اللَّهُمَّ اشْفِنِي أَنْتَ الشَّافِي...
 
-Langkah 4: Tulis Khatam Sulaiman di akhir (lihat foto Hal 65)
+Langkah ke-4 - Tulis Khatam Sulaiman di akhir (lihat foto Hal 65)
 
-Langkah 5: Cara pakai:
+Langkah ke-5 - Cara pakai:
 
 يُمْحَى بِمَاءِ بِئْرٍ لَا يَرَى النَّيِّرَيْنِ - Dihapus/dilarutkan dengan air sumur tersebut, lalu airnya diminumkan/dipakai.
 
-Tujuan: لِلتَّدَاوِي مِنَ الْمَرَضِ - untuk berobat dari penyakit menurut penulis."""
+Tujuan:
+
+لِلتَّدَاوِي مِنَ الْمَرَضِ - untuk berobat dari penyakit menurut penulis."""
+
+# Agent-completed key patterns for Halaman 109, 116, and 121, requested in
+# the same complete style.  They are reorganized only from each unit's
+# locked Layer-1 and old practice text; unresolved counts/readings remain
+# unresolved, and figures are referred to the existing user crops rather
+# than transcribed anew.
+POLA_109_TATACARA_LENGKAP = """Media:
+
+- Bacaan lanjutan kepada Awtad: يَا أَوْتَادُ، أَعِيذُونِي أَغِيثُونِي أَنْظُرُوا إِلَيَّ
+
+- Da'irah delapan arah (gambar di Hal 109)
+
+- Angka Hindi yang tertulis di bawah arah-arah di sekeliling da'irah
+
+Langkah ke-1 - Baca lanjutan sapaan kepada Awtad:
+
+يَا أَوْتَادُ، أَعِيذُونِي أَغِيثُونِي أَنْظُرُوا إِلَيَّ بِوَحْدَانِيَّةِ اللَّهِ وَبِحُرْمَةِ سَيِّدِنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.
+
+Teks melanjutkan bacaan salam kepada «رجال الغيب» dengan sapaan kepada Awtad di atas.
+
+Langkah ke-2 - Menghadap keperluan:
+
+ثُمَّ تَوَجَّهْ إِلَى حَاجَتِكَ فَإِنَّهَا تُقْضَى بِإِذْنِ اللَّهِ تَعَالَى.
+
+Sesudah sapaan itu, teks memerintahkan menghadap keperluan; penulis menyatakan keperluan itu ditunaikan dengan izin Allah Ta'ala.
+
+Langkah ke-3 - Kenali arah dari da'irah:
+
+وَسَأَذْكُرُ لَكَ مَعْرِفَتَهُمْ، لِأَنَّهُمْ فِي كُلِّ يَوْمٍ مِنْ كُلِّ شَهْرٍ يَكُونُونَ فِي جِهَةٍ مِنَ الْجِهَاتِ الثَّمَانِيَةِ. تَعْرِفُ ذَلِكَ مِنَ الدَّائِرَةِ وَأَيَّامُ الشَّهْرِ مَعْرُوفَةٌ بِالْعَدَدِ الْهِنْدِيِّ الْمَرْقُومِ تَحْتَ الْجِهَاتِ الْمَوْضُوعَةِ حَوْلَ الدَّائِرَةِ كَمَا تَرَى فَافْهَمْ تُرْشَدْ.
+
+Penulis menjelaskan bahwa mereka berada pada satu dari delapan arah setiap hari dari setiap bulan. Arah itu dikenali dari da'irah, sedangkan hari-hari bulan dikenali dari angka Hindi yang tertulis di bawah arah-arah di sekeliling lingkaran (lihat gambar Hal 109).
+
+Tujuan:
+
+Menyampaikan salam kepada rijāl al-ghaib dan menghadap keperluan."""
+
+POLA_116_TATACARA_LENGKAP = """Media:
+
+- وَرَقَةٍ بَيْضَاءَ (kertas putih)
+
+- وَفْقُ الْبَسْمَلَةِ الشَّرِيفَةِ الْأُنْثَى
+
+- Huruf yang ditulis mengelilingi wafaq: ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن هـ و ل ا ي
+
+- Rangkaian: كَهْو لَهُو هَيَّا شَرَاهِيَا أَدُونَايْ أَصْبَاوُثْ آلْ شَدَّايْ
+
+- آيَاتِ الْحِفْظِ كُلَّهَا، وَآيَةَ الْكُرْسِيِّ، وَآخِرَ سُورَةِ الْبَقَرَةِ، وَآخِرَ سُورَةِ التَّوْبَةِ، وَآخِرَ سُورَةِ الْحَشْرِ، وَآخِرَ سُورَةِ الْحَدِيدِ إِلَى ذَاتِ الصُّدُورِ، وَالصَّمَدِيَّةَ، وَالْمُعَوِّذَتَيْنِ
+
+- Bukhur untuk pengasapan; jenisnya tidak dirinci pada halaman ini
+
+Langkah ke-1 - Tulis wafaq Basmalah pada kertas putih:
+
+تُكْتَبُ وَفْقُ الْبَسْمَلَةِ الشَّرِيفَةِ الْأُنْثَى فِي وَرَقَةٍ بَيْضَاءَ
+
+Bab pertama berjudul `بَابٌ لِمَنْعِ الْقَرِينَةِ أُمِّ الصِّبْيَانِ`; wafaq Basmalah asy-Syarifah al-Untsa ditulis pada kertas putih.
+
+Langkah ke-2 - Tulis huruf mengelilingi wafaq:
+
+ثُمَّ يُكْتَبُ حَوْلَهُ مَا يَأْتِي وَهُوَ هَذَا: ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن هـ و ل ا ي.
+
+Tulis seluruh urutan huruf itu di sekeliling wafaq.
+
+Langkah ke-3 - Tulis rangkaian Kahwu lahuu:
+
+ثُمَّ اكْتُبْ مِائَةَ مَرَّةٍ هَكَذَا: كَهْو لَهُو هَيَّا شَرَاهِيَا أَدُونَايْ أَصْبَاوُثْ آلْ شَدَّايْ (٤١ مَرَّةً).
+
+Redaksi final memuat hitungan 100 kali dan 41 kali dalam satu rangkaian; hubungan kedua hitungan itu tidak diputuskan di sini.
+
+Langkah ke-4 - Tulis ayat-ayat penjagaan:
+
+وَاكْتُبْ آيَاتِ الْحِفْظِ كُلَّهَا، وَآيَةَ الْكُرْسِيِّ، وَآخِرَ سُورَةِ الْبَقَرَةِ، وَآخِرَ سُورَةِ التَّوْبَةِ، وَآخِرَ سُورَةِ الْحَشْرِ، وَآخِرَ سُورَةِ الْحَدِيدِ إِلَى ذَاتِ الصُّدُورِ، وَالصَّمَدِيَّةَ، وَالْمُعَوِّذَتَيْنِ.
+
+Tulis semua ayat penjagaan, Ayat Kursi, akhir surah al-Baqarah, akhir surah at-Taubah, akhir surah al-Hasyr, akhir surah al-Hadid sampai `ذَاتِ الصُّدُورِ`, ash-Shamadiyyah, dan al-Mu'awwidzatain.
+
+Langkah ke-5 - Diasapi lalu dibawa:
+
+وَيُبَخَّرُ وَيَحْمِلُهُ الْمَقْرُونُ وَالْمَرْأَةُ الَّتِي تُسْقِطُ الْأَوْلَادَ.
+
+Tulisan itu diasapi, lalu menurut penulis dibawa oleh orang yang disebut al-maqrun dan oleh perempuan yang menggugurkan anak-anak.
+
+Langkah ke-6 - Bab lain untuk al-Qarinah:
+
+بَابٌ آخَرُ لِلْقَرِينَةِ: يُكْتَبُ وَيُحْمَلُ لِلْمَرْأَةِ الَّتِي تُسْقِطُ الْأَوْلَادَ وَخِلَافِهِ، وَيُبَخَّرُ وَتَحْمِلُهُ الْمَرْأَةُ. وَهَذَا مَا يُكْتَبُ:
+
+Bab kedua menyatakan tulisan berikutnya ditulis, diasapi, dan dibawa oleh perempuan yang menggugurkan anak-anak dan selainnya. Halaman ini berhenti pada pembuka itu; isi yang ditulis berlanjut pada Halaman 117.
+
+Tujuan tertulis:
+
+بَابٌ لِمَنْعِ الْقَرِينَةِ أُمِّ الصِّبْيَانِ - mencegah al-Qarinah Umm ash-Shibyan; dan bab lain untuk al-Qarinah bagi perempuan yang menggugurkan anak-anak."""
+
+POLA_121_TATACARA_LENGKAP = """Media:
+
+- وَفْقَ الْبَسْمَلَةِ الشَّرِيفَةِ الْأُنْثَى
+
+- الْأَحْرُفَ الْأَعْجَمِيَّةَ: ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ
+
+- Rangkaian: كَهْو لَهُو (هَيَّا شَرَاهِيَا أَدُونَايْ أَصْبَاوُثْ آلْ شَدَّايْ)
+
+- آيَاتِ الْحِفْظِ وَالْمُعَوِّذَتَيْنِ
+
+- Wafaq mutsallats 3 × 3 pada gambar Hal 121, dengan catatan tepi `وَفْقُ الْبَسْمَلَةِ`
+
+Langkah ke-1 - Tulis wafaq Basmalah:
+
+اكْتُبْ وَفْقَ الْبَسْمَلَةِ الشَّرِيفَةِ الْأُنْثَى
+
+Tulis wafaq Basmalah asy-Syarifah al-Untsa.
+
+Langkah ke-2 - Tulis huruf mengelilingi wafaq:
+
+ثُمَّ اكْتُبْ حَوْلَهُ الْأَحْرُفَ الْأَعْجَمِيَّةَ الْآتِيَةَ وَهِيَ - ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ -
+
+Tulis urutan huruf itu di sekeliling wafaq.
+
+Langkah ke-3 - Tulis rangkaian Kahwu lahuu:
+
+ثُمَّ اكْتُبْ مِائَةَ جِيمٍ هَكَذَا: كَهْو لَهُو (هَيَّا شَرَاهِيَا أَدُونَايْ أَصْبَاوُثْ آلْ شَدَّايْ) تُكَرِّرُ ٤١ مَرَّةً.
+
+Frasa `مِائَةَ جِيمٍ` dibiarkan apa adanya karena cetakan/bacaannya tidak jelas; rangkaian dalam kurung dinyatakan diulang 41 kali.
+
+Langkah ke-4 - Tulis ayat penjagaan dan al-Mu'awwidzatain:
+
+وَاكْتُبْ مَعَهَا آيَاتِ الْحِفْظِ وَالْمُعَوِّذَتَيْنِ وَصِلْهُمْ.
+
+Tulis bersamanya ayat-ayat penjagaan dan al-Mu'awwidzatain; kata `وَصِلْهُمْ` diterjemahkan “sambungkanlah mereka/itu” tanpa rincian rujukan pada halaman ini.
+
+Langkah ke-5 - Ikuti wafaq 3 × 3 pada halaman:
+
+[وَفْقٌ مُثَلَّثٌ ٣ × ٣ مَرْسُومٌ فِي الصَّفْحَةِ: فِي صُفُوفِهِ «بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ» وَأَرْقَامٌ، وَعَلَى هَامِشِهِ كَلِمَةُ «وَفْقُ الْبَسْمَلَةِ» — رَاجِعْ صُورَةَ الصَّفْحَةِ ١٢١]
+
+Gambar pada halaman memuat wafaq mutsallats 3 × 3 dengan Basmalah dan angka pada barisnya, serta kata `وَفْقُ الْبَسْمَلَةِ` pada tepi (lihat crop Hal 121).
+
+Tujuan tertulis:
+
+حِجَابُ الْقُرَنَاءِ - membuat ḥijāb al-quranā’ menurut judul halaman."""
 
 # Tujuan is never inferred from a general theme.  Each entry below is the
 # purpose/topic explicitly carried by the prose of the old practice section
@@ -705,6 +847,43 @@ def token_overlap(a: str, b: str) -> float:
     return len(tokens_a & tokens_b) / len(tokens_a)
 
 
+def split_media_items(media: str) -> list[str]:
+    """Split an existing Media sentence at top-level semicolons only."""
+    text = normalize_space(media)
+    if text.endswith("."):
+        text = text[:-1].rstrip()
+    items: list[str] = []
+    for part in split_top_level(text, ";"):
+        item = part.strip()
+        if item.endswith("."):
+            item = item[:-1].rstrip()
+        if item:
+            items.append(item)
+    return items or [text]
+
+
+def render_practice_block(practice: Practice) -> str:
+    """Render generic practice data in the completed pattern layout.
+
+    Only the labels and paragraph layout change: Media items are the
+    existing semicolon-separated parts, and every step/purpose string is
+    emitted unchanged below its own heading.
+    """
+    lines: list[str] = ["Media:", ""]
+    for item in split_media_items(practice.media):
+        lines.append(f"- {item}")
+        lines.append("")
+    for idx, step in enumerate(practice.steps, 1):
+        lines.append(f"Langkah ke-{idx}:")
+        lines.append("")
+        lines.append(step)
+        lines.append("")
+    lines.append("Tujuan:")
+    lines.append("")
+    lines.append(practice.purpose)
+    return "\n".join(lines)
+
+
 def convert_practice(page: int, body: str) -> Practice | None:
     if NO_NEW_PRACTICE_RE.search(body):
         return None
@@ -725,16 +904,44 @@ def convert_practice(page: int, body: str) -> Practice | None:
     if page == 64:
         return Practice(
             media="",
-            steps=("Langkah 1", "Langkah 2", "Langkah 3", "Langkah 4"),
+            steps=("Langkah ke-1", "Langkah ke-2", "Langkah ke-3", "Langkah ke-4"),
             purpose="",
             raw_block=POLA_64_TATACARA_LENGKAP,
         )
     if page == 65:
         return Practice(
             media="",
-            steps=("Langkah 1", "Langkah 2", "Langkah 3", "Langkah 4", "Langkah 5"),
+            steps=("Langkah ke-1", "Langkah ke-2", "Langkah ke-3", "Langkah ke-4", "Langkah ke-5"),
             purpose="",
             raw_block=POLA_65_TATACARA_LENGKAP,
+        )
+    if page == 109:
+        return Practice(
+            media="",
+            steps=("Langkah ke-1", "Langkah ke-2", "Langkah ke-3"),
+            purpose="",
+            raw_block=POLA_109_TATACARA_LENGKAP,
+        )
+    if page == 116:
+        return Practice(
+            media="",
+            steps=(
+                "Langkah ke-1",
+                "Langkah ke-2",
+                "Langkah ke-3",
+                "Langkah ke-4",
+                "Langkah ke-5",
+                "Langkah ke-6",
+            ),
+            purpose="",
+            raw_block=POLA_116_TATACARA_LENGKAP,
+        )
+    if page == 121:
+        return Practice(
+            media="",
+            steps=("Langkah ke-1", "Langkah ke-2", "Langkah ke-3", "Langkah ke-4", "Langkah ke-5"),
+            purpose="",
+            raw_block=POLA_121_TATACARA_LENGKAP,
         )
 
     fields: dict[str, str] = {}
@@ -851,12 +1058,7 @@ def build_markdown(source_text: str, stats: Stats) -> str:
                 if practice.raw_block is not None:
                     out.append(practice.raw_block)
                 else:
-                    out.append(f"Media: {practice.media}")
-                    out.append("")
-                    for idx, step in enumerate(practice.steps, 1):
-                        out.append(f"Langkah {idx}: {step}")
-                        out.append("")
-                    out.append(f"Tujuan: {practice.purpose}")
+                    out.append(render_practice_block(practice))
         out.append("")
 
     output = "\n".join(out).rstrip() + "\n"
@@ -951,10 +1153,17 @@ def validate_output(source_text: str, output: str, stats: Stats) -> None:
             if pola_steps != [1, 2, 3]:
                 raise AssertionError("complete Pola 58 steps are not sequential")
             continue
-        labels = [block.find(label) for label in ("Media:", "Langkah 1:", "Tujuan:")]
-        if min(labels) < 0 or labels != sorted(labels):
+        media_pos = block.find("Media:")
+        step_matches = list(re.finditer(r"^Langkah ke-(\d+)\b", block, flags=re.M))
+        tujuan_match = re.search(r"^Tujuan(?: tertulis)?:$", block, flags=re.M)
+        if (
+            media_pos < 0
+            or not step_matches
+            or tujuan_match is None
+            or not (media_pos < step_matches[0].start() < tujuan_match.start())
+        ):
             raise AssertionError("a Layer 2 block lacks ordered Media/Langkah/Tujuan")
-        step_numbers = [int(n) for n in re.findall(r"^Langkah\s+(\d+):", block, flags=re.M)]
+        step_numbers = [int(match.group(1)) for match in step_matches]
         if not step_numbers or step_numbers != list(range(1, len(step_numbers) + 1)):
             raise AssertionError("a Layer 2 block lacks sequential Langkah labels")
         if META_RE.search(block):
