@@ -1,0 +1,85 @@
+{
+  "dokumen": "Override Lapis 3 (Terjemahan) Al-Qorin untuk Batch 01 revisi total bergaya Anwar: SAMPUL dan M01-M05. Arab dan Latin tidak diubah pada batch ini karena pindaian sampul serta halaman cetak 2-5 tidak memberikan koreksi huruf yang cukup pasti untuk menimpa lapisan kanonis; seluruh frasa rusak/ragu tetap ditandai pada terjemahan dan dijelaskan oleh Catatan penyunting yang tidak berubah.",
+  "prinsip": "Jumlah paragraf Terjemahan dipertahankan 1:1 terhadap paragraf Arab/Latin. Hanya Terjemahan yang ditulis ulang dari Arab kanonis; Arab, Latin, Metode, Penentuan Jam, Catatan penyunting, Khususiyah, crop_page, rajah_blocks, tabel/label dan urutan unit tidak boleh berubah. Ketidakpastian sumber tidak dihaluskan menjadi kepastian palsu.",
+  "units": {
+    "SAMPUL": {
+      "dasar": "Pindaian sampul asli diperiksa; nama, keanggotaan Paris, dan penerbit sesuai lapisan kanonis. Judul diterjemahkan menurut maksud riyadhah ruhani, sedangkan persoalan ejaan judul tetap pada catatan sampul yang tidak berubah.",
+      "terjemahan": [
+        "Al-Qarin dan Riyadhah-Riyadhah Ruhaniyah.",
+        "Karya Ustaz Besar:",
+        "Muhammad Sami Muhammad Ahmad.",
+        "Anggota Persatuan Dunia para Ahli Falak Ruhaniyah,",
+        "yang berkedudukan di Paris.",
+        "Penerbit:",
+        "Dār al-Fikr wa ats-Tsaqāfah (Rumah Pemikiran dan Kebudayaan).",
+        "Muhammad Sami Muhammad Ahmad."
+      ]
+    },
+    "M01": {
+      "dasar": "Halaman cetak 2 pada pindaian asli memuat basmalah, judul mukadimah, dan rangkaian hamdalah panjang. Terjemahan disusun sebagai satu rangkaian pujian yang mengalir mengikuti paragraf sumber; istilah muqarrabin, arif, muhaqqiq, dan salik dipertahankan sebagai istilah teknis.",
+      "terjemahan": [
+        "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.",
+        "Muqaddimah (Pendahuluan).",
+        "Segala puji bagi Allah yang menyingkapkan tabir-tabir penutup rahasia dari hakikat mata batin orang-orang yang didekatkan kepada-Nya (al-muqarrabīn);",
+        "yang menerangi relung (misykāt) hati para ‘ārif dengan cahaya petunjuk yang berdasar iman;",
+        "yang melapangkan batin dada para muḥaqqiq (ahli tahqiq) dengan rahasia anugerah-anugerah rabbani;",
+        "yang memabukkan permata ruh para pecinta dengan sari murni cinta-Nya;",
+        "yang menunjuki perjalanan (sulūk) maqam-maqam orang-orang yang ikhlas kepada perantara yang paling dekat;",
+        "yang meneguhkan langkah para sālik di atas jalan hakikat;",
+        "yang mengangkat hakikat pikiran orang-orang yang memperoleh petunjuk ke mimbar-mimbar hikmah yang bercahaya;",
+        "yang menenangkan inti akal para mutarabbī (orang-orang yang dibina) di taman hadirat kesucian dan keintiman-Nya;",
+        "dan yang mendekat—dengan kemurnian kelembutan perhatian rahmat-Nya—kepada ketundukan dan kekhusyukan orang-orang yang bermunajat."
+      ]
+    },
+    "M02": {
+      "dasar": "Dua paragraf penutup halaman cetak 2 dibaca sebagai pernyataan tauhid wahdaniyyah, ahadiyyah, dan shamadiyyah; terjemahan mempertahankan ketiga istilah itu dengan glos seminimal mungkin.",
+      "terjemahan": [
+        "Dialah yang tunggal dengan rahasia Keesaan (al-waḥdāniyyah) dan esa dalam mewujudkan hakikat Keesaan (al-aḥadiyyah);",
+        "yang bersifat dengan kemuliaan Allah Yang Ṣamadiyyah (tempat segala sesuatu bergantung) dan Mahasuci dari segala keserupaan yang dibayangkan oleh orang-orang yang menyimpang (al-mulḥidīn)."
+      ]
+    },
+    "M03": {
+      "dasar": "Halaman cetak 3 memuat lanjutan hamdalah, syahadat, dan alasan penulisan. Kata man/min, biyah, susunan kehambaan, penutup salawat, dan aswal tetap belum mantap pada sumber/ekstrak; terjemahan menandainya secara eksplisit dan tidak memilih kandidat bacaan baru.",
+      "terjemahan": [
+        "yang—kata «man/min» sebelum “serambi penciptaan” belum dapat ditetapkan bacaannya—sesuai dengan perbedaan tingkatan maqam para pencari (al-qāṣidīn).",
+        "Dia membentangkan arena penetapan (at-taḥkīm) dengan kejernihan permata embusan ruh orang-orang yang telah mantap. Dialah Yang Mahakuasa, yang menandai kekuasaan akal dengan «bīyah» kelemahan [kata penghubung ini belum pasti] dan membungkam kefasihan lidah-lidah dengan tangan keperkasaan-Nya.",
+        "Aku memuji-Nya dengan pujian al-muqarrabīn, beriman dengan iman para ‘ārif, dan mengikuti petunjuk para murid.",
+        "Aku bersaksi bahwa tidak ada tuhan selain Allah semata, tanpa sekutu bagi-Nya. Itulah kesaksianku: dengan kehambaan kepada-Nya aku mengabdikan diriku untuk-Nya [susunan frasa kehambaan ini belum mantap], dan kepada-Nya aku bersandar dalam segala perbuatan dan perkataanku.",
+        "Aku bersaksi bahwa Muhammad adalah hamba dan Rasul-Nya, yang dipilih-Nya dari permata para rasul, intisari cahaya para ṣiddīqīn, hakikat dari segala hakikat para syuhada, dan kelembutan rahasia orang-orang saleh.",
+        "Semoga Allah melimpahkan salawat atas beliau … para pembawa Al-Qur’an … dan silih bergantinya siang dan malam (al-jadīdān) [susunan penutup salawat ini belum mantap].",
+        "Wa ba‘du (selanjutnya): sekelompok pecinta yang tulus dan orang-orang mukhlis yang murni meminta agar aku menjelaskan kepada mereka tata cara riyadhah, pembinaan rahasia-rahasianya dalam «aṣwāl» segala maujud [kata ini belum ditetapkan], serta rahasia awal dan akhir riyadhah itu.",
+        "Maka aku memenuhi permintaan mereka seperti orang yang berpegang pada tali Tuannya—dalam rahasia batinnya, keterbukaannya, dan bisikan munajatnya—setelah aku menjadikan penghambaan yang merendah sebagai keterangan istikharahku."
+      ]
+    },
+    "M04": {
+      "dasar": "Halaman cetak 4 memuat penutup mukadimah dan tanda tangan penulis. Susunan ala rabbi al-ulama tidak dipaksa menjadi makna yang lancar; frasa pertama/terakhir diterjemahkan dengan ungkapan awal dan akhir sebagaimana konteks doa penutup.",
+      "terjemahan": [
+        "Lalu Dia melimpahkan kepadaku—dari cahaya rahmat-Nya—diterimanya permohonan itu, dan menyingkapkan bagiku rahasia pintu-pintu inābah (kembali kepada Allah).",
+        "«‘alā rabbi al-‘ulamā’ al-mutaqaddimīn» [susunan frasa ini belum mantap], para imam, dan orang-orang yang mendapat petunjuk—semoga Allah meridai mereka.",
+        "Para ulama terdahulu menyebutkan persoalan itu dalam bermacam-macam contoh dan perbedaan tingkatan susunan (al-abniyah), tetapi tidak menitipkan di dalamnya cahaya-cahaya zikir.",
+        "Kemudian mereka menyebutkan penahapan (at-tadrīj) menurut timbangan neraca (al-qisṭās), tetapi tidak mengingatkan cara menjaga diri dari terganggunya pancaindra.",
+        "Sesungguhnya aku menyajikan riyadhah-riyadhah ruhaniyah ini—yang tidak ada tandingannya—sebagai khidmah bagi kaum mukmin di mana pun berada. Allah-lah Pemberi taufik.",
+        "Aku memohon kepada Allah agar Dia menerima kitab ini beserta seluruh isinya dengan penerimaan yang baik.",
+        "Dan sungguh aku—aku memohon kepada Allah—agar Dia menerimaku di sisi-Nya dan menerima karya ini dari hamba yang fakir kepada Maulā Yang Mahaagung.",
+        "Barang siapa ingin sampai kepada maksud yang dituju, hendaklah ia memulai dengan membaca al-Fātiḥah bagi junjungan kita Muhammad, keluarga beliau (Āl al-Bait), dan penulis. Segala puji bagi Allah di awal dan di akhir (di dunia dan di akhirat).",
+        "Penulis:",
+        "Muhammad Sami Muhammad Ahmad."
+      ]
+    },
+    "M05": {
+      "dasar": "Halaman cetak 5 memulai Bab Pertama. Judul cetak ar-riyadhiyyat dipertahankan sebagai keterangan judul; kata intisyat dan penutup gramatikal rusak pada paragraf 4-5 tidak diganti dengan istilah rekaan.",
+      "terjemahan": [
+        "Bab Pertama",
+        "Riyadhah-Riyadhah Besar [judul cetak: ar-Riyāḍiyyāt al-Kubrā].",
+        "Ketahuilah, wahai penuntut (aṭ-ṭālib), bahwa menegakkan syariat-syariat Nabi beserta himpunan hikmah dari kelembutan-kelembutan rabbani adalah tentara-Nya yang berada di dalam batinmu.",
+        "Dan bahwa alam yang fana ini tidak mempunyai hubungan dengannya [susunan «lahā bihi» dipertahankan dari sumber], dan bukan pula karena ringannya «intisyāt» [istilah ini belum mantap], supaya hatinya tenang oleh bayangan pencarian.",
+        "Hendaklah ia menenangkan sisi-sisi tekadnya dari kezaliman pelarian (al-harab). Penutup kalimatnya berbunyi «li-takun takūna al-imārata amruhu»; hubungan gramatikalnya belum dapat ditetapkan.",
+        "Apabila kehendak itu ditekuni terus-menerus, ia menjadi kuasa yang mengalahkan dan menundukkan. Hal itu terjadi karena dua sebab.",
+        "Pertama, akalnya terhijab oleh syahwat. Kedua, imannya terhijab di bawah pelanggaran-pelanggaran.",
+        "Apabila mata batin akal telah buta dari menyaksikan ruh-ruh iman, jiwa tetap terhijab dari dua cahaya dan hampa dari dua rahasia.",
+        "Lalu ia memasuki gelanggang riyadhah dengan kesungguhan maksimal dan jerih payah tertinggi. Keadaannya kemudian terbagi atas tiga golongan.",
+        "Golongan pertama: adakalanya amalnya ia tuntaskan dalam keadaan pancaindranya terganggu, sampai ia meremehkan amal-amal syariat dan kewajiban-kewajiban rabbani, bahkan menganggap keadaan itu lebih utama. Menurut penulis, orang seperti ini tidak akan dibukakan (jalan) dalam amal-amal lain sesudah itu."
+      ]
+    }
+  }
+}

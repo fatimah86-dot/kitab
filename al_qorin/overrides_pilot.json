@@ -1,0 +1,55 @@
+{
+  "pilot_units": ["SAMPUL", "M01", "M02", "M03", "M04", "M05", "M58", "M65", "M66", "M67", "M69", "M122"],
+  "units": {
+    "SAMPUL": {"notes_groups": [[1, 2], [3], [4], [5]]},
+    "M01": {"notes_groups": [[1], [2], [3, 4], [5, 6], [7], [8, 9]]},
+    "M02": {
+      "notes_replace": {"2": "Harakat/arti adalah bacaan editorial yang dinyatakan, bukan menyebut teks tidak terbaca."},
+      "notes_groups": [[1], [2], [4], [7]]
+    },
+    "M03": {"notes_groups": [[1, 2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14]]},
+    "M04": {
+      "notes_groups": [[1], [2, 3], [4], [5], [6], [7], [8], [9], [10], [11]],
+      "khususiyah": {
+        "waktu": "tidak disebutkan dalam sumber unit ini",
+        "media": "tidak disebutkan dalam sumber unit ini",
+        "bukhur": "tidak disebutkan dalam sumber unit ini"
+      }
+    },
+    "M05": {"notes_groups": [[1], [2], [3], [5], [6], [8], [9], [11], [13]]},
+    "M58": {"notes_groups": [[1], [3]]},
+    "M65": {
+      "notes_groups": [[1], [2, 3], [4]],
+      "khususiyah": {
+        "waktu": "tidak disebutkan dalam sumber unit ini",
+        "media": "mangkuk porselen Cina; za‘faran dan air mawar; air sumur yang tidak terkena dua benda bercahaya (matahari–bulan); rangkaian huruf pembuka surah dan doa; lambang خاتم سليمان",
+        "bukhur": "tidak disebutkan dalam sumber unit ini"
+      }
+    },
+    "M66": {
+      "notes_groups": [[1], [2, 3], [4]],
+      "khususiyah": {
+        "waktu": "tidak disebutkan dalam sumber unit ini",
+        "media": "doa perlindungan (ta‘awwudz); bagian «untuk kesembuhan dari segala penyakit» yang ditulis; rajah besar bergambar (kolom-kolom berisi huruf dan garis)",
+        "bukhur": "tidak disebutkan dalam sumber unit ini"
+      }
+    },
+    "M67": {
+      "notes_groups": [[1], [2, 3], [4]],
+      "khususiyah": {
+        "waktu": "tidak disebutkan dalam sumber unit ini",
+        "media": "tujuh lembar kertas putih; tiga lembar kertas; rajah nama-nama",
+        "bukhur": "jawi, lubbān, mastika, dan ‘ūd; habbat al-barakah, fāsūkh Maghribi, pohon Maryam, mastika, kundur, dan sadab kering"
+      }
+    },
+    "M69": {
+      "notes_groups": [[1], [2, 3], [4]],
+      "khususiyah": {
+        "waktu": "tidak disebutkan dalam sumber unit ini",
+        "media": "tulisan yang digantungkan; dua tabel/wafaq 4×4 huruf; rajah bergambar",
+        "bukhur": "tidak disebutkan dalam sumber unit ini"
+      }
+    },
+    "M122": {"notes_groups": [[1], [2, 3]]}
+  }
+}

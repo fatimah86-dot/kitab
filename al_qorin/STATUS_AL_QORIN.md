@@ -1,0 +1,631 @@
+# STATUS PELAKSANAAN AL-QORIN — 28 Oktober 2026
+
+Status ini membedakan dengan tegas antara (a) restrukturisasi mekanis 123 unit,
+(b) pilot 12 unit yang diselesaikan manual, (c) penajaman selektif sebagian
+Lapis 4/5 pada 12 unit sasaran dari paket unggahan 2026-10-28, dan
+(d) penyelesaian semantik menyeluruh yang belum dikerjakan. **Belum ada klaim
+123/123 selesai semantik.**
+
+Acuan terkunci: `../STANDAR_MUTLAK_AL_QORIN_123.md`.
+Dokumen ini adalah revisi terjemahan dokumenter; praktik yang dinisbatkan
+kepada penulis kitab tidak disajikan sebagai anjuran, terapi, atau jaminan
+hasil, dan bukan pengganti penanganan medis.
+
+## Sumber yang dipakai
+
+- Teks yang direvisi: draf (4), Drive ID `1-keEWHFNdn4BancGVZVvdx0yVVezibZx`.
+  Salinan lokal: 562.931 byte; SHA-256
+  `27a66e84e8332f685b4ac944fe48feb6c5152033d327646ace003bb486ddeb71`.
+- Kitab asli: PDF pindai 62 halaman citra, Drive ID
+  `1rj8FQydrOM1PlXoDvQmg5HPfzQw9FQ-Z` (tanpa lapisan teks). Salinan lokal:
+  7.604.573 byte; SHA-256
+  `ac5ec9fc703df8434ea6c0e0363ecec38fd68dad170200d12d73dfbb4ae4c5c1`.
+- Crop wafaq: **26 berkas JPG presisi yang diunggah pengguna di chat**. FINAL
+  KHATAM tidak lagi dipakai sebagai sumber crop.
+- Paket pengganti yang diunggah pengguna pada 2026-10-28 disimpan di
+  `incoming_user_2026-10-28/` sebagai **bahan kandidat/audit**, bukan master.
+  Auditnya menunjukkan MD unggahan hanya mempunyai 89 blok, 0 crop, dan 0
+  label, sedangkan DOCX pendamping hanya benar-benar memuat M104–M109 dalam
+  empat blok; karena itu paket tersebut tidak menimpa master kanonis.
+- Berkas biner Drive tidak di-commit; skrip mengharapkan salinan lokal draf dan
+  PDF di `google_drive/` dengan nama yang sama seperti di Drive.
+
+## Yang sudah selesai
+
+1. **Struktur draf (4) terverifikasi**: SAMPUL + M01–M122 = 123 unit; setiap
+   unit mempunyai tepat lima lapis lama; empat tabel terjangkar menurut urutan
+   badan DOCX pada lapis lama 5 unit M65, M66, M67, dan M69.
+2. **Crop presisi pengguna terpasang** (`scripts/al_qorin_stage_user_crops.py`):
+   49, 58, 64–74, 76–78, 82–86, 98, 109, 116, 120, dan 121 — total 26.
+   Semuanya disalin byte-identik ke `wafaq_qorin/<halaman>.jpg`, diverifikasi
+   terhadap berkas unggahan, dan dicatat di `wafaq_user_manifest.json` serta
+   `MANIFEST_WAFAQ_AL_QORIN.md`. Nama berkas dipakai persis sebagai halaman
+   tujuan/unit M; `116.jpg` ditambahkan pada M116. Crop lama turunan FINAL,
+   folder `crop_lain/`, skrip ekstraksi FINAL, dan DOCX kerja lama telah
+   dikeluarkan dari pohon kerja saat ini.
+3. **Restrukturisasi mekanis terlog** (`scripts/al_qorin_transform.py`) menjadi
+   `REVISI_AL_QORIN_123_KERJA.md`:
+   - 123 unit × 5 lapis baru dalam urutan terkunci (sejak amandemen lapis
+     kondisional 2026-10-28: SAMPUL tampil 3 lapis, M01 dan M122 tampil
+     4 lapis, sehingga total judul lapis tampil 611; data JSON tidak berubah).
+   - Paragraf mandiri Qarinah yang dihapus: 569 (284 qabliah + 284 ba‘diah +
+     1 paragraf gabungan di M01), ditambah 3 kalimat Qarinah sebaris dari
+     paragraf campuran. Basis hitung terhadap angka perintah “288 paragraf”
+     dicatat di `LOG_RESTRUKTUR_AWAL.md`. Kata qarinah sebagai pokok bahasan
+     dalam Terjemahan tidak dihapus.
+   - Label `[CATATAN PENERJEMAH ...]` utuh: 25.
+   - Catatan ketidakpastian dari Syarah lama yang terselamatkan secara
+     mekanis: 565 paragraf; dikte nahwu/Shorof/Hukum-baca tidak dibawa utuh.
+   - Crop pengguna tersisip sesudah blok Metode: 26.
+   - Saringan awal Penentuan Jam pada Arab/Latin/Terjemahan + Metode:
+     3 unit memuat istilah jam, 0 unit memuat pola aritmetika penjumlahan,
+     0 unit memenuhi keduanya; karena itu 123 unit sementara memakai teks
+     persis «tidak ada hitungan di halaman ini». Kata `penjumlahan` pada draf
+     sumber berjumlah 0, sehingga tidak ada penjumlahan jam yang dikarang.
+4. **Pilot selesai manual** (`scripts/al_qorin_apply_pilot.py`,
+   `overrides_pilot.json`) untuk SAMPUL, M01–M05, M58, M65–M67, M69, M122:
+   Arab/Latin/Terjemahan/Metode tetap dari draf; Catatan penyunting dipilih
+   dan dikelompokkan manual; Khususiyah unit wafaq diperbaiki pada tingkat
+   frasa sumber; empat tabel transkripsi dipertahankan. Keluaran:
+   `REVISI_AL_QORIN_PILOT.md` dan `AL_QORIN_PILOT_5_LAPIS.docx`.
+5. **Master terintegrasi 123 unit** (`scripts/al_qorin_build_integrated.py`):
+   12 unit pilot menggantikan versi mekanisnya di
+   `REVISI_AL_QORIN_123.md` setelah builder memastikan Arab, Latin,
+   Terjemahan, Metode, Penentuan Jam, tabel, dan nomor crop tidak berubah oleh
+   substitusi pilot. Sesudah tahap pilot, builder menerapkan penajaman
+   selektif terbatas dari `overrides_upload_selektif_2026-10-28.json` hanya
+   pada M68, M70, M71, M104, M105, M106, M107, M109, M116, M120, M121, dan
+   M122. Tahap ini hanya boleh mengubah frasa Khususiyah, menambahkan Catatan
+   penyunting pada M104/M107, dan mengoreksi Metode M122 yang semula tidak
+   cocok dengan Arab/Terjemahannya. Snapshot pasca-pilot dipakai untuk
+   menegaskan bahwa heading, nomor halaman, Arab, Latin, Terjemahan,
+   Penentuan Jam, tabel/blok rajah, label yang tertanam dalam teks, dan crop
+   tidak berubah. Dengan pengecualian yang disengaja itu, blok terintegrasi
+   M122 berbeda dari pilot historis hanya pada subbagian Metode.
+6. **Builder Al-Qorin terpisah** (`scripts/build_docx_al_qorin.py`):
+   Arab memakai `w:bidi=1` + `w:jc=start`; Latin memakai `w:bidi=0` +
+   `w:jc=left`; paragraf crop dan sel tabel memakai `w:jc=center`; tabel
+   draf tidak diberi `bidiVisual` karena tabel sumber tidak memilikinya.
+   Amiri Regular/Bold/Italic/BoldItalic dari `fonts/` tertanam sebagai
+   `word/fonts/*.odttf`; test memulihkan keempatnya byte-identik dari paket
+   DOCX dan membandingkannya dengan TTF lokal. Keluaran utama:
+   `AL_QORIN_REVISI_123_5_LAPIS.docx`.
+7. **Preview HTML** (`scripts/build_preview_al_qorin.py`):
+   `PREVIEW_INDEX_AL_QORIN_123.html` memuat 123 artikel, 611 lapis tampil, dan 26
+   figure crop pengguna. Alias yang diminta,
+   `PREVIEW_INDEX_HAL01-65.html`, dibuat di folder `al_qorin/` dengan isi sama;
+   berkas root berjudul sama milik Anwar tidak ditimpa.
+8. **Test** (`tests/test_al_qorin_pilot.py`): struktur 123 unit, log
+   penghapusan, manifest/hash crop pengguna, substitusi pilot, batas sempit
+   override selektif pasca-pilot, DOCX terintegrasi dan DOCX bersih, arsip
+   TXT pengguna, preview, arah/alignment XML, tabel, media, dan embedding
+   font. Test lama Anwar tetap dijalankan; seluruh 26 test lulus sesudah
+   integrasi selektif, amandemen lapis kondisional, batch semantik
+   M16–M64, batch semantik M06–M15/M72–M121, batch terakhir M68/M70/M71,
+   Batch 01 revisi total terjemahan SAMPUL/M01–M05, serta edisi bersih.
+9. **Amandemen lapis kondisional + arsip unggahan M65** (2026-10-28): sesuai
+   keputusan pengguna, SAMPUL kini tampil 3 lapis (empat catatan sampul
+   dipindah ke akhir Lapis 3), M01 (Muqodimah) dan M122 (Khatimah) tampil
+   4 lapis, dan 120 unit lain tetap 5 lapis; diterapkan reproduksibel lewat
+   `LAYER_LIMITS`/`render_unit_md` bersama di `scripts/al_qorin_transform.py`.
+   Dua DOCX M65 dan gambar Khatam Sulaiman dari sesi lain diaudit lalu
+   diarsipkan di `incoming_user_2026-10-28/` (lihat `AUDIT_M65_UPLOAD.md`)
+   tanpa menimpa M65 kanonis, yang sudah memuat crop yang sama pada resolusi
+   lebih tinggi.
+10. **Batch semantik M16–M64** (`overrides_batch_m16_m64.json`, tahap
+    pasca-pilot kedua di `scripts/al_qorin_build_integrated.py`): 49 unit
+    dikurasi setingkat pilot. Catatan penyunting hanya dipilih/dikelompokkan
+    dari catatan lama yang terselamatkan (tanpa teks catatan baru; transisi
+    berboilerplate dan catatan usang dibuang), Khususiyah ditulis ulang pada
+    tingkat frasa dari Arab/Terjemahan/Metode unit (termasuk aturan
+    siang–malam dan bakhur M50–M54 serta crop M49/M58/M64), dan lima stub
+    Metode kata-kunci positif-palsu (M19, M20, M21, M38, M46) dikoreksi.
+    Builder menegaskan Arab/Latin/Terjemahan, Penentuan Jam, tabel/blok
+    rajah, dan crop tidak berubah; ringkasan Metode draf selain lima stub itu
+    dipertahankan. Rincian: `CATATAN_BATCH_M16_M64.md`.
+11. **Batch semantik M06–M15 dan M72–M121**
+    (`overrides_batch_m06_m15_m72_m121.json`, tahap ketiga sesudah pilot,
+    selektif, dan M16–M64): 60 unit dikurasi setingkat pilot. Catatan
+    penyunting hanya dipilih dari catatan lama (tanpa teks catatan baru;
+    boilerplate generik, fragmen Latin, dan dikte saraf dibuang; peringatan
+    editorial serta catatan beda pindaian M104/M107 dipertahankan).
+    Khususiyah ditulis pada tingkat frasa dari Arab/Terjemahan unit,
+    termasuk jadwal riyadhah M11–M15, waktu terbenam dan bakhur M75,
+    saat baik/bakhur M84, dan mulai Ahad M98. Empat Metode dikoreksi hanya
+    karena stub atau kontradiksi material terbukti: M12 (stub kata kunci →
+    jadwal 80 hari), M79 (pelepah hijau + cendana, bukan kertas/kemenyan),
+    M82 (dikuburkan di pintu sasaran), dan M83 (kertas diasapi; tidak ada
+    instruksi menggantung). Builder/test menegaskan Arab/Latin/Terjemahan,
+    Penentuan Jam, `rajah_blocks`, dan crop tidak berubah; unit tumpang-tindih
+    selektif memakai baseline pasca-selektif. Rincian:
+    `CATATAN_BATCH_M06_M15_M72_M121.md`.
+12. **Batch terakhir M68, M70, M71** (`overrides_batch_m68_m70_m71.json`,
+    tahap final sesudah semua batch sebelumnya): ketiga unit yang semula
+    hanya menerima penajaman selektif kini dikurasi setingkat pilot. Catatan
+    substantif dipilih dari baseline pasca-selektif; Khususiyah diperinci
+    dari Arab/Terjemahan dan crop `68.jpg`, `70.jpg`, `71.jpg`, termasuk QS
+    al-Kahf 18:25 (M68), tulisan spesifik kedua telapak dan bakhur (M70),
+    serta delapan posisi ṭā’ (M71). Satu koreksi Metode dibatasi pada
+    paragraf pertama M71: ayat disebut **dipanaskan** (bukan dibakar) dengan
+    bahan dari kambing hitam yang zat persisnya tidak dipastikan; paragraf
+    deskripsi transparan rajah sesudahnya dipertahankan byte-identik.
+    Dengan batch ini seluruh 123 unit telah masuk pilot atau salah satu
+    batch semantik Lapis 4/5. Rincian: `CATATAN_BATCH_TERAKHIR_M68_M70_M71.md`.
+13. **Audit total + Batch 01 revisi total terjemahan bergaya Anwar**
+    (2026-10-28): menindaklanjuti penilaian pengguna bahwa terjemahan masih
+    belum sempurna, seluruh 123 unit diaudit lebih dahulu lewat
+    `scripts/al_qorin_audit_translation.py` menjadi
+    `AUDIT_REVISI_TOTAL_TERJEMAHAN_123.md`. Audit menemukan 45 penanda
+    “tidak disalin penuh” pada 27 unit, 85 elipsis, 25 label penerjemah, dan
+    26 unit crop yang seluruhnya harus dipertahankan. Adaptasi gaya dokumen
+    Anwar yang ditunjuk pengguna dirumuskan di
+    `PANDUAN_REVISI_TOTAL_TERJEMAHAN_AL_QORIN.md` tanpa mengimpor ceramah
+    Syarah atau hitungan yang dilarang standar Al-Qorin. Batch 01
+    (`overrides_terjemahan_total_batch01.json`) menulis ulang hanya Lapis 3
+    SAMPUL dan M01–M05 sesudah render sampul serta halaman cetak 2–5 dari
+    PDF asli diperiksa; Arab/Latin dan Lapis 4/5 tetap byte-identik karena
+    tidak ada koreksi pindaian yang cukup pasti. Rincian:
+    `CATATAN_BATCH_TERJEMAHAN_TOTAL_01.md`.
+14. **Audit Arab “full khatam” kiriman chat** (2026-10-28): pengguna menempel
+    teks berjudul “ARAB BERHAROKAT FULL KHATAM 123 — SHAHIH — KAIDAH
+    MIN/MINNA/MAN” untuk SAMPUL + M01–M122. Pemeriksaan sidik jari
+    membuktikan teks itu secara material adalah salinan Lapis 1 Arab yang
+    sudah ada pada master terintegrasi—termasuk judul editorial modern,
+    placeholder “tidak disalin penuh/bersambung ke segmen berikutnya”,
+    deskriptor rajah, `من`/`بية`/`اصوال` yang belum bervokalisasi, dan
+    bacaan rusak lama—bukan koreksi independen dari pindaian. Kiriman
+    diterima hanya sebagai salinan/konfirmasi baseline dan **tidak menimpa**
+    Lapis 1, `rajah_blocks`, Latin, Terjemahan, atau crop; DOCX tidak berubah.
+    Rincian dan daftar lokus yang masih harus dibuktikan:
+    `incoming_user_2026-10-28/AUDIT_ARAB_KIRIMAN_CHAT_2026-10-28.md`.
+15. **Sumber Arab–Latin TXT pengguna + edisi bersih 123 unit** (2026-10-28):
+    pengguna mengirim `teks arab berharokat.txt` dan `teks latin.txt`, lalu
+    memerintahkan kedua file itu dipakai sebagai Lapis 1–2, wafaq crop
+    pengguna ditambahkan, dan Word tidak lagi memuat kalimat proses/percakapan.
+    Kedua TXT diaudit serta diarsipkan byte-persis di
+    `incoming_user_2026-10-28/arab_latin_full/` (Arab SHA-256
+    `d28d8f3b…b9705097`; Latin `538a5959…89f5647`). Parser
+    `scripts/al_qorin_parse_user_arab_latin.py` mengambil mulai heading
+    `SAMPUL`, menghasilkan Arab 123 unit/540 paragraf dan Latin
+    123 unit/315 paragraf; builder terintegrasi kini mengunci Lapis 1–2 dari
+    arsip itu dan menegaskan bidang lain tidak berubah. Nilai parse 123/123
+    unit ternyata sama dengan Lapis 1–2 sebelumnya, jadi perubahan ini
+    adalah penguncian provenans, bukan perubahan bunyi Arab/Latin.
+    `scripts/al_qorin_build_clean_user_edition.py` menghasilkan edisi baca
+    terpisah `AL_QORIN_123_BERSIH.md/.docx`: hanya judul kitab di depan;
+    semua unit mempunyai Arab, Latin, Terjemahan, dan Syarah; 26 crop
+    pengguna berada di Syarah; tabel hasil transkripsi tidak ditampilkan.
+    Lapis `5. Khususiyah dan Tatacara Praktik` ditampilkan pada 76 unit yang
+    mempunyai tata cara/Khususiyah sumber dan tidak ditampilkan pada
+    47 unit lainnya. DOCX bersih tidak mempunyai header/footer proses,
+    front matter status, “Catatan penyunting”, “Penentuan Jam”, atau frasa
+    “tidak ada hitungan”; mode ini memakai `build_docx_al_qorin.py --clean`.
+    Master riset 611 lapis dan preview lamanya dipertahankan sebagai
+    apparatus terpisah.
+16. **Penggantian Arab SAMPUL–halaman 62 dari kiriman pengguna**
+    (2026-10-28): pengguna memerintahkan seluruh kalimat Arab sampai
+    halaman 62 diganti dengan teks chat berharakat yang ia kirim. Teks itu
+    diarsipkan di `incoming_user_2026-10-28/arab_replacement_h62/` (SHA-256
+    `2625d048…5448e4`) dan diparse oleh
+    `scripts/al_qorin_parse_user_arab_replacement_h62.py`. Heading
+    `SAMPUL` + nomor 1–62 lengkap terurut dan dipetakan ke SAMPUL + M01–M62;
+    hasil parse 63 unit/277 paragraf menggantikan 279 paragraf lama pada
+    Lapis 1 rentang yang sama (M12 dan M32 masing-masing tergabung satu
+    paragraf). Total Arab 123 unit pada tahap itu menjadi 538 paragraf.
+    Tahap ini dikunci di
+    builder terintegrasi dan builder edisi bersih, lalu diterapkan ke
+    `REVISI_AL_QORIN_123.md` serta `AL_QORIN_123_BERSIH.md`; kedua DOCX dan
+    preview riset dibangun ulang. Verifikasi menunjukkan tidak ada bidang
+    selain Arab SAMPUL–M62 yang berubah pada kedua Markdown. Latin,
+    Terjemahan, Syarah/catatan, Metode/Khususiyah, tabel, dan 26 crop tetap;
+    pada tahap itu Arab M63–M122 masih dari TXT item 15. Audit:
+    `AUDIT_ARAB_PENGGANTI_H62_2026-10-28.md`. Validasi pada checkout ini:
+    parser dan apply-check berhasil; discovery 27 test menghasilkan
+    20 lulus dan 7 test bergantung pada work JSON ter-ignore dilewati
+    karena berkas kerja itu tidak hadir di checkout ini.
+17. **Perbaikan arah run tanda kurung pada Lapis 1 DOCX** (2026-10-28):
+    audit XML menemukan semua tanda `()`, `[]`, `{}`, dan `«»` pada paragraf
+    Arab berada dalam run netral tanpa `w:rtl`, walaupun paragrafnya sudah
+    `w:bidi=1`; akibatnya Word dapat menempatkan/memantulkan tanda kurung
+    sebagai teks LTR di tengah kalimat RTL. Builder sekarang memaksa
+    `w:rtl` pada seluruh run Lapis 1 (dan sel tabel yang dominan Arab),
+    tanpa mengubah satu pun karakter atau urutan logis teks Markdown.
+    DOCX bersih dan DOCX master riset dibangun ulang; sesudah item 21 test
+    arah memeriksa 432 tanda kurung/penjodoh pada edisi bersih dan 438
+    pada master riset, semuanya harus berada dalam run RTL.
+18. **Penggantian Arab halaman 63–122 dari kiriman pengguna**
+    (2026-10-28): pengguna mengirim lanjutan ekstraksi Arab untuk halaman
+    63–122. Pesan memuat salinan awal terduplikasi yang terpotong pada
+    heading 79, lalu satu blok kode lengkap; yang diarsipkan dan diparse
+    ialah blok lengkap itu di
+    `incoming_user_2026-10-28/arab_replacement_h63_122/` (SHA-256
+    `b82ea529…ec189`). Parser
+    `scripts/al_qorin_parse_user_arab_replacement_h63_122.py` memetakan
+    heading `Halaman 63` dan nomor 64–122 ke M63–M122. Hasilnya
+    60 unit/267 paragraf menggantikan 261 paragraf lama; total Arab
+    123 unit kini **544 paragraf**. Tahap ini dikunci di builder
+    terintegrasi dan builder edisi bersih, diterapkan ke kedua Markdown,
+    lalu kedua DOCX dan preview riset dibangun ulang. Verifikasi terhadap
+    HEAD membuktikan hanya Lapis 1 M63–M122 yang berubah. Master riset
+    memakai paragraf arsip persis; edisi bersih tidak menampilkan lima
+    penanda proses berbahasa Indonesia pada M96, M97, dan M107. Latin,
+    Terjemahan, Syarah/catatan, Metode/Khususiyah, tabel, dan 26 crop
+    tetap. Audit: `AUDIT_ARAB_PENGGANTI_H63_122_2026-10-28.md`.
+    Validasi pada checkout ini: parser dan apply-check berhasil; discovery
+    28 test menghasilkan 21 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati karena berkas kerja itu tidak hadir.
+19. **Revisi Arab halaman 63** (2026-10-28): pengguna memerintahkan
+    halaman 63 lama diganti dengan versi yang sudah direvisi. Kiriman
+    satu halaman itu diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h63_revised/` (SHA-256
+    `dfd59bc7…a29009`) dan diparse menjadi 1 unit/7 paragraf untuk M63.
+    Tahap ini dikunci sesudah penggantian halaman 63–122 pada builder
+    terintegrasi dan builder edisi bersih; kedua Markdown, kedua DOCX,
+    dan preview riset dibangun/diperbarui. Verifikasi terhadap HEAD
+    membuktikan hanya Lapis 1 M63 yang berubah, sedangkan total Arab
+    pada tahap itu tetap 544 paragraf. Audit:
+    `AUDIT_ARAB_PENGGANTI_H63_REVISI_2026-10-28.md`. Validasi pada
+    checkout ini: parser dan apply-check berhasil; discovery 29 test
+    menghasilkan 22 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati karena berkas kerja itu tidak hadir.
+20. **Revisi Arab halaman 66–69** (2026-10-28): pengguna memerintahkan
+    halaman 66, 67, 68, dan 69 diganti dengan versi revisi yang dikirim.
+    Teks itu diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h66_69_revised/` (SHA-256
+    `a8efbc0c…7e2a8`) dan diparse menjadi 4 unit/21 paragraf: M66 5,
+    M67 6, M68 5, dan M69 5. Jumlah itu menggantikan 23 paragraf lama,
+    sehingga total Arab 123 unit pada tahap itu **542 paragraf**. Tahap ini dikunci
+    sesudah revisi M63 pada builder terintegrasi dan builder edisi bersih;
+    kedua Markdown, kedua DOCX, dan preview riset dibangun/diperbarui.
+    Verifikasi terhadap HEAD membuktikan hanya Lapis 1 M66–M69 yang
+    berubah. Audit: `AUDIT_ARAB_PENGGANTI_H66_69_REVISI_2026-10-28.md`.
+    Validasi pada checkout ini: parser dan apply-check berhasil; discovery
+    30 test menghasilkan 23 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati karena berkas kerja itu tidak hadir.
+21. **Revisi final Arab halaman 82, 83, 97, dan 98 + aturan penanda
+    wafak** (2026-10-28): pengguna memerintahkan empat halaman itu diganti
+    dengan revisi final yang dikirim dan menetapkan bahwa pada semua
+    halaman revisi, tanda `[gambar wafak]` diisi crop wafaq yang sudah
+    ada. Teks diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h82_83_97_98_revised/`
+    (SHA-256 `0fb678e6…2a8f`) dan diparse menjadi 4 unit/26 paragraf:
+    M82 7, M83 9, M97 7, dan M98 3, menggantikan 20 paragraf lama.
+    Total paragraf sumber Arab kini **548**. Blok keamanan dari ketakutan
+    yang tertulis dua kali pada M83 dipertahankan dua kali. Keluaran
+    Markdown/DOCX kini mengganti penanda `[gambar wafak]` dengan crop
+    tujuan pada Lapis 1 untuk M66–M69, M82, M83, dan M98, lalu menghapus
+    lokasi lama crop yang sama sehingga 26 crop tetap tampil satu kali.
+    Parser DOCX juga memulihkan konteks lapis sesudah gambar/caption agar
+    paragraf Arab berikutnya tetap RTL. Kedua Markdown, kedua DOCX, dan
+    preview dibangun ulang; verifikasi membuktikan teks selain Lapis 1
+    sasaran tidak berubah selain pemindahan crop tersebut. Audit:
+    `AUDIT_ARAB_PENGGANTI_H82_83_97_98_REVISI_2026-10-28.md`. Validasi:
+    discovery 31 test menghasilkan 24 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+22. **Revisi Arab halaman 11** (2026-10-28): sesudah menerima daftar
+    halaman yang masih memuat bagian tidak terbaca, pengguna mengirim
+    teks lengkap halaman 11 untuk menggantikan versi lama. Teks itu
+    diarsipkan di `incoming_user_2026-10-28/arab_replacement_h11_revised/`
+    (SHA-256 `e9e6efe8…c53a1d`) dan diparse menjadi 1 unit/3 paragraf,
+    menggantikan 3 paragraf lama sehingga total paragraf sumber Arab
+    tetap **548**. Revisi ini menghapus celah internal lama sesudah
+    `فِي إِنَائِهِ`; elipsis penutup `وَاسْتِدَامَةِ...` dipertahankan
+    persis seperti kiriman pengguna. Tahap ini dikunci sebagai pengganti
+    segmen M11 dari arsip sampai halaman 62 pada builder terintegrasi
+    dan builder edisi bersih; kedua Markdown, kedua DOCX, dan preview
+    riset dibangun/diperbarui. Jumlah karakter kurung pada Lapis Arab
+    DOCX kini 430 pada edisi bersih dan 436 pada edisi riset karena
+    pasangan `«...»` lama tidak lagi ada. Audit:
+    `AUDIT_ARAB_PENGGANTI_H11_REVISI_2026-10-28.md`. Validasi:
+    discovery 32 test menghasilkan 25 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+23. **Revisi Arab halaman 70 dan 74** (2026-10-28): sesudah menerima
+    daftar halaman yang masih memuat bagian tidak terbaca, pengguna
+    mengirim revisi untuk halaman 70 dan 74. Pesan memuat isi M70 dua
+    kali dan potongan awal M74 sebelum salinan lengkapnya; hanya satu
+    salinan lengkap tiap halaman yang diarsipkan/diterapkan. Teks itu
+    diarsipkan di `incoming_user_2026-10-28/arab_replacement_h70_74_revised/`
+    (SHA-256 `32d6d753…e9a87a`) dan diparse menjadi 2 unit/14 paragraf:
+    M70 7 dan M74 7, menggantikan 15 paragraf lama sehingga total
+    paragraf sumber Arab menjadi **547**. Setiap unit memuat satu
+    `[gambar wafak]`; crop lama 70 dan 74 dipindahkan ke posisi penanda
+    pada Lapis 1 dan lokasi lamanya dihapus, sehingga 26 crop tetap
+    tampil satu kali. Tahap ini dikunci sesudah revisi M11 pada builder
+    terintegrasi dan builder edisi bersih; kedua Markdown, kedua DOCX,
+    dan preview riset dibangun/diperbarui. Audit:
+    `AUDIT_ARAB_PENGGANTI_H70_74_REVISI_2026-10-28.md`. Validasi:
+    discovery 33 test menghasilkan 26 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+24. **Revisi Arab halaman 76** (2026-10-28): sesudah menerima daftar
+    halaman yang masih memuat bagian tidak terbaca, pengguna mengirim
+    revisi halaman 76 untuk menggantikan versi lama. Teks itu
+    diarsipkan di `incoming_user_2026-10-28/arab_replacement_h76_revised/`
+    (SHA-256 `73b037d8…a7bf9f`) dan diparse menjadi 1 unit/8 paragraf,
+    menggantikan 5 paragraf lama sehingga total paragraf sumber Arab
+    menjadi **550**. Revisi ini menghapus elipsis penutup lama dan
+    memuat satu `[gambar wafak]`; crop lama 76 dipindahkan ke posisi
+    penanda pada Lapis 1 dan lokasi lamanya dihapus, sehingga 26 crop
+    tetap tampil satu kali. Tahap ini dikunci sesudah revisi M70/M74
+    pada builder terintegrasi dan builder edisi bersih; kedua Markdown,
+    kedua DOCX, dan preview riset dibangun/diperbarui. Audit:
+    `AUDIT_ARAB_PENGGANTI_H76_REVISI_2026-10-28.md`. Validasi:
+    discovery 34 test menghasilkan 27 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+25. **Revisi Arab halaman 78 dan 80** (2026-10-28): sesudah menerima
+    daftar halaman yang masih memuat bagian tidak terbaca, pengguna
+    mengirim revisi halaman 78 dan 80 untuk menggantikan versi lama.
+    Teks itu diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h78_80_revised/`
+    (SHA-256 `5ecfb8b6…844845`) dan diparse menjadi 2 unit/8 paragraf
+    (M78 3, M80 5), menggantikan 7 paragraf lama sehingga total
+    paragraf sumber Arab menjadi **551**. Revisi ini menghapus elipsis
+    awal M78 dan elipsis akhir M80 pada versi lama. M78 memuat satu
+    `[gambar wafak]`; crop lama 78 dipindahkan ke posisi penanda pada
+    Lapis 1 dan lokasi lamanya dihapus, sehingga 26 crop tetap tampil
+    satu kali, sedangkan M80 tidak memiliki crop. Tahap ini dikunci
+    sesudah revisi M76 pada builder terintegrasi dan builder edisi
+    bersih; kedua Markdown, kedua DOCX, dan preview riset
+    dibangun/diperbarui. Audit:
+    `AUDIT_ARAB_PENGGANTI_H78_80_REVISI_2026-10-28.md`. Validasi:
+    discovery 35 test menghasilkan 28 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+26. **Revisi Arab halaman 81** (2026-10-28): sesudah menerima daftar
+    halaman yang masih memuat bagian tidak terbaca, pengguna mengirim
+    revisi halaman 81 untuk menggantikan versi lama. Teks itu
+    diarsipkan di `incoming_user_2026-10-28/arab_replacement_h81_revised/`
+    (SHA-256 `f8f5fffd…8d334f`) dan diparse menjadi 1 unit/6 paragraf,
+    menggantikan 5 paragraf lama sehingga total paragraf sumber Arab
+    menjadi **552**. Revisi ini menghapus elipsis di awal dan akhir M81
+    pada versi lama, tidak memuat `[gambar wafak]`, dan halaman 81
+    tidak memiliki crop. Tahap ini dikunci sesudah revisi M78/M80 pada
+    builder terintegrasi dan builder edisi bersih; kedua Markdown,
+    kedua DOCX, dan preview riset dibangun/diperbarui. Audit:
+    `AUDIT_ARAB_PENGGANTI_H81_REVISI_2026-10-28.md`. Validasi:
+    discovery 36 test menghasilkan 29 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+27. **Revisi Arab halaman 84 dan 85** (2026-10-28): sesudah menerima
+    daftar halaman yang masih memuat bagian tidak terbaca, pengguna
+    mengirim revisi halaman 84 dan 85 untuk menggantikan versi lama.
+    Teks itu diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h84_85_revised/`
+    (SHA-256 `d9499012…12db06a`) dan diparse menjadi 2 unit/12 paragraf
+    (M84 8, M85 4), menggantikan 11 paragraf lama sehingga total
+    paragraf sumber Arab menjadi **553**. Elipsis pada versi lama M84
+    dan M85 hilang. Kedua unit masing-masing memuat satu
+    `[gambar wafak]`; penanda M84 berdiri sendiri, sedangkan penanda
+    M85 berada di tengah paragraf ketiga. Renderer penanda bersama,
+    renderer riset, dan renderer edisi bersih diperluas agar teks M85
+    sebelum dan sesudah penanda tetap mengelilingi crop pada keluaran
+    tanpa mengubah satu paragraf sumbernya. Crop 84 dan 85 dipindahkan
+    ke penanda Lapis 1 dan lokasi lamanya dihapus, sehingga 26 crop
+    tetap tampil satu kali. Tahap ini dikunci sesudah revisi M81 pada
+    builder terintegrasi dan builder edisi bersih; kedua Markdown,
+    kedua DOCX, dan preview riset dibangun/diperbarui. Audit:
+    `AUDIT_ARAB_PENGGANTI_H84_85_REVISI_2026-10-28.md`. Validasi:
+    discovery 37 test menghasilkan 30 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+28. **Revisi Arab halaman 93 dan 96** (2026-10-28): sesudah menerima
+    daftar halaman yang masih memuat bagian tidak terbaca, pengguna
+    mengirim revisi halaman 93 dan 96 untuk menggantikan versi lama.
+    Teks itu diarsipkan di
+    `incoming_user_2026-10-28/arab_replacement_h93_96_revised/`
+    (SHA-256 `b6e7e4c4…e2d01b`) dan diparse menjadi 2 unit/13 paragraf
+    (M93 6, M96 7), menggantikan 6 paragraf lama sehingga total
+    paragraf sumber Arab menjadi **560**. Elipsis pada M93/M96 lama dan
+    dua penanda proses `[bersambung]` pada M96 riset hilang; sesudah
+    tahap ini satu-satunya selisih exact–clean pada rentang M63–M122
+    adalah M107. Kedua halaman tidak memuat `[gambar wafak]` atau crop.
+    Asterisk literal di awal M93 dipertahankan mentah pada arsip/data
+    sumber dan ditulis `\*` hanya sebagai escape Markdown agar Word/HTML
+    menampilkannya sebagai asterisk. Tahap ini dikunci sesudah revisi
+    M84/M85 pada builder terintegrasi dan builder edisi bersih; kedua
+    Markdown, kedua DOCX, dan preview riset dibangun/diperbarui. Audit:
+    `AUDIT_ARAB_PENGGANTI_H93_96_REVISI_2026-10-28.md`. Validasi:
+    discovery 38 test menghasilkan 31 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+29. **Revisi Arab Fusha oleh agen untuk 14 halaman tersisa**
+    (2026-10-28): pengguna kemudian meminta agen mengerjakan sendiri
+    halaman 71, 72, 73, 77, 99, 107, 108, 110, 111, 112, 113, 114, 117,
+    dan 118 sesuai kaidah Arab Fusha. Agen membandingkan Lapis 1 lama
+    dengan pindaian kitab asli, lalu mengarsipkan hasilnya di
+    `arab_fusha_revised_remaining_2026-10-28/` (SHA-256
+    `74a56f22…d3adcb9`) sebagai 14 unit/53 paragraf. Jumlah paragraf
+    tiap unit dipertahankan sehingga total paragraf sumber Arab tetap
+    **560**; elipsis dan deskriptor gambar pada sasaran hilang.
+    M71/M72 memakai paragraf penanda persis dan M73/M77 memakai
+    penanda di dalam paragraf, sehingga unit berpenanda menjadi 17,
+    sedangkan crop pengguna yang tampil tetap 26 dan masing-masing
+    tepat satu kali. Sesudah tahap ini tidak ada lagi selisih
+    exact–clean pada rentang M63–M122. Blok Lapis 1 ter-render menjadi
+    bersih 566/riset 583 dan paragraf teks Arab DOCX tetap 549; karakter
+    kurung Arab pada kedua DOCX menjadi 350. Tahap ini dikunci sesudah
+    revisi M93/M96 pada builder terintegrasi dan builder edisi bersih;
+    kedua Markdown, kedua DOCX, dan preview riset dibangun/diperbarui.
+    Latin, Terjemahan, Syarah/catatan, Metode/Khususiyah, dan tabel
+    tidak diselaraskan ulang. Audit:
+    `AUDIT_ARAB_FUSHA_HALAMAN_TERSISA_2026-10-28.md`. Validasi:
+    discovery 39 test menghasilkan 32 lulus dan 7 test bergantung pada
+    work JSON ter-ignore dilewati karena berkas kerja itu tidak hadir.
+30. **Revisi total terjemahan Batch 02 (M06–M15)** (2026-10-29):
+    pengguna meminta pekerjaan dilanjutkan sampai terjemahan kitab
+    khatam. Sepuluh unit M06–M15 diterjemahkan ulang dari
+    Arab final yang telah terkunci dan dibandingkan dengan halaman cetak
+    6–15 pada PDF asli (SHA-256 `ac5ec9fc…c5c1`). Override
+    `overrides_terjemahan_total_batch02.json` memuat 47 paragraf dan
+    hanya mengganti Lapis 3; jumlah paragraf lama dipertahankan per
+    unit. Applier umum `al_qorin_apply_translation_total_batches.py`
+    menerapkan payload persis ke master riset dan hasil
+    `clean_translation` ke master bersih, sedangkan builder terintegrasi
+    kini menerapkan Batch 02–08 yang tersedia sesudah seluruh tahap
+    Arab final. Scope-proof terhadap commit sebelumnya membuktikan
+    tidak ada perubahan di luar Lapis 3 sasaran. Kedua DOCX dan kedua
+    preview riset dibangun ulang. Catatan:
+    `CATATAN_BATCH_TERJEMAHAN_TOTAL_02.md`. Validasi akhir: discovery
+    40 test menghasilkan 33 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati karena berkas kerja itu tidak hadir.
+31. **Revisi total terjemahan Batch 03 (M16–M32)** (2026-10-30):
+    tujuh belas unit diterjemahkan ulang hanya pada Lapis 3 dari Arab
+    final terkunci dan halaman cetak 16–32 pada PDF asli (halaman PDF
+    9–17, SHA-256 `ac5ec9fc…c5c1`). Override
+    `overrides_terjemahan_total_batch03.json` memuat 44 paragraf;
+    applier umum menulis payload persis ke master riset dan hasil
+    `clean_translation` ke master bersih. Scope-proof terhadap commit
+    Batch 02 membuktikan tidak ada perubahan di luar Lapis 3 sasaran;
+    kedua DOCX dan kedua preview riset dibangun ulang. Catatan:
+    `CATATAN_BATCH_TERJEMAHAN_TOTAL_03.md`. Validasi akhir: discovery
+    40 test menghasilkan 33 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati karena berkas kerja itu tidak hadir.
+32. **Revisi total terjemahan Batch 04 (M33–M49)** (2026-10-30):
+    tujuh belas unit diterjemahkan ulang hanya pada Lapis 3 dari Arab
+    final terkunci dan halaman cetak 33–49 pada PDF asli (halaman PDF
+    17–25, SHA-256 `ac5ec9fc…c5c1`). Override
+    `overrides_terjemahan_total_batch04.json` memuat 33 paragraf;
+    applier umum menulis payload persis ke master riset dan hasil
+    `clean_translation` ke master bersih. Scope-proof terhadap commit
+    Batch 03 membuktikan tidak ada perubahan di luar Lapis 3 sasaran;
+    kedua DOCX dan kedua preview riset dibangun ulang, termasuk crop
+    M49 tetap. Catatan: `CATATAN_BATCH_TERJEMAHAN_TOTAL_04.md`.
+    Validasi akhir: discovery 40 test menghasilkan 33 lulus dan 7 test
+    bergantung pada work JSON ter-ignore dilewati karena berkas kerja
+    itu tidak hadir.
+33. **Revisi total terjemahan Batch 05 (M50–M71)** (2026-10-30):
+    dua puluh dua unit diterjemahkan ulang hanya pada Lapis 3 dari Arab
+    final terkunci dan halaman cetak 50–71 pada PDF asli (halaman PDF
+    26–36, SHA-256 `ac5ec9fc…c5c1`). Override
+    `overrides_terjemahan_total_batch05.json` memuat 42 paragraf,
+    mempertahankan daftar Astrologis, angka/deskriptor wafaq M58, dan
+    pemerian crop M64–M71 tanpa mengubah crop maupun tabel deskriptif.
+    Scope-proof terhadap commit Batch 04 membuktikan tidak ada
+    perubahan di luar Lapis 3 sasaran; kedua DOCX dan kedua preview
+    dibangun ulang. Catatan: `CATATAN_BATCH_TERJEMAHAN_TOTAL_05.md`.
+    Validasi akhir: discovery 40 test menghasilkan 33 lulus dan 7 test
+    bergantung pada work JSON ter-ignore dilewati; perbandingan pilot
+    untuk unit pilot M58/M65/M66/M67/M69 kini secara eksplisit
+    mengecualikan Lapis 3 yang sah diganti Batch 05.
+34. **Revisi total terjemahan Batch 06 (M72–M86)** (2026-10-30):
+    lima belas unit diterjemahkan ulang hanya pada Lapis 3 dari Arab
+    final terkunci dan halaman cetak 72–86 pada PDF asli (halaman PDF
+    37–44, SHA-256 `ac5ec9fc…c5c1`). Override
+    `overrides_terjemahan_total_batch06.json` memuat 30 paragraf,
+    mempertahankan dua paragraf setiap unit, pengulangan penuh faidah
+    M83, pengulangan penggalan qasam M81, crop M72–M74, M76–M78, dan
+    M82–M86, serta menandai formula yang sintaksisnya tidak utuh.
+    Scope-proof terhadap commit Batch 05 membuktikan tidak ada
+    perubahan di luar Lapis 3 sasaran; kedua DOCX dan kedua preview
+    dibangun ulang. Catatan: `CATATAN_BATCH_TERJEMAHAN_TOTAL_06.md`.
+    Validasi akhir: discovery 40 test menghasilkan 33 lulus dan 7 test
+    bergantung pada work JSON ter-ignore dilewati.
+35. **Revisi total terjemahan Batch 07 (M87–M103)** (2026-10-30):
+    tujuh belas unit diterjemahkan ulang hanya pada Lapis 3 dari Arab
+    final terkunci dan halaman cetak 87–103 pada PDF asli (halaman PDF
+    44–52, SHA-256 `ac5ec9fc…c5c1`). Override
+    `overrides_terjemahan_total_batch07.json` memuat 36 paragraf dan
+    mempertahankan label catatan penerjemah pada M97–M103, varian
+    riwayat dan ejaan nama talismanik, pengulangan tata cara M98/M99,
+    serta crop 98. Scope-proof terhadap commit Batch 06 membuktikan
+    tidak ada perubahan di luar Lapis 3 sasaran; kedua DOCX dan kedua
+    preview dibangun ulang. Catatan:
+    `CATATAN_BATCH_TERJEMAHAN_TOTAL_07.md`. Validasi akhir: discovery 40
+    test menghasilkan 33 lulus dan 7 test bergantung pada work JSON
+    ter-ignore dilewati.
+36. **Revisi total terjemahan Batch 08 (M104–M122)** (2026-10-30):
+    sembilan belas unit penutup diterjemahkan ulang hanya pada Lapis 3
+    dari Arab final terkunci dan halaman cetak 104–122 pada PDF asli
+    (halaman PDF 53–62, SHA-256 `ac5ec9fc…c5c1`). Override
+    `overrides_terjemahan_total_batch08.json` memuat 40 paragraf dan
+    mempertahankan label catatan penerjemah pada M104–M121, angka
+    jummal tanpa hitung ulang, deskriptor da'irah/wafaq, daftar nama
+    tawasul, deret huruf/angka, dan crop 109, 116, 120, serta 121.
+    Scope-proof terhadap commit Batch 07 membuktikan tidak ada
+    perubahan di luar Lapis 3 sasaran; kedua DOCX dan kedua preview
+    dibangun ulang. Catatan: `CATATAN_BATCH_TERJEMAHAN_TOTAL_08.md`.
+    Dengan item ini rangkaian Batch 01–08 telah mengkhatamkan
+    revisi total Lapis 3 untuk SAMPUL dan M01–M122 (seluruh 123 unit).
+    Validasi akhir: discovery 40 test menghasilkan 33 lulus dan 7 test
+    bergantung pada work JSON ter-ignore dilewati.
+
+## Yang belum selesai
+
+- Tidak ada lagi unit yang menunggu batch semantik Lapis 4/5 atau batch
+  revisi total terjemahan: seluruh 123 unit telah masuk pilot atau salah
+  satu batch semantik, dan **revisi total terjemahan telah khatam** untuk
+  SAMPUL dan M01–M122 melalui Batch 01–08. Batas kejujuran tetap berlaku:
+  pemeriksaan Penentuan Jam terhadap Arab serta pindai halaman bersifat
+  dokumenter dan tidak mengarang hitungan; selisih bacaan M104 dan M107
+  didokumentasikan dan tidak dipakai untuk mengganti Arab final. Semua
+  batch semantik tidak menggambar ulang rajah dan tidak menulis ulang
+  ringkasan Metode draf selain stub/kontradiksi yang terbukti pada daftar
+  izin masing-masing batch. Khatamnya Lapis 3 bukan tanda bahwa Latin,
+  Metode, Penentuan Jam, Syarah/Catatan penyunting, atau Lapis 5 telah
+  direvisi total terhadap Arab final; edisi bersih tetap merupakan
+  penyajian bersih dari lapisan-lapisan bahan yang ada.
+- Seluruh Lapis 1 kini mengikuti arsip-arsip Arab yang ditunjuk pengguna
+  pada item 16 dan 18–28 serta revisi Fusha agen pada item 29. Bacaan/
+  harakat kiriman pengguna belum dibuktikan satu-satu terhadap pindaian
+  kitab asli; 14 unit item 29 memang dibandingkan dengan pindaian, tetapi
+  nama asing dan rangkaian talismanik yang kabur tetap belum terverifikasi
+  secara filologis. Teks “full khatam” yang diaudit pada item 14 tetap
+  salinan baseline lama dan tidak menjadi sumber penggantian.
+- Render pembuka dari PDF asli memperlihatkan M01–M02 pada halaman cetak 2,
+  M03 pada halaman cetak 3, dan M04 pada halaman cetak 4; metadata `page`
+  pada data kerja untuk rentang itu belum diubah agar tidak menimbulkan
+  perubahan bidang di luar izin batch. Tidak ada crop pada rentang itu.
+  Untuk M05–M121 nomor unit sama dengan halaman cetak, dan M122 adalah
+  penutup tanpa nomor terbaca.
+- Proof visual di Microsoft Word/LibreOffice belum dilakukan di lingkungan
+  ini; verifikasi DOCX saat ini berbasis python-docx dan inspeksi XML/paket.
+- Tidak ada berkas hasil yang diunggah kembali ke Google Drive dan tidak ada
+  dokumen Drive yang ditimpa.
+
+## Perintah reproduksi
+
+```bash
+.venv/bin/python scripts/al_qorin_stage_user_crops.py
+.venv/bin/python scripts/al_qorin_transform.py
+.venv/bin/python scripts/al_qorin_apply_pilot.py
+.venv/bin/python scripts/al_qorin_build_integrated.py
+.venv/bin/python scripts/al_qorin_build_clean_user_edition.py
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h62.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h62.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h63_122.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h63_122.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h63_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h63_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h66_69_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h66_69_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h82_83_97_98_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h82_83_97_98_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h11_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h11_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h70_74_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h70_74_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h76_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h76_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h78_80_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h78_80_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h81_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h81_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h84_85_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h84_85_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_user_arab_replacement_h93_96_revised.py
+.venv/bin/python scripts/al_qorin_apply_arab_replacement_h93_96_revised.py --check
+.venv/bin/python scripts/al_qorin_parse_agent_arab_fusha_remaining.py
+.venv/bin/python scripts/al_qorin_apply_agent_arab_fusha_remaining.py --check
+.venv/bin/python scripts/al_qorin_wafaq_markers.py --check
+.venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 2 --check
+.venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 3 --check
+.venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 4 --check
+.venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 5 --check
+.venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 6 --check
+.venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 7 --check
+.venv/bin/python scripts/al_qorin_apply_translation_total_batches.py --batch 8 --check
+.venv/bin/python scripts/build_docx_al_qorin.py --clean \
+  --input al_qorin/AL_QORIN_123_BERSIH.md \
+  --output al_qorin/AL_QORIN_123_BERSIH.docx
+.venv/bin/python scripts/build_docx_al_qorin.py
+.venv/bin/python scripts/build_docx_al_qorin.py \
+  --input al_qorin/REVISI_AL_QORIN_123.md \
+  --output al_qorin/AL_QORIN_REVISI_123_5_LAPIS.docx
+.venv/bin/python scripts/build_preview_al_qorin.py
+.venv/bin/python -m unittest discover -s tests -v
+```
