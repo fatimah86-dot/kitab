@@ -63,8 +63,18 @@ Keputusan format yang diterapkan:
    transliterasi dari Arab foto itu dan Terjemahan adalah terjemahan
    literalnya. **Batch 01** mencakup SAMPUL dan Halaman 1–10, disimpan
    reproduksibel dalam `scripts/al_qorin_foto_layer1.json` dengan
-   kunci halaman `0`–`10`. Halaman 11–122 belum diaudit foto pada
-   tahap ini.
+   kunci halaman `0`–`10`.
+9. Koreksi mutlak berikutnya menetapkan bacaan tawasul Halaman 4
+   `فليبتدء بقراءة الفاتحة` (huruf Ba pada foto), menghapus seluruh
+   harakat gabung dari Arab Halaman 1–4, dan memakai Latin Fusha
+   harfiah tanpa mad vokal ganda Indonesia. Frasa sampul diganti
+   persis menjadi `wa al-riyadhat al-ruhaniyah` dan nama pengarang
+   menjadi `Sami`; seluruh Latin halaman foto kini memakai satu
+   huruf vokal untuk setiap mad. Istilah kunci seperti Azimah,
+   Wafaq, Khatam, dan Hirz tidak diganti dengan frasa generik.
+   **Batch 11–20** kemudian dikerjakan dengan rumus yang sama dan
+   DOCX diperbarui; JSON kini memuat kunci `0`–`20`. Halaman 21–122
+   belum diaudit foto pada tahap ini.
 
 ## Format keluaran
 
@@ -90,9 +100,9 @@ Tujuan:
 ```
 
 Pola label ini mengikuti gaya pola lengkap yang telah diterapkan
-pada Halaman 49, 58, dan 64/65. Ia kini dipakai oleh 66 blok hasil
-renderer generik serta blok mentah Halaman 49, 58, 64, 65, 109, 116,
-dan 121. Layer 1 tetap memuat seluruh badan Arab, Latin, dan
+pada Halaman 49, 58, dan 64/65. Ia kini dipakai oleh 61 blok hasil
+renderer generik, lima blok foto Halaman 11–15, serta blok mentah
+Halaman 49, 58, 64, 65, 109, 116, dan 121. Layer 1 tetap memuat seluruh badan Arab, Latin, dan
 Terjemahan halaman; contoh tindakan di dalamnya tidak memotong
 keterangan halaman menjadi hanya kutipan praktik. Khusus Halaman 49,
 bagian sesudah heading Layer 2 tetap blok verbatim berjudul
@@ -112,8 +122,15 @@ Batch 01, pemetaan isi yang dipertahankan adalah ruang lingkup unit
 lama: Halaman 1 dan 2 sama-sama berada pada halaman cetak ٢;
 Halaman 3 memuat baris terakhir halaman cetak ٢ dan seluruh halaman
 cetak ٣; sedangkan awal Halaman 4–10 teramati sejajar dengan awal
-halaman cetak bernomor sama. Unit di luar JSON masih mengikuti
-warisan konversi sebelumnya sampai batch foto berikutnya dikerjakan.
+halaman cetak bernomor sama. Pada Batch 11–20, setiap unit teramati
+sejajar dengan satu halaman cetak bernomor sama, walaupun kalimat
+sering melintasi batas halaman. Koreksi foto karena itu membatasi
+Halaman 12 pada teks halaman cetak ١٢ yang berakhir `فى انوار`;
+duplikasi uraian cermin dari Halaman 13 yang dahulu melekat pada
+Arab lama Halaman 12 tidak dipertahankan, sedangkan kata penutup
+halaman cetak ١٣, `هذا اتم فتحاً`, kini berada pada Halaman 13.
+Unit di luar JSON masih mengikuti warisan konversi sebelumnya
+sampai batch foto berikutnya dikerjakan.
 
 ### Layer 1
 
@@ -128,20 +145,23 @@ warisan konversi sebelumnya sampai batch foto berikutnya dikerjakan.
   literal yang diberikan. Transkripsi angka tabel tidak lagi berada
   dalam Terjemahan Halaman 58 karena pola barunya menempatkan lima
   baris itu pada Layer 2.
-- Untuk **Batch 01 (SAMPUL dan Halaman 1–10)**, ketiga badan Layer 1
-  diganti persis dengan isi `scripts/al_qorin_foto_layer1.json`.
-  Arabnya ditranskripsi dari foto cetak tanpa menambah harakat,
-  hamzah, ejaan, atau perbaikan editorial; hanya tanda yang memang
-  terlihat tercetak yang dipertahankan. Dalam 11 unit batch ini
-  hanya terdapat 14 glyph tashkeel yang terhitung pada rentang
+- Untuk **Batch 01 dan Batch 11–20 (SAMPUL dan Halaman 1–20)**,
+  ketiga badan Layer 1 diganti persis dengan isi
+  `scripts/al_qorin_foto_layer1.json`. Arabnya ditranskripsi dari
+  foto cetak tanpa menambah harakat, hamzah, ejaan, atau perbaikan
+  editorial; hanya tanda yang memang terlihat tercetak yang
+  dipertahankan. Sesudah koreksi pengguna, Halaman 1–4 tidak lagi
+  memuat glyph tashkeel gabung. Dalam keseluruhan 21 unit foto kini
+  hanya terdapat 18 glyph tashkeel yang terhitung pada rentang
   `U+064B`–`U+065F`/`U+0670`, sedangkan badan Latinnya tidak memuat
-  glyph Arab. Paragraf dikelompokkan menurut heading dan titik akhir
-  visual pada halaman cetak, dengan jumlah paragraf Arab, Latin, dan
+  glyph Arab dan tidak memuat deret vokal ganda `aa`/`ii`/`uu`.
+  Paragraf dikelompokkan menurut heading dan titik akhir visual
+  pada halaman cetak, dengan jumlah paragraf Arab, Latin, dan
   Terjemahan yang dicerminkan satu sama lain pada setiap unit.
 - Dengan demikian, pernyataan lama bahwa konversi ini tidak
   melakukan transkripsi ulang dari foto kini hanya berlaku bagi
-  unit yang belum masuk batch foto. Unit Batch 01 adalah
-  transkripsi foto baru; Halaman 11–122 belum dapat disebut sudah
+  unit yang belum masuk batch foto. SAMPUL dan Halaman 1–20 adalah
+  transkripsi foto baru; Halaman 21–122 belum dapat disebut sudah
   diaudit terhadap foto.
 - Heading lama `4. Syarah` dan `5. Khususiyah dan Tatacara Praktik`
   tidak muncul lagi.
@@ -168,14 +188,15 @@ non-kosong harus berformat satu baris yang sama:
 *[Footnote: kata/frasa «…» cetakan/bacaannya tidak jelas, dibiarkan.]*
 ```
 
-Sesudah Batch 01 hasilnya **65 footnote**: delapan footnote foto
-pada Halaman 1, 3, 4, 5, 6, 7, 8, dan 9, ditambah 57 footnote
-warisan pada unit yang belum diaudit foto, yaitu Halaman 11–14,
-16, 17, 19–23, 25, 27, 29, 31–33, 35, 38, 44, 45, 49, 50, 54, 56,
-58, 67, 68, 70, 73–77, 79–83, 86, 88, 89, 96, 99, 101, 107, dan
-110–122 dengan pengecualian Halaman 116 dan 120. Footnote warisan
-yang sebelumnya melekat pada Halaman 10 tidak lagi dipakai karena
-unit itu kini memakai data foto tanpa footnote. Catatan Syarah yang
+Sesudah Batch 11–20 hasilnya **66 footnote**: 17 footnote foto
+pada Halaman 1, 3, 5–9, dan 11–20, ditambah 49 footnote warisan
+pada unit yang belum diaudit foto, yaitu Halaman 21–23, 25, 27,
+29, 31–33, 35, 38, 44, 45, 49, 50, 54, 56, 58, 67, 68, 70, 73–77,
+79–83, 86, 88, 89, 96, 99, 101, 107, dan 110–122 dengan
+pengecualian Halaman 116 dan 120. Footnote foto Halaman 4 yang
+sebelumnya menandai `فليندء` dihapus karena perbesaran foto dan
+koreksi pengguna menetapkan bacaan `فليبتدء`; SAMPUL, Halaman 2,
+4, dan 10 kini tidak mempunyai footnote foto. Catatan Syarah yang
 bersifat penjelasan editorial lain, penilaian akidah, verifikasi,
 atau usul koreksi tanpa penanda ketidakjelasan eksplisit pada segmen
 yang sama tetap tidak diubah menjadi footnote pada jalur warisan;
@@ -193,11 +214,11 @@ builder DOCX yang dipakai tidak membuat catatan kaki Word bawaan.
 ### Layer 2
 
 Sumber bersih Halaman mempunyai 76 bagian praktik lama. Keluaran
-mempertahankan **73 Layer 2** dengan total **268 langkah praktik**:
-239 langkah pada 66 blok renderer generik, tiga langkah pada Pola
-49, tiga pada Pola 58, empat pada Pola 64, lima pada Pola 65, tiga
-pada blok manual Halaman 109, enam pada Halaman 116, dan lima pada
-Halaman 121. Ada 72 baris mandiri `Media:`; Halaman 49 memakai
+mempertahankan **73 Layer 2** dengan total **273 langkah praktik**:
+214 langkah pada 61 blok renderer generik, 30 langkah pada lima
+blok foto Halaman 11–15, tiga langkah pada Pola 49, tiga pada Pola
+58, empat pada Pola 64, lima pada Pola 65, tiga pada blok manual
+Halaman 109, enam pada Halaman 116, dan lima pada Halaman 121. Ada 72 baris mandiri `Media:`; Halaman 49 memakai
 subbagian Media di dalam blok verbatim bernomornya. Ada pula 72
 baris mandiri `Tujuan:`/`Tujuan tertulis:`; Halaman 49 memakai
 `*7. Tujuan tertulis:*` dalam blok verbatimnya. Tiga bagian lama
@@ -218,9 +239,20 @@ mencakup verifikasi bahwa tindakan tersebut memang tertulis pada
 halaman, tetapi belum merupakan audit redaksional ulang atas setiap
 rumusan ringkasan Layer 2.
 
+Berbeda dari itu, pada Batch 11–20 lima halaman yang memuat
+rangkaian praktik—Halaman 11, 12, 13, 14, dan 15—memakai field
+`layer2` dalam JSON foto. Blok-blok ini mengganti renderer generik
+dan hanya menyusun media, tindakan, dan tujuan yang tertulis pada
+halaman cetak masing-masing secara kalimat demi kalimat, tanpa
+tafsir tambahan. Dengan demikian bacaan Zawal pada Halaman 12
+kini mengikuti foto (`Aman al-Rasul`, bukan al-Ikhlash) dan nama
+pada Halaman 14 terbaca `Ya Fatah`, bukan bacaan lama `Ya
+Fansyah`. Halaman 16–20 tidak mempunyai Layer 2 karena tidak
+memuat rangkaian praktik tersendiri.
+
 Aturan konversinya:
 
-- `Media:` berdiri pada baris sendiri, diikuti bullet. Pada 66 blok
+- `Media:` berdiri pada baris sendiri, diikuti bullet. Pada 61 blok
   renderer generik, bullet dibentuk hanya dengan membagi field Media
   lama pada titik koma tingkat atas; tidak ada kata isi yang
   ditambah, diganti, atau dibuang selain titik akhir kalimat Media.
@@ -309,10 +341,12 @@ Aturan konversinya:
   72, dan 74 tidak dijadikan langkah. Crop rajahnya tetap tampil di
   Layer 1; Media tetap menyebut rajah/tulisan yang relevan.
 - Tidak ada Syarah akidah dan tidak ada penjelasan panjang baru di
-  Layer 1 atau pada 66 Layer 2 hasil renderer generik. Blok mentah
-  Pola 49, 58, 64, dan 65 berasal dari pola yang diberikan pengguna;
-  blok mentah Halaman 109, 116, dan 121 disusun dari Layer 1
-  terkunci/crop masing-masing untuk khatam gaya pola ini. Tujuan
+  Layer 1 atau pada 61 Layer 2 hasil renderer generik. Blok foto
+  Halaman 11–15 disusun kalimat demi kalimat dari halaman cetaknya.
+  Blok mentah Pola 49, 58, 64, dan 65 berasal dari pola yang
+  diberikan pengguna; blok mentah Halaman 109, 116, dan 121 disusun
+  dari Layer 1 terkunci/crop masing-masing untuk khatam gaya pola
+  ini. Tujuan
   dicatat sebagai tujuan atau klaim yang dirumuskan naskah, bukan
   sebagai pengesahan hasil atau anjuran medis.
 
@@ -320,8 +354,8 @@ Aturan konversinya:
 
 | Berkas | Ukuran | SHA-256 |
 |---|---:|---|
-| `AL_QORIN_123_BERSIH_2_LAYER.md` | 609.515 byte | `25ca936cccfce2aa1a18892160e972f0b0106de96ed2f6174a49076912090ddc` |
-| `AL_QORIN_123_BERSIH_2_LAYER.docx` | 6.903.075 byte | `97b4ef753d3f33bc0af57581b9b72a7fce9cd5e4d1c71baab04dae37713da4f1` |
+| `AL_QORIN_123_BERSIH_2_LAYER.md` | 595.464 byte | `b43b5fcedd0cad61070ac3e312670287b8d2491fa2e9aafd3d168cc0caf95758` |
+| `AL_QORIN_123_BERSIH_2_LAYER.docx` | 6.896.839 byte | `e3e424ef85a335e2fe6409717ff8aae21487cea3a8ca47160d4f03bfc808c8de` |
 
 Builder Markdown menolak menulis selain nama berakhiran
 `_2_LAYER.md` dan menolak jalur master kanonis/turunan yang dilindungi.
@@ -329,8 +363,10 @@ Builder juga memuat `scripts/al_qorin_foto_layer1.json` melalui
 `_load_foto_corrections()`; halaman yang tercantum di dalamnya
 menimpa badan Arab, Latin, Terjemahan, dan footnote hasil jalur
 lama, lalu divalidasi agar sama persis dengan data JSON tersebut.
-Halaman di luar JSON tetap divalidasi terhadap sumber bersih
-Halaman yang terkunci.
+Bila entri foto memuat field opsional `layer2`, blok mentah itu
+mengganti renderer Layer 2 generik dan jumlah langkahnya dihitung
+dari label `Langkah ke-N` di dalamnya. Halaman di luar JSON tetap
+divalidasi terhadap sumber bersih Halaman yang terkunci.
 Parser DOCX memakai cabang konteks untuk heading `LAYER …` dan label
 polos `1. Arab:`, `2. Latin:`, serta `3. Terjemahan:`. Untuk blok
 Pola 49, parser membuang penanda blockquote Markdown `>` sebelum teks
@@ -350,20 +386,23 @@ Pemeriksaan builder dan pemeriksaan independen membuktikan:
 - 123 heading Layer 1 dan masing-masing 123 label `1. Arab:`,
   `2. Latin:`, dan `3. Terjemahan:`; tidak ada heading `####` atau
   label Media/Langkah/Tujuan berbold yang tersisa;
-- untuk SAMPUL dan Halaman 1–10, badan Arab dan Latin sama persis
+- untuk SAMPUL dan Halaman 1–20, badan Arab dan Latin sama persis
   dengan `scripts/al_qorin_foto_layer1.json`, sedangkan badan
   Terjemahan diawali persis oleh teks JSON sebelum footnote foto
-  bila ada; jumlah paragraf ketiga badan pada setiap unit batch
-  sama dan badan Latinnya tidak memuat glyph Arab. Untuk Halaman
-  11–122, badan Arab tetap sama byte-for-byte dengan sumber setelah
+  bila ada; jumlah paragraf ketiga badan pada setiap unit foto sama,
+  badan Latinnya tidak memuat glyph Arab, dan tidak ada deret
+  `aa`/`ii`/`uu` yang tersisa di dalamnya. Untuk Halaman 21–122,
+  badan Arab tetap sama byte-for-byte dengan sumber setelah
   pemangkasan baris kosong tepi, dan badan Latin/Terjemahan selain
   Halaman 58 juga sama atau menjadi awalan persis sebelum
   crop/footnote tambahan; pada Halaman 58 keduanya sama persis
   dengan konstanta `POLA_58_LATIN` dan `POLA_58_TERJEMAHAN`;
-- 73 heading Layer 2 dan 268 langkah. Pada 66 blok renderer
+- 73 heading Layer 2 dan 273 langkah. Pada 61 blok renderer
   generik, Media yang direkonstruksi dari bullet dengan `; ` dan
   titik akhir sama persis dengan Media lama; badan setiap langkah
   dan isi Tujuan juga sama persis serta tetap dalam urutan semula.
+  Lima blok Halaman 11–15 sama persis dengan field `layer2` dalam
+  JSON foto dan memuat enam, enam, lima, enam, dan tujuh langkah.
   Blok Halaman 49 dan 58 tetap sama persis dengan konstanta pola
   lengkap masing-masing. Blok Halaman 64 dan 65 sama persis dengan
   konstanta pola nyambungnya dan—setelah transformasi label
@@ -372,10 +411,10 @@ Pemeriksaan builder dan pemeriksaan independen membuktikan:
   Halaman 109, 116, dan 121 sama persis dengan konstanta buildernya
   dan penomoran `Langkah ke-N` di semua blok berurutan tanpa lompati
   nomor;
-- 65 footnote dan semuanya satu baris: delapan footnote foto pada
-  Halaman 1, 3–9 serta 57 footnote warisan pada unit yang belum
-  diaudit foto; SAMPUL, Halaman 2, dan Halaman 10 tidak mempunyai
-  footnote foto;
+- 66 footnote dan semuanya satu baris: 17 footnote foto pada
+  Halaman 1, 3, 5–9, dan 11–20 serta 49 footnote warisan pada unit
+  yang belum diaudit foto; SAMPUL, Halaman 2, 4, dan 10 tidak
+  mempunyai footnote foto;
 - daftar 26 rujukan crop sama persis dengan sumber; 9 crop Syarah
   berpindah ke Layer 1 dan tidak ada crop yang hilang atau diganti.
   Khusus Halaman 64/65, rujukan serta hash kedua crop terbukti tetap
@@ -385,38 +424,43 @@ Pemeriksaan builder dan pemeriksaan independen membuktikan:
   konteks Terjemahan pada semua `3. Terjemahan:`;
 - DOCX memuat 1 Title, 123 Heading 1, 196 Heading 2
   (123 Layer 1 + 73 Layer 2), 369 Heading 3 untuk label Layer 1,
-  2.310 paragraf Normal, 26 gambar inline/media, dan 4 bagian font
+  2.337 paragraf Normal, 26 gambar inline/media, dan 4 bagian font
   tertanam; tidak ada label lama `Langkah N:` dan tidak ada paragraf
   DOCX yang masih diawali penanda blockquote `>`. Bullet Media
   dipertahankan renderer Word sebagai awalan `- `, sama seperti pola
   mentah sebelumnya;
-- dibandingkan dengan keluaran khatam pola pada commit `1aebee2`,
-  tepat 11 unit berubah pada Markdown Batch 01 ini: SAMPUL dan
-  Halaman 1–10. Sebanyak 112 unit Halaman 11–122 identik. Seluruh
-  segmen Layer 2, termasuk Halaman 4 dan 7, juga identik; urutan
-  dan rujukan 26 crop tidak berubah;
-- perbandingan kata antara Arab foto Batch 01 dan Arab lama yang
-  tashkeel-nya dilucuti menghasilkan 259 operasi selisih dan 396
-  posisi kata berubah. Jumlah operasi per unit adalah SAMPUL 3,
-  Halaman 1: 16, Halaman 2: 2, Halaman 3: 28, Halaman 4: 30,
-  Halaman 5: 27, Halaman 6: 38, Halaman 7: 33, Halaman 8: 32,
-  Halaman 9: 35, dan Halaman 10: 15. Sebagian besar berupa ejaan
-  cetak seperti hamzah/alif maqsurah/ta marbutah, tetapi di dalamnya
-  juga terdapat pembacaan lama yang substantif berbeda dari foto;
+- dibandingkan dengan keluaran Batch 01 pada commit `aae3d8c`,
+  tepat 21 unit berubah pada Markdown ini: SAMPUL dan Halaman
+  1–20. Sebanyak 102 unit Halaman 21–122 identik. Segmen Layer 2
+  yang berubah hanya Halaman 11–15; segmen lainnya, termasuk
+  Halaman 4 dan 7, identik. Urutan dan rujukan 26 crop tidak
+  berubah;
+- perbandingan kata antara Arab foto Halaman 11–20 dan Arab lama
+  yang tashkeel-nya dilucuti menghasilkan 310 operasi selisih dan
+  515 posisi kata berubah. Jumlah operasi per unit adalah Halaman
+  11: 33, Halaman 12: 30, Halaman 13: 27, Halaman 14: 36, Halaman
+  15: 31, Halaman 16: 37, Halaman 17: 33, Halaman 18: 27, Halaman
+  19: 27, dan Halaman 20: 29. Sebagian berupa ejaan cetak seperti
+  hamzah/alif maqsurah/ta marbutah, tetapi di dalamnya juga terdapat
+  pembacaan lama yang substantif berbeda dan duplikasi akhir
+  Halaman 13 pada Arab lama Halaman 12;
 - hash media DOCX sama dengan himpunan hash 26 berkas crop sumber;
 - XML DOCX memuat penanda arah `w:bidi` dan `w:rtl`; parser konteks
-  menghasilkan 538 paragraf Arab, 285 paragraf Latin, 356 paragraf
+  menghasilkan 546 paragraf Arab, 294 paragraf Latin, 366 paragraf
   Terjemahan, dan 983 paragraf Layer 2 non-Arab-murni. Ke-31 paragraf
   Layer 2 berbahasa Arab murni—Pola 49 (5), Pola 58 (3), Pola 64 (2),
   Pola 65 (1), Halaman 109 (3), 116 (8), 120 (1), dan 121 (8)—
-  mempunyai arah RTL/kanan serta `w:rtl` pada run teksnya. Penurunan
-  jumlah paragraf Layer 1 dari hitungan sebelum Batch 01 berasal
-  dari pengelompokan ulang paragraf SAMPUL dan Halaman 1–10 menurut
-  halaman cetak, bukan dari perubahan Layer 2;
-- DOCX memuat cuplikan terkoreksi seperti pembuka Halaman 1 tanpa
-  harakat editorial lama dan nama pengarang SAMPUL
-  `محمد سامى محمد احمد`; bentuk lama berharakat penuh untuk pembuka
-  tersebut tidak lagi ditemukan. Berkas PDF foto yang dipakai juga
+  mempunyai arah RTL/kanan serta `w:rtl` pada run teksnya. Perubahan
+  jumlah paragraf dari hitungan Batch 01 berasal dari koreksi Latin
+  SAMPUL/Halaman 1–10, pengelompokan paragraf Halaman 11–20 menurut
+  halaman cetak, dan lima Layer 2 foto baru;
+- DOCX memuat cuplikan terkoreksi seperti pembuka Halaman 1 dalam
+  bentuk `الحمد لله الذى رفع حجب آستار الاسرار`, tawasul Halaman 4
+  `فليبتدء بقراءة الفاتحة`, frasa Latin
+  `wa al-riyadhat al-ruhaniyah`, nama `Muhammad Sami Muhammad
+  Ahmad`, serta bacaan foto Halaman 11 dan 20. Bentuk lama
+  `فليندء`, `Saamii`, dan pembuka Halaman 1 berharakat penuh tidak
+  lagi ditemukan. Berkas PDF foto yang dipakai juga
   terverifikasi ber-SHA-256
   `ac5ec9fc703df8434ea6c0e0363ecec38fd68dad170200d12d73dfbb4ae4c5c1`;
 - pembangunan Markdown diulang dan menghasilkan SHA-256 yang sama;
@@ -429,19 +473,20 @@ Pemeriksaan builder dan pemeriksaan independen membuktikan:
 
 ## Batasan yang dipertahankan
 
-Sesudah Batch 01, status edisi ini terbagi dua. SAMPUL dan Halaman
-1–10 sudah diganti dengan transkripsi foto beserta Latin dan
-Terjemahan turunannya. Selain penggantian Latin/Terjemahan Halaman
-58 yang eksplisit dari pengguna, Halaman 11–122 masih merupakan
-hasil konversi format turunan dan belum penyuntingan ulang isi
-Layer 1 berdasarkan foto. Khatam gaya pola pada 66 blok renderer
-generik juga merupakan normalisasi penyajian: Media, badan langkah,
-urutan, dan Tujuan lama dipertahankan kata demi kata, bukan diaudit
-ulang satu per satu terhadap Layer 1. Hanya tiga halaman kunci 109,
-116, dan 121 disusun ulang manual dari Layer 1 terkunci/crop
-sebelumnya, dengan ketidakjelasan sumber dipertahankan; ketiganya
-belum masuk batch foto. Karena itu batas-batas berikut tetap
-terlihat apa adanya:
+Sesudah Batch 11–20, status edisi ini terbagi dua. SAMPUL dan
+Halaman 1–20 sudah diganti dengan transkripsi foto beserta Latin
+dan Terjemahan turunannya; Halaman 11–15 juga mempunyai Layer 2
+yang hanya disusun dari halaman cetak masing-masing. Selain
+penggantian Latin/Terjemahan Halaman 58 yang eksplisit dari
+pengguna, Halaman 21–122 masih merupakan hasil konversi format
+turunan dan belum penyuntingan ulang isi Layer 1 berdasarkan foto.
+Khatam gaya pola pada 61 blok renderer generik juga merupakan
+normalisasi penyajian: Media, badan langkah, urutan, dan Tujuan
+lama dipertahankan kata demi kata, bukan diaudit ulang satu per
+satu terhadap Layer 1. Hanya tiga halaman kunci 109, 116, dan 121
+disusun ulang manual dari Layer 1 terkunci/crop sebelumnya, dengan
+ketidakjelasan sumber dipertahankan; ketiganya belum masuk batch
+foto. Karena itu batas-batas berikut tetap terlihat apa adanya:
 
 1. Latin Halaman 63 paragraf 2 masih berhenti sesudah tujuh nama
    bertanda `?`, sedangkan Arab berlanjut ke klausa sesudahnya.
@@ -458,12 +503,15 @@ terlihat apa adanya:
 4. Pada Halaman 116, hubungan hitungan 100 kali dan 41 kali tetap
    tidak diputuskan. Pada Halaman 121, `مِائَةَ جِيمٍ` dan rujukan
    `وَصِلْهُمْ` tetap tidak dilancarkan.
-5. Audit foto belum mencakup Halaman 11–122. Pada batch berikutnya,
+5. Audit foto belum mencakup Halaman 21–122. Pada batch berikutnya,
    batas unit tidak boleh diasumsikan selalu sama dengan batas
-   halaman cetak: Batch 01 sendiri menunjukkan bahwa Halaman 1 dan
-   2 berbagi halaman cetak ٢, sedangkan Halaman 3 melintasi halaman
-   cetak ٢–٣. Batch ini mempertahankan ruang lingkup dan heading
-   unit yang sudah ada, bukan melakukan segmentasi ulang.
+   halaman cetak: Batch 01 menunjukkan bahwa Halaman 1 dan 2
+   berbagi halaman cetak ٢, sedangkan Halaman 3 melintasi halaman
+   cetak ٢–٣. Pada Batch 11–20, awal setiap unit memang sejajar
+   dengan halaman cetak bernomor sama, tetapi Arab lama Halaman 12
+   mengandung duplikasi bagian akhir Halaman 13; jangkar awal dan
+   akhir tetap harus dibuktikan pada foto sebelum ruang lingkup
+   unit dipertahankan.
 6. Layer 2 Halaman 4 dan 7 dipertahankan persis setelah jangkar
    tindakannya ditemukan pada teks foto, tetapi rumusan ringkasnya
    belum diaudit ulang baris demi baris. Khusus Halaman 7, frasa

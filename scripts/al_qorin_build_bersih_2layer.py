@@ -56,7 +56,10 @@ def _load_foto_corrections() -> dict[int, dict[str, str]]:
     out: dict[int, dict[str, str]] = {}
     for key, value in raw.items():
         page = int(key)
-        entry = {name: str(value.get(name, "")) for name in ("Arab", "Latin", "Terjemahan", "footnote")}
+        entry = {
+            name: str(value.get(name, ""))
+            for name in ("Arab", "Latin", "Terjemahan", "footnote", "layer2")
+        }
         if not entry["Arab"] or not entry["Latin"] or not entry["Terjemahan"]:
             raise AssertionError(f"foto correction for page {page} is incomplete")
         out[page] = entry
@@ -912,6 +915,18 @@ def render_practice_block(practice: Practice) -> str:
 
 
 def convert_practice(page: int, body: str) -> Practice | None:
+    foto = FOTO_CORRECTIONS.get(page)
+    if foto is not None and foto.get("layer2"):
+        raw_block = foto["layer2"].strip()
+        step_count = len(re.findall(r"^Langkah ke-\d+\b", raw_block, flags=re.M))
+        if step_count == 0:
+            raise AssertionError(f"foto Layer 2 for page {page} has no ordered steps")
+        return Practice(
+            media="",
+            steps=tuple(f"Langkah ke-{idx}" for idx in range(1, step_count + 1)),
+            purpose="",
+            raw_block=raw_block,
+        )
     if NO_NEW_PRACTICE_RE.search(body):
         return None
     if page == 49:
