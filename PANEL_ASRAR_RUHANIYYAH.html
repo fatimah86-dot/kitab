@@ -1,0 +1,586 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Asrār Rūḥāniyyah — Panel Edisi Kajian</title>
+<style>
+:root{--gold:#d5a82f;--gold-light:#f5df8b;--cream:#fff9e8;--paper:#fffdf7;--maroon:#8f1831;--green:#31785a;--ink:#28231d;--muted:#746a5b;--line:#e6d7ad;--shadow:0 14px 44px #6a4b1530}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;background:radial-gradient(ellipse at 15% 0%,#fff4c4 0,transparent 38%),linear-gradient(135deg,#f7edcf,#fffaf0 45%,#efe0b5);}
+.topbar{position:sticky;top:0;z-index:5;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px clamp(16px,4vw,52px);background:#fffaf0ee;border-bottom:1px solid #d4b65e88;backdrop-filter:blur(12px)}.brand{font-weight:800;color:var(--maroon);letter-spacing:.02em}.actions{display:flex;gap:8px;flex-wrap:wrap}.btn{border:1px solid #cda847;background:#fffdf6;color:#684a12;border-radius:999px;padding:9px 14px;font-weight:750;cursor:pointer;text-decoration:none}.btn.primary{background:var(--maroon);color:#fff;border-color:var(--maroon)}
+.wrap{max-width:1080px;margin:32px auto;padding:0 20px 60px}.cover-card{display:grid;grid-template-columns:minmax(220px,320px) 1fr;gap:clamp(24px,5vw,58px);align-items:center;padding:clamp(22px,4vw,48px);border:1px solid #d1ad45;border-radius:28px;background:linear-gradient(125deg,#fffdf6,#fff2c5 54%,#f4d978);box-shadow:var(--shadow);position:relative;overflow:hidden}.cover-card:after{content:"";position:absolute;right:-55px;top:-65px;width:210px;height:360px;border:12px double #d6ad40;opacity:.15;transform:rotate(24deg);border-radius:50%}.cover-img{width:100%;height:auto;max-height:440px;object-fit:contain;border-radius:6px;box-shadow:0 10px 25px #49261038;position:relative;z-index:1}.eyebrow{text-transform:uppercase;letter-spacing:.18em;font-weight:800;color:#92711a;font-size:.75rem}.cover-card h1{font-family:Georgia,serif;color:var(--maroon);font-size:clamp(2rem,5vw,3.8rem);line-height:1.05;margin:.5rem 0}.cover-card h2{font-size:1.2rem;color:#28644a;margin:.6rem 0 1rem}.cover-card p{line-height:1.7;color:#4e463b;max-width:600px}.ornament{color:var(--gold);font-size:1.5rem;letter-spacing:.25em;margin:10px 0}.notice{padding:12px 15px;border-left:4px solid var(--maroon);background:#fff5ed;border-radius:4px 12px 12px 4px;color:#5b382a;font-size:.92rem}
+.section-title{display:flex;align-items:center;gap:14px;margin:44px 0 18px;color:#684d19}.section-title:after{content:"";height:1px;background:linear-gradient(90deg,var(--gold),transparent);flex:1}.panel{position:relative;margin:22px 0;border:1px solid #d8bf78;border-radius:20px;background:var(--paper);box-shadow:0 8px 22px #75591614;overflow:hidden}.panel-head{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 20px;background:linear-gradient(90deg,#fff0b7,#fff9e9);border-bottom:1px solid #eadba9}.panel-head h3{font-size:.95rem;text-transform:uppercase;letter-spacing:.1em;margin:0;color:#76530e}.badge{background:#fff;border:1px solid #ddc677;border-radius:999px;padding:5px 10px;color:#83671e;font-size:.76rem;font-weight:800}.panel-body{padding:clamp(17px,3vw,28px)}.arabic{font-family:"Noto Naskh Arabic","Amiri","Scheherazade New",serif;direction:rtl;text-align:right;font-size:clamp(1.35rem,3vw,1.9rem);line-height:2.15;color:#21593f;padding:18px 20px;background:linear-gradient(135deg,#f2f8ef,#fff);border:1px solid #c6d8c3;border-right:5px solid var(--green);border-radius:12px}.latin{font-family:Georgia,serif;line-height:1.9;font-size:1.04rem;color:#51433a;background:#f7f2e9;border:1px solid #e6ddce;border-radius:12px;padding:17px 20px}.translation{line-height:1.85;font-size:1.03rem;padding:17px 20px;border-left:4px solid var(--gold);background:#fffdf5;border-radius:4px 12px 12px 4px}.commentary{line-height:1.8;color:#5e5548;padding:14px 18px;background:#fbf6e9;border:1px dashed #ceb568;border-radius:12px}.meta{font-size:.85rem;color:var(--muted);line-height:1.7}.flag{display:inline-flex;align-items:center;gap:7px;color:#795519;font-weight:750}.dot{width:8px;height:8px;background:var(--gold);border-radius:50%}.footer{text-align:center;color:#74664b;padding:28px;border-top:1px solid #d8c27d;margin-top:42px;font-size:.85rem}.smallcaps{font-variant:small-caps;letter-spacing:.08em}
+@media(max-width:720px){.cover-card{grid-template-columns:1fr}.cover-img{max-height:340px;width:min(100%,300px);margin:auto}.topbar{align-items:flex-start}.actions .btn{padding:8px 10px;font-size:.82rem}}
+@media print{@page{size:A4;margin:16mm}body{background:#fff}.topbar{display:none}.wrap{max-width:none;margin:0;padding:0}.cover-card{min-height:260mm;box-shadow:none;border-radius:0;break-after:page}.panel{box-shadow:none;break-inside:avoid}.section-title{margin-top:8mm}.footer{break-before:avoid}.btn{display:none}*{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+
+.full-transcript{margin:14px 0 4px;border:1px solid #d8bf78;border-radius:8px;background:#fffaf0;color:#34231a}.full-transcript summary{cursor:pointer;padding:10px 14px;color:#6f1828;font-weight:700}.full-transcript pre{white-space:pre-wrap;overflow-wrap:anywhere;padding:12px 16px;margin:0;border-top:1px solid #e8d6a3;font:inherit;line-height:1.9;text-align:start;direction:auto}.full-transcript pre:dir(rtl){font-family:serif}
+</style>
+</head>
+<body>
+<nav class="topbar"><div class="brand">✥ ASRĀR RŪḤĀNIYYAH <span style="font-weight:500;color:#76694e">/ Panel Edisi Kajian</span></div><div class="actions"><a class="btn" href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL09-10.md">Buka transkripsi</a><button class="btn primary" onclick="window.print()">Cetak / Simpan PDF</button></div></nav>
+<main class="wrap">
+<section class="cover-card">
+<img class="cover-img" src="assets/asrarul-ruhaniyyah-cover.jpg" alt="Sampul kitab Asrar Ruhaniyyah">
+<div><div class="eyebrow">Edisi kajian filologi · panel berwarna sampul</div><h1>أسرار روحانية</h1><h2>Asrār Rūḥāniyyah</h2><p>من مجربات العالم الروحاني<br><i>Min Mujarrabāt al-ʿĀlim al-Rūḥānī</i></p><p>Panel transkripsi yang menyelaraskan tampilan dengan sampul: dasar krem gading, aksen emas, judul marun, dan blok Arab hijau. Isi naskah tetap dibedakan jelas dari transliterasi dan terjemahan.</p><div class="ornament">✦ ━━━ ❖ ━━━ ✦</div><div class="notice"><b>Catatan edisi:</b> teks ritual dan klaim khasiat ditampilkan sebagai materi sumber untuk kajian, bukan anjuran praktik atau pengganti nasihat medis. Bacaan yang tidak jelas pada pindai ditandai untuk verifikasi.</div></div>
+</section>
+<h2 class="section-title">Halaman 8 (folio pindai 7) — pembuka isi setelah sampul</h2>
+<section class="panel"><header class="panel-head"><h3>① Matan Arab bertashkil</h3><span class="badge">النَّصُّ الْعَرَبِيُّ</span></header><div class="panel-body"><div class="arabic" lang="ar">طِلَسْمٌ فَعَّالٌ وَمُجَرَّبٌ لِإِزَالَةِ الْعَارِضِ<br><br>تَكْتُبُ هٰذَا الطِّلَسْمَ بِقَلَمٍ أَسْوَدَ عَلَى قِطْعَةِ قُمَاشٍ بَيْضَاءَ مِنْ مَلَابِسِ الشَّخْصِ الْمُصَابِ، وَتُحْرَقُ هٰذِهِ الْقِطْعَةُ كَيْ يَتَبَخَّرَ بِهَا.<br><br>تَوَكَّلُوا يَا خُدَّامَ هٰذَا الطِّلَسْمِ، وَانْزِلُوا هٰذَا الْعَارِضَ فِي جَسَدِ فُلَانِ بْنِ فُلَانَةَ. أُقْسِمُ عَلَيْكُمْ بِحَقِّ الْمَلِكِ الْأَعْظَمِ الْمُسَيْطِرِ عَلَيْكُمْ.</div><p class="meta">Nomor kerja mengikuti pengguna: halaman isi 8; folio di bawah pada scan: ٧ (7). Angka samar di sel baris terbawah wafaq dibaca ٤ menurut konfirmasi pengguna dan urutan angka; bacaan ini diberi status konfirmasi editorial.</p></div></section>
+<section class="panel"><header class="panel-head"><h3>② Baca washal &amp; terjemahan</h3><span class="badge">LATIN · MAKNA</span></header><div class="panel-body"><div class="latin"><i>Ṭilasm(un) faʿʿāl(un) wa-mujarrab(un) li-izālati al-ʿāriḍ. Taktubu hādhāṭ-ṭilasmu biqalamin aswada ʿalā qiṭʿati qimāshin bayḍāʾa min malābisi ash-shakhṣi al-muṣābi, wa-tuḥraqu hādhihi al-qiṭʿatu kay yatabakhkhara bihā.</i><br><br><i>Tawakkalū yā khuddāma hādhāṭ-ṭilasmi, wan-zilū hādhā al-ʿāriḍa fī jasadi fulānin ibni fulānah. Uqsimu ʿalaykum biḥaqqi al-maliki al-aʿẓami al-musayṭiri ʿalaykum.</i></div><div class="translation" style="margin-top:14px">“Tilsam yang ampuh dan teruji untuk menghilangkan gangguan.” Teks sumber selanjutnya menggambarkan penulisan pada kain dan pembakaran kain untuk menghasilkan asap, lalu memuat seruan yang mengacu pada “Fulan bin Fulanah”. Ini transkripsi historis, bukan petunjuk untuk dilakukan.</div></div></section>
+<h2 class="section-title">Contoh susunan panel — halaman cetak 9</h2>
+<section class="panel"><header class="panel-head"><h3>① Matan Arab bertashkil</h3><span class="badge">النَّصُّ الْعَرَبِيُّ</span></header><div class="panel-body"><div class="arabic" lang="ar">لِلْمَوَدَّةِ وَالْمَحَبَّةِ بَيْنَ النَّاسِ<br><br>تُكْتَبُ عَلَى قَالَبٍ مِنَ الثَّلْجِ بِقَلَمٍ بِدُونِ حِبْرٍ الْآتِي:<br>«سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ، سَلَامٌ عَلَى آلِ يَاسِينَ» تِسْعَ مَرَّاتٍ،<br>«يَا نَارُ كُونِي بَرْدًا وَسَلَامًا»، وَ«أَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِنِّي».</div><p class="meta"><span class="flag"><i class="dot"></i> Ejaan sumber dipertahankan</span> · Harakat editorial ditambahkan; kutipan ayat ditandai di catatan filologis.</p></div></section>
+<section class="panel"><header class="panel-head"><h3>② Panduan baca Latin</h3><span class="badge">WAṢL &amp; ASSIMILASI</span></header><div class="panel-body"><div class="latin"><i>Lil-mawaddati wal-maḥabbati baynan-nās.</i><br><br><i>Tuktabu ʿalā qālibin minath-thalji biqalamin bidūni ḥibrin al-āti:</i><br><i>“Salāmun qaulan mir-rabbin raḥīm, salāmun ʿalā āli Yāsīn” tisʿa marrātin.</i></div><p class="meta">Contoh: <i>min ath-thalji</i> dibaca sambung <i>minath-thalji</i>; <i>bayna an-nās</i> menjadi <i>baynan-nās</i>. Tanda waṣl tidak mengubah ejaan Arab sumber.</p></div></section>
+<section class="panel"><header class="panel-head"><h3>③ Terjemahan matan</h3><span class="badge">BAHASA INDONESIA</span></header><div class="panel-body"><div class="translation"><b>Untuk kasih sayang dan kecintaan di antara manusia.</b><br><br>Tulislah pada sebongkah es dengan pena tanpa tinta bacaan berikut: “Salam sejahtera, sebagai perkataan dari Tuhan Yang Maha Penyayang; salam sejahtera atas keluarga Yasin,” sembilan kali; “Wahai api, jadilah dingin dan membawa keselamatan,” serta “Aku telah melimpahkan kepadamu kasih sayang dari-Ku.”</div></div></section>
+<section class="panel"><header class="panel-head"><h3>④ Catatan filologi dan verifikasi</h3><span class="badge">TAḤQĪQ</span></header><div class="panel-body"><div class="commentary">Frasa <span dir="rtl" lang="ar">سَلَامٌ عَلَى آلِ يَاسِينَ</span> dipertahankan sebagaimana tercetak; tidak disamakan begitu saja dengan kutipan Qur’an. Pada salinan, redaksi <span dir="rtl" lang="ar">عَلَيْكَ</span> terbaca jelas dan ditranskripsikan apa adanya. Harakat, tanda baca, dan transliterasi adalah lapisan editorial, bukan bagian dari rasm cetak.</div></div></section>
+<h2 class="section-title">Arah visual yang diterapkan</h2><section class="panel"><div class="panel-body"><p><span class="flag"><i class="dot"></i> Emas dan gading</span> untuk bingkai, latar, dan pemisah—mengambil nuansa dasar sampul.</p><p><span class="flag"><i class="dot" style="background:var(--maroon)"></i> Marun</span> untuk judul dan tombol utama—mengambil warna judul sampul.</p><p><span class="flag"><i class="dot" style="background:var(--green)"></i> Hijau</span> sebagai penanda blok teks Arab, terinspirasi warna nama penyusun pada sampul.</p><p class="meta">Gunakan tombol “Cetak / Simpan PDF” untuk ekspor PDF dari browser. Saat pencetakan, ukuran halaman A4 dan warna panel dipertahankan.</p></div></section>
+<h2 class="section-title">Halaman cetak 11–13 — sampel lanjutan</h2>
+<section class="panel"><header class="panel-head"><h3>Halaman 11 · حِجَابٌ لِلْإِنْجَابِ</h3><span class="badge">النَّصُّ · تَرْجَمَةٌ</span></header><div class="panel-body"><div class="arabic" lang="ar">يُكْتَبُ هٰذَا الْحِجَابُ بِالْمِسْكِ وَالزَّعْفَرَانِ عَلَى وَرَقَةٍ، بِشَرْطِ أَنْ يَكُونَا صَائِمَيْنِ فِي ذٰلِكَ الْيَوْمِ، وَقْتَهُ قَبْلَ الْفُطُورِ.<br>﴿إِنَّ اللهَ لَا يُخْلِفُ الْمِيعَادَ﴾</div><div class="translation" style="margin-top:14px">Judul berarti “jimat untuk memperoleh keturunan”. Petikan dan keterangan sumber ditranskripsikan sebagai isi historis, bukan saran kesehatan atau jaminan khasiat.</div></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 12 · الْغِنَى / لِقَضَاءِ الدَّيْنِ</h3><span class="badge">ARAB · WASḤAL</span></header><div class="panel-body"><div class="arabic" lang="ar">«اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ» (١٠٠٠) مَرَّةً.<br>«يَا غَنِيُّ» (١٠٠٠) مَرَّةً.<br>«يَا حَيُّ يَا قَيُّومُ» (١٠٠٠) مَرَّةً.<br><br>«أَنَا مَلِكُ الْمُلُوكِ، وَبِيَدِي مُلْكُ كُلِّ مَلِكٍ، لِيَ الْمِيرَاثُ، فَاطْلُبْنِي تَجِدْنِي».</div><p class="meta">Redaksi dipertahankan; identitas persona dalam kalimat “Aku adalah Raja segala raja” tidak dinyatakan oleh sumber.</p></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 13 · طِلَاسِمُ لِطَرْدِ أُمِّ الصِّبْيَانِ</h3><span class="badge">TRANSKRIPSI DIPERIKSA</span></header><div class="panel-body"><div class="arabic" lang="ar">يُكْتَبُ هٰذَا الطِّلَسْمُ وَقْتَ الْمَغْرِبِ عَلَى (١٢) قِطْعَةَ قُمَاشٍ [كَلِمَةٌ غَيْرُ وَاضِحَةٍ]، تُلَفُّ كُلُّ قِطْعَةٍ حَوْلَ شَمْعَةٍ…</div><div class="commentary" style="margin-top:14px">Kata setelah “sepotong kain” dan rajah tulisan tangan belum dapat dipastikan dari foto. Bagian samar ditandai, tidak direkonstruksi. Isi sumber yang menyebut pembakaran/pengasapan tidak dimaksudkan sebagai anjuran.</div></div></section>
+<p class="notice"><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL11-13.md">Buka transkripsi lengkap halaman 11–13</a> — mencakup teks ayat, transliterasi washal, terjemahan, dan catatan kolasi.</p>
+<section class="panel"><header class="panel-head"><h3>Halaman 14 · pindai tidak tersedia</h3><span class="badge">GAP</span></header><div class="panel-body"><p>Folio 14 tidak ditemukan; teksnya tidak direka.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL14.md">Status hlm. 14</a><details class="full-transcript"><summary>Status kolasi lengkap</summary><pre dir="auto"># Halaman cetak 14 — pindai tidak tersedia
+
+## Status kolasi
+
+Folio 14 tidak ditemukan sebagai pindai tersendiri dalam himpunan gambar yang diperiksa; urutan folio melompat dari 13 ke 15. Karena bukti visual halaman ini tidak tersedia, transkripsi Arab bertashkīl, transliterasi waṣl, dan terjemahan tidak dibuat agar teks tidak direka.
+
+**Keterangan:** `[pindai halaman 14 tidak tersedia dalam kumpulan gambar]`. Ini adalah gap pada kumpulan pindai, bukan bukti bahwa halaman 14 kosong atau tidak terdapat dalam kitab.
+</pre></details></div></section>
+<h2 class="section-title">Halaman cetak 15–18 — sampel lanjutan</h2>
+<section class="panel"><header class="panel-head"><h3>Halaman 15 · لِإِبْطَالِ السِّحْرِ وَالْعَمَلِ</h3><span class="badge">ARAB · MAKNA</span></header><div class="panel-body"><div class="arabic" lang="ar">«خَرَجْتُ مِنْ حَوْلِي وَقُوَّتِي إِلَى حَوْلِكَ وَقُوَّتِكَ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ».</div><div class="translation" style="margin-top:14px">“Aku keluar dari daya dan kekuatanku menuju daya dan kekuatan-Mu. Tiada daya dan tiada kekuatan kecuali dengan pertolongan Allah.” Rincian bacaan pada sumber dicatat di transkripsi lengkap; bukan saran praktik.</div></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 16 · عِلَاجُ الْعُقْمِ وَانْسِدَادِ قَنَوَاتِ الرَّحِمِ</h3><span class="badge">ARAB · CATATAN</span></header><div class="panel-body"><div class="arabic" lang="ar">تُخْلَطُ هٰذِهِ الْبُذُورُ سَوِيًّا، وَتُنْقَعُ بِالْمَاءِ لِمُدَّةِ أَرْبَعَةِ أَيَّامٍ، وَيُشْرَبُ مِنْهَا نِصْفُ كُوبٍ يَوْمِيًّا فِي الصَّبَاحِ وَالْمَغْرِبِ لِمُدَّةِ (٢١) يَوْمًا.</div><div class="commentary" style="margin-top:14px">Judul dan klaim resep dipindahkan sebagai data kitab, bukan nasihat medis atau rekomendasi konsumsi. Nama-nama tanaman ditandai untuk verifikasi botani.</div></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 17–18 · حِجَابٌ لِلتَّابِعَةِ وَالْأَحْلَامِ الْمُزْعِجَةِ</h3><span class="badge">TEKS · KOLASI</span></header><div class="panel-body"><div class="arabic" lang="ar">لَا سُلْطَانَ لَكَ عَلَيَّ، وَلَا عَلَى سَمْعِي، وَلَا عَلَى بَصَرِي، وَلَا عَلَى شَعْرِي، وَلَا عَلَى بَشَرِي، وَلَا عَلَى لَحْمِي، وَلَا عَلَى دَمِي…<br><br>اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ بِعَدَدِ قَطَرَاتِ الْمَطَرِ (١٠٠٠) مَرَّةً.</div><div class="translation" style="margin-top:14px">Halaman 17–18 memuat jimat panjang yang bersambung dengan kutipan Āyat al-Kursī, lalu membuka bagian selawat untuk hajat. Ungkapan yang janggal dan bagian samar dipertahankan serta ditandai, bukan diperbaiki diam-diam.</div><p class="meta"><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL15-16.md">Transkripsi lengkap hlm. 15–16</a> · <a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL17-18.md">Transkripsi lengkap hlm. 17–18</a></p></div></section>
+<h2 class="section-title">Halaman cetak 19–22 — sampel dan kolasi</h2>
+<section class="panel"><header class="panel-head"><h3>Halaman 19 · صَلَوَاتٌ وَبَخُورٌ</h3><span class="badge">TEKS · TRANSKRIPSI</span></header><div class="panel-body"><div class="arabic" lang="ar">«اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ بِعَدَدِ مَا بَيْنَ السَّمَاءِ وَالْأَرْضِ» (١٠٠٠) مَرَّةً.<br>«اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ بِعَدَدِ النُّجُومِ، مَا بَرَزَ وَمَا انْدَثَرَ» (١٠٠٠) مَرَّةً.<br>«اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ بِعَدَدِ وَرَقَاتِ الشَّجَرِ» (١٠٠٠) مَرَّةً.<br>«اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ بِعَدَدِ قَطَرَاتِ النَّدَى» (١٠٠٠) مَرَّةً.</div><div class="translation" style="margin-top:14px">Empat selawat dihitung masing-masing seribu kali. Halaman ini lalu mencantumkan empat bahan dupa, 100 gram tiap bahan; identitas bahan pertama (السرب) belum terverifikasi dan dipertahankan sebagai bacaan sumber.</div><p class="meta"><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL19.md">Transkripsi lengkap hlm. 19</a></p></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 20 · تَرْكِيبٌ وَعِلَاجٌ</h3><span class="badge">21 يَوْمًا</span></header><div class="panel-body"><div class="arabic" lang="ar">تُطْحَنُ هٰذِهِ الْمَوَادُّ، ثُمَّ تُعْجَنُ بِالْخَلِّ وَتُعْمَلُ بِشَكْلِ كُرَاتٍ، ثُمَّ تُجَفَّفُ فِي مَكَانٍ مُظْلِمٍ، وَيُبَخَّرُ بِهَا لِمُدَّةِ (٢١) يَوْمًا صَبَاحًا وَمَسَاءً.<br><br>عِلَاجُ الْقَانُونِ [كَذَا فِي الْمَطْبُوعِ؛ الْمُصْطَلَحُ غَيْرُ مُتَحَقَّقٍ]</div><div class="translation" style="margin-top:14px">Sumber menyatakan bahan ditumbuk, dicampur cuka hingga dibentuk bola-bola, dikeringkan di tempat gelap, lalu digunakan untuk pengasapan pagi dan sore selama 21 hari. Ini catatan isi sumber, bukan anjuran kesehatan. Judul berikutnya ditranskripsikan mengikuti huruf yang tampak; istilahnya belum teridentifikasi.</div><p class="meta"><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL20.md">Transkripsi lengkap hlm. 20</a></p></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 21 · Rajah/tulisan tangan</h3><span class="badge">REPRODUKSI PINDAI</span></header><div class="panel-body"><img src="assets/asrar-page21-source.jpg" alt="Pindai sumber halaman cetak 21" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Rajah direproduksi sebagai gambar sumber agar susunan dan goresan tetap dapat diperiksa. Bacaan samar pada keterangan tidak direkonstruksi; rinciannya ada di transkripsi.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL21.md">Transkripsi lengkap hlm. 21</a></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 22 · Wafaq/rajah</h3><span class="badge">REPRODUKSI PINDAI</span></header><div class="panel-body"><img src="assets/asrar-page22-source.jpg" alt="Pindai sumber halaman cetak 22" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Rajah dipertahankan sebagai reproduksi pindai, bukan digambar ulang dari bacaan yang belum pasti. Lihat catatan ketidakjelasan di transkripsi halaman.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL22.md">Transkripsi lengkap hlm. 22</a></div></section>
+<h2 class="section-title">Halaman cetak 23–24 — sampel lanjutan</h2>
+<section class="panel"><header class="panel-head"><h3>① Matan Arab bertashkil · halaman 23</h3><span class="badge">النَّصُّ الْعَرَبِيُّ</span></header><div class="panel-body"><div class="arabic" lang="ar">يُعْمَلُ بِهِ يَوْمَ الْجُمُعَةِ قَبْلَ أَذَانِ الظُّهْرِ بِسَاعَةٍ وَاحِدَةٍ، حَيْثُ تَسْتَحِمُّ وَتُصَلِّي رَكْعَتَيْنِ لِلَّهِ تَعَالَى، وَتَقْرَأُ سُورَةَ طٰهٰ (٣) مَرَّاتٍ، ثُمَّ تَقُولُ:<br>«يَا وَلِيَّ كُلِّ ضَعِيفٍ، إِلٰهِي، قَدْ أَتَيْتُكَ وَلَمْ أَجِدْ أَضْعَفَ مِنِّي، إِلٰهِي قَوِّنِي».</div></div></section>
+<section class="panel"><header class="panel-head"><h3>② Cara baca &amp; terjemahan · halaman 23</h3><span class="badge">WAṢL + TERJEMAH</span></header><div class="panel-body"><div class="latin"><i>Yuʿmalu bihī yawmal-jumuʿati qabla adhāniẓ-ẓuhri bisāʿatin wāḥidatin; ḥaythu tastahimmu wa-tuṣallī rakʿataini lillāhi taʿālā, wa-taqraʾu sūrata Ṭā-Hā (3) marrātin, thumma taqūlu: “Yā waliyyi kulli ḍaʿīfin, ilāhī, qad ataituka wa-lam ajid aḍʿafa minnī, ilāhī qawwinī.”</i></div><div class="translation" style="margin-top:14px">Teks menyebut pelaksanaan pada hari Jumat sebelum Zuhur, kemudian membaca Surah Ṭā Hā dan doa: “Wahai Pelindung setiap orang yang lemah, Tuhanku, aku datang kepada-Mu dan tidak kudapati seorang pun yang lebih lemah daripadaku. Tuhanku, kuatkanlah aku.”</div><p class="meta">Catatan: klaim dan prosedur pengobatan pada sumber dicatat sebagai data teks, bukan saran medis.</p></div></section>
+<section class="panel"><header class="panel-head"><h3>③ Doa bertashkil · halaman 24</h3><span class="badge">النَّصُّ الْعَرَبِيُّ</span></header><div class="panel-body"><div class="arabic" lang="ar">تَدْعُو بِهٰذَا الدُّعَاءِ:<br>«اللَّهُمَّ أَسْأَلُكَ بِاسْمِكَ الَّذِي يُغَيِّرُ الْأَشْيَاءَ» (١٠٠٠) مَرَّةً.<br>«اللَّهُمَّ أَسْأَلُكَ بِقُدْرَتِكَ الَّتِي تُغَيِّرُ الْأَشْيَاءَ» (١٠٠٠) مَرَّةً.<br>«اللَّهُمَّ أَسْأَلُكَ بِاسْمِكَ الَّذِي تَقُولُ بِهِ لِلْأَشْيَاءِ: كُنْ، فَيَكُونُ» (١٠٠٠) مَرَّةً، «أَنْ تُغَيِّرَ سُوءَ حَالِي بِحُسْنِ حَالِكَ».</div><div class="latin" style="margin-top:14px"><i>Tadʿū bihādhad-duʿāʾ: Allāhumma asʾaluka bismika alladhī yughayyiru al-ashyāʾa; Allāhumma asʾaluka biqudratika allatī tughayyiru al-ashyāʾa; Allāhumma asʾaluka bismika alladhī taqūlu bihī lil-ashyāʾi: kun, fayakūnu, an tughayyira sūʾa ḥālī biḥusni ḥālik.</i></div><div class="translation" style="margin-top:14px">“Ya Allah, aku memohon kepada-Mu dengan nama-Mu yang dengannya segala sesuatu berubah; dengan kuasa-Mu yang dengannya segala sesuatu berubah; dengan nama-Mu yang dengannya Engkau berfirman kepada segala sesuatu, ‘Jadilah’, maka jadilah ia; agar Engkau mengubah keadaan burukku menjadi baik.” Redaksi penutup mengikuti sumber dan dicatat perlu verifikasi.</div></div></section>
+<p class="notice"><b>Transkripsi lanjutan:</b> berkas <code>TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL23-24.md</code> memuat teks dan catatan yang lebih lengkap untuk halaman ini. Sampel panel tidak menggantikan kolasi seluruh naskah.</p>
+<h2 class="section-title">Halaman cetak 25 — sampel lanjutan</h2>
+<section class="panel"><header class="panel-head"><h3>Halaman 25 · لِعِلَاجِ التَّعَبِ وَالشِّفَاءِ</h3><span class="badge">مَتْنٌ · تَنْبِيهٌ</span></header><div class="panel-body"><div class="arabic" lang="ar">تَأْخُذُ مِلْحًا خَشِنًا وَتَقْرَأُ عَلَيْهِ سُورَةَ يَاسِينَ، وَسُورَةَ الْوَاقِعَةِ، وَسُورَةَ الرَّحْمٰنِ، ثُمَّ تَقْرَأُ (٧٢) مَرَّةً: ﴿يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ إِنِ اسْتَطَعْتُمْ أَنْ تَنْفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانْفُذُوا، لَا تَنْفُذُونَ إِلَّا بِسُلْطَانٍ﴾...</div><div class="translation" style="margin-top:14px">Sampel ini mencerminkan teks halaman, termasuk dua subbagian terkait garam dan mandi. Materi dicatat sebagai sumber historis—bukan rekomendasi terapi. Transkripsi, pelafalan waṣl, terjemahan, dan catatan kolasi disediakan dalam berkas lengkap.</div><p class="meta"><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL25.md">Transkripsi lengkap hlm. 25</a></p></div></section>
+<h2 class="section-title">Halaman cetak 26–28 — sampel lanjutan</h2>
+<section class="panel"><header class="panel-head"><h3>Halaman 26 · طِلَسْمٌ لِلْمَحَبَّةِ</h3><span class="badge">RAJAH · KOLASI</span></header><div class="panel-body"><div class="arabic" lang="ar">يُكْتَبُ هٰذَا الطِّلَسْمُ عَلَى قِطْعَةِ قُمَاشٍ فِي يَوْمِ السَّبْتِ، ثُمَّ تُوضَعُ فِيهَا تُرَابٌ مِنْ أَثَرِ الْمَحْبُوبِ...<br><br>يَا وَدُودُ، أَسْأَلُكَ أَنْ تَجْعَلَ الْوُدَّ وَالْحُبَّ فِي قَلْبِ (فُلَانِ بْنِ فُلَانَةَ) عَلَى (فُلَانَةَ بِنْتِ فُلَانَةَ).</div><div class="commentary" style="margin-top:14px">Goresan tangan pada rajah halaman ini masih samar; tidak direkonstruksi. Transkripsi memisahkan teks cetak dari tulisan tangan.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL26.md">Transkripsi lengkap hlm. 26</a></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 27 · قَضَاءُ الْحَاجَةِ وَقِرَاءَةُ الْمَاءِ</h3><span class="badge">ARAB · CATATAN</span></header><div class="panel-body"><div class="arabic" lang="ar">«يَا مُجِيبُ يَا سَرِيعُ» (١٠٠٠) مَرَّةً، ثُمَّ تَقُولُ: «اللَّهُمَّ أَجِبْ طَلَبِي»...<br>فِي الْيَوْمِ الْخَامِسِ تُقْرَأُ عَلَيْهِ سُورَةُ «أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ».</div><div class="translation" style="margin-top:14px">Halaman ini mencantumkan bacaan untuk hajat serta daftar bacaan air Zamzam selama enam hari; daftar berlanjut ke halaman 28.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL27.md">Transkripsi lengkap hlm. 27</a></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 28 · تَتِمَّةُ الْقِرَاءَةِ وَالْبَخُورِ</h3><span class="badge">متابعة</span></header><div class="panel-body"><div class="arabic" lang="ar">فِي الْيَوْمِ السَّادِسِ تُقْرَأُ عَلَيْهِ الْمُعَوِّذَتَانِ، كُلَّ وَاحِدَةٍ (٩) مَرَّاتٍ.<br><br>بُخُورٌ لِمَنْعِ الْمَسِّ مِنَ الْجِنِّ وَالشَّيْطَانِ</div><div class="translation" style="margin-top:14px">Rincian hari keenam dan daftar bahan dupa ditranskripsikan pada halaman 28. Klaim dan tindakan yang dimuat sumber bukan anjuran kesehatan.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL28.md">Transkripsi lengkap hlm. 28</a></div></section>
+<h2 class="section-title">Halaman cetak 29–32 — sampel lanjutan</h2>
+<section class="panel"><header class="panel-head"><h3>Halaman 29 · لِلرِّزْقِ</h3><span class="badge">نَصٌّ · تَرْجَمَةٌ</span></header><div class="panel-body"><div class="arabic" lang="ar">«اللَّهُمَّ أَسْأَلُكَ بِحَقِّ اسْمِكَ الْأَعْظَمِ أَنْ تَرْزُقَنِي رِزْقًا حَلَالًا طَيِّبًا بِرَحْمَتِكَ لَا يَنْفَدُ أَبَدًا».</div><div class="commentary" style="margin-top:14px">Nama yang tampak sebagai “اليتيم” dipertahankan menurut cetakan; tidak diedit ke bacaan yang lebih lazim.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL29.md">Transkripsi lengkap hlm. 29</a></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 30 · وَفْقٌ خَطِّيٌّ</h3><span class="badge">PINDAI SUMBER</span></header><div class="panel-body"><img src="assets/asrar-page30-source.jpg" alt="Pindai halaman cetak 30, termasuk rajah tulisan tangan" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Rajah tangan dipertahankan sebagai facsimile; bacaan tidak diyakini dan tidak direkonstruksi. Materi pembakaran adalah isi sumber, bukan anjuran.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL30.md">Transkripsi lengkap hlm. 30</a></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 31 · وصفاتٌ تاريخية</h3><span class="badge">تَنْبِيهُ السَّلَامَةِ</span></header><div class="panel-body"><div class="arabic" lang="ar">لِعِلَاجِ وَجَعِ الرَّأْسِ · عِلَاجُ أَوْجَاعِ الْأَرْجُلِ</div><div class="translation" style="margin-top:14px">Transkripsi mencatat resep sebagaimana sumber, disertai catatan keselamatan; bahan seperti ḥanẓal dapat berbahaya dan tidak dianjurkan untuk dikonsumsi.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL31.md">Transkripsi lengkap hlm. 31</a></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 32 · إِبْطَالُ السِّحْرِ</h3><span class="badge">سَطْرٌ سَامٍ</span></header><div class="panel-body"><div class="arabic" lang="ar">«إِلٰهِي، خَرَجْتُ مِنْ حَوْلِي وَقُوَّتِي إِلَى حَوْلِكَ وَقُوَّتِكَ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ...»</div><div class="commentary" style="margin-top:14px">Rangkaian istilah talismanik di bagian akhir halaman samar; ditandai dalam transkripsi tanpa diberi makna spekulatif.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL32.md">Transkripsi lengkap hlm. 32</a></div></section>
+<h2 class="section-title">Halaman cetak 33 — sampel</h2><section class="panel"><header class="panel-head"><h3>مُعَالَجَةُ الْعُقْمِ · halaman 33</h3><span class="badge">KOLASI · PERINGATAN</span></header><div class="panel-body"><div class="arabic" lang="ar">تُسْتَخْدَمُ بُذُورُ النَّبَاتَاتِ التَّالِيَةِ: بُذُورُ رَشَادٍ (١٠٠) غِرَامٍ، بُذُورُ كَرَفْسٍ (١٠٠) غِرَامٍ، بَذْرُ بَصَلٍ (١٠٠) غِرَامٍ، قَرَنْفُلٌ (٥٠) غِرَامًا، حَرْمَلٌ (٢٠) غِرَامًا.</div><div class="commentary" style="margin-top:14px">Resep konsumsi dicatat sesuai sumber, bukan saran medis. Istilah talismanik pada awal halaman masih samar dan ditandai dalam transkripsi.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL33.md">Transkripsi lengkap hlm. 33</a></div></section>
+<h2 class="section-title">Halaman cetak 34 — rajah bertulis tangan</h2><section class="panel"><header class="panel-head"><h3>طِلَسْمٌ لِعَدَمِ النَّوْمِ عِنْدَ الْأَطْفَالِ</h3><span class="badge">FACSIMILE · NOTA KESELAMATAN</span></header><div class="panel-body"><img src="assets/asrar-page34-source.jpg" alt="Pindai sumber halaman 34 berisi rajah tangan" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Tulisan melingkar terlalu samar untuk dibaca utuh. Isi transkripsi memisahkan kalimat cetak dari rajah dan tidak mereka-reka bacaan. Sumber menyebut pengasapan dengan harmal pada konteks anak; ini bukan saran kesehatan.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL34.md">Transkripsi lengkap hlm. 34</a></div></section>
+<h2 class="section-title">Halaman cetak 35 — dua topik</h2><section class="panel"><header class="panel-head"><h3>إِبْعَادُ الشَّرِّ · تَسَاقُطُ الشَّعْرِ</h3><span class="badge">ARAB · CATATAN</span></header><div class="panel-body"><div class="arabic" lang="ar">تُقْرَأُ عَلَى الْحَرْمَلِ سُورَةُ يٰس، وَالْعَادِيَاتِ، وَطٰهٰ، وَالْمُعَوِّذَتَانِ...<br><br>زَيْتُ اللَّوْزِ الْمُرِّ (١٠٠) غِرَامٍ، زَيْتُ الزَّيْتُونِ (١٢٥) غِرَامًا، زَيْتُ الْخَرْدَلِ (٥٠) غِرَامًا.</div><div class="commentary" style="margin-top:14px">Doa memiliki frasa yang samar/janggal. Resep oles 21 hari dicatat sebagai isi sumber dan bukan panduan medis.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL35.md">Transkripsi lengkap hlm. 35</a></div></section>
+<h2 class="section-title">Halaman cetak 36–39 — termasuk folio tak terpindai</h2><section class="panel"><header class="panel-head"><h3>Halaman 36–37 · belum ada citra</h3><span class="badge">PENANDA GAP</span></header><div class="panel-body"><div class="commentary">Di dalam folder pindai yang tersedia, urutan lompat dari folio 35 langsung ke 38. Isi halaman 36–37 tidak direka; lihat berkas status khusus tiap halaman.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL36.md">Status hlm. 36</a> · <a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL37.md">Status hlm. 37</a></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 38 · ثلاثة موضوعات</h3><span class="badge">TRANSKRIPSI</span></header><div class="panel-body"><div class="arabic" lang="ar">لِعِلَاجِ كَثْرَةِ النَّوْمِ · لِعِلَاجِ ضِيقِ النَّفَسِ · عِلَاجٌ لِلْإِدْمَانِ</div><div class="commentary" style="margin-top:14px">Resep dan prosedur dari sumber dicatat sebagai historis, bukan saran medis.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL38.md">Transkripsi lengkap hlm. 38</a></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 39 · وَفْقٌ حُرُوفِيٌّ</h3><span class="badge">RAJAH</span></header><div class="panel-body"><div class="arabic" lang="ar">طِلَسْمٌ لِعِلَاجِ الْإِدْمَانِ عَلَى الْمُخَدِّرَاتِ وَالْخَمْرِ وَالزِّنَا وَالْقِمَارِ</div><div class="translation" style="margin-top:14px">Rajah berupa huruf terpisah yang ditata dalam lingkaran; catatan teks dibatasi pada bagian yang dapat dikolasi.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL39.md">Transkripsi lengkap hlm. 39</a></div></section>
+<h2 class="section-title">Halaman cetak 40–42 — kolasi lanjutan</h2><section class="panel"><header class="panel-head"><h3>Halaman 40 · citra tidak tersedia</h3><span class="badge">GAP</span></header><div class="panel-body"><p class="commentary">Pindai bergerak dari folio 39 ke 41; halaman 40 tidak direka.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL40.md">Status hlm. 40</a></div></section><section class="panel"><header class="panel-head"><h3>Halaman 41 · رُجُوعُ الْغَائِبِ</h3><span class="badge">ARAB · WAṢL</span></header><div class="panel-body"><div class="arabic" lang="ar">تُقْرَأُ وَأَنْتَ طَاهِرُ الْمَلَابِسِ فِي مَكَانٍ مُبَخَّرٍ بِالْجَاوِيِّ (١٠٠٠) مَرَّةً...<br><br>لِلْحُصُولِ عَلَى فُرْصَةِ عَمَلٍ</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL41.md">Transkripsi lengkap hlm. 41</a></div></section><section class="panel"><header class="panel-head"><h3>Halaman 42 · لِعِلَاجِ الْمَرَضِ</h3><span class="badge">تَرْجَمَةٌ · تَنْبِيهٌ</span></header><div class="panel-body"><div class="arabic" lang="ar">سُورَةُ الْحَمْدِ (٣٠٠) مَرَّةٍ · سُورَةُ يٰس (١) مَرَّةً · آيَةُ الْكُرْسِيِّ (٤١) مَرَّةً</div><div class="commentary" style="margin-top:14px">Bagian kedua halaman 42 berlanjut di folio berikutnya; diagnosis “داء الثعلب” tidak diterjemahkan sebagai diagnosis medis modern.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL42.md">Transkripsi lengkap hlm. 42</a></div></section>
+<h2 class="section-title">Halaman cetak 43 — sampel lanjutan</h2><section class="panel"><header class="panel-head"><h3>لِعِلَاجِ الْحَسَدِ · أَوْجَاعُ الْأَسْنَانِ</h3><span class="badge">ARAB · KOLASI</span></header><div class="panel-body"><div class="arabic" lang="ar">تُقْرَأُ عَلَى الْمَاءِ الْبَارِدِ سُوَرُ الْمُعَوِّذَتَيْنِ، وَالزَّلْزَلَةِ، وَقُرَيْشٍ... «جِبْرَائِيلَ» (٢٤٧) مَرَّةً، «بَدُوحَ» (٢٠) مَرَّةً.</div><div class="commentary" style="margin-top:14px">Nama/bacaan talismanik dipertahankan secara literal; kata kerja pembuka masih samar. Resep berkumur bukan rekomendasi medis.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL43.md">Transkripsi lengkap hlm. 43</a></div></section>
+<h2 class="section-title">Halaman cetak 44 — wafaq</h2><section class="panel"><header class="panel-head"><h3>طِلَسْمُ جَلْبٍ وَمَحَبَّةٍ</h3><span class="badge">FACSIMILE · وَفْق</span></header><div class="panel-body"><img src="assets/asrar-page44-source.jpg" alt="Pindai halaman 44 dengan wafaq 4x4" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Tabel ditranskripsikan dari kanan ke kiri; dua sel memuat lambang yang belum teridentifikasi, tidak diisi dengan angka dugaan. Tulisan mengelilingi wafaq masih samar.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL44.md">Transkripsi lengkap hlm. 44</a></div></section>
+<h2 class="section-title">Halaman cetak 45–46 — sampel</h2><section class="panel"><header class="panel-head"><h3>Halaman 45 · خَاتَمُ حِفْظٍ وَوَصْفَةٌ مَذْكُورَةٌ</h3><span class="badge">تَنْبِيهُ سُمِّيَّةٍ</span></header><div class="panel-body"><div class="arabic" lang="ar">لِعِلَاجِ الْأَكْزِيمَا وَحَبِّ الشَّبَابِ وَالصَّدَفِيَّةِ<br>نَبَاتُ الدَّفْلَةِ · ١ كِغْ · مِلْحٌ خَشِنٌ · ٥ لِتْرَاتٍ</div><div class="commentary" style="margin-top:14px">الدفلة (oleander) tanaman sangat beracun. Teks dicatat sebagai sumber historis dan tidak boleh digunakan.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL45.md">Transkripsi lengkap hlm. 45</a></div></section><section class="panel"><header class="panel-head"><h3>Halaman 46 · صُلْحُ الزَّوْجَيْنِ</h3><span class="badge">تَنْبِيهٌ لِلْعَيْنِ</span></header><div class="panel-body"><div class="arabic" lang="ar">لِعِلَاجِ ضَعْفِ الْبَصَرِ<br>ثُمَّ يُوضَعُ فِيهِ مَاءُ الْمَطَرِ وَيُغَطَّى لِمُدَّةِ أُسْبُوعٍ...</div><div class="commentary" style="margin-top:14px">Sumber menyebut tetes mata dari cairan non-steril; jangan terapkan. Doa perdamaian terpotong dan berlanjut di halaman berikutnya.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL46.md">Transkripsi lengkap hlm. 46</a></div></section>
+<h2 class="section-title">Halaman cetak 47 — kolasi</h2><section class="panel"><header class="panel-head"><h3>آلَامُ الْأَكْتَافِ وَالرَّأْسِ</h3><span class="badge">أَسْمَاءٌ سَامَةٌ</span></header><div class="panel-body"><div class="arabic" lang="ar">حَنْظَلٌ (٢٠٠) غِرَامٍ · سَذَابٌ (٢٠٠) غِرَامٍ · حَرْمَلٌ (٢٠٠) غِرَامٍ · [اسمان غير محققين]</div><div class="commentary" style="margin-top:14px">Dua nama bahan tidak teridentifikasi; ditandai di transkripsi. Resep tidak disarankan.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL47.md">Transkripsi lengkap hlm. 47</a></div></section>
+<h2 class="section-title">Halaman cetak 48–50 — sampel dan gap</h2><section class="panel"><header class="panel-head"><h3>Halaman 48 · pindai tidak tersedia</h3><span class="badge">GAP</span></header><div class="panel-body"><p class="commentary">Folio 48 tidak ditemukan; tidak disusun teks pengganti.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL48.md">Status hlm. 48</a></div></section><section class="panel"><header class="panel-head"><h3>Halaman 49 · طِلَسْمُ الْعِزِّ وَالْجَاهِ</h3><span class="badge">WAFaq · 4×4</span></header><div class="panel-body"><div class="arabic" lang="ar">يُكْتَبُ هٰذَا الطِّلَسْمُ بِالزَّعْفَرَانِ يَوْمَ الْأَحَدِ قَبْلَ طُلُوعِ الشَّمْسِ، وَتَحْمِلُهُ مَعَكَ.</div><div class="commentary" style="margin-top:14px">Angka kisi disalin berdasarkan pindai; tulisan tangan pengiring belum dapat dipastikan.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL49.md">Transkripsi lengkap hlm. 49</a></div></section><section class="panel"><header class="panel-head"><h3>Halaman 50 · لِطَرْدِ السِّحْرِ وَالْجِنِّ</h3><span class="badge">متابعة</span></header><div class="panel-body"><div class="arabic" lang="ar">«جَاءَ الْحَقُّ» (٣١٣) مَرَّةً · ﴿يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ…﴾ (٧١) مَرَّةً</div><div class="commentary" style="margin-top:14px">Ayat bagian kedua berlanjut pada halaman 51. Instruksi konsumsi larutan dicatat sebagai sumber, bukan anjuran.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL50.md">Transkripsi lengkap hlm. 50</a></div></section>
+<h2 class="section-title">Halaman cetak 51 — sampel lanjutan</h2><section class="panel"><header class="panel-head"><h3>لَفَكِّ الْقَيْدِ</h3><span class="badge">عَرَبِيٌّ · وَصْلٌ</span></header><div class="panel-body"><div class="arabic" lang="ar">بِحَقِّ هٰذَا الْقُرْآنِ وَكُلِّ حَرْفٍ بِهٰذَا الْقُرْآنِ أَنْ تَفُكَّ قَيْدِي، أَنَا فُلَانُ بْنُ فُلَانَةَ.</div><div class="commentary" style="margin-top:14px">Bagian awal halaman menyelesaikan ayat yang berlanjut dari hlm. 50; kalimatnya dilengkapi secara berurutan, bukan ditebak.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL51.md">Transkripsi lengkap hlm. 51</a></div></section>
+<h2 class="section-title">Halaman cetak 52–53 — sampel</h2><section class="panel"><header class="panel-head"><h3>Halaman 52 · طِلَسْمٌ لِعِلَاجِ الصَّرْعِ</h3><span class="badge">FACSIMILE · TAHQIQ</span></header><div class="panel-body"><img src="assets/asrar-page52-source.jpg" alt="Pindai halaman cetak 52 dengan rajah melingkar" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Folio pindai terbaca ٥٢. Rajah tulisan tangan terlalu samar untuk direkonstruksi; transkripsi membatasi diri pada teks cetak.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL52.md">Transkripsi lengkap hlm. 52</a></div></section><section class="panel"><header class="panel-head"><h3>صفحة 53 · تَحْسِينُ الْحَالِ</h3><span class="badge">تَنْبِيهٌ</span></header><div class="panel-body"><div class="arabic" lang="ar">تُكْتَبُ عَلَى وَرَقَةٍ مُقَدِّمَاتُ السُّوَرِ الْقُرْآنِيَّةِ...<br>«بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ» (٧) مَرَّاتٍ</div><div class="commentary" style="margin-top:14px">Istilah “yusbaḥu bihī” pada ramuan tidak dipastikan; kamper disebut sumber dan dapat beracun bila tertelan.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL53.md">Transkripsi lengkap hlm. 53</a></div></section>
+<h2 class="section-title">Halaman cetak 54 — sampel</h2><section class="panel"><header class="panel-head"><h3>لِإِزَالَةِ الْعَارِضِ وَالْجِنِّ</h3><span class="badge">آيَاتٌ · كُولَاسِي</span></header><div class="panel-body"><div class="arabic" lang="ar">تُكْتَبُ عَلَى وَرَقَةٍ بِالزَّعْفَرَانِ أَسْمَاءُ اللهِ الْحُسْنَى...<br>﴿بَرَاءَةٌ مِنَ اللهِ وَرَسُولِهِ... وَالصَّافَّاتِ صَفًّا...﴾</div><div class="commentary" style="margin-top:14px">Kutipan merangkai potongan dari at-Tawbah dan aṣ-Ṣāffāt; penyalinan frasa mengikuti citra, tanpa membenahi rasm secara diam-diam.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL54.md">Transkripsi lengkap hlm. 54</a></div></section>
+<h2 class="section-title">Halaman cetak 55 — wafaq</h2><section class="panel"><header class="panel-head"><h3>طِلَسْمُ الْجَمْعِ بَيْنَ الْأَحِبَّةِ</h3><span class="badge">WAFQ 4×4 · IMAGE</span></header><div class="panel-body"><img src="assets/asrar-page55-source.jpg" alt="Pindai halaman 55 dengan wafaq angka 316470–316485" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Angka pada kisi ditranskripsikan dari kanan ke kiri; kalimat tangan di bawah tidak direkonstruksi karena samar.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL55.md">Transkripsi lengkap hlm. 55</a></div></section>
+<h2 class="section-title">Halaman cetak 56–57 — gap dan sampel</h2><section class="panel"><header class="panel-head"><h3>Halaman 56 · pindai tidak tersedia</h3><span class="badge">GAP</span></header><div class="panel-body"><p class="commentary">Folio 56 tidak ditemukan dalam kumpulan pindai; tidak dibuat teks dugaan.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL56.md">Status hlm. 56</a></div></section><section class="panel"><header class="panel-head"><h3>صفحة 57 · تغيير الحال</h3><span class="badge">نَصٌّ · مُتَابَعَةٌ</span></header><div class="panel-body"><div class="arabic" lang="ar">«بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ» (٣٦٥) مَرَّةً فِي السَّاعَةِ ١١ صَبَاحًا...<br><br>لِعِلَاجِ أَوْجَاعِ الْكَتِفِ وَالظَّهْرِ</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL57.md">Transkripsi lengkap hlm. 57</a></div></section>
+<h2 class="section-title">Halaman cetak 58 — wafaq</h2><section class="panel"><header class="panel-head"><h3>طِلَسْمٌ لِلْمَحَبَّةِ</h3><span class="badge">وَفْقٌ ٣×٣</span></header><div class="panel-body"><img src="assets/asrar-page58-source.jpg" alt="Pindai halaman cetak 58 dengan wafaq tiga kali tiga" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Angka sel disalin dari kanan ke kiri. Kata ودود berulang pada garis sekeliling; goresan lainnya tidak ditafsirkan.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL58.md">Transkripsi lengkap hlm. 58</a></div></section>
+<h2 class="section-title">Halaman cetak 62–63 — sampel dan gap</h2><section class="panel"><header class="panel-head"><h3>Halaman 62 · pindai tidak tersedia</h3><span class="badge">GAP</span></header><div class="panel-body"><div class="commentary">Lompatan pindai dari folio 61 ke 63; daftar biji di halaman 63 kehilangan anteceden, sehingga tidak direka.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL62.md">Status hlm. 62</a></div></section><section class="panel"><header class="panel-head"><h3>صفحة 63 · لِجَلْبِ الْغَائِبِ</h3><span class="badge">نَصٌّ · تَنْبِيهٌ</span></header><div class="panel-body"><div class="arabic" lang="ar">تَقْرَأُ سُورَةَ يٰس وَأَنْتَ عَلَى سَطْحِ الْمَنْزِلِ، ثُمَّ تَسْجُدُ وَتَقُولُ (١٠٠٠) مَرَّةً:<br>«سُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ تُرْجَعُونَ».</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL63.md">Transkripsi lengkap hlm. 63</a></div></section>
+<h2 class="section-title">Halaman cetak 64–65 — sampel/rajah</h2><section class="panel"><header class="panel-head"><h3>Halaman 64 · لِلزَّوَاجِ أَوْ لِلْإِنْجَابِ</h3><span class="badge">DOA · KOLASI</span></header><div class="panel-body"><div class="arabic" lang="ar">فِي آخِرِ جُمُعَةٍ مِنْ شَهْرِ رَمَضَانَ الْمُبَارَكِ... ثُمَّ تَسْجُدُ وَتَقُولُ: ﴿رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ﴾</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL64.md">Transkripsi lengkap hlm. 64</a></div></section><section class="panel"><header class="panel-head"><h3>Halaman 65 · طِلَسْمٌ لِلرِّزْقِ</h3><span class="badge">FACSIMILE · آيَاتٌ</span></header><div class="panel-body"><img src="assets/asrar-page65-source.jpg" alt="Pindai halaman 65 berisi ayat dan rajah" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Ayat dan bentuk gambar disalin sebagai sumber; simbol tangan di dalam bentuk geometris tidak diberi makna spekulatif.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL65.md">Transkripsi lengkap hlm. 65</a></div></section>
+<h2 class="section-title">Halaman cetak 66–67 — rajah dan khatim</h2><section class="panel"><header class="panel-head"><h3>Halaman 66 · خَاتَمٌ لِإِزَالَةِ السِّحْرِ</h3><span class="badge">FACSIMILE</span></header><div class="panel-body"><img src="assets/asrar-page66-source.jpg" alt="Pindai halaman 66 berisi khatim dan bacaan" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Baris simbolik dan kata-kata khatim yang belum pasti dipertahankan sebagai samar dalam transkripsi.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL66.md">Transkripsi lengkap hlm. 66</a></div></section><section class="panel"><header class="panel-head"><h3>Halaman 67 · طِلَسْمٌ لِلْمَحَبَّةِ</h3><span class="badge">وَفْقٌ ٣×٣</span></header><div class="panel-body"><img src="assets/asrar-page67-source.jpg" alt="Pindai halaman 67 dengan kisi angka dan tulisan tangan" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Angka pada sel atas-tengah samar; tidak ditentukan dengan pola angka. Tulisan tangan dipisahkan dari teks cetak.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL67.md">Transkripsi lengkap hlm. 67</a></div></section>
+<h2 class="section-title">Halaman cetak 68–71 — sampel dan rajah</h2>
+<section class="panel"><header class="panel-head"><h3>Halaman 68 · لِلرِّزْقِ وَعِلَاجُ الْقَرْحَةِ</h3><span class="badge">نَصٌّ · تَنْبِيهٌ</span></header><div class="panel-body"><div class="arabic" lang="ar">لِلرِّزْقِ · عِلَاجُ الْقَرْحَةِ</div><div class="commentary" style="margin-top:14px">Resep konsumsi dicatat sebagai teks historis, bukan rekomendasi medis.</div><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL68.md">Transkripsi lengkap hlm. 68</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 68</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 68
+
+&gt; Peringatan: halaman ini memuat resep konsumsi untuk ulkus/“qarḥah”. Klaim tidak diverifikasi; isi ini bukan saran medis dan tidak menggantikan evaluasi profesional.
+
+## لِلرِّزْقِ
+
+### Arab bertashkil
+
+تُكْتَبُ عَلَى وَرَقَةٍ بِالزَّعْفَرَانِ قَبْلَ صَلَاةِ الظُّهْرِ:
+
+«يَا اللهُ يَا اللهُ يَا اللهُ، يَا حَيُّ يَا قَيُّومُ، يَا حَيُّ يَا قَيُّومُ، يَا حَيُّ يَا قَيُّومُ، يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، أَسْأَلُكَ بِاسْمِكَ الْأَعْظَمِ أَنْ تَرْزُقَنِي رِزْقًا حَلَالًا طَيِّبًا بِرَحْمَتِكَ الْوَاسِعَةِ، يَا ذَا الْمَعْرُوفِ الَّذِي لَا يَنْقَطِعُ أَبَدًا وَلَا أُحْصِيهِ عَدَدًا».
+
+## عِلَاجُ الْقَرْحَةِ
+
+يُطْبَخُ مُخُّ الْخَرُوفِ طَبْخًا غَيْرَ كَامِلٍ (لِلنِّصْفِ)، بَعْدَهَا يُخْلَطُ مَعَهُ زَيْتُ الزَّيْتُونِ، ثُمَّ يُؤْكَلُ بَعْدَ الِامْتِنَاعِ عَنِ الْأَكْلِ لِمُدَّةِ (٣) سَاعَاتٍ. ثُمَّ يُخْلَطُ اللُّبُّ الْمَوْجُودُ فِي بَطْنِ الرُّمَّانِ مَعَ عَصِيرِ الْمَوْزِ وَيُؤْكَلُ. يُكَرَّرُ هٰذَا الْعَمَلُ سَبْعَةَ أَيَّامٍ.
+
+### Transliterasi waṣl
+
+Tuktabu ʿalā waraqatin biz-zaʿfarāni qabla ṣalāti aẓ-ẓuhri: “Yā Allāhu yā Allāhu yā Allāhu, yā ḥayyu yā qayyūmu” (3 marrātin), “yā dhal-jalāli wal-ikrāmi” (3 marrātin), asʾaluka bismika al-aʿẓami an tarzuqanī rizqan ḥalālan ṭayyiban biraḥmatika al-wāsiʿati, yā dhal-maʿrūfi alladhī lā yanqaṭiʿu abadan wa-lā uḥṣīhi ʿadadan.
+
+ʿIlāju al-qarḥati: yuṭbakhu mukhu al-kharūfi ṭabkhan ghayra kāmilin (lin-niṣfi), baʿdahā yukhlatu maʿahu zaytu az-zaytūni, thumma yuʾkalu baʿda al-imtināʿi ʿani al-akli limuddati (3) sāʿātin. Thumma yukhlatu al-lubbu al-mawjūdu fī baṭni ar-rummāni maʿa ʿaṣīri al-mawzi wa-yuʾkalu. Yukarraru hādhā al-ʿamalu sabʿata ayyāmin.
+
+### Terjemahan
+
+**Untuk rezeki.** Tulislah dengan za‘faran pada kertas sebelum salat Zuhur rangkaian seruan “Ya Allah” tiga kali, “Wahai Yang Maha Hidup, wahai Yang Maha Menegakkan” tiga kali, dan “Wahai Pemilik keagungan dan kemuliaan” tiga kali. Lanjutkan dengan permohonan rezeki halal dan baik melalui rahmat Allah yang luas.
+
+**Untuk ulkus/luka.** Sumber menyebut memasak otak domba hingga setengah matang, mencampurkannya dengan minyak zaitun, lalu memakannya setelah tidak makan selama tiga jam. Berikutnya campurkan bagian dalam buah delima dengan jus pisang dan makan; ulangi selama tujuh hari.
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٦٨ (68)**.
+- Bacaan bahan **مخ الخروف** tampak sebagai “otak domba”; dapat pula memerlukan kolasi lebih tajam pada huruf tengah. Dipertahankan sebagai bacaan visual berkepastian menengah.
+- Ungkapan **اللب الموجود في بطن الرمان** diterjemahkan literal “bagian dalam/biji yang terdapat di dalam delima”; bukan identifikasi bagian botani pasti.
+- Takaran makanan tidak dicantumkan. Resep tidak diverifikasi dan tidak direkomendasikan.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 69 · جِدَارٌ وَرَسْمٌ دَائِرِيٌّ</h3><span class="badge">FACSIMILE</span></header><div class="panel-body"><img src="assets/asrar-page69-source.jpg" alt="Pindai halaman 69 dengan tulisan melingkar" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Instruksi cetak dipisahkan dari rajah melingkar; tulisan tangan tidak direka sebagai bacaan kata.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL69.md">Transkripsi lengkap hlm. 69</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 69</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 69
+
+## طِلَسْمٌ فَعَّالٌ وَمُجَرَّبٌ لِلرِّزْقِ
+
+### Arab bertashkil
+
+وَهُوَ طِلَسْمٌ قَوِيٌّ جِدًّا، تَكْتُبُهُ عَلَى إِحْدَى جُدْرَانِ الْمَنْزِلِ فِي مَكَانٍ غَيْرِ مَرْئِيٍّ.
+
+&gt; **الطِّلَسْمُ الْخَطِّيُّ الدَّائِرِيُّ:** [أَحْرُفٌ مُفَرَّقَةٌ مُتَشَابِكَةٌ مُكَوَّنَةٌ فِي أَسْطُرٍ دَائِرِيَّةٍ؛ لَا تُكَوِّنُ كَلِمَاتٍ مُتَّصِلَةً مَقْرُوءَةً بِوُضُوحٍ، فَلَا تُضْبَطُ أَوْ تُفَسَّرُ تَخْمِينًا].
+
+### Transliterasi waṣl
+
+Wa-huwa ṭilasmun qawiyyun jiddan, taktubuhu ʿalā iḥdā judrāni al-manzili fī makānin ghayri marʾiyyin.
+
+Aṭ-ṭilasmu al-khaṭṭiyyu ad-dāʾiriyyu: [aḥrufun mufarraqatun mutashābikatun mukawwanatun fī asṭurin dāʾiriyyatin; lā tukawwinu kalimātin muttaṣilatan maqrūʾatan bi-wuḍūḥ, fa-lā tuḍbaṭu aw tufassaru takhmīnan].
+
+### Terjemahan
+
+**Jimat yang diklaim sangat ampuh dan teruji untuk rezeki.** Tulislah pada salah satu dinding rumah, di tempat yang tidak terlihat.
+
+Bagian tengah halaman berisi rangkaian huruf lepas yang ditulis melingkar. Huruf-huruf itu tidak disalin sebagai kata-kata karena tidak terbaca utuh dan jelas.
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٦٩ (69)**.
+- Matan cetak terdiri dari satu kalimat instruksi; seluruh bagian grafis selanjutnya adalah tulisan tangan/rajah berbentuk lingkaran.
+- Tulisan lingkar tidak ditashkilkan atau ditransliterasikan secara spekulatif. Gunakan facsimile panel untuk melihat bentuk aslinya.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 70 · جدول سورة النصر</h3><span class="badge">١٠×٩ · PINDAI</span></header><div class="panel-body"><img src="assets/asrar-page70-source.jpg" alt="Pindai halaman 70 dengan tabel kata Surah an-Nasr" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Semua 90 sel tabel ditranskripsikan per baris dari kanan ke kiri dalam berkas lengkap; citra asli dipertahankan.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL70.md">Transkripsi lengkap hlm. 70</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 70</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 70
+
+## لِجَلْبِ الرِّزْقِ مُجَرَّبٌ وَفَعَّالٌ
+
+### Arab bertashkil
+
+يُكْتَبُ بِالزَّعْفَرَانِ عَلَى وَرَقَةٍ وَيُوضَعُ فِي الْمَنْزِلِ.
+
+### الجدول (١٠ صفوف × ٩ خانات؛ كل صف يُقرأ من اليمين إلى اليسار)
+
+| الصف | ١ | ٢ | ٣ | ٤ | ٥ | ٦ | ٧ | ٨ | ٩ |
+|---|---|---|---|---|---|---|---|---|---|
+| ١ | إِذَا | جَاءَ | نَصْرُ | اللهِ | وَالْفَتْحُ | وَرَأَيْتَ | النَّاسَ | يَدْخُلُونَ | فِي دِينٍ |
+| ٢ | جَاءَ | نَصْرُ | اللهِ | وَالْفَتْحُ | وَرَأَيْتَ | النَّاسَ | يَدْخُلُونَ | فِي دِينٍ | اللهِ |
+| ٣ | نَصْرُ | اللهِ | وَالْفَتْحُ | وَرَأَيْتَ | النَّاسَ | يَدْخُلُونَ | فِي دِينٍ | اللهِ | أَفْوَاجًا |
+| ٤ | اللهُ | وَالْفَتْحُ | وَرَأَيْتَ | النَّاسَ | يَدْخُلُونَ | فِي دِينٍ | اللهِ | أَفْوَاجًا | فَسَبِّحْ |
+| ٥ | وَالْفَتْحُ | وَرَأَيْتَ | النَّاسَ | يَدْخُلُونَ | فِي دِينٍ | اللهِ | أَفْوَاجًا | فَسَبِّحْ | بِحَمْدِ |
+| ٦ | وَرَأَيْتَ | النَّاسَ | يَدْخُلُونَ | فِي دِينٍ | اللهِ | أَفْوَاجًا | فَسَبِّحْ | بِحَمْدِ | رَبِّكَ |
+| ٧ | النَّاسَ | يَدْخُلُونَ | فِي دِينٍ | اللهِ | أَفْوَاجًا | فَسَبِّحْ | بِحَمْدِ | رَبِّكَ | وَاسْتَغْفِرْهُ |
+| ٨ | يَدْخُلُونَ | فِي دِينٍ | اللهِ | أَفْوَاجًا | فَسَبِّحْ | بِحَمْدِ | رَبِّكَ | وَاسْتَغْفِرْهُ | إِنَّهُ |
+| ٩ | فِي دِينٍ | اللهِ | أَفْوَاجًا | فَسَبِّحْ | بِحَمْدِ | رَبِّكَ | وَاسْتَغْفِرْهُ | إِنَّهُ | كَانَ |
+| ١٠ | اللهِ | أَفْوَاجًا | فَسَبِّحْ | بِحَمْدِ | رَبِّكَ | وَاسْتَغْفِرْهُ | إِنَّهُ | كَانَ | تَوَّابًا |
+
+### Transliterasi waṣl
+
+Yuktabu biz-zaʿfarāni ʿalā waraqatin wa-yūḍaʿu fil-manzili.
+
+Idhā jāʾa naṣru Allāhi wal-fatḥ, wa-raʾayta an-nāsa yadkhulūna fī dīni Allāhi afwājan, fa-sabbiḥ bi-ḥamdi rabbika wastaghfirhu, innahu kāna tawwābā.
+
+### Terjemahan
+
+**Untuk memperoleh rezeki, diklaim teruji dan efektif.** Tulislah dengan za‘faran pada selembar kertas dan letakkan di rumah.
+
+Tabel mengulang rangkaian kata Surah an-Naṣr secara beruntun. Makna ayatnya: “Apabila pertolongan Allah dan kemenangan telah datang, dan engkau melihat manusia berbondong-bondong masuk agama Allah, maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia Maha Penerima tobat.”
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٧٠ (70)**.
+- Kisi terdiri dari **10 baris × 9 kolom** (90 sel), dibaca kanan ke kiri. Seluruh entri mengikuti urutan kata yang tercetak; tidak ada sel kosong.
+- Bacaan adalah rangkaian kata QS an-Naṣr 110:1–3, ditata secara berulang/bergeser dalam kisi. Harakat ditambahkan untuk keterbacaan, bukan bagian dari cetak.
+- Tak ada jumlah angka sel yang perlu dikonfirmasi editorial.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 71 · طِلَسْمٌ وَخَاتَمٌ</h3><span class="badge">FACSIMILE · تنبيه</span></header><div class="panel-body"><img src="assets/asrar-page71-source.jpg" alt="Pindai halaman 71 dengan rajah tangan" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Rajah tidak dibaca ulang secara spekulatif. Tindakan pembakaran berisiko dan ditampilkan hanya sebagai teks historis.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL71.md">Transkripsi lengkap hlm. 71</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 71</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 71
+
+&gt; Peringatan: instruksi membakar kain yang dicelup minyak dan membaca di kamar mandi berisiko kebakaran/paparan asap. Dokumentasi ini bukan anjuran.
+
+## طِلَسْمٌ لِطَرْدِ التَّابِعَةِ وَعِلَاجِ دَاءِ الثَّعْلَبِ وَالْبَهَقِ
+
+### Arab bertashkil
+
+يُكْتَبُ هٰذَا الطِّلَسْمُ عَلَى قِطْعَةِ قُمَاشٍ حَمْرَاءَ اللَّوْنِ، ثُمَّ تُغَطَّسُ بِالنَّفْطِ الْأَسْوَدِ وَتُحْرَقُ وَقْتَ الْمَغْرِبِ، مَكَانَ الْعَمَلِ الْحَمَّامُ. بَعْدَ الْانْتِهَاءِ تُقْرَأُ سُورَةُ يٰس بِنِيَّةِ الشِّفَاءِ. يُكَرَّرُ هٰذَا الْعَمَلُ (٧) أَيَّامٍ.
+
+&gt; **الرَّسْمُ الْيَدَوِيُّ:** [خَاتَمٌ مُرَبَّعٌ ذُو خُطُوطٍ وَكَلِمَاتٍ يَدَوِيَّةٍ؛ بَعْضُ عِبَارَاتِهِ تَظْهَرُ مِنْهَا كَلِمَاتٌ مِثْلَ «تَوَكَّلُوا…»، وَلَكِنَّ النَّصَّ الْمُتَّصِلَ غَيْرُ مَقْرُوءٍ بِثِقَةٍ].
+
+### Transliterasi waṣl
+
+Yuktabu hādhā aṭ-ṭilasmu ʿalā qiṭʿati qimāshin ḥamrāʾi al-lawni, thumma tughaṭṭasu bin-nafṭi al-aswadi wa-tuḥraqu waqt al-maghribi; makānu al-ʿamali al-ḥammāmu. Baʿda al-intihāʾi tuqraʾu sūratu Yā-Sīn bi-niyyati ash-shifāʾi. Yukarraru hādhā al-ʿamalu (7) ayyāmin.
+
+Ar-rasmu al-yadawiyyu: [khātimun murabbaʿun dhū khuṭūṭin wa-kalimātin yadawiyyatin; baʿḍu ʿibārātihī taẓharu minhā kalimātun mithlu “tawakkalū…”, wa-lākina an-naṣṣa al-muttaṣila ghayru maqrūʾin bi-thiqatin].
+
+### Terjemahan
+
+**Jimat untuk mengusir tābiʿah dan menangani dāʾ al-thaʿlab serta vitiligo.** Tulislah jimat ini pada sepotong kain merah, celupkan ke minyak hitam, lalu bakar pada waktu Magrib; tempat pelaksanaan disebut kamar mandi. Setelah selesai, bacalah Surah Yasin dengan niat kesembuhan. Ulangi selama tujuh hari.
+
+Rajah tangan berbentuk persegi mengisi bagian bawah halaman. Beberapa kata terpisah dapat tampak, tetapi bacaan utuh belum dapat dipastikan dan tidak direkonstruksi.
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٧١ (71)**.
+- Judul memuat **داء الثعلب** dan **البهاق**; diterjemahkan literal sebagai istilah penyakit/kelainan, tanpa diagnosis modern terhadap dāʾ al-thaʿlab.
+- Frasa **مكان العمل الحمام** tampak dalam teks cetak dan dipertahankan, meski sintaks janggal; tidak direka menjadi instruksi lain.
+- Rajah dan baris tangan perlu dipertahankan sebagai facsimile; tidak ada angka wafaq kosong yang bisa dipastikan.
+</pre></details></div></section>
+<h2 class="section-title">Daftar isi akhir kitab — halaman cetak 72–79</h2>
+<section class="panel"><header class="panel-head"><h3>Halaman 72 · tidak ada pindai</h3><span class="badge">GAP</span></header><div class="panel-body"><p class="commentary">Urutan gambar melompat dari folio 71 ke daftar isi folio 73; isi folio 72 tidak direka.</p><a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL72.md">Status hlm. 72</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 72</summary><pre dir="auto"># Halaman cetak 72 — pindai tidak tersedia
+
+## Status kolasi
+
+Tidak ditemukan citra dengan folio cetak ٧٢ (72) pada folder pindai. Urutan file sesudah halaman 71 menampilkan halaman daftar isi bernomor 73. Karena itu, isi halaman 72 tidak direka.
+
+**Keterangan:** `[pindai halaman 72 tidak tersedia dalam kumpulan gambar]`.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 73 · فهرس (١)</h3><span class="badge">DAFTAR ISI</span></header><div class="panel-body"><p>Pengantar; jimat menghilangkan gangguan; kasih sayang; kekayaan; keturunan; rezeki; utang; Umm al-Ṣibyān; sihir. Rujukan isi 5–15.</p><details class="full-transcript"><summary>Lihat facsimile · folio 73</summary><img src="assets/asrar-page73-toc.jpg" alt="Facsimile daftar isi folio cetak 73" style="display:block;width:min(100%,680px);height:auto;margin:12px auto;border:1px solid #d8bf78;border-radius:8px"></details>
+<a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL73.md">Transkripsi lengkap hlm. 73</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 73</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 73
+
+## الْفِهْرِسُ
+
+### Arab bertashkil
+
+الْمُقَدِّمَةُ ........................................ (٥)
+
+طِلَسْمٌ فَعَّالٌ وَمُجَرَّبٌ لِإِزَالَةِ الْعَارِضِ ............. (٧)
+
+لِلْمَوَدَّةِ وَالْمَحَبَّةِ بَيْنَ النَّاسِ ....................... (٩)
+
+مُجَرَّبَةٌ فَعَّالَةٌ جِدًّا لِلْعِزَّةِ عَلَى الظَّالِمِ ........... (٩)
+
+لِلْغِنَى ................................................... (١٠)
+
+لِرَفْعِ الْفَقْرِ (مُجَرَّبٌ) ................................ (١٠)
+
+حِجَابٌ لِلْإِنْجَابِ ....................................... (١١)
+
+لِلرِّزْقِ .................................................. (١٢)
+
+لِقَضَاءِ الدَّيْنِ ......................................... (١٢)
+
+طِلَسْمٌ لِطَرْدِ أُمِّ الصِّبْيَانِ ........................... (١٣)
+
+لِإِبْطَالِ السِّحْرِ وَالْعَمَلِ .............................. (١٥)
+
+### Transliterasi waṣl
+
+Al-fihrisu. Al-muqaddimatu (5); ṭilasmun faʿʿālun wa-mujarrabun li-izālati al-ʿāriḍi (7); lil-mawaddati wal-maḥabbati bayna an-nāsi (9); mujarrabatun faʿʿālatun jiddan lil-ʿizzati ʿalā aẓ-ẓālimi (9); lil-ghinā (10); li-rafʿi al-faqri (mujarrabun) (10); ḥijābun lil-injābi (11); lir-rizqi (12); li-qaḍāʾi ad-dayni (12); ṭilasmun li-ṭardi ummi aṣ-ṣibyāni (13); li-ibṭāli as-siḥri wal-ʿamali (15).
+
+### Terjemahan
+
+**Daftar isi.** Pendahuluan (5); jimat yang diklaim ampuh dan teruji untuk menghilangkan gangguan (7); untuk kasih sayang di antara manusia (9); amalan yang diklaim sangat ampuh untuk memperoleh kemuliaan di hadapan orang zalim (9); untuk kekayaan (10); menghilangkan kemiskinan—diklaim teruji (10); jimat untuk memperoleh keturunan (11); untuk rezeki (12); melunasi utang (12); jimat untuk mengusir Umm al-Ṣibyān (13); membatalkan sihir dan pekerjaan sihir (15).
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٧٣ (73)**; halaman 72 tidak ditemukan pada inventaris pindai.
+- Nomor halaman dalam daftar isi adalah nomor rujukan isi yang tercetak, bukan urutan pindai. Dipertahankan sebagaimana sumber.
+- Tashkīl untuk frasa indeks ditambahkan secara editorial. Klaim “ampuh/teruji” adalah redaksi sumber, bukan validasi khasiat.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 74 · فهرس (٢)</h3><span class="badge">DAFTAR ISI</span></header><div class="panel-body"><p>Memuat entri isi halaman 15–25, termasuk penanganan infertilitas, gangguan, dan rezeki.</p><details class="full-transcript"><summary>Lihat facsimile · folio 74</summary><img src="assets/asrar-page74-toc.jpg" alt="Facsimile daftar isi folio cetak 74" style="display:block;width:min(100%,680px);height:auto;margin:12px auto;border:1px solid #d8bf78;border-radius:8px"></details>
+<a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL74.md">Transkripsi lengkap hlm. 74</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 74</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 74
+
+## الْفِهْرِسُ (تَتِمَّةٌ)
+
+### Arab bertashkil
+
+إِزَالَةُ السِّحْرِ وَتَسْهِيلُ أَمْرِ الزَّوَاجِ (١٥)
+
+عِلَاجٌ لِلْعُقْمِ وَانْسِدَادِ قَنَوَاتِ الرَّحِمِ (١٦)
+
+حِجَابٌ لِلتَّابِعَةِ وَالْأَحْلَامِ الْمُزْعِجَةِ (١٧)
+
+صَلَوَاتٌ لِقَضَاءِ الْحَاجَاتِ (١٨)
+
+بُخُورٌ لِمَنْعِ السِّحْرِ وَالْعَارِضِ (١٩)
+
+عِلَاجُ الْقَالُونِ (٢٠)
+
+قِسْمٌ عَظِيمٌ لِلرِّزْقِ (٢١)
+
+طِلَسْمٌ لِلْحُبِّ وَالْعِشْقِ (٢٢)
+
+لِلزَّوَاجِ (٢٣)
+
+لِمُعَالَجَةِ ضَعْفِ الْمَشْيِ عِنْدَ الْأَطْفَالِ (٢٣)
+
+لِلرِّزْقِ مُجَرَّبٌ (٢٣)
+
+لِقَضَاءِ الْحَاجَةِ وَالتَّغْيِيرِ مِنْ حَالٍ إِلَى حَالٍ (٢٤)
+
+لِلرِّزْقِ (٢٤)
+
+لِعِلَاجِ التَّعَبِ (٢٥)
+
+### Transliterasi waṣl
+
+Al-fihrisu (tatimmatun): izālatu as-siḥri wa-tashīlu amri az-zawāji (15); ʿilājun lil-ʿuqmi wa-insidādi qanawāti ar-raḥimi (16); ḥijābun lit-tābiʿati wal-aḥlāmi al-muzʿijati (17); ṣalawātun li-qaḍāʾi al-ḥājāti (18); bukhūrun limanʿi as-siḥri wal-ʿāriḍi (19); ʿilāju al-qālūni (20); qismun ʿaẓīmun lir-rizqi (21); ṭilasmun lil-ḥubbi wal-ʿishqi (22); liz-zawāji (23); li-muʿālajati ḍaʿfi al-mashyi ʿinda al-aṭfāli (23); lir-rizqi mujarrabun (23); li-qaḍāʾi al-ḥājati wat-taghyīri min ḥālin ilā ḥālin (24); lir-rizqi (24); li-ʿilāji at-taʿabi (25).
+
+### Terjemahan
+
+Daftar isi halaman ini mencantumkan: menghilangkan sihir dan memudahkan urusan pernikahan (15); infertilitas dan sumbatan saluran rahim (16); jimat untuk tābiʿah dan mimpi yang mengganggu (17); selawat untuk memenuhi kebutuhan (18); dupa untuk mencegah sihir/gangguan (19); “pengobatan al-qālūn” (20; istilah tidak teridentifikasi pasti); bagian/ritual besar untuk rezeki (21); jimat cinta dan asmara (22); pernikahan (23); gangguan berjalan pada anak-anak (23); rezeki—diklaim teruji (23); pemenuhan hajat dan perubahan keadaan (24); rezeki (24); dan penanganan kelelahan (25).
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٧٤ (74)**; ini halaman daftar isi, bukan halaman isi utama.
+- Judul cetak **علاج القانون** ditranskripsikan sesuai tampilan; daftar isi tidak menyelesaikan ketidakpastian istilah yang juga muncul di isi.
+- Nomor dalam kurung adalah rujukan halaman isi yang dicetak. Tidak diubah mengikuti nomor berkas digital.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 75 · فهرس (٣)</h3><span class="badge">DAFTAR ISI</span></header><div class="panel-body"><p>Memuat entri isi halaman 25–34; beberapa judul berlanjut ke halaman berikutnya.</p><details class="full-transcript"><summary>Lihat facsimile · folio 75</summary><img src="assets/asrar-page75-toc.jpg" alt="Facsimile daftar isi folio cetak 75" style="display:block;width:min(100%,680px);height:auto;margin:12px auto;border:1px solid #d8bf78;border-radius:8px"></details>
+<a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL75.md">Transkripsi lengkap hlm. 75</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 75</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 75
+
+## الْفِهْرِسُ (تَتِمَّةٌ)
+
+### Arab bertashkil
+
+لِلشِّفَاءِ مِنَ الْأَمْرَاضِ (٢٥)
+
+طِلَسْمٌ لِلْمَحَبَّةِ (٢٦)
+
+لِلْحُصُولِ عَلَى الْعَمَلِ وَقَضَاءِ الْحَاجَةِ (٢٧)
+
+لِلشِّفَاءِ مِنَ الْأَمْرَاضِ (٢٧)
+
+بُخُورٌ لِمَنْعِ الْمَسِّ مِنَ الْجِنِّ وَالشَّيْطَانِ (٢٨)
+
+لِلرِّزْقِ (٢٩)
+
+طِلَسْمٌ لِطَرْدِ التَّابِعَةِ مُجَرَّبٌ وَقَوِيٌّ (٣٠)
+
+لِعِلَاجِ وَجَعِ الرَّأْسِ (٣١)
+
+عِلَاجُ أَوْجَاعِ الْأَرْجُلِ (٣١)
+
+لِإِبْطَالِ السِّحْرِ وَإِزَالَتِهِ (٣٢)
+
+خَاتَمٌ لِطَرْدِ الْعَارِضِ وَالسِّحْرِ وَالْهَوَاءِ فِي جِسْمِ الْإِنْسَانِ، وَهُوَ ذُو تَأْثِيرٍ فَعَّالٍ وَقَوِيٍّ وَمُجَرَّبٍ (٣٢)
+
+مُعَالَجَةُ الْعُقْمِ (٣٣)
+
+طِلَسْمٌ لِعَدَمِ النَّوْمِ عِنْدَ الْأَطْفَالِ (٣٤)
+
+### Transliterasi waṣl
+
+Al-fihrisu (tatimmatun): lish-shifāʾi mina al-amrāḍi (25); ṭilasmun lil-maḥabbati (26); lil-ḥuṣūli ʿalā al-ʿamali wa-qaḍāʾi al-ḥājati (27); lish-shifāʾi mina al-amrāḍi (27); bukhūrun limanʿi al-massi mina al-jinni wash-shayṭāni (28); lir-rizqi (29); ṭilasmun li-ṭardi at-tābiʿati mujarrabun wa-qawiyyun (30); li-ʿilāji wajʿi ar-raʾsi (31); ʿilāju awjāʿi al-arjuli (31); li-ibṭāli as-siḥri wa-izālatihi (32); khātimun li-ṭardi al-ʿāriḍi was-siḥri wal-hawāʾi fī jismi al-insāni (32); muʿājalatu al-ʿuqmi (33); ṭilasmun li-ʿadami an-nawmi ʿinda al-aṭfāli (34).
+
+### Terjemahan
+
+Daftar isi melanjutkan: kesembuhan dari penyakit (25); jimat kasih sayang (26); memperoleh pekerjaan dan pemenuhan hajat (27); kesembuhan dari penyakit (27); dupa untuk mencegah gangguan jin dan setan (28); rezeki (29); jimat untuk mengusir tābiʿah—diklaim teruji dan kuat (30); sakit kepala (31); sakit kaki (31); membatalkan dan menghilangkan sihir (32); khatim untuk mengusir gangguan/sihir dan “al-hawāʾ” di tubuh (32); infertilitas (33); serta jimat untuk kesulitan tidur pada anak-anak (34).
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٧٥ (75)**; halaman ini adalah daftar isi.
+- Judul **الهواء** dipertahankan literal karena maknanya tidak jelas pada konteks indeks.
+- Nomor rujukan diteruskan persis sebagaimana cetakan.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 76 · فهرس (٤)</h3><span class="badge">DAFTAR ISI</span></header><div class="panel-body"><p>Memuat daftar entri isi halaman 35–42.</p><details class="full-transcript"><summary>Lihat facsimile · folio 76</summary><img src="assets/asrar-page76-toc.jpg" alt="Facsimile daftar isi folio cetak 76" style="display:block;width:min(100%,680px);height:auto;margin:12px auto;border:1px solid #d8bf78;border-radius:8px"></details>
+<a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL76.md">Transkripsi lengkap hlm. 76</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 76</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 76
+
+## الْفِهْرِسُ (تَتِمَّةٌ)
+
+### Arab bertashkil
+
+لِإِبْعَادِ الشَّرِّ وَالْحَسَدِ وَالنَّفْسِ مِنَ الْمَنْزِلِ (٣٥)
+
+لِمَنْعِ تَسَاقُطِ الشَّعْرِ (٣٥)
+
+عِلَاجُ السُّكَّرِ (٣٦)
+
+لِعِلَاجِ أَوْجَاعِ الْأَرْجُلِ (٣٦)
+
+لِعِلَاجِ الْعُقْمِ عِنْدَ الرِّجَالِ فَعَّالٌ جِدًّا (٣٦)
+
+دُعَاءٌ عَلَى الظَّالِمِ (٣٧)
+
+لِعِلَاجِ كَثْرَةِ النَّوْمِ (٣٨)
+
+لِعِلَاجِ ضِيقِ النَّفَسِ (٣٨)
+
+عِلَاجٌ لِلْإِدْمَانِ (٣٨)
+
+طِلَسْمٌ لِعِلَاجِ الْإِدْمَانِ عَلَى الْمُخَدِّرَاتِ وَالْخَمْرِ وَالزِّنَا وَالْقِمَارِ (٣٩)
+
+لِرُجُوعِ الْغَائِبِ (٤١)
+
+لِلْحُصُولِ عَلَى فُرْصَةِ عَمَلٍ (٤١)
+
+لِعِلَاجِ الْمَرَضِ (٤٢)
+
+عِلَاجٌ لِدَاءِ الثَّعْلَبِ (٤٢)
+
+### Transliterasi waṣl
+
+Al-fihrisu (tatimmatun): li-ibʿādi ash-sharri wal-ḥasadi wan-nafsi mina al-manzili (35); li-manʿi tasāquṭi ash-shaʿri (35); ʿilāju as-sukkari (36); li-ʿilāji awjāʿi al-arjuli (36); li-ʿilāji al-ʿuqmi ʿinda ar-rijāli faʿʿālun jiddan (36); duʿāʾun ʿalā aẓ-ẓālima (37); li-ʿilāji kathrati an-nawmi (38); li-ʿilāji ḍīqi an-nafasi (38); ʿilājun lil-idmāni (38); ṭilasmun li-ʿilāji al-idmāni ʿalā al-mukhaddirāti wal-khamri waz-zinā wal-qimāri (39); li-rujūʿi al-ghāʾibi (41); lil-ḥuṣūli ʿalā furṣati ʿamalin (41); li-ʿilāji al-maraḍi (42); ʿilājun li-dāʾi ath-thaʿlabi (42).
+
+### Terjemahan
+
+Daftar isi melanjutkan dengan: menjauhkan keburukan, hasad, dan “nafs” dari rumah (35); mencegah rambut rontok (35); diabetes (36); nyeri kaki (36); infertilitas pada laki-laki—diklaim sangat ampuh (36); doa terhadap orang zalim (37); terlalu banyak tidur (38); sesak napas (38); kecanduan (38); jimat untuk kecanduan narkotika, alkohol, zina, dan perjudian (39); kembalinya orang yang pergi/hilang (41); memperoleh kesempatan kerja (41); penanganan penyakit (42); dan dāʾ al-thaʿlab (42).
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٧٦ (76)**; daftar isi.
+- Entri **علاج السكر** berarti penanganan “gula/diabetes” dalam terminologi modern yang mungkin dimaksud; diterjemahkan sebagai diabetes dengan catatan bahwa indeks tidak memberi definisi medis.
+- Entri **دعاء على الظالم** secara literal “doa terhadap orang zalim”; tidak dilembutkan menjadi doa untuk orang zalim.
+- Rujukan halaman dicatat seperti cetakan; halaman 40 tidak tersedia dalam pindai.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 77 · فهرس (٥)</h3><span class="badge">DAFTAR ISI</span></header><div class="panel-body"><p>Memuat daftar entri isi halaman 43–53.</p><details class="full-transcript"><summary>Lihat facsimile · folio 77</summary><img src="assets/asrar-page77-toc.jpg" alt="Facsimile daftar isi folio cetak 77" style="display:block;width:min(100%,680px);height:auto;margin:12px auto;border:1px solid #d8bf78;border-radius:8px"></details>
+<a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL77.md">Transkripsi lengkap hlm. 77</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 77</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 77
+
+## الْفِهْرِسُ (تَتِمَّةٌ)
+
+### Arab bertashkil
+
+لِعِلَاجِ الْحَسَدِ (٤٣)
+
+عِلَاجُ أَوْجَاعِ الْأَسْنَانِ وَاللِّثَةِ (٤٣)
+
+طِلَسْمُ جَلْبٍ وَمَحَبَّةٍ عَظِيمٍ (٤٤)
+
+خَاتَمٌ لِحِفْظِ الدَّارِ وَالسَّيَّارَةِ مِنَ الشَّرِّ وَالْحَوَادِثِ (٤٥)
+
+لِعِلَاجِ الْأَكْزِيمَا وَحَبِّ الشَّبَابِ وَالصَّدَفِيَّةِ (٤٥)
+
+لِعِلَاجِ ضَعْفِ الْبَصَرِ (٤٦)
+
+لِلصُّلْحِ بَيْنَ الزَّوْجَيْنِ الْمُتَخَاصِمَيْنِ (٤٦)
+
+عِلَاجُ آلَامِ الْأَكْتَافِ وَالرَّأْسِ (٤٧)
+
+طِلَسْمٌ لِلْعِزِّ وَالْجَاهِ (٤٩)
+
+لِطَرْدِ السِّحْرِ وَالْجِنِّ (٥٠)
+
+لِطَرْدِ الْجِنِّ (٥٠)
+
+لَفَكِّ الْقَيْدِ (٥١)
+
+طِلَسْمٌ لِعِلَاجِ الصَّرْعِ (٥٢)
+
+عِلَاجُ اضْطِرَابِ الْهُرْمُونَاتِ وَالْغُدَدِ اللِّمْفَاوِيَّةِ (٥٣)
+
+### Transliterasi waṣl
+
+Al-fihrisu (tatimmatun): li-ʿilāji al-ḥasadi (43); ʿilāju awjāʿi al-asnāni wal-lithati (43); ṭilasmu jalbin wa-maḥabbatin ʿaẓīmin (44); khātimun li-ḥifẓi ad-dāri was-sayyārati mina ash-sharri wal-ḥawādithi (45); li-ʿilāji al-akzīmā wa-ḥabbi ash-shabābi wa-aṣ-ṣadafiyyati (45); li-ʿilāji ḍaʿfi al-baṣari (46); liṣ-ṣulḥi bayna az-zawjayni al-mutakhāṣimayni (46); ʿilāju ālāmi al-aktāfi war-raʾsi (47); ṭilasmun lil-ʿizzi wal-jāhi (49); li-ṭardi as-siḥri wal-jinni (50); li-ṭardi al-jinni (50); li-fakki al-qaydi (51); ṭilasmun li-ʿilāji aṣ-ṣarʿi (52); ʿilāju iḍṭirābi al-hurmūnāti wal-ghudadi al-limfāwiyyati (53).
+
+### Terjemahan
+
+Daftar isi memuat: hasad (43); sakit gigi dan gusi (43); jimat untuk menarik dan menumbuhkan kasih sayang (44); khatim untuk melindungi rumah dan mobil dari keburukan/kecelakaan (45); eksim, jerawat, psoriasis (45); kelemahan penglihatan (46); mendamaikan pasangan yang bertengkar (46); nyeri bahu dan kepala (47); kemuliaan/kedudukan (49); mengusir sihir dan jin (50); mengusir jin (50); membuka ikatan (51); jimat untuk epilepsi/kejang (52); serta gangguan hormon dan kelenjar limfatik (53).
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٧٧ (77)**; halaman daftar isi.
+- Penomoran menunjuk folio isi; sejumlah halaman perantara tidak tersedia dalam pindai yang ada. Daftar isi tetap disalin tanpa mengisi gap.
+- Istilah medis merupakan judul sumber dan tidak dinilai sebagai diagnosis.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 78 · فهرس (٦)</h3><span class="badge">DAFTAR ISI</span></header><div class="panel-body"><p>Memuat daftar entri isi halaman 53–62.</p><details class="full-transcript"><summary>Lihat facsimile · folio 78</summary><img src="assets/asrar-page78-toc.jpg" alt="Facsimile daftar isi folio cetak 78" style="display:block;width:min(100%,680px);height:auto;margin:12px auto;border:1px solid #d8bf78;border-radius:8px"></details>
+<a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL78.md">Transkripsi lengkap hlm. 78</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 78</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 78
+
+## الْفِهْرِسُ (تَتِمَّةٌ)
+
+### Arab bertashkil
+
+لِتَحْسِينِ الْحَالِ (٥٣)
+
+لِإِزَالَةِ الْعَارِضِ وَالْجِنِّ، وَهُوَ فَعَّالٌ جِدًّا (٥٤)
+
+طِلَسْمٌ لِلْجَمْعِ بَيْنَ الْأَحِبَّةِ (٥٥)
+
+لِتَغْيِيرِ الْحَالِ فَعَّالَةٌ جِدًّا (٥٧)
+
+لِلْقَضَاءِ عَلَى السِّحْرِ وَالتَّابِعَةِ (٥٧)
+
+لِعِلَاجِ أَوْجَاعِ الْكَتِفِ وَالظَّهْرِ (٥٧)
+
+طِلَسْمٌ لِلْمَحَبَّةِ (٥٨)
+
+لِلسِّحْرِ وَالْجِنِّ فَعَّالٌ وَمُجَرَّبٌ (٥٩)
+
+لِلْعَارِضِ (٥٩)
+
+لِلِارْتِبَاطِ وَالزَّوَاجِ (٦٠)
+
+لِطَرْدِ الْقَرِينِ وَالتَّابِعَةِ (٦٠)
+
+لِلرِّزْقِ (٦١)
+
+لِلزَّوَاجِ (٦١)
+
+لِعِلَاجِ الْعُقْمِ وَانْسِدَادِ قَنَوَاتِ الرَّحِمِ عِنْدَ الْمَرْأَةِ (٦٢)
+
+### Transliterasi waṣl
+
+Al-fihrisu (tatimmatun): li-taḥsīni al-ḥāli (53); li-izālati al-ʿāriḍi wal-jinni, wa-huwa faʿʿālun jiddan (54); ṭilasmun lil-jamʿi bayna al-aḥibbati (55); li-taghyīri al-ḥāli faʿʿālatun jiddan (57); lil-qaḍāʾi ʿalā as-siḥri wat-tābiʿati (57); li-ʿilāji awjāʿi al-katifi waẓ-ẓahri (57); ṭilasmun lil-maḥabbati (58); lis-siḥri wal-jinni faʿʿālun wa-mujarrabun (59); lil-ʿāriḍi (59); lil-irtibāṭi waz-zawāji (60); li-ṭardi al-qarīni wat-tābiʿati (60); lir-rizqi (61); liz-zawāji (61); li-ʿilāji al-ʿuqmi wa-insidādi qanawāti ar-raḥimi ʿinda al-marʾati (62).
+
+### Terjemahan
+
+Daftar isi melanjutkan dengan: memperbaiki keadaan (53); menghilangkan gangguan dan jin—diklaim sangat ampuh (54); mempertemukan orang-orang yang saling mencintai (55); mengubah keadaan—diklaim sangat ampuh (57); menyingkirkan sihir dan tābiʿah (57); nyeri bahu dan punggung (57); jimat kasih sayang (58); sihir dan jin—diklaim efektif/teruji (59); gangguan (59); ikatan/pernikahan (60); mengusir qarīn dan tābiʿah (60); rezeki (61); pernikahan (61); infertilitas dan sumbatan saluran rahim pada perempuan (62).
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٧٨ (78)**; daftar isi.
+- Entri nomor 62 merujuk folio yang tidak tersedia sebagai pindai tersendiri dalam kumpulan ini.
+- Klaim “efektif/ampuh” dicatat sebagai redaksi indeks, bukan verifikasi khasiat.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Halaman 79 · آخر الفهرس</h3><span class="badge">الفوليُو الأخير</span></header><div class="panel-body"><p>Daftar isi berakhir dengan entri halaman 63–71. Folio ini merupakan halaman bernomor terakhir yang tampak pada pindai; citra sesudahnya adalah sampul belakang.</p><details class="full-transcript"><summary>Lihat facsimile · folio 79</summary><img src="assets/asrar-page79-toc.jpg" alt="Facsimile daftar isi folio cetak 79" style="display:block;width:min(100%,680px);height:auto;margin:12px auto;border:1px solid #d8bf78;border-radius:8px"></details>
+<a href="TRANSKRIPSI_ASRAR_RUHANIYYAH_HAL79.md">Transkripsi lengkap hlm. 79</a>
+<details class="full-transcript"><summary>Buka transkripsi lengkap · folio 79</summary><pre dir="auto"># Transkripsi dan terjemahan — halaman cetak 79
+
+## الْفِهْرِسُ (تَتِمَّةٌ وَآخِرُهُ)
+
+### Arab bertashكيل
+
+لِجَلْبِ الْغَائِبِ (٦٣)
+
+تَوَكُّلٌ لِتَحْسِينِ الْحَالِ مُهِمٌّ جِدًّا (٦٣)
+
+لِلزَّوَاجِ أَوْ لِلْإِنْجَابِ (٦٤)
+
+طِلَسْمٌ لِلرِّزْقِ (٦٥)
+
+خَاتَمٌ لِإِزَالَةِ السِّحْرِ (٦٦)
+
+طِلَسْمٌ لِلْمَحَبَّةِ (٦٧)
+
+لِلرِّزْقِ (٦٨)
+
+عِلَاجُ الْقَرْحَةِ (٦٨)
+
+طِلَسْمٌ فَعَّالٌ وَمُجَرَّبٌ لِلرِّزْقِ (٦٩)
+
+لِجَلْبِ الرِّزْقِ مُجَرَّبٌ وَفَعَّالٌ (٧٠)
+
+طِلَسْمٌ لِطَرْدِ التَّابِعَةِ وَعِلَاجِ دَاءِ الثَّعْلَبِ وَالْبَهَقِ (٧١)
+
+### Transliterasi waṣl
+
+Al-fihrisu (tatimmatun wa-ākhiruhu): li-jalbi al-ghāʾibi (63); tawakkulun li-taḥsīni al-ḥāli muhimm(un) jiddan (63); liz-zawāji aw lil-injābi (64); ṭilasmun lir-rizqi (65); khātimun li-izālati as-siḥri (66); ṭilasmun lil-maḥabbati (67); lir-rizqi (68); ʿilāju al-qarḥati (68); ṭilasmun faʿʿālun wa-mujarrabun lir-rizqi (69); li-jalbi ar-rizqi mujarrabun wa-faʿʿālun (70); ṭilasmun li-ṭardi at-tābiʿati wa-ʿilāji dāʾi ath-thaʿlabi wal-bahaqi (71).
+
+### Terjemahan
+
+Daftar isi terakhir memuat: mendatangkan orang yang pergi/hilang (63); tawakkal untuk memperbaiki keadaan—dianggap sangat penting (63); pernikahan atau memperoleh keturunan (64); jimat rezeki (65); khatim untuk menghilangkan sihir (66); jimat kasih sayang (67); rezeki (68); penanganan ulkus (68); jimat rezeki—diklaim ampuh dan teruji (69); mendatangkan rezeki—diklaim teruji dan efektif (70); jimat untuk mengusir tābiʿah dan menangani dāʾ al-thaʿlab serta vitiligo (71).
+
+### Catatan kolasi/editorial
+
+- Folio tercetak **٧٩ (79)**; daftar isi ini adalah halaman bernomor terakhir yang terlihat dalam pindai.
+- Citra berikutnya adalah sampul belakang, bukan folio isi bernomor. Halaman 72 tidak tampak dalam kumpulan pindai.
+- Kata **البهاق** dibaca *al-bahaq* (vitiligo/leukoderma) secara leksikal; bukan diagnosis pasien tertentu.
+- Nomor isi dikutip apa adanya; klaim khasiat dalam judul tetap merupakan redaksi indeks.
+</pre></details></div></section>
+<section class="panel"><header class="panel-head"><h3>Sampul belakang · tanpa folio</h3><span class="badge">FACSIMILE</span></header><div class="panel-body"><img src="assets/asrar-back-cover.jpg" alt="Pindai sampul belakang kitab" style="display:block;width:min(100%,680px);height:auto;margin:auto;border:1px solid #d8bf78;border-radius:8px"><p class="meta">Pindai terakhir dalam himpunan; bukan halaman isi bernomor.</p></div></section>
+<footer class="footer"><div class="ornament">✦ ━━━ ❖ ━━━ ✦</div><div class="smallcaps">Kajian filologi · rasm sumber dipertahankan · editorial tashkīl dan waṣl ditandai</div></footer>
+</main>
+</body></html>
