@@ -29,6 +29,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import json
 import re
 import sys
 from dataclasses import dataclass, field
@@ -37,6 +38,32 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_INPUT = ROOT / "al_qorin/AL_QORIN_123_BERSIH_HALAMAN.md"
 DEFAULT_OUTPUT = ROOT / "al_qorin/AL_QORIN_123_BERSIH_2_LAYER.md"
+
+# Photo-transcription override (audit foto asli, per user's absolute rule):
+# page number -> {Arab, Latin, Terjemahan, footnote} transcribed letter by
+# letter from the printed-page photographs in the original scan PDF
+# (Drive: "al qorin war riyadhah.pdf", SHA-256 ac5ec9fc...c5c1).  Arabic is
+# copied exactly as printed (no added harakat/editorial fixes); unclear
+# print is kept as-is and flagged in the one-line footnote.  Pages absent
+# from this file have not yet been photo-audited and keep the old bodies.
+FOTO_DATA_PATH = Path(__file__).with_name("al_qorin_foto_layer1.json")
+
+
+def _load_foto_corrections() -> dict[int, dict[str, str]]:
+    if not FOTO_DATA_PATH.exists():
+        return {}
+    raw = json.loads(FOTO_DATA_PATH.read_text(encoding="utf-8"))
+    out: dict[int, dict[str, str]] = {}
+    for key, value in raw.items():
+        page = int(key)
+        entry = {name: str(value.get(name, "")) for name in ("Arab", "Latin", "Terjemahan", "footnote")}
+        if not entry["Arab"] or not entry["Latin"] or not entry["Terjemahan"]:
+            raise AssertionError(f"foto correction for page {page} is incomplete")
+        out[page] = entry
+    return out
+
+
+FOTO_CORRECTIONS = _load_foto_corrections()
 
 UNIT_RE = re.compile(r"^##\s+(.+)$", flags=re.M)
 SECTION_RE = re.compile(r"^###\s+(.+)$", flags=re.M)
@@ -1015,9 +1042,17 @@ def build_markdown(source_text: str, stats: Stats) -> str:
         if unit.page == 58:
             latin = POLA_58_LATIN
             terjemahan = POLA_58_TERJEMAHAN
+        foto = FOTO_CORRECTIONS.get(unit.page)
+        if foto is not None:
+            arab = foto["Arab"]
+            latin = foto["Latin"]
+            terjemahan = foto["Terjemahan"]
         syarah_without_images, syarah_images = extract_syarah_images(unit.sections["4. Syarah"])
         stats.moved_syarah_images += len(syarah_images)
-        footnote = extract_footnote(syarah_without_images)
+        if foto is not None:
+            footnote = foto["footnote"] or None
+        else:
+            footnote = extract_footnote(syarah_without_images)
         if footnote:
             stats.footnotes += 1
 
@@ -1102,6 +1137,15 @@ def validate_output(source_text: str, output: str, stats: Stats) -> None:
     _, source_units = split_units(source_text)
     bodies = output_layer1_bodies(output)
     for unit in source_units:
+        foto = FOTO_CORRECTIONS.get(unit.page)
+        if foto is not None:
+            if bodies[(unit.page, "1. Arab")] != foto["Arab"]:
+                raise AssertionError(f"foto Arab body is not exact on page {unit.page}")
+            if bodies[(unit.page, "2. Latin")] != foto["Latin"]:
+                raise AssertionError(f"foto Latin body is not exact on page {unit.page}")
+            if not bodies[(unit.page, "3. Terjemahan")].startswith(foto["Terjemahan"]):
+                raise AssertionError(f"foto Terjemahan body is not exact on page {unit.page}")
+            continue
         if bodies[(unit.page, "1. Arab")] != unit.sections["1. Arab"]:
             raise AssertionError(f"Arab body changed on page {unit.page}")
         if unit.page == 58:
