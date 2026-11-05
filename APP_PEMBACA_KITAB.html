@@ -460,7 +460,8 @@ async function openPdf(){
   showError('');
   pdfControls.style.display='none';
   try{
-    const doc = await pdfjs.getDocument({ data: pdfBytes, disableWorker:true }).promise;
+    pdfjs.GlobalWorkerOptions.workerSrc = "https://cdn.jsdelivr.net/npm/pdfjs-dist@4.4.168/legacy/build/pdf.worker.mjs";
+    const doc = await pdfjs.getDocument({ data: pdfBytes }).promise;
     pdfDocRef=doc;
     pdfDocument=doc;
     pageCount=doc.numPages;
@@ -473,7 +474,7 @@ async function openPdf(){
     await renderPage();
   }catch(err){
     console.error(err);
-    showError('PDF tidak dapat dibuka. Coba file PDF lain atau ekspor ulang PDF tersebut.');
+    showError('PDF tidak dapat dibuka. ' + (err && err.message ? '[' + err.message + '] — coba file PDF lain atau ekspor ulang.' : 'Coba file PDF lain atau ekspor ulang PDF tersebut.'));
   }finally{
     pdfLoadingEl.style.display='none';
     saveToStorage();
@@ -663,7 +664,7 @@ async function callTashkeel(text) {
 
   if (mode === 'direct') {
     const key = (tashKey.value || '').trim();
-    if (!key) throw new Error('API key Harfscript belum diisi di Pengaturan Tashkeel.');
+    if (!key) throw new Error('API key Harfscript belum diisi — buka Pengaturan Tashkeel di bawah, lalu tempel key-nya.');
     const res = await fetch('https://api.harfscript.com/v1/diacritize', {
       method: 'POST',
       headers: {
@@ -709,7 +710,12 @@ tashBtn.onclick = async () => {
     saveToStorage();
     setTashStatus('✓ Tashkeel selesai — hasil masuk ke [Teks Arab Berharakat].');
   } catch (e) {
-    setTashStatus('Gagal: ' + (e && e.message ? e.message : e), true);
+    const msg = 'Gagal: ' + (e && e.message ? e.message : e);
+    setTashStatus(msg, true);
+    if (msg.includes('API key')) {
+      const d = document.querySelector('details.settings');
+      if (d) { d.open = true; tashKey.focus(); }
+    }
   } finally {
     tashBtn.disabled = false;
   }
