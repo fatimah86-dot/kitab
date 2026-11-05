@@ -13,7 +13,7 @@ export const runtime = "nodejs";
  *   Respons sukses: { "text": "..." }
  */
 export async function POST(request: Request) {
-  const apiKey = process.env.HARFSCRIPT_API_KEY;
+  const apiKey = process.env.HARFSCRIPT_API_KEY;AQ.Ab8RN6JR2861ObnrfI6NkMnj-OhTQaf8koGV2BOx2E-cv8Le1A
 
   if (!apiKey) {
     return NextResponse.json(
