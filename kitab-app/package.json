@@ -1,0 +1,26 @@
+{
+  "name": "kitab-asrar-ruhaniyyah",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Pembaca 5 lapis Asrār Rūḥāniyyah — Arab, Latin, Terjemahan, Syarah, dan Khususiyah.",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "dev": "vite --host 0.0.0.0",
+    "build": "node scripts/build-data.mjs && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "check": "node_modules/.bin/esbuild scripts/check.mjs --bundle --platform=node --format=esm --jsx=automatic --external:jsdom --external:react --external:react-dom --external:react/jsx-runtime --outfile=.check-tmp.mjs --log-level=warning && node .check-tmp.mjs",
+    "standalone": "node scripts/build-standalone.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/plus-jakarta-sans": "^5.2.5",
+    "@fontsource/amiri": "^5.2.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "jsdom": "^31.0.0",
+    "vite": "^7.0.0"
+  }
+}

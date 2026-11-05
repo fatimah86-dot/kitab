@@ -1,0 +1,65 @@
+name: Publikasikan aplikasi kitab (GitHub Pages)
+
+# Membangun kitab-app/ lalu mempublikasikannya sebagai situs statis,
+# sehingga bisa dibuka dari HP tanpa server dan tanpa komputer.
+#
+# Aktifkan sekali di: Settings → Pages → Build and deployment → Source: GitHub Actions
+# Alamat setelah terbit: https://<pemilik>.github.io/<repo>/
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'kitab-app/**'
+      - 'REVISI_FINAL_5_LAPIS_BERSIH_HAL01-65.md'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: kitab-app/package-lock.json
+
+      - name: Pasang dependensi
+        working-directory: kitab-app
+        run: npm ci
+
+      - name: Bangun data + bundel
+        working-directory: kitab-app
+        run: npm run build
+
+      - name: Uji data, pencarian, dan render
+        working-directory: kitab-app
+        run: npm run check
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: kitab-app/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

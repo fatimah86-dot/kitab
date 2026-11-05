@@ -1,0 +1,65 @@
+01|Anwārusy-Syaikhil-Basyīri|Pembuka
+02|Ihdā'usy-Syaikhil-Basyīri|Pembuka
+03|Ijāzatusy-Syaikhil-Basyīri|Pembuka
+04|Fawā'idu wa Mujarrabātusy-Syaikhil-Basyīri|Pembuka
+05|Fihrisu Mujarrabātis-Syaikhil-Basyīri|Pembuka
+06|Tharīqatul-Maysarah fī Jalbil-Arzāq (1)|Faedah
+07|Tharīqatul-Maysarah fī Jalbil-Arzāq (2)|Faedah
+08|Tharīqatul-Maysarah fī Jalbil-Arzāq (3 — al-Wafqān)|Faedah
+09|Fā'idatun Muḥriqah Thāridah lil-Jinni wal-Maradah (1)|Faedah
+10|Fā'idatun Muḥriqah Thāridah lil-Jinni wal-Maradah (2)|Faedah
+11|Fā'idatun Qāthi'ah li-'Ilājil-Mass (1)|Faedah
+12|Fā'idatun Qāthi'ah li-'Ilājil-Mass (2 — al-Wafq)|Faedah
+13|Az-Zajrul-Qāthi' 'alā Khādimil-Istinzāl (1)|Faedah
+14|Matnuz-Zajril-Qāthi' li-Khādimil-Istinzāl (2)|Faedah
+15|Fā'idah li-Thardi 'Athlūsy (1)|Faedah
+16|Fā'idah li-Thardi 'Athlūsy (2 — al-Wafq)|Faedah
+17|Ad-Durratun-Nūrāniyyah fī 'Ilājil-A'rādh (1)|Faedah
+18|Ad-Durratun-Nūrāniyyah (2 — Wafqul-Jalālah 4×4)|Faedah
+19|Fā'idah fī Tadmīrizh-Zhālim|Faedah
+20|Al-Wafqul-Mutsallats 3×3 li-Tadmīrizh-Zhālim|Faedah
+21|Fā'idatun Mujarrabah li-Qahril-Qarīn|Faedah
+22|As-Saiful-Battār li-Daf'i Maimūnil-Ghaddār (1)|Faedah
+23|As-Saiful-Battār li-Daf'i Maimūnil-Ghaddār (2)|Faedah
+24|As-Saiful-Battār li-Daf'i Maimūnil-Ghaddār (3 — al-Wafq)|Faedah
+25|Fā'idatun Qāthi'ah li-Raddil-Khādim|Faedah
+26|Du'ā'ul-Khā'if|Faedah
+27|Al-Āyātul-'Asyrul-Mubthilāt lin-Naftsi was-Siḥr (1)|Faedah
+28|Al-Āyātul-'Asyrul-Mubthilāt (2 — al-Wafq)|Faedah
+29|Fā'idah fil-Kasyfil-Manāmī (1)|Faedah
+30|Fā'idah fil-Kasyfil-Manāmī (2 — Wafq Mukham-mas 5×5)|Faedah
+31|Da'awātu wa Riyādhātusy-Syaikhil-Basyīri|Doa & Riyadhah
+32|Fihrisu Da'awāti wa Riyādhātis-Syaikhil-Basyīri|Doa & Riyadhah
+33|Muqaddimatun Hāmmatun bil-A'mālir-Rūḥāniyyah|Doa & Riyadhah
+34|Tanbīhul-Labībi fī Da'awāti war-Riyādhāt|Doa & Riyadhah
+35|Da'watut-Tafwīdh|Doa & Riyadhah
+36|Ishrāful-'Ummāril-Masyhūdu bi-Shiḥḥatihī|Doa & Riyadhah
+37|Ad-Durratun-Nāfi'ah lis-Siḥri wa Raddihī (1)|Doa & Riyadhah
+38|Ad-Durratun-Nāfi'ah lis-Siḥri wa Raddihī (2)|Doa & Riyadhah
+39|Da'watut-Taskhīri Nas'alullāhal-Ijābah|Doa & Riyadhah
+40|Ad-Da'watul-Qāhirah|Doa & Riyadhah
+41|Wa Ilaikumut-Taḥshīnul-Mau'ūdu Bihī|Doa & Riyadhah
+42|Da'watu Āyatil-Kursiyyisy-Syarīfah|Doa & Riyadhah
+43|Durūsu 'Ilmil-Ḥarfi wal-Aufāq|Pelajaran
+44|Fihrisu Durūsi 'Ilmil-Ḥarfi wal-Aufāq|Pelajaran
+45|Mabādi'ul-Aufāq (1)|Pelajaran
+46|Mabādi'ul-Aufāq (2)|Pelajaran
+47|Kasyfus-Sitāri 'anil-Mutsallats (1)|Pelajaran
+48|Kasyfus-Sitāri 'anil-Mutsallats (2)|Pelajaran
+49|Kasyfus-Sitāri 'anil-Mutsallats (3)|Pelajaran
+50|Itsbātul-Jumlati li-Istikhrāji Asrārir-Riyādhāt|Pelajaran
+51|Itsbātul-Jumlatiz-Zā'idah li-Istikhrāji Asrārir-Riyādhāt|Pelajaran
+52|Qā'idatu Istikhrāji 'Adadit-Tilāwati li-Kulli Thālib|Pelajaran
+53|At-Tiryāqu li-Ma'rifati Asmā'il-Khāliq (1)|Pelajaran
+54|At-Tiryāqu li-Ma'rifati Asmā'il-Khāliq (2)|Pelajaran
+55|Al-Qā'idatush-Shārimah fī Istikhrāji Khādimis-Suflī|Pelajaran
+56|Asrārul-Rijāli fī Ist'māli Āyātil-Qur'ān (1)|Pelajaran
+57|Asrārul-Rijāli fī Ist'māli Āyātil-Qur'ān (2)|Pelajaran
+58|Asrārul-Rijāli fī Ist'māli Āyātil-Qur'ān (3)|Pelajaran
+59|Asrārul-Rijāli fī Ist'māli Āyātil-Qur'ān (4)|Pelajaran
+60|Asrārul-Rijāli fī Ist'māli Āyātil-Qur'ān (5)|Pelajaran
+61|Al-Washful-Mubīn ba'da Tamwīhil-Mudda'īn|Pelajaran
+62|Al-Jawābusy-Syāfī (1)|Pelajaran
+63|Al-Jāwābusy-Syāfī (2)|Pelajaran
+64|Al-Jawābusy-Syāfī (3)|Pelajaran
+65|Khātimatul-Kitāb|Pelajaran
