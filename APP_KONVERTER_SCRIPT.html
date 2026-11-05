@@ -1,0 +1,457 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kitab Converter — Script ke App HTML</title>
+<style>
+:root{--gold:#d5a82f;--gold-light:#f5df8b;--cream:#fff9e8;--paper:#fffdf7;--maroon:#8f1831;--green:#31785a;--ink:#28231d;--muted:#746a5b;--line:#e6d7ad;--shadow:0 14px 44px #6a4b1530}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;background:radial-gradient(ellipse at 15% 0%,#fff4c4 0,transparent 38%),linear-gradient(135deg,#f7edcf,#fffaf0 45%,#efe0b5);min-height:100vh}
+a{color:var(--maroon)}
+.topbar{position:sticky;top:0;z-index:10;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px clamp(12px,3vw,28px);background:#fffaf0f2;border-bottom:1px solid #d4b65e88;backdrop-filter:blur(12px);flex-wrap:wrap}
+.brand{font-weight:900;color:var(--maroon);letter-spacing:.02em;display:flex;align-items:center;gap:10px}
+.brand small{font-weight:600;color:#76694e}
+.btn{border:1px solid #cda847;background:#fffdf6;color:#684a12;border-radius:999px;padding:9px 14px;font-weight:750;cursor:pointer;text-decoration:none;font-size:.85rem}
+.btn.primary{background:var(--maroon);color:#fff;border-color:var(--maroon)}
+.btn.ghost{background:transparent;border-color:#d8c27d}
+.btn:active{transform:translateY(1px)}
+.layout{display:grid;grid-template-columns:420px 1fr;gap:18px;max-width:1440px;margin:18px auto;padding:0 16px 40px}
+@media(max-width:980px){.layout{grid-template-columns:1fr}}
+.left{position:sticky;top:64px;align-self:start;max-height:calc(100vh - 80px);overflow:auto;padding-right:4px}
+@media(max-width:980px){.left{position:relative;max-height:none;overflow:visible}}
+.card{border:1px solid #d8bf78;border-radius:16px;background:var(--paper);box-shadow:0 8px 22px #75591614;overflow:hidden;margin-bottom:14px}
+.card-head{padding:12px 14px;background:linear-gradient(90deg,#fff0b7,#fff9e9);border-bottom:1px solid #eadba9;display:flex;align-items:center;justify-content:space-between;gap:8px}
+.card-head h3{margin:0;font-size:.82rem;letter-spacing:.08em;text-transform:uppercase;color:#76530e}
+.card-body{padding:14px}
+label{font-size:.78rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#7a6a3f;display:block;margin:10px 0 6px}
+input,select,textarea{width:100%;border:1px solid #dcc78a;background:#fffef7;border-radius:10px;padding:10px 12px;font:inherit;color:var(--ink);outline:none}
+input:focus,select:focus,textarea:focus{border-color:var(--gold);box-shadow:0 0 0 3px #f5df8b66}
+textarea{line-height:1.7;resize:vertical}
+.hint{font-size:.78rem;color:var(--muted);line-height:1.6;margin-top:6px}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.pill{display:inline-flex;align-items:center;gap:6px;border:1px solid #ddc677;background:#fff;border-radius:999px;padding:6px 10px;font-size:.78rem;font-weight:700;color:#83671e}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--gold)}
+.kbd{font-family:ui-monospace,monospace;background:#fff3c2;border:1px solid #d8bf78;border-bottom-width:2px;padding:2px 6px;border-radius:6px;font-size:.78rem}
+.divider{height:1px;background:linear-gradient(90deg,var(--gold),transparent);margin:14px 0}
+.preview-wrap{max-width:980px;margin:0 auto}
+.cover-card{display:grid;grid-template-columns:minmax(220px,280px) 1fr;gap:clamp(18px,3vw,36px);align-items:center;padding:clamp(18px,3vw,32px);border:1px solid #d1ad45;border-radius:20px;background:linear-gradient(125deg,#fffdf6,#fff2c5 54%,#f4d978);box-shadow:var(--shadow);position:relative;overflow:hidden}
+.cover-card:after{content:"";position:absolute;right:-55px;top:-65px;width:210px;height:360px;border:12px double #d6ad40;opacity:.12;transform:rotate(24deg);border-radius:50%}
+.cover-card h1{font-family:Georgia,serif;color:var(--maroon);font-size:clamp(1.6rem,4vw,2.8rem);line-height:1.05;margin:.4rem 0}
+.cover-card h2{font-size:1rem;color:#28644a;margin:.4rem 0}
+.cover-card p{line-height:1.7;color:#4e463b}
+.ornament{color:var(--gold);font-size:1.2rem;letter-spacing:.25em;margin:8px 0}
+.notice{padding:10px 12px;border-left:4px solid var(--maroon);background:#fff5ed;border-radius:4px 10px 10px 4px;color:#5b382a;font-size:.85rem;line-height:1.6}
+.section-title{display:flex;align-items:center;gap:12px;margin:30px 0 12px;color:#684d19;font-size:1rem}
+.section-title:after{content:"";height:1px;background:linear-gradient(90deg,var(--gold),transparent);flex:1}
+.panel{margin:14px 0;border:1px solid #d8bf78;border-radius:14px;background:var(--paper);box-shadow:0 8px 22px #75591614;overflow:hidden}
+.panel-head{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 14px;background:linear-gradient(90deg,#fff0b7,#fff9e9);border-bottom:1px solid #eadba9}
+.panel-head h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.09em;margin:0;color:#76530e}
+.badge{background:#fff;border:1px solid #ddc677;border-radius:999px;padding:4px 8px;color:#83671e;font-size:.7rem;font-weight:800}
+.panel-body{padding:14px 16px}
+.arabic{font-family:"Noto Naskh Arabic","Amiri","Scheherazade New",serif;direction:rtl;text-align:right;font-size:clamp(1.2rem,2.6vw,1.55rem);line-height:2.1;color:#21593f;padding:14px 16px;background:linear-gradient(135deg,#f2f8ef,#fff);border:1px solid #c6d8c3;border-right:5px solid var(--green);border-radius:10px;white-space:pre-wrap;overflow-wrap:anywhere}
+.latin{font-family:Georgia,serif;line-height:1.85;font-size:.95rem;color:#51433a;background:#f7f2e9;border:1px solid #e6ddce;border-radius:10px;padding:12px 14px;white-space:pre-wrap;overflow-wrap:anywhere}
+.translation{line-height:1.75;font-size:.95rem;padding:12px 14px;border-left:4px solid var(--gold);background:#fffdf5;border-radius:4px 10px 10px 4px;white-space:pre-wrap;overflow-wrap:anywhere}
+.commentary{line-height:1.7;color:#5e5548;padding:10px 12px;background:#fbf6e9;border:1px dashed #ceb568;border-radius:10px;font-size:.88rem;white-space:pre-wrap}
+.footer{text-align:center;color:#74664b;padding:20px;border-top:1px solid #d8c27d;margin-top:28px;font-size:.78rem}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+textarea.mono{font-family:ui-monospace,Menlo,Monaco,monospace;font-size:.82rem}
+.empty{border:1.5px dashed #d8bf78;background:#fffef2;border-radius:12px;padding:18px;text-align:center;color:#8a7a52}
+@media print{@page{size:A4;margin:14mm}body{background:#fff}.topbar,.left{display:none!important}.layout{display:block;max-width:none;margin:0;padding:0}.preview-wrap{max-width:none}.cover-card{break-after:page;box-shadow:none}.panel{break-inside:avoid;box-shadow:none}*{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+</style>
+</head>
+<body>
+<nav class="topbar">
+  <div class="brand">✥ KITAB CONVERTER <small>· Script → App HTML</small></div>
+  <div class="toolbar">
+    <button class="btn ghost" onclick="loadContoh()">Muat Contoh</button>
+    <button class="btn ghost" onclick="clearAll()">Bersihkan</button>
+    <button class="btn" onclick="window.print()">Cetak / PDF</button>
+    <button class="btn primary" onclick="unduhHTML()">⬇ Unduh .HTML</button>
+  </div>
+</nav>
+
+<div class="layout">
+  <!-- LEFT: INPUT -->
+  <aside class="left">
+    <div class="card">
+      <div class="card-head"><h3>1 — Identitas Kitab</h3><span class="pill"><i class="dot"></i> Sampul</span></div>
+      <div class="card-body">
+        <label>Judul Arab</label>
+        <input id="judulArab" value="أسرار روحانية" placeholder="أسرار روحانية">
+        <label>Judul Latin</label>
+        <input id="judulLatin" value="Asrār Rūḥāniyyah" placeholder="Asrar Ruhaniyyah">
+        <label>Subjudul</label>
+        <input id="subJudul" value="من مجربات العالم الروحاني — Min Mujarrabāt al-ʿĀlim al-Rūḥānī" placeholder="Subjudul kitab">
+        <label>Pengantar / Catatan Edisi</label>
+        <textarea id="pengantar" rows="3">Panel transkripsi kajian filologi — rasm sumber dipertahankan, tashkīl & transliterasi adalah lapisan editorial. Klaim khasiat adalah materi sumber historis, bukan anjuran praktik.</textarea>
+        <label>Gambar Sampul (opsional)</label>
+        <input id="coverImg" placeholder="assets/cover.jpg atau https://...">
+        <div class="hint">Jika kosong, sampul pakai gradasi emas-gading default.</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-head"><h3>2 — Tempel Script</h3><span class="pill"><i class="dot" style="background:var(--green)"></i> Auto RTL</span></div>
+      <div class="card-body">
+        <label>Mode parsing</label>
+        <select id="mode">
+          <option value="auto" selected>Auto — pisahkan per blok kosong</option>
+          <option value="penanda">Penanda — gunakan === ARAB / LATIN / TERJEMAH / SYARAH</option>
+        </select>
+        <div class="hint">
+          <b>Auto:</b> Tiap paragraf dipisah 1 baris kosong. Sistem deteksi Arab → hijau RTL, Latin → krem, Terjemah → putih. <br>
+          <b>Penanda:</b> Tulis <span class="kbd">=== ARAB</span>, <span class="kbd">=== LATIN</span>, <span class="kbd">=== TERJEMAH</span>, <span class="kbd">=== SYARAH</span> untuk panel eksplisit. Contoh ada di tombol “Muat Contoh”.
+        </div>
+        <label>Script mentah</label>
+        <textarea id="script" rows="18" class="mono" placeholder="Tempel script kamu di sini...
+Contoh:
+طِلَسْمٌ لِلْمَحَبَّةِ
+Tulislah dengan za'faran...
+
+Untuk kasih sayang...
+
+Atau pakai penanda:
+=== ARAB
+النص العربي هنا"></textarea>
+        <div class="row" style="margin-top:10px">
+          <button class="btn primary" style="width:100%" onclick="render()">✨ Render Preview</button>
+          <button class="btn" style="width:100%" onclick="rapikanScript()">Rapikan Script</button>
+        </div>
+        <div class="hint">Tips: Arab terdeteksi otomatis. Untuk rajah/wafaq, tulis dalam blok <span class="kbd">=== RAJAH</span> atau biarkan — akan jadi facsimile box.</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-head"><h3>3 — Opsi Tampilan</h3></div>
+      <div class="card-body">
+        <div class="row">
+          <div>
+            <label>Tema</label>
+            <select id="tema" onchange="applyTema()">
+              <option value="kitab" selected>Kitab — Emas Gading Marun</option>
+              <option value="putih">Putih Bersih</option>
+              <option value="gelap">Gelap — Kajian Malam</option>
+            </select>
+          </div>
+          <div>
+            <label>Ukuran Font Arab</label>
+            <select id="fontArab" onchange="render()">
+              <option value="1.2">Normal</option>
+              <option value="1.55" selected>Besar (default)</option>
+              <option value="1.9">Sangat Besar</option>
+            </select>
+          </div>
+        </div>
+        <label><input type="checkbox" id="showNomor" checked onchange="render()"> Tampilkan nomor panel & badge</label>
+        <label><input type="checkbox" id="showGaris" checked onchange="render()"> Garis pemisah emas antar bab</label>
+        <div class="divider"></div>
+        <div class="hint">Semua perubahan live. Hasil akhir adalah 1 file HTML Offline — tanpa server, bisa dibuka di HP/laptop, bisa di-print jadi PDF A4.</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-head"><h3>Bantuan Cepat</h3></div>
+      <div class="card-body" style="font-size:.84rem;line-height:1.7;color:#5a4d33">
+        <b>Cara pakai:</b><br>
+        1. Isi identitas kitab<br>
+        2. Paste script → Render<br>
+        3. Klik <b>Unduh .HTML</b> → jadi app mandiri<br><br>
+        <b>Format penanda (opsional):</b><br>
+        <span class="kbd">=== JUDUL</span> Judul Bab<br>
+        <span class="kbd">=== ARAB</span> teks Arab<br>
+        <span class="kbd">=== LATIN</span> transliterasi<br>
+        <span class="kbd">=== TERJEMAH</span> terjemahan<br>
+        <span class="kbd">=== SYARAH</span> catatan/syarah<br>
+        <span class="kbd">=== RAJAH</span> wafaq/gambar (akan jadi kotak facsimile)<br>
+        <span class="kbd">=== GAMBAR</span> https://link-gambar.jpg<br>
+        <span class="kbd">=== GAP</span> penanda halaman hilang<br><br>
+        Butuh bantuan? Kirim script-mu, aku rapikan langsung.
+      </div>
+    </div>
+  </aside>
+
+  <!-- RIGHT: PREVIEW -->
+  <main class="preview-wrap" id="previewRoot">
+    <!-- rendered here -->
+  </main>
+</div>
+
+<script>
+const $ = id=>document.getElementById(id);
+let counter=0;
+
+function isArabic(s){
+  return /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]/.test(s);
+}
+function escapeHtml(s){
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function loadContoh(){
+  $('judulArab').value='أسرار روحانية — نموذج';
+  $('judulLatin').value='Asrār Rūḥāniyyah — Contoh Format';
+  $('subJudul').value='من مجربات العالم الروحاني · Panel Contoh untuk Konverter';
+  $('pengantar').value='Ini contoh hasil konverter. Ganti dengan script asli kamu. Klaim khasiat pada naskah adalah materi historis, bukan anjuran.';
+  $('mode').value='penanda';
+  $('script').value=`=== JUDUL
+HALAMAN 06 — طَرِيقَةُ الْمُيَسَّرَةِ فِي جَلْبِ الْأَرْزَاقِ | MAYSARAH 1/3
+
+=== ARAB
+طَرِيقَةُ الْمُيَسَّرَةِ فِي جَلْبِ الْأَرْزَاقِ
+
+إِخْوَتِي فِي اللهِ، أَضَعُ بَيْنَ أَيْدِيكُمْ هَذِهِ الدُّرَّةَ النَّافِعَةَ فِي جَلْبِ الْأَرْزَاقِ، وَرَوَاجِ التِّجَارَةِ، وَهِيَ طَرِيقَةُ الْمُيَسَّرَةِ.
+
+م ر ا د م ر ي م = 535 نَلْفِظُ الْعَدَدَ حَرْفِيًّا
+
+=== LATIN
+Ṭarīqatu al-Muyassarati fī Jalbi al-Arzāq.
+
+Ikhwatī fī Allāhi, aḍaʿu bayna aydīkum hādhihi ad-durrata an-nāfiʿata fī jalbi al-arzāqi, wa rawāji at-tijārah.
+
+م ر ا د م ر ي م = 535 — nalfiẓu al-ʿadada ḥarfiyyan
+
+=== TERJEMAH
+Cara Maysarah untuk Menarik Rezeki.
+
+Wahai saudara-saudaraku karena Allah, aku letakkan di hadapan kalian mutiara yang bermanfaat ini untuk menarik rezeki dan melariskan perdagangan.
+
+Contoh: Murad bin Maryam = 535 — kita ucapkan bilangannya secara huruf.
+
+=== SYARAH
+Kaidah hisab huruf (mizan harfi) untuk wafaq 5×5. Dua huruf zhulmani (خ، ث) disesuaikan menjadi س، ن dengan mizan aighaqi. Tiga baris terakhir adalah taksir huruf ruhani.
+
+=== JUDUL
+HALAMAN 11 — حِجَابٌ لِلْإِنْجَابِ
+
+=== ARAB
+يُكْتَبُ هٰذَا الْحِجَابُ بِالْمِسْكِ وَالزَّعْفَرَانِ عَلَى وَرَقَةٍ، بِشَرْطِ أَنْ يَكُونَا صَائِمَيْنِ فِي ذٰلِكَ الْيَوْمِ.
+
+=== TERJEMAH
+Jimat untuk memperoleh keturunan — ditulis dengan misik dan za'faran. (Teks historis, bukan saran medis)
+
+=== RAJAH
+[Wafaq 4×4 — letakkan gambar wafaq di sini, akan jadi kotak facsimile]
+
+=== JUDUL
+CATATAN EDITORIAL
+
+=== SYARAH
+Rasm sumber dipertahankan. Harakat & transliterasi adalah lapisan editorial. Bagian samar ditandai [غير واضح] dan tidak direka.
+`;
+  render();
+}
+
+function clearAll(){
+  $('script').value='';
+  render();
+}
+function rapikanScript(){
+  let t=$('script').value;
+  t=t.replace(/\r/g,'').replace(/\n{3,}/g,'\n\n').trim();
+  $('script').value=t;
+  render();
+}
+function applyTema(){
+  const v=$('tema').value;
+  if(v==='gelap'){
+    document.documentElement.style.setProperty('--paper','#1e1c16');
+    document.documentElement.style.setProperty('--cream','#2a2418');
+    document.documentElement.style.setProperty('--ink','#f5ecd0');
+    document.documentElement.style.setProperty('--muted','#c8b98f');
+    document.body.style.background='#14120e';
+  } else if(v==='putih'){
+    document.documentElement.style.setProperty('--paper','#ffffff');
+    document.documentElement.style.setProperty('--cream','#fffdf7');
+    document.documentElement.style.setProperty('--ink','#28231d');
+    document.body.style.background='#fff';
+  } else {
+    document.documentElement.style.setProperty('--paper','#fffdf7');
+    document.documentElement.style.setProperty('--cream','#fff9e8');
+    document.documentElement.style.setProperty('--ink','#28231d');
+    document.body.style.background='';
+    document.body.style.backgroundImage='radial-gradient(ellipse at 15% 0%,#fff4c4 0,transparent 38%),linear-gradient(135deg,#f7edcf,#fffaf0 45%,#efe0b5)';
+  }
+  render();
+}
+
+function parseScript(raw, mode){
+  raw=(raw||'').trim();
+  if(!raw) return [];
+  // penanda mode
+  if(mode==='penanda' && raw.includes('===')){
+    const parts=raw.split(/^===\s*/m);
+    const blocks=[];
+    for(let p of parts){
+      p=p.trim(); if(!p) continue;
+      const nl=p.indexOf('\n');
+      let head, body;
+      if(nl===-1){ head=p.toUpperCase().trim(); body=''; } else { head=p.slice(0,nl).trim().toUpperCase(); body=p.slice(nl+1).trim(); }
+      // normalize head
+      if(['ARAB','ARABIC','MATAN','NAS'].includes(head)) head='ARAB';
+      else if(['LATIN','LATN','BACA','WASL'].includes(head)) head='LATIN';
+      else if(['TERJEMAH','TERJEMAHAN','INDONESIA','MAKNA','ARTI'].includes(head)) head='TERJEMAH';
+      else if(['SYARAH','CATATAN','KOMENTAR','TAHQIQ','SARAH','KETERANGAN'].includes(head)) head='SYARAH';
+      else if(['JUDUL','BAB','TITLE','HEADING'].includes(head)) head='JUDUL';
+      else if(['RAJAH','WAFAQ','WAFQ','KHATIM','TABEL','JADWAL'].includes(head)) head='RAJAH';
+      else if(['GAMBAR','IMAGE','FOTO'].includes(head)) head='GAMBAR';
+      else if(['GAP','HILANG','KOSONG'].includes(head)) head='GAP';
+      blocks.push({type:head, content:body || ''});
+    }
+    return blocks;
+  }
+  // auto mode: split by double newline
+  const paras=raw.split(/\n\s*\n/).map(s=>s.trim()).filter(Boolean);
+  return paras.map(p=>{
+    if(isArabic(p.slice(0,120))) return {type:'ARAB', content:p};
+    // heuristic: if mostly italic-like latin with diacritics
+    if(p.length<120 && p===p.toUpperCase() && p.length>4) return {type:'JUDUL', content:p};
+    // default try detect latin vs translation: if contains banyak huruf latin + titik, treat as LATIN if has ṭ/ḥ/ʿ etc
+    if(/[ṭḥṣḍẓʿġāīūẖ]/.test(p) || /^[A-Za-zṬḤṢḌẒʿĞĀĪŪ ]/.test(p) && p.split(' ').length<25 && p.includes('ā')) return {type:'LATIN', content:p};
+    // otherwise translation/commentary
+    return {type:'AUTO', content:p};
+  });
+}
+
+function panelHTML(block, idx){
+  const showNomor=$('showNomor').checked;
+  if(block.type==='JUDUL'){
+    return `<h2 class="section-title">${escapeHtml(block.content)}</h2>`;
+  }
+  if(block.type==='GAP'){
+    return `<section class="panel"><div class="panel-head"><h3>Gap — Pindai tidak tersedia</h3><span class="badge">GAP</span></div><div class="panel-body"><div class="commentary">${escapeHtml(block.content||'Isi halaman ini tidak direka karena pindai tidak ditemukan.') } </div></div></section>`;
+  }
+  if(block.type==='GAMBAR'){
+    const src=block.content.trim().split(/\s+/)[0];
+    return `<section class="panel"><div class="panel-head"><h3>Gambar / Facsimile</h3><span class="badge">IMAGE</span></div><div class="panel-body" style="text-align:center"><img src="${escapeHtml(src)}" alt="Gambar kitab" style="max-width:100%;border:1px solid #d8bf78;border-radius:8px"><div class="hint" style="margin-top:6px">${escapeHtml(block.content.slice(src.length).trim())}</div></div></section>`;
+  }
+  if(block.type==='RAJAH'){
+    return `<section class="panel"><div class="panel-head"><h3>Rajah / Wafaq</h3><span class="badge">RAJAH · FACSIMILE</span></div><div class="panel-body"><div style="border:1.5px dashed #c4a84a;background:#fdf6e0;border-radius:10px;padding:14px;text-align:center;color:#6b5a22;white-space:pre-wrap">${escapeHtml(block.content)}</div><div class="hint" style="margin-top:8px">Rajah dipertahankan sebagai facsimile — tidak ditafsir spekulatif.</div></div></section>`;
+  }
+  if(block.type==='ARAB'){
+    return `<section class="panel"><div class="panel-head"><h3>${showNomor? (idx+1)+'. ':''}Matan Arab bertashkil</h3><span class="badge">النَّصُّ الْعَرَبِيُّ</span></div><div class="panel-body"><div class="arabic" lang="ar">${escapeHtml(block.content)}</div></div></section>`;
+  }
+  if(block.type==='LATIN'){
+    return `<section class="panel"><div class="panel-head"><h3>${showNomor? (idx+1)+'. ':''}Transliterasi &amp; Cara Baca</h3><span class="badge">LATIN · WAṢL</span></div><div class="panel-body"><div class="latin"><i>${escapeHtml(block.content)}</i></div></div></section>`;
+  }
+  if(block.type==='TERJEMAH'){
+    return `<section class="panel"><div class="panel-head"><h3>${showNomor? (idx+1)+'. ':''}Terjemahan</h3><span class="badge">BAHASA INDONESIA</span></div><div class="panel-body"><div class="translation">${escapeHtml(block.content)}</div></div></section>`;
+  }
+  if(block.type==='SYARAH'){
+    return `<section class="panel"><div class="panel-head"><h3>Catatan Filologi / Syarah</h3><span class="badge">TAḤQĪQ</span></div><div class="panel-body"><div class="commentary">${escapeHtml(block.content)}</div></div></section>`;
+  }
+  // AUTO
+  if(isArabic(block.content)){
+    return `<section class="panel"><div class="panel-head"><h3>Matan Arab</h3><span class="badge">النَّصُّ</span></div><div class="panel-body"><div class="arabic" lang="ar">${escapeHtml(block.content)}</div></div></section>`;
+  } else {
+    // decide latin vs terjemah vs syarah by length
+    if(block.content.length<300 && /[A-Z]/.test(block.content.slice(0,10))){
+      return `<section class="panel"><div class="panel-body"><div class="translation">${escapeHtml(block.content)}</div></div></section>`;
+    }
+    return `<section class="panel"><div class="panel-body"><div class="translation">${escapeHtml(block.content)}</div></div></section>`;
+  }
+}
+
+function render(){
+  const judulArab=$('judulArab').value.trim()||'عنوان الكتاب';
+  const judulLatin=$('judulLatin').value.trim()||'Judul Kitab';
+  const subJudul=$('subJudul').value.trim();
+  const pengantar=$('pengantar').value.trim();
+  const coverImg=$('coverImg').value.trim();
+  const raw=$('script').value;
+  const mode=$('mode').value;
+  const blocks=parseScript(raw, mode);
+
+  // font size
+  const fa=$('fontArab').value;
+  document.documentElement.style.setProperty('--arab-size', fa+'rem');
+
+  let html='';
+  // cover
+  html+=`<section class="cover-card">
+    ${coverImg? `<img src="${escapeHtml(coverImg)}" alt="Sampul" style="width:100%;height:auto;max-height:380px;object-fit:contain;border-radius:8px;box-shadow:0 10px 25px #49261038;position:relative;z-index:1">` : `<div style="width:100%;aspect-ratio:3/4;max-height:380px;border:1.5px dashed #c9a84a;border-radius:12px;display:grid;place-items:center;background:#fffef6;color:#9a853f;position:relative;z-index:1"><div style="text-align:center;padding:16px"><div style="font-size:2rem">✦</div><div style="font-weight:800;color:var(--maroon)">SAMPUL</div><div style="font-size:.8rem">Isi “Gambar Sampul” untuk tampilkan cover</div></div></div>`}
+    <div style="position:relative;z-index:1">
+      <div style="text-transform:uppercase;letter-spacing:.16em;font-weight:800;color:#92711a;font-size:.72rem">Edisi Kajian Filologi · App HTML Offline</div>
+      <h1>${escapeHtml(judulArab)}</h1>
+      <h2>${escapeHtml(judulLatin)}</h2>
+      <p style="margin:4px 0 6px">${escapeHtml(subJudul)}</p>
+      <div class="ornament">✦ ━━━ ❖ ━━━ ✦</div>
+      <div class="notice">${escapeHtml(pengantar)}</div>
+      <div style="display:flex;gap:8px;margin-top:10px;flex-wrap:wrap">
+        <span class="pill"><i class="dot"></i> ${blocks.length} blok</span>
+        <span class="pill"><i class="dot" style="background:var(--green)"></i> Siap Cetak A4</span>
+        <span class="pill"><i class="dot" style="background:var(--maroon)"></i> Offline HTML</span>
+      </div>
+    </div>
+  </section>`;
+
+  if(!blocks.length){
+    html+=`<div class="empty" style="margin-top:18px"><b>Belum ada script.</b><br>Tempel script di panel kiri lalu klik <b>Render Preview</b>.<br><span style="font-size:.82rem">Atau klik “Muat Contoh” untuk lihat format.</span></div>`;
+  } else {
+    let idx=0;
+    for(let b of blocks){
+      if(['JUDUL','GAP','GAMBAR','RAJAH'].includes(b.type)){
+        html+=panelHTML(b, idx);
+      } else {
+        html+=panelHTML(b, idx); idx++;
+      }
+    }
+  }
+
+  html+=`<footer class="footer"><div class="ornament">✦ ━━━ ❖ ━━━ ✦</div><div style="font-variant:small-caps;letter-spacing:.08em">Kajian filologi · rasm sumber dipertahankan · editorial tashkīl & transliterasi ditandai</div><div style="margin-top:6px;color:#9a8a63">Dibuat dengan Kitab Converter — 1 file HTML offline · Cetak via browser (Ctrl+P)</div></footer>`;
+
+  $('previewRoot').innerHTML=html;
+  // apply arab font size after render
+  document.querySelectorAll('.arabic').forEach(el=>el.style.fontSize=fa+'rem');
+}
+
+function buildStandaloneHTML(){
+  const preview=document.getElementById('previewRoot').innerHTML;
+  const judulLatin=$('judulLatin').value.trim()||'Kitab';
+  const style=document.querySelector('style').innerHTML;
+  // clone current theme styles via computed
+  const doc=`<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>${judulLatin.replace(/</g,'&lt;')} — App HTML</title>
+<style>${style}</style>
+</head>
+<body>
+<nav class="topbar"><div class="brand">✥ ${judulLatin.replace(/</g,'&lt;')} <span style="font-weight:500;color:#76694e">/ App Offline</span></div><div class="toolbar"><button class="btn" onclick="window.print()">Cetak / Simpan PDF</button></div></nav>
+<main class="preview-wrap" style="max-width:1080px;margin:18px auto;padding:0 16px 40px">
+${preview}
+</main>
+</body>
+</html>`;
+  return doc;
+}
+
+function unduhHTML(){
+  if(!$('script').value.trim()){
+    alert('Script masih kosong. Tempel dulu script kamu.');
+    return;
+  }
+  render();
+  const html=buildStandaloneHTML();
+  const blob=new Blob([html],{type:'text/html;charset=utf-8'});
+  const a=document.createElement('a');
+  const safe=($('judulLatin').value.trim()||'kitab').replace(/[^a-zA-Z0-9\- ]/g,'').replace(/\s+/g,'_').slice(0,40) || 'kitab';
+  a.href=URL.createObjectURL(blob);
+  a.download=safe+'_APP.html';
+  a.click();
+  setTimeout(()=>URL.revokeObjectURL(a.href),2000);
+}
+
+// auto render on input debounce
+let t;
+['judulArab','judulLatin','subJudul','pengantar','coverImg','script','mode','fontArab'].forEach(id=>{
+  const el=$(id); if(!el) return;
+  el.addEventListener('input',()=>{ clearTimeout(t); t=setTimeout(render,400); });
+  el.addEventListener('change',()=>{ clearTimeout(t); t=setTimeout(render,400); });
+});
+render();
+</script>
+</body>
+</html>
